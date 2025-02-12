@@ -1,0 +1,58 @@
+﻿[Script Info]
+Title: English (US)
+ScaledBorderAndShadow: yes
+Original Script: kodansha  [http://www.crunchyroll.com/user/kodansha]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+LayoutResX: 1920
+LayoutResY: 1080
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+Style: Flashback,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00013E12,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+Style: Sign_Basic,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,6,3,2,30,30,54,1
+Style: sign_147_12_Rakuro_Hizutome_,Arial,72,&H00FFFFFF,&H000000FF,&H00D19728,&H00000000,-1,0,0,0,100,100,0,0,3,3,0,9,1185,60,60,1
+Style: Ep_Title,Arial,60,&H00FFFFFF,&H000000FF,&H00000000,&H00BE9829,-1,0,0,0,100,100,0,0,1,0,6,1,132,30,12,1
+Style: sign_9170_86_BLUSH,Comic Sans MS,63,&H00BA9CF8,&H000000FF,&H008857E0,&H00000000,-1,0,0,0,140,140,0,0,1,6,0,2,1461,243,876,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:23:43.61,0:23:47.49,Default,kids,0,0,0,,{\i1}SLF{\i0} Theater!
+Dialogue: 0,0:23:45.49,0:23:50.20,Sign_Basic,sign,0,0,0,,{\an8\fnArial\b1\fs90\c&H7CEDEF&\shad0\bord0}S{\c&H639FF5&}L{\c&HE171BE&}F {\bord6\c&H4C4F52&\3c&HF0F5F5&}Mini
+Dialogue: 0,0:23:47.49,0:23:48.95,Default,Emul,0,0,0,,Mini!
+Dialogue: 0,0:23:53.74,0:23:55.33,Default,Rei,0,0,0,,H-Hello, there!
+Dialogue: 0,0:23:55.33,0:23:56.91,Default,Rei,0,0,0,,I'm Psyger-0!
+Dialogue: 0,0:23:56.91,0:24:01.59,Default,Rei,0,0,0,,I'd like to show you the prologue text that \Nrolls at the start of {\i1}Shangri-La Frontier{\i0},
+Dialogue: 0,0:24:01.59,0:24:04.01,Default,Rei,0,0,0,,which Hizutome-kun skipped!
+Dialogue: 0,0:24:04.01,0:24:05.72,Default,Rei,0,0,0,,Take it away!
+Dialogue: 0,0:24:08.72,0:24:20.52,Sign_Basic,sign,0,0,0,,{\an8\fnTimes New Roman\b1\3c&H362B1B&\shad0\bord12\fs48}The land is vast, and through it is woven the grand tapestry of life...\NWe, who live in the here and now, use the artifacts of the past\Nstill breathing in history and ruins to trace the footsteps of the Divine.
+Dialogue: 0,0:24:20.52,0:24:32.28,Sign_Basic,sign,0,0,0,,{\an8\fnTimes New Roman\b1\3c&H362B1B&\shad0\bord12\fs48}You are a pioneer, appearing with the wind from the east, and though\Nbrought to your knees time and again, you brave ever onward...\NAnd, like the wind, some of you will simply fade away.\NWhat is the purpose of your life?
+Dialogue: 0,0:24:32.28,0:24:42.00,Sign_Basic,sign,0,0,0,,{\an8\fnTimes New Roman\b1\3c&H362B1B&\shad0\bord12\fs48}Will you trust your life to the swing of your sword?\N Will you peer into the depths of the magical arts\Nand seek to master your craft?\N Or will you choose not to fight at all?\N
+Dialogue: 0,0:24:42.00,0:24:51.59,Sign_Basic,sign,0,0,0,,{\an8\fnTimes New Roman\b1\3c&H362B1B&\shad0\bord12\fs48}All options can be found here.\N All options exist within you.\NNow, take your first step.\NExplore the unknown, your future, and your potential.
+Dialogue: 0,0:24:51.59,0:24:59.73,Sign_Basic,sign,0,0,0,,{\an8\fnTimes New Roman\b1\3c&H362B1B&\shad0\bord12\fs48}This is the mission given unto you,\Nthe children of the Divinity born—fallen—upon this land.
+Dialogue: 0,0:25:00.27,0:25:02.06,Default,Rei,0,0,0,,Divine? Divinity?
+Dialogue: 0,0:25:02.06,0:25:04.44,Default,Rei,0,0,0,,There's so much intriguing jargon, isn't there?
+Dialogue: 0,0:25:04.44,0:25:06.57,Default,Rei,0,0,0,,Well, see you again soon!
+Dialogue: 0,0:25:06.57,0:25:07.99,Default,Rei,0,0,0,,Bye-bye!
+Dialogue: 0,0:25:09.95,0:25:13.78,Default,kids,0,0,0,,{\i1}SLF{\i0} Theater!
+Dialogue: 0,0:25:11.53,0:25:16.54,Sign_Basic,sign,0,0,0,,{\an8\fnArial\b1\fs90\c&H7CEDEF&\shad0\bord0}S{\c&H639FF5&}L{\c&HE171BE&}F {\bord6\c&H4C4F52&\3c&HF0F5F5&}Mini
+Dialogue: 0,0:25:13.78,0:25:15.37,Default,Emul,0,0,0,,Mini!
+Dialogue: 0,0:25:18.04,0:25:20.71,Default,Faeria,0,0,0,,Oh, no! I hit him!
+Dialogue: 0,0:25:20.71,0:25:22.21,Default,Sunraku,0,0,0,,What the hell is your problem?!
+Dialogue: 0,0:25:22.21,0:25:24.09,Default,Sunraku,0,0,0,,What are you even doing in that carriage?!
+Dialogue: 0,0:25:24.09,0:25:26.71,Default,Sunraku,0,0,0,,I told you to wait on the dang bench!
+Dialogue: 0,0:25:27.51,0:25:28.59,sign_9170_86_BLUSH,sign,0,0,0,,{\fad(300,0)\c&H8587F2&\bord0}Tee-hee
+Dialogue: 0,0:25:28.59,0:25:30.09,Default,Faeria,0,0,0,,Curse you, dark lord!
+Dialogue: 0,0:25:30.09,0:25:33.01,Default,Faeria,0,0,0,,He's the reason all of this is happening!
+Dialogue: 0,0:25:33.01,0:25:34.43,Default,Sunraku,0,0,0,,But this is all your fault!
+Dialogue: 0,0:25:35.22,0:25:36.31,sign_9170_86_BLUSH,sign,0,0,0,,{\fad(300,0)\c&H8587F2&\bord0}Tee-hee
+Dialogue: 0,0:25:36.31,0:25:37.72,Default,Faeria,0,0,0,,Now I'm mad!
+Dialogue: 0,0:25:37.72,0:25:39.48,Default,Faeria,0,0,0,,I'm not going anywhere with you!
+Dialogue: 0,0:25:39.18,0:25:43.81,Sign_Basic,sign,0,0,0,,{\pos(320.001,330)\c&H253126&\bord0\shad0\b1}Huh?!
+Dialogue: 0,0:25:39.48,0:25:41.35,Default,Sunraku,0,0,0,,You're the one who causes all the problems,
+Dialogue: 0,0:25:41.35,0:25:43.81,Default,Sunraku,0,0,0,,and I'm the one fighting, not you!
+Dialogue: 0,0:25:44.27,0:25:45.36,sign_9170_86_BLUSH,sign,0,0,0,,{\fad(300,0)\c&H8587F2&\bord0}Tee-hee

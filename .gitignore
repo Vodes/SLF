@@ -1,0 +1,6 @@
+_workdir/
+.vsjet/
+*.eac3
+*.aac
+*.m4a
+premux/

@@ -1,0 +1,135 @@
+﻿[Script Info]
+Title: English (US)
+ScaledBorderAndShadow: yes
+Original Script: kodansha  [http://www.crunchyroll.com/user/kodansha]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+LayoutResX: 1920
+LayoutResY: 1080
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+Style: Sign_Basic,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,6,3,2,30,30,54,1
+Style: sign_147_12_Rakuro_Hizutome_,Arial,72,&H00FFFFFF,&H000000FF,&H00D19728,&H00000000,-1,0,0,0,100,100,0,0,3,3,0,9,1185,60,60,1
+Style: Ep_Title,Arial,60,&H00FFFFFF,&H000000FF,&H00000000,&H00BE9829,-1,0,0,0,100,100,0,0,1,0,6,1,132,30,12,1
+Style: sign_9170_86_BLUSH,Comic Sans MS,63,&H00BA9CF8,&H000000FF,&H008857E0,&H00000000,-1,0,0,0,140,140,0,0,1,6,0,2,1461,243,876,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:27.32,0:01:29.82,Sign_Basic,sign,0,0,0,,{\pos(960,450)\fnTimes New Roman\an8\fs60\bord3\shad0\c&HB69189&\3c&HFFFFFF&}~The {\c&HC3AB90&}Prayer {\c&HC5BA96&}of {\c&HC8B894&}the {\c&HBFACA9&}Fairy {\c&HB67883&}Princess~
+Dialogue: 0,0:01:44.00,0:01:47.05,Sign_Basic,sign,0,0,0,,{\c&H040503&\3c&HFFFFFF&\shad0\fs48\pos(897.999,86.001)}Simulated Environment
+Dialogue: 0,0:02:00.73,0:02:03.27,Sign_Basic,sign,0,0,0,,{\c&H3E4039&\3c&HCBC7BB&\shad0\fs54\frx8\fry28\frz348.4\move(366,675,366,-15)}Not Trash Games
+Dialogue: 0,0:02:00.73,0:02:07.73,Sign_Basic,sign,0,0,0,,{\c&H3E4039&\3c&HCBC7BB&\shad0\fs54\frx8\fry28\frz348.4\move(1346.001,896.001,1346.001,206.001,24,2693)}Semi-Redeemable Trash Games
+Dialogue: 0,0:02:02.56,0:02:07.73,Default,sign,0,0,0,,{\pos(1318.456,858)\org(1322.001,858)\fscx89.939\fscy98.866\frz-2.757\fry10.051\frx2.991\fax0.073\fs54\xbord5.4\ybord5.93\xshad0\yshad0\c&H3E4039&\3c&HCBC7BB&\fad(550,0)}Never Play Again
+Dialogue: 0,0:02:21.95,0:02:25.21,sign_147_12_Rakuro_Hizutome_,sign,0,0,0,,{\fad(325,250)\pos(1860,60)\fs90}Rakuro Hizutome
+Dialogue: 0,0:02:22.12,0:02:25.29,Sign_Basic,sign,0,0,0,,{\fad(300,125)\pos(1860,150)\an9\fnArial\b1\bord0\shad4.5\c&HD19728&\4c&HFFFFFF&}High School 2nd-Year
+Dialogue: 0,0:04:11.31,0:04:15.49,Ep_Title,sign,0,0,0,,{\fad(2500,0)}What Do You Play Games For?
+Dialogue: 0,0:04:20.87,0:04:23.12,Sign_Basic,sign,0,0,0,,{\fad(0,275)\c&H7AC6B7&\3c&H2D565A&\shad0\fnTimes New Roman\b1\fs48\pos(1362,702)}Soft & Fluffy Melon Pan
+Dialogue: 0,0:04:20.87,0:04:26.12,Sign_Basic,sign,0,0,0,,{\pos(546.473,574.002)\org(549.999,574.002)\fscx99.11\fscy92.987\frz27.598\fry-1.335\frx8.46\fax0.249\fnArial\b1\xbord0\ybord0\xshad0\yshad0\c&HC589AA&}Towa Amane
+Dialogue: 0,0:04:20.87,0:04:26.12,Sign_Basic,sign,0,0,0,,{\fs36\c&HA493CB&\3c&HCFD1CC&\shad0\frz319.5\fscx80\pos(948,690)}The Celebrity Model on Fashion's Bleeding Edge
+Dialogue: 0,0:04:47.31,0:04:51.31,Sign_Basic,sign,0,0,0,,{\\c&H1A1716&\3c&H6A6662&\shad0\fs60\fnTimes New Roman\b1\an9}Municipal\NMahinoki\NHigh School
+Dialogue: 0,0:05:56.59,0:06:00.84,sign_147_12_Rakuro_Hizutome_,sign,0,0,0,,{\fad(325,0)\pos(60,60)\fs90\an7\3c&H297FCE&}Mana Iwamaki
+Dialogue: 0,0:05:56.75,0:06:00.84,Sign_Basic,sign,0,0,0,,{\fad(300,)\pos(60,150)\an7\fnArial\b1\bord0\shad4.5\c&H297FCE&\4c&HFFFFFF&}Owner of "Rock Roll"
+Dialogue: 0,0:06:07.97,0:06:09.93,sign_147_12_Rakuro_Hizutome_,sign,0,0,0,,{\fad(325,0)\pos(1860,60)\fs90\3c&HA61BD3&}Rei Saiga
+Dialogue: 0,0:06:08.14,0:06:09.93,Sign_Basic,sign,0,0,0,,{\fad(300,)\pos(1860,150)\an9\fnArial\b1\bord0\shad4.5\c&HA61BD3&\4c&HFFFFFF&}High School 2nd-Year
+Dialogue: 0,0:06:23.45,0:06:26.45,sign_9170_86_BLUSH,sign,0,0,0,,BLUSH
+Dialogue: 0,0:08:07.93,0:08:09.01,sign_9170_86_BLUSH,sign,0,0,0,,{\fad(300,0)\c&H8587F2&\bord0}Tee-hee
+Dialogue: 0,0:08:37.66,0:08:38.41,Sign_Basic,sign,0,0,0,,{\pos(320.001,330)\c&H253126&\bord0\shad0\b1}Huh?!
+Dialogue: 0,0:09:40.02,0:09:46.02,Sign_Basic,text,0,0,0,,{\an9\fs54\b1\3c&H6E3E37&\4c&H6E3E37&\shad6\bord1.5\fnArial\c&HD4E6F1&\move(1605,-90,1605,690)}Summer Break Promotion!!\NNow Adding Servers!
+Dialogue: 0,0:12:06.87,0:12:08.00,Sign_Basic,sign,0,0,0,,{\pos(960,632.001)\an8\c&H908961&\3c&HF3EBC6&\shad0}Create New Character
+Dialogue: 0,0:12:10.75,0:12:11.84,Sign_Basic,sign,0,0,0,,{\fs36\an7\pos(60,60)\c&H726F49&\3c&HF2F8CC&\shad0}Brawler (Axes) \N Brawler (Mauls) \N Brawler (Fists) \N Knight (Swords) \N Knight (Longswords) \N Knight (Polearms) \N Knight (Mauls) \N Monk (Fists)
+Dialogue: 0,0:12:11.84,0:12:13.17,Sign_Basic,sign,0,0,0,,{\fs36\an7\pos(60,60)\c&H726F49&\3c&HF2F8CC&\shad0}Monk (Staffs) \N Monk (Mauls) \N Mercenary (Swords) \N Mercenary (Greatswords) \N Mercenary (Longswords) \N Mercenary (Polearms) \N Mercenary (Mauls) \N Mercenary (Bows)\N Mercenary (Twin Swords)
+Dialogue: 0,0:12:13.17,0:12:14.34,Sign_Basic,sign,0,0,0,,{\fs36\an7\pos(60,60)\c&H726F49&\3c&HF2F8CC&\shad0}Bandit (Daggers) \N Bandit (Bows) \N Bandit (Swords) \N Blacksmith (Mauls) \N Archaeologist (Swords) \N Archaeologist (Bows) \N Magician (Staffs) \N Magician (Books) \N Cleric (Staffs) \N Cleric (Mauls) \N Swordsman (Swords) \N Swordsman (Greatswords) \N Swordsman (Longswords)
+Dialogue: 0,0:12:14.34,0:12:15.13,Sign_Basic,sign,0,0,0,,{\fs36\an7\pos(60,60)\c&H726F49&\3c&HF2F8CC&\shad0}Swordsman (Twin Swords) \N Warrior (Swords) \N Warrior (Greatswords) \N Warrior (Longswords) \N Warrior (Axes) \N Warrior (Mauls) \N Warrior (Polearms) \N Warrior (Twin Swords)
+Dialogue: 0,0:12:15.13,0:12:16.47,Sign_Basic,sign,0,0,0,,{\fs36\an7\pos(60,60)\c&H726F49&\3c&HF2F8CC&\shad0}Warrior (Mauls) \N Warrior (Polearms) \N Warrior (Twin Swords) \NBrawler (Sword) \N Brawler (Greatsword) \N Brawler (Longsword)\NBrawler (Axes) \N Brawler (Mauls) \N Brawler (Fists) \N Knight (Swords) \N Knight (Longswords) \N Knight (Polearms) \N Knight (Mauls) \N Monk (Fists)
+Dialogue: 0,0:12:21.30,0:12:22.97,Sign_Basic,sign,0,0,0,,{\fad(625,0)\c&H766D51&\3c&HFCFDDF&\shad0\pos(234,585.999)\b1}Mercenary\N(Twin Swords)
+Dialogue: 0,0:12:24.97,0:12:26.98,Sign_Basic,sign,0,0,0,,{\fs54\b1\an7\pos(60,60)\c&H726F49&\3c&HFCF7DF&\shad0}Swordmaster \N Wanderer \N Optimist \N Obvious Talent
+Dialogue: 0,0:12:38.36,0:12:40.49,Sign_Basic,sign,0,0,0,,{\fs36\an7\pos(60,60)\c&H9C986E&\3c&HF2F5E5&\shad0}Build Type 1-7  \N {\c&HFAFFEA&\3c&HD0C58E&}Musculature \N Face \N Skin \N Eye Shape \N Eye Color \N Nose \N Mouth \N Ears
+Dialogue: 0,0:12:40.49,0:12:41.62,Sign_Basic,sign,0,0,0,,{\fad(250,0)\fs36\an7\pos(60,60)\c&H9C986E&\3c&HF2F5E5&\shad0}All \N {\c&HFAFFEA&\3c&HC6AF95&}Hair Ornament \N Necklace \N Bracelet \N Ring
+Dialogue: 0,0:13:01.05,0:13:04.30,Sign_Basic,sign,0,0,0,,{\fad(0,300)\an7\fs48\c&H877D56&\3c&HEDDFCD&\shad0}Mercenary Twinblade \N Mercenary Twinblade \N Staring Bird Mask \N None \N None \N None \N None \N 9000 Mahni
+Dialogue: 0,0:13:03.76,0:13:05.89,Sign_Basic,sign,0,0,0,,{\pos(1013.436,333.999)\org(1014,333.999)\fscx98.124\fscy99.881\frz-4.686\fry4.053\frx0.68\fax0.01\fs60\u1\xbord5.89\ybord5.99\xshad0\yshad0\c&H91846C&\3c&HF0E3D0&\fad(675,0)}Is this all right?
+Dialogue: 0,0:13:03.76,0:13:05.89,Sign_Basic,sign,0,0,0,,{\pos(1022.001,579.999)\3c&H6F5DCA&\shad0\frz357.1}Try Again          {\3c&HC8F46A&}Confirm
+Dialogue: 0,0:13:26.87,0:13:27.62,Default,sign,0,0,0,,{\an7\fs48\c&H877D56&\3c&HEDDFCD&\shad0}Mercenary Twinblade \N Mercenary Twinblade \N Leather Cap \N Leather Garb \N Leather Belt \N Leather Shoes \N None \N 3000 Mahni
+Dialogue: 0,0:13:27.62,0:13:27.79,Default,sign,0,0,0,,{\an7\fs48\c&H877D56&\3c&HEDDFCD&\shad0}Mercenary Twinblade \N Mercenary Twinblade \N None \N Leather Garb \N Leather Belt \N Leather Shoes \N None \N 3000 Mahni
+Dialogue: 0,0:13:27.79,0:13:27.91,Default,sign,0,0,0,,{\an7\fs48\c&H877D56&\3c&HEDDFCD&\shad0}Mercenary Twinblade \N Mercenary Twinblade \N None \N Leather Garb \N Leather Belt \N Leather Shoes \N None \N 3300 Mahni
+Dialogue: 0,0:13:27.91,0:13:28.04,Default,sign,0,0,0,,{\an7\fs48\c&H877D56&\3c&HEDDFCD&\shad0}Mercenary Twinblade \N Mercenary Twinblade \N None \N Leather Garb \N Leather Belt \N Leather Shoes \N None \N 3600 Mahni
+Dialogue: 0,0:13:28.04,0:13:28.25,Default,sign,0,0,0,,{\an7\fs48\c&H877D56&\3c&HEDDFCD&\shad0}Mercenary Twinblade \N Mercenary Twinblade \N None \N Leather Garb \N Leather Belt \N Leather Shoes \N None \N 4000 Mahni
+Dialogue: 0,0:13:28.25,0:13:28.37,Default,sign,0,0,0,,{\an7\fs48\c&H877D56&\3c&HEDDFCD&\shad0}Mercenary Twinblade \N Mercenary Twinblade \N None \N None \N Leather Belt \N Leather Shoes \N None \N 4400 Mahni
+Dialogue: 0,0:13:28.37,0:13:28.54,Default,sign,0,0,0,,{\an7\fs48\c&H877D56&\3c&HEDDFCD&\shad0}Mercenary Twinblade \N Mercenary Twinblade \N None \N None \N Leather Belt \N Leather Shoes \N None \N 4800 Mahni
+Dialogue: 0,0:13:28.54,0:13:28.66,Default,sign,0,0,0,,{\an7\fs48\c&H877D56&\3c&HEDDFCD&\shad0}Mercenary Twinblade \N Mercenary Twinblade \N None \N None \N Leather Belt \N Leather Shoes \N None \N 5000 Mahni
+Dialogue: 0,0:13:28.66,0:13:28.87,Default,sign,0,0,0,,{\an7\fs48\c&H877D56&\3c&HEDDFCD&\shad0}Mercenary Twinblade \N Mercenary Twinblade \N None \N None \N Leather Belt \N Leather Shoes \N None \N 5400 Mahni
+Dialogue: 0,0:13:28.87,0:13:29.00,Default,sign,0,0,0,,{\an7\fs48\c&H877D56&\3c&HEDDFCD&\shad0}Mercenary Twinblade \N Mercenary Twinblade \N None \N None \N None \N Leather Shoes \N None \N 5800 Mahni
+Dialogue: 0,0:13:29.00,0:13:29.16,Default,sign,0,0,0,,{\an7\fs48\c&H877D56&\3c&HEDDFCD&\shad0}Mercenary Twinblade \N Mercenary Twinblade \N None \N None \N None \N Leather Shoes \N None \N 6000 Mahni
+Dialogue: 0,0:13:29.16,0:13:29.29,Default,sign,0,0,0,,{\an7\fs48\c&H877D56&\3c&HEDDFCD&\shad0}Mercenary Twinblade \N Mercenary Twinblade \N None \N None \N None \N Leather Shoes \N None \N 6400 Mahni
+Dialogue: 0,0:13:29.29,0:13:29.50,Default,sign,0,0,0,,{\an7\fs48\c&H877D56&\3c&HEDDFCD&\shad0}Mercenary Twinblade \N Mercenary Twinblade \N None \N None \N None \N Leather Shoes \N None \N 6800 Mahni
+Dialogue: 0,0:13:29.50,0:13:29.62,Default,sign,0,0,0,,{\an7\fs48\c&H877D56&\3c&HEDDFCD&\shad0}Mercenary Twinblade \N Mercenary Twinblade \N None \N None \N None \N None \N None \N 7200 Mahni
+Dialogue: 0,0:13:29.62,0:13:29.75,Default,sign,0,0,0,,{\an7\fs48\c&H877D56&\3c&HEDDFCD&\shad0}Mercenary Twinblade \N Mercenary Twinblade \N None \N None \N None \N None \N None \N 7500 Mahni
+Dialogue: 0,0:13:29.75,0:13:29.87,Default,sign,0,0,0,,{\an7\fs48\c&H877D56&\3c&HEDDFCD&\shad0}Mercenary Twinblade \N Mercenary Twinblade \N None \N None \N None \N None \N None \N 7700 Mahni
+Dialogue: 0,0:13:29.87,0:13:30.04,Default,sign,0,0,0,,{\an7\fs48\c&H877D56&\3c&HEDDFCD&\shad0}Mercenary Twinblade \N Mercenary Twinblade \N None \N None \N None \N None \N None \N 8000 Mahni
+Dialogue: 0,0:13:30.04,0:13:30.16,Default,sign,0,0,0,,{\an7\fs48\c&H877D56&\3c&HEDDFCD&\shad0}Mercenary Twinblade \N Mercenary Twinblade \N None \N None \N None \N None \N None \N 8400 Mahni
+Dialogue: 0,0:13:30.16,0:13:30.29,Default,sign,0,0,0,,{\an7\fs48\c&H877D56&\3c&HEDDFCD&\shad0}Mercenary Twinblade \N Mercenary Twinblade \N None \N None \N None \N None \N None \N 8900 Mahni
+Dialogue: 0,0:13:30.29,0:13:30.91,Default,sign,0,0,0,,{\an7\fs48\c&H877D56&\3c&HEDDFCD&\shad0}Mercenary Twinblade \N Mercenary Twinblade \N None \N None \N None \N None \N None \N 9000 Mahni
+Dialogue: 0,0:13:30.91,0:13:31.75,Default,sign,0,0,0,,{\an7\fs48\c&H877D56&\3c&HEDDFCD&\shad0}9000 Mahni
+Dialogue: 0,0:13:33.50,0:13:34.50,Sign_Basic,sign,0,0,0,,{\fad(300,0)\pos(1422,882)\c&H1E10AA&\3c&HE1EFE8&\4c&H3325A6&\fnArial\b1\shad\bord9}Tripled!!
+Dialogue: 0,0:13:34.50,0:13:34.54,Sign_Basic,sign,0,0,0,,{\pos(714,843)\org(714,843)\fscx100\fscy100\frz-5\fry-180\frx0\fax0\xbord9\ybord9\xshad0\yshad0\c&HF5F376&\3c&H362E17&}Traveler's Hat
+Dialogue: 0,0:13:34.67,0:13:35.54,Sign_Basic,sign,0,0,0,,{\pos(714,843)\org(714,843)\fscx100\fscy100\frz-5\fry-180\frx0\fax0\xbord9\ybord9\xshad0\yshad0\c&HF5F376&\3c&H362E17&\fad(250,0)}Mercenary's Helm
+Dialogue: 0,0:13:35.67,0:13:36.55,Sign_Basic,sign,0,0,0,,{\pos(714,843)\org(714,843)\fscx100\fscy100\frz-5\fry-180\frx0\xbord9\ybord9\xshad0\yshad0\c&HF5F376&\3c&H362E17&\fad(300,0)}Clergy's Hat
+Dialogue: 0,0:13:36.71,0:13:37.25,Sign_Basic,sign,0,0,0,,{\pos(714,843)\org(714,843)\fscx100\fscy100\frz-5\fry-180\frx0\fax0\xbord9\ybord9\xshad0\yshad0\c&HF5F376&\3c&H362E17&\fad(300,0)}Knight's Helm
+Dialogue: 0,0:13:37.59,0:13:46.26,Default,sign,0,0,0,,{\fad(250,0)\c&HF5F376&\3c&H362E17&\shad0\bord9\pos(980.001,857.001)\frz0.9971}Staring Bird Mask
+Dialogue: 0,0:13:51.52,0:13:53.31,Sign_Basic,sign,0,0,0,,{\pos(291.999,200.001)\an7\b1\bord0\4c&HE4DAC7&\c&HFFFFF9&\frz355.2}Please input name
+Dialogue: 0,0:13:51.52,0:13:53.31,Sign_Basic,sign,0,0,0,,{\an8\c&H886F5E&\bord0\shad0\b1\pos(777.999,378)\frz357.3}Sunraku
+Dialogue: 0,0:13:53.35,0:13:58.15,Sign_Basic,sign,0,0,0,,{\fad(675,325)\fnArial\b1\bord0\shad0\an7\pos(90,375)\3c&H4573F0&\t(1066,1107,1 \bord12)\t(4445,4486,1 \bord0)}Hi{\bord0}zutome {\t(1566,1608,1 \bord12)\t(4445,4486,1 \bord0)}Raku{\bord0}ro
+Dialogue: 0,0:13:54.44,0:13:57.86,Sign_Basic,sign,0,0,0,,{\fad(675,0)\fnArial\b1\bord0\shad0\an7\pos(505.998,0)\c&HF7F9E7&}Hi (Sun)
+Dialogue: 0,0:13:54.44,0:13:57.86,Sign_Basic,sign,0,0,0,,{\fad(675,0)\fnArial\b1\bord0\shad0\an7\c&HF7F9E7&\pos(543.999,462)}Raku
+Dialogue: 0,0:13:57.86,0:13:58.57,Sign_Basic,sign,0,0,0,,{\fad(375,0)\fnArial\b1\bord0\shad0\an4\fs90\pos(240,540)}Sunraku
+Dialogue: 0,0:13:58.57,0:14:04.66,Sign_Basic,sign,0,0,0,,{\an8\bord0\shad6\4c&HD8CFBC&\fnArial\b1\c&HFFFBF8&\move(960,660,960,330,25,4531)}Link established.\NPlease lie down in a safe place.
+Dialogue: 0,0:14:08.70,0:14:12.71,Sign_Basic,sign,0,0,0,,{\an8\fnTimes New Roman\b1\3c&H362B1B&\shad0\bord12\fs48}Long ago, there was a time known as the Divinity. The great and powerful members of the Divine moved on to the next world and disappeared.\NSince then, time has passed.\NWe, the heirs to the Divine will
+Dialogue: 0,0:14:23.97,0:14:28.97,Default,sign,0,0,0,,{\pos(960,702)\an8\fnTimes New Roman\b1\c&H000000&\bord0\shad0}Introduction \N Pioneers, Feel the Night Wind
+Dialogue: 0,0:16:05.28,0:16:17.00,Sign_Basic,sign,0,0,0,,{\fad(0,325)\pos(465,408)\fs30\shad0\c&H807A5B&\3c&HD3CEB6&\bord3}The Rampant Forest
+Dialogue: 0,0:16:05.28,0:16:17.00,Sign_Basic,sign,0,0,0,,{\fad(0,325)\fs30\shad0\c&HD7E168&\3c&HD3CEB6&\bord3\i1\pos(1370.001,670.002)\bord0\fnArial\b1}Sunraku
+Dialogue: 0,0:16:05.28,0:16:17.00,Sign_Basic,sign,0,0,0,,{\fad(0,325)\fs42\shad0\c&H807A5B&\3c&HD3CEB6&\bord3\pos(1566,582)}Firstia
+Dialogue: 0,0:16:37.14,0:16:42.61,Sign_Basic,sign,0,0,0,,{\pos(861.999,360)\fnArial\b1\fs48\i1\shad0\c&HA29C2F&\3c&HF3F1BA&\bord3}Sunraku
+Dialogue: 0,0:16:37.14,0:16:42.61,Sign_Basic,sign,0,0,0,,{\pos(744,446.001)\fs36\an1\bord0\shad0\fscx70}Mercenary (Twin Blade User) {\fs24}Skill Points Remaining: 0
+Dialogue: 0,0:16:37.14,0:16:42.61,Sign_Basic,sign,0,0,0,,{\fs36\an1\bord0\shad0\fscx70\pos(900,532.002)\c&HDAE87F&}Cash on Hand  {\c&HFFFFFF&\1a&H60&}9000 Mahni
+Dialogue: 0,0:16:37.14,0:16:42.61,Sign_Basic,sign,0,0,0,,{\fs36\an7\bord6\shad0\fscx70\c&HDAE87F&\3c&H2A2905&\pos(438,624)}HP: 30\N Stamina: 20\N Strength: 10 \N Dexterity:15 \N Vitality: 3
+Dialogue: 0,0:16:37.14,0:16:42.61,Default,sign,0,0,0,,{\fs36\an7\bord6\shad0\fscx70\c&HDAE87F&\3c&H2A2905&\pos(588,624)}Magic: 10 \N Agility: 10\N Tech: 15 \N Luck: 30
+Dialogue: 0,0:17:06.46,0:17:07.76,Sign_Basic,sign,0,0,0,,{\pos(1528.136,600)\org(1525.998,600)\fscx91.261\fscy98.939\frz2.219\fry-9.234\frx2.945\fax-0.065\fs36\b1\xbord5.48\ybord5.94\xshad0\yshad0\c&HF1F9A5&\3c&H322605&}Mercenary Twinblade
+Dialogue: 0,0:17:36.08,0:17:38.87,Sign_Basic,sign,0,0,0,,{\pos(989.092,710.001)\org(990,710.001)\fscx99.946\fscy92.356\fry-0.667\frx-8.446\fax0.013\b1\xbord6\ybord5.54\xshad0\yshad0\c&H3C5A1C&\3c&H80FF14&}Dropped Item \N {\c&HFBF592&\3c&H3D321F&}Goblin Hand Axe
+Dialogue: 0,0:18:35.34,0:18:36.85,Sign_Basic,sign,0,0,0,,{\pos(1440,540)\c&H6922E5&\b1\bord6\shad0\3a&H80&\3c&H000000&}Vorpal Bunny
+Dialogue: 0,0:19:24.31,0:19:27.31,Sign_Basic,sign,0,0,0,,{\pos(511.747,356.001)\org(513.999,356.001)\fscx93.346\fscy98.467\frz-11.952\fry8.442\frx2.172\fax0.067\fs36\xbord5.6\ybord5.91\xshad0\yshad0\c&H4A5849&\3c&HA5F3F6&}Condition Achieved
+Dialogue: 0,0:19:24.31,0:19:27.31,Sign_Basic,sign,0,0,0,,{\pos(495.752,747.999)\org(498,747.999)\fscx93.997\fscy99.054\frz-6.566\fry7.67\frx2.145\fax0.05\fs48\xbord0\ybord0\xshad0\yshad0\c&H767060&}You Learned\N{\b1\c&HF4F998&}Flash Counter
+Dialogue: 0,0:19:30.82,0:19:35.07,Sign_Basic,sign,0,0,0,,{\c&H4A5849&\3c&HA5F3F6&\shad0\b1\bord9\pos(966,246)}New Skill
+Dialogue: 0,0:19:30.82,0:19:35.07,Sign_Basic,sign,0,0,0,,{\an1\b1\pos(392.001,421.998)\c&HF6F493&\bord0\shad0}Flash Counter
+Dialogue: 0,0:19:30.82,0:19:35.07,Sign_Basic,sign,0,0,0,,{\c&H878A72&\bord0\shad0\pos(960,915)}Bonus added to counters from parry.
+Dialogue: 0,0:19:30.82,0:19:35.07,Sign_Basic,sign,0,0,0,,{\fs54\shad0\b1\c&H000101&\3c&HFFFFFF&\pos(960,1080)}Parry: Deflecting an attack with your weapon
+Dialogue: 0,0:19:53.21,0:19:56.38,Sign_Basic,sign,0,0,0,,{\pos(966,915)\b1\c&H3B28AF&\3c&HEAF8FD&\shad0}Invisibility Bug
+Dialogue: 0,0:19:56.38,0:19:58.64,Sign_Basic,sign,0,0,0,,{\pos(966,915)\b1\c&H3B28AF&\3c&HEAF8FD&\shad0}Clipping Bug
+Dialogue: 0,0:19:58.64,0:19:59.09,Sign_Basic,sign,0,0,0,,{\fad(0,175)\fnComic Sans MS\b1\c&HFEF1D9&\bord1.5\shad0\3c&HABB394&\pos(1332,690)}Swish
+Dialogue: 0,0:19:58.64,0:20:01.14,Sign_Basic,sign,0,0,0,,{\pos(966,915)\b1\c&H3B28AF&\3c&HEAF8FD&\shad0}Hitbox Bug
+Dialogue: 0,0:19:59.14,0:19:59.59,Sign_Basic,sign,0,0,0,,{\fad(0,175)\fnComic Sans MS\b1\c&HFEF1D9&\bord1.5\shad0\3c&HABB394&\pos(864,444)}Swish
+Dialogue: 0,0:19:59.89,0:20:00.35,Sign_Basic,sign,0,0,0,,{\fad(0,175)\fnComic Sans MS\b1\c&HFEF1D9&\bord1.5\shad0\3c&HABB394&\pos(1332,690)}Swish
+Dialogue: 0,0:20:00.39,0:20:00.60,Sign_Basic,sign,0,0,0,,{\fad(0,175)\fnComic Sans MS\b1\c&HFEF1D9&\bord1.5\shad0\3c&HABB394&\pos(864,444)}Swish
+Dialogue: 0,0:20:00.89,0:20:01.10,Sign_Basic,sign,0,0,0,,{\fad(0,175)\fnComic Sans MS\b1\c&HFEF1D9&\bord1.5\shad0\3c&HABB394&\pos(1332,690)}Swish
+Dialogue: 0,0:20:28.79,0:20:31.46,Sign_Basic,sign,0,0,0,,{\pos(960,714)\b1\c&HF7F99D&\3c&H352E12&\bord12\shad0}Spin Slash\N{\b0\c&H8B8770&\bord6\fs54}A spinning slash area attack
+Dialogue: 0,0:20:56.23,0:20:57.74,Sign_Basic,sign,0,0,0,,{\c&H6922E5&\b1\bord9\shad0\3c&H000000&\3a&H80&\pos(1437.999,528)}Vorpal Bunny
+Dialogue: 0,0:21:05.83,0:21:08.75,Sign_Basic,sign,0,0,0,,{\an7\b1\c&HF9F6C6&\bord0\shad0\pos(450,780)}Play Time
+Dialogue: 0,0:21:14.84,0:21:20.51,Sign_Basic,sign,0,0,0,,{\pos(120,60)\an7\3a&H60&\shad0\bord12\b1\c&HFCFE9F&}Vorpal Chopper\N{\fs48\c&HACA693&\b0}Bonus to critical damage.
+Dialogue: 0,0:21:22.05,0:21:27.85,Sign_Basic,sign,0,0,0,,{\fad(0,200)\pos(1239.999,84)\an7\c&HE6E798&\3a&H60&\shad0}Spin Slash \N Flash Counter \N Tap Step \N Screw Pierce
+Dialogue: 0,0:21:27.89,0:21:31.48,Sign_Basic,sign,0,0,0,,{\fad(225,0)\c&H4A5849&\3c&HA5F3F6&\shad0\b1\bord9\pos(966,270)}New Skill
+Dialogue: 0,0:21:27.89,0:21:31.48,Sign_Basic,sign,0,0,0,,{\fad(225,0)\an1\b1\pos(392.001,421.998)\c&HF6F493&\bord0\shad0}Screw Pierce
+Dialogue: 0,0:21:27.89,0:21:31.48,Sign_Basic,sign,0,0,0,,{\fad(225,0)\c&H878A72&\bord0\shad0\pos(960,915)\fs48} Deals a quick strike with a compact weapon\N This attack is powerful but cannot be chained
+Dialogue: 0,0:21:39.03,0:21:40.49,Sign_Basic,sign,0,0,0,,{\fad(175,0)\fs36\shad0\c&H464C42&\3c&HFDFFF9&\bord3\pos(410.001,668.001)}The Rampant Forest
+Dialogue: 0,0:21:39.03,0:21:40.49,Sign_Basic,sign,0,0,0,,{\fad(175,0)\fs54\shad0\c&H464C42&\3c&HFDFFF8&\bord3\pos(1041.999,561.999)}Firstia
+Dialogue: 0,0:21:40.49,0:21:41.74,Sign_Basic,sign,0,0,0,,{\fad(175,0)\fs36\shad0\c&H464C42&\3c&HFDFFF9&\bord3\pos(770.001,664.002)}The Rampant Forest
+Dialogue: 0,0:21:40.49,0:21:41.74,Sign_Basic,sign,0,0,0,,{\fad(175,0)\fs54\shad0\c&H464C42&\3c&HFDFFF8&\bord3\pos(1401.999,558)}Firstia
+Dialogue: 0,0:21:43.91,0:21:47.91,Sign_Basic,sign,0,0,0,,{\fad(425,0)\fs54\shad0\c&H464C42&\3c&HFDFFF8&\bord3\pos(759.999,201.999)}Secondale
+Dialogue: 0,0:21:43.91,0:21:47.91,Sign_Basic,sign,0,0,0,,{\fad(475,0)\fs42\shad0\c&HF3F98B&\3c&HD3CEB6&\bord3\i1\bord0\fnArial\b1\pos(870,570)}Sunraku
+Dialogue: 0,0:22:22.03,0:22:31.91,Sign_Basic,sign,0,0,0,,{\pos(486,216)\an8\b1\fnArial\c&H2C2AEC&\bord9\3a&H60&\shad0\3c&H000050&}Ravenous Python
+Dialogue: 0,0:22:22.03,0:22:31.91,Sign_Basic,sign,0,0,0,,{\an8\b1\c&H2C2AEC&\bord9\3a&H60&\shad0\3c&H000050&\pos(1536,636)}Area Boss
+Dialogue: 0,0:22:22.03,0:22:31.91,Sign_Basic,sign,0,0,0,,{\c&HDEDF9A&\fs36\3a&H60&\shad0\3c&H000050&\pos(1324.002,950.001)}Rec. Level:
+Dialogue: 0,0:22:22.03,0:22:31.91,Sign_Basic,sign,0,0,0,,{\c&HDEDF9A&\fs36\3a&H60&\shad0\3c&H000050&\pos(1356,1030.002)}Rec. Party Size:
+Dialogue: 0,0:23:25.43,0:23:27.68,Sign_Basic,sign,0,0,0,,{\pos(959.645,244.002)\org(956.001,244.002)\fscx98.432\fscy93.886\frz14.924\fry-5.46\frx6.4\fax-0.062\fs60\xbord5.91\ybord5.63\xshad0\yshad0\c&HD1F996&\3c&HFAFFE2&}The Rampant Forest

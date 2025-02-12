@@ -1,0 +1,337 @@
+﻿[Script Info]
+Title: English (US)
+ScaledBorderAndShadow: yes
+Original Script: kodansha  [http://www.crunchyroll.com/user/kodansha]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+LayoutResX: 1920
+LayoutResY: 1080
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+Style: Flashback,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00013E12,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:13.37,0:00:14.62,Default,Faeria,0,0,0,,At last...
+Dialogue: 0,0:00:14.62,0:00:17.25,Default,Faeria,0,0,0,,At last, the dark lord is defeated!
+Dialogue: 0,0:00:42.23,0:00:44.77,Default,Faeria,0,0,0,,You've done it, Sunraku!
+Dialogue: 0,0:00:44.77,0:00:46.28,Default,Faeria,0,0,0,,Thank you!
+Dialogue: 0,0:00:47.74,0:00:51.36,Default,Faeria,0,0,0,,It's been such a long, \Nhard journey, hasn't it?
+Dialogue: 0,0:00:51.36,0:00:52.57,Default,Sunraku,0,0,0,,Yes.
+Dialogue: 0,0:00:54.53,0:00:57.08,Default,Sunraku,0,0,0,,I've been waiting so long \Nfor this very moment...
+Dialogue: 0,0:00:57.58,0:00:58.41,Default,Sunraku,0,0,0,,Faeria.
+Dialogue: 0,0:01:05.46,0:01:07.84,Default,Sunraku,0,0,0,,Now, you can go with the dark lord
+Dialogue: 0,0:01:07.84,0:01:11.51,Default,Sunraku,0,0,0,,straight to hell!
+Dialogue: 0,0:01:22.60,0:01:24.73,Default,Sunraku,0,0,0,,You're the real dark lord here!
+Dialogue: 0,0:01:24.73,0:01:27.32,Default,Sunraku,0,0,0,,You're the real menace to the world!
+Dialogue: 0,0:01:30.07,0:01:31.65,Default,Rakuro,0,0,0,,Heck yeah!
+Dialogue: 0,0:01:31.65,0:01:34.32,Default,Rakuro,0,0,0,,I finally beat {\i1}Failia Chronicle{\i0}!
+Dialogue: 0,0:01:35.07,0:01:38.33,Default,Rakuro,0,0,0,,And I got my revenge \Nfor everything she put me through!
+Dialogue: 0,0:01:38.33,0:01:39.54,Default,Rakuro,0,0,0,,Yeah!
+Dialogue: 0,0:01:40.08,0:01:43.04,Default,Narratror,0,0,0,,In an age where display-based \Ngames are considered retro,
+Dialogue: 0,0:01:43.04,0:01:46.46,Default,Narratror,0,0,0,,and fully immersive VR games \Nhave become the norm...
+Dialogue: 0,0:01:47.05,0:01:49.09,Default,Narrator,0,0,0,,Beneath the small number \Nof works of significance
+Dialogue: 0,0:01:49.09,0:01:51.47,Default,Narrator,0,0,0,,lies a massive pile of releases
+Dialogue: 0,0:01:51.47,0:01:56.68,Default,Narrator,0,0,0,,whose game designs don't live up \Nto their improved graphics technology.
+Dialogue: 0,0:01:57.26,0:02:00.39,Default,Narrator,0,0,0,,They are known as "trash games."
+Dialogue: 0,0:02:01.10,0:02:05.23,Default,Narrator,0,0,0,,Although most people \Nrightfully despise trash games,
+Dialogue: 0,0:02:05.23,0:02:07.73,Default,Narrator,0,0,0,,there are those who gleefully seek them out.
+Dialogue: 0,0:02:07.98,0:02:10.65,Default,Narrator,0,0,0,,We call these people "freaks."
+Dialogue: 0,0:02:10.65,0:02:14.61,Default,Rakuro,0,0,0,,The rumors were true. \NWhat a giant pile of garbage!
+Dialogue: 0,0:02:19.99,0:02:21.79,Default,Narrator,0,0,0,,This man here, Rakuro Hizutome,
+Dialogue: 0,0:02:21.79,0:02:24.58,Default,Narrator,0,0,0,,is one of these freaks.
+Dialogue: 0,0:02:25.71,0:02:27.96,Default,Rakuro,0,0,0,,I feel so free!
+Dialogue: 0,0:02:28.42,0:02:32.47,Default,Rakuro,0,0,0,,Is this how a convict finishing up \Na prison sentence feels?
+Dialogue: 0,0:02:33.38,0:02:36.97,Default,Rakuro,0,0,0,,Now, what trash game will I try next?
+Dialogue: 0,0:02:37.51,0:02:40.56,Default,Narrator,0,0,0,,He is known as the "Trash-Game Hunter."
+Dialogue: 0,0:04:13.11,0:04:15.03,Default,Rakuro,0,0,0,,{\an8}Morning!
+Dialogue: 0,0:04:16.74,0:04:18.36,Default,Rakuro,0,0,0,,Oh, no one's here.
+Dialogue: 0,0:04:28.29,0:04:31.71,Default,Rakuro,0,0,0,,Mom, one of your butterflies got out.
+Dialogue: 0,0:04:31.71,0:04:34.25,Default,Eika,0,0,0,,Oh, drat! Thanks for telling me!
+Dialogue: 0,0:04:34.67,0:04:36.26,Default,Rakuro,0,0,0,,Heading out!
+Dialogue: 0,0:04:37.59,0:04:39.13,Default,Eika,0,0,0,,Have a good day!
+Dialogue: 0,0:04:41.89,0:04:43.72,Default,Students,0,0,0,,Where're you going for summer break?
+Dialogue: 0,0:04:43.72,0:04:45.47,Default,Students,0,0,0,,Heading to Hawaii in two days!
+Dialogue: 0,0:04:45.47,0:04:46.68,Default,Students,0,0,0,,Awesome!
+Dialogue: 0,0:04:46.68,0:04:47.31,Default,Students,0,0,0,,You?
+Dialogue: 0,0:04:47.31,0:04:48.35,Default,Students,0,0,0,,Makuhari.
+Dialogue: 0,0:04:48.35,0:04:49.27,Default,Students,0,0,0,,Going to the game expo?
+Dialogue: 0,0:04:49.27,0:04:50.98,Default,Students,0,0,0,,Hey, great idea!
+Dialogue: 0,0:05:01.28,0:05:03.99,Default,Rei,0,0,0,,E-Excuse me... Hizutome-kun...
+Dialogue: 0,0:05:04.58,0:05:07.29,Default,Rei,0,0,0,,Wh-What have you been up to?
+Dialogue: 0,0:05:07.75,0:05:08.96,Default,Rei,0,0,0,,Th-That's not what I meant!
+Dialogue: 0,0:05:08.96,0:05:12.58,Default,Rei,0,0,0,,I meant to ask... what game are you playing?
+Dialogue: 0,0:05:13.46,0:05:16.21,Default,Rei,0,0,0,,Oh, really? The truth is, I also—
+Dialogue: 0,0:05:20.09,0:05:21.18,Default,Rei,0,0,0,,Okay!
+Dialogue: 0,0:05:31.69,0:05:32.40,Default,Rei,0,0,0,,Hizu—
+Dialogue: 0,0:05:32.40,0:05:33.60,Default,Rakuro's Friend,0,0,0,,'Sup, Rakuro?
+Dialogue: 0,0:05:33.60,0:05:34.44,Default,Rakuro,0,0,0,,Heya.
+Dialogue: 0,0:05:34.44,0:05:36.11,Default,Rakuro's Friend,0,0,0,,Up all night gaming again?
+Dialogue: 0,0:05:36.11,0:05:37.73,Default,Rakuro,0,0,0,,As a matter of fact...
+Dialogue: 0,0:05:37.73,0:05:41.11,Default,Rakuro,0,0,0,,Listen to this, man! \NTalk about a nightmare...
+Dialogue: 0,0:05:41.11,0:05:43.70,Default,Rakuro,0,0,0,,Trashiest trash game ever...
+Dialogue: 0,0:05:53.83,0:05:55.79,Default,Mana,0,0,0,,Summer vacation starts tomorrow, then?
+Dialogue: 0,0:05:57.80,0:05:59.80,Default,Mana,0,0,0,,That should bring in some business, I'll bet.
+Dialogue: 0,0:06:02.43,0:06:03.38,Default,Mana,0,0,0,,Come on in!
+Dialogue: 0,0:06:03.38,0:06:04.97,Default,Mana,0,0,0,,Oh, Rei-chan!
+Dialogue: 0,0:06:06.55,0:06:07.85,Default,Rei,0,0,0,,Hello, there!
+Dialogue: 0,0:06:09.93,0:06:11.43,Default,Mana,0,0,0,,On the way back from practice?
+Dialogue: 0,0:06:11.43,0:06:12.44,Default,Rei,0,0,0,,Yes.
+Dialogue: 0,0:06:16.06,0:06:19.07,Default,Mana,0,0,0,,Sorry, but he's not here today, either.
+Dialogue: 0,0:06:19.73,0:06:22.15,Default,Rei,0,0,0,,O-Oh, I just came to look at the games—
+Dialogue: 0,0:06:22.15,0:06:25.32,Default,Mana,0,0,0,,C'mon, I know you too well \Nfor that little act.
+Dialogue: 0,0:06:26.45,0:06:28.74,Default,Mana,0,0,0,,Aw, you lucky girl!
+Dialogue: 0,0:06:28.74,0:06:30.33,Default,Mana,0,0,0,,Oh, to be young and in love!
+Dialogue: 0,0:06:30.33,0:06:32.33,Default,Rei,0,0,0,,M-Mana-san!
+Dialogue: 0,0:06:32.33,0:06:35.83,Default,Mana,0,0,0,,He's been trying to crack \Nan extra-special trash game,
+Dialogue: 0,0:06:35.83,0:06:38.04,Default,Mana,0,0,0,,so he hasn't been by in a while.
+Dialogue: 0,0:06:38.38,0:06:39.96,Default,Rei,0,0,0,,"Extra-special"?
+Dialogue: 0,0:06:39.96,0:06:41.80,Default,Mana,0,0,0,,That one there's his latest.
+Dialogue: 0,0:06:41.80,0:06:43.84,Default,Mana,0,0,0,,{\i1}Failia Chronicle{\i0}.
+Dialogue: 0,0:06:43.84,0:06:45.72,Default,Mana,0,0,0,,It might take him a bit longer yet.
+Dialogue: 0,0:06:45.72,0:06:48.93,Default,Rei,0,0,0,,Oh, {\i1}Faeria Chronicle Online{\i0}...
+Dialogue: 0,0:06:48.93,0:06:50.89,Default,Rei,0,0,0,,My sister told me about that one.
+Dialogue: 0,0:06:50.89,0:06:52.81,Default,Rei,0,0,0,,She said it was really hard!
+Dialogue: 0,0:06:52.81,0:06:55.35,Default,Mana,0,0,0,,It's a legendary trash game.
+Dialogue: 0,0:06:55.35,0:06:57.69,Default,Mana,0,0,0,,Miserable ally AI,
+Dialogue: 0,0:06:57.69,0:07:00.36,Default,Mana,0,0,0,,utterly absurd enemy attack patterns,
+Dialogue: 0,0:07:00.36,0:07:03.11,Default,Mana,0,0,0,,and more bugs in the code \Nthan you can shake a stick at.
+Dialogue: 0,0:07:03.99,0:07:07.78,Default,Mana,0,0,0,,I hear you need serious skills \Nto even beat the first boss.
+Dialogue: 0,0:07:07.78,0:07:11.70,Default,Mana,0,0,0,,It's caused tons of players to \Nthrow their headsets in frustration!
+Dialogue: 0,0:07:11.70,0:07:13.70,Default,Mana,0,0,0,,On top of that, I've heard
+Dialogue: 0,0:07:13.70,0:07:17.08,Default,Mana,0,0,0,,you gotta fight the final boss \Nin board shorts and a mask!
+Dialogue: 0,0:07:17.46,0:07:19.13,Default,Rei,0,0,0,,Why in the world would you do that?
+Dialogue: 0,0:07:19.13,0:07:20.09,Default,Mana,0,0,0,,No idea.
+Dialogue: 0,0:07:20.09,0:07:23.17,Default,Mana,0,0,0,,I assume it's an efficiency \Nthing or something.
+Dialogue: 0,0:07:23.71,0:07:25.47,Default,Mana,0,0,0,,So? Are you making progress, Rei-chan?
+Dialogue: 0,0:07:26.05,0:07:28.34,Default,Rei,0,0,0,,Yes. I am, but—
+Dialogue: 0,0:07:29.76,0:07:32.72,Default,Rakuro,0,0,0,,Got any decent trash games in?
+Dialogue: 0,0:07:33.10,0:07:35.56,Default,Mana,0,0,0,,Hey! Been a while, Hizutome-kun!
+Dialogue: 0,0:07:36.14,0:07:36.94,Default,Mana,0,0,0,,Oh?
+Dialogue: 0,0:07:37.31,0:07:38.81,Default,Mana,0,0,0,,And... she's gone.
+Dialogue: 0,0:07:40.27,0:07:42.32,Default,Mana,0,0,0,,Oh, nothing.
+Dialogue: 0,0:07:42.32,0:07:45.03,Default,Mana,0,0,0,,Wait, did you beat {\i1}Failia{\i0} already?
+Dialogue: 0,0:07:45.36,0:07:46.61,Default,Rakuro,0,0,0,,You bet!
+Dialogue: 0,0:07:46.61,0:07:48.32,Default,Rakuro,0,0,0,,I took that sucker down!
+Dialogue: 0,0:07:48.32,0:07:49.53,Default,Mana,0,0,0,,How was it?
+Dialogue: 0,0:07:49.53,0:07:52.83,Default,Rakuro,0,0,0,,It was a {\i1}spectacular{\i0} pile of garbage!
+Dialogue: 0,0:07:52.83,0:07:54.62,Default,Mana,0,0,0,,Glad to hear it.
+Dialogue: 0,0:07:54.62,0:07:57.50,Default,Rakuro,0,0,0,,The biggest pile of garbage \Nwas that female lead.
+Dialogue: 0,0:07:57.50,0:08:00.50,Default,Rakuro,0,0,0,,Her name's "Faeria," \Nand she ticked me off to no end!
+Dialogue: 0,0:08:00.92,0:08:03.88,Default,Rakuro,0,0,0,,She's the cause of pretty much every \Nproblem you run into on the journey,
+Dialogue: 0,0:08:03.88,0:08:07.93,Default,Rakuro,0,0,0,,and then she makes the situation worse and \Ngets villagers and party members killed!
+Dialogue: 0,0:08:10.18,0:08:12.14,Flashback,Faeria,0,0,0,,{\an8}Oh, no! I hit him!
+Dialogue: 0,0:08:12.14,0:08:13.89,Flashback,Sunraku,0,0,0,,{\an8}What the hell is your problem?!
+Dialogue: 0,0:08:13.89,0:08:16.85,Flashback,Sunraku,0,0,0,,{\an8}What are you even doing in that carriage?!
+Dialogue: 0,0:08:13.89,0:08:16.85,Default,Rakuro,0,0,0,,And if you expect her to suffer \Nconsequences for any of it...
+Dialogue: 0,0:08:16.85,0:08:18.35,Flashback,Faeria,0,0,0,,Curse you, dark lord!
+Dialogue: 0,0:08:18.35,0:08:21.48,Flashback,Faeria,0,0,0,,He's the reason all of this is happening!
+Dialogue: 0,0:08:23.19,0:08:26.44,Default,Rakuro,0,0,0,,She always finds a way to \Nblame it all on the last boss!
+Dialogue: 0,0:08:26.44,0:08:27.78,Default,Rakuro,0,0,0,,That guy didn't do squat!
+Dialogue: 0,0:08:27.78,0:08:29.16,Default,Rakuro,0,0,0,,You're the real problem here!
+Dialogue: 0,0:08:29.61,0:08:31.32,Default,Rakuro,0,0,0,,The same thing happens anywhere you go,
+Dialogue: 0,0:08:31.32,0:08:33.66,Default,Rakuro,0,0,0,,but if you give her even the tiniest \Nlittle shove to vent your annoyance...
+Dialogue: 0,0:08:34.16,0:08:35.33,Flashback,Faeria,0,0,0,,Now I'm mad!
+Dialogue: 0,0:08:35.33,0:08:37.37,Flashback,Faeria,0,0,0,,I'm not going anywhere with you!
+Dialogue: 0,0:08:38.41,0:08:40.62,Default,Rakuro,0,0,0,,She refuses to move the story along!
+Dialogue: 0,0:08:40.62,0:08:42.33,Default,Rakuro,0,0,0,,The autosave locks you \Ninto that state of affairs,
+Dialogue: 0,0:08:42.33,0:08:44.46,Default,Rakuro,0,0,0,,and it takes three freaking hours \Nto get back in her good graces!
+Dialogue: 0,0:08:44.46,0:08:47.26,Default,Rakuro,0,0,0,,Then there's this, that, \Nand the other thing...
+Dialogue: 0,0:08:47.26,0:08:49.68,Default,Rakuro,0,0,0,,Just thinking about it ticks me off again!
+Dialogue: 0,0:08:50.13,0:08:52.55,Default,Mana,0,0,0,,I'm impressed you didn't throw in the towel.
+Dialogue: 0,0:08:52.55,0:08:54.39,Default,Rakuro,0,0,0,,Oh, but you see, that's how they get you!
+Dialogue: 0,0:08:54.39,0:08:58.27,Default,Rakuro,0,0,0,,In the three minutes between beating the final \Nboss and before the credits start rolling,
+Dialogue: 0,0:08:58.27,0:09:00.31,Default,Rakuro,0,0,0,,I guess because it's technically a cutscene,
+Dialogue: 0,0:09:00.31,0:09:03.81,Default,Rakuro,0,0,0,,you can beat the crap out of Faeria \Nwithout fear of reprisal!
+Dialogue: 0,0:09:04.15,0:09:07.07,Default,Rakuro,0,0,0,,It's so ironic. The more Faeria annoys you,
+Dialogue: 0,0:09:07.07,0:09:09.20,Default,Rakuro,0,0,0,,the more determined you \Nbecome to brave that hell
+Dialogue: 0,0:09:09.20,0:09:12.16,Default,Rakuro,0,0,0,,to experience that three minutes of heaven.
+Dialogue: 0,0:09:12.53,0:09:15.28,Default,Rakuro,0,0,0,,But when that moment finally arrives...
+Dialogue: 0,0:09:16.58,0:09:19.37,Default,Rakuro,0,0,0,,It's as if all that's wiped away!
+Dialogue: 0,0:09:19.37,0:09:21.54,Default,Rakuro,0,0,0,,You feel like you understand \Nwhy you were put on this Earth.
+Dialogue: 0,0:09:21.54,0:09:23.58,Default,Mana,0,0,0,,Glad to hear you had fun.
+Dialogue: 0,0:09:23.58,0:09:27.67,Default,Rakuro,0,0,0,,But since {\i1}Failia{\i0} turned out to be \Nsuch a remarkable trash pile,
+Dialogue: 0,0:09:27.67,0:09:30.22,Default,Rakuro,0,0,0,,I can't think of what to follow it up with.
+Dialogue: 0,0:09:33.97,0:09:35.81,Default,Mana,0,0,0,,In that case,
+Dialogue: 0,0:09:35.81,0:09:38.06,Default,Mana,0,0,0,,why not play something that's \Nnot a trash game for once?
+Dialogue: 0,0:09:38.47,0:09:40.02,Default,Rakuro,0,0,0,,Not a trash game?
+Dialogue: 0,0:09:40.81,0:09:44.73,Default,Mana,0,0,0,,Experiencing the lows in life \Ncan help you appreciate the highs.
+Dialogue: 0,0:09:44.73,0:09:46.52,Default,Mana,0,0,0,,The reverse is true, as well.
+Dialogue: 0,0:09:46.90,0:09:51.32,Default,Mana,0,0,0,,The fully immersive VR game \Nwith over 30 million players...
+Dialogue: 0,0:09:54.16,0:09:56.87,Default,Rakuro,0,0,0,,{\i1}Shangri-La Frontier{\i0}?
+Dialogue: 0,0:10:02.04,0:10:06.13,Default,Mana,0,0,0,,It can be fun to try things designed \Nfor mass appeal now and then.
+Dialogue: 0,0:10:06.54,0:10:07.34,Default,Mana,0,0,0,,Right?
+Dialogue: 0,0:10:10.09,0:10:11.92,Default,Rakuro,0,0,0,,The opposite of a trash game...
+Dialogue: 0,0:10:12.55,0:10:15.51,Default,Rakuro,0,0,0,,A real god-tier game, huh?
+Dialogue: 0,0:10:21.73,0:10:25.52,Default,Rakuro,0,0,0,,{\i1}Shangri-La Frontier{\i0}, AKA {\i0}SLF{\i0}.
+Dialogue: 0,0:10:25.52,0:10:28.36,Default,Rakuro,0,0,0,,It went on the market last spring
+Dialogue: 0,0:10:28.36,0:10:33.15,Default,Rakuro,0,0,0,,and set a Guinness World Record \Nfor simultaneous player log-ins.
+Dialogue: 0,0:10:36.53,0:10:38.33,Default,Rakuro,0,0,0,,The concept is...
+Dialogue: 0,0:10:38.95,0:10:42.08,Default,Rakuro,0,0,0,,A colony fleet that came from space died out,
+Dialogue: 0,0:10:42.08,0:10:45.62,Default,Rakuro,0,0,0,,but not before leaving a new society behind.
+Dialogue: 0,0:10:45.62,0:10:47.96,Default,Rakuro,0,0,0,,Thousands of years later,
+Dialogue: 0,0:10:47.96,0:10:54.05,Default,Rakuro,0,0,0,,the PCs are living their lives \Nat roughly medieval tech levels.
+Dialogue: 0,0:10:54.05,0:10:57.34,Default,Rakuro,0,0,0,,A setup that allows for effortless \Ninclusion of sci-fi elements...
+Dialogue: 0,0:10:57.68,0:10:59.39,Default,Rakuro,0,0,0,,Unlike {\i1}Failia{\i0}, which is so bad
+Dialogue: 0,0:10:59.39,0:11:02.43,Default,Rakuro,0,0,0,,the haters find themselves desperately \Nsearching for redeeming features,
+Dialogue: 0,0:11:02.98,0:11:05.31,Default,Rakuro,0,0,0,,this game is so beloved that its few haters
+Dialogue: 0,0:11:05.31,0:11:07.94,Default,Rakuro,0,0,0,,are completely drowned out \Nby tens of thousands of fans.
+Dialogue: 0,0:11:26.58,0:11:29.34,Default,Narrator,0,0,0,,Utopia Entertainment Software.
+Dialogue: 0,0:11:29.34,0:11:31.84,Default,Narrator,0,0,0,,"UES" for short.
+Dialogue: 0,0:11:31.84,0:11:35.09,Default,Narrator,0,0,0,,Founded by the genius \Nprogrammer Tsukuyo Tsukuri,
+Dialogue: 0,0:11:35.09,0:11:38.76,Default,Narrator,0,0,0,,who developed the fully \Nimmersive VR game system,
+Dialogue: 0,0:11:38.76,0:11:41.64,Default,Narrator,0,0,0,,it's a leader in the fields \Nof software development,
+Dialogue: 0,0:11:41.64,0:11:44.18,Default,Narrator,0,0,0,,hardware, and Internet service provision.
+Dialogue: 0,0:11:45.02,0:11:48.56,Default,Rakuro,0,0,0,,If {\i1}SLF{\i0} was produced in-house at UES,
+Dialogue: 0,0:11:48.56,0:11:50.94,Default,Rakuro,0,0,0,,there's no way it can be bad.
+Dialogue: 0,0:11:51.61,0:11:54.99,Default,Rakuro,0,0,0,,How long's it been since I played \Nsomething that wasn't a trash game?
+Dialogue: 0,0:11:59.99,0:12:02.20,Default,Rakuro,0,0,0,,I did log in, right?
+Dialogue: 0,0:12:08.46,0:12:10.75,Default,Rakuro,0,0,0,,Looks like I pick my job first.
+Dialogue: 0,0:12:12.21,0:12:14.05,Default,Rakuro,0,0,0,,Wow, look at that!
+Dialogue: 0,0:12:14.05,0:12:15.84,Default,Rakuro,0,0,0,,How many kinds are there?
+Dialogue: 0,0:12:19.39,0:12:22.97,Default,Rakuro,0,0,0,,A twinblade mercenary \Nsounds pretty flexible.
+Dialogue: 0,0:12:23.31,0:12:24.97,Default,Rakuro,0,0,0,,Next, origin...
+Dialogue: 0,0:12:27.48,0:12:31.77,Default,Rakuro,0,0,0,,"Wanderer" builds defense slowly, \Nbut gets bonuses to luck.
+Dialogue: 0,0:12:32.15,0:12:36.36,Default,Rakuro,0,0,0,,Luck affects your critical chance and item \Ndrop rate in this game, so I'll take that.
+Dialogue: 0,0:12:36.78,0:12:38.36,Default,Rakuro,0,0,0,,Next, to design my character!
+Dialogue: 0,0:12:38.82,0:12:41.16,Default,Rakuro,0,0,0,,Wow, I can even choose race and body type!
+Dialogue: 0,0:12:41.16,0:12:43.49,Default,Rakuro,0,0,0,,I can even start the game with accessories?!
+Dialogue: 0,0:12:47.16,0:12:48.41,Default,Rakuro,0,0,0,,Chill out, man!
+Dialogue: 0,0:12:48.41,0:12:51.50,Default,Rakuro,0,0,0,,You've been so poisoned by those \Nsuper-limited trash games,
+Dialogue: 0,0:12:51.50,0:12:53.42,Default,Rakuro,0,0,0,,you're getting blown away \Nby silly minor stuff!
+Dialogue: 0,0:12:53.79,0:12:54.92,Default,Rakuro,0,0,0,,Okay!
+Dialogue: 0,0:12:54.92,0:12:58.09,Default,Rakuro,0,0,0,,Time to go hardcore on character \Ndesign for the first time in forever!
+Dialogue: 0,0:13:08.89,0:13:10.89,Default,Narrator,0,0,0,,To protect Rakuro's good name,
+Dialogue: 0,0:13:10.89,0:13:12.98,Default,Narrator,0,0,0,,I'll explain this state of affairs.
+Dialogue: 0,0:13:12.98,0:13:16.53,Default,Narrator,0,0,0,,He's not into freak fashion \Nor anything like that.
+Dialogue: 0,0:13:16.53,0:13:18.40,Default,Narrator,0,0,0,,His playstyle consists of
+Dialogue: 0,0:13:18.90,0:13:22.78,Default,Narrator,0,0,0,,ignoring armor in favor of getting \Nthe best weapons possible.
+Dialogue: 0,0:13:23.12,0:13:25.33,Default,Narrator,0,0,0,,These weapons are costly, of course,
+Dialogue: 0,0:13:25.33,0:13:26.87,Default,Narrator,0,0,0,,but in {\i0}SLF{\i1}, amazingly,
+Dialogue: 0,0:13:27.24,0:13:30.83,Default,Narrator,0,0,0,,you're given the option to sell your starter \Nequipment during character creation!
+Dialogue: 0,0:13:31.75,0:13:34.17,Default,Narrator,0,0,0,,{\an8}And you can make quite a profit!
+Dialogue: 0,0:13:35.84,0:13:38.38,Default,Rakuro,0,0,0,,If I wanna hide my face...
+Dialogue: 0,0:13:38.38,0:13:40.34,Default,Rakuro,0,0,0,,This mask's my only option, huh?
+Dialogue: 0,0:13:40.34,0:13:42.22,Default,Rakuro,0,0,0,,Still, in a big-time game like this,
+Dialogue: 0,0:13:42.22,0:13:46.26,Default,Rakuro,0,0,0,,it'd be pretty awkward to play \Nhalf-naked if everyone could see my face.
+Dialogue: 0,0:13:46.60,0:13:49.52,Default,Narrator,0,0,0,,This was, therefore, the inevitable result.
+Dialogue: 0,0:13:50.06,0:13:53.31,Default,Rakuro,0,0,0,,Player name... Sunraku.
+Dialogue: 0,0:13:53.81,0:13:58.07,Default,Narrator,0,0,0,,Incidentally, Rakuro is the type of player who \Nuses the same name in every game he plays.
+Dialogue: 0,0:13:59.15,0:14:03.07,Default,Game Voice,0,0,0,,{\i1}Link established. \NPlease lie down in a safe place.
+Dialogue: 0,0:14:04.74,0:14:07.49,Default,Rakuro,0,0,0,,Okay! All ready to go.
+Dialogue: 0,0:14:09.04,0:14:11.37,Default,Rakuro,0,0,0,,Hey, a prologue.
+Dialogue: 0,0:14:11.37,0:14:12.71,Default,Rakuro,0,0,0,,Let's skip that...
+Dialogue: 0,0:14:18.00,0:14:20.71,Default,Rakuro,0,0,0,,Okay, show me the power
+Dialogue: 0,0:14:21.09,0:14:23.22,Default,Rakuro,0,0,0,,of a god-tier game!
+Dialogue: 0,0:14:45.11,0:14:46.24,Default,Sunraku,0,0,0,,A forest?
+Dialogue: 0,0:15:01.46,0:15:02.97,Default,Sunraku,0,0,0,,Awesome!
+Dialogue: 0,0:15:02.97,0:15:05.93,Default,Sunraku,0,0,0,,Moving around feels \Npretty much like real life!
+Dialogue: 0,0:15:11.97,0:15:13.23,Default,Sunraku,0,0,0,,I can run!
+Dialogue: 0,0:15:13.93,0:15:15.31,Default,Sunraku,0,0,0,,I can grab!
+Dialogue: 0,0:15:15.31,0:15:16.31,Default,Sunraku,0,0,0,,I can climb!
+Dialogue: 0,0:15:19.94,0:15:22.99,Default,Sunraku,0,0,0,,{\i1}Failia{\i0} was so awkward to move around in...
+Dialogue: 0,0:15:23.36,0:15:25.90,Default,Sunraku,0,0,0,,Actually, it feels like \Nan insult to compare them.
+Dialogue: 0,0:15:27.53,0:15:30.53,Default,Sunraku,0,0,0,,Whoa! It's huge!
+Dialogue: 0,0:15:38.67,0:15:41.25,Default,Sunraku,0,0,0,,So this is the world of {\i1}SLF{\i0}...
+Dialogue: 0,0:15:46.93,0:15:49.43,Default,Sunraku,0,0,0,,So... where am I, exactly?
+Dialogue: 0,0:15:49.43,0:15:55.10,Default,Sunraku,0,0,0,,Don't games like these usually start you \Noff in a tutorial town for beginners?
+Dialogue: 0,0:15:55.52,0:15:57.27,Default,Narrator,0,0,0,,What Sunraku didn't realize
+Dialogue: 0,0:15:57.27,0:16:00.27,Default,Narrator,0,0,0,,is that those who choose \N"Wanderer" as their origin
+Dialogue: 0,0:16:00.27,0:16:05.28,Default,Narrator,0,0,0,,will start out at a random \Npoint in the beginners' area.
+Dialogue: 0,0:16:05.28,0:16:08.61,Default,Sunraku,0,0,0,,This starter map looks pretty basic.
+Dialogue: 0,0:16:08.95,0:16:10.57,Default,Sunraku,0,0,0,,Let's see...
+Dialogue: 0,0:16:10.57,0:16:13.54,Default,Sunraku,0,0,0,,This is "The Rampant Forest,"
+Dialogue: 0,0:16:13.54,0:16:16.75,Default,Sunraku,0,0,0,,and to the east is \Nthe starting town, "Firstia."
+Dialogue: 0,0:16:19.92,0:16:21.17,Default,Sunraku,0,0,0,,Guess that's it.
+Dialogue: 0,0:16:21.17,0:16:24.17,Default,Sunraku,0,0,0,,Okay, I'll head roughly in that \Ndirection while I check things out!
+Dialogue: 0,0:16:28.88,0:16:31.18,Default,Sunraku,0,0,0,,I can even land properly!
+Dialogue: 0,0:16:31.18,0:16:33.60,Default,Sunraku,0,0,0,,I know this stuff should go without saying,
+Dialogue: 0,0:16:33.60,0:16:36.10,Default,Sunraku,0,0,0,,but actually getting to \Nplay it feels so good!
+Dialogue: 0,0:16:37.68,0:16:39.44,Default,Sunraku,0,0,0,,Vitality: 3.
+Dialogue: 0,0:16:39.44,0:16:42.61,Default,Sunraku,0,0,0,,Figures I'd have low defense with \Nthe half-naked thing going on...
+Dialogue: 0,0:16:42.61,0:16:47.11,Default,Sunraku,0,0,0,,We'll have to see how far \Nthat high luck stat gets me.
+Dialogue: 0,0:16:56.12,0:16:58.16,Default,Sunraku,0,0,0,,Right as I start playing?!
+Dialogue: 0,0:16:59.46,0:17:01.04,Default,Sunraku,0,0,0,,A Goblin, huh?
+Dialogue: 0,0:17:01.63,0:17:03.09,Default,Sunraku,0,0,0,,In that case...
+Dialogue: 0,0:17:03.71,0:17:07.76,Default,Sunraku,0,0,0,,Let's see what this combat engine's made of!
+Dialogue: 0,0:17:29.24,0:17:31.20,Default,Sunraku,0,0,0,,Wow, a one-hit kill?
+Dialogue: 0,0:17:31.20,0:17:33.28,Default,Sunraku,0,0,0,,But it's just a scrub enemy \Nin the intro, I guess.
+Dialogue: 0,0:17:33.82,0:17:36.08,Default,Sunraku,0,0,0,,Hey, I leveled up!
+Dialogue: 0,0:17:39.16,0:17:42.04,Default,Sunraku,0,0,0,,Says it can be dual-wielded, \Nso it's an option...
+Dialogue: 0,0:17:42.50,0:17:45.00,Default,Sunraku,0,0,0,,But its durability is already down to half.
+Dialogue: 0,0:17:45.00,0:17:47.38,Default,Sunraku,0,0,0,,Probably won't last much longer, then.
+Dialogue: 0,0:17:52.22,0:17:56.39,Default,Sunraku,0,0,0,,{\i1}Monster weaknesses, \Npatterns, and item drops...
+Dialogue: 0,0:17:56.39,0:17:58.64,Default,Sunraku,0,0,0,,{\i1}There's a lot to learn here.
+Dialogue: 0,0:17:58.97,0:18:03.02,Default,Sunraku,0,0,0,,{\i1}Trash game or god-tier game, you \Nget this feeling everywhere...
+Dialogue: 0,0:18:03.98,0:18:07.44,Default,Sunraku,0,0,0,,{\i1}The elation of diving \Nhead-first into a new world...
+Dialogue: 0,0:18:07.44,0:18:10.15,Default,Sunraku,0,0,0,,{\i1}You just can't get that in real life!
+Dialogue: 0,0:18:11.24,0:18:14.91,Default,Sunraku,0,0,0,,Okay, let's not forget to enjoy this!
+Dialogue: 0,0:18:31.21,0:18:33.09,Default,Sunraku,0,0,0,,Well, would you look at that?
+Dialogue: 0,0:18:33.72,0:18:35.64,Default,Sunraku,0,0,0,,One hit from that could put me down.
+Dialogue: 0,0:18:55.03,0:18:57.53,Default,Sunraku,0,0,0,,One critical won't do it for this one, huh?!
+Dialogue: 0,0:19:03.87,0:19:06.04,Default,Sunraku,0,0,0,,Is this all you've got, god-tier game?
+Dialogue: 0,0:19:06.79,0:19:09.34,Default,Sunraku,0,0,0,,If you go for the neck \Nwith every single pass,
+Dialogue: 0,0:19:09.34,0:19:11.05,Default,Sunraku,0,0,0,,I'm gonna figure out what you're doing.
+Dialogue: 0,0:19:14.09,0:19:15.38,Default,Sunraku,0,0,0,,Look at all that EXP!
+Dialogue: 0,0:19:15.38,0:19:17.43,Default,Sunraku,0,0,0,,He was a tough little guy, huh?
+Dialogue: 0,0:19:18.18,0:19:20.10,Default,Sunraku,0,0,0,,No weapon drops, though, huh?
+Dialogue: 0,0:19:20.10,0:19:23.85,Default,Sunraku,0,0,0,,I wanted that knife! \NI bet it's powerful as heck!
+Dialogue: 0,0:19:25.81,0:19:27.31,Default,Sunraku,0,0,0,,"Condition Achieved"?
+Dialogue: 0,0:19:28.11,0:19:30.82,Default,Sunraku,0,0,0,,I can learn skills by taking \Ncertain actions, huh?
+Dialogue: 0,0:19:31.73,0:19:34.40,Default,Sunraku,0,0,0,,{\an8}Hey, yeah, I haven't used any skills yet...
+Dialogue: 0,0:19:35.07,0:19:37.78,Default,Sunraku,0,0,0,,This game's pretty well designed.
+Dialogue: 0,0:19:38.24,0:19:41.70,Default,Sunraku,0,0,0,,Since a player's own skill \Nsupplements your dodges and parries,
+Dialogue: 0,0:19:41.70,0:19:44.66,Default,Sunraku,0,0,0,,I can fight pretty well against \Neven higher-level enemies.
+Dialogue: 0,0:19:45.12,0:19:48.96,Default,Sunraku,0,0,0,,That makes me wanna try a bunch \Nof different fighting styles!
+Dialogue: 0,0:19:49.33,0:19:50.13,Default,Sunraku,0,0,0,,Hang on!
+Dialogue: 0,0:19:50.13,0:19:53.21,Default,Sunraku,0,0,0,,Have I been played this whole time \Nwithout encountering a single bug?!
+Dialogue: 0,0:19:53.21,0:19:56.38,Default,Player,0,0,0,,{\an8}What's going on? I can't see anything!
+Dialogue: 0,0:19:56.38,0:19:58.64,Default,Player,0,0,0,,{\an8}Hey, I found a hidden world!
+Dialogue: 0,0:19:58.64,0:20:01.14,Default,Player,0,0,0,,{\an8}Darn it! Why can't I hit you?!
+Dialogue: 0,0:20:01.60,0:20:04.39,Default,Sunraku,0,0,0,,Awesome! That's a god-tier game for you!
+Dialogue: 0,0:20:05.52,0:20:09.69,Default,Sunraku,0,0,0,,I honestly wasn't sure if I could enjoy \Na bug-free game after all this time,
+Dialogue: 0,0:20:09.69,0:20:12.86,Default,Sunraku,0,0,0,,but I can really have a good time with this!
+Dialogue: 0,0:20:12.86,0:20:16.15,Default,Sunraku,0,0,0,,I guess they don't call it \N"god-tier" for nothing!
+Dialogue: 0,0:20:16.61,0:20:17.90,Default,Sunraku,0,0,0,,Okay!
+Dialogue: 0,0:20:17.90,0:20:21.66,Default,Sunraku,0,0,0,,I'm gonna get me a tough \Nbunny's kitchen knife!
+Dialogue: 0,0:20:21.66,0:20:24.74,Default,Sunraku,0,0,0,,Where are you, bunny?!
+Dialogue: 0,0:20:40.64,0:20:42.60,Default,Sunraku,0,0,0,,That skill's kinda crummy.
+Dialogue: 0,0:20:42.60,0:20:44.76,Default,Sunraku,0,0,0,,The big flashy swing \Nleaves me open for too long.
+Dialogue: 0,0:20:46.02,0:20:47.68,Default,Sunraku,0,0,0,,Hey, finally leveled again.
+Dialogue: 0,0:20:48.02,0:20:51.98,Default,Sunraku,0,0,0,,I should probably allocate \Nmy stat points already...
+Dialogue: 0,0:20:54.94,0:21:00.41,Default,Sunraku,0,0,0,,I wish that Vorpal Bunny thing \Nhad a higher spawn rate, though...
+Dialogue: 0,0:21:00.41,0:21:02.49,Default,Sunraku,0,0,0,,Guess it was a rare enemy, huh?
+Dialogue: 0,0:21:02.99,0:21:07.41,Default,Sunraku,0,0,0,,It took me forever to get \Na matching set of those knives!
+Dialogue: 0,0:21:10.08,0:21:12.17,Default,Sunraku,0,0,0,,Since I beat about fifty of 'em...
+Dialogue: 0,0:21:12.17,0:21:15.30,Default,Sunraku,0,0,0,,I guess that's a drop rate of about 5 percent or so?
+Dialogue: 0,0:21:15.59,0:21:17.67,Default,Sunraku,0,0,0,,This thing's pretty darn rare, huh?
+Dialogue: 0,0:21:17.67,0:21:20.30,Default,Sunraku,0,0,0,,They've got better stats \Nthan the Mercenary Twinblade,
+Dialogue: 0,0:21:20.30,0:21:22.05,Default,Sunraku,0,0,0,,so I'd better take good care of 'em.
+Dialogue: 0,0:21:22.51,0:21:25.43,Default,Sunraku,0,0,0,,And I learned a few new skills...
+Dialogue: 1,0:21:25.43,0:21:28.39,Default,Sunraku,0,0,0,,But Screw Pierce seems \Nlike the only useful one.
+Dialogue: 1,0:21:28.39,0:21:30.81,Default,Sunraku,0,0,0,,{\an8}The others seem more \N"better than nothing" tier.
+Dialogue: 1,0:21:31.98,0:21:36.78,Default,Sunraku,0,0,0,,Still, I'm not gonna gain any more levels \Nwith the scrub-tier monsters around here.
+Dialogue: 0,0:21:36.78,0:21:38.61,Default,Sunraku,0,0,0,,I'd better move on.
+Dialogue: 0,0:21:39.74,0:21:42.91,Default,Sunraku,0,0,0,,I've strayed pretty far away \Nfrom the starting town, huh?
+Dialogue: 0,0:21:42.91,0:21:47.08,Default,Sunraku,0,0,0,,At this point, I'm a lot closer \Nto the next one, Secondale.
+Dialogue: 0,0:21:47.54,0:21:49.16,Default,Sunraku,0,0,0,,To get to Secondale...
+Dialogue: 0,0:21:49.16,0:21:52.62,Default,Sunraku,0,0,0,,I've gotta cross this bridge \Nover the ravine, huh?
+Dialogue: 0,0:22:02.09,0:22:04.01,Default,Sunraku,0,0,0,,Aha, I see.
+Dialogue: 0,0:22:08.60,0:22:12.73,Default,Sunraku,0,0,0,,I gotta beat you if \NI wanna cross. Is that it?
+Dialogue: 0,0:22:17.57,0:22:18.53,Default,Sunraku,0,0,0,,Sounds good to me.
+Dialogue: 0,0:22:19.28,0:22:22.03,Default,Sunraku,0,0,0,,Looks like I've got me \Na real challenge at last.
+Dialogue: 0,0:22:23.07,0:22:26.32,Default,Sunraku,0,0,0,,{\an8}Soloing a boss meant for a party, huh?
+Dialogue: 0,0:22:26.74,0:22:29.29,Default,Sunraku,0,0,0,,{\an8}With the great ratings {\i1}SLF{\i0} gets,
+Dialogue: 0,0:22:29.29,0:22:31.91,Default,Sunraku,0,0,0,,{\an8}it probably won't be dishing out \Nany silly bug attacks.
+Dialogue: 0,0:22:31.91,0:22:34.92,Default,Sunraku,0,0,0,,{\i1}A snake monster's attacks \Nusually consist of...
+Dialogue: 0,0:22:34.92,0:22:37.92,Default,Sunraku,0,0,0,,{\an8\i1}Coil, bite, tail swipe, swallow, venom...
+Dialogue: 0,0:22:37.92,0:22:39.21,Default,Sunraku,0,0,0,,{\an8\i1}That should be all.
+Dialogue: 0,0:22:39.59,0:22:42.51,Default,Sunraku,0,0,0,,With an avatar that actually \Nmoves the way I want it to,
+Dialogue: 0,0:22:42.51,0:22:44.34,Default,Sunraku,0,0,0,,I don't need defenses to beat you!
+Dialogue: 0,0:22:45.22,0:22:46.85,Default,Sunraku,0,0,0,,Give me something to enjoy here,
+Dialogue: 0,0:22:48.47,0:22:51.47,Default,Sunraku,0,0,0,,{\i1}SLF{\i0}!
