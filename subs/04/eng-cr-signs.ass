@@ -1,0 +1,58 @@
+﻿[Script Info]
+Title: English (US)
+ScaledBorderAndShadow: yes
+Original Script: kodansha  [http://www.crunchyroll.com/user/kodansha]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+LayoutResX: 1920
+LayoutResY: 1080
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+Style: Sign_Basic,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,6,3,2,30,30,54,1
+Style: sign_147_12_Rakuro_Hizutome_,Arial,72,&H00FFFFFF,&H000000FF,&H00D19728,&H00000000,-1,0,0,0,100,100,0,0,3,3,0,9,1185,60,60,1
+Style: Ep_Title,Arial,60,&H00FFFFFF,&H000000FF,&H00000000,&H00BE9829,-1,0,0,0,100,100,0,0,1,0,6,1,132,30,12,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:02:12.32,0:02:15.45,Ep_Title,sign,0,0,0,,{\fad(1950,475)}A {\c&HB0951D&\bord3\3c&HFFFFFF&\4c&HFFFFFF&}Trash Game {\bord0\4c\c}Realignment of Elevated Tastes
+Dialogue: 0,0:02:45.06,0:02:47.52,Sign_Basic,text,0,0,0,,{\an9\fs54\b1\3c&H6E3E37&\4c&H6E3E37&\shad6\bord1.5\fnArial\c&HF1F1F1&\move(1290,-90,1290,525)}Summer Break Promotion!!\NNow Adding Servers!
+Dialogue: 0,0:03:42.95,0:03:46.08,sign_147_12_Rakuro_Hizutome_,sign,0,0,0,,{\fad(325,200)\pos(1860,60)\fs90\3c&HC40097&}Rumi Hizutome
+Dialogue: 0,0:03:59.59,0:04:01.80,Default,sign,0,0,0,,{\fad(0,325)\an7\fs36\b1\c&HFFFFFE&\3c&H85867B&\shad0\frz23.59\pos(152.001,522)}Shangri-La Frontier Guide
+Dialogue: 0,0:03:59.59,0:04:01.80,Sign_Basic,sign,0,0,0,,{\fad(0,325)\pos(558.858,510.858)\an7\fs36\b1\c&HA0A19D&\3c&HFAFBF9&\shad0\frz23.59}Tour of Rabituza
+Dialogue: 0,0:07:28.51,0:07:31.26,Sign_Basic,sign,0,0,0,,{\an1\c&H020101&\3c&HFDFEFE&\shad0\fs60\pos(150,795)}* Respawn Point:\NA location from which you can resume play.
+Dialogue: 0,0:07:47.57,0:07:50.49,Sign_Basic,sign,0,0,0,,{\fad(75,200)\b1\c&HF2F9B2&\3c&H2C2A31&\bord12\shad0\pos(1046.001,350.001)\frz353.2}Vorpal Soul Collar\N{\b0\c&H818390&\bord6\fs54}acquired.
+Dialogue: 0,0:07:50.83,0:07:52.12,Default,sign,0,0,0,,{\fad(75,0)\c&HF2F9B2&\3c&H2C2A31&\shad0\an1\b0\c&H818390&\bord6\fs48\pos(500.001,325.998)\frz352.8}While equipped, user receives half EXP\Nbut gains 2.5x stat points\N(rounded down) when leveling.
+Dialogue: 0,0:09:07.40,0:09:10.24,Sign_Basic,sign,0,0,0,,{\pos(1482,885)\b1\c&H000000&\3c&HFFFFFF&\shad0}BOP → BERP
+Dialogue: 0,0:09:35.64,0:09:37.52,Sign_Basic,sign,0,0,0,,{\pos(1176.641,123.999)\org(1176,123.999)\fscx99.32\fscy99.707\frz-11.723\fry-2.007\frx2.016\fax-0.009\b1\xbord5.96\ybord5.98\xshad0\yshad0\c&H333E8F&\3c&HDCE9F5&\fad(525,0)}Sunraku
+Dialogue: 0,0:09:39.81,0:09:41.27,Sign_Basic,sign,0,0,0,,{\pos(437.99,278.001)\org(438,278.001)\fscx99.999\fscy99.947\frz8.698\fry0\frx0.667\fax0\fs60\b1\xbord6\ybord6\xshad0\yshad0\c&H333E8F&\3c&HDCE9F5&\fad(525,525)}Modor Katzo
+Dialogue: 0,0:09:59.50,0:10:02.50,Sign_Basic,sign,0,0,0,,{\b1\c&H000000&\3c&HFFFFFF&\shad0\pos(516,855.999)\an1}* Vale tudo = "Anything goes" in Portuguese
+Dialogue: 0,0:11:50.77,0:11:55.95,Sign_Basic,sign,0,0,0,,{\pos(960,825)\shad0\bord1.5\fnTimes New Roman\b1\3c&HFFFFFF&\blur1.5\fs90\fad(400,1)}The Seven Colossi
+Dialogue: 0,0:13:09.52,0:13:13.02,Sign_Basic,sign,0,0,0,,{\pos(1118.001,300)\fs30\an7\c&H807D77&\bord0\shad0\b1}Sunraku's Picked Up {\i1}SLF{\i0}
+Dialogue: 0,0:13:09.52,0:13:13.02,Sign_Basic,sign,0,0,0,,{\fs27\an7\c&H807D77&\bord0\shad0\pos(1128,387)}From: Modor Katzo\N to: Me
+Dialogue: 0,0:13:09.52,0:13:13.02,Sign_Basic,sign,0,0,0,,{\fs27\an7\c&H807D77&\bord0\shad0\pos(1134,642)}I hear Sunraku bought SLF.\NHe's pretty into it too.\NWatch out for signs of hell freezing over.\NTBF, I've been curious about it, too.\NIf he's playing it, it might be worth trying...
+Dialogue: 0,0:13:41.18,0:13:43.68,Default,sign,0,0,0,,{\fad(0,575)\pos(366,276)\fnImpact\b1\an1\fsp18\i1\c&H86690C&\3c&HF2D8D7&\shad0}Arthur Pencilgon
+Dialogue: 0,0:14:00.69,0:14:04.20,Sign_Basic,sign,0,0,0,,{\fad(0,300)\b1\3c&H8E7415&\shad0\bord9\fs72\pos(960,780)}Secondale - Back Alley
+Dialogue: 0,0:15:33.87,0:15:34.87,Sign_Basic,sign,0,0,0,,{\an1\pos(315.957,444)\org(310.002,444)\fscx96.092\fscy89.396\frz27.01\fry10.051\frx-6.887\fax0.071\fs48\xbord5.76\ybord5.36\xshad0\yshad0\3c&H442D25&\fad(150,0)}You've received a party request\Nfrom {\c&HF0E991&}NPC "Magical Bunny Emul."\N{\c&HFFFFFF&}Accept?
+Dialogue: 0,0:15:33.95,0:15:34.87,Sign_Basic,sign,0,0,0,,{\pos(604.777,608.001)\org(600,608.001)\fscx96.356\fscy90.511\frz24.343\fry9.234\frx-6.783\fax-0.118\fs42\xbord5.78\ybord5.43\xshad0\yshad0\3c&H2100B9&}No
+Dialogue: 0,0:15:33.95,0:15:34.87,Sign_Basic,sign,0,0,0,,{\pos(754.777,508.002)\org(750,508.002)\fscx96.356\fscy90.511\frz24.343\fry9.234\frx-6.783\fax-0.118\fs42\xbord5.78\ybord5.43\xshad0\yshad0\3c&HBFE926&}Yes
+Dialogue: 0,0:15:34.87,0:15:38.46,Sign_Basic,sign,0,0,0,,{\fad(0,200)\an1\3c&H442D25&\shad0\pos(390,222)\fs60}You've received a party request\Nfrom {\c&HF0E991&}NPC "Magical Bunny Emul."\N{\c&HFFFFFF&}Accept?
+Dialogue: 0,0:15:34.87,0:15:38.46,Sign_Basic,sign,0,0,0,,{\fad(0,200)\3c&H2100B9&\shad0\pos(765.999,658.002)}No
+Dialogue: 0,0:15:34.87,0:15:38.46,Sign_Basic,sign,0,0,0,,{\fad(0,200)\3c&HBDEB21&\shad0\pos(1134,657)}Yes
+Dialogue: 0,0:15:47.97,0:15:48.47,Sign_Basic,sign,0,0,0,,{\an1\3c&H442D25&\shad0\pos(390,222)\fs60}You've received a party request\Nfrom {\c&HF0E991&}NPC "Magical Bunny Emul."\N{\c&HFFFFFF&}Accept?
+Dialogue: 0,0:15:47.97,0:15:48.47,Sign_Basic,sign,0,0,0,,{\3c&H2100B9&\shad0\pos(765.999,658.002)}No
+Dialogue: 0,0:15:47.97,0:15:48.47,Sign_Basic,sign,0,0,0,,{\3c&HBDEB21&\shad0\pos(1134,657)}Yes
+Dialogue: 0,0:15:48.51,0:15:50.10,Sign_Basic,sign,0,0,0,,{\fad(0,175)\an1\3c&H442D25&\shad0\c&HEAE890&\pos(426,360)}NPC "Magical Bunny Emul"\N{\c&HFFFFFF&}has joined your party.
+Dialogue: 0,0:15:51.10,0:15:53.06,Sign_Basic,sign,0,0,0,,{\fad(575,500)\fnImpact\b1\an1\fsp18\i1\c&HCB9B31&\3c&HFEF4DB&\shad0\pos(392.001,116.001)}Emul
+Dialogue: 0,0:15:51.10,0:15:53.06,Sign_Basic,sign,0,0,0,,{\fad(525,500)\an1\fs48\b1\shad0\bord0.75\3c&HFFFFFF&\blur1.5\pos(384,246)}Sorcerer
+Dialogue: 0,0:15:51.10,0:15:53.06,Sign_Basic,sign,0,0,0,,{\fad(525,500)\an7\fs24\b0\shad0\bord0\3c&HFFFFFF&\pos(386.001,336)}Vorpal Bunny Traveler
+Dialogue: 0,0:15:51.10,0:15:53.06,Sign_Basic,sign,0,0,0,,{\fad(525,500)\an7\fs24\b0\shad0\bord0\3c&HFFFFFF&\pos(836.001,321.999)}Skill Points Remaining: 0
+Dialogue: 0,0:15:51.10,0:15:53.06,Sign_Basic,sign,0,0,0,,{\fad(525,500)\an7\fs24\b0\shad0\bord0\3c&HFFFFFF&\pos(638.001,375.999)\c&HFDF99D&}Cash on Hand:                                   {\c&HFFFFFF&}0 Mahni
+Dialogue: 0,0:17:12.55,0:17:17.06,Sign_Basic,sign,0,0,0,,{\pos(960,945)\c&H9C9089&\3c&H58483F&\shad0}File Saved
+Dialogue: 0,0:21:06.54,0:21:08.87,Sign_Basic,sign,0,0,0,,{\an8\b1\fnArial\c&H2C2AEC&\bord9\3a&H60&\shad0\3c&H000050&\pos(960,714)}Mud Digger
+Dialogue: 0,0:21:06.54,0:21:08.87,Sign_Basic,sign,0,0,0,,{\an8\b1\c&H2C2AEC&\bord9\3a&H60&\shad0\3c&H000050&\pos(348,6)}Area Boss
+Dialogue: 0,0:21:06.54,0:21:08.87,Sign_Basic,sign,0,0,0,,{\c&HDEDF9A&\fs36\3a&H60&\shad0\3c&H000050&\pos(176.001,326.001)}Rec. Party Size: 4

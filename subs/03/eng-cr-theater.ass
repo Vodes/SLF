@@ -1,0 +1,53 @@
+﻿[Script Info]
+Title: English (US)
+ScaledBorderAndShadow: yes
+Original Script: kodansha  [http://www.crunchyroll.com/user/kodansha]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+LayoutResX: 1920
+LayoutResY: 1080
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+Style: Flashback,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00013E12,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+Style: Sign_Basic,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,6,3,2,30,30,54,1
+Style: Ep_Title,Arial,60,&H00FFFFFF,&H000000FF,&H00000000,&H00BE9829,-1,0,0,0,100,100,0,0,1,0,6,1,132,30,12,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:23:42.94,0:23:50.20,Sign_Basic,sign,0,0,0,,{\an8\fnArial\b1\fs90\c&H7CEDEF&\shad0\bord0}S{\c&H639FF5&}L{\c&HE171BE&}F {\bord6\c&H4C4F52&\3c&HF0F5F5&}Mini
+Dialogue: 0,0:23:43.61,0:23:47.49,Default,Kids,0,0,0,,{\i1}SLF{\i0} Theater!
+Dialogue: 0,0:23:46.74,0:23:50.20,Sign_Basic,sign,0,0,0,,{\fad(450,0)\an1\i1\b1\c&HF1FBFD&\3c&H3D717E&\bord4.5\pos(924,867.999)}Psyger: Episode-0
+Dialogue: 0,0:23:47.49,0:23:48.95,Default,Emul,0,0,0,,Mini!
+Dialogue: 0,0:23:52.20,0:23:59.21,Sign_Basic,sign,0,0,0,,{\an5\b1\fs48\shad0\c&H572B2E&\bord0\shad0\pos(1012.002,236.001)\frz349.8}Time Chaser 2\N Bullets of Amber
+Dialogue: 0,0:23:52.54,0:23:56.29,Default,Rei,0,0,0,,This game is really hard for me.
+Dialogue: 0,0:23:56.29,0:23:58.83,Default,Rei,0,0,0,,But if I can't finish it,
+Dialogue: 0,0:23:59.21,0:24:05.80,Default,Rei,0,0,0,,I p-probably won't be able to go on an \Nadventure with Hizutome-kun... right?
+Dialogue: 0,0:24:06.22,0:24:10.68,Default,Mana,0,0,0,,Listen, I think you get good \Nat games impressively quickly.
+Dialogue: 0,0:24:10.68,0:24:15.73,Default,Mana,0,0,0,,but instead of these niche games, you might \Nwant to play one with broader appeal.
+Dialogue: 0,0:24:15.73,0:24:17.81,Default,Rei,0,0,0,,B-But...
+Dialogue: 0,0:24:17.81,0:24:21.81,Default,Mana,0,0,0,,It's Hizutome's skill levels \Nthat make him such a frea—
+Dialogue: 0,0:24:21.81,0:24:24.61,Default,Mana,0,0,0,,er, such a unique individual.
+Dialogue: 0,0:24:24.61,0:24:27.74,Default,Mana,0,0,0,,I understand that you don't \Nwant to hold him back,
+Dialogue: 0,0:24:27.74,0:24:30.53,Default,Mana,0,0,0,,but maybe you should work \Non your fundamentals.
+Dialogue: 0,0:24:30.91,0:24:32.99,Default,Rei,0,0,0,,Fundamentals?
+Dialogue: 0,0:24:32.99,0:24:38.12,Default,Mana,0,0,0,,The truth is, there's a game that unique \Nindividual will definitely try out!
+Dialogue: 0,0:24:38.12,0:24:39.08,Default,Rei,0,0,0,,What is it?!
+Dialogue: 0,0:24:39.75,0:24:42.63,Default,Mana,0,0,0,,The polar opposite of the \Ntrash games. The god game!
+Dialogue: 0,0:24:42.63,0:24:47.92,Default,Mana,0,0,0,,With over 30 million players \Nworldwide, it's {\i1}Shangri-La Frontier{\i0}?
+Dialogue: 0,0:24:48.22,0:24:50.09,Default,Rei,0,0,0,,{\i1}SLF{\i0} for short, right?
+Dialogue: 0,0:24:50.55,0:24:51.76,Default,Rei,0,0,0,,I've heard of it.
+Dialogue: 0,0:24:51.76,0:24:53.60,Default,Rei,0,0,0,,My sister's really into it.
+Dialogue: 0,0:24:54.43,0:24:56.93,Default,Mana,0,0,0,,What if you have your \Nsister teach you the game,
+Dialogue: 0,0:24:56.93,0:25:00.60,Default,Mana,0,0,0,,and become strong enough that you \Ncan show Hizutome-kun the ropes?
+Dialogue: 0,0:25:01.06,0:25:02.06,Default,Rei,0,0,0,,Show him the ropes?
+Dialogue: 0,0:25:03.06,0:25:05.44,Default,Rei,0,0,0,,Th-That's a good idea!
+Dialogue: 0,0:25:05.44,0:25:07.32,Default,Mana,0,0,0,,Thanks for coming!
+Dialogue: 0,0:25:10.99,0:25:15.79,Default,Rei,0,0,0,,I'm going to become strong enough \Nto show Hizutome-kun the ropes!
+Dialogue: 0,0:25:16.33,0:25:17.95,Default,Mana,0,0,0,,{\i1}What Mana didn't realize
+Dialogue: 0,0:25:17.95,0:25:20.67,Default,Mana,0,0,0,,{\i1}was that her advice, offered \Nin a spirit of friendship,
+Dialogue: 0,0:25:20.67,0:25:25.80,Default,Mana,0,0,0,,{\i1}would create a hopeless \Naddict in {\i1}SLF{\i0}'s world.

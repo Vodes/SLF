@@ -1,0 +1,116 @@
+﻿[Script Info]
+Title: Deutsch
+ScaledBorderAndShadow: yes
+Original Script: cr_de  [http://www.crunchyroll.com/user/cr_de]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+LayoutResX: 1920
+LayoutResY: 1080
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: TypePlaceholder,Arial,60,&H00FFFFFF,&H000000FF,&H00000000,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,6,0,8,30,30,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:02:57.66,0:03:00.03,TypePlaceholder,,0,0,0,,{\fnVerdana\b0\fad(242,0)\c&H2C2BEB&\bord9\3c&H2E3556&\pos(343.5,15)}Gebietsboss\N\N\N\N\N\N\N\N{\fs-2\c&HF9FA9A&}Empfohlene Spielerzahl: 4
+Dialogue: 0,0:02:57.66,0:03:00.03,TypePlaceholder,,0,0,0,,{\fnVerdana BOLD\fad(242,0)\c&H3020F6&\fsp6\bord9\3c&H17153B&\pos(966,718.5)}Schlammgräber
+Dialogue: 1,0:03:07.67,0:03:11.84,TypePlaceholder,,0,0,0,,{\an1\fnTahoma\shad6\fs+1\b1\fsp3\c&HFFFFFF&\4c&HC9961F&\bord0\fad(161,0)\3c&HFFFFFE&\pos(312.78,862.32)}\h\hSo sollst {\alpha&HFF&\t(328,495,\alpha&H00&)}du {\alpha&HFF&\t(620,1329,\alpha&H00&)}von einer {\fnGeorgia Bold\c&HC9961F&\bord3.6\3c&HFFFFFF&\4c&HFFFFFF&\alpha&HFF&\t(1246,1496,\alpha&H00&)}Phalanx\N{\fnTahoma\bord0\c&HFFFFFF&\4c&HC9961F&\alpha&HFF&\t(1746,2205,\alpha&H00&)}des Aufruhrs umringt sein
+Dialogue: 0,0:03:07.88,0:03:11.84,TypePlaceholder,,0,0,0,,{\p1\c&HC9961F&\bord0\fad(191,0)\fscx530\fscy510\pos(706.5,823.5)}m 0 -3 l -9 -18 l 15 -18 l 12 -6
+Dialogue: 0,0:03:50.33,0:03:51.34,TypePlaceholder,,0,0,0,,{\fnVerdana\b0\an2\fsp3\fs+1\bord0\c&HFBFAB1&\pos(336,814.5)}Gleitschritt
+Dialogue: 0,0:03:55.17,0:03:58.18,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\fsp3\fs+3\fad(0,507)\c&HF3E98D&\3c&H756424&\bord4.5\blur3\pos(405,87)}Gleitschritt\N{\fnTahoma\b0\fs-4\c&H595C53&\3c&HCDC9CD&\bord3}Weicht Attacken mit einer\Ngleitähnlichen Bewegung aus.
+Dialogue: 1,0:04:23.91,0:04:26.12,TypePlaceholder,,0,0,0,,{\fnImpact\b0\bord19.5\fsp6\fad(206,0)\an1\fs+5\fax-0.3\frz19.15\pos(693,597)\c&HFCC630&\3c&H3B3927&}Abwehrkonter
+Dialogue: 2,0:04:23.91,0:04:26.12,TypePlaceholder,,0,0,0,,{\fnImpact\b0\bord7.5\fsp6\fad(206,0)\an1\fs+5\fax-0.3\frz19.15\pos(693,597)\c&HFCC630&\3c&HFDFEF6&\t(246,247,\c&HFEFEFA&\3c&HEEEC60&\blur6)\t(373,498,\blur0\c&HFCC630&\3cHFDFEF6&)}Abwehrkonter
+Dialogue: 0,0:04:26.12,0:04:29.21,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\fsp3\c&HF2F0A3&\3c&H3F3022&\bord9\an2\pos(1500,753)}Abwehrkonter\N{\fnTahoma\b0\fs-2\c&H938B86&}Führt unmittelbar nach einer Parade\Neinen Konterangriff aus.
+Dialogue: 0,0:04:44.51,0:04:47.85,TypePlaceholder,,0,0,0,,{\fnImpact\fsp6\b0\fs+5\frz351.1\c&HD2A514&\bord4.5\3c&HFFFA76&\move(1015.5,312,1015.5,186,23,3318)}Abklingzeit
+Dialogue: 0,0:04:44.51,0:04:47.85,TypePlaceholder,,0,0,0,,{\fnVerdana\fsp3\bord0\b0\fs+3\frz351.3\c&HFCF498&\move(537,732,534,603,23,3318)}Abwehrkonter
+Dialogue: 0,0:04:44.51,0:04:47.85,TypePlaceholder,,0,0,0,,{\fnVerdana\fsp3\bord0\b0\fs+3\frz351.3\c&HFCF498&\move(1339.5,867,1336.5,738,23,3318)}Gleitschritt
+Dialogue: 0,0:05:51.29,0:05:53.29,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\fsp3\fad(163,0)\c&HF2F0A3&\3c&H3F3022&\bord9\an2\pos(369,859.5)}Beschleunigung\N{\fnTahoma\b0\fs-2\c&H938B86&}Erhöht vorübergehend\NAngriffskraft und Agilität.
+Dialogue: 1,0:06:16.19,0:06:18.61,TypePlaceholder,,0,0,0,,{\fnImpact\b0\bord18\fsp6\fad(121,88)\an1\fs+5\fax-0.3\c&HFCC630&\3c&H232626&\t(162,163,\3c&HFFFFB9&\shad2.1)\t(205,371,\c&HFCC630&\3c&H232626&\shad0)\frz37.87\pos(85.5,841.5)\4c&H232626&}Spiralschneide
+Dialogue: 2,0:06:16.19,0:06:18.61,TypePlaceholder,,0,0,0,,{\fnImpact\b0\bord7.5\fsp6\fad(121,88)\an1\fs+5\fax-0.3\c&HFCC630&\3c&HFDFEF6&\t(162,163,\c&HFFFFB9&\3c&HFFFFF8&)\t(205,371,\c&HFCC630&\3cHFDFEF6&)\frz37.87\pos(85.5,841.5)}Spiralschneide
+Dialogue: 0,0:06:28.33,0:06:30.29,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\fsp3\fs+3\fad(0,0)\c&HF3E98D&\3c&H756424&\bord4.5\blur3\pos(460.5,489)}Klingenklettern\N{\fnTahoma\b0\fs-4\c&H57675B&\3c&HD1D7CD&\bord3}Klettere mit Klingenwaffen\Nsenkrechte Flächen hoch.
+Dialogue: 0,0:06:44.26,0:06:45.22,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\fsp3\bord3.6\fad(246,0)\blur3\c&HFBE57D&\3c&H92804B&\an2\pos(463.5,763.5)}Zauberverstärkung
+Dialogue: 1,0:07:03.24,0:07:05.49,TypePlaceholder,,0,0,0,,{\fnImpact\b0\bord19.5\fsp6\fad(160,0)\an1\fs+5\fax-0.3\c&HFCC630&\3c&H0E1916&\frz22\pos(856.5,882)}Abwehrkonter
+Dialogue: 2,0:07:03.24,0:07:05.49,TypePlaceholder,,0,0,0,,{\fnImpact\b0\bord7.5\fsp6\fad(160,0)\an1\fs+5\fax-0.3\c&HF59820&\3c&HFDFEF6&\t(242,243,\c&HFEFEFA&\3c&HEEEC60&\blur6)\t(368,493,\blur0\c&HF59820&\3cHFDFEF6&)\frz22\pos(856.5,882)}Abwehrkonter
+Dialogue: 1,0:07:17.75,0:07:19.00,TypePlaceholder,,0,0,0,,{\fnImpact\b0\bord19.5\fsp6\fad(154,0)\an2\fs+5\fax-0.3\c&HFCC630&\3c&H31272E&\frz8.676\pos(1110,996)}Verstärkte\NMagische Schneide
+Dialogue: 2,0:07:17.75,0:07:19.00,TypePlaceholder,,0,0,0,,{\fnImpact\b0\bord7.5\fsp6\fad(154,0)\an2\fs+5\fax-0.3\c&HF3B51E&\3c&HFDFEF6&\t(237,238,\c&HFEFEFA&\3c&HEEEC60&\blur6)\t(363,488,\blur0\c&HF3B51E&\3cHFDFEF6&)\frz8.676\pos(1110,996)}Verstärkte\NMagische Schneide
+Dialogue: 1,0:07:28.01,0:07:30.05,TypePlaceholder,,0,0,0,,{\fnImpact\fsp9\fs+5\an2\bord9\fax-0.3\frz9.916\c&HD0B923&\3c&HB6A68F&\t(41,208,\fscx110\fscy110)\move(987,204,975,177,41,208)}Sunraku
+Dialogue: 2,0:07:28.01,0:07:30.05,TypePlaceholder,,0,0,0,,{\fnImpact\fsp9\fs+5\an2\fax-0.3\frz9.916\c&HD0B923&\3c&HFEFDFD&\t(41,208,\fscx110\fscy110)\move(987,204,975,177,41,208)}Sunraku
+Dialogue: 0,0:07:28.18,0:07:28.68,TypePlaceholder,,0,0,0,,{\fsp3\bord0\c&HFFFDFF&\fnVerdana Bold\fs-2\frz10.03\move(1077,564,1081.5,498,36,203)}Fallschaden: -8
+Dialogue: 0,0:07:28.68,0:07:28.89,TypePlaceholder,,0,0,0,,{\fsp3\bord0\c&HFFFDFF&\fnVerdana Bold\fs-2\frz10.03\move(1081.5,498,1068,436.5,17,184)}Fallschaden: -8
+Dialogue: 1,0:08:26.24,0:08:28.74,TypePlaceholder,,0,0,0,,{\an2\pos(1294.5,153)\org(1294.5,153)\fscx100\fscy100\frz-11.5\fry-180\frx0\fax-0.3\fnImpact\fsp6\b0\xbord12\ybord12\c&HB09319&\alpha&H50&\fs+7}Sunraku
+Dialogue: 2,0:08:26.24,0:08:28.74,TypePlaceholder,,0,0,0,,{\an2\pos(1294.5,153)\org(1294.5,153)\fscx100\fscy100\frz-11.5\fry-180\frx0\fax-0.3\fnImpact\fsp6\b0\xbord9\ybord9\c&HB69B1C&\3c&HF0E6DC&\fs+7}Sunraku
+Dialogue: 1,0:08:28.74,0:08:30.61,TypePlaceholder,,0,0,0,,{\fnImpact\fsp6\fax-0.3\fs+7\an2\frz348.8\pos(1062,157.5)\bord12\c&H9E8E15&\3c&H88664C&}Sunraku
+Dialogue: 2,0:08:28.74,0:08:30.61,TypePlaceholder,,0,0,0,,{\fnImpact\fsp6\fax-0.3\fs+7\an2\frz348.8\pos(1062,157.5)\bord9\c&H9E8E15&\3c&HF1EFEC&}Sunraku
+Dialogue: 1,0:10:11.01,0:10:11.97,TypePlaceholder,,0,0,0,,{\fnImpact\b0\bord18\fsp6\fad(161,0)\an2\fs+3\fax-0.3\c&HFCC630&\3c&H31272E&\frz12.79\pos(463.5,943.5)}Magische Schriftrolle\NTeleportation
+Dialogue: 2,0:10:11.01,0:10:11.97,TypePlaceholder,,0,0,0,,{\fnImpact\b0\bord7.5\fsp6\fad(161,0)\an2\fs+3\fax-0.3\c&HF3B51E&\3c&HFDFEF6&\t(201,202,\c&HFEFEFA&\3c&HEEEC60&\blur6)\t(244,411,\blur0\c&HF3B51E&\3cHFDFEF6&)\frz12.79\pos(463.5,943.5)}Magische Schriftrolle\NTeleportation
+Dialogue: 0,0:10:25.48,0:10:27.94,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\fsp3\bord9\fs-1\an2\pos(1345.5,125.1)\c&H00292A&\3c&H5AF5E6&}Energie
+Dialogue: 0,0:10:25.48,0:10:29.23,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\fsp3\bord3.6\fs+2\fad(0,0)\blur3\c&HFEE776&\3c&H6E5A27&\an2\pos(960,813)}Meteorsturz
+Dialogue: 0,0:10:27.94,0:10:29.23,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\fsp3\bord9\fs+2\an2\c&H00292A&\3c&H5AF5E6&\pos(1344,75.6)}Energie
+Dialogue: 0,0:10:29.23,0:10:31.74,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\fsp3\bord9\fs-5\an2\c&H00292A&\3c&H5AF5E6&\t(0,2274,\fscx180\fscy180)\move(1417.5,164.1,1417.5,687.6,22,2274)}Energie
+Dialogue: 0,0:10:32.74,0:10:33.82,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\fsp3\bord9\fs-1\an2\c&H00292A&\3c&H5AF5E6&\pos(1071,83.1)}Energie
+Dialogue: 1,0:10:42.54,0:10:46.25,TypePlaceholder,,0,0,0,,{\fnImpact\b0\fsp6\fs+2\fax-0.3\an2\frz16.47\bord15\pos(991.5,786)\fad(412,0)\c&HF7CD2D&\3c&H2C2C2D&}Fehlerhafter\N{\alpha&HFF&\t(663,1038,\alpha&H00&)}Meteor-Kopfstoß
+Dialogue: 2,0:10:42.54,0:10:46.25,TypePlaceholder,,0,0,0,,{\fnImpact\b0\fsp6\fs+2\fax-0.3\an2\frz16.47\pos(991.5,786)\fad(412,0)\c&HF7CD2D&\3c&HFFFFFF&}Fehlerhafter\N{\alpha&HFF&\t(663,1038,\alpha&H00&)}Meteor-Kopfstoß
+Dialogue: 0,0:10:47.46,0:10:48.88,TypePlaceholder,,0,0,0,,{\pos(459,889.5)\org(459,889.5)\fscx100\fscy100\frz10.6\fry-180\fax0\fnVerdana Bold\fsp9\xbord0\ybord0\c&HFFFDA5&}Glück
+Dialogue: 0,0:11:00.06,0:11:01.39,TypePlaceholder,,0,0,0,,{\fnImpact\fsp6\fs-1\bord3\c&HA38E27&\fax-0.5\3c&HFBF0BD&\an2\frz37.44\pos(454.5,138)}Sunraku
+Dialogue: 1,0:11:01.39,0:11:04.18,TypePlaceholder,,0,0,0,,{\fnImpact\b0\fsp9\fs+8\an2\fax-0.3\frz8.039\pos(856.5,142.5)\bord13.2\c&HA09015&\3c&H595751&}Sunraku
+Dialogue: 2,0:11:01.39,0:11:04.18,TypePlaceholder,,0,0,0,,{\fnImpact\b0\fsp9\fs+8\an2\fax-0.3\frz8.039\pos(856.5,142.5)\bord9\c&HA09015&\3c&HF4EDE9&}Sunraku
+Dialogue: 1,0:11:33.01,0:11:38.01,TypePlaceholder,,0,0,0,,{\fnVerdana BOLD\fad(0,0)\c&H322AF2&\fsp6\bord9\3c&H19173E&\fs\pos(972,69)}Gebietsboss\N{\fnImpact\fsp9\fs+6}Schlammgräber
+Dialogue: 2,0:11:34.51,0:11:38.01,TypePlaceholder,,0,0,0,,{\fnImpact\fsp18\fscx120\bord4.5\blur3\c&HFEFFFD&\fs+10\3c&H483BDD&\frz13.32\pos(940.5,85.5)}Besiegt
+Dialogue: 1,0:11:51.27,0:11:55.53,TypePlaceholder,,0,0,0,,{\fnImpact\fsp6\fax-0.3\bord8.1\an2\c&HAE8D1A&\3c&H8A6151&\t(0,199,\fscx120\fscy120)\move(603,118.5,603,106.5,32,199)}Sunraku
+Dialogue: 2,0:11:51.27,0:11:55.53,TypePlaceholder,,0,0,0,,{\fnImpact\fsp6\fax-0.3\bord5.1\an2\c&HAE8D1A&\3c&HFCFCFC&\t(0,199,\fscx120\fscy120)\move(603,118.5,603,106.5,32,199)}Sunraku
+Dialogue: 0,0:11:51.40,0:11:51.90,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\fs-2\bord9\c&HFCFCF7&\3c&HACF270&\move(601.5,435,601.5,381,18,184)}Heilkräuter verwendet
+Dialogue: 0,0:11:51.90,0:11:52.11,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\fs-2\bord9\c&HFCFCF7&\3c&HACF270&\move(601.5,381,601.5,330,18,185)}Heilkräuter verwendet
+Dialogue: 0,0:12:49.12,0:12:51.25,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\fsp3\bord3.6\fs+1\fad(0,0)\blur3\c&HF4E78E&\3c&H665411&\an2\pos(1512,844.5)}Geheimer Armreif\Nder Killerkaninchen
+Dialogue: 0,0:15:02.97,0:15:07.68,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\fs+1\fsp6\pos(969,571.5)\fad(493,0)\2c&HFFFEF3&\3c&HA39932&}Drittlema
+Dialogue: 0,0:17:33.91,0:17:35.49,TypePlaceholder,,0,0,0,,{\fnTahoma\fs+4\bord7.5\c&HFFFFFE&\3c&H2A2C19&\move(960,606,960,214.5,1486,1570)}Einige Stunden zuvor – Sekundir
+Dialogue: 0,0:17:43.13,0:17:46.92,TypePlaceholder,,0,0,0,,{\fnTahoma\b0\bord9\an2\c&H95857E&\3c&H4E3324&\pos(966,931.5)}Gespeichert
+Dialogue: 1,0:18:10.61,0:18:18.62,TypePlaceholder,,0,0,0,,{\p1\c&HEBECEA&\3c&H686C6E&\pos(1491,30)}m 0 0 l 810 0 l 810 825 l 0 825
+Dialogue: 2,0:18:10.61,0:18:18.62,TypePlaceholder,,0,0,0,,{\fnTahoma\fs-3\c&H3F1EBA&\bord0\an7\pos(1101,40.5)}[Die Heilige] Fortgeschrittene bringen\NAnfängern die Grundlagen bei, Teil 81 [süß]\N\N{\c&H403D36&}74: {\c&H61A459&}Addo (Fortgeschrittener)\N{\c&H403D36&}Noch mal, für einen höheren Beruf musst du\Nmindestens Sechsburg erreicht haben.\NIch weiß nicht, wie oft ich das schon gesagt\Nhabe.\NIch sollte mir langsam eine Vorlage\Nschreiben.\N\N75: {\c&H61A459&}Alinoiyu (Anfängerin)\N{\c&H403D36&}Ich habe eine Frage an die erfahreneren\NPioniere.\NBeim Besorgen von Ausrüstung in Sekundir\Nbin ich diesem Spieler begegnet.\NEr hatte ein total süßes, sprechendes\NHäschen bei sich.\NWie kann man dieses Monster zu einem\NGefährten machen?
+Dialogue: 1,0:18:21.62,0:18:25.63,TypePlaceholder,,0,0,0,,{\p1\c&HEBECEA&\3c&H686C6E&\pos(1491,30)}m 0 0 l 810 0 l 810 390 l 0 390
+Dialogue: 2,0:18:21.62,0:18:25.63,TypePlaceholder,,0,0,0,,{\fnTahoma\fs-3\c&H403D36&\bord0\an7\pos(1101,40.5)}76: {\c&H61A459&}Curry Jones (Fortgeschrittener)\N{\c&H403D36&}Hä? Was ist das? Ein Fake?\NAlso ich hab noch nie ein sprechendes\NKillerkaninchen gesehen.\N\N77: {\c&H61A459&}Exceed (Anfänger)\N{\c&H403D36&}Was ist denn mit dem, lol.\NHalbnackt mit Maske.\NDen sollte man melden, lol.
+Dialogue: 1,0:18:29.21,0:18:34.43,TypePlaceholder,,0,0,0,,{\p1\c&HEBECEA&\3c&H686C6E&\pos(1491,30)}m 0 0 l 810 0 l 810 345 l 0 345
+Dialogue: 2,0:18:29.21,0:18:34.43,TypePlaceholder,,0,0,0,,{\fnTahoma\fs-3\c&H403D36&\bord0\an7\pos(1101,40.5)}79: {\c&H61A459&}Basahi Musashi (Fortgeschrittener)\N{\c&H403D36&}Mein Clanchef ist Siegwurm begegnet.\NDer soll gesprochen haben.\N\N80: {\c&H61A459&}Thundernut (Fortgeschrittener)\N{\c&H403D36&}Na ja, bei einem einzigartigen Monster ist\Ndas nicht verwunderlich, aber bei einem\NKillerkaninchen …?
+Dialogue: 1,0:18:47.69,0:18:51.69,TypePlaceholder,,0,0,0,,{\p1\c&HEBECEA&\3c&H686C6E&\pos(1491,30)}m 0 0 l 810 0 l 810 681 l 0 681
+Dialogue: 2,0:18:47.69,0:18:51.69,TypePlaceholder,,0,0,0,,{\fnTahoma\fs-3\c&H403D36&\bord0\an7\pos(1101,40.5)}81: {\c&H61A459&}Animalia (Fortgeschrittene)\N{\c&H403D36&}Halt. Das ist so niedlich, ich sterbe!\NWas hat das zu bedeuten?!\NIn diesem Spiel ist doch nur das Zähmen von\NHunde- und Katzengefährten implementiert,\Noder?!\NIst das ein Cheat?!\N\N82: {\c&H61A459&}Addo (Fortgeschrittener)\N{\c&H403D36&}Da kommen direkt die Furrys angedackelt.\NWie zu erwarten von der Direktorin\Ndes tierlieben Clans SF-Zoo.\NEins sei gesagt, die Entwickler setzen auf\Nstrikte Anti-Cheating-Maßnahmen.\NKann mir also nicht vorstellen, dass er\Ncheatet.
+Dialogue: 1,0:19:00.66,0:19:05.62,TypePlaceholder,,0,0,0,,{\p1\c&HEBECEA&\3c&H686C6E&\pos(1491,30)}m 0 0 l 810 0 l 810 615 l 0 615
+Dialogue: 2,0:19:00.66,0:19:05.62,TypePlaceholder,,0,0,0,,{\fnTahoma\fs-3\c&H403D36&\bord0\an7\pos(1101,40.5)}85: {\c&H61A459&}Thundernut (Fortgeschrittener)\N{\c&H403D36&}Es geht eher darum, wie sich jemand fühlt,\Nwenn er ohne Erlaubnis abgelichtet und das\NErgebnis dann ohne sein Wissen\Nveröffentlicht wird.\NMan sieht sogar seinen Namen.\N\N86: {\c&H61A459&}Superlegierter Tofu (Fortgeschrittener)\N{\c&H403D36&}Deine Netiquette lässt sehr zu wünschen\Nübrig.\NDas ist ein Fall für die Mods.\N\N87: {\c&H61A459&}Alinoiyu (Anfängerin)\N{\c&H403D36&}Das wusste ich nicht.\NTut mir leid …
+Dialogue: 1,0:19:10.42,0:19:12.42,TypePlaceholder,,0,0,0,,{\p1\c&HEBECEA&\3c&H686C6E&\pos(1491,30)}m 0 0 l 810 0 l 810 150 l 0 150
+Dialogue: 2,0:19:10.42,0:19:12.42,TypePlaceholder,,0,0,0,,{\fnTahoma\fs-3\c&H403D36&\bord0\an7\pos(1101,40.5)}89: {\c&H61A459&}Thundernut (Fortgeschrittener)\N{\c&H403D36&}Du bist aber fix, Direktorin! lol\NHardcore-Spieler sind anders gruselig.
+Dialogue: 1,0:19:19.64,0:19:22.89,TypePlaceholder,,0,0,0,,{\p1\c&HEBECEA&\3c&H686C6E&\pos(1491,30)}m 0 0 l 810 0 l 810 555 l 0 555
+Dialogue: 2,0:19:19.64,0:19:22.89,TypePlaceholder,,0,0,0,,{\fnTahoma\fs-3\c&H403D36&\bord0\an7\pos(1101,40.5)}91: {\c&H61A459&}Addo (Fortgeschrittener)\N{\c&H403D36&}Ich war sicher, dass ich das schon mal\Ngesehen hab, und es ist mir wieder\Neingefallen.\NDas ist ein Fluch.\NAn betroffene Körperteile angelegte Rüstung\Nwird zerstört und er hat noch andere Effekte,\Nmanche positiv, manche negativ.\N\NWenn ich mich nicht irre, ist es ein Beweis\Nder Anerkennung des Herrschers der Nacht\Noder so …\NHat irgendein NPC gesagt.
+Dialogue: 1,0:19:22.89,0:19:26.90,TypePlaceholder,,0,0,0,,{\p1\c&HEBECEA&\3c&H686C6E&\pos(1491,30)}m 0 0 l 810 0 l 810 255 l 0 255
+Dialogue: 2,0:19:22.89,0:19:26.90,TypePlaceholder,,0,0,0,,{\fnTahoma\fs-3\c&H403D36&\bord0\an7\pos(1101,40.5)}92: {\c&H61A459&}Basashi Musashi (Fortgeschrittener)\N\N{\c&H403D36&}Herrscher der Nacht\N\NDie Stärksten Sieben\N\NLycaon, der Nachträuber
+Dialogue: 1,0:19:30.90,0:19:34.61,TypePlaceholder,,0,0,0,,{\p1\c&HEBECEA&\3c&H686C6E&\pos(1491,30)}m 0 0 l 810 0 l 810 150 l 0 150
+Dialogue: 2,0:19:30.90,0:19:34.61,TypePlaceholder,,0,0,0,,{\fnTahoma\fs-3\c&H403D36&\bord0\an7\pos(1101,40.5)}94: {\c&H61A459&}Thundernut (Fortgeschrittener)\N{\c&H403D36&}Gab es nicht Berichte, dass das Hündchen\Nin der Nähe von Sekundir ist?
+Dialogue: 1,0:19:38.66,0:19:40.66,TypePlaceholder,,0,0,0,,{\p1\c&HEBECEA&\3c&H686C6E&\pos(1491,30)}m 0 0 l 810 0 l 810 570 l 0 570
+Dialogue: 2,0:19:38.66,0:19:40.66,TypePlaceholder,,0,0,0,,{\fnTahoma\fs-3\c&H403D36&\bord0\an7\pos(1101,40.5)}94: {\c&H61A459&}Thundernut (Fortgeschrittener)\N{\c&H403D36&}Gab es nicht Berichte, dass das Hündchen\Nin der Nähe von Sekundir ist?\N\N95: {\c&H61A459&}Thundernut (Fortgeschrittener)\N{\c&H403D36&}Da Lycaon eine Zufallsbegegnung ist,\Nist es nicht verwunderlich, dass ein Noob\Nihm über den Weg läuft.\NAber wie hat er den Fluch auferlegt\Nbekommen?\N\N{\alpha&HFF&\t(776,777,\alpha&H00&)}96: {\c&H61A459&}Orcelot (Fortgeschrittener)\N{\c&H403D36&}Sollen wir ihn mit Spawn-Killing zum Reden\Nbringen?
+Dialogue: 1,0:19:40.66,0:19:43.16,TypePlaceholder,,0,0,0,,{\p1\c&HEBECEA&\3c&H686C6E&\pos(1491,30)}m 0 0 l 810 0 l 810 150 l 0 150
+Dialogue: 2,0:19:40.66,0:19:43.16,TypePlaceholder,,0,0,0,,{\fnTahoma\fs-3\c&H403D36&\bord0\an7\pos(1101,40.5)}96: {\c&H61A459&}Orcelot (Fortgeschrittener)\N{\c&H403D36&}Sollen wir ihn mit Spawn-Killing zum Reden\Nbringen?
+Dialogue: 1,0:19:46.21,0:19:51.67,TypePlaceholder,,0,0,0,,{\p1\c&HEBECEA&\3c&H686C6E&\pos(1491,30)\fad(995,0)}m 0 0 l 810 0 l 810 405 l 0 405
+Dialogue: 2,0:19:46.21,0:19:51.67,TypePlaceholder,,0,0,0,,{\fnTahoma\fs-3\c&H403D36&\bord0\an7\fad(995,0)\pos(1101,40.5)}97: {\c&H61A459&}Addo (Fortgeschrittener)\N{\c&H403D36&}Oh? Wenn das nicht Orcelot ist, Anführer\Ndes Asura-Bündnisses, lol.\NWas geht? lol\NHab gehört, nachdem du steckbrieflich\Ngesucht wirst, ist jetzt die\NWahrscheinlichkeit, dass du von NPCs\Nangegriffen wirst, noch höher.\NHast du dein Testament gemacht? xDDD
+Dialogue: 1,0:19:57.43,0:20:01.43,TypePlaceholder,,0,0,0,,{\p1\c&HEBECEA&\3c&H686C6E&\pos(1491,30)}m 0 0 l 810 0 l 810 315 l 0 315
+Dialogue: 2,0:19:57.43,0:20:01.43,TypePlaceholder,,0,0,0,,{\fnTahoma\fs-3\c&H403D36&\bord0\an7\pos(1101,40.5)}99: {\c&H61A459&}Addo (Fortgeschrittener)\N{\c&H403D36&}Wenn man zu viele Spieler tötet und dann\Nselbst von einem Spieler oder NPC getötet\Nwird, verliert man alle Items, inklusive\Neingelagerter, und man muss seinem Killer\Ndas Kopfgeld aus eigener Tasche zahlen.\NZiemlich brutales System, was?
+Dialogue: 1,0:20:13.19,0:20:19.70,TypePlaceholder,,0,0,0,,{\p1\c&HEBECEA&\3c&H686C6E&\pos(1491,30)}m 0 0 l 810 0 l 810 405 l 0 405
+Dialogue: 2,0:20:13.19,0:20:19.70,TypePlaceholder,,0,0,0,,{\fnTahoma\fs-3\c&H403D36&\bord0\an7\pos(1101,40.5)}100: {\c&H61A459&}Saiga-100 (Fortgeschrittene)\N{\c&H403D36&}Ich will ihn unbedingt treffen und mit ihm\Nsprechen.\NSunraku, wenn du das hier liest, wende dich\Nbitte an einen Spieler, der das\NWolf-und-Schwert-Emblem trägt.\NIch kann verstehen, wenn du nicht möchtest,\Ndass Informationen in Umlauf geraten,\Naber wir können dich auch beschützen.
+Dialogue: 1,0:20:25.45,0:20:27.96,TypePlaceholder,,0,0,0,,{\p1\c&HEBECEA&\3c&H686C6E&\pos(1491,30)}m 0 0 l 810 0 l 810 276 l 0 276
+Dialogue: 2,0:20:25.45,0:20:27.96,TypePlaceholder,,0,0,0,,{\fnTahoma\fs-3\c&H403D36&\bord0\an7\pos(1101,40.5)}100: {\c&H61A459&}Saiga-100 (Fortgeschrittene)\N{\c&H403D36&}Ich will ihn unbedingt treffen und mit ihm\Nsprechen.\NSunraku, wenn du das hier liest, wende dich\Nbitte an einen Spieler, der das\NWolf-und-Schwert-Emblem trägt.
+Dialogue: 1,0:20:38.43,0:20:41.93,TypePlaceholder,,0,0,0,,{\p1\c&HEBECEA&\3c&H686C6E&\fad(0,505)\pos(1491,30)}m 0 0 l 810 0 l 810 240 l 0 240
+Dialogue: 2,0:20:38.43,0:20:41.93,TypePlaceholder,,0,0,0,,{\fnTahoma\fs-3\c&H403D36&\fad(0,505)\bord0\an7\pos(1101,40.5)}102: {\c&H61A459&}Basashi Musashi (Fortgeschrittener)\N{\c&H403D36&}Das zeigt doch, in was für einer\Naußerordentlichen Situation sich dieser\NSunraku befindet.\NOb ihm selbst das wohl klar ist?
+Dialogue: 0,0:22:05.30,0:22:09.31,TypePlaceholder,,0,0,0,,{\fnImpact\fsp6\fs+5\fax-0.3\an2\c&HB1940E&\3c&HFCF9F0&\4c&H41392F&\shad3\move(1054.5,132,1053,331.5,23,3985)}Arthur Pencilgon
+Dialogue: 0,0:22:25.24,0:22:28.54,TypePlaceholder,,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\pos(960,45)}Übersetzung: Markus Lange
+Dialogue: 0,0:22:25.24,0:22:28.54,TypePlaceholder,,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\an2\pos(960,1035)}Spotting: Michael Gohl
+Dialogue: 0,0:22:28.54,0:22:31.87,TypePlaceholder,,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\pos(960,45)}Revision & Typesetting: Jacqueline Philippi
+Dialogue: 0,0:22:28.54,0:22:31.87,TypePlaceholder,,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\an2\pos(960,1035)}Qualitätskontrolle: Konrad Walter
+Dialogue: 0,0:22:31.87,0:22:34.75,TypePlaceholder,,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\pos(960,45)}Projektleitung: Tobias Philippi
+Dialogue: 0,0:23:43.03,0:23:50.28,TypePlaceholder,,0,0,0,,{\fnComic Sans MS Bold\fs+4\bord0\shad6\fs+6\c&H7CEDEF&\4c&H51CBDA&\pos(960,9)}Sh{\c&HC297F0&\4c&H966CD6&}a{\c&H679FF8&\4c&H3171D7&}n{\c&HDE72BD&\4c&HB64897&}F{\c&H5B63E6&\4c&H484FC2&}ro
+Dialogue: 0,0:23:46.82,0:23:50.28,TypePlaceholder,,0,0,0,,{\fnComic Sans MS Bold\fad(493,0)\fs+5\fax-0.15\an3\c&HFAFFFE&\3c&H376777&\4c&H1C3F4D&\shad3.9\bord3.9\pos(1831.5,859.5)}#7 Vollmond in ShanFro
+Dialogue: 0,0:23:47.41,0:23:50.28,TypePlaceholder,,0,0,0,,{\c&H515655&\fnComic Sans MS Bold\fad(333,0)\fs+2\bord0\frz43.99\pos(1447.5,118.5)}Mini
+Dialogue: 0,0:23:50.28,0:24:51.34,TypePlaceholder,,0,0,0,,{\fnComic Sans MS bold\fad(0,0)\fs+2\fax-0.15\an9\c&HFAFFFE&\3c&H376777&\4c&H1C3F4D&\alpha&H30&\shad3.9\bord3.9\pos(1824,112.5)}ShanFro-Theater
+Dialogue: 0,0:24:51.34,0:24:58.60,TypePlaceholder,,0,0,0,,{\fnComic Sans MS Bold\fs+4\bord0\shad6\fs+6\c&H7CEDEF&\4c&H51CBDA&\pos(960,9)}Sh{\c&HC297F0&\4c&H966CD6&}a{\c&H679FF8&\4c&H3171D7&}n{\c&HDE72BD&\4c&HB64897&}F{\c&H5B63E6&\4c&H484FC2&}ro
+Dialogue: 0,0:24:55.14,0:24:58.60,TypePlaceholder,,0,0,0,,{\fnComic Sans MS bold\fad(493,0)\fs+4\fax-0.15\an3\c&HFAFFFE&\3c&H376777&\4c&H1C3F4D&\shad3.9\bord3.9\pos(1831.5,859.5)}#8 Emuls Lebensberatung für Frösche
+Dialogue: 0,0:24:55.72,0:24:58.60,TypePlaceholder,,0,0,0,,{\c&H515655&\fnComic Sans MS Bold\fad(333,0)\fs+2\bord0\frz43.99\pos(1447.5,118.5)}Mini
+Dialogue: 0,0:24:58.60,0:26:38.70,TypePlaceholder,,0,0,0,,{\fnComic Sans MS bold\fad(0,0)\fs+2\fax-0.15\an9\c&HFAFFFE&\3c&H376777&\4c&H1C3F4D&\alpha&H30&\shad3.9\bord3.9\pos(1824,112.5)}ShanFro-Theater

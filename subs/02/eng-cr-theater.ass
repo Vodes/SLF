@@ -1,0 +1,51 @@
+﻿[Script Info]
+Title: English (US)
+ScaledBorderAndShadow: yes
+Original Script: kodansha  [http://www.crunchyroll.com/user/kodansha]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+LayoutResX: 1920
+LayoutResY: 1080
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+Style: Sign_Basic,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,6,3,2,30,30,54,1
+Style: Ep_Title,Arial,60,&H00FFFFFF,&H000000FF,&H00000000,&H00BE9829,-1,0,0,0,100,100,0,0,1,0,6,1,84,30,12,1
+Style: sign_32602_9_Jaffrey,Arial,36,&H00C1CB86,&H000000FF,&H00F9F9F0,&H00000000,-1,-1,0,0,115,115,0,0,1,3,0,2,609,1185,870,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:23:39.94,0:23:47.20,Sign_Basic,sign,0,0,0,,{\an8\fnArial\b1\fs90\c&H7CEDEF&\shad0\bord0}S{\c&H639FF5&}L{\c&HE171BE&}F {\bord6\c&H4C4F52&\3c&HF0F5F5&}Mini
+Dialogue: 0,0:23:40.69,0:23:44.49,Default,Kids,0,0,0,,{\i1}SLF{\i0} Theater!
+Dialogue: 0,0:23:43.73,0:23:47.20,Sign_Basic,sign,0,0,0,,{\pos(1068,870)\an1\i1\b1\c&HF1FBFD&\3c&H3D717E&\bord4.5}Bird-Frog Ensemble
+Dialogue: 0,0:23:44.49,0:23:45.95,Default,Emul,0,0,0,,Mini!
+Dialogue: 0,0:23:56.71,0:23:57.33,Default,Mud Frog,0,0,0,,Ribbit.
+Dialogue: 0,0:24:01.13,0:24:01.71,Default,Mud Frog,0,0,0,,Ribbit.
+Dialogue: 0,0:24:03.42,0:24:04.21,Default,Mud Frog,0,0,0,,Ribbit.
+Dialogue: 0,0:24:05.55,0:24:06.22,Default,Mud Frog,0,0,0,,Ribbit.
+Dialogue: 0,0:24:06.59,0:24:07.47,Default,Mud Frog,0,0,0,,Ribbit.
+Dialogue: 0,0:24:07.80,0:24:08.47,Default,Mud Frog,0,0,0,,Ribbit.
+Dialogue: 0,0:24:08.97,0:24:09.97,Default,Mud Frog,0,0,0,,Ribbit.
+Dialogue: 0,0:24:10.43,0:24:11.22,Default,Mud Frog,0,0,0,,Ribbit.
+Dialogue: 0,0:24:11.89,0:24:12.85,Default,Mud Frog,0,0,0,,Ribbit.
+Dialogue: 0,0:24:12.85,0:24:13.81,Default,Mud Frog,0,0,0,,Ribbit.
+Dialogue: 0,0:24:13.81,0:24:14.81,Default,Mud Frog,0,0,0,,Ribbit.
+Dialogue: 0,0:24:14.81,0:24:15.77,Default,Mud Frog,0,0,0,,Ribbit.
+Dialogue: 0,0:24:15.77,0:24:16.73,Default,Mud Frog,0,0,0,,Ribbit.
+Dialogue: 0,0:24:16.73,0:24:17.60,Default,Mud Frog,0,0,0,,Ribbit.
+Dialogue: 0,0:24:17.60,0:24:18.56,Default,Mud Frog,0,0,0,,Ribbit.
+Dialogue: 0,0:24:18.56,0:24:19.56,Default,Mud Frog,0,0,0,,Ribbit.
+Dialogue: 0,0:24:19.56,0:24:20.61,Default,Mud Frog,0,0,0,,Ribbit.
+Dialogue: 0,0:24:21.23,0:24:28.49,Sign_Basic,sign,0,0,0,,{\an8\fnArial\b1\fs90\c&H7CEDEF&\shad0\bord0}S{\c&H639FF5&}L{\c&HE171BE&}F {\bord6\c&H4C4F52&\3c&HF0F5F5&}Mini
+Dialogue: 0,0:24:21.94,0:24:25.74,Default,Kids,0,0,0,,{\i1}SLF{\i0} Theater!
+Dialogue: 0,0:24:25.03,0:24:28.49,Default,sign,0,0,0,,{\fad(450,0)\an1\i1\b1\c&HF1FBFD&\3c&H3D717E&\bord4.5\pos(810,750)}The Extremely Conspicuous Big\NBrawny White Figure
+Dialogue: 0,0:24:25.74,0:24:27.36,Default,Emul,0,0,0,,Mini!
+Dialogue: 0,0:24:31.95,0:24:34.49,Default,Psyger-0,0,0,0,,{\i1}I'll wait for Hizutome-kun here.
+Dialogue: 0,0:24:37.54,0:24:39.58,Default,Woman,0,0,0,,A statue?
+Dialogue: 0,0:24:41.42,0:24:43.04,Default,Man,0,0,0,,What's it doing here?
+Dialogue: 0,0:24:53.47,0:24:55.39,Default,Psyger-0,0,0,0,,{\i1}Wh-What?
+Dialogue: 0,0:24:55.39,0:24:58.98,Default,Psyger-0,0,0,0,,{\i1}I seem to have become a meet-up spot...

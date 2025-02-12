@@ -13,9 +13,9 @@ STRIP_TAGS_REGEX = r'\{[^}]*\}'
 
 REMOVE_HEADERS = [("Original Translation", None), ("Original Editing", None), ("Original Timing", None), ("Synch Point", None), ("Script Updated By", None), ("Update Details", None), ("Timer", None)]
 
-episode = "01"
+episode = "05"
 
-Setup(episode, None, clean_work_dirs=True)
+Setup(episode, None, clean_work_dirs=True, debug=False)
 
 cr = ensure_path(R"F:\Sources\Shangri-La\CR", None) / f"[CR] Shangri-La Frontier - S01E{episode} [720p].mkv"
 cr_trim = (-24, None)
@@ -33,7 +33,8 @@ def split_into_theater_and_regular(sub: SubFile) -> tuple[SubFile, SubFile]:
         start: _Line | None = None
         for line in lines:
             filtered = re.sub(STRIP_TAGS_REGEX, '', line.text).strip()
-            if filtered.casefold() == "SLF Theater!".casefold() or filtered.casefold() == "ShanFro".casefold():
+            filtered = filtered.casefold()
+            if filtered == "SLF Theater!".casefold() or filtered == "ShanFro".casefold() or filtered == "SLF Mini".casefold():
                 start = line
                 break
         if start:

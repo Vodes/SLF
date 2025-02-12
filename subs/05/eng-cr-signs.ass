@@ -1,0 +1,70 @@
+﻿[Script Info]
+Title: English (US)
+ScaledBorderAndShadow: yes
+Original Script: kodansha  [http://www.crunchyroll.com/user/kodansha]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+LayoutResX: 1920
+LayoutResY: 1080
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sign_Basic,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,6,3,2,30,30,54,1
+Style: Ep_Title,Arial,60,&H00FFFFFF,&H000000FF,&H00000000,&H00BE9829,-1,0,0,0,100,100,0,0,1,0,6,1,132,30,12,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:02:57.62,0:03:00.03,Sign_Basic,sign,0,0,0,,{\an8\b1\fnArial\c&H2C2AEC&\bord9\3a&H60&\shad0\3c&H000050&\pos(960,714)}Mud Digger
+Dialogue: 0,0:02:57.62,0:03:00.03,Sign_Basic,sign,0,0,0,,{\an8\b1\c&H2C2AEC&\bord9\3a&H60&\shad0\3c&H000050&\pos(348,6)}Area Boss
+Dialogue: 0,0:02:57.62,0:03:00.03,Sign_Basic,sign,0,0,0,,{\c&HDEDF9A&\fs36\3a&H60&\shad0\3c&H000050&\pos(176.001,326.001)}Rec. Party Size: 4
+Dialogue: 0,0:03:07.67,0:03:11.84,Ep_Title,sign,0,0,0,,{\fad(2150,0)}Lo, Thou Art Assailed on All Sides
+Dialogue: 0,0:03:50.25,0:03:51.34,Sign_Basic,sign,0,0,0,,{\fad(75,0)\c&HF2F9B2&\3c&H382C1A&\bord12\shad0\pos(342,810)}Slide Move
+Dialogue: 0,0:03:55.17,0:03:58.09,Sign_Basic,sign,0,0,0,,{\fad(0,450)\b1\c&HEFEB85&\3c&H7A6D21&\bord3\shad0\blur3\pos(1338,290.001)\an8}Slide Move\N{\b0\c&H5B5853&\3a&H60&\bord4.5\fs54\3c&HFFFFFF&}Evades an attack with a gliding motion.
+Dialogue: 0,0:04:23.91,0:04:26.12,Sign_Basic,sign,0,0,0,,{\fad(450,0)\an1\fnImpact\b1\fs90\shad6\c&HF9C130&\3c&HFFFFFF&\bord9\fscy140\fsp3\pos(1296,600)\frz18.63}Repel Counter
+Dialogue: 0,0:04:26.12,0:04:29.21,Sign_Basic,sign,0,0,0,,{\b1\c&HF2F9B2&\3c&H3A2E23&\bord12\shad0\pos(1497.999,710.001)}Repel Counter\N{\b0\c&H857F80&\bord6\fs54}Parries one incoming attack\Nand unleashes a counterattack.
+Dialogue: 0,0:04:44.51,0:04:47.85,Sign_Basic,sign,0,0,0,,{\c&HF2F9B2&\3c&H2C1C15&\bord12\shad0\frz352.2\move(525,810,525,690)}Repel Counter
+Dialogue: 0,0:04:44.51,0:04:47.85,Sign_Basic,sign,0,0,0,,{\c&HF2F9B2&\3c&H2E1B10&\bord12\shad0\frz352.2\move(1338,942,1338,822)}Slide Move
+Dialogue: 0,0:05:51.33,0:05:53.29,Sign_Basic,sign,0,0,0,,{\b1\c&HF2F9B2&\3c&H3A2E23&\bord12\shad0\pos(960,696)}Accel\N{\b0\c&H857F80&\bord6\fs42}Grants a temporary bonus to\Nattack power and agility.
+Dialogue: 0,0:06:16.19,0:06:18.61,Sign_Basic,sign,0,0,0,,{\an3\pos(508.196,548.001)\org(488.001,548.001)\fscx88.727\fscy131.276\frz35.475\fry-13.614\frx0.801\fax-0.253\fnImpact\fs90\fsp3\b1\xbord7.99\ybord8.44\xshad5.323615\yshad5.626105\c&HF9C130&\3c&HFFFFFF&\fad(325,150)}Spiral\NEdge
+Dialogue: 0,0:06:28.33,0:06:30.29,Sign_Basic,sign,0,0,0,,{\b1\c&HEFEB85&\3c&H7A6D21&\bord3\shad0\blur3\an8\pos(486,510)}Edge Climb\N{\b0\c&H5B5853&\3a&H60&\bord4.5\fs54\3c&HFFFFFF&}Stick a bladed weapon into\Na vertical service to climb.
+Dialogue: 0,0:06:44.26,0:06:45.22,Sign_Basic,sign,0,0,0,,{\fad(225,0)\b1\c&HEFEB85&\3c&H7A6D21&\bord3\shad0\blur3\pos(450,780)\fs90}Add Spell
+Dialogue: 0,0:07:03.24,0:07:05.49,Sign_Basic,sign,0,0,0,,{\fad(475,150)\an5\fnImpact\b1\fs90\shad6\c&HF9C130&\3c&HFFFFFF&\bord9\fscy140\fsp3\frz25\pos(996,510)}Repel Counter
+Dialogue: 0,0:07:17.75,0:07:19.00,Sign_Basic,sign,0,0,0,,{\fad(475,0)\an8\fnImpact\b1\fs90\shad6\c&HF9C130&\3c&HFFFFFF&\bord9\i1\fscy140\fsp3\pos(996,60)}Power-Boost Magic Edge
+Dialogue: 0,0:07:28.05,0:07:30.05,Sign_Basic,sign,0,0,0,,{\an5\fnImpact\b1\fs90\shad1.5\c&HCCBC17&\3c&HFFFFFF&\bord9\fsp3\i1\frz9.789\pos(968.001,146.001)}Sunraku
+Dialogue: 0,0:07:28.18,0:07:28.89,Sign_Basic,sign,0,0,0,,{\frz9.763\fs48\b1\shad0\3c&H9060B5&\pos(1035.999,381.999)}Fall Damage -8
+Dialogue: 0,0:08:28.74,0:08:30.61,Sign_Basic,sign,0,0,0,,{\an5\pos(1022.304,123.999)\org(1020,123.999)\fscx99.29\fscy90.265\frz-10.193\fry-0.667\frx10.056\fax-0.052\fnImpact\fs90\fsp3\b1\i1\xbord8.94\ybord8.12\xshad1.489352\yshad1.353968\c&HA59014&\3c&HFFFFFF&}Sunraku
+Dialogue: 0,0:10:11.01,0:10:11.97,Sign_Basic,sign,0,0,0,,{\fad(475,0)\an8\fnImpact\b1\fs78\shad6\c&HF9C130&\3c&HFFFFFF&\bord9\fscy120\fsp3\pos(996,60)}Magic Scroll\N Teleport
+Dialogue: 0,0:10:25.48,0:10:29.23,Sign_Basic,sign,0,0,0,,{\an8\fnArial\fs48\b1\c&H000000&\3c&H66FAEA&\shad0\pos(1527.999,342)}Energy
+Dialogue: 0,0:10:25.48,0:10:29.23,Sign_Basic,sign,0,0,0,,{\b1\c&HEFEB85&\3c&H7A6D21&\bord3\shad0\blur3\fs78\pos(960,825)}Meteor Fall
+Dialogue: 0,0:10:29.23,0:10:31.74,Sign_Basic,sign,0,0,0,,{\an8\fnArial\fs48\b1\c&H000000&\3c&H66FAEA&\shad0\pos(1527.999,342)}Energy
+Dialogue: 0,0:10:32.74,0:10:33.82,Sign_Basic,sign,0,0,0,,{\an8\fnArial\fs48\b1\c&H000000&\3c&H66FAEA&\shad0\pos(1292.001,174)}Energy
+Dialogue: 0,0:10:42.54,0:10:46.25,Sign_Basic,sign,0,0,0,,{\fad(375,0)\an8\fnImpact\b1\fs78\shad6\c&HF9C130&\3c&HFFFFFF&\bord9\fscy120\fsp3\pos(996,60)}Mistake\N{\alpha&HFF&\t(612,1028,1 \alpha&H00&)}Meteor Fall
+Dialogue: 0,0:11:01.43,0:11:04.18,Sign_Basic,sign,0,0,0,,{\an5\pos(827.928,132)\org(828,132)\fscx99.756\fscy99.974\frz8.463\fry-1.335\frx-0.668\fax0.002\fnImpact\fs90\fsp3\b1\i1\xbord8.98\ybord9\xshad1.496334\yshad1.499608\c&HA59014&\3c&HFFFFFF&}Sunraku
+Dialogue: 0,0:11:33.01,0:11:38.01,Sign_Basic,sign,0,0,0,,{\an8\b1\fnArial\c&H2C2AEC&\bord9\fs90\b0\3a&H60&\shad0\3c&H000050&\pos(960,60)}Area Boss\N{\b1}Mud Digger
+Dialogue: 0,0:11:34.51,0:11:38.01,Sign_Basic,sign,0,0,0,,{\fnArial\b1\fs90\3c&H181839&\shad0\frz10.07\pos(948,440.001)}Dispatch Complete
+Dialogue: 0,0:11:51.27,0:11:55.53,Sign_Basic,sign,0,0,0,,{\an5\pos(575.922,108)\org(576,108)\fscx99.784\fscy99.946\frz0\fry-1.335\frx-0.668\fax0.002\fnImpact\fsp3\b1\i1\xbord5.99\ybord6\xshad1.496753\yshad1.499188\c&HA59014&\3c&HFFFFFF&}Sunraku
+Dialogue: 0,0:11:51.40,0:11:52.11,Sign_Basic,sign,0,0,0,,{\3c&HA9F072&\shad0\fs48\pos(612,276)\b1}Herbs used.
+Dialogue: 0,0:12:49.12,0:12:51.25,Sign_Basic,sign,0,0,0,,{\b1\c&HEFEB85&\3c&H7A6D21&\bord3\shad0\blur3\fs72\pos(1512,840)\fscx90}Mysterious Vorpal Bracelet
+Dialogue: 0,0:15:03.01,0:15:07.68,Sign_Basic,sign,0,0,0,,{\fad(450,0)\an8\b1\3c&HB7B137&\shad0\bord9\pos(960,390)}Thirdrema
+Dialogue: 0,0:17:33.91,0:17:35.49,Sign_Basic,sign,0,0,0,,{\fad(0,75)\pos(960,690)\b1\shad0\fs90\bord7.5\3c&H262013&}Several Hours Earlier - Secondale
+Dialogue: 0,0:17:43.13,0:17:46.92,Sign_Basic,sign,0,0,0,,{\pos(960,945)\c&H9C9089&\3c&H58483F&\shad0}File Saved
+Dialogue: 0,0:18:10.61,0:18:18.62,Sign_Basic,sign,0,0,0,,{\an7\fs36\c&H3E26C7&\3c&HE7EAE7&\shad0}[The Saint] Advanced Players Teach Beginners the Ropes  #81 [Cute]\N\N{\c&H141918&}74: {\c&H60AF54&}Add (Advanced)\N{\c&H141918&}Seriously, to unlock the elite jobs you've got to at least make it to Sixburg.\NHow many times do I have to tell people this?\NMaybe we should put it on the FAQ.\N\N75: {\c&H60AF54&}Alinoiyu (Beginner)\N{\c&H141918&}I have a question for our esteemed elders. I was picking up equipment\Nin Secondale when I ran into this player. He had the cutest talking bunny\Nwith him. How can I befriend this monster?
+Dialogue: 0,0:18:21.62,0:18:25.63,Sign_Basic,sign,0,0,0,,{\an7\fs36\c&H545454&\3c&HE7EAE7&\shad0}76: {\c&H61BA6E&}Curry Jones (Advanced)\N{\c&H545454&}Is this a 'shop or something?\NI mean I've never seen a talking Vorpal Bunny before\N\N77: {\c&H61BA6E&}Exceed (Beginner)\N{\c&H545454&}What's with this dude lol half-naked with a mask,\Ncall the cops plz lololol
+Dialogue: 0,0:18:29.21,0:18:34.43,Sign_Basic,sign,0,0,0,,{\an7\fs36\c&H50A55C&\3c&HE7EAE7&\shad0}Basashi Musashi (Advanced)\N{\c&H7A8785&}Our clan's leader ran into Siegwurm.\NThat one talks, apparently\N{\c&H50A55C&}Thundernut (Advanced) \N{\c&H7A8785&}I could see a unique monster talking, but a Vorpal Bunny...?
+Dialogue: 0,0:18:47.69,0:18:51.69,Sign_Basic,sign,0,0,0,,{\an7\fs36\c&H484947&\3c&HE7EAE7&\shad0}81: {\c&H36B332&}Animalia (Advanced) \N{\c&H484947&}Wait one precious heart-stopping minute!\NThe game's only tame packs are buddy dogs and\Nbuddy cats for now, right? is this a cheat?!\N\N82: {\c&H36B332&}Add (Advanced) \N{\c&H484947&}Yep, here come the furries. As I'd expect of the\Nleader of the animal-loving SF-Zoo clan. FYI this\Ngame's admin cracks down hard on cheating\Nso it's unlikely to be that.
+Dialogue: 0,0:19:00.66,0:19:05.62,Sign_Basic,sign,0,0,0,,{\an7\fs36\c&H484947&\3c&HE7EAE7&\shad0}85: {\c&H36B332&}Thundernut (Advanced) \N{\c&H484947&}How would you feel if someone posted your face\Nup there without your knowledge or permission?\NYou've even got his name in the pic.\N\N86: {\c&H36B332&}Super Alloy Tofu (Advanced) \N{\c&H484947&}Get some online etiquette already. This is reportable.\N\N87: {\c&H36B332&}Alinoiyu (Beginner)\N{\c&H484947&}I really didn't know. I'm sorry...
+Dialogue: 0,0:19:10.42,0:19:12.42,Sign_Basic,sign,0,0,0,,{\an7\fs36\c&H484947&\3c&HE7EAE7&\shad0}89: {\c&H36B332&}Thundernut (Advanced)\N The zookeeper moves fast! lol \N You obsessives always find new ways of scaring me.
+Dialogue: 0,0:19:19.64,0:19:22.89,Sign_Basic,sign,0,0,0,,{\an7\fs36\c&H484947&\3c&HE7EAE7&\shad0}91: {\c&H36B332&}Add (Advanced)\N{\c&H484947&}I was trying to think of where I've seen this and\NI just remembered. It's a curse. It prevents you\Nfrom equipping stuff onto the affected body parts\Nplus a bunch of other pros and cons.\N\N It's proof that you're "acknowledged by the Night Emperor"...\Nat least, that's what some NPC said.
+Dialogue: 0,0:19:22.89,0:19:26.90,Sign_Basic,sign,0,0,0,,{\an7\fs36\c&H484947&\3c&HE7EAE7&\shad0}92: {\c&H36B332&}Basashi Musashi (Advanced)\N{\c&H484947&}The Night Emperor\N Colossus\N Lycagon the Nightslayer
+Dialogue: 0,0:19:30.90,0:19:34.61,Sign_Basic,sign,0,0,0,,{\an7\fs36\c&H484947&\3c&HE7EAE7&\shad0}94: {\c&H36B332&}Thundernut (Advanced)\N{\c&H484947&}The pupper's been sighted near Secondale, right?
+Dialogue: 0,0:19:38.66,0:19:40.66,Sign_Basic,sign,0,0,0,,{\an7\fs36\c&H484947&\3c&HE7EAE7&\shad0}94: {\c&H36B332&}Thundernut (Advanced)\N{\c&H484947&}The pupper's been sighted near Secondale, right?\N\N95: {\c&H36B332&}Thundernut (Advanced)\N{\c&H484947&} Lycagon's a random encounter so it's not unusual\Nto hear of beginners running into it...\NBut how'd he end up with the curse?
+Dialogue: 0,0:19:40.66,0:19:43.16,Sign_Basic,sign,0,0,0,,{\an7\fs36\c&H484947&\3c&HE7EAE7&\shad0}96: {\c&H36B332&}Orcelott (Advanced)\N{\c&H484947&}I could spawn kill him until he tells us
+Dialogue: 0,0:19:46.21,0:19:51.67,Sign_Basic,sign,0,0,0,,{\fad(900,0)\an7\fs36\c&H484947&\3c&HE7EAE7&\shad0}97: {\c&H36B332&}Add (Advanced)\N{\c&H484947&}Oh? Well if it isn't Orcelott, esteemed leader\Nof Ashura Kai lol sup lol\N I heard you got a bounty on your head and\Neven more NPCs are coming after you.\NYou got that all sorted? rofl
+Dialogue: 0,0:19:57.43,0:20:01.43,Sign_Basic,sign,0,0,0,,{\an7\fs36\c&H484947&\3c&HE7EAE7&\shad0}99: {\c&H36B332&}Add (Advanced) \N {\c&H484947&}If you PK too much and you get killed\Nby a player or an NPC all your items are lost,\Nincluding stored ones. Plus the bounty gets paid\Nfrom the PK's own cash. It's a pretty brutal system.\N\NThe Ashura Kai guys PK so much they can't go back.\NThey're a huge joke as far as I've seen.
+Dialogue: 0,0:20:13.19,0:20:19.70,Sign_Basic,sign,0,0,0,,{\an7\fs36\c&H484947&\3c&HE7EAE7&\shad0}100: {\c&H36B332&}Psyger-100 (Advanced)\N{\c&H484947&} I'd love to meet and talk with him. Mr. Sunraku, if you're reading this, please speak to a player wearing the emblem of a wolf and a sword.\N\NI'm sorry that so much of your information got leaked, but we can help to protect you.
+Dialogue: 0,0:20:25.45,0:20:27.96,Sign_Basic,sign,0,0,0,,{\an7\fs36\c&H484947&\3c&HE7EAE7&\shad0}100: {\c&H36B332&}Psyger-100 (Advanced)\N{\c&H484947&} I'd love to meet and talk with him. Mr. Sunraku, if you're reading this, please speak to a player wearing the emblem of a wolf and a sword.\N\NI'm sorry that so much of your information got leaked,\Nbut we can help to protect you.
+Dialogue: 0,0:20:38.43,0:20:41.93,Sign_Basic,sign,0,0,0,,{\fad(0,550)\an7\fs36\c&H484947&\3c&HE7EAE7&\shad0}102: {\c&H36B332&}Basashi Musashi (Advanced)\N{\c&H484947&} Looks like this Sunraku guy's in a pretty unique situation.\NAnd he might not even realize it himself...
+Dialogue: 0,0:22:05.30,0:22:09.31,Sign_Basic,sign,0,0,0,,{\an5\fnImpact\b1\fs72\shad1.5\c&HA59014&\3c&HFFFFFF&\bord6\fsp6\frx358\fry356\i1\move(960,120,960,312)}Arthur Pencilgon

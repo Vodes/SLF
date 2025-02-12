@@ -1,0 +1,107 @@
+﻿[Script Info]
+Title: English (US)
+ScaledBorderAndShadow: yes
+Original Script: kodansha  [http://www.crunchyroll.com/user/kodansha]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+LayoutResX: 1920
+LayoutResY: 1080
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+Style: Sign_Basic,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,6,3,2,30,30,54,1
+Style: Ep_Title,Arial,60,&H00FFFFFF,&H000000FF,&H00000000,&H00BE9829,-1,0,0,0,100,100,0,0,1,0,6,1,84,30,12,1
+Style: sign_32602_9_Jaffrey,Arial,36,&H00C1CB86,&H000000FF,&H00F9F9F0,&H00000000,-1,-1,0,0,115,115,0,0,1,3,0,2,609,1185,870,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:06.24,0:00:11.20,Sign_Basic,sign,0,0,0,,{\an8\pos(960,315)\fs48\b1\3c&HB7B137&\shad0\bord9}Starting Town\N{\fs72}Firstia
+Dialogue: 0,0:00:18.04,0:00:22.75,Sign_Basic,sign,0,0,0,,{\pos(1029,96)\an8\fs48\c&HBAF37B&\3c&HF6FFC5&\shad0}The Rampant Forest
+Dialogue: 0,0:00:22.75,0:00:23.75,sign_32602_9_Jaffrey,sign,0,0,0,,{\fad(0,225)\move(1476,120,1803,120)\fs48}Sugar
+Dialogue: 0,0:00:22.75,0:00:24.17,sign_32602_9_Jaffrey,sign,0,0,0,,{\fad(0,275)\move(1329,462,1725,462)}Kit
+Dialogue: 0,0:00:22.75,0:00:24.25,sign_32602_9_Jaffrey,sign,0,0,0,,{\fad(0,275)\move(1182,324,1614,324)\fs42}Orga
+Dialogue: 0,0:00:22.75,0:00:24.42,sign_32602_9_Jaffrey,sign,0,0,0,,{\fad(0,275)\move(975,480,1443,480)}Hades
+Dialogue: 0,0:00:22.75,0:00:24.55,sign_32602_9_Jaffrey,sign,0,0,0,,{\fad(0,275)\move(672,210,1209,210)}Jaffrey
+Dialogue: 0,0:00:24.25,0:00:26.26,sign_32602_9_Jaffrey,sign,0,0,0,,{\fad(100,0)\move(990,474,1557,474)\fs30}Ninto
+Dialogue: 0,0:00:24.42,0:00:26.26,sign_32602_9_Jaffrey,sign,0,0,0,,{\fad(100,0)\fs30\move(900,477,1419,477)}Lily
+Dialogue: 0,0:00:24.88,0:00:26.26,sign_32602_9_Jaffrey,sign,0,0,0,,{\move(900,297,1290,297)\fs45}Bolbol
+Dialogue: 0,0:00:25.13,0:00:26.26,sign_32602_9_Jaffrey,sign,0,0,0,,{\fad(75,0)\move(648,438,966,438)\fs30}Kalbo
+Dialogue: 0,0:00:25.34,0:00:26.26,sign_32602_9_Jaffrey,sign,0,0,0,,{\fad(75,0)\fs33\move(546,384,807,384)}Meina
+Dialogue: 0,0:00:25.84,0:00:26.26,sign_32602_9_Jaffrey,sign,0,0,0,,{\fs48\move(366,90,486,90)}Breo
+Dialogue: 0,0:02:30.13,0:02:33.51,Ep_Title,sign,0,0,0,,A Peculiar One
+Dialogue: 0,0:02:33.51,0:02:37.89,Sign_Basic,sign,0,0,0,,{\pos(486,216)\an8\b1\fnArial\c&H2C2AEC&\bord9\3a&H60&\shad0\3c&H000050&}Ravenous Python
+Dialogue: 0,0:02:33.51,0:02:37.89,Sign_Basic,sign,0,0,0,,{\an8\b1\c&H2C2AEC&\bord9\3a&H60&\shad0\3c&H000050&\pos(1536,636)}Area Boss
+Dialogue: 0,0:02:33.51,0:02:37.89,Sign_Basic,sign,0,0,0,,{\c&HDEDF9A&\fs36\3a&H60&\shad0\3c&H000050&\pos(1324.002,950.001)}Rec. Level:
+Dialogue: 0,0:02:33.51,0:02:37.89,Sign_Basic,sign,0,0,0,,{\c&HDEDF9A&\fs36\3a&H60&\shad0\3c&H000050&\pos(1356,1030.002)}Rec. Party Size:
+Dialogue: 0,0:03:02.70,0:03:04.41,Sign_Basic,sign,0,0,0,,{\fad(125,0)\b1\c&HF7F99D&\3c&H352E12&\bord12\shad0\pos(1386,606)}Tap Step\N{\b0\c&H8B8770&\bord6\fs54}Adds a bonus to evasion.
+Dialogue: 0,0:04:22.49,0:04:23.33,Sign_Basic,sign,0,0,0,,{\pos(969,45)\an8\fnArial\b1\c&H591333&\3c&HBD0BB2&\shad0\fs48}Status Effect\N{\c&H7794F4&\3c&H10112A&\fs90}Poison
+Dialogue: 0,0:04:22.49,0:04:23.33,Sign_Basic,sign,0,0,0,,{\c&H7D8FAB&\3c&H10102D&\shad0\pos(969,675)}Take damage every ten seconds.
+Dialogue: 0,0:04:23.33,0:04:27.91,Sign_Basic,sign,0,0,0,,{\fad(175,0)\pos(465,45)\an8\fnArial\b1\c&H591333&\3c&HBD0BB2&\shad0\fs48}Status Effect\N{\c&H7794F4&\3c&H10112A&\fs90}Poison
+Dialogue: 0,0:04:23.33,0:04:27.91,Sign_Basic,sign,0,0,0,,{\fad(175,0)\c&H7D8FAB&\3c&H10102D&\shad0\pos(465,675)}Take damage every ten seconds.
+Dialogue: 0,0:04:23.37,0:04:27.91,sign_32602_9_Jaffrey,sign,0,0,0,,{\fad(125,0)\pos(1422,0)\an8\fs72\c&HA29639&\bord4.5}Sunraku
+Dialogue: 0,0:04:23.37,0:04:27.91,Sign_Basic,sign,0,0,0,,{\fad(125,0)\an8\fs36\c&HB38DD5&\bord4.5\3c&HA629AA&\shad0\pos(1454.001,157.998)}Poison
+Dialogue: 0,0:04:50.52,0:04:54.52,sign_32602_9_Jaffrey,sign,0,0,0,,{\an8\fs72\c&HA29639&\bord4.5\pos(1485.999,6)}Sunraku
+Dialogue: 0,0:04:50.52,0:04:54.52,Sign_Basic,sign,0,0,0,,{\an8\fs30\c&HCDC1F4&\bord4.5\3c&H9C0484&\shad0\pos(1506,150)}Poison
+Dialogue: 0,0:05:23.76,0:05:28.56,sign_32602_9_Jaffrey,sign,0,0,0,,{\fad(0,200)\an8\fs72\c&HA29639&\bord4.5\pos(1500,504)\fay-.09}Sunraku
+Dialogue: 0,0:05:23.76,0:05:28.56,Sign_Basic,sign,0,0,0,,{\fad(0,200)\an8\fs30\c&HCDC1F4&\bord4.5\3c&H9C0484&\shad0\pos(1520.001,648)\fay-.09}Poison
+Dialogue: 0,0:06:48.26,0:06:48.80,Sign_Basic,sign,0,0,0,,{\pos(461.282,282)\org(453,282)\fscx94.636\fscy93.45\frz11.567\fry-8.442\frx6.689\fax-0.122\xbord5.68\ybord5.61\xshad0\yshad0\c&H877F89&\3c&H47363F&\fad(25,100)}Shelve Weapon{z: I am wondering if something like "Store Weapon" would work better here?}
+Dialogue: 0,0:07:27.59,0:07:28.97,Sign_Basic,sign,0,0,0,,{\fad(225,0)\b1\c&H872893&\3c&HE36DFB&\bord12\shad0\pos(482.001,330)\fs48}Dropped Item\N{\b0\c&HF9F8CB&\bord6\fs72\3c&H232022&}Python Scale
+Dialogue: 0,0:07:27.84,0:07:28.97,Sign_Basic,sign,0,0,0,,{\fad(225,0)\b1\c&H872893&\3c&HE36DFB&\bord12\shad0\fs48\pos(1408.002,636)\frz358.5}Dropped Item\N{\b0\c&HF9F8CB&\bord6\fs72\3c&H232022&}Python White Hair
+Dialogue: 0,0:07:33.22,0:07:38.06,sign_32602_9_Jaffrey,sign,0,0,0,,{\an8\pos(273.155,244.287)\org(270,230.001)\fscx116.726\fscy110.808\frz-11.209\fry2.682\frx3.393\fax0.21\xbord3.04\ybord2.89\c&HA29639&\fad(0,200)}Sunraku
+Dialogue: 0,0:07:33.22,0:07:38.06,Sign_Basic,sign,0,0,0,,{\an8\pos(278.947,338.281)\org(278.001,333.999)\fscx101.501\fscy96.355\frz-11.209\fry2.682\frx3.393\fax0.21\fs18\xbord6.09\ybord5.78\xshad0\yshad0\c&HCDC1F4&\3c&HBA6CBB&\fad(0,200)}Poison
+Dialogue: 0,0:08:13.64,0:08:22.31,sign_32602_9_Jaffrey,sign,0,0,0,,{\pos(867.272,159.999)\org(884.001,159.999)\fscx77.152\fscy96.427\frz-25.433\fry30\frx9.4\fax0.602\xbord2.01\ybord2.52\c&HBDB04D&}Reiji
+Dialogue: 0,0:08:13.64,0:08:22.31,sign_32602_9_Jaffrey,sign,0,0,0,,{\pos(1262.733,290.001)\org(1260,290.001)\fscx112.839\fscy108.061\frz5.982\fry-4.751\frx7.103\fax-0.067\xbord2.94\ybord2.82\c&HBDB04D&}Mia
+Dialogue: 0,0:08:15.64,0:08:22.31,Sign_Basic,sign,0,0,0,,{\pos(150,906)\an1\c&H020101&\3c&HF9F6F8&\shad0\fs60}*Tame = To befriend and domesticate an animal
+Dialogue: 0,0:09:16.24,0:09:17.83,sign_32602_9_Jaffrey,sign,0,0,0,,{\pos(452.001,98.001)\fs90\an8\bord6\c&HB5B153&}Sunraku
+Dialogue: 0,0:09:21.46,0:09:24.17,Sign_Basic,sign,0,0,0,,{\pos(960,906)\an2\c&H020101&\3c&HF9F6F8&\shad0\fs60}PK = Player Kill: To kill another player
+Dialogue: 0,0:09:24.17,0:09:28.17,sign_32602_9_Jaffrey,sign,0,0,0,,{\pos(960,105)\i0\fs72\fnTrebuchet MS\bord6\t(1274,1982,1 \c&H2500B3&\3c&H22050A&)}Mia
+Dialogue: 0,0:09:41.06,0:09:47.02,Sign_Basic,sign,0,0,0,,{\pos(851.376,193.998)\org(852,193.998)\fscx98.692\fscy99.743\frz-2.123\fry3.364\frx1.354\fax0.012\fs54\xbord5.92\ybord5.99\xshad0\yshad0\c&HB48C4A&\3c&HF2E3AA&\fad(450,0)}Inn
+Dialogue: 0,0:10:19.14,0:10:21.60,Sign_Basic,sign,0,0,0,,{\pos(1056.773,96)\org(1046.001,96)\fscx94.287\fscy84.238\frz16.816\fry-10.893\frx11.363\fax-0.19\fs60\xbord5.66\ybord5.05\xshad0\yshad0\c&HB48C4A&\3c&HF2E3AA&}Inn
+Dialogue: 0,0:10:53.88,0:10:55.26,Sign_Basic,sign,0,0,0,,{\c&H7E7574&\3c&H1E1311&\shad0\pos(978,168)}Respawn point registered.
+Dialogue: 0,0:10:53.88,0:10:55.26,sign_32602_9_Jaffrey,sign,0,0,0,,{\c&H988015&\3c&HE5E7E6&\fs72\bord4.5\shad0\pos(852,586.002)}Sunraku
+Dialogue: 0,0:10:53.88,0:10:55.26,sign_32602_9_Jaffrey,sign,0,0,0,,{\c&H390047&\3c&HA50088&\fs72\bord4.5\shad0\fs36\i0\pos(879.999,702.003)}Poison
+Dialogue: 0,0:10:58.39,0:11:00.89,Sign_Basic,sign,0,0,0,,{\pos(960,285)\fs90\b1\c&H7580F5&\bord0\shad0}Death Penalty
+Dialogue: 0,0:10:58.39,0:11:00.89,Sign_Basic,sign,0,0,0,,{\c&H7A7E87&\bord0\shad0\fs78\pos(960,900)}All stats temporarily reduced.
+Dialogue: 0,0:11:30.54,0:11:34.01,Sign_Basic,sign,0,0,0,,{\fad(450,0)\an8\fs48\b1\3c&HB7B137&\shad0\bord9\pos(960,150)}Town Before the Swamp\N{\fs72}Secondale
+Dialogue: 0,0:11:44.18,0:11:45.94,Sign_Basic,sign,0,0,0,,{\fs90\b1\fnArial\c&H107D9F&\3c&H48EBFF&\shad0\frx28\fry322\move(804,444,930,366)\frz23.94}Bar
+Dialogue: 0,0:11:45.94,0:11:47.90,Default,sign,0,0,0,,{\fs90\b1\fnArial\c&HFE35F0&\3c&HFDEBFD&\shad0\frx24\fry36\move(1149,428.001,990,350.001)\frz334.5}Florist
+Dialogue: 0,0:12:09.67,0:12:15.67,Default,sign,0,0,0,,{\pos(901.865,411.105)\org(878.001,414)\fscx88.117\fscy77.726\frz29.849\fry-19.043\frx11.417\fax-0.358\fnArial\b1\xbord5.29\ybord4.66\xshad0\yshad0\c&H44ABED&\3c&HD9FEFF&}Armor Shop
+Dialogue: 0,0:12:18.51,0:12:23.06,Sign_Basic,sign,0,0,0,,{\an4\c&HF5ED93&\bord0\shad0\b1\fs60\pos(60,540)}Splitblade Leather\N{\fs48}Equipment Set\N{\c&H555D63&\3c&HFFFFFF&\bord1.5\blur6\fs42} Leather clothing made\Nfrom Mud Frog Skin.\NGrants slash resistance.\N4000 mahni
+Dialogue: 0,0:12:24.31,0:12:26.81,Sign_Basic,sign,0,0,0,,{\pos(1329.999,836.001)\b1\bord0\shad0\c&HFDE787&}Splitblade Leather Mask
+Dialogue: 0,0:12:27.10,0:12:30.31,Sign_Basic,sign,0,0,0,,{\fad(450,450)\3c&HB6A833&\shad0\fs60\b1\pos(963.999,873.999)\c&HFFFFE7&}Weapon Shop
+Dialogue: 0,0:12:38.53,0:12:39.45,Sign_Basic,sign,0,0,0,,{\an7\pos(980.001,189.999)\org(980.001,189.999)\fscx100.315\fscy95.865\frz10.135\fry-4.053\frx4.133\fax-0.21\fs36\xbord1.5\ybord1.44\xshad0\yshad0\c&HA79D98&\3c&H3F352B&\blur3}A sword forged from Gray Ore.\NA simple, straightforward weapon.
+Dialogue: 0,0:12:38.53,0:12:39.45,Sign_Basic,sign,0,0,0,,{\an1\pos(972.403,493.998)\org(960,493.998)\fscx101.08\fscy95.858\frz8.866\fry-2.007\frx4.774\fax-0.17\xbord0\ybord0\xshad0\yshad0\c&HF4F697&}Iron Dagger
+Dialogue: 0,0:12:38.53,0:12:39.45,Sign_Basic,sign,0,0,0,,{\an7\pos(956.001,744)\org(956.001,744)\fscx99.726\fscy96.432\frz8.483\fry-4.053\frx4.133\fax-0.183\fs36\xbord1.5\ybord1.45\xshad0\yshad0\c&HA79D98&\3c&H3F352B&\blur3}A dagger forged from Gray Ore.\NA simple, straightforward weapon.
+Dialogue: 0,0:12:38.53,0:12:39.45,Sign_Basic,sign,0,0,0,,{\an1\pos(945.086,1047.999)\org(933.999,1047.999)\fscx100.754\fscy96.168\frz7.776\fry-2.007\frx4.774\fax-0.153\xbord0\ybord0\xshad0\yshad0\c&HF4F697&}Iron Spear
+Dialogue: 0,0:12:39.45,0:12:41.57,Sign_Basic,sign,0,0,0,,{\an7\pos(980.001,201)\org(980.001,201)\fscx100.315\fscy95.865\frz10.135\fry-4.053\frx4.133\fax-0.21\fs36\xbord1.5\ybord1.44\xshad0\yshad0\c&HA79D98&\3c&H3F352B&\blur3\fad(575,0)}A hammer forged from Gray Ore.\NA simple, straightforward weapon.
+Dialogue: 0,0:12:39.45,0:12:41.57,Sign_Basic,sign,0,0,0,,{\an1\pos(972.403,507)\org(960,507)\fscx101.08\fscy95.858\frz8.866\fry-2.007\frx4.774\fax-0.17\xbord0\ybord0\xshad0\yshad0\c&HF4F697&\fad(575,0)}Wood Staff
+Dialogue: 0,0:12:39.45,0:12:41.57,Sign_Basic,sign,0,0,0,,{\an7\pos(956.001,759)\org(956.001,759)\fscx99.726\fscy96.432\frz8.483\fry-4.053\frx4.133\fax-0.183\fs36\xbord1.5\ybord1.45\xshad0\yshad0\c&HA79D98&\3c&H3F352B&\blur3\fad(575,0)}A staff made from wood.\NA simple, straightforward weapon.
+Dialogue: 0,0:12:39.45,0:12:41.57,Sign_Basic,sign,0,0,0,,{\an1\pos(944.087,1062)\org(933,1062)\fscx100.754\fscy96.168\frz7.776\fry-2.007\frx4.774\fax-0.153\xbord0\ybord0\xshad0\yshad0\c&HF4F697&\fad(575,0)}Stone Staff
+Dialogue: 0,0:12:41.57,0:12:42.53,Sign_Basic,sign,0,0,0,,{\an1\pos(993.057,190.002)\org(980.001,190.002)\fscx101.257\fscy95.69\frz9.408\fry-2.007\frx4.774\fax-0.179\xbord0\ybord0\xshad0\yshad0\c&HF4F697&\fad(625,0)}Fossil Rod
+Dialogue: 0,0:12:41.57,0:12:42.53,Sign_Basic,sign,0,0,0,,{\an7\pos(980.001,284.001)\org(980.001,284.001)\fscx100.315\fscy95.865\frz10.135\fry-4.053\frx4.133\fax-0.21\fs36\xbord1.5\ybord1.44\xshad0\yshad0\c&HA79D98&\3c&H3F352B&\blur3\fad(625,0)}A rod made from some kind of fossil.\NExtremely fragile.
+Dialogue: 0,0:12:41.57,0:12:42.53,Sign_Basic,sign,0,0,0,,{\an1\pos(966.403,594)\org(954,594)\fscx101.08\fscy95.858\frz8.866\fry-2.007\frx4.774\fax-0.17\xbord0\ybord0\xshad0\yshad0\c&HF4F697&\fad(625,0)}Wood Shield
+Dialogue: 0,0:12:41.57,0:12:42.53,Sign_Basic,sign,0,0,0,,{\an7\pos(951.999,842.001)\org(951.999,842.001)\fscx99.726\fscy96.432\frz8.483\fry-4.053\frx4.133\fax-0.183\fs36\xbord1.5\ybord1.45\xshad0\yshad0\c&HA79D98&\3c&H3F352B&\blur3\fad(625,0)}A shield made from wood.\NA simple, straightforward shield.
+Dialogue: 0,0:12:59.63,0:13:05.14,Sign_Basic,sign,0,0,0,,{\fad(0,1050)\pos(870,288)\c&H423C3A&\3c&HE0DDE2&\b1\shad0\bord4.5\fnArial\fsp6}Diremarsh Waste
+Dialogue: 0,0:12:59.63,0:13:05.14,Sign_Basic,sign,0,0,0,,{\fad(0,1050)\c&H423C3A&\3c&HE0DDE2&\b1\shad0\bord4.5\fnArial\pos(972,795)\fsp6}Secondale
+Dialogue: 0,0:13:07.14,0:13:12.65,Default,sign,0,0,0,,{\fad(450,0)\an8\pos(960,210)\b1\3c&HB7B137&\shad0\bord9}Diremarsh Waste
+Dialogue: 0,0:13:20.99,0:13:22.32,Sign_Basic,sign,0,0,0,,{\fad(100,0)\an8\fs90\fnArial\b1\c&HFFE886&\bord0\shad0}Stone\N{\c&H7F7F7F&\bord2.25\shad0\fs72\3c&HBEBDBA&} A completely unremarkable piece of rock.
+Dialogue: 0,0:13:31.25,0:13:33.92,Sign_Basic,sign,0,0,0,,{\fad(200,225)\an7\c&HF5ED93&\bord6\shad0\b1\fs60\pos(90,75)\3c&H493C1F&\blur6}Gray Ore\N{\c&H555D63&\3c&HABAFAF&\bord2.25\fs42\blur0}Has no special characteristics,\Nbut can be put to various uses.
+Dialogue: 0,0:13:53.40,0:13:56.07,Sign_Basic,sign,0,0,0,,{\fad(125,0)\pos(348,390)\c&H6A2BD7\b1\bord0\shad0}Mud Frog
+Dialogue: 0,0:13:53.40,0:13:56.07,Sign_Basic,sign,0,0,0,,{\fad(125,0)\pos(348,686.001)\fs36\c&H79717B&\bord0\b1\shad0}It protects itself\Nwith a coating of mud
+Dialogue: 0,0:15:20.02,0:15:21.28,Sign_Basic,sign,0,0,0,,{\fad(225,0)\b1\c&H8C1C5B&\3c&HE36DFB&\bord12\shad0\fs48\pos(960,465)}Dropped Item\N{\b0\c&HFDFBA9&\bord6\fs72\3c&H3D2B17&}Mud Frog Skin
+Dialogue: 0,0:16:17.92,0:16:18.71,Sign_Basic,sign,0,0,0,,{\fad(200,0)\pos(1356,552)\c&HC2CA7F&\shad0\fs36\b1\3c&H0F0605&}Marsh Dagger\N{\c&H7D7C71&\fs24}
+Dialogue: 0,0:16:27.59,0:16:29.59,Sign_Basic,sign,0,0,0,,{\an5\pos(621.806,659.893)\org(588,720)\fscx100.317\fscy91.625\frz20.925\fry-8.442\frx2.172\fax-0.389\fs42\b1\xbord4.51\ybord4.12\xshad0\yshad0\c&H76E03B&\3c&HF6FFC7&}Weapon Shop Avenue
+Dialogue: 0,0:16:27.59,0:16:29.59,Sign_Basic,sign,0,0,0,,{\an5\pos(1336.978,354.07)\org(1302,420)\fscx104.285\fscy93.163\frz20.149\fry-4.751\frx1.371\fax-0.343\fs54\b1\xbord4.69\ybord4.19\xshad0\yshad0\c&HB344F2&\3c&HFAFFFB&}Item Shop Avenue
+Dialogue: 0,0:16:34.47,0:16:37.73,Default,sign,0,0,0,,{\pos(1422,630)\org(1422,630)\fscx99.946\fscy100\fry-0.667\fnArial\b1\xbord0\ybord0\xshad0\yshad0\c&HFEF8A5&\fad(225,250)}Marsh Daggers
+Dialogue: 0,0:16:34.47,0:16:37.73,Sign_Basic,sign,0,0,0,,{\fad(225,250)\c&H767375&\bord0\shad0\fs36\an1\pos(1074,1028.001)}After landing a critical, reductions to\Ndurability are temporarily halved.
+Dialogue: 0,0:17:19.35,0:17:25.27,Sign_Basic,sign,0,0,0,,{\pos(150,765)\an1\c&H000000&\3c&HFFFFFF&\shad0}A CHARACTER CONTROLLED BY THE COMPUTER.
+Dialogue: 0,0:17:46.84,0:17:51.88,Sign_Basic,sign,0,0,0,,{\an5\b1\fs42\c&H76E03B&\3c&HF6FFC7&\shad0\bord4.5\fay-.36\frx4\fry332\move(1362,453,1362,510)\frz5.519}Weapon Shop
+Dialogue: 0,0:18:59.70,0:19:03.46,Sign_Basic,sign,0,0,0,,{\fad(0,475)\pos(1548,698.001)\c&H5017AB&\shad0\b1\3c&H160F18&}Redcap Goblin
+Dialogue: 0,0:21:13.71,0:21:18.09,Sign_Basic,sign,0,0,0,,{\fad(75,0)\an8\c&HB13B82&\3c&HEB50EB&\fnArial\b1\pos(960,30)\fs60\shad0}Unique Monster\N{\fs72\c&HF286F1&\bord1.5\3c&H9B7493&\4c&HEFC1F8&\shad3}Lycagon the Nightslayer\N{\bord0\shad0\fnTrebuchet MS\fs48\c&HD0D0C8&} Encountered
+Dialogue: 0,0:22:02.97,0:22:06.51,Default,sign,0,0,0,,{\an5\c&H767055&\bord9\shad0\move(960,945,960,966)\3c&HFFF9E3&\t(\fs75)}Unique Monsters Dispatched: {\bord0}0
+Dialogue: 0,0:22:02.97,0:22:09.98,Sign_Basic,sign,0,0,0,,{\move(960,102,960,60)\an5\c&H9E9080&\bord0\shad0\t(\f26)}World Story
+Dialogue: 0,0:22:06.51,0:22:09.98,Default,sign,0,0,0,,{\an5\c&H767055&\bord9\shad0\move(960,966,960,990)\fs75\3c&HFFF9E3&\t(\fs78)}Progress: {\bord0}0%

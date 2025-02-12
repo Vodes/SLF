@@ -1,0 +1,296 @@
+﻿[Script Info]
+Title: Deutsch
+ScaledBorderAndShadow: yes
+Original Script: cr_de  [http://www.crunchyroll.com/user/cr_de]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+LayoutResX: 1920
+LayoutResY: 1080
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+Style: Alt,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00743E15,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:08.45,0:00:12.24,Default,Spieler A,0,0,0,,Wow! Das ist definitiv\Nhochstufige Ausrüstung.
+Dialogue: 0,0:00:12.24,0:00:17.29,Default,Spieler B,0,0,0,,Und dieses Emblem. Das ist doch\Nein Hardcore-Endgame-Clan.
+Dialogue: 0,0:00:18.04,0:00:21.38,Default,Spieler A,0,0,0,,Was macht so einer\Nin einer Anfängerstadt?
+Dialogue: 0,0:00:26.26,0:00:30.55,Default,Saiga-0,0,0,0,,{\i1}Da ich gehört habe, dass Rakuro immer\Nden gleichen Spielernamen benutzt,
+Dialogue: 0,0:00:30.55,0:00:32.60,Default,Saiga-0,0,0,0,,{\i1}dachte ich, ich könnte ihn hier finden.
+Dialogue: 0,0:00:32.97,0:00:36.10,Default,Saiga-0,0,0,0,,{\i1}Dass ein neuer Spieler\Nnicht in diese Stadt kommt,
+Dialogue: 0,0:00:36.10,0:00:38.23,Default,Saiga-0,0,0,0,,{\i1}kann ich mir nicht vorstellen.
+Dialogue: 0,0:00:54.33,0:00:56.95,Default,Saiga-0,0,0,0,,Ob ich ihn verpasst habe?
+Dialogue: 0,0:02:40.72,0:02:42.81,Default,Sunraku,0,0,0,,Unterhalte mich, …
+Dialogue: 0,0:02:45.94,0:02:49.77,Default,Sunraku,0,0,0,,ShanFro!
+Dialogue: 0,0:02:58.45,0:03:00.87,Default,Sunraku,0,0,0,,Erst mal die Bewegungen studieren.
+Dialogue: 0,0:03:15.55,0:03:20.14,Default,Sunraku,0,0,0,,Letztlich ist sie ein Boss für Anfänger.\NIhre Moves sind leicht zu lesen und sie hat …
+Dialogue: 0,0:03:21.43,0:03:23.85,Default,Sunraku,0,0,0,,keine unvorhersehbaren Angriffe!
+Dialogue: 0,0:03:25.56,0:03:28.10,Default,Sunraku,0,0,0,,Die schaffe ich, ohne Schaden zu nehmen!
+Dialogue: 0,0:03:28.10,0:03:31.19,Default,Sunraku,0,0,0,,Aber kassiere ich nur\Neinen Treffer, bin ich tot.
+Dialogue: 0,0:03:37.99,0:03:38.66,Default,Sunraku,0,0,0,,Hä?!
+Dialogue: 0,0:03:39.62,0:03:42.91,Default,Sunraku,0,0,0,,Es war zwar schon abgenutzt,\Naber dass es nach einem Schlag zerbricht …!
+Dialogue: 0,0:03:45.79,0:03:48.50,Default,Sunraku,0,0,0,,Dabei hing ich schon ein wenig daran!
+Dialogue: 0,0:03:49.83,0:03:51.63,Default,Sunraku,0,0,0,,Eine harte Haut, ja?
+Dialogue: 0,0:03:51.63,0:03:53.17,Default,Sunraku,0,0,0,,Dann will ich …
+Dialogue: 0,0:03:56.22,0:03:58.09,Default,Sunraku,0,0,0,,mal was ausprobieren.
+Dialogue: 0,0:04:02.43,0:04:04.27,Default,Sunraku,0,0,0,,Ich werd dich filetieren!
+Dialogue: 0,0:04:06.31,0:04:08.06,Default,Sunraku,0,0,0,,„Aufspießen“!
+Dialogue: 0,0:04:17.70,0:04:20.62,Default,Sunraku,0,0,0,,Was ist das denn?! Kacke?!
+Dialogue: 1,0:04:24.04,0:04:27.91,Default,Sunraku,0,0,0,,Ich schätze, ich hab sie\Nein wenig unterschätzt.
+Dialogue: 0,0:04:32.42,0:04:35.42,Default,Sunraku,0,0,0,,Was guckst du so triumphierend?
+Dialogue: 0,0:04:35.42,0:04:37.09,Default,Sunraku,0,0,0,,Weißt du,
+Dialogue: 0,0:04:37.09,0:04:41.93,Default,Sunraku,0,0,0,,ich spiel haufenweise unfaire Trash Games\Ndurch, da ist das hier kein Vergleich.
+Dialogue: 0,0:04:42.80,0:04:45.77,Default,Sunraku,0,0,0,,Ich geb doch nicht auf,\Nnur weil du mich angeschissen hast!
+Dialogue: 0,0:04:49.06,0:04:51.60,Default,Sunraku,0,0,0,,{\i1}Durch das Gift nehme ich\Nalle zehn Sekunden 1 Schaden.
+Dialogue: 0,0:04:51.60,0:04:54.52,Default,Sunraku,0,0,0,,{\i1}Das heißt, mir bleiben\Nnoch etwa vier Minuten.
+Dialogue: 0,0:04:56.19,0:05:00.57,Default,Sunraku,0,0,0,,{\i1}Um zu gewinnen, muss ich präzise kritische\NTreffer landen, sonst schaffe ich es nicht!
+Dialogue: 0,0:05:01.66,0:05:04.62,Default,Sunraku,0,0,0,,{\i1}Krits erzielt man\Nin diesem Spiel nicht per Zufall.
+Dialogue: 0,0:05:05.16,0:05:08.00,Default,Sunraku,0,0,0,,{\i1}Sie scheinen dann aufzutreten, wenn man
+Dialogue: 0,0:05:08.00,0:05:11.67,Default,Sunraku,0,0,0,,{\i1}einen Angriff ideal ausführt\Noder einen Schwachpunkt trifft.
+Dialogue: 0,0:05:11.67,0:05:14.34,Default,Sunraku,0,0,0,,{\i1}Bei dem Vieh wird das\Ndurch seine harten Schuppen verhindert.
+Dialogue: 0,0:05:14.34,0:05:17.00,Default,Sunraku,0,0,0,,Der Kopf ist also\Nihr einziger Schwachpunkt!
+Dialogue: 0,0:05:24.01,0:05:26.60,Default,Sunraku,0,0,0,,Aber er ist echt schwer zu treffen.
+Dialogue: 0,0:05:26.60,0:05:29.77,Default,Sunraku,0,0,0,,Dann muss ich selbst\Neine Schwachstelle erzeugen!
+Dialogue: 0,0:05:33.94,0:05:35.23,Default,Sunraku,0,0,0,,„Aufspießen“!
+Dialogue: 0,0:05:42.61,0:05:43.61,Default,Sunraku,0,0,0,,Okay!
+Dialogue: 0,0:05:43.61,0:05:46.37,Default,Sunraku,0,0,0,,{\i1}Jetzt die Wunde weiter angreifen!
+Dialogue: 0,0:05:48.24,0:05:52.62,Default,Sunraku,0,0,0,,{\i1}Das Fleisch in dem Bereich verändert sich\Nund es entstehen kritische Treffer.
+Dialogue: 0,0:05:55.08,0:05:59.09,Default,Sunraku,0,0,0,,{\i1}Jetzt heißt es angreifen,\Nsolange ich noch Ausdauer hab!
+Dialogue: 0,0:06:02.72,0:06:06.39,Default,Sunraku,0,0,0,,{\i1}Scheiße! Ich weiß nicht,\Nwie viele LP sie noch hat!
+Dialogue: 0,0:06:06.39,0:06:07.56,Default,Sunraku,0,0,0,,{\i1}Reicht die Zeit?!
+Dialogue: 0,0:06:12.73,0:06:13.89,Default,Sunraku,0,0,0,,Mist.
+Dialogue: 0,0:06:14.73,0:06:18.40,Default,Sunraku,0,0,0,,Weil ich Trash Chronicle geschafft hab,\Nbin ich ein wenig arrogant geworden.
+Dialogue: 0,0:06:19.11,0:06:21.90,Default,Sunraku,0,0,0,,„Das ist bloß ein einfaches\NSpiel für die breite Masse.“
+Dialogue: 0,0:06:21.90,0:06:25.20,Default,Sunraku,0,0,0,,„Das schaff ich locker,\Nohne Heiltränke und Schaden zu nehmen!“
+Dialogue: 0,0:06:25.20,0:06:26.41,Default,Sunraku,0,0,0,,So dachte ich.
+Dialogue: 0,0:06:28.99,0:06:31.20,Default,Sunraku,0,0,0,,Ich war überheblich.
+Dialogue: 0,0:06:36.17,0:06:37.63,Default,Sunraku,0,0,0,,Aber …
+Dialogue: 0,0:06:42.38,0:06:43.84,Default,Sunraku,0,0,0,,„Blitzkonter“!
+Dialogue: 0,0:06:50.39,0:06:52.89,Default,Sunraku,0,0,0,,Glaub nicht, dass du mich\Nso einfach fressen kannst!
+Dialogue: 0,0:06:53.27,0:06:56.06,Default,Sunraku,0,0,0,,Du wirst dafür bezahlen,\Nmich vollgeschissen zu haben!
+Dialogue: 0,0:06:56.06,0:06:57.77,Default,Sunraku,0,0,0,,„Aufspießen“!
+Dialogue: 0,0:07:18.50,0:07:21.96,Default,Sunraku,0,0,0,,Jaaa! Ich hab’s geschafft!
+Dialogue: 0,0:07:21.96,0:07:24.30,Default,Sunraku,0,0,0,,Hast du das gesehen,\Ndu Scheißschlange?!
+Dialogue: 0,0:07:29.97,0:07:33.43,Default,Sunraku,0,0,0,,Diese Drops sehen aus,\Nals würden sie ordentlich Geld einbringen!
+Dialogue: 0,0:07:35.89,0:07:38.06,Default,Sunraku,0,0,0,,Shit, Shit! Ich hab ja keine Zeit!
+Dialogue: 0,0:07:38.73,0:07:42.27,Default,Sunraku,0,0,0,,Sind das alle Items?!\NLiegt nichts mehr rum?!
+Dialogue: 0,0:07:43.36,0:07:45.57,Default,Sunraku,0,0,0,,Ich muss die Punkte\Nvom Level-Up verteilen!
+Dialogue: 0,0:07:45.57,0:07:46.82,Default,Sunraku,0,0,0,,Halt, keine Zeit!
+Dialogue: 0,0:07:46.82,0:07:50.99,Default,Sunraku,0,0,0,,Okay, alles auf Ausdauer und Agilität!
+Dialogue: 0,0:07:50.99,0:07:53.95,Default,Sunraku,0,0,0,,Sobald ich in der Stadt bin,\Nkauf ich ein Gegengift!
+Dialogue: 0,0:07:53.95,0:07:56.79,Default,Sunraku,0,0,0,,Aber keine Ahnung, wo der Händler ist!\NDas schaff ich nicht!
+Dialogue: 0,0:07:56.79,0:07:59.75,Default,Sunraku,0,0,0,,Dann sollte ich wohl erst\Nden Respawn-Punkt aktualisieren!
+Dialogue: 0,0:07:59.75,0:08:01.63,Default,Sunraku,0,0,0,,Also zum Gasthaus.
+Dialogue: 0,0:08:01.63,0:08:04.42,Default,Sunraku,0,0,0,,Halt, wo das ist,\Nweiß ich auch nicht, verdammt!
+Dialogue: 1,0:08:12.10,0:08:15.98,Default,Reiji,0,0,0,,Mia, du wolltest doch ein Monster\Nvom Typ Hund zähmen, richtig?
+Dialogue: 0,0:08:15.98,0:08:19.81,Default,Mia,0,0,0,,{\pos(1488,1020)}Ja. In meiner Wohnung\Nsind Haustiere verboten.
+Dialogue: 0,0:08:19.81,0:08:22.31,Default,Mia,0,0,0,,{\pos(1488,1020)}In diesem Spiel kann man\Nsich Monster halten, oder?
+Dialogue: 0,0:08:22.69,0:08:26.44,Default,Mia,0,0,0,,Ich zähle heute also auf dich, Yamamoto.
+Dialogue: 0,0:08:26.82,0:08:28.86,Default,Reiji,0,0,0,,{\i1}Nach drei Monaten\Nunermüdlichen Einsatzes
+Dialogue: 0,0:08:28.86,0:08:33.45,Default,Reiji,0,0,0,,{\i1}hab ich meinen Schwarm endlich\Ndazu gebracht, mit ShanFro anzufangen!
+Dialogue: 0,0:08:33.95,0:08:39.46,Default,Reiji,0,0,0,,{\i1}Jetzt kann ich, ein Veteran,\Nihr als Anfängerin das Spiel erklären!
+Dialogue: 0,0:08:39.46,0:08:42.46,Default,Reiji,0,0,0,,{\i1}Ich werde diese Chance\Nauf jeden Fall nutzen!
+Dialogue: 0,0:08:42.46,0:08:44.71,Default,Mia,0,0,0,,Ähm … Yamamoto?
+Dialogue: 0,0:08:45.34,0:08:47.30,Default,Reiji,0,0,0,,S-Sorry! Alles gut!
+Dialogue: 0,0:08:49.55,0:08:53.01,Default,Reiji,0,0,0,,Mia, im Spiel nennt man\Nsich nicht beim richtigen,
+Dialogue: 0,0:08:53.01,0:08:55.26,Default,Reiji,0,0,0,,sondern beim Spielernamen.
+Dialogue: 0,0:08:55.77,0:08:59.31,Default,Mia,0,0,0,,Ach so. Dann Reiji, richtig?
+Dialogue: 0,0:08:59.31,0:09:03.40,Default,Reiji,0,0,0,,{\i1}Jaaa! Ich hab sie dazu gebracht,\Nmich beim Vornamen zu nennen!
+Dialogue: 0,0:09:03.40,0:09:05.32,Default,Reiji,0,0,0,,{\i1}Danke, ShanFro!
+Dialogue: 0,0:09:06.78,0:09:07.65,Default,Mia,0,0,0,,W-Was ist das?
+Dialogue: 0,0:09:09.32,0:09:11.32,Default,Mia,0,0,0,,E-Ein Monster?!
+Dialogue: 0,0:09:13.24,0:09:17.83,Default,Reiji,0,0,0,,Warte! Er hat einen Spielernamen!\NDas ist kein Monster, sondern ein Spieler!
+Dialogue: 0,0:09:17.83,0:09:20.50,Default,Mia,0,0,0,,Den darf ich nicht angreifen?
+Dialogue: 0,0:09:20.50,0:09:24.17,Default,Reiji,0,0,0,,{\an8}Wenn du einen PK begehst,\Nkommt ein Totenkopf vor deinen Namen!
+Dialogue: 0,0:09:26.50,0:09:28.17,Default,Mia,0,0,0,,Das will ich nicht.
+Dialogue: 0,0:09:28.17,0:09:31.63,Default,Mia,0,0,0,,Aber warum rennt der\Ndenn mit vollem Tempo?
+Dialogue: 0,0:09:31.63,0:09:34.89,Default,Reiji,0,0,0,,Ah, der wurde bestimmt\Nvon Giftkot getroffen.
+Dialogue: 0,0:09:34.89,0:09:38.52,Default,Reiji,0,0,0,,Hey! Du da, Sunraku!
+Dialogue: 0,0:09:39.14,0:09:42.56,Default,Reiji,0,0,0,,Geh gerade aus weiter! Das Gebäude\Nmit dem weißen Dach ist das Gasthaus!
+Dialogue: 0,0:09:42.56,0:09:47.02,Default,Reiji,0,0,0,,Aber pass auf: Du musst dich ins Bett legen,\Ndamit der Respawn-Punkt aktualisiert wird!
+Dialogue: 0,0:09:48.78,0:09:50.65,Default,Sunraku,0,0,0,,Danke!
+Dialogue: 0,0:09:51.86,0:09:56.28,Default,Reiji,0,0,0,,Als es zum Release des Spiels noch\Nkeinerlei Infos gab, kam das recht oft vor.
+Dialogue: 0,0:09:56.66,0:10:01.37,Default,Reiji,0,0,0,,Spieler, die von der Schlange vergiftet\Nwurden und dann zur Stadt rasten.
+Dialogue: 0,0:10:01.37,0:10:02.54,Default,Mia,0,0,0,,Ach so.
+Dialogue: 0,0:10:02.54,0:10:06.88,Default,Reiji,0,0,0,,Er hat wohl seine Startausrüstung\Nzugunsten der Agilität verkauft.
+Dialogue: 0,0:10:06.88,0:10:11.34,Default,Mia,0,0,0,,Reiji, irgendwie klingst du\Nwie ein echter Veteran! Echt cool!
+Dialogue: 0,0:10:12.55,0:10:14.05,Default,Reiji,0,0,0,,Schätze schon.
+Dialogue: 0,0:10:15.47,0:10:18.39,Default,Reiji,0,0,0,,{\i1}Danke, blauer Vogelmensch!
+Dialogue: 0,0:10:19.68,0:10:21.60,Default,Empfangs-NPC,0,0,0,,Sie möchten also hier übernachten?
+Dialogue: 0,0:10:21.60,0:10:26.06,Default,Empfangs-NPC,0,0,0,,In diesem Gasthaus bieten wir\Nden Pionieren einen Ort, an dem sie
+Dialogue: 0,0:10:26.06,0:10:28.15,Default,Empfangs-NPC,0,0,0,,sich unbesorgt ausruhen können.
+Dialogue: 0,0:10:28.15,0:10:29.02,Default,Empfangs-NPC,0,0,0,,Zum Beispiel …
+Dialogue: 0,0:10:29.02,0:10:31.78,Default,Sunraku,0,0,0,,Ich brauch keine Erklärung!\NGib mir einfach ein Bett!
+Dialogue: 0,0:10:32.15,0:10:35.45,Default,Empfangs-NPC,0,0,0,,Sehr gerne. Ich sehe nach,\Nwelche Zimmer gerade …
+Dialogue: 0,0:10:34.74,0:10:35.45,Alt,Sunraku,0,0,0,,Mach endlich!
+Dialogue: 0,0:10:35.45,0:10:37.32,Default,Sunraku,0,0,0,,Mach! {\alpha&HFF&\fs+2\t(819,820,\alpha&H00&)}End! {\alpha&HFF&\fs+2\t(1195,1196,\alpha&H00&)}Lich!
+Dialogue: 0,0:10:37.32,0:10:39.91,Default,Sunraku,0,0,0,,{\fr1}I{\fr2}c{\fr-1}h {\fr0}h{\fr2}a{\fr0}b {\fr-2}n{\fr1}u{\fr0}r {\fr-3}n{\fr1}o{\fr3}c{\fr-2}h {\fr-2}e{\fr1}i{\fr-1}n{\fr2}e{\fr0}n {\fr1}L{\fr-2}P{\fr2}!
+Dialogue: 0,0:10:40.45,0:10:43.71,Default,Empfangs-NPC,0,0,0,,Dann benutzen Sie bitte Zimmer 102.
+Dialogue: 0,0:10:41.62,0:10:43.71,Alt,Sunraku,0,0,0,,Okay, danke!
+Dialogue: 0,0:10:44.67,0:10:45.92,Default,Sunraku,0,0,0,,Hiyah!
+Dialogue: 0,0:10:49.59,0:10:52.13,Default,Spielstimme,0,0,0,,Wiederbelebungspunkt aktualisiert.
+Dialogue: 0,0:10:52.76,0:10:53.88,Default,Sunraku,0,0,0,,Jaaa!
+Dialogue: 0,0:10:54.38,0:10:56.05,Default,Sunraku,0,0,0,,Ich hab’s ge…
+Dialogue: 0,0:11:06.40,0:11:10.02,Default,Rakuro,0,0,0,,Das war knapp. Gerade noch so geschafft.
+Dialogue: 0,0:11:10.44,0:11:12.69,Default,Rakuro,0,0,0,,Na ja, gestorben bin ich trotzdem.
+Dialogue: 0,0:11:13.36,0:11:16.41,Default,Rakuro,0,0,0,,Zum Glück verliert man\Nbeim Sterben zur Strafe keine Items.
+Dialogue: 0,0:11:17.03,0:11:22.04,Default,Rakuro,0,0,0,,Der Spieler, der mir das Gasthaus gezeigt hat …\NWenn ich ihn noch mal sehe, muss ich ihm danken.
+Dialogue: 0,0:11:22.95,0:11:25.79,Default,Rakuro,0,0,0,,{\i1}Aber ShanFro, das göttliche Game,
+Dialogue: 0,0:11:25.79,0:11:27.58,Default,Rakuro,0,0,0,,{\i1}macht echt Spaß!
+Dialogue: 0,0:11:38.55,0:11:39.60,Default,Sunraku,0,0,0,,Also dann, …
+Dialogue: 0,0:11:40.01,0:11:44.18,Default,Sunraku,0,0,0,,Sekundir ist für mich\Ndie erste Stadt in ShanFro.
+Dialogue: 0,0:11:44.60,0:11:47.90,Default,Sunraku,0,0,0,,Erst mal kauf ich eine Karte,\NHeil-Items und Ausrüstung.
+Dialogue: 0,0:11:48.31,0:11:53.03,Default,Sunraku,0,0,0,,Ich brauch stärkere Hauptwaffen\Nals die Söldnerschwerter!
+Dialogue: 0,0:11:53.03,0:11:55.90,Default,Sunraku,0,0,0,,Wenn ich schon spiele, dann auch richtig!
+Dialogue: 0,0:11:55.90,0:11:58.32,Default,Sunraku,0,0,0,,Das Ziel: Zu den Topspielern zu gehören!
+Dialogue: 0,0:11:59.20,0:12:02.16,Default,Spielerin A,0,0,0,,Was ist das denn?\NEin halbnackter Vogelkopf.
+Dialogue: 0,0:12:02.16,0:12:03.33,Default,Spieler B,0,0,0,,Ist das ein Spieler?
+Dialogue: 0,0:12:03.33,0:12:05.62,Default,Spieler C,0,0,0,,Das ist doch ein Meme-Set, oder?
+Dialogue: 0,0:12:05.62,0:12:06.58,Default,Spielerin D,0,0,0,,Gruselig.
+Dialogue: 0,0:12:06.58,0:12:09.67,Default,Sunraku,0,0,0,,{\i1}Oookay, zuerst Kleidung kaufen.
+Dialogue: 0,0:12:11.63,0:12:13.63,Default,Sunraku,0,0,0,,Ich nehm die billigste.
+Dialogue: 0,0:12:13.63,0:12:15.67,Default,Verkäuferin,0,0,0,,Vielen Dank für Ihren Einkauf.
+Dialogue: 0,0:12:16.47,0:12:21.22,Default,Sunraku,0,0,0,,Von Verteidigung und so mal ab … Hauptsache,\Nman behandelt mich nicht wie einen Perversen.
+Dialogue: 0,0:12:21.22,0:12:23.06,Default,Sunraku,0,0,0,,Und die Kopfbedeckung …
+Dialogue: 0,0:12:25.27,0:12:26.81,Default,Sunraku,0,0,0,,wechsle ich lieber nicht.
+Dialogue: 0,0:12:28.06,0:12:31.77,Default,NPC-Schmied,0,0,0,,{\an8}Eine Goblin-Axt?\NAls ob ich dir den Schrott abkaufe.
+Dialogue: 0,0:12:32.61,0:12:36.82,Default,Sunraku,0,0,0,,Ja, dachte ich mir schon.\NDann zeig mal deine Waffenauswahl.
+Dialogue: 0,0:12:36.82,0:12:37.86,Default,NPC-Schmied,0,0,0,,Sofort.
+Dialogue: 0,0:12:41.28,0:12:43.62,Default,Sunraku,0,0,0,,Die sind alle nicht so toll.
+Dialogue: 0,0:12:43.62,0:12:47.12,Default,Sunraku,0,0,0,,Die Killer-Hackmesser\Nsind um Längen besser.
+Dialogue: 0,0:12:47.12,0:12:51.08,Default,NPC-Schmied,0,0,0,,Klar, Killer-Hackmesser sind ja\Nauch halbwegs seltene Waffen.
+Dialogue: 0,0:12:51.08,0:12:52.92,Default,Sunraku,0,0,0,,Dachte ich’s doch.
+Dialogue: 0,0:12:52.92,0:12:56.21,Default,NPC-Schmied,0,0,0,,Wenn du bessere willst,\Nmüssen wir welche herstellen.
+Dialogue: 0,0:12:56.21,0:12:57.97,Default,Sunraku,0,0,0,,Was? Machst du das?
+Dialogue: 0,0:12:57.97,0:12:59.63,Default,NPC-Schmied,0,0,0,,Wenn du die Materialien hast.
+Dialogue: 0,0:13:00.01,0:13:04.81,Default,Erzählerin,0,0,0,,Eine sumpfige Ebene taucht den Weg\Nvon Sekundir zur dritten Stadt, Drittlema,
+Dialogue: 0,0:13:04.81,0:13:06.39,Default,Erzählerin,0,0,0,,unter Wasser.
+Dialogue: 0,0:13:06.39,0:13:09.02,Default,Erzählerin,0,0,0,,Die „Sumpfödnis der Qualen“.
+Dialogue: 0,0:13:09.02,0:13:12.65,Default,Erzählerin,0,0,0,,Hier gibt es Stellen,\Nan denen man Erze abbauen kann.
+Dialogue: 0,0:13:12.65,0:13:17.78,Default,Sunraku,0,0,0,,Er sagte, wenn ich ihm Eisenerz\Nvon hier bringe, schmiedet er mir Waffen.
+Dialogue: 0,0:13:17.78,0:13:18.90,Default,Sunraku,0,0,0,,Hauruck!
+Dialogue: 0,0:13:23.53,0:13:28.20,Default,Sunraku,0,0,0,,Schon wieder Geröll?!\NIch finde überhaupt kein Eisenerz!
+Dialogue: 0,0:13:29.37,0:13:33.71,Default,Sunraku,0,0,0,,Er meinte, für eine gute Waffe\Nbrauche ich fünf bis sechs Stück.
+Dialogue: 0,0:13:34.25,0:13:37.92,Default,Sunraku,0,0,0,,Aber nach 30 Minuten Hacke Schwingen\Nhab ich gerade mal zwei.
+Dialogue: 0,0:13:38.46,0:13:41.26,Default,Sunraku,0,0,0,,Ich kann mich in diesem Morast\Nauch kaum bewegen.
+Dialogue: 0,0:13:41.93,0:13:46.01,Default,Sunraku,0,0,0,,Zudem ist diese Hacke,\Ndie ich zum Abbauen gekauft habe, …
+Dialogue: 0,0:13:46.56,0:13:48.60,Default,Sunraku,0,0,0,,viel zu schwer!
+Dialogue: 0,0:13:56.48,0:14:00.49,Default,Sunraku,0,0,0,,Was? Stör mich nicht,\Nich bin grade beschäftigt.
+Dialogue: 0,0:14:10.04,0:14:13.21,Default,Sunraku,0,0,0,,Okay, alles klar.
+Dialogue: 0,0:14:13.21,0:14:17.21,Default,Sunraku,0,0,0,,Da du nicht angegriffen hattest,\Nwollte ich dich ignorieren.
+Dialogue: 0,0:14:17.21,0:14:22.01,Default,Sunraku,0,0,0,,Aber wenn du so sehr zu Material\Nverarbeitet werden willst, mach ich das!
+Dialogue: 0,0:14:26.47,0:14:31.98,Default,Sunraku,0,0,0,,Wie findest du das, Blödfrosch?!\NIch geb dir gleich den Gnadenstoß!
+Dialogue: 0,0:14:31.98,0:14:34.35,Default,Sunraku,0,0,0,,{\i1}Die Rüstung der Klingenabweisung,\Ndie ich trage,
+Dialogue: 0,0:14:34.35,0:14:38.69,Default,Sunraku,0,0,0,,{\i1}ist aus der Haut des Schlammfrosches\Ngefertigt und bietet Schlitzresistenz.
+Dialogue: 0,0:14:38.69,0:14:40.40,Default,Sunraku,0,0,0,,{\i1}Die Chance ist also hoch,
+Dialogue: 0,0:14:40.40,0:14:43.61,Default,Sunraku,0,0,0,,{\i1}dass auch bei diesem Frosch\NSchlitzangriffe wenig Wirkung zeigen.
+Dialogue: 0,0:14:43.61,0:14:46.62,Default,Sunraku,0,0,0,,{\i1}Anders gesagt, sollten stumpfe\Nund Stoßangriffe effektiv sein!
+Dialogue: 0,0:14:47.03,0:14:47.74,Default,Sunraku,0,0,0,,Das heißt, …
+Dialogue: 0,0:14:48.49,0:14:51.87,Default,Sunraku,0,0,0,,es ist Zeit für die Goblin-Axt!\NSie ist so stumpf,
+Dialogue: 0,0:14:51.87,0:14:54.29,Default,Sunraku,0,0,0,,dass sie das Zertrümmern-Attribut hat.
+Dialogue: 0,0:14:58.59,0:15:00.17,Default,Sunraku,0,0,0,,So langsam!
+Dialogue: 0,0:15:00.17,0:15:02.59,Default,Sunraku,0,0,0,,Warum kann ich\Nin diesem Morast nicht rennen?!
+Dialogue: 0,0:15:02.59,0:15:06.43,Default,Erzählerin,0,0,0,,Sümpfe schränken die Beweglichkeit\Neines Spielers merklich ein
+Dialogue: 0,0:15:06.43,0:15:09.10,Default,Erzählerin,0,0,0,,und erzwingen den „Gehen“-Zustand.
+Dialogue: 0,0:15:10.01,0:15:13.18,Default,Sunraku,0,0,0,,Sieht aus, als könntest du\Ndich nur schwer aufrichten,
+Dialogue: 0,0:15:13.18,0:15:16.15,Default,Sunraku,0,0,0,,wenn du einmal\Nauf dem Rücken gelandet bist.
+Dialogue: 0,0:15:23.15,0:15:25.65,Default,Sunraku,0,0,0,,So ein Fröschlein\Nhebt die Stimmung auch nicht.
+Dialogue: 0,0:15:26.61,0:15:30.70,Default,Sunraku,0,0,0,,Also wieder Erz farmen. So lästig.
+Dialogue: 0,0:15:30.70,0:15:32.08,Default,Spielerin A,0,0,0,,{\an8}Meinst du?
+Dialogue: 0,0:15:32.08,0:15:33.91,Default,Spielerin B,0,0,0,,{\an8}Ja, das wird schon.
+Dialogue: 0,0:15:32.79,0:15:36.12,Default,Sunraku,0,0,0,,{\i1}Vereinzelt tauchen auch\Nmehr neue Spieler auf.
+Dialogue: 0,0:15:33.91,0:15:35.87,Default,Spielerin A,0,0,0,,{\an8}Nachts? Keine Chance.
+Dialogue: 0,0:15:35.87,0:15:36.75,Default,Spielerin B,0,0,0,,{\an8}Das schaffen wir!
+Dialogue: 0,0:15:36.75,0:15:37.67,Default,Spielerin A,0,0,0,,{\an8}Auf keinen Fall.
+Dialogue: 0,0:15:38.13,0:15:41.59,Default,Sunraku,0,0,0,,{\i1}Durch die Sommerferien\Nwerden es vermutlich noch mehr.
+Dialogue: 0,0:15:41.59,0:15:45.92,Default,Sunraku,0,0,0,,{\i1}Es ist nur eine Frage der Zeit,\Nbis alle sich um die Ressourcen streiten.
+Dialogue: 0,0:15:46.30,0:15:51.64,Default,Sunraku,0,0,0,,{\i1}Um da nicht hineinzugeraten,\Nmuss ich jetzt möglichst viel sammeln.
+Dialogue: 0,0:15:54.47,0:15:58.90,Default,NPC-Schmied,0,0,0,,O-Oh. In nur drei Stunden\Nhast du ja einiges gesammelt.
+Dialogue: 0,0:15:59.94,0:16:03.28,Default,Sunraku,0,0,0,,Mit so viel kannst du bestimmt\Nwas Gutes herstellen, oder?
+Dialogue: 0,0:16:03.28,0:16:05.78,Default,NPC-Schmied,0,0,0,,Warte, ich zeig dir die Liste.
+Dialogue: 0,0:16:07.86,0:16:09.53,Default,NPC-Schmied,0,0,0,,Sieh einer an.
+Dialogue: 0,0:16:09.53,0:16:12.62,Default,NPC-Schmied,0,0,0,,Das ist ja ein Sumpfsarg-Fossil.
+Dialogue: 0,0:16:12.62,0:16:15.41,Default,Sunraku,0,0,0,,Ja, hab ein paar\Nseltsame Sachen gefunden.
+Dialogue: 0,0:16:15.41,0:16:17.66,Default,NPC-Schmied,0,0,0,,In dem Fall kann ich das hier machen.
+Dialogue: 0,0:16:19.58,0:16:23.63,Default,Sunraku,0,0,0,,Oh, nicht schlecht. Dann nehm ich das.
+Dialogue: 0,0:16:23.63,0:16:24.59,Default,Sunraku,0,0,0,,Zweimal.
+Dialogue: 0,0:16:24.59,0:16:27.59,Default,NPC-Schmied,0,0,0,,Okay, ich mach mich gleich ans Werk!
+Dialogue: 0,0:16:34.81,0:16:37.94,Default,Sunraku,0,0,0,,Bitte sehr, die Kurzschwerter der Sümpfe.
+Dialogue: 0,0:16:40.60,0:16:42.61,Default,Sunraku,0,0,0,,Das sind ja meisterliche Waffen!
+Dialogue: 0,0:16:42.61,0:16:47.74,Default,Sunraku,0,0,0,,Nach einem Krit sinkt die Haltbarkeit\Nfür eine Weile nur halb so stark.
+Dialogue: 0,0:16:47.74,0:16:50.70,Default,Sunraku,0,0,0,,Das passt gut zu meinem Stil!
+Dialogue: 0,0:16:50.70,0:16:53.87,Default,NPC-Schmied,0,0,0,,Wenn du wieder einige Materialien\Nbeisammen hast, bring sie her.
+Dialogue: 0,0:16:53.87,0:16:56.25,Default,NPC-Schmied,0,0,0,,Waffen „großziehen“\Nist ebenfalls mein Job.
+Dialogue: 0,0:16:56.70,0:16:58.25,Default,Sunraku,0,0,0,,Großziehen?
+Dialogue: 0,0:16:58.25,0:17:01.21,Default,NPC-Schmied,0,0,0,,Leute, die wie ich\NSchmiedemagie benutzen können,
+Dialogue: 0,0:17:01.21,0:17:05.88,Default,NPC-Schmied,0,0,0,,können Waffen nicht nur herstellen,\Nsondern sie auch verstärken.
+Dialogue: 0,0:17:05.88,0:17:07.26,Default,Sunraku,0,0,0,,Oha!
+Dialogue: 0,0:17:07.26,0:17:11.13,Default,NPC-Schmied,0,0,0,,Für einen Schmied\Nsind Waffen wie seine Kinder.
+Dialogue: 0,0:17:11.59,0:17:16.06,Default,NPC-Schmied,0,0,0,,Darum nenne ich es nicht „verstärken“, sondern lieber „großziehen“.
+Dialogue: 0,0:17:16.06,0:17:17.60,Default,Sunraku,0,0,0,,Verstehe.
+Dialogue: 0,0:17:17.98,0:17:22.31,Default,Sunraku,0,0,0,,{\i1\an8}Mir fällt jetzt erst auf, dass Sprechweise\Nund Verhalten der NPCs fabelhaft sind.
+Dialogue: 0,0:17:22.31,0:17:25.69,Default,Sunraku,0,0,0,,{\i1\an8}Sie antworten passend zu\Nmeinen Äußerungen und zur Situation.
+Dialogue: 0,0:17:25.69,0:17:27.94,Default,Sunraku,0,0,0,,{\i1}Was für eine KI wohl dahintersteckt?
+Dialogue: 0,0:17:27.94,0:17:30.11,Default,NPC-Schmied,0,0,0,,Oh, die Sonne geht unter.
+Dialogue: 0,0:17:30.57,0:17:35.33,Default,NPC-Schmied,0,0,0,,Verlass mit deiner Ausrüstung\Num die Zeit auf keinen Fall die Stadt.
+Dialogue: 0,0:17:35.33,0:17:36.49,Default,Sunraku,0,0,0,,Warum?
+Dialogue: 0,0:17:36.49,0:17:40.12,Default,NPC-Schmied,0,0,0,,Weil viele der nachtaktiven Monster\Nziemlich gefährlich sind, ist doch klar.
+Dialogue: 0,0:17:40.12,0:17:43.29,Default,Sunraku,0,0,0,,Ah, so ist das in diesem Spiel also.
+Dialogue: 0,0:17:43.29,0:17:45.09,Default,Sunraku,0,0,0,,Alles klar, ich werd aufpassen.
+Dialogue: 0,0:17:45.09,0:17:46.84,Default,NPC-Schmied,0,0,0,,Gut, bis dann.
+Dialogue: 0,0:17:47.75,0:17:51.88,Default,Sunraku,0,0,0,,Ich sagte, ich passe auf, aber die Strafe\Nfür den Tod ist gerade abgelaufen.
+Dialogue: 0,0:17:52.76,0:17:54.80,Default,Sunraku,0,0,0,,Und ich hab was Nettes erfahren.
+Dialogue: 0,0:17:54.80,0:17:58.97,Default,Sunraku,0,0,0,,Okaaay! Dann wollen wir\Ndoch mal die neuen Schwerter
+Dialogue: 0,0:17:58.97,0:18:03.31,Default,Sunraku,0,0,0,,an diesen gefährlichen nachtaktiven\NMonstern ausprobieren und leveln!
+Dialogue: 0,0:18:05.77,0:18:10.32,Default,Saiga-0,0,0,0,,{\i1}Seltsam. Ich hab schon\Ndas gesamte Anfängergebiet abgesucht.
+Dialogue: 0,0:18:11.57,0:18:13.32,Default,Saiga-0,0,0,0,,„Höchste Stärke“.
+Dialogue: 0,0:18:13.32,0:18:15.24,Default,Saiga-0,0,0,0,,„Verzauberung: Höllenflamme“.
+Dialogue: 0,0:18:15.24,0:18:16.24,Default,Saiga-0,0,0,0,,„Apokalypse“!
+Dialogue: 0,0:18:20.20,0:18:22.25,Default,Saiga-0,0,0,0,,{\i1}Was ich mir noch vorstellen kann, ist,
+Dialogue: 0,0:18:22.25,0:18:25.83,Default,Saiga-0,0,0,0,,{\i1}dass er diese Schlange besiegt hat,\Nohne in die Stadt zu gehen oder zu sterben,
+Dialogue: 0,0:18:25.83,0:18:27.59,Default,Saiga-0,0,0,0,,{\i1}und direkt nach Sekundir gegangen ist.
+Dialogue: 0,0:18:31.17,0:18:34.93,Default,Saiga-0,0,0,0,,Gibt es neue Spieler, die so was machen?
+Dialogue: 0,0:18:36.01,0:18:39.43,Default,Saiga-0,0,0,0,,Rakuro … würde ich das zutrauen.
+Dialogue: 0,0:19:03.79,0:19:04.71,Default,Sunraku,0,0,0,,Nicht schlecht!
+Dialogue: 0,0:19:05.37,0:19:09.38,Default,Sunraku,0,0,0,,{\i1}Ordnen wir die Situation\Nerst mal Stück für Stück ein.
+Dialogue: 0,0:19:09.38,0:19:13.72,Default,Sunraku,0,0,0,,{\i1}Zunächst mal tauchen nachts\Nandere Monster auf als bei Tage.
+Dialogue: 0,0:19:14.63,0:19:16.89,Default,Sunraku,0,0,0,,{\i1}Genau wie der Waffenschmied gesagt hat,
+Dialogue: 0,0:19:16.89,0:19:20.76,Default,Sunraku,0,0,0,,{\i1}sind viele der nachtaktiven Monster\Nwilder und gefährlicher.
+Dialogue: 0,0:19:20.76,0:19:25.77,Default,Sunraku,0,0,0,,{\i1}Dadurch komm ich mit dem Leveln\Ngut voran und konnte neue Skills lernen.
+Dialogue: 0,0:19:26.40,0:19:30.11,Default,Sunraku,0,0,0,,{\i1}Aber ist der hier nicht ein wenig zu stark?
+Dialogue: 0,0:19:30.82,0:19:32.61,Default,Sunraku,0,0,0,,{\i1}Das ist doch ein Balancing-Fehler!
+Dialogue: 0,0:19:33.69,0:19:37.78,Default,Sunraku,0,0,0,,{\i1}Sein Tempo bei Bewegungen und Angriffen\Nsind kein Vergleich zu den Goblins im Wald.
+Dialogue: 0,0:19:39.03,0:19:42.87,Default,Sunraku,0,0,0,,{\i1}Viele LP wären das eine,\Naber der baut Finten in seine Angriffe ein,
+Dialogue: 0,0:19:42.87,0:19:45.08,Default,Sunraku,0,0,0,,{\i1}als wäre es das Normalste der Welt!
+Dialogue: 0,0:19:45.71,0:19:48.54,Default,Sunraku,0,0,0,,{\i1}Und das Schlimmste ist …
+Dialogue: 0,0:19:56.09,0:19:57.05,Default,Sunraku,0,0,0,,Hey, hey, hey!
+Dialogue: 0,0:19:57.55,0:20:01.30,Default,Sunraku,0,0,0,,Gefährten herbeizurufen, ist doch\Nein Privileg schwacher Monster!
+Dialogue: 0,0:20:01.81,0:20:03.97,Default,Sunraku,0,0,0,,{\i1}Einer ist ja schon lästig,\Naber bei so vielen …
+Dialogue: 0,0:20:05.56,0:20:08.40,Default,Sunraku,0,0,0,,{\i1}weiß ich nicht mal, ob ich überlebe,\Nwenn ich im vollen Tempo wegrenne.
+Dialogue: 0,0:20:10.19,0:20:11.19,Default,Sunraku,0,0,0,,{\i1}Wegrennen?
+Dialogue: 0,0:20:12.23,0:20:14.65,Default,Sunraku,0,0,0,,{\i1}Hey, bin ich denn irre?
+Dialogue: 0,0:20:15.07,0:20:18.16,Default,Sunraku,0,0,0,,{\i1}So was bereitet mir doch\Nerst richtiges Vergnügen!
+Dialogue: 0,0:20:28.83,0:20:30.17,Default,Sunraku,0,0,0,,Das könnt ihr knicken!
+Dialogue: 0,0:20:32.13,0:20:34.88,Default,Sunraku,0,0,0,,Unterhaltet mich noch viel mehr!
+Dialogue: 0,0:20:37.92,0:20:41.60,Default,Sunraku,0,0,0,,{\i1}Ich … hatte dieses Spiel unterschätzt.
+Dialogue: 0,0:20:43.14,0:20:45.56,Default,Sunraku,0,0,0,,{\i1}Ich hatte ziemlichen Spaß.
+Dialogue: 0,0:20:46.22,0:20:48.31,Default,Sunraku,0,0,0,,{\i1}Auch so ein Meisterwerk\Nwar gar nicht so übel.
+Dialogue: 0,0:20:49.39,0:20:52.98,Default,Sunraku,0,0,0,,{\i1}Man könnte sogar sagen,\Nich war „angefixt“.
+Dialogue: 0,0:20:53.61,0:20:56.99,Default,Sunraku,0,0,0,,{\i1}Doch hinter diesem Spiel,
+Dialogue: 0,0:20:56.99,0:21:00.16,Default,Sunraku,0,0,0,,hinter ShanFro, steckte mehr.
+Dialogue: 0,0:21:02.03,0:21:05.24,Default,Sunraku,0,0,0,,{\i1}An diesem Tag, in diesem Moment, …
+Dialogue: 0,0:21:06.08,0:21:09.58,Default,Sunraku,0,0,0,,{\i1}lernte ich das wahre\NShangri-La Frontier kennen.
+Dialogue: 3,0:21:14.21,0:21:18.09,Default,Sunraku,0,0,0,,Einzigartigem Monster Lycaon,\Nder Nachträuber, begegnet.
+Dialogue: 0,0:21:18.59,0:21:21.84,Default,Sunraku,0,0,0,,Einzigartiges … Monster …
+Dialogue: 0,0:23:40.61,0:23:43.99,Default,Kinder,0,0,0,,ShanFro-Theater!
+Dialogue: 0,0:24:22.02,0:24:25.23,Default,Kinder,0,0,0,,ShanFro-Theater!
+Dialogue: 0,0:24:31.87,0:24:34.49,Default,Saiga-0,0,0,0,,{\i1}Ich werde hier auf Rakuro warten.
+Dialogue: 0,0:24:37.46,0:24:39.58,Default,Spielerin A,0,0,0,,Oh, eine Bronzestatue?
+Dialogue: 0,0:24:41.54,0:24:43.04,Default,Spieler B,0,0,0,,Was macht die hier?
+Dialogue: 0,0:24:53.26,0:24:55.26,Default,Saiga-0,0,0,0,,{\i1}N-Nanu?
+Dialogue: 0,0:24:55.26,0:24:58.98,Default,Saiga-0,0,0,0,,{\i1}Irgendwie bin ich zu\Neinem Treffpunkt geworden.

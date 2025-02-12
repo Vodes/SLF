@@ -1,0 +1,74 @@
+﻿[Script Info]
+Title: Deutsch
+ScaledBorderAndShadow: yes
+Original Script: cr_de  [http://www.crunchyroll.com/user/cr_de]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+LayoutResX: 1920
+LayoutResY: 1080
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+Style: TypePlaceholder,Arial Bold,66,&H00200960,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,6,0,8,30,30,60,1
+Style: TypePlaceholderBox,Arial Bold,66,&H00200960,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,3,6,0,8,30,30,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:02:12.32,0:02:15.45,TypePlaceholder,,0,0,0,,{\an1\fnTahoma BOLD\shad6\fs+1\b1\fsp3\c&HF6FFFB&\4c&HC7961F&\bord0\fad(164,422)\3c&HFFFFFE&\pos(300.78,836.82)}\h\hDen verwöhnten {\alpha&HFF&\t(373,1165,\alpha&H00&)}Gaumen mit einem {\fnGeorgia Bold\c&HC2962D&\3c&HFFFFFF&\4c&HFFFFFF&\bord3.6\alpha&HFF&\t(1290,1624,\alpha&H00&)}Trash-Game {\fnTahoma BOLD\bord0\c&HFFFFFF&\4c&HC2962D&\alpha&HFF&\t(1624,1999,\alpha&H00&)}ausspülen
+Dialogue: 0,0:02:43.02,0:02:47.52,TypePlaceholder,,0,0,0,,{\c&HECE5E2&\3c&H9D4645&\4c&HA23E21&\fs+2\fnImpact\an2\b0\fsp6\bord3\shad9\move(981,408,981,1482)}Sommerferien-Aktion!\NServer-Kapazitäten ausgebaut!!
+Dialogue: 0,0:02:47.52,0:02:50.86,Default,,0,0,0,,{\c&HECE5E2&\3c&H9D4645&\4c&HA23E21&\fs-6\fnImpact\an2\b0\fsp3\bord3\shad3\pos(1024.5,726)}Sommerferien-Aktion!\NServer-Kapazitäten ausgebaut!!
+Dialogue: 0,0:03:42.95,0:03:46.08,TypePlaceholderBox,,0,0,0,,{\fnVerdana Bold\pos(1003.5,57)\fad(451,143)\c&HFEFFFA&\3c&HC20099&}\hRumi Hizutome\h
+Dialogue: 0,0:03:59.59,0:04:01.80,TypePlaceholderBox,,0,0,0,,{\fnVerdana\b0\c&HFEFFFC&\3c&H83847B&\fs-3\fax0.2\frz23.45\t(1900,0,\frz28)\move(339,441,186,690,1900,2108)}\hShangri-La Frontier Wiki\h
+Dialogue: 0,0:03:59.59,0:04:01.80,TypePlaceholder,,0,0,0,,{\fnTahoma\b0\bord0\fs-3\an7\c&H83847B&\fax0.2\frz23.95\t(1900,0,\frz28.5)\move(564,510,399,739.5,1900,2108)}Reise durch das Hasenland
+Dialogue: 0,0:07:28.51,0:07:31.26,TypePlaceholder,,0,0,0,,{\fnVerdana\an1\bord6\b0\c&H000000&\3c&HFFFFFF&\fs-2\pos(153,793.5)\fad(165,0)}Respawn-Punkt: Ein Wiederbelebungspunkt,\Nan dem man sein Spiel wiederaufnehmen kann.
+Dialogue: 0,0:07:47.57,0:07:50.37,TypePlaceholder,,0,0,0,,{\fsp3\fnVerdana\bord0\c&HEDF1B4&\an2\frz352.4\t(0,479,\fscx115\fscy115)\move(1114.5,385.5,1006.5,361.5,21,479)}Killergeist-Halsband
+Dialogue: 0,0:07:47.57,0:07:50.37,TypePlaceholder,,0,0,0,,{\fnVerdana\b0\fsp3\bord0\c&H777482&\frz351.7\t(0,563,\fscx115\fscy115)\move(1069.5,640.5,934.5,646.5,21,563)}erhalten.
+Dialogue: 0,0:07:50.83,0:07:52.12,TypePlaceholder,,0,0,0,,{\fnVerdana\b0\bord9\fs-2\fad(76,0)\an2\c&H777482&\3c&H2D2C3B&\pos(1030.5,307.5)\frz352.3}Der Erfahrungsgewinn wird halbiert,\Ndafür werden die bei einem Levelaufstieg\Nerhaltenen Statuspunkte um das 2,5-Fache\N(auf ganze Zahlen abgerundet) erhöht.
+Dialogue: 0,0:08:24.15,0:08:32.37,TypePlaceholder,,0,0,0,,{\fnVerdana\b0\bord9\fs-4\fad(394,0)\an2\c&H777482&\3c&H2D2C3B&\pos(1513.5,217.5)\frz351.9}Der Erfahrungsgewinn wird halbiert,\Ndafür werden die bei einem Levelaufstieg\Nerhaltenen Statuspunkte um das 2,5-Fache\N(auf ganze Zahlen abgerundet) erhöht.
+Dialogue: 0,0:09:07.40,0:09:10.24,TypePlaceholder,,0,0,0,,{\fnVerdana\an1\bord6\b0\c&H000000&\3c&HFFFFFF&\fs\fad(249,0)\pos(1236,880.5)}BenP
+Dialogue: 0,0:09:09.03,0:09:10.24,TypePlaceholder,,0,0,0,,{\fnVerdana\an1\bord6\b0\c&H000000&\3c&HFFFFFF&\fs\fad(246,0)\pos(1519.5,873)}Verstopfung
+Dialogue: 0,0:09:35.60,0:09:37.52,TypePlaceholder,,0,0,0,,{\fnTrebuchet MS Bold\fsp9\c&H433C92&\3c&HE9F0FC&\frz347.7\move(1183.5,-13.5,1141.5,253.5,35,828)}Sunraku
+Dialogue: 0,0:09:39.81,0:09:41.27,TypePlaceholder,,0,0,0,,{\fnTrebuchet MS Bold\fsp9\fs-2\fad(413,421)\c&H433C92&\3c&HE9F0FC&\frz11.5\move(405,28.5,442.5,378,38,1456)}ModoruKatso
+Dialogue: 0,0:09:43.85,0:09:46.19,TypePlaceholder,,0,0,0,,{\fnGeorgia Bold\fs-2\shad3\fad(451,43)\c&H3D2F95&\fax0.4\3c&HC9C6F2&\bord1.5\4c&H000000&\frz1.605\pos(1425,274.5)}Match-Anfrage
+Dialogue: 0,0:09:46.61,0:09:48.07,TypePlaceholder,,0,0,0,,{\pos(532.5,535.5)\org(532.5,535.5)\fscy100\frz14.3\fry-180\frx0\fax0\fnGeorgia Bold\xbord2.4\ybord2.4\xshad3.9\yshad3.9\c&H271996&\3c&HB0B9E2&\4c&H000000&\fad(161,0)\fs+2}Match-Anfrage
+Dialogue: 0,0:09:48.07,0:09:50.32,TypePlaceholder,,0,0,0,,{\pos(532.5,535.5)\org(532.5,535.5)\fscx100\fscy100\frz14.3\fry-180\frx0\fax0\fnGeorgia Bold\xbord2.4\ybord2.4\xshad3.9\yshad3.9\c&H5C9036&\3c&HB8F394&\4c&H000000&\fad(0,379)\t(1120,1287,\fry0\frz-14.3)\fs+2}Annehmen
+Dialogue: 1,0:09:52.78,0:09:56.16,TypePlaceholder,,0,0,0,,{\fnGeorgia Bold\bord21\c&H2C199C&\fs-1\3c&H3D424C&\shad6\an2\t(41,1292,\fscx140\fscy140\fry2880)\t(1292,0,\fscx200\fscy200)\move(972,421.5,973.5,325.5,41,3336)\4c&H3D424C&}Kampf beginnt
+Dialogue: 2,0:09:52.78,0:09:56.16,TypePlaceholder,,0,0,0,,{\fnGeorgia Bold\bord16.8\c&H2C199C&\fs-1\3c&HB9B9B9&\an2\t(41,1292,\fscx140\fscy140\fry2880)\t(1292,0,\fscx200\fscy200)\move(972,421.5,973.5,325.5,41,3336)}Kampf beginnt
+Dialogue: 3,0:09:52.78,0:09:56.16,TypePlaceholder,,0,0,0,,{\fnGeorgia Bold\bord7.8\c&H2C199C&\fs-1\3c&H3D424C&\an2\t(41,1292,\fscx140\fscy140\fry2880)\t(1292,0,\fscx200\fscy200)\move(972,421.5,973.5,325.5,41,3336)}Kampf beginnt
+Dialogue: 4,0:09:52.78,0:09:56.16,TypePlaceholder,,0,0,0,,{\fnGeorgia Bold\bord3.6\c&H2C199C&\fs-1\3c&HD6D9EE&\an2\t(41,1292,\fscx140\fscy140\fry2880)\t(1292,0,\fscx200\fscy200)\move(972,421.5,973.5,325.5,41,3336)}Kampf beginnt
+Dialogue: 0,0:09:59.50,0:10:02.50,TypePlaceholder,,0,0,0,,{\fnVerdana\an1\bord6\b0\c&H000000&\3c&HFFFFFF&\fs-1\fad(0,0)\pos(582,852)}Vale tudo = „Alles ist erlaubt“ auf Portugiesisch.
+Dialogue: 0,0:11:50.73,0:11:55.95,TypePlaceholder,,0,0,0,,{\fnGeorgia BOld\bord2.1\fad(701,0)\3a&H50&\fs+4\an2\c&HFEFEFD&\3c&HFEFEFD&\blur3\pos(975,831)}Die Stärksten Sieben
+Dialogue: 0,0:13:09.52,0:13:13.02,TypePlaceholder,,0,0,0,,{\fnTahoma\b0\bord9\fs-4\c&HB8B2D3&\pos(1195.5,126)\3c&H323968&}Mail-Synchronisierung-Service
+Dialogue: 0,0:13:09.52,0:13:13.02,TypePlaceholder,,0,0,0,,{\fnTahoma\b0\bord0\an7\c&H8F8882&\fs-5\pos(1114.5,301.5)}Sunraku hat mit Shanfro angefangen
+Dialogue: 0,0:13:09.52,0:13:13.02,TypePlaceholder,,0,0,0,,{\fnTahoma\b0\bord0\an7\c&H8F8882&\fs-5\pos(1126.5,382.5)}Von: ModoruKatso\NAn: Mich
+Dialogue: 0,0:13:09.52,0:13:13.02,TypePlaceholder,,0,0,0,,{\fnTahoma\b0\bord0\an7\c&H8F8882&\fs-5\pos(1129.5,637.5)}Hab gehört, dass Sunraku sich Shanfro\Ngekauft hat. Noch dazu ist er wohl\Nsüchtig danach geworden. Ich seh schon\Neine Naturkatastrophe kommen.\N\NNa ja, ich hatte auch schon ein Auge\Nauf das Spiel. Wenn er es spielt, werd\Nich vielleicht auch damit anfangen. {Ist bestimmt much too much, aber hab mal alles reingehauen.}
+Dialogue: 0,0:13:41.18,0:13:43.51,TypePlaceholder,,0,0,0,,{\fnImpact\b0\fax-0.25\fs+5\an2\fsp3\bord5.1\fad(0,314)\c&H8A661A&\3c&HF1DBD0&\pos(966,282)}Arthur Pencilgon
+Dialogue: 0,0:14:00.69,0:14:04.20,TypePlaceholder,,0,0,0,,{\fnVerdana\b0\bord3\blur3\fad(284,255)\fs+1\c&HFFFEF5&\3c&HBEBD3F&\pos(982.5,916.5)}Sekundir – Seitengasse
+Dialogue: 0,0:15:34.87,0:15:43.21,TypePlaceholder,,0,0,0,,{\fnVerdana\b0\an1\fs-2\bord0\c&HEAE995&\t(3524,4000,\alpha&HFF&)\pos(402,216)}NPC „Magischer Hase Emul“ {\c&HFBF4ED&}hat dir eine\NGruppeneinladung geschickt. Annehmen?
+Dialogue: 0,0:15:34.87,0:15:43.21,TypePlaceholderBox,,0,0,0,,{\fnVerdana\b0\fsp3\bord9\fs-2\3c&H1700AA&\c&HE0E2FE&\pos(756,772.5)\t(3524,4000,\alpha&HFF&)}\h\hNein\h\h
+Dialogue: 0,0:15:34.87,0:15:43.21,TypePlaceholderBox,,0,0,0,,{\fnVerdana\b0\fsp3\bord9\fs-2\3c&HB6E021&\c&HFEFFC9&\t(3524,4000,\alpha&HFF&)\pos(1132.5,771)}\h\hJa\h\h
+Dialogue: 0,0:15:48.51,0:15:49.97,TypePlaceholder,,0,0,0,,{\fnVerdana\an1\b0\fsp3\fs+3\bord0\c&HEDE28A&\move(429,477,429,345,39,206)}NPC „Magischer Hase Emul“\N{\c&HEFDFD9&}ist der Gruppe beigetreten.
+Dialogue: 0,0:15:51.14,0:15:57.10,TypePlaceholder,,0,0,0,,{\p1\an7\fad(198,0)\1a&H20&\c&H72585B&\3c&HF5F22C&\blur3\pos(49.5,42)}m 0 0 l 630 0 l 630 495 l 0 495{Ich hab das mal aus Folge 1 kopiert, aber auch Michaels Timings auch noch stehengelassen}
+Dialogue: 0,0:15:51.14,0:15:57.10,TypePlaceholder,,0,0,0,,{\an7\fnImpact\b0\fax-0.1\fsp3\bord3\c&HCD9C28&\3c&HFFF6DD&\fs+2\pos(81,54)}Emul
+Dialogue: 0,0:15:51.14,0:15:57.10,TypePlaceholder,,0,0,0,,{\an7\fnVerdana\b0\fsp3\fs-3\c&HFFF89E&\bord0\pos(82.5,142.5)}Erzmagierin\NKillerkaninchen-Reisende\N{\fs-1.5}Verbleibende Fähigkeiten-\Npunkte: 0\NGeld: 0 Mani
+Dialogue: 0,0:15:51.14,0:15:57.10,TypePlaceholder,,0,0,0,,{\fnVerdana\c&HFFF89E&\b0\fs-5\fsp3\an7\bord0\pos(84,358.5)}Lebenspunkte: 125\NAusdauer: 80\NStärke: 30\NGeschicklichkeit: 71\NVitalität: 35
+Dialogue: 0,0:15:51.14,0:15:57.10,TypePlaceholder,,0,0,0,,{\fnVerdana\c&HFFF89E&\b0\fs-5\fsp3\an7\bord0\pos(451.5,358.5)}Mana: 655\N{\alpha&HFF}.{\alpha&H00&}\NAgilität: 50\NTechnik: 70\NGlück: 85
+Dialogue: 0,0:17:12.59,0:17:17.06,TypePlaceholder,,0,0,0,,{\fnVerdana\b0\bord0\fs-3\fsp3\c&H9B9089&\pos(967.5,904.5)}Gespeichert
+Dialogue: 0,0:17:49.51,0:17:55.64,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\bord0\c&H6873F7&\fs+5\an2\move(960,240,960,3,25,2444)}Lycaons Fluch
+Dialogue: 0,0:17:49.51,0:17:55.64,TypePlaceholder,,0,0,0,,{\fnVerdana\b0\an7\fs\c&H737279&\3c&H15141F&\bord30\move(234,565.5,234,-30)}Von Lycaons Fluch betroffene Körperteile\Nkönnen keine Gegenstände ausrüsten.\N\NMonster, deren Level niedriger als die\Ndes betroffenen Charakters sind, werden flüchten.\N\NDer Fluch hat Auswirkungen auf die Dialoge\Ndes betroffenen Charakters mit NPCs.\N\NVom Fluch betroffene Körperteile\Nbesitzen starke Resistenz gegen\Nmagische Beeinträchtigungen.\N\NDer Fluch kann durch das Gebet einer Heiligen\Naufgehoben werden oder indem das Wesen,\Ndas den Fluch auferlegt hat, vernichtet wird.
+Dialogue: 0,0:21:06.50,0:21:08.87,TypePlaceholder,,0,0,0,,{\fnVerdana\b0\pos(348,6)\fad(242,0)\c&H2C2BEB&\bord9\3c&H2E3556&}Gebietsboss\N\N\N\N\N\N\N\N{\fs-2\c&HF9FA9A&}Empfohlene Spielerzahl: 4
+Dialogue: 0,0:21:06.50,0:21:08.87,TypePlaceholder,,0,0,0,,{\fnVerdana BOLD\fad(242,0)\c&H3020F6&\fsp6\bord9\3c&H17153B&\pos(966,718.5)}Schlammgräber
+Dialogue: 0,0:21:27.14,0:21:30.44,TypePlaceholder,,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\pos(960,45)}Übersetzung: Markus Lange
+Dialogue: 0,0:21:27.14,0:21:30.44,TypePlaceholder,,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\an2\pos(960,1035)}Spotting: Michael Gohl
+Dialogue: 0,0:21:30.44,0:21:33.77,TypePlaceholder,,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\pos(960,45)}Revision & Typesetting: Jacqueline Philippi
+Dialogue: 0,0:21:30.44,0:21:33.77,TypePlaceholder,,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\an2\pos(960,1035)}Qualitätskontrolle: Konrad Walter
+Dialogue: 0,0:21:33.77,0:21:36.65,TypePlaceholder,,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\pos(960,45)}Projektleitung: Tobias Philippi
+Dialogue: 0,0:22:44.93,0:22:52.18,TypePlaceholder,,0,0,0,,{\fnComic Sans MS Bold\fs+4\bord0\shad6\fs+6\c&H7CEDEF&\4c&H51CBDA&\pos(960,9)}Sh{\c&HC297F0&\4c&H966CD6&}a{\c&H679FF8&\4c&H3171D7&}n{\c&HDE72BD&\4c&HB64897&}F{\c&H5B63E6&\4c&H484FC2&}ro
+Dialogue: 0,0:22:48.72,0:22:52.18,TypePlaceholder,,0,0,0,,{\fnComic Sans MS Bold\fad(493,0)\fs+5\fax-0.15\an3\c&HFAFFFE&\3c&H376777&\4c&H1C3F4D&\shad3.9\bord3.9\pos(1831.5,859.5)}#6
+Dialogue: 0,0:22:49.31,0:22:52.18,TypePlaceholder,,0,0,0,,{\c&H515655&\fnComic Sans MS Bold\fad(333,0)\fs+2\bord0\frz43.99\pos(1447.5,118.5)}Mini
+Dialogue: 0,0:22:56.69,0:22:58.44,TypePlaceholder,,0,0,0,,{\fnVerdana\b0\fsp6\bord9\fs-1\an2\pos(957,396)\c&HF3D8D7&\3c&H725B5D&}Ausgeloggt
+Dialogue: 0,0:23:42.40,0:23:47.91,TypePlaceholder,,0,0,0,,{\an1\pos(157.5,361.5)\c&HFFFFFF&\bord0\fsp3\fs+2}Tatsächlich verschwindet der Avatar,\Nwenn ein Spieler sich ausloggt.

@@ -1,0 +1,88 @@
+﻿[Script Info]
+Title: Deutsch
+ScaledBorderAndShadow: yes
+Original Script: cr_de  [http://www.crunchyroll.com/user/cr_de]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+LayoutResX: 1920
+LayoutResY: 1080
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: TypePlaceholder,Arial Bold,66,&H00200960,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,6,0,8,30,30,60,1
+Style: TypePlaceholderBox,Arial Bold,66,&H00200960,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,3,6,0,8,30,30,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:33.03,0:01:35.99,TypePlaceholder,,0,0,0,,{\a3\fnTahoma Bold\shad6\fs+1\b1\fsp3\c&HF6FFFB&\4c&HC7961F&\bord0\3c&HFFFFFE&\pos(1857,1005)}Nächtlicher {\alpha&HFF&\t(165,166,\alpha&H00&)}Angriff\N{\fnGeorgia Bold\bord3.9\alpha&HFF&\t(582,707,\alpha&H00&)\c&HC7961F&\3c&HF6FFFB&\4c&HF6FFFB&}des schwarzen {\alpha&HFF&\t(749,874,\alpha&H00&)}Wolfes
+Dialogue: 0,0:02:57.99,0:02:58.74,TypePlaceholderBox,,0,0,0,,{\fnVerdana Bold\fsp3\c&H7B2747&\fs-1\3c&HDA5DDC&\pos(963,246)}Geschenk
+Dialogue: 0,0:02:57.99,0:02:58.74,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\fs+1\bord3\blur6\c&HF6F997&\3c&H988B47&\pos(966,658.5)}Koordinatenbasierte\NTeleportation
+Dialogue: 0,0:03:50.33,0:04:01.76,TypePlaceholder,,0,0,0,,{\fnGeorgia Bold\bord2.1\fad(701,0)\3a&H50&\fs+4\an2\c&HFEFEFD&\3c&HFEFEFD&\blur3\pos(975,831)}Die Stärksten Sieben
+Dialogue: 0,0:04:37.59,0:04:41.93,TypePlaceholder,,0,0,0,,{\fnImpact\b0\fsp9\c&HFD8EFC&\fax0.1\fs+3\3c&HD7CAE2&\bord7.5\frz2.376\pos(1116,801)}Lycaon, der Nachträuber {\fnVerdana\fs-2\fsp0\bord0\c&HBEBFC5&}begegnet.
+Dialogue: 0,0:04:37.59,0:04:41.93,TypePlaceholder,,0,0,0,,{\fnImpact\b0\fsp9\c&HFD8EFC&\fax0.1\fs+3\3c&HB54FAF&\bord3.6\frz2.376\pos(1116,801)}Lycaon, der Nachträuber {\fnVerdana\fs-2\fsp0\bord0\c&HBEBFC5&}begegnet.
+Dialogue: 0,0:04:37.59,0:04:41.93,TypePlaceholderBox,,0,0,0,,{\fnVerdana Bold\c&HAE3490&\fax0.15\fs-1\3c&HE844E2&\frz357.9\pos(1041,172.5)}Einzigartiges Monster
+Dialogue: 0,0:06:08.60,0:06:10.73,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\c&HF2EE9E&\an2\bord0\fs+3\pos(963,421.5)}Perfekte Parade
+Dialogue: 0,0:06:08.60,0:06:10.73,TypePlaceholder,,0,0,0,,{\fnVerdana\b0\an7\fs-3\bord0\c&H827A71&\pos(522,825)}Durch Abstimmen des Timings können\Nphysische Angriffe eines Gegners pariert werden.
+Dialogue: 0,0:06:21.28,0:06:21.94,TypePlaceholder,,0,0,0,,{\an2\pos(381.316,141.81)\org(376.95,141.81)\fscx87.521\fscy71.856\frz4.939\fry16.401\frx-2.56\fax0.069\fnVerdana Bold\xbord0\ybord0\c&HFDFD9F&\fs-2}Killer-Hackmesser
+Dialogue: 0,0:06:21.28,0:06:21.94,TypePlaceholder,,0,0,0,,{\pos(422.31,296.58)\org(422.31,296.58)\fscx79.086\fscy97.741\frz14.576\fry16.805\frx-1.479\fax-0.166\fnVerdana\b0\xbord0\ybord0\c&H807769&\fs-4}ausgerüstet.
+Dialogue: 0,0:06:24.53,0:06:25.20,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\an2\fs+1\fax0.04\bord0\c&HF4F0A0&\frz355.4\pos(357,154.5)}Gleitschritt
+Dialogue: 0,0:06:24.53,0:06:25.20,TypePlaceholder,,0,0,0,,{\an7\pos(124.5,403.5)\org(124.5,403.5)\fscx99.151\fscy99.93\frz-2.016\fry2.682\frx0.673\fax0.005\fnVerdana\b0\xbord0\ybord0\c&H938880&\fs-4}Verbessert die Ausweichmanöver\Ndes Anwenders.
+Dialogue: 0,0:10:33.53,0:10:37.78,TypePlaceholder,,0,0,0,,{\fnImpact\b0\bord3\c&HA6A15E&\fs-2\fax0.4\an2\3c&HF3EFB8&\frz311.4\move(1303.5,-55.5,1297.5,192,18,4231)}Sunraku
+Dialogue: 0,0:10:42.66,0:10:44.92,TypePlaceholder,,0,0,0,,{\fnImpact\b0\fs+10\an2\c&HA5951B&\fax-0.2\3c&HF3EFF0&\frz350.1\pos(1044,171)}Sunraku
+Dialogue: 0,0:11:56.45,0:11:59.41,TypePlaceholder,,0,0,0,,{\fnVerdana\b0\bord0\fs-1\c&H858789&\pos(960,655.5)\fad(0,443)}Du wurdest mit
+Dialogue: 0,0:11:56.45,0:11:59.41,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\bord0\c&H7788F8&\pos(960,705)\fad(0,443)}Lycaons Fluch
+Dialogue: 0,0:11:56.45,0:11:59.41,TypePlaceholder,,0,0,0,,{\fnVerdana\b0\bord0\c&H858789&\fs-1\pos(960,760.5)\fad(0,443)}belegt.
+Dialogue: 0,0:12:03.58,0:12:06.21,TypePlaceholder,,0,0,0,,{\p1\bord0\fad(652,0)\pos(960,-30)\blur90\clip(315,45,1608,165)\c&HBAC0C2&}m 0 0 l 750 0 l 750 600 l 0 600
+Dialogue: 0,0:12:03.58,0:12:06.21,TypePlaceholder,,0,0,0,,{\p1\bord0\fad(652,0)\pos(960,-30)\blur90\c&H806A0C&\clip(315,165,1584,285)}m 0 0 l 750 0 l 750 600 l 0 600
+Dialogue: 1,0:12:03.58,0:12:06.21,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\fad(652,0)\bord0\fs+2\c&H87FB2B&\pos(960,63)}Wiederbelebung
+Dialogue: 1,0:12:03.58,0:12:06.21,TypePlaceholder,,0,0,0,,{\fnVerdana\b0\bord3\blur3\fad(652,0)\fs+1\c&HFFFEF5&\3c&HBEBD3F&\pos(960,187.5)}Gasthaus Sekundir
+Dialogue: 0,0:12:06.21,0:12:08.29,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\bord0\fad(0,376)\an2\fs+1\fry180\c&H89E43D&\move(928.5,466.5,963,324,24,483)\t(24,483,\fscx60\fscy60)}Wiederbelebung\N{\fnVerdana\b0\fs-1\bord4.5\c&HFBFDFB&\3c&H968731&}Gasthaus Sekundir
+Dialogue: 0,0:12:17.22,0:12:19.68,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\bord0\c&H6873F7&\fs+5\an2\move(960,240,960,3,25,2444)}Lycaons Fluch
+Dialogue: 0,0:12:17.22,0:12:25.47,TypePlaceholder,,0,0,0,,{\fnVerdana\b0\an7\fs\c&H737279&\3c&H15141F&\bord30\move(234,565.5,234,-270)}Von Lycaons Fluch betroffene Körperteile\Nkönnen keine Gegenstände ausrüsten.\N\NMonster, deren Level niedriger als die\Ndes betroffenen Charakters sind, werden flüchten.\N\NDer Fluch hat Auswirkungen auf die Dialoge\Ndes betroffenen Charakters mit NPCs.\N\NVom Fluch betroffene Körperteile\Nbesitzen starke Resistenz gegen\Nmagische Beeinträchtigungen.\N\NDer Fluch kann durch das Gebet einer Heiligen\Naufgehoben werden oder indem das Wesen,\Ndas den Fluch auferlegt hat, vernichtet wird.
+Dialogue: 0,0:12:37.99,0:12:40.32,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\bord0\fs+7\fax0.07\an2\c&H6D80EA&\frz359.2\move(999,357,999,6,26,2320)}Lycaons Fluch
+Dialogue: 0,0:12:37.99,0:12:44.99,TypePlaceholder,,0,0,0,,{\fnVerdana\b0\an7\fs-1\c&H656671&\3c&H141D2C&\bord30\frz0.9878\move(64.5,844.5,64.5,-274.5)}Von Lycaons Fluch betroffene Körperteile\Nkönnen keine Gegenstände ausrüsten.\N\NMonster, deren Level niedriger als die\Ndes betroffenen Charakters sind, werden flüchten.\N\NDer Fluch hat Auswirkungen auf die Dialoge\Ndes betroffenen Charakters mit NPCs.\N\NVom Fluch betroffene Körperteile\Nbesitzen starke Resistenz gegen\Nmagische Beeinträchtigungen.\N\NDer Fluch kann durch das Gebet\Neiner Heiligen aufgehoben werden\Noder indem das Wesen,\Ndas den Fluch auferlegt hat,\Nvernichtet wird.
+Dialogue: 0,0:12:50.37,0:12:52.08,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\bord0\fs+6\fax0.2\an2\c&H6E7EF5&\frz352\move(1036.5,175.5,1036.5,-60,23,1691)}Lycaons Fluch
+Dialogue: 0,0:12:50.37,0:12:53.63,TypePlaceholder,,0,0,0,,{\fnVerdana\b0\an7\fs-1\fax0.2\c&H747575&\3c&H272636&\bord30\frz353.4\move(264,436.5,264,-24)}Von Lycaons Fluch betroffene Körperteile\N\hkönnen keine Gegenstände ausrüsten.\N\N\h\hMonster, deren Level niedriger als die\N\h\h\hdes betroffenen Charakters sind, werden flüchten.\N\N\h\h\h\hDer Fluch hat Auswirkungen auf die Dialoge\N\h\h\h\h\hdes betroffenen Charakters mit NPCs.\N\N\h\h\h\h\hVom Fluch betroffene Körperteile\N\h\h\h\h\h\hbesitzen starke Resistenz gegen\N\h\h\h\h\h\h\hmagische Beeinträchtigungen.\N\N\h\h\h\h\h\h\h\hDer Fluch kann durch das Gebet einer Heiligen\N\h\h\h\h\h\h\h\h\haufgehoben werden oder indem das Wesen,\N\h\h\h\h\h\h\h\h\h\hdas den Fluch auferlegt hat, vernichtet wird.
+Dialogue: 0,0:12:59.63,0:13:01.26,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\bord0\an7\c&HF6F385&\fax0.15\frz1.136\move(354,286.5,261,-46.5,0,1607)}Starrende Vogelmaske
+Dialogue: 0,0:12:59.63,0:13:02.64,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\bord0\an7\c&HF6F385&\fax0.15\frz1.136\move(423,612,247.5,-30,22,2984)}Lycaons Fluch
+Dialogue: 0,0:12:59.63,0:13:02.64,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\bord0\an7\c&HF6F385&\fax0.15\move(463.5,930,298.5,301.5,22,2984)\frz2.013}Gürtel der Klingenabweisung
+Dialogue: 0,0:13:00.47,0:13:02.64,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\bord0\an7\c&HF6F385&\fax0.15\frz2.013\move(495,1077,376.5,645,17,2144)}Lycaons Fluch
+Dialogue: 0,0:13:02.05,0:13:02.64,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\bord0\an7\c&HF6F385&\fax0.15\frz2.013\move(448.5,1074,417,951,21,564)}Nichts
+Dialogue: 0,0:14:16.88,0:14:17.50,TypePlaceholder,,0,0,0,,{\fnImpact\b0\fscx120\fsp6\fax-0.15\fs+3\an2\frz349.1\bord7.5\pos(465,345)\c&HC59B0F&\3c&HF0E6E4&}Sunraku
+Dialogue: 0,0:14:20.51,0:14:24.38,TypePlaceholder,,0,0,0,,{\fnImpact\b0\fsp9\fscx120\fax-0.4\fs+8\bord8.1\an2\c&HD0A213&\3c&HF2F2F1&\move(486,208.5,486,99,25,3862)}Sunraku
+Dialogue: 0,0:14:20.51,0:14:24.38,TypePlaceholder,,0,0,0,,{\c&HF4EFE7&\fnVerdana Bold\fs+2\bord0\an7\move(12,708,12,594,25,3862)}Söldner (beidhändig)
+Dialogue: 0,0:14:20.51,0:14:24.38,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\bord0\fs-4\an7\c&HCEBEC0&\move(1053,706.5,1053,588,25,3862)}Verbleibende Fähigkeiten-Pkte.:
+Dialogue: 0,0:14:20.51,0:14:24.38,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\bord0\an1\c&HF3F097&\move(652.5,922.5,652.5,790.5,25,3862)}Geld
+Dialogue: 0,0:14:20.51,0:14:24.38,TypePlaceholder,,0,0,0,,{\fnVerdana\bord0\an1\c&HA8A99E&\b0\move(1638,913.5,1638,804,25,3862)}Mani
+Dialogue: 0,0:14:33.89,0:14:35.65,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\bord0\fs-2.5\an1\c&HAEA99D&\move(576,739.5,-102,562.5,23,1733)\t(0,0,\fscx153\fscy153)}Verbleibende Fähigkeiten-Pkte.:
+Dialogue: 0,0:15:01.76,0:15:03.59,TypePlaceholder,,0,0,0,,{\fnImpact\b0\bord3\c&HA6A15E&\fad(285,0)\fs-2\fax0.4\an2\3c&HF3EFB8&\frz311.4\move(1305,61.5,1305,168,34,1828)}Sunraku
+Dialogue: 0,0:15:03.59,0:15:05.05,TypePlaceholder,,0,0,0,,{\fnImpact\b0\fs+10\fad(0,503)\an2\c&HA5951B&\fax-0.2\3c&HF3EFF0&\frz350.1\pos(1044,171)}Sunraku
+Dialogue: 0,0:15:32.45,0:15:33.45,TypePlaceholder,,0,0,0,,{\fnVerdana\b0\fsp3\fad(282,0)\c&H6825E4&\bord0\move(1447.5,450,1447.5,472.5,32,991)}Killerkaninchen
+Dialogue: 1,0:16:28.09,0:16:30.09,TypePlaceholderBox,,0,0,0,,{\fnVerdana\b0\fs+2\blur18\bord30\c&H303FCC&\3c&H303FCC&\fad(0,228)\move(1797,0,925.5,351,21,1600)}Einzigartiges Szenario
+Dialogue: 2,0:16:28.09,0:16:30.09,TypePlaceholderBox,,0,0,0,,{\fnVerdana\b0\fs+2\c&H22B9F6&\3c&H67FEFC&\fad(0,228)\move(1797,0,925.5,351,21,1600)}Einzigartiges Szenario
+Dialogue: 0,0:16:28.09,0:16:30.09,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\c&H62FEFF&\3c&H2039C4&\blur12\bord18\fad(0,228)\move(1789.5,618,940.5,963,21,1600)}Eine Einladung aus dem Hasenland
+Dialogue: 1,0:17:27.78,0:17:33.28,TypePlaceholderBox,,0,0,0,,{\pos(963,165)\fnVerdana\b0\c&H59B0F1&\bord30\3c&H5C6AD5&\blur15\t(0,0,\fscx103\fscy103)}Einzigartiges Szenario
+Dialogue: 2,0:17:27.78,0:17:33.28,TypePlaceholderBox,,0,0,0,,{\pos(963,165)\fnVerdana\b0\c&H59B0F1&\3c&H8CFAF9&\t(0,0,\fscx103\fscy103)}Einzigartiges Szenario
+Dialogue: 2,0:17:27.78,0:17:33.28,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\c&H7EF1EF&\an2\fs-2.5\3c&H5266D1&\blur12\bord18\fad(0,0)\t(0,0,\fscx103\fscy103)\move(952.5,307.5,952.5,315,25,5489)}Eine Einladung aus dem Hasenland
+Dialogue: 2,0:17:31.07,0:17:33.28,TypePlaceholder,,0,0,0,,{\fnVerdana\b0\fs-2\fad(688,0)\fsp3\bord3\blur12\c&HEEFF02&\3c&HCEC26C&\t(0,0,\fscx102\fscy102)\move(852,591,852,594,20,1647)}Empfohlenes Level
+Dialogue: 0,0:17:33.28,0:17:35.78,TypePlaceholder,,0,0,0,,{\fnVerdana\b0\fsp6\c&HFFFF88&\fs+5\blur15\3c&HBCC539&\move(927,672,342,672,21,2482)}Empfohlenes Level
+Dialogue: 0,0:17:35.83,0:17:41.29,TypePlaceholder,,0,0,0,,{\fnImpact\b0\fsp9\bord0\c&HFFFFFF&\fad(442,0)\an2\fax-0.4\fs+10\t(0,0,\fscx118\fscy118)\move(678,420,628.5,420,25,5447)}Sunraku
+Dialogue: 0,0:17:41.79,0:17:45.29,TypePlaceholder,,0,0,0,,{\fnVerdana\b0\fs-1\c&HFFFDF8&\fsp6\3c&HB7A731&\pos(964.5,571.5)}Hasingen
+Dialogue: 0,0:19:21.35,0:19:23.27,TypePlaceholder,,0,0,0,,{\fnVerdana\fad(351,777)\b0\fs-2\c&H79807F&\bord0\an1\pos(130.5,723)}Der Fluch hat Auswirkungen auf die Dialoge\Ndes betroffenen Charakters mit NPCs.
+Dialogue: 0,0:20:05.48,0:20:08.48,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\fs-1\c&HFFFDF8&\fsp6\3c&HB7A731&\pos(969,594)}Hasenpalast
+Dialogue: 0,0:22:01.34,0:22:05.97,TypePlaceholderBox,,0,0,0,,{\fnVerdana Bold\fad(207,0)\c&H5E2B8C&\3c&HCB85F2&\fs-4\pos(457.5,60)}Oberhaupt des Hasenlands (Hasingen)
+Dialogue: 0,0:22:01.34,0:22:05.97,TypePlaceholder,,0,0,0,,{\fnImpact\b0\fsp9\fad(207,0)\bord4.8\fs+2\pos(462,111)\c&HCC7AFA&\3c&H7B6A92&}Vice Ash
+Dialogue: 0,0:22:25.16,0:22:28.45,TypePlaceholder,,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\pos(960,45)}Übersetzung: Markus Lange
+Dialogue: 0,0:22:25.16,0:22:28.45,TypePlaceholder,,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\an2\pos(960,1035)}Spotting: Michael Gohl
+Dialogue: 0,0:22:28.45,0:22:31.79,TypePlaceholder,,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\pos(960,45)}Revision & Typesetting: Jacqueline Philippi
+Dialogue: 0,0:22:28.45,0:22:31.79,TypePlaceholder,,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\an2\pos(960,1035)}Qualitätskontrolle: Konrad Walter
+Dialogue: 0,0:22:31.79,0:22:34.67,TypePlaceholder,,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\pos(960,45)}Projektleitung: Tobias Philippi
+Dialogue: 0,0:23:42.94,0:23:50.20,TypePlaceholder,,0,0,0,,{\fnComic Sans MS Bold\fs+4\bord0\shad6\fs+6\c&H7CEDEF&\4c&H51CBDA&\pos(960,9)}Sh{\c&HC297F0&\4c&H966CD6&}a{\c&H679FF8&\4c&H3171D7&}n{\c&HDE72BD&\4c&HB64897&}F{\c&H5B63E6&\4c&H484FC2&}ro
+Dialogue: 0,0:23:46.74,0:23:50.20,TypePlaceholder,,0,0,0,,{\fnComic Sans MS Bold\fad(493,0)\fs+5\fax-0.15\an3\c&HFAFFFE&\3c&H376777&\4c&H1C3F4D&\shad3.9\bord3.9\pos(1831.5,859.5)}#5 Saiga: Episode-0
+Dialogue: 0,0:23:47.32,0:23:50.20,TypePlaceholder,,0,0,0,,{\c&H515655&\fnComic Sans MS Bold\fad(333,0)\fs+2\bord0\frz43.99\pos(1447.5,118.5)}Mini
+Dialogue: 0,0:23:52.20,0:23:59.21,TypePlaceholder,,0,0,0,,{\fnTahoma Bold\fsp9\an2\fs-3\bord0\c&H5D383C&\move(963,298.5,972,313.5,21,6986)\frz348.6\t(0,0,\fscx95\fscy95)}Time Chaser 2\N~ {\fs-3}The Amber Bullet ~
+Dialogue: 0,0:24:39.42,0:24:47.92,TypePlaceholder,,0,0,0,,{\c&HFDF3E7&\3c&HBD7665&\fad(275,0)\4c&HBD7665&\fs-4\fnImpact\b0\fsp6\bord3\shad9\pos(1387.5,739.5)\frz0.3867}Sommerferien-Aktion\NServer-Kapazitäten ausgebaut
+Dialogue: 0,0:25:05.44,0:25:07.32,TypePlaceholder,,0,0,0,,{\c&HF8F8F8&\3c&HA23E21&\4c&HA23E21&\fs-2\fnImpact\b0\fsp6\bord3\shad9\frz352.5\pos(1000.5,549)}Sommerferien-Aktion\NServer-Kapazitäten ausgebaut

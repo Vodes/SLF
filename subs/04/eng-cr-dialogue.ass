@@ -1,0 +1,349 @@
+﻿[Script Info]
+Title: English (US)
+ScaledBorderAndShadow: yes
+Original Script: kodansha  [http://www.crunchyroll.com/user/kodansha]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+LayoutResX: 1920
+LayoutResY: 1080
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+Style: Flashback,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00013E12,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.94,0:00:06.74,Default,Narrator,0,0,0,,This world is filled with \Ntoo many games to count,
+Dialogue: 0,0:00:07.99,0:00:12.20,Default,Narrator,0,0,0,,though the vast majority simply \Ncome and go in obscurity.
+Dialogue: 0,0:00:13.58,0:00:16.41,Default,Narrator,0,0,0,,The greatest of all games
+Dialogue: 0,0:00:16.41,0:00:21.71,Default,Narrator,0,0,0,,is the fully immersive VR game boasting \Nover 30 million players worldwide—
+Dialogue: 0,0:00:21.71,0:00:26.34,Default,Narrator,0,0,0,,{\i1}Shangri-La Frontier{\i0}, which rightly \Nearns the title of "god-tier game"!
+Dialogue: 0,0:00:27.84,0:00:31.93,Default,Narrator,0,0,0,,One lover of trash games, Rakuro Hizutome,
+Dialogue: 0,0:00:31.93,0:00:35.10,Default,Narrator,0,0,0,,is trying out the god-tier \Ngame, {\i1}Shangri-La Frontier{\i0}!
+Dialogue: 0,0:00:35.93,0:00:40.65,Default,Narrator,0,0,0,,What adventures await him there?
+Dialogue: 0,0:02:28.13,0:02:29.63,Default,Mana,0,0,0,,Heading to the dojo?
+Dialogue: 0,0:02:29.63,0:02:31.34,Default,Rei,0,0,0,,Y-Yes!
+Dialogue: 0,0:02:31.55,0:02:33.17,Default,Rei,0,0,0,,Um, well...
+Dialogue: 0,0:02:33.17,0:02:37.43,Default,Rei,0,0,0,,I thought I'd see if you had any \Ngood games before practice...
+Dialogue: 0,0:02:37.43,0:02:39.43,Default,Mana,0,0,0,,Hizutome-kun's not here, just so you know.
+Dialogue: 0,0:02:40.39,0:02:42.43,Default,Rei,0,0,0,,Um, I...
+Dialogue: 0,0:02:42.43,0:02:46.52,Default,Mana,0,0,0,,It's summer break, so he's probably \Nbeen immersed this whole time...
+Dialogue: 0,0:02:48.02,0:02:49.73,Default,Mana,0,0,0,,You still haven't found him?
+Dialogue: 0,0:02:52.24,0:02:56.74,Default,Rei,0,0,0,,Well, you said he always plays as "Sunraku,"
+Dialogue: 0,0:02:56.74,0:02:59.62,Default,Rei,0,0,0,,so I've been looking for \Nhim under that name...
+Dialogue: 0,0:02:59.95,0:03:04.50,Default,Rei,0,0,0,,But he seems to have skipped the \Nfirst tutorial city entirely...
+Dialogue: 0,0:03:07.25,0:03:09.50,Default,Mana,0,0,0,,He's charting his own course, huh?
+Dialogue: 0,0:03:09.50,0:03:11.71,Default,Mana,0,0,0,,Typical trash game fanatic.
+Dialogue: 0,0:03:12.05,0:03:14.59,Default,Mana,0,0,0,,He'll do things normal players won't do,
+Dialogue: 0,0:03:14.59,0:03:17.76,Default,Mana,0,0,0,,and run into all kinds of \Noutrageous unique scenarios!
+Dialogue: 0,0:03:17.76,0:03:20.10,Default,Rei,0,0,0,,But as the first thing he does in the game?
+Dialogue: 0,0:03:21.72,0:03:24.68,Default,Rei,0,0,0,,Well... I guess it does seem plausible.
+Dialogue: 0,0:03:24.68,0:03:27.35,Default,Mana,0,0,0,,I'm sure you'll find him soon.
+Dialogue: 0,0:03:27.35,0:03:29.48,Default,Mana,0,0,0,,Keep going, Rei-chan!
+Dialogue: 0,0:03:30.15,0:03:31.32,Default,Rei,0,0,0,,Okay...
+Dialogue: 0,0:03:31.32,0:03:33.03,Default,Mana,0,0,0,,Then tell him how you feel.
+Dialogue: 0,0:03:38.87,0:03:40.66,Default,Rumi,0,0,0,,I'm heading out!
+Dialogue: 0,0:03:40.66,0:03:41.91,Default,Rakuro,0,0,0,,Sure.
+Dialogue: 0,0:03:42.16,0:03:45.25,Default,Rumi,0,0,0,,I've got work after, so I'll be out late!
+Dialogue: 0,0:03:45.87,0:03:47.62,Default,Rakuro,0,0,0,,Sure.
+Dialogue: 0,0:03:50.59,0:03:55.09,Default,Rakuro,0,0,0,,"Unique scenarios recommended for beginners."
+Dialogue: 0,0:03:56.01,0:03:59.22,Default,Rakuro,0,0,0,,"Tour of Rabituza" trigger conditions...
+Dialogue: 0,0:03:59.80,0:04:00.85,Default,Rakuro,0,0,0,,That must be this.
+Dialogue: 0,0:04:03.31,0:04:09.27,Default,Rakuro,0,0,0,,"If you defeat a monster of higher level \Nthan you with Vorpal weapons equipped,
+Dialogue: 0,0:04:09.27,0:04:15.28,Default,Rakuro,0,0,0,,a special Vorpal Bunny will appear in \Nany town and invite you to Rabituza."
+Dialogue: 0,0:04:18.40,0:04:22.03,Default,Rakuro,0,0,0,,"The Vorpal Bunny will just keep \Nrunning without saying anything,
+Dialogue: 0,0:04:22.03,0:04:24.29,Default,Rakuro,0,0,0,,so make sure you don't lose sight of it."
+Dialogue: 0,0:04:24.49,0:04:28.16,Default,Rakuro,0,0,0,,"Once you arrive, if you \Ndefeat the Lagonian Python,
+Dialogue: 0,0:04:28.16,0:04:30.42,Default,Rakuro,0,0,0,,a monster terrorizing their city,
+Dialogue: 0,0:04:30.42,0:04:34.30,Default,Rakuro,0,0,0,,you'll learn the 'Enchant Vorpal' spell."
+Dialogue: 0,0:04:34.63,0:04:39.51,Default,Rakuro,0,0,0,,Yeah, that's nothing like the unique \Nscenario I played yesterday.
+Dialogue: 0,0:04:40.01,0:04:42.80,Default,Rakuro,0,0,0,,That sure wasn't a Python I encountered.
+Dialogue: 0,0:04:43.43,0:04:49.69,Default,Rakuro,0,0,0,,It was an intimidating—if not as much \Nas Lycagon—yakuza boss-looking bunny.
+Dialogue: 0,0:04:50.31,0:04:51.27,Flashback,Vysache,0,0,0,,Well?
+Dialogue: 0,0:04:51.90,0:04:55.44,Flashback,Vysache,0,0,0,,Mind giving me a bit of your time?
+Dialogue: 0,0:04:56.40,0:04:58.95,Flashback,Vysache,0,0,0,,I'm the boss here in Rabituza.
+Dialogue: 0,0:04:58.95,0:05:00.57,Flashback,Vysache,0,0,0,,The name's Vysache.
+Dialogue: 0,0:05:01.28,0:05:05.41,Flashback,Vysache,0,0,0,,You gave that pup quite a fight, didn't you?
+Dialogue: 0,0:05:10.16,0:05:13.21,Flashback,Vysache,0,0,0,,That's a hell of a vorpal soul you've got.
+Dialogue: 0,0:05:17.30,0:05:20.01,Flashback,Sunraku,0,0,0,,What in the world is a "vorpal soul"?
+Dialogue: 0,0:05:25.47,0:05:26.39,Flashback,Vysache,0,0,0,,What do you think?
+Dialogue: 0,0:05:26.81,0:05:31.56,Flashback,Vysache,0,0,0,,I'd be happy to get you up to \Nsnuff, if you're up for it.
+Dialogue: 0,0:05:32.02,0:05:33.19,Flashback,Sunraku,0,0,0,,Get me up to snuff?
+Dialogue: 0,0:05:34.94,0:05:36.69,Flashback,Sunraku,0,0,0,,{\i1}Oh, I get it now!
+Dialogue: 0,0:05:37.32,0:05:39.36,Flashback,Sunraku,0,0,0,,{\i1}It's a training quest!
+Dialogue: 0,0:05:39.99,0:05:44.03,Flashback,Sunraku,0,0,0,,{\i1}Unique scenario training could \Nyield unprecedented buffs!
+Dialogue: 0,0:05:44.78,0:05:45.99,Flashback,Sunraku,0,0,0,,{\i1}I have no reason to refuse!
+Dialogue: 0,0:05:47.62,0:05:49.25,Flashback,Sunraku,0,0,0,,I place myself in your hands...
+Dialogue: 0,0:05:49.87,0:05:50.75,Flashback,Sunraku,0,0,0,,Aniki.
+Dialogue: 0,0:05:55.59,0:05:57.00,Flashback,Vysache,0,0,0,,"Aniki"?
+Dialogue: 0,0:06:04.55,0:06:07.81,Flashback,Sunraku,0,0,0,,O-Oh, that was just a little joke...
+Dialogue: 0,0:06:08.81,0:06:11.39,Flashback,Sunraku,0,0,0,,Oh, crap!
+Dialogue: 0,0:06:11.81,0:06:15.15,Flashback,Sunraku,0,0,0,,Did I choose the wrong response?!
+Dialogue: 0,0:06:21.86,0:06:24.07,Flashback,Vysache,0,0,0,,Hey, I like you.
+Dialogue: 0,0:06:24.07,0:06:27.78,Flashback,Vysache,0,0,0,,Asking for my training {\i1}does{\i0}\Nmake you my underling!
+Dialogue: 0,0:06:28.16,0:06:30.08,Flashback,Vysache,0,0,0,,Glad you know how these things work.
+Dialogue: 0,0:06:30.45,0:06:32.79,Flashback,Vysache,0,0,0,,Feel free to call me Vash.
+Dialogue: 0,0:06:33.25,0:06:35.79,Flashback,Vysache,0,0,0,,That's a privilege I afford \Nto people with potential.
+Dialogue: 0,0:06:36.58,0:06:40.30,Flashback,Sunraku,0,0,0,,'K-'Kay... Aniki Vash.
+Dialogue: 0,0:06:41.59,0:06:43.42,Flashback,Sunraku,0,0,0,,{\i1}I'm so glad it was the right choice!
+Dialogue: 0,0:06:43.42,0:06:45.93,Flashback,Sunraku,0,0,0,,{\i1}I thought he was gonna skin me alive!
+Dialogue: 0,0:06:45.93,0:06:46.80,Flashback,Vysache,0,0,0,,Emul!
+Dialogue: 0,0:06:46.80,0:06:48.10,Flashback,Emul,0,0,0,,Yes?!
+Dialogue: 0,0:06:48.10,0:06:49.76,Flashback,Emul,0,0,0,,Dadd— I mean, Boss?!
+Dialogue: 0,0:06:50.14,0:06:53.27,Flashback,Vysache,0,0,0,,I'm putting him in your care.
+Dialogue: 0,0:06:55.19,0:06:55.98,Flashback,Emul,0,0,0,,Yes!
+Dialogue: 0,0:06:55.98,0:06:58.27,Flashback,Emul,0,0,0,,I'm going to work {\i1}so{\i0} hard!
+Dialogue: 0,0:06:58.27,0:07:00.15,Flashback,Emul,0,0,0,,So, {\i1}so{\i0} hard!
+Dialogue: 0,0:07:00.15,0:07:03.03,Flashback,Emul,0,0,0,,So, so, {\i1}so{\i0} hard!
+Dialogue: 0,0:07:05.03,0:07:06.53,Flashback,Emul,0,0,0,,All right, Sunraku-san!
+Dialogue: 0,0:07:06.53,0:07:08.87,Flashback,Emul,0,0,0,,Allow me to give you a tour of the palace!
+Dialogue: 0,0:07:08.87,0:07:10.62,Flashback,Sunraku,0,0,0,,H-Hang on a minute!
+Dialogue: 0,0:07:10.62,0:07:13.45,Flashback,Sunraku,0,0,0,,It's been a pretty long play session for me.
+Dialogue: 0,0:07:13.45,0:07:15.50,Flashback,Sunraku,0,0,0,,I was thinking of taking a break.
+Dialogue: 0,0:07:16.17,0:07:19.00,Flashback,Emul,0,0,0,,Oh, really? That's a shame...
+Dialogue: 0,0:07:19.50,0:07:23.88,Flashback,Sunraku,0,0,0,,{\i1}And I'd like to look up more about \Nunique scenarios and unique monsters.
+Dialogue: 0,0:07:23.88,0:07:26.84,Flashback,Emul,0,0,0,,I'll show you to one of our inns, then!
+Dialogue: 0,0:07:26.84,0:07:27.93,Flashback,Sunraku,0,0,0,,Oh, really?
+Dialogue: 0,0:07:27.93,0:07:30.22,Flashback,Sunraku,0,0,0,,{\an8}I can register my respawn point here?
+Dialogue: 0,0:07:30.22,0:07:31.26,Flashback,Sunraku,0,0,0,,{\an8}Sounds great!
+Dialogue: 0,0:07:31.64,0:07:33.64,Flashback,Emul,0,0,0,,Leave every little thing to me!
+Dialogue: 0,0:07:36.06,0:07:39.02,Flashback,Vysache,0,0,0,,Oh, right. I forgot about this.
+Dialogue: 0,0:07:43.15,0:07:45.07,Flashback,Sunraku,0,0,0,,Wh-What the heck?
+Dialogue: 0,0:07:45.07,0:07:46.70,Flashback,Sunraku,0,0,0,,A forced equip item?
+Dialogue: 0,0:07:48.16,0:07:50.62,Flashback,Voice,0,0,0,,"Vorpal Soul Collar" acquired.
+Dialogue: 0,0:07:53.04,0:07:55.45,Flashback,Sunraku,0,0,0,,It halves the EXP I receive?!
+Dialogue: 0,0:07:55.45,0:07:56.25,Flashback,Sunraku,0,0,0,,Hang on!
+Dialogue: 0,0:07:56.25,0:07:57.25,Flashback,Vysache,0,0,0,,It's no use.
+Dialogue: 0,0:07:58.29,0:08:01.54,Flashback,Vysache,0,0,0,,You can't take that off unless I allow it.
+Dialogue: 0,0:08:02.13,0:08:07.55,Flashback,Vysache,0,0,0,,Extraordinary hardship is necessary \Nfor the weak to grow stronger.
+Dialogue: 0,0:08:07.84,0:08:11.01,Flashback,Vysache,0,0,0,,Never forget the vorpal soul.
+Dialogue: 0,0:08:11.43,0:08:13.97,Flashback,Emul,0,0,0,,It suits you very well, Sunraku-san!
+Dialogue: 0,0:08:14.43,0:08:15.35,Flashback,Sunraku,0,0,0,,I...
+Dialogue: 0,0:08:15.85,0:08:21.11,Flashback,Sunraku,0,0,0,,I've been saddled with another restriction?!
+Dialogue: 0,0:08:22.65,0:08:24.86,Default,Rakuro,0,0,0,,Two point five times stat points, huh?
+Dialogue: 0,0:08:25.23,0:08:29.78,Default,Rakuro,0,0,0,,Even if it does halve my EXP received, \Nthat's a pretty big upside.
+Dialogue: 0,0:08:30.11,0:08:32.37,Default,Rakuro,0,0,0,,Kind of broken, to say the least.
+Dialogue: 0,0:08:33.66,0:08:37.75,Default,Rakuro,0,0,0,,No one on the forums seems to \Nknow about Vysache or Emul,
+Dialogue: 0,0:08:37.75,0:08:40.42,Default,Rakuro,0,0,0,,let alone the Vorpal Soul Collar.
+Dialogue: 0,0:08:40.83,0:08:45.05,Default,Rakuro,0,0,0,,No one's found a unique scenario where \Nyou enter the Palace of Rabituza.
+Dialogue: 0,0:08:45.80,0:08:49.26,Default,Rakuro,0,0,0,,A unique scenario only I know about!
+Dialogue: 0,0:08:49.26,0:08:50.68,Default,Rakuro,0,0,0,,That's pretty exciting!
+Dialogue: 0,0:08:52.14,0:08:54.10,Default,Rakuro,0,0,0,,Whoops, time for my appointment.
+Dialogue: 0,0:08:58.73,0:09:02.48,Default,Rakuro,0,0,0,,Stupid Katzo. \NWhy'd we have to do this in {\i1}BERP{\i0}?
+Dialogue: 0,0:09:03.11,0:09:04.73,Default,Rakuro,0,0,0,,I haven't logged into this game in forever.
+Dialogue: 0,0:09:05.32,0:09:07.40,Default,Narrator,0,0,0,,{\i1}Berserk Online Passion{\i0}.
+Dialogue: 0,0:09:07.40,0:09:09.11,Default,Narrator,0,0,0,,{\i1}BOP{\i0} for short.
+Dialogue: 0,0:09:09.11,0:09:10.24,Default,Narrator,0,0,0,,{\an8}Or, derisively, {\i1}BERP{\i0}.
+Dialogue: 0,0:09:15.37,0:09:19.58,Default,Narrator,0,0,0,,{\i1}BERP{\i0} is a fighting game \NRakuro once got deeply into.
+Dialogue: 0,0:09:19.58,0:09:21.92,Default,Narrator,0,0,0,,It is, naturally, a trash game.
+Dialogue: 0,0:09:23.25,0:09:27.55,Default,Narrator,0,0,0,,Its playerbase has waned to less \Nthan a hundred sign-ins per day,
+Dialogue: 0,0:09:27.55,0:09:30.34,Default,Narrator,0,0,0,,leaving many to wonder why \Nthe service is still running.
+Dialogue: 0,0:09:30.34,0:09:35.81,Default,Narrator,0,0,0,,Which means most of those \Nwho remain know each other,
+Dialogue: 0,0:09:35.81,0:09:38.02,Default,Narrator,0,0,0,,and are of a single kind—
+Dialogue: 0,0:09:38.39,0:09:40.18,Default,Narrator,0,0,0,,trash game enthusiasts.
+Dialogue: 0,0:09:43.02,0:09:44.98,Default,Modor Katzo,0,0,0,,You've shown yourself at last, Sunraku.
+Dialogue: 0,0:09:44.98,0:09:46.44,Default,Modor Katzo,0,0,0,,Shall we get right to it?
+Dialogue: 0,0:09:50.74,0:09:51.70,Default,Sunraku,0,0,0,,What are the rules?
+Dialogue: 0,0:09:54.62,0:09:56.28,Default,BOP Voice,0,0,0,,{\i1\an8}Ready? Fight!
+Dialogue: 0,0:09:56.99,0:09:58.99,Default,Modor Katzo,0,0,0,,You know what they are...
+Dialogue: 0,0:09:59.33,0:10:00.79,Default,Modor Katzo,0,0,0,,{\an8}Vale tudo!
+Dialogue: 0,0:10:00.79,0:10:03.00,Default,Modor Katzo,0,0,0,,{\an8}"Anything goes"!
+Dialogue: 0,0:10:04.29,0:10:06.75,Default,Sunraku,0,0,0,,That's some creepy-ass glitching.
+Dialogue: 0,0:10:06.75,0:10:11.38,Default,Modor Katzo,0,0,0,,It's a new move I worked out \Nwhile you were focused on {\i1}Failia{\i0}!
+Dialogue: 0,0:10:11.38,0:10:14.30,Default,Modor Katzo,0,0,0,,NSFW Tentacle Attack!
+Dialogue: 0,0:10:14.30,0:10:17.43,Default,Sunraku,0,0,0,,You developed a new glitch, huh?
+Dialogue: 0,0:10:17.43,0:10:20.89,Default,Sunraku,0,0,0,,How'd a madman like you \Nget to be a pro gamer?
+Dialogue: 0,0:10:20.89,0:10:22.10,Default,Sunraku,0,0,0,,Modor Katzo...
+Dialogue: 0,0:10:23.81,0:10:25.27,Default,Sunraku,0,0,0,,Quick-Draw Fist!
+Dialogue: 0,0:10:25.60,0:10:26.31,Default,Modor Katzo,0,0,0,,What?!
+Dialogue: 0,0:10:32.24,0:10:34.86,Default,Modor Katzo,0,0,0,,I'm using a delay, \Nbut he's still blocking them?!
+Dialogue: 0,0:10:34.86,0:10:37.41,Default,Modor Katzo,0,0,0,,You're the madman, \Nwith reaction speed like that!
+Dialogue: 0,0:10:37.41,0:10:40.49,Default,Sunraku,0,0,0,,Quick-Draw Fist is the ultimate style!
+Dialogue: 0,0:10:40.49,0:10:42.41,Default,Sunraku,0,0,0,,Theoretically, as long as \Nyou've got twelve frames,
+Dialogue: 0,0:10:42.41,0:10:44.92,Default,Sunraku,0,0,0,,you can even counter boss \Ninsta-kill attacks unscathed!
+Dialogue: 0,0:10:44.92,0:10:47.67,Default,Sunraku,0,0,0,,I'll break through all your hits!
+Dialogue: 0,0:10:51.63,0:10:52.26,Default,Mob A,0,0,0,,Huh?
+Dialogue: 0,0:10:52.26,0:10:54.09,Default,Mob A,0,0,0,,Hey, Modor Katzo's fighting!
+Dialogue: 0,0:10:55.09,0:10:57.43,Default,Mob B,0,0,0,,Hey! Isn't that Sunraku?!
+Dialogue: 0,0:10:57.43,0:10:58.51,Default,Mob A,0,0,0,,Really?
+Dialogue: 0,0:10:58.51,0:11:00.43,Default,Narrator,0,0,0,,Though this is considered a trash game,
+Dialogue: 0,0:10:58.51,0:11:01.06,Default,Mob A,0,0,0,,{\an8}That's a top-tier match-up!
+Dialogue: 0,0:11:00.43,0:11:02.81,Default,Narrator,0,0,0,,the reason for its niche \Nappeal is on display here.
+Dialogue: 0,0:11:03.10,0:11:06.35,Default,Narrator,0,0,0,,Vale tudo—Rather, "Bug tudo"—
+Dialogue: 0,0:11:06.35,0:11:07.81,Default,Narrator,0,0,0,,"Any bug goes."
+Dialogue: 0,0:11:14.15,0:11:15.40,Default,Modor Katzo,0,0,0,,Heck yeah!
+Dialogue: 0,0:11:17.20,0:11:21.41,Default,Sunraku,0,0,0,,The afterimage fist textures \Nwere part of the hitbox?!
+Dialogue: 0,0:11:21.66,0:11:22.91,Default,VO,0,0,0,,{\an8\i1}You lose!
+Dialogue: 0,0:11:24.20,0:11:28.50,Default,Sunraku,0,0,0,,Still, I've only been fighting NPCs lately.
+Dialogue: 0,0:11:28.50,0:11:31.92,Default,Sunraku,0,0,0,,Getting a PvP trashgamium recharge \Nreally hit the spot, Katzo.
+Dialogue: 0,0:11:32.50,0:11:35.93,Default,Modor Katzo,0,0,0,,When you emailed me to say \Nyou were taking on {\i1}SLF{\i0},
+Dialogue: 0,0:11:35.93,0:11:39.09,Default,Modor Katzo,0,0,0,,I figured it was a bad joke. So it was true?
+Dialogue: 0,0:11:39.09,0:11:42.68,Default,Sunraku,0,0,0,,I'm not ashamed to say, \NI'm pretty darn into it!
+Dialogue: 0,0:11:44.27,0:11:46.19,Default,Modor Katzo,0,0,0,,I guess I'll see pigs flying tomorrow.
+Dialogue: 0,0:11:46.52,0:11:47.77,Default,Sunraku,0,0,0,,Hear me out.
+Dialogue: 0,0:11:48.23,0:11:50.19,Default,Sunraku,0,0,0,,I've been reading the forums.
+Dialogue: 0,0:11:50.19,0:11:55.53,Default,Sunraku,0,0,0,,{\an8}{\i1}SLF{\i0}'s got these crazy strong \Nmonsters called the Seven Colossi.
+Dialogue: 0,0:11:56.15,0:12:00.78,Default,Sunraku,0,0,0,,The playerbase has only managed to \Neven get the names of four of them.
+Dialogue: 0,0:12:01.12,0:12:02.20,Default,Modor Katzo,0,0,0,,So?
+Dialogue: 0,0:12:02.20,0:12:06.83,Default,Sunraku,0,0,0,,No one's beaten a single one of \Nthem since the service started.
+Dialogue: 0,0:12:08.71,0:12:10.21,Default,Mob C,0,0,0,,Aw, it's over already?
+Dialogue: 0,0:12:10.21,0:12:11.88,Default,Mob D,0,0,0,,Darn! I missed it!
+Dialogue: 0,0:12:11.88,0:12:13.00,Default,Mob E,0,0,0,,Hey, that's Sunraku!
+Dialogue: 0,0:12:13.00,0:12:14.51,Default,Mob A,0,0,0,,It was awesome, man!
+Dialogue: 0,0:12:14.80,0:12:16.92,Default,Mob B,0,0,0,,{\an8}A raging battle of bugs!
+Dialogue: 0,0:12:14.80,0:12:17.93,Default,Sunraku,0,0,0,,So I fought one of them...
+Dialogue: 0,0:12:23.22,0:12:25.22,Default,Sunraku,0,0,0,,And it wasted me.
+Dialogue: 0,0:12:27.52,0:12:29.56,Default,Modor Katzo,0,0,0,,So that's why you're so into it?
+Dialogue: 0,0:12:29.98,0:12:33.94,Default,Sunraku,0,0,0,,At least, I doubt I'll set it \Ndown until I beat that mutt.
+Dialogue: 0,0:12:37.86,0:12:40.74,Default,Modor Katzo,0,0,0,,Maybe I'll start playing {\i1}SLF{\i0}, too.
+Dialogue: 0,0:12:41.62,0:12:42.57,Default,Sunraku,0,0,0,,For real?!
+Dialogue: 0,0:12:42.57,0:12:46.20,Default,Modor Katzo,0,0,0,,Hearing you talk it up piques my interest.
+Dialogue: 0,0:12:46.20,0:12:49.96,Default,Modor Katzo,0,0,0,,Besides, none of my IRL friends play {\i1}BERP{\i0}.
+Dialogue: 0,0:12:51.63,0:12:52.96,Default,Modor Katzo,0,0,0,,Oh, right!
+Dialogue: 0,0:12:52.96,0:12:55.00,Default,Modor Katzo,0,0,0,,You-know-who is playing {\i1}SLF{\i0}, too.
+Dialogue: 0,0:12:55.25,0:12:56.76,Default,Sunraku,0,0,0,,"You-know-who"?
+Dialogue: 0,0:12:56.76,0:13:00.51,Default,Modor Katzo,0,0,0,,I sent 'em an email that \Nyou were playing, too.
+Dialogue: 0,0:13:00.51,0:13:02.39,Default,Modor Katzo,0,0,0,,Since it's such a big deal.
+Dialogue: 0,0:13:09.98,0:13:13.02,Default,Pencilgon,0,0,0,,"Sunraku's Picked Up {\i1}SLF{\i0}"?
+Dialogue: 0,0:13:13.48,0:13:16.94,Default,Pencilgon,0,0,0,,That trash game addict, playing {\i1}SLF{\i0}?
+Dialogue: 0,0:13:19.28,0:13:21.57,Default,Pencilgon,0,0,0,,I always thought he had some condition
+Dialogue: 0,0:13:22.20,0:13:24.78,Default,Pencilgon,0,0,0,,where he'd die if he ever \Nstopped playing trash games.
+Dialogue: 0,0:13:47.64,0:13:52.31,Default,Pencilgon,0,0,0,,I'll have to oh-so-gently \Nguide him through it.
+Dialogue: 0,0:14:04.20,0:14:06.53,Default,Sunraku,0,0,0,,Hey, we're really back!
+Dialogue: 0,0:14:06.53,0:14:08.45,Default,Emul,0,0,0,,It's called a teleport gate.
+Dialogue: 0,0:14:08.91,0:14:12.79,Default,Emul,0,0,0,,A trivial matter for me, of course!
+Dialogue: 0,0:14:12.79,0:14:14.75,Default,Sunraku,0,0,0,,{\i1}Emul's a handy little thing.{\i0}
+Dialogue: 0,0:14:14.75,0:14:18.71,Default,Sunraku,0,0,0,,And... maybe it comes from \Nplaying {\i1}BERP{\i0} for a while,
+Dialogue: 0,0:14:18.71,0:14:22.01,Default,Sunraku,0,0,0,,but these {\i1}SLF{\i0} avatars are \Neasy as hell to move in!
+Dialogue: 0,0:14:22.76,0:14:26.30,Default,Emul,0,0,0,,But the minute you woke up, \Nyou wanted to go elsewhere.
+Dialogue: 0,0:14:26.30,0:14:27.43,Default,Emul,0,0,0,,Why?
+Dialogue: 0,0:14:27.89,0:14:30.60,Default,Emul,0,0,0,,There's lots of fun places \Nin the Palace of Rabituza!
+Dialogue: 0,0:14:30.60,0:14:33.27,Default,Emul,0,0,0,,An arena, a training hall, and more!
+Dialogue: 0,0:14:33.27,0:14:35.85,Default,Sunraku,0,0,0,,Oh, I'm totally interested in the palace, too,
+Dialogue: 0,0:14:35.85,0:14:38.02,Default,Sunraku,0,0,0,,and I really want a good tour of it.
+Dialogue: 0,0:14:38.02,0:14:42.19,Default,Sunraku,0,0,0,,But I'd really like to get to Thirdrema \Nbefore the crowds start pouring in.
+Dialogue: 0,0:14:42.19,0:14:44.03,Default,Emul,0,0,0,,Crowds?
+Dialogue: 0,0:14:48.78,0:14:53.12,Default,Sunraku,0,0,0,,There's been a big uptick in players \Nsince summer break started, right?
+Dialogue: 0,0:14:53.41,0:14:56.17,Default,Sunraku,0,0,0,,The forums report that the \Nstarter town, Firstia,
+Dialogue: 0,0:14:56.17,0:14:58.50,Default,Sunraku,0,0,0,,is packed to the gills with new players.
+Dialogue: 0,0:14:58.50,0:15:00.88,Default,Sunraku,0,0,0,,This city won't be far behind.
+Dialogue: 0,0:15:00.88,0:15:02.30,Default,Emul,0,0,0,,Ah, yes, indeed!
+Dialogue: 0,0:15:02.30,0:15:06.05,Default,Sunraku,0,0,0,,Which means we're gonna \Nsee logjams at facilities,
+Dialogue: 0,0:15:06.05,0:15:08.68,Default,Sunraku,0,0,0,,and fights over monsters and mining spots.
+Dialogue: 0,0:15:08.68,0:15:10.26,Default,Emul,0,0,0,,Ah, yes, indeed!
+Dialogue: 0,0:15:10.26,0:15:13.77,Default,Sunraku,0,0,0,,I hear Thirdrema is a pretty big city.
+Dialogue: 0,0:15:13.77,0:15:17.56,Default,Sunraku,0,0,0,,If I'm gonna whole-ass that unique scenario,
+Dialogue: 0,0:15:17.56,0:15:21.23,Default,Sunraku,0,0,0,,I'd like to do it from a big city \Nwith plenty of breathing room.
+Dialogue: 0,0:15:21.23,0:15:23.15,Default,Emul,0,0,0,,Ah, yes, indeed!
+Dialogue: 0,0:15:24.07,0:15:25.11,Default,Sunraku,0,0,0,,You're following all this?
+Dialogue: 0,0:15:25.11,0:15:27.49,Default,Emul,0,0,0,,I don't actually know \Nwhat most of that means!
+Dialogue: 0,0:15:27.49,0:15:28.78,Default,Sunraku,0,0,0,,Okay, so you weren't.
+Dialogue: 0,0:15:29.24,0:15:33.29,Default,Emul,0,0,0,,But if you wish to reach the next city, \NI'll gladly help you get there!
+Dialogue: 0,0:15:34.87,0:15:36.58,Default,Sunraku,0,0,0,,A party request?
+Dialogue: 0,0:15:36.58,0:15:38.42,Default,Sunraku,0,0,0,,I can have NPCs in my party?
+Dialogue: 0,0:15:39.71,0:15:43.21,Default,Emul,0,0,0,,Well, you can't reach Rabituza \Nor the palace without me!
+Dialogue: 0,0:15:43.42,0:15:47.26,Default,Sunraku,0,0,0,,I get that, but I figured \Nyou'd just tag along...
+Dialogue: 0,0:15:54.35,0:15:57.10,Default,Sunraku,0,0,0,,{\i1}She's mostly got better stats than me.
+Dialogue: 0,0:15:57.10,0:16:00.15,Default,Sunraku,0,0,0,,{\i1}Speed's the only place where \NI've got a slight edge.
+Dialogue: 0,0:16:00.15,0:16:03.19,Default,Sunraku,0,0,0,,{\i1}No problem. Just overtake her soon enough.
+Dialogue: 0,0:16:03.19,0:16:03.86,Default,Sunraku,0,0,0,,{\i1}Right.
+Dialogue: 0,0:16:05.24,0:16:11.03,Default,Sunraku,0,0,0,,{\i1}I'm pretty sure Lycagon's Mark is the \Ntrigger for that unique scenario...
+Dialogue: 0,0:16:11.49,0:16:15.83,Default,Sunraku,0,0,0,,{\i1}I wonder if Emul is the game's \Nway of making up for it.
+Dialogue: 0,0:16:15.83,0:16:17.79,Default,Sunraku,0,0,0,,{\i1}If so, it's good design.
+Dialogue: 0,0:16:18.25,0:16:20.00,Default,Sunraku,0,0,0,,Let's work together, Emul.
+Dialogue: 0,0:16:20.00,0:16:21.04,Default,Emul,0,0,0,,Okay!
+Dialogue: 0,0:16:21.04,0:16:22.96,Default,Emul,0,0,0,,Let's work together, Sunraku-san!
+Dialogue: 0,0:16:30.18,0:16:31.39,Default,Alinoiyu,0,0,0,,So cute!
+Dialogue: 0,0:16:31.39,0:16:33.31,Default,Alinoiyu,0,0,0,,Where'd you get that rabbit?!
+Dialogue: 0,0:16:33.31,0:16:35.02,Default,Aritomo,0,0,0,,Is that a Vorpal Bunny?
+Dialogue: 0,0:16:35.02,0:16:36.52,Default,Aritomo,0,0,0,,Can you take them as pets?
+Dialogue: 0,0:16:36.52,0:16:39.35,Default,Aritomo,0,0,0,,And did I just see it talk?!
+Dialogue: 0,0:16:39.35,0:16:41.10,Default,Aritomo,0,0,0,,Wait, a bird?
+Dialogue: 0,0:16:41.10,0:16:42.94,Default,Aritomo,0,0,0,,Half-naked?! Pervert?!
+Dialogue: 0,0:16:42.94,0:16:45.19,Default,Emul,0,0,0,,You're a very excitable person!
+Dialogue: 0,0:16:45.44,0:16:47.44,Default,Alinoiyu,0,0,0,,{\an8}Yes! It talked!
+Dialogue: 0,0:16:45.44,0:16:48.70,Default,Sunraku,0,0,0,,{\i1}Crap... we've been talking this whole \Ntime so I stopped thinking about it,
+Dialogue: 0,0:16:47.44,0:16:49.15,Default,Aritomo,0,0,0,,{\an8}Hey, hey! What's your name?
+Dialogue: 0,0:16:48.70,0:16:52.16,Default,Sunraku,0,0,0,,{\i1}but Emul's an NPC attached to a \Nnever-before-seen unique scenario!
+Dialogue: 0,0:16:49.15,0:16:50.53,Default,Emul,0,0,0,,{\an8}I'm Emul!
+Dialogue: 0,0:16:50.53,0:16:51.95,Default,Aritomo,0,0,0,,{\an8}Emul-chan!
+Dialogue: 0,0:16:51.95,0:16:55.20,Default,Alinoiyu,0,0,0,,{\an8}Hey, Emul-chan, how can \NI get you in my party?
+Dialogue: 0,0:16:52.16,0:16:54.58,Default,Sunraku,0,0,0,,{\i1}Since I've got it to myself for now,
+Dialogue: 0,0:16:54.58,0:16:57.33,Default,Sunraku,0,0,0,,{\i1}I'd like to keep it a secret \Nuntil I can clear it...
+Dialogue: 0,0:16:55.79,0:16:57.33,Default,Emul,0,0,0,,{\an8}Well, you can—
+Dialogue: 0,0:16:57.33,0:16:59.71,Default,Sunraku,0,0,0,,Zip that lip!
+Dialogue: 0,0:17:00.71,0:17:03.71,Default,Sunraku,0,0,0,,That was my ventriloquism act!
+Dialogue: 0,0:17:03.71,0:17:06.17,Default,Sunraku,0,0,0,,Heavens, I must be off!
+Dialogue: 0,0:17:05.25,0:17:06.59,Default,Aritomo,0,0,0,,{\an8}Wait!
+Dialogue: 0,0:17:07.38,0:17:11.59,Default,Aritomo,0,0,0,,Aw, I wanted to know how you tame them!
+Dialogue: 0,0:17:13.60,0:17:17.06,Default,Alinoiyu,0,0,0,,{\an8}I got a screenshot!\NLet's ask on the forums!
+Dialogue: 0,0:17:24.23,0:17:25.36,Default,Sunraku,0,0,0,,Great.
+Dialogue: 0,0:17:25.36,0:17:27.82,Default,Sunraku,0,0,0,,There aren't any more players\Nnearby now, at least.
+Dialogue: 0,0:17:28.86,0:17:31.78,Default,Emul,0,0,0,,I'm terribly ill-suited to \Nall this running around!
+Dialogue: 0,0:17:31.78,0:17:34.66,Default,Sunraku,0,0,0,,What kind of rabbit says a thing like that?
+Dialogue: 0,0:17:34.66,0:17:37.62,Default,Sunraku,0,0,0,,Besides, you've got about \Nthe same speed stat as I do.
+Dialogue: 0,0:17:37.87,0:17:40.75,Default,Emul,0,0,0,,Now, what would you have us do next?
+Dialogue: 0,0:17:41.00,0:17:42.42,Default,Sunraku,0,0,0,,Good question.
+Dialogue: 0,0:17:42.42,0:17:44.79,Default,Sunraku,0,0,0,,Actually, there's something I wanna confirm.
+Dialogue: 0,0:17:44.79,0:17:46.25,Default,Emul,0,0,0,,Confirm?
+Dialogue: 0,0:17:46.55,0:17:49.51,Default,Sunraku,0,0,0,,There's that line in my curse... the mark.
+Dialogue: 0,0:17:49.92,0:17:56.64,Default,Sunraku,0,0,0,,"Monsters of lower level than the \Nafflicted character will flee."
+Dialogue: 0,0:18:15.16,0:18:17.20,Default,Emul,0,0,0,,It fled from you, Sunraku-san!
+Dialogue: 0,0:18:17.20,0:18:19.91,Default,Sunraku,0,0,0,,Like it spotted some kind of degenerate.
+Dialogue: 0,0:18:20.33,0:18:21.91,Default,Sunraku,0,0,0,,Okay, perfect!
+Dialogue: 0,0:18:23.79,0:18:25.67,Default,Sunraku,0,0,0,,First, I chase at top speed!
+Dialogue: 0,0:18:26.29,0:18:28.21,Default,Sunraku,0,0,0,,I don't just pursue mindlessly,
+Dialogue: 0,0:18:28.21,0:18:31.42,Default,Sunraku,0,0,0,,but chase it into an obstacle!
+Dialogue: 0,0:18:32.22,0:18:33.43,Default,Sunraku,0,0,0,,And then...
+Dialogue: 0,0:18:33.68,0:18:36.18,Default,Sunraku,0,0,0,,the moment it changes direction,
+Dialogue: 0,0:18:36.47,0:18:37.26,Default,Sunraku,0,0,0,,I throw!
+Dialogue: 0,0:18:39.77,0:18:41.77,Default,Sunraku,0,0,0,,Then, once it's stopped,
+Dialogue: 0,0:18:42.14,0:18:45.94,Default,Sunraku,0,0,0,,I strike at the fastest speed I can muster!
+Dialogue: 0,0:18:47.77,0:18:49.98,Default,Sunraku,0,0,0,,An attack bonus from inertia...
+Dialogue: 0,0:18:50.40,0:18:53.15,Default,Sunraku,0,0,0,,It's a law of physics you take \Nfor granted in the real world,
+Dialogue: 0,0:18:53.15,0:18:56.28,Default,Sunraku,0,0,0,,but very few games actually \Ntry to replicate it.
+Dialogue: 0,0:18:57.03,0:19:02.62,Default,Sunraku,0,0,0,,Naturally, this game models \Nreality as close as it can!
+Dialogue: 0,0:19:02.62,0:19:04.92,Default,Emul,0,0,0,,That was spectacular, Sunraku-san!
+Dialogue: 0,0:19:04.92,0:19:07.79,Default,Emul,0,0,0,,I could hardly tell which \None was the monster!
+Dialogue: 0,0:19:07.79,0:19:09.29,Default,Sunraku,0,0,0,,Was that supposed to be a compliment?
+Dialogue: 0,0:19:12.30,0:19:13.26,Default,Sunraku,0,0,0,,Okay!
+Dialogue: 0,0:19:13.26,0:19:17.47,Default,Sunraku,0,0,0,,Even with the mark, I know I can take \Nout monsters that speed or slower.
+Dialogue: 0,0:19:17.89,0:19:19.10,Default,Sunraku,0,0,0,,I've verified what I needed to,
+Dialogue: 0,0:19:19.10,0:19:21.22,Default,Sunraku,0,0,0,,so here's the plan!
+Dialogue: 0,0:19:23.35,0:19:24.98,Default,Sunraku,0,0,0,,Ignore the scrubs!
+Dialogue: 0,0:19:24.98,0:19:26.85,Default,Sunraku,0,0,0,,Straight to the area boss!
+Dialogue: 0,0:19:26.85,0:19:27.94,Default,Sunraku,0,0,0,,That is all!
+Dialogue: 0,0:19:27.94,0:19:30.48,Default,Emul,0,0,0,,That wasn't much of a plan!
+Dialogue: 0,0:19:30.82,0:19:32.15,Default,Sunraku,0,0,0,,Now, as befits us speedsters,
+Dialogue: 0,0:19:32.15,0:19:33.57,Default,Sunraku,0,0,0,,let's get there speedily!
+Dialogue: 0,0:19:33.57,0:19:34.36,Default,Sunraku,0,0,0,,Away we go!
+Dialogue: 0,0:19:34.36,0:19:37.36,Default,Sunraku,0,0,0,,To the area boss, and Thirdrema beyond!
+Dialogue: 0,0:19:37.36,0:19:39.49,Default,Emul,0,0,0,,Yeah!
+Dialogue: 0,0:19:40.12,0:19:41.87,Default,Sunraku,0,0,0,,Um...
+Dialogue: 0,0:19:41.87,0:19:47.21,Default,Sunraku,0,0,0,,According to the map, the area \Nboss is around here, but...
+Dialogue: 0,0:19:48.54,0:19:50.59,Default,Sunraku,0,0,0,,It's swamp as far as the eye can see.
+Dialogue: 0,0:19:53.38,0:19:56.55,Default,Emul,0,0,0,,This will simply {\i1}ruin{\i0} my clothing...
+Dialogue: 0,0:19:56.55,0:19:59.68,Default,Sunraku,0,0,0,,{\i1}Yeah, no, I think I get it.
+Dialogue: 0,0:19:59.68,0:20:02.26,Default,Sunraku,0,0,0,,{\i1}With what Emul said on \Nthe way here and all...
+Dialogue: 0,0:20:02.93,0:20:05.43,Flashback,Sunraku,0,0,0,,I was in such a hurry to get out of town,
+Dialogue: 0,0:20:05.43,0:20:07.98,Flashback,Sunraku,0,0,0,,I never got a chance to ask about the boss.
+Dialogue: 0,0:20:07.98,0:20:09.69,Flashback,Sunraku,0,0,0,,You know anything about it, Emul?
+Dialogue: 0,0:20:09.98,0:20:13.40,Flashback,Emul,0,0,0,,Well, it's a monster named Mud Digger!
+Dialogue: 0,0:20:13.40,0:20:16.49,Flashback,Emul,0,0,0,,It rockets out of the ground to attack,
+Dialogue: 0,0:20:16.49,0:20:19.41,Flashback,Emul,0,0,0,,so it's crucial to find a \Nway to hold it in place!
+Dialogue: 0,0:20:19.78,0:20:21.28,Flashback,Sunraku,0,0,0,,{\i1}"Mud Digger"...
+Dialogue: 0,0:20:21.28,0:20:23.33,Flashback,Sunraku,0,0,0,,{\i1}I gotta fight it in the swamp.
+Dialogue: 0,0:20:23.70,0:20:25.62,Flashback,Sunraku,0,0,0,,{\i1}I might be in trouble here.
+Dialogue: 0,0:20:27.46,0:20:29.25,Default,Emul,0,0,0,,Sunraku-san, it's here!
+Dialogue: 0,0:20:33.17,0:20:34.17,Default,Sunraku,0,0,0,,Get on my shoulder!
+Dialogue: 0,0:20:34.55,0:20:35.84,Default,Emul,0,0,0,,Righty-o!
+Dialogue: 0,0:20:50.56,0:20:54.07,Default,Narrator,0,0,0,,A characteristic of {\i0}Shangri-La \NFrontier{\i1}'s "swamp" terrain
+Dialogue: 0,0:20:55.48,0:20:58.65,Default,Narrator,0,0,0,,is that it forces a "walking state."
+Dialogue: 0,0:20:58.65,0:21:02.03,Default,Narrator,0,0,0,,One leg always remains trapped in the marsh
+Dialogue: 0,0:21:02.03,0:21:04.12,Default,Narrator,0,0,0,,until the other foot reaches the bottom.
+Dialogue: 0,0:21:07.50,0:21:08.46,Default,Narrator,0,0,0,,{\an8}In other words...
+Dialogue: 0,0:21:09.96,0:21:13.96,Default,Sunraku,0,0,0,,{\i1}This is my worst match-up possible!

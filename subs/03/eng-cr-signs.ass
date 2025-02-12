@@ -1,0 +1,48 @@
+﻿[Script Info]
+Title: English (US)
+ScaledBorderAndShadow: yes
+Original Script: kodansha  [http://www.crunchyroll.com/user/kodansha]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+LayoutResX: 1920
+LayoutResY: 1080
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sign_Basic,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,6,3,2,30,30,54,1
+Style: Ep_Title,Arial,60,&H00FFFFFF,&H000000FF,&H00000000,&H00BE9829,-1,0,0,0,100,100,0,0,1,0,6,1,132,30,12,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:33.03,0:01:35.99,Ep_Title,sign,0,0,0,,{\fad(875,0)}Black Wolf Nightslayer
+Dialogue: 0,0:02:57.87,0:02:58.74,Sign_Basic,sign,0,0,0,,{\fad(100,0)\pos(960,336)\c&H93296A&\3c&HD258DE&\shad0\bord12\b1}Gift
+Dialogue: 0,0:02:57.87,0:02:58.74,Sign_Basic,sign,0,0,0,,{\fad(100,0)\fnArial\b1\c&HFBFA9E&\bord0\shad0\pos(960,732)}Coordinate Teleporter
+Dialogue: 0,0:03:50.33,0:04:01.76,Sign_Basic,sign,0,0,0,,{\pos(960,825)\shad0\bord1.5\fnTimes New Roman\b1\3c&HFFFFFF&\blur1.5\fs90}{\fade(400,1)}The Seven Colossi
+Dialogue: 0,0:04:37.55,0:04:41.89,Sign_Basic,sign,0,0,0,,{\fad(75,0)\an8\c&HB13B82&\3c&HEB50EB&\fnArial\b1\pos(960,30)\fs60\shad0}Unique Monster\N{\fs72\c&HF286F1&\bord1.5\3c&H9B7493&\4c&HEFC1F8&\shad3}Lycagon the Nightslayer\N{\bord0\shad0\fnTrebuchet MS\fs48\c&HD0D0C8&} Encountered
+Dialogue: 0,0:06:08.51,0:06:10.73,Sign_Basic,sign,0,0,0,,{\fad(75,0)\b1\c&HF7F99D&\3c&H352E12&\bord12\shad0\pos(960,444)}Perfect Parry\N{\b0\c&H8B8770&\bord6\fs54}Able to parry an enemy's physical attack\Nif executed with exact timing.
+Dialogue: 0,0:06:21.24,0:06:21.99,Sign_Basic,sign,0,0,0,,{\pos(363.409,133.891)\org(358.002,136.002)\fscx97.368\fscy90.363\frz-3.987\fry-175.947\frx-10.245\fax-0.11\fs30\b1\xbord5.84\ybord5.42\xshad0\yshad0\c&HF7F99D&\3c&H352E12&\fad(75,150)}Vorpal Choppers\N{\b0\c&H8B8770&}Equipped
+Dialogue: 0,0:06:24.49,0:06:25.24,Sign_Basic,sign,0,0,0,,{\pos(363.45,140.001)\org(363.999,140.001)\fscx98.117\fscy99.888\frz-4.278\fry4.053\frx0.68\fax0.009\fs36\b1\xbord5.89\ybord5.99\xshad0\yshad0\c&HF7F99D&\3c&H312010&\fad(75,125)}Slide Step\N{\b0\c&H8C7E74&}Bonus to user's evasion.
+Dialogue: 0,0:10:42.66,0:10:44.92,Sign_Basic,sign,0,0,0,,{\shad0\c&HAD9312&\3c&HF1F4F2&\bord6\i1\fnArial\b1\pos(1038,152.001)\frz350.5}Sunraku
+Dialogue: 0,0:11:56.36,0:11:59.41,Sign_Basic,sign,0,0,0,,{\fad(125,450)\b1\c&H7585F5&\3c&H030310&\bord12\shad0\pos(960,378)}Lycagon's Mark (Curse)\N{\b0\c&H8E8F93&\bord6\fs54}Applied
+Dialogue: 0,0:12:03.58,0:12:06.21,Sign_Basic,sign,0,0,0,,{\fad(700,0)\pos(978,345)\b1\c&H8CFC2C&\3c&HBFBFBF&\bord12\shad0}Respawn\N{\fs66\c&HFFFFF9&\3c&H8B6C0E&}Secondale  Inn
+Dialogue: 0,0:12:17.22,0:12:25.47,Sign_Basic,sign,0,0,0,,{\c&H636FF5&\b1\shad0\bord9\an7\pos(60,60)}Lycagon's Mark (Curse)\N{\c&H6C6D74&\b0\fs36}Equipment cannot be equipped to the body part afflicted with Lycagon's Mark. \N Monsters of lower level than the afflicted character will flee. \N Conversations with NPCs will be affected by the presence of Lycagon's Mark.\N The afflicted body part gains resistance to magic effects.\N The curse can be removed through the prayers of a Saint or the defeat of the curse's caster.
+Dialogue: 0,0:12:59.63,0:13:02.64,Sign_Basic,sign,0,0,0,,{\an7\pos(60,60)\b1\c&HF2FB85&\3c&H2E2516&\bord9\shad0}Staring Bird Mask\N Lycagon's Mark\N Splitblade Belt\N Lycagon's Mark\N None
+Dialogue: 0,0:14:16.84,0:14:17.50,Sign_Basic,sign,0,0,0,,{\shad0\c&HAD9312&\3c&HF1F4F2&\bord6\i1\fnArial\b1\frz350.5\pos(456,350.001)}Sunraku
+Dialogue: 0,0:14:16.84,0:14:17.50,Sign_Basic,sign,0,0,0,,{\an5\pos(864.167,715.998)\org(866.001,715.998)\fscx98.533\fscy95.443\frz-11.76\fry-4.751\frx-5.607\fax0.052\b1\xbord5.91\ybord5.73\xshad0\yshad0\c&HF1EADE&\3c&H3B2702&}Mercenary (Twin Blade User)  {\c&HB4ACA3&}Skill Points Remaining: 50
+Dialogue: 0,0:14:20.51,0:14:24.38,Sign_Basic,sign,0,0,0,,{\shad0\c&HAD9312&\3c&HF1F4F2&\bord6\i1\fnArial\b1\move(438,234,438,114)}Sunraku
+Dialogue: 0,0:14:20.51,0:14:24.38,Sign_Basic,sign,0,0,0,,{\an5\b1\c&HEEF0ED&\3c&H3B2702&\shad0\move(930,525,930,405)}Mercenary (Twin Blade User)  {\c&HBDB1A1&}Skill Points Remaining: 50
+Dialogue: 0,0:14:20.51,0:14:24.38,Sign_Basic,sign,0,0,0,,{\move(648,900,648,780)\an1\c&HF8EB9E&\b1\bord0\shad0}Cash on Hand            {\c&HBDB0A7&}9000 Mahni
+Dialogue: 0,0:14:42.86,0:14:44.11,Sign_Basic,sign,0,0,0,,{\pos(1647.999,897.999)\3c&H2B05AD&\c&HE3E1FA&\shad0\b1}Redo
+Dialogue: 0,0:15:32.45,0:15:33.45,Sign_Basic,sign,0,0,0,,{\fad(250,0)\pos(1440,540)\c&H6922E5&\b1\bord6\shad0\3a&H80&\3c&H000000&}Vorpal Bunny
+Dialogue: 0,0:16:28.09,0:16:30.05,Sign_Basic,sign,0,0,0,,{\fad(1500,175)\an5\c&H1993EA&\3c&H67FDF3&\bord12\shad0}Unique Scenario\N{\fnArial\b1\c&H63F7FC&\3c&H2A2EBE&\blur9}Invitation from Rabituza
+Dialogue: 0,0:17:27.78,0:17:33.28,Sign_Basic,sign,0,0,0,,{\an5\c&H56B2ED&\3c&H8FFAF8&\bord12\shad0\pos(960,225)\fscx80\fscy80}Unique Scenario\N{\fnArial\b1\c&H63F7FC&\3c&H4165D4&\blur9}Invitation from Rabituza
+Dialogue: 0,0:17:31.11,0:17:33.28,Sign_Basic,sign,0,0,0,,{\fad(775,0)\pos(630,591.999)\an7\c&HF2FD65&\3c&HCEDD4B&\blur6\shad0}Rec. Level               {\fnArial\b1\c&HF1F77B&\3c&HFFFFD6&}80
+Dialogue: 0,0:17:33.28,0:17:35.78,Sign_Basic,sign,0,0,0,,{\an8\fs90\c&HFDFF8D&\3c&HBBC341&\blur6\shad0}Rec. Level  {\fnArial\b1\c&HF0F93C&\3c&HF9F7C7&\blur0\be3}80
+Dialogue: 0,0:17:35.83,0:17:41.29,Sign_Basic,sign,0,0,0,,{\an8\fnArial\b1\i1\fs90}Sunraku {\fs72}LV:{\fs90}28
+Dialogue: 0,0:17:41.79,0:17:45.29,Sign_Basic,sign,0,0,0,,{\an8\pos(960,315)\b1\3c&HB7B137&\shad0\bord9\fs72}Rabituza
+Dialogue: 0,0:19:21.39,0:19:23.23,Sign_Basic,sign,0,0,0,,{\fad(350,775)\c&H70767E&\3c&H161B28&\an7\fs54\shad0\pos(126,336)}Conversations with NPCs will be affected by\Nthe presence of Lycagon's Mark
+Dialogue: 0,0:20:05.48,0:20:08.48,Sign_Basic,sign,0,0,0,,{\an8\pos(960,315)\fs48\b1\3c&HB7B137&\shad0\bord9}Palace of\N{\fs72}Rabituza
+Dialogue: 0,0:22:01.38,0:22:05.97,Sign_Basic,sign,0,0,0,,{\fad(75,0)\pos(466.002,789.999)\fs48\c&H5B1F86&\3c&HC882ED&\shad0}Boss of Rabituza\N{\fnImpact\fsp3\shad1.5\c&HCB80F5&\bord1.5\3c&HFFFFFF&\b1\fs60}Vysache
