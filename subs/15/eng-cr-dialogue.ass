@@ -1,0 +1,307 @@
+﻿[Script Info]
+Title: English (US)
+ScaledBorderAndShadow: yes
+Original Script: kodansha  [http://www.crunchyroll.com/user/kodansha]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+LayoutResX: 1920
+LayoutResY: 1080
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+Style: Flashback,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00013E12,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:02:12.99,0:02:14.91,Default,NPC Shopkeep,0,0,0,,Thank you for coming!
+Dialogue: 0,0:02:19.12,0:02:21.33,Default,Knights Tempura A,0,0,0,,Huh? Sold out?
+Dialogue: 0,0:02:22.08,0:02:24.29,Default,Knights Tempura B,0,0,0,,Here, too?
+Dialogue: 0,0:02:24.29,0:02:27.75,Default,Knights Tempura B,0,0,0,,Fourfolkshire and Sixenveldt \Nwere picked clean, too.
+Dialogue: 0,0:02:28.09,0:02:31.59,Default,Knights Tempura A,0,0,0,,How it is possible for so many \Nexpensive items to get bought out?
+Dialogue: 0,0:02:31.59,0:02:33.01,Default,Knights Tempura A,0,0,0,,What's going on here?
+Dialogue: 0,0:02:33.01,0:02:34.47,Default,Knights Tempura B,0,0,0,,I don't know,
+Dialogue: 0,0:02:34.47,0:02:38.55,Default,Knights Tempura B,0,0,0,,but our leader ordered us to buy as \Nmany resurrection items as we could.
+Dialogue: 0,0:02:38.55,0:02:40.35,Default,Knights Tempura B,0,0,0,,We'll have to search the other towns.
+Dialogue: 0,0:02:40.77,0:02:45.52,Default,Knights Tempura A,0,0,0,,Our leader's in a meeting with other \Nclan leaders right now, right?
+Dialogue: 0,0:02:45.77,0:02:48.40,Default,Knights Tempura A,0,0,0,,You think we're running some \Nkind of clan co-op raid?
+Dialogue: 0,0:02:48.40,0:02:52.19,Default,Knights Tempura A,0,0,0,,Against an enemy powerful enough that \Nwe need resurrection items for it?
+Dialogue: 0,0:02:52.19,0:02:55.53,Default,Knights Tempura B,0,0,0,,What could it possibly be?
+Dialogue: 0,0:02:55.53,0:02:56.74,Default,Knights Tempura A,0,0,0,,Dunno.
+Dialogue: 0,0:02:58.37,0:03:01.37,Default,Narrator,0,0,0,,On the day of {\i0}Shangri-La \NFrontier{\i1}'s major update,
+Dialogue: 0,0:03:01.37,0:03:04.71,Default,Narrator,0,0,0,,with many in its player base breathlessly \Nexcited about what was to come,
+Dialogue: 0,0:03:05.04,0:03:08.04,Default,Narrator,0,0,0,,another plan was moving into motion.
+Dialogue: 0,0:03:08.38,0:03:09.75,Default,Mia,0,0,0,,Hey, Reiji-kun.
+Dialogue: 0,0:03:09.75,0:03:12.51,Default,Mia,0,0,0,,What's changed in the major update?
+Dialogue: 0,0:03:12.80,0:03:15.26,Default,Reiji,0,0,0,,A new area got unlocked,
+Dialogue: 0,0:03:15.26,0:03:17.30,Default,Reiji,0,0,0,,a new scenario and job got added,
+Dialogue: 0,0:03:17.30,0:03:19.51,Default,Reiji,0,0,0,,there's balance adjustments \Nto some monster stats...
+Dialogue: 0,0:03:19.76,0:03:20.97,Default,Reiji,0,0,0,,Then there're tweaks to things
+Dialogue: 0,0:03:20.97,0:03:24.77,Default,Reiji,0,0,0,,like how often your luck triggers \Nthe "Endure" condition and stuff...
+Dialogue: 0,0:03:24.77,0:03:27.15,Default,Mia,0,0,0,,You think they added new weapons, too?!
+Dialogue: 0,0:03:27.15,0:03:29.40,Default,Reiji,0,0,0,,S-Sure, probably!
+Dialogue: 0,0:03:29.81,0:03:32.73,Default,Mia,0,0,0,,I'd love a bigger, stronger one!
+Dialogue: 0,0:03:32.73,0:03:35.61,Default,Reiji,0,0,0,,How about we check in at a weapon shop, then?
+Dialogue: 0,0:03:35.61,0:03:36.49,Default,Mia,0,0,0,,Yeah!
+Dialogue: 0,0:03:36.49,0:03:40.99,Default,Reiji,0,0,0,,Then, if you like, we can scope out \Nall the new changes for ourselves
+Dialogue: 0,0:03:40.99,0:03:42.66,Default,Reiji,0,0,0,,by going on an adventure together...
+Dialogue: 0,0:03:43.83,0:03:44.91,Default,Mia,0,0,0,,A monster!
+Dialogue: 0,0:03:49.08,0:03:52.59,Default,Reiji,0,0,0,,M-Mia! Monsters don't spawn in towns!
+Dialogue: 0,0:03:52.59,0:03:54.63,Default,Mia,0,0,0,,But I heard a weird voice!
+Dialogue: 0,0:03:54.63,0:03:56.42,Default,Reiji,0,0,0,,Just put your weapon away!
+Dialogue: 0,0:03:56.42,0:03:58.84,Default,Mia,0,0,0,,But I know I heard a monster's voice!
+Dialogue: 0,0:04:02.81,0:04:07.02,Default,Narrator,0,0,0,,Others were breathless for \Nvery different reasons.
+Dialogue: 0,0:04:28.50,0:04:30.29,Default,Psyger-0,0,0,0,,{\i1}Do it, Rei Saiga!
+Dialogue: 0,0:04:30.29,0:04:34.09,Default,Psyger-0,0,0,0,,{\i1}The day of the update is the \Nbest time to invite him!
+Dialogue: 0,0:04:34.09,0:04:37.67,Default,Psyger-0,0,0,0,,{\i1}Now, send it quickly, \Nwhile Hizutome-kun is still logged in!
+Dialogue: 0,0:04:57.11,0:04:59.36,Default,Psyger-0,0,0,0,,I actually sent it!
+Dialogue: 0,0:04:59.36,0:05:00.70,Default,Psyger-0,0,0,0,,Y-You're good, you're good!
+Dialogue: 0,0:05:00.70,0:05:02.57,Default,Psyger-0,0,0,0,,You spent two weeks working on that letter.
+Dialogue: 0,0:05:02.57,0:05:04.12,Default,Psyger-0,0,0,0,,Not too formal, not too casual.
+Dialogue: 0,0:05:04.12,0:05:06.95,Default,Psyger-0,0,0,0,,The exact perfect text \Nyou pored over for typos!
+Dialogue: 0,0:05:06.95,0:05:10.41,Default,Psyger-0,0,0,0,,You're good, you're good, \Nyou're good, you're good!
+Dialogue: 0,0:05:10.41,0:05:12.38,Default,Psyger-0,0,0,0,,You're back?
+Dialogue: 0,0:05:12.38,0:05:14.09,Default,Psyger-0,0,0,0,,Did he log out?
+Dialogue: 0,0:05:16.00,0:05:17.71,Default,Psyger-0,0,0,0,,It's from my sister?
+Dialogue: 0,0:05:17.96,0:05:21.01,Default,Psyger-100,0,0,0,,{\i1}The location of the Ashura Kai's \Nhome base has been leaked.
+Dialogue: 0,0:05:21.01,0:05:23.80,Default,Psyger-100,0,0,0,,{\i1}We're still attempting \Nto confirm its accuracy,
+Dialogue: 0,0:05:23.80,0:05:27.77,Default,Psyger-100,0,0,0,,{\i1}but please put an end to your free time \Nand join the rest of us immediately.
+Dialogue: 0,0:05:41.28,0:05:42.99,Default,Emul,0,0,0,,Sunraku-san.
+Dialogue: 0,0:05:42.99,0:05:45.12,Default,Sunraku,0,0,0,,What is it, old lady of mine?
+Dialogue: 0,0:05:45.12,0:05:46.95,Default,Emul,0,0,0,,I'm not your old lady!
+Dialogue: 0,0:05:48.04,0:05:49.37,Default,Emul,0,0,0,,The time has come, hasn't it?
+Dialogue: 0,0:05:49.75,0:05:52.04,Default,Sunraku,0,0,0,,Yeah, the time's come.
+Dialogue: 0,0:05:52.04,0:05:55.59,Default,Emul,0,0,0,,There's something I'd like \Nto give you, Sunraku-san.
+Dialogue: 0,0:05:56.50,0:05:57.75,Default,Emul,0,0,0,,Just for now!
+Dialogue: 0,0:05:59.96,0:06:02.55,Default,Sunraku,0,0,0,,Wh-What the hell? A bird?!
+Dialogue: 0,0:06:02.55,0:06:04.09,Default,Sunraku,0,0,0,,The Toxic Eagle's back?!
+Dialogue: 0,0:06:04.51,0:06:05.97,Default,Emul,0,0,0,,Shoo, shoo!
+Dialogue: 0,0:06:05.97,0:06:09.06,Default,Emul,0,0,0,,Only I am allowed to ride atop Sunraku-san!
+Dialogue: 0,0:06:08.18,0:06:09.93,Default,Sunraku,0,0,0,,I'm not your damn perch!
+Dialogue: 0,0:06:11.81,0:06:14.19,Default,Sunraku,0,0,0,,{\an8}Mailbird?
+Dialogue: 0,0:06:14.19,0:06:16.81,Default,Sunraku,0,0,0,,{\an8}Oh, it's {\i1}SLF{\i0}'s internal mail system.
+Dialogue: 0,0:06:16.81,0:06:19.19,Default,Sunraku,0,0,0,,{\an8}Just realized I've never used it before.
+Dialogue: 0,0:06:21.19,0:06:22.70,Default,Sunraku,0,0,0,,From Psyger-0?!
+Dialogue: 0,0:06:23.32,0:06:24.41,Default,Psyger-0,0,0,0,,{\i1}Salutations.
+Dialogue: 0,0:06:24.41,0:06:26.32,Default,Psyger-0,0,0,0,,{\i1}Though this time of year has been
+Dialogue: 0,0:06:26.32,0:06:28.70,Default,Psyger-0,0,0,0,,{\i1}blazingly hot and plagued \Nby powerful summer sunlight,
+Dialogue: 0,0:06:28.70,0:06:30.54,Default,Psyger-0,0,0,0,,{\i1}I hope that you have passed \Nthe time comfortably.
+Dialogue: 0,0:06:31.87,0:06:33.79,Flashback,Rei,0,0,0,,{\i1}I apologize for springing \Nthis upon you so suddenly,{\i0}
+Dialogue: 0,0:06:33.79,0:06:36.58,Flashback,Rei,0,0,0,,{\i1}but I thought it might be \Npresumptuous to ask you directly,{\i0}
+Dialogue: 0,0:06:36.58,0:06:38.71,Flashback,Rei,0,0,0,,{\i1}so I opted to send you this letter instead.{\i0}
+Dialogue: 0,0:06:39.38,0:06:42.42,Flashback,Rei,0,0,0,,{\i1}It struck me that an \Nenjoyable pastime might be{\i0}
+Dialogue: 0,0:06:42.42,0:06:45.30,Flashback,Rei,0,0,0,,{\i1}to explore the new update's \Nmiscellany as a pair.{\i0}
+Dialogue: 0,0:06:45.30,0:06:46.72,Flashback,Rei,0,0,0,,{\i1}Would you find that agreeable?{\i0}
+Dialogue: 0,0:06:46.72,0:06:48.14,Default,Sunraku,0,0,0,,It's so damn formal!
+Dialogue: 0,0:06:48.14,0:06:50.39,Default,Sunraku,0,0,0,,I thought she was calling \Nme out for a duel at first!
+Dialogue: 0,0:06:50.39,0:06:53.35,Default,Sunraku,0,0,0,,Still, I'm kinda booked solid today...
+Dialogue: 0,0:06:53.35,0:06:55.90,Default,Sunraku,0,0,0,,I'm gonna have to turn her—
+Dialogue: 0,0:06:59.36,0:07:01.65,Default,Emul,0,0,0,,You don't give up, do you?!
+Dialogue: 0,0:07:01.65,0:07:04.32,Default,Emul,0,0,0,,But you cannot take Sunraku-san from me!
+Dialogue: 0,0:07:04.65,0:07:07.62,Default,Sunraku,0,0,0,,Knock it off. That's a bird of prey.
+Dialogue: 0,0:07:07.62,0:07:11.04,Default,Sunraku,0,0,0,,Though birds and rabbits both \Nspend a lot of time on two legs...
+Dialogue: 0,0:07:11.04,0:07:12.45,Default,Sunraku,0,0,0,,I guess you're kind of similar?
+Dialogue: 0,0:07:13.66,0:07:16.33,Default,Sunraku,0,0,0,,Knock it off! It hurts! Stop it!
+Dialogue: 0,0:07:16.92,0:07:18.33,Default,Emul,0,0,0,,Harrumph!
+Dialogue: 0,0:07:19.46,0:07:21.34,Default,Sunraku,0,0,0,,Another one from Psyger-0?
+Dialogue: 0,0:07:21.59,0:07:23.46,Default,Psyger-0,0,0,0,,{\i1}Please forgive me for this \Nfollow-up so immediately
+Dialogue: 0,0:07:23.46,0:07:24.97,Default,Psyger-0,0,0,0,,{\i1}on the heels of my prior invitation.
+Dialogue: 0,0:07:24.97,0:07:26.63,Default,Psyger-0,0,0,0,,{\i1}I fear an urgent personal matter has arisen,
+Dialogue: 0,0:07:26.63,0:07:29.35,Default,Psyger-0,0,0,0,,{\i1}and I will no longer be \Nable to accompany you.
+Dialogue: 0,0:07:31.01,0:07:34.23,Default,Sunraku,0,0,0,,I guess I should reply to \Nsay, like, "It's cool."
+Dialogue: 0,0:07:35.23,0:07:37.23,Default,Sunraku,0,0,0,,Thanks for the help!
+Dialogue: 0,0:07:38.69,0:07:40.77,Default,Sunraku,0,0,0,,Okay, Emul, heads back in the game!
+Dialogue: 0,0:07:40.77,0:07:43.03,Default,Sunraku,0,0,0,,Let's go shopping in Thirdrema!
+Dialogue: 0,0:07:43.03,0:07:44.36,Default,Sunraku,0,0,0,,Time to make those final tweaks!
+Dialogue: 0,0:07:44.74,0:07:48.49,Default,Vysache,0,0,0,,Tonight's the new moon, then?
+Dialogue: 0,0:07:50.28,0:07:51.16,Default,Vysache,0,0,0,,Yo.
+Dialogue: 0,0:07:53.24,0:07:55.04,Default,Emul,0,0,0,,Da—I mean, Boss!
+Dialogue: 0,0:07:55.04,0:07:56.87,Default,Sunraku,0,0,0,,Aniki Vash, when did you—
+Dialogue: 0,0:07:56.87,0:07:59.63,Default,Vysache,0,0,0,,Ah, I've been here a while.
+Dialogue: 0,0:08:03.21,0:08:05.63,Default,Vysache,0,0,0,,You heading out there tonight, then?
+Dialogue: 0,0:08:05.88,0:08:07.34,Default,Sunraku,0,0,0,,Y-Yes!
+Dialogue: 0,0:08:07.88,0:08:09.51,Default,Sunraku,0,0,0,,Tonight's the night.
+Dialogue: 0,0:08:12.56,0:08:14.64,Default,Vysache,0,0,0,,That's a fine focus you've got in your eyes.
+Dialogue: 0,0:08:18.94,0:08:24.19,Default,Vysache,0,0,0,,Go send that fool who's outlived \Nhis time to his final rest already.
+Dialogue: 0,0:08:24.53,0:08:25.44,Default,Sunraku,0,0,0,,I will.
+Dialogue: 0,0:08:25.90,0:08:28.90,Default,Vysache,0,0,0,,And don't you forget your vorpal soul!
+Dialogue: 0,0:08:29.91,0:08:30.78,Default,Sunraku,0,0,0,,Sir!
+Dialogue: 0,0:08:33.37,0:08:35.41,Default,Emul,0,0,0,,Sunraku-san, Sunraku-san!
+Dialogue: 0,0:08:36.08,0:08:38.71,Default,Emul,0,0,0,,I'll be staying home this time, right?
+Dialogue: 0,0:08:38.71,0:08:39.42,Default,Sunraku,0,0,0,,Yeah.
+Dialogue: 0,0:08:39.42,0:08:44.92,Default,Emul,0,0,0,,So as you face down Wethermon the \NTombguard, I wish to entrust this to you.
+Dialogue: 0,0:08:46.67,0:08:47.92,Default,Sunraku,0,0,0,,A necklace?
+Dialogue: 0,0:08:47.92,0:08:48.97,Default,Emul,0,0,0,,Daddy—
+Dialogue: 0,0:08:49.34,0:08:51.80,Default,Emul,0,0,0,,I mean, the boss brought \Nit back for me one time.
+Dialogue: 0,0:08:51.80,0:08:53.47,Default,Emul,0,0,0,,I had it made into a necklace.
+Dialogue: 0,0:08:53.47,0:08:55.60,Default,Emul,0,0,0,,It's like an amulet of protection!
+Dialogue: 0,0:08:55.60,0:08:57.06,Default,Sunraku,0,0,0,,An amulet, huh?
+Dialogue: 0,0:08:57.06,0:08:59.64,Default,Sunraku,0,0,0,,Not that we'll need one to own this fight.
+Dialogue: 0,0:09:01.98,0:09:04.65,Default,Sunraku,0,0,0,,But with this amulet on top \Nof my already awesome skills,
+Dialogue: 0,0:09:04.65,0:09:07.15,Default,Sunraku,0,0,0,,it's gonna be even more awesome.
+Dialogue: 0,0:09:07.74,0:09:09.40,Default,Sunraku,0,0,0,,Thanks a lot, Emul.
+Dialogue: 0,0:09:09.40,0:09:11.49,Default,Sunraku,0,0,0,,We'll win for sure, thanks to you.
+Dialogue: 0,0:09:12.82,0:09:14.16,Default,Emul,0,0,0,,I'll put it on you!
+Dialogue: 0,0:09:23.00,0:09:25.80,Default,Emul,0,0,0,,I shall await your speedy return.
+Dialogue: 0,0:09:26.25,0:09:27.17,Default,Sunraku,0,0,0,,Sure thing.
+Dialogue: 0,0:09:28.55,0:09:32.05,Default,Narrator,0,0,0,,{\an8}ID Shard Necklace. No effect.
+Dialogue: 0,0:09:32.05,0:09:37.47,Default,Narrator,0,0,0,,{\an8}It is a remnant, a fragment, \Na scrap, a shard.
+Dialogue: 0,0:09:37.89,0:09:40.23,Default,Narrator,0,0,0,,{\an8}It is impossible to know who it identified,
+Dialogue: 0,0:09:40.23,0:09:43.48,Default,Narrator,0,0,0,,{\an8}or where it was used.
+Dialogue: 0,0:09:43.90,0:09:50.36,Default,Narrator,0,0,0,,{\an8}But at one time, it was most certainly used \Nas proof of a certain person's existence.
+Dialogue: 0,0:10:25.44,0:10:27.02,Default,Sunraku,0,0,0,,Okay, time to roll.
+Dialogue: 0,0:10:40.41,0:10:43.12,Default,Pencilgon,0,0,0,,All right, let's begin.
+Dialogue: 0,0:10:56.93,0:10:58.18,Default,Orcelott,0,0,0,,What's taking her so long?
+Dialogue: 0,0:10:58.18,0:11:02.43,Default,Ketchum,0,0,0,,Pencilgon-san... she said she'd \Nbe here any minute, but...
+Dialogue: 0,0:11:03.14,0:11:04.23,Default,Orcelott,0,0,0,,Whatever.
+Dialogue: 0,0:11:04.23,0:11:06.23,Default,Orcelott,0,0,0,,We can go to the Hidden Garden without h—
+Dialogue: 0,0:11:14.28,0:11:15.45,Default,Orcelott,0,0,0,,A raid?!
+Dialogue: 0,0:11:15.91,0:11:17.53,Default,Orcelott,0,0,0,,The Attack Master?!
+Dialogue: 0,0:11:18.28,0:11:20.03,Default,Orcelott,0,0,0,,Schwarz Vulf is here?!
+Dialogue: 0,0:11:21.41,0:11:26.25,Default,Psyger-100,0,0,0,,The Ashura Kai meets its end this night.
+Dialogue: 0,0:11:26.79,0:11:29.84,Default,Psyger-100,0,0,0,,Suffer the fate that awaits all evildoers!
+Dialogue: 0,0:11:32.59,0:11:34.21,Default,Ketchum,0,0,0,,Orcelott-san?!
+Dialogue: 0,0:11:35.26,0:11:36.63,Default,Remy,0,0,0,,It's not just Schwarz Vulf!
+Dialogue: 0,0:11:47.10,0:11:48.77,Default,Orcelott,0,0,0,,Team 10PM...
+Dialogue: 0,0:11:48.77,0:11:49.94,Default,Orcelott,0,0,0,,The Tigers of Indra...
+Dialogue: 0,0:11:49.94,0:11:51.32,Default,Orcelott,0,0,0,,The Knights Tempura?!
+Dialogue: 0,0:11:51.90,0:11:54.32,Default,Orcelott,0,0,0,,They forged a multi-clan \Nalliance to take us down?!
+Dialogue: 0,0:11:54.53,0:11:57.32,Default,Orcelott,0,0,0,,The hell is going on here?!
+Dialogue: 0,0:12:04.20,0:12:10.29,Default,Psyger-0,0,0,0,,Let your screams play as a requiem to \Nthe players you've killed, you bullies—
+Dialogue: 0,0:12:10.29,0:12:11.84,Default,Psyger-0,0,0,0,,I mean, you bastards!
+Dialogue: 0,0:12:27.73,0:12:30.69,Default,Orcelott,0,0,0,,Run! Retreat to the Hidden Garden!
+Dialogue: 0,0:12:35.65,0:12:39.07,Default,Orcelott,0,0,0,,How'd they learn about this hidden area?!
+Dialogue: 0,0:12:39.07,0:12:41.37,Default,Orcelott,0,0,0,,Who leaked that info?!
+Dialogue: 0,0:12:54.00,0:12:54.92,Default,Sunraku,0,0,0,,Ta-da!
+Dialogue: 0,0:12:54.92,0:12:58.09,Default,Sunraku,0,0,0,,Look at this glorious new equipment!
+Dialogue: 0,0:12:58.09,0:13:01.39,Default,Sunraku,0,0,0,,It's got my vitality \Nskyrocketing from 7 to 22!
+Dialogue: 0,0:13:02.18,0:13:05.72,Default,Oikatzo,0,0,0,,A glorious rise from tissue paper \Narmor to wet cardboard armor.
+Dialogue: 0,0:13:05.72,0:13:08.06,Default,Sunraku,0,0,0,,Look, you never know what \Nthey might throw at you.
+Dialogue: 0,0:13:08.06,0:13:09.39,Default,Sunraku,0,0,0,,I wanna leave it all on the table.
+Dialogue: 0,0:13:09.60,0:13:13.19,Default,Sunraku,0,0,0,,By the way, that brand of energy \Ndrinks you recommended...
+Dialogue: 0,0:13:13.19,0:13:16.40,Default,Sunraku,0,0,0,,It's crazy. It makes Energy \NKaiser feel like sugar water!
+Dialogue: 0,0:13:16.40,0:13:19.15,Default,Oikatzo,0,0,0,,The newest flavor of Riot Blood, yeah?
+Dialogue: 0,0:13:20.15,0:13:22.57,Default,Oikatzo,0,0,0,,Yeah, a friend of mine in the US \Nwouldn't stop pushing it on me,
+Dialogue: 0,0:13:22.57,0:13:24.45,Default,Oikatzo,0,0,0,,so I worked up my courage and tried it.
+Dialogue: 0,0:13:24.45,0:13:27.20,Default,Oikatzo,0,0,0,,I definitely couldn't do \Nthat on the regular, though.
+Dialogue: 0,0:13:27.20,0:13:31.25,Default,Sunraku,0,0,0,,Oh, right! And they found \Nthis awesome new bug in {\i1}BERP{\i0}!
+Dialogue: 0,0:13:31.25,0:13:33.67,Default,Oikatzo,0,0,0,,For real?! Teach me later!
+Dialogue: 0,0:13:35.50,0:13:36.67,Default,Sunraku,0,0,0,,How'd it go?
+Dialogue: 0,0:13:36.88,0:13:39.67,Default,Pencilgon,0,0,0,,So well it was practically anticlimactic.
+Dialogue: 0,0:13:40.26,0:13:44.01,Default,Pencilgon,0,0,0,,The Attack Master, Psyger-0, \Nseemed particularly worked up.
+Dialogue: 0,0:13:44.01,0:13:47.43,Default,Pencilgon,0,0,0,,Must have some bad blood with \Nthe Ashura Kai or something.
+Dialogue: 0,0:13:47.43,0:13:49.06,Default,Pencilgon,0,0,0,,Well, I guess everyone does.
+Dialogue: 0,0:13:49.52,0:13:51.64,Flashback,Psyger-0,0,0,0,,{\i1}I fear an urgent personal matter has arisen,{\i0}
+Dialogue: 0,0:13:51.64,0:13:53.73,Flashback,Psyger-0,0,0,0,,{\i1}and I will no longer be \Nable to accompany you.{\i0}
+Dialogue: 0,0:13:53.73,0:13:55.02,Default,Pencilgon,0,0,0,,What's the matter?
+Dialogue: 0,0:13:55.02,0:13:55.81,Default,Sunraku,0,0,0,,Nothin'.
+Dialogue: 0,0:13:56.11,0:13:59.40,Default,Oikatzo,0,0,0,,If they learn you sold 'em out, \Nthey're gonna beat you to a pulp, right?
+Dialogue: 0,0:13:59.40,0:14:01.49,Default,Pencilgon,0,0,0,,Not if I beat them first.
+Dialogue: 0,0:14:01.49,0:14:02.32,Default,Oikatzo,0,0,0,,Of course!
+Dialogue: 0,0:14:08.70,0:14:12.71,Default,Pencilgon,0,0,0,,Now, let's go over the plan one last time.
+Dialogue: 0,0:14:12.71,0:14:14.71,Default,Pencilgon,0,0,0,,I've got items I want to give you, too.
+Dialogue: 0,0:14:15.21,0:14:15.96,Default,Pencilgon,0,0,0,,First...
+Dialogue: 0,0:14:18.34,0:14:20.59,Default,Ketchum,0,0,0,,How'd they know where we were?!
+Dialogue: 0,0:14:20.59,0:14:23.68,Default,Branch,0,0,0,,Hardly anyone knew about that hidden area!
+Dialogue: 0,0:14:23.68,0:14:26.60,Default,Remy,0,0,0,,You don't think... \Nthere was a spy in our ranks?
+Dialogue: 0,0:14:26.60,0:14:28.06,Default,Orcelott,0,0,0,,A spy?
+Dialogue: 0,0:14:28.06,0:14:30.85,Default,Orcelott,0,0,0,,{\i1}No... could it be?
+Dialogue: 0,0:14:36.11,0:14:38.44,Default,Ketchum,0,0,0,,O-Orcelott-san!
+Dialogue: 0,0:14:38.44,0:14:40.86,Default,Remy,0,0,0,,The entrance to the Hidden Garden is...
+Dialogue: 0,0:14:40.86,0:14:42.95,Default,Branch,0,0,0,,Someone's already in there!
+Dialogue: 0,0:14:43.57,0:14:45.74,Default,Orcelott,0,0,0,,Sh-She screwed us...
+Dialogue: 0,0:14:46.20,0:14:47.87,Default,Orcelott,0,0,0,,She screwed us!
+Dialogue: 0,0:14:47.87,0:14:50.99,Default,Orcelott,0,0,0,,She sold out the Ashura Kai!
+Dialogue: 0,0:14:50.99,0:14:52.37,Default,Orcelott,0,0,0,,That...
+Dialogue: 0,0:14:52.37,0:14:56.50,Default,Orcelott,0,0,0,,That stupid bitch of a sister!
+Dialogue: 0,0:14:58.21,0:14:59.25,Default,Sunraku,0,0,0,,What's up?
+Dialogue: 0,0:14:59.75,0:15:03.17,Default,Pencilgon,0,0,0,,I thought I'd heard the braying \Nof a lousy sore loser,
+Dialogue: 0,0:15:03.17,0:15:04.34,Default,Pencilgon,0,0,0,,but I guess it was just my imagination.
+Dialogue: 0,0:15:05.22,0:15:07.39,Default,Pencilgon,0,0,0,,Now, we've done our last checks.
+Dialogue: 0,0:15:07.39,0:15:09.43,Default,Pencilgon,0,0,0,,Have you got any questions?
+Dialogue: 0,0:15:09.43,0:15:10.22,Default,Sunraku,0,0,0,,Nah.
+Dialogue: 0,0:15:10.81,0:15:12.77,Default,Oikatzo,0,0,0,,Let's get this done.
+Dialogue: 0,0:15:13.02,0:15:16.27,Default,Sunraku,0,0,0,,Though, now I think of it, \NSetsuna's not here today.
+Dialogue: 0,0:15:16.90,0:15:21.15,Default,Pencilgon,0,0,0,,She says you can't see her without \Nthe light of the full moon.
+Dialogue: 0,0:15:22.90,0:15:24.61,Default,Pencilgon,0,0,0,,It's time now.
+Dialogue: 0,0:15:28.20,0:15:32.54,Default,Pencilgon,0,0,0,,{\i1}I won't let your memories be sad ones.
+Dialogue: 0,0:15:38.38,0:15:39.42,Default,Pencilgon,0,0,0,,Set-chan...
+Dialogue: 0,0:15:40.59,0:15:42.88,Default,Pencilgon,0,0,0,,No, Setsuna.
+Dialogue: 0,0:15:43.38,0:15:45.30,Default,Pencilgon,0,0,0,,I will...
+Dialogue: 0,0:15:45.30,0:15:48.26,Default,Pencilgon,0,0,0,,No, we will make your wish come true.
+Dialogue: 0,0:15:58.65,0:16:01.19,Default,Pencilgon,0,0,0,,Now, let's go see him.
+Dialogue: 0,0:16:31.26,0:16:45.90,Default,Setsuna,0,0,0,,{\i1}Into the gap between moments
+Dialogue: 0,0:16:47.61,0:16:57.33,Default,Setsuna,0,0,0,,{\i1}spills a single wish
+Dialogue: 0,0:16:59.21,0:17:00.46,Default,Sunraku,0,0,0,,Is that our guy?
+Dialogue: 0,0:17:00.46,0:17:01.83,Default,Oikatzo,0,0,0,,I'll bet.
+Dialogue: 0,0:17:05.55,0:17:08.26,Default,VO,0,0,0,,{\i1\an8}Wethermon the Tombguard encountered.
+Dialogue: 0,0:17:31.11,0:17:32.16,Default,Pencilgon,0,0,0,,Sunraku-kun.
+Dialogue: 0,0:17:32.36,0:17:33.41,Default,Sunraku,0,0,0,,Got it.
+Dialogue: 0,0:17:49.42,0:17:51.55,Default,Sunraku,0,0,0,,Wethermon the Tombguard.
+Dialogue: 0,0:17:52.59,0:17:54.80,Default,Sunraku,0,0,0,,Let's have a good fight...
+Dialogue: 0,0:17:56.18,0:17:57.72,Default,Wethermon,0,0,0,,Wind Slash!
+Dialogue: 0,0:18:01.52,0:18:02.81,Default,Sunraku,0,0,0,,...man to man!
+Dialogue: 0,0:18:03.35,0:18:05.77,Default,Sunraku,0,0,0,,Skill—Infight!
+Dialogue: 0,0:18:09.53,0:18:11.82,Default,Sunraku,0,0,0,,I'm gonna test you to your limits,
+Dialogue: 0,0:18:11.82,0:18:13.45,Default,Sunraku,0,0,0,,robo-samurai!
+Dialogue: 0,0:18:18.20,0:18:19.08,Default,Sunraku,0,0,0,,Close call!
+Dialogue: 0,0:18:20.50,0:18:22.58,Default,Sunraku,0,0,0,,{\i1}A simple upward slash is that fast?
+Dialogue: 0,0:18:23.67,0:18:25.83,Default,Wethermon,0,0,0,,Wind Slash!
+Dialogue: 0,0:18:26.59,0:18:27.59,Default,Sunraku,0,0,0,,Aiming for my head?!
+Dialogue: 0,0:18:27.92,0:18:29.21,Default,Sunraku,0,0,0,,You bastard!
+Dialogue: 0,0:18:29.21,0:18:31.34,Default,Sunraku,0,0,0,,Parry Protect!
+Dialogue: 0,0:18:32.05,0:18:34.26,Default,Sunraku,0,0,0,,I see through your little trick, dumbass!
+Dialogue: 0,0:18:41.77,0:18:45.56,Default,Pencilgon,0,0,0,,He really grasped the \Ntiming on the first try.
+Dialogue: 0,0:18:46.02,0:18:47.02,Flashback,Pencil Knight,0,0,0,,"Wind Slash."
+Dialogue: 0,0:18:47.15,0:18:50.40,Flashback,Pencil Knight,0,0,0,,A quickdraw move believed to \Nhave single-frame execution.
+Dialogue: 0,0:18:50.69,0:18:52.44,Default,Katzo Tataki,0,0,0,,That's pretty darn fast.
+Dialogue: 0,0:18:52.44,0:18:55.03,Flashback,Pencil Knight,0,0,0,,It has a guard-pierce effect,
+Dialogue: 0,0:18:55.03,0:18:56.95,Flashback,Pencil Knight,0,0,0,,so you either need to see \Nit coming and evade,
+Dialogue: 0,0:18:56.95,0:18:58.20,Flashback,Pencil Knight,0,0,0,,or counter it.
+Dialogue: 0,0:18:58.20,0:19:01.24,Flashback,Katzo Tataki,0,0,0,,So, grasp the timing on the first try?
+Dialogue: 0,0:19:02.04,0:19:04.37,Flashback,Sunraku,0,0,0,,Easier said than done.
+Dialogue: 0,0:19:04.37,0:19:06.92,Flashback,Pencil Knight,0,0,0,,And he's got a whole bag \Nof even nastier skills,
+Dialogue: 0,0:19:06.92,0:19:08.50,Flashback,Pencil Knight,0,0,0,,so that's a thing to look forward to.
+Dialogue: 0,0:19:08.50,0:19:12.51,Flashback,Katzo Tataki,0,0,0,,A constant barrage of insta-kill \Nattacks at a 150 level handicap?
+Dialogue: 0,0:19:12.51,0:19:16.26,Flashback,Katzo Tataki,0,0,0,,Sounds like you'd really need to pull out \Nall the stops for an opponent like that.
+Dialogue: 0,0:19:19.01,0:19:20.31,Flashback,Sunraku,0,0,0,,So it sounds like...
+Dialogue: 0,0:19:20.56,0:19:21.52,Flashback,Pencil Knight,0,0,0,,Right.
+Dialogue: 0,0:19:21.52,0:19:25.27,Flashback,Pencil Knight,0,0,0,,Wethermon is likely a \N"special condition" type.
+Dialogue: 0,0:19:25.81,0:19:27.56,Default,Narrator,0,0,0,,A "special condition" type.
+Dialogue: 0,0:19:27.56,0:19:30.11,Default,Narrator,0,0,0,,An enemy you beat not by \Nreducing their HP to zero,
+Dialogue: 0,0:19:30.11,0:19:33.28,Default,Narrator,0,0,0,,but by achieving a particular condition.
+Dialogue: 0,0:19:33.28,0:19:35.86,Flashback,Sunraku,0,0,0,,Possibilities that come to mind...
+Dialogue: 0,0:19:35.86,0:19:38.78,Flashback,Sunraku,0,0,0,,"Pick up or destroy a \Nparticular in-game object."
+Dialogue: 0,0:19:38.78,0:19:40.20,Flashback,Sunraku,0,0,0,,"Last a certain length of time."
+Dialogue: 0,0:19:40.20,0:19:42.29,Flashback,Sunraku,0,0,0,,"Survive a particular attack."
+Dialogue: 0,0:19:42.95,0:19:46.92,Flashback,Sunraku,0,0,0,,You occasionally see "reason with \Nhim in the middle of battle," too.
+Dialogue: 0,0:19:46.92,0:19:48.92,Flashback,Katzo Tataki,0,0,0,,Any idea on what the condition is?
+Dialogue: 0,0:19:48.92,0:19:51.42,Flashback,Pencil Knight,0,0,0,,I've tried a few different things,
+Dialogue: 0,0:19:51.42,0:19:53.59,Flashback,Pencil Knight,0,0,0,,and I think it's "Last a \Ncertain length of time."
+Dialogue: 0,0:19:53.92,0:19:56.38,Default,Pencilgon,0,0,0,,{\i1}We'll proceed under that assumption.
+Dialogue: 0,0:19:57.97,0:20:03.35,Default,Pencilgon,0,0,0,,{\i1}Wethermon the Tombguard's combat \Nconditions change as time passes.
+Dialogue: 0,0:20:08.77,0:20:13.19,Default,Pencilgon,0,0,0,,{\i1}First, we need to survive \Nthe ten minutes of Phase 1.
+Dialogue: 0,0:20:29.00,0:20:31.92,Default,Pencilgon,0,0,0,,{\i1}You'll be the key to that, Sunraku-kun.
+Dialogue: 0,0:20:40.05,0:20:43.14,Default,Pencilgon,0,0,0,,{\i1}Someone with skills \Non par with a pro gamer
+Dialogue: 0,0:20:43.14,0:20:46.06,Default,Pencilgon,0,0,0,,{\i1}can surely figure out the \Nway through his attacks!
+Dialogue: 0,0:20:46.93,0:20:50.35,Default,Oikatzo,0,0,0,,The motion when he executes "Wind Slash" \Nis a swing down from the right-hand side,
+Dialogue: 0,0:20:50.35,0:20:51.56,Default,Oikatzo,0,0,0,,then slashes horizontally with both hands,
+Dialogue: 0,0:20:51.94,0:20:54.57,Default,Oikatzo,0,0,0,,followed by a strike on a \Ndelay or an upward slash...
+Dialogue: 0,0:20:55.90,0:20:58.65,Default,Pencilgon,0,0,0,,{\i1}Yes. With these two at my side...
+Dialogue: 0,0:21:01.49,0:21:05.41,Default,Pencilgon,0,0,0,,I can stake everything I am on this battle!
+Dialogue: 0,0:21:11.88,0:21:13.04,Default,Sunraku,0,0,0,,I get it...
+Dialogue: 0,0:21:13.04,0:21:15.55,Default,Sunraku,0,0,0,,That's some sturdy armor you've got!
+Dialogue: 0,0:21:19.84,0:21:21.47,Default,Sunraku,0,0,0,,No sweeping the leg, either?
+Dialogue: 0,0:21:21.47,0:21:24.39,Default,Sunraku,0,0,0,,There isn't a single attack that fazes him!
+Dialogue: 0,0:21:24.39,0:21:27.02,Default,Sunraku,0,0,0,,And any one of his attacks \Nwould kill me on the spot!
+Dialogue: 0,0:21:27.02,0:21:29.60,Default,Sunraku,0,0,0,,He's every bit as advertised, I guess...
+Dialogue: 0,0:21:32.23,0:21:34.69,Default,Sunraku,0,0,0,,Yeah, just as advertised...
+Dialogue: 0,0:21:34.69,0:21:36.07,Default,Sunraku,0,0,0,,he's...
+Dialogue: 0,0:21:36.73,0:21:38.94,Default,Wethermon,0,0,0,,Wind Slash!
+Dialogue: 0,0:21:48.29,0:21:50.96,Default,Sunraku,0,0,0,,...not someone you can beat!
+Dialogue: 0,0:21:52.46,0:21:53.25,Default,Pencilgon,0,0,0,,Katzo-kun!
+Dialogue: 0,0:21:53.25,0:21:54.79,Default,Oikatzo,0,0,0,,Way ahead of you!
+Dialogue: 0,0:21:55.96,0:21:58.00,Default,Oikatzo,0,0,0,,Take that!

@@ -1,0 +1,323 @@
+﻿[Script Info]
+Title: English (US)
+ScaledBorderAndShadow: yes
+Original Script: kodansha  [http://www.crunchyroll.com/user/kodansha]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+LayoutResX: 1920
+LayoutResY: 1080
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+Style: Flashback,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00013E12,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:31.49,0:01:35.95,Default,Pencilgon,0,0,0,,In {\i1}SLF{\i0}, the keys to victory \Ncome from the story.
+Dialogue: 0,0:01:36.41,0:01:39.95,Default,Pencilgon,0,0,0,,I'd always assumed Wethermon \Nwas some kind of cyborg,
+Dialogue: 0,0:01:39.95,0:01:42.58,Default,Pencilgon,0,0,0,,who'd modified his body with \Ntechnology from the Divinity...
+Dialogue: 0,0:01:43.29,0:01:44.00,Default,Pencilgon,0,0,0,,But...
+Dialogue: 0,0:01:44.42,0:01:47.00,Default,Pencilgon,0,0,0,,His classification is "undead monster"!
+Dialogue: 0,0:01:47.71,0:01:49.55,Default,Pencilgon,0,0,0,,For undead, you use holy water!
+Dialogue: 0,0:02:04.31,0:02:06.61,Default,Sunraku,0,0,0,,{\an8}Hey, the guy's screaming!
+Dialogue: 0,0:02:06.61,0:02:08.07,Default,Sunraku,0,0,0,,{\an8}Is his field attack incoming?
+Dialogue: 0,0:02:08.07,0:02:09.19,Default,Pencilgon,0,0,0,,{\an8}No...
+Dialogue: 0,0:02:09.19,0:02:11.11,Default,Pencilgon,0,0,0,,{\an8}This isn't that animation.
+Dialogue: 0,0:02:13.40,0:02:14.53,Default,Pencilgon,0,0,0,,Bingo!
+Dialogue: 0,0:02:14.53,0:02:16.87,Default,Pencilgon,0,0,0,,I canceled his field attack!
+Dialogue: 0,0:02:29.75,0:02:33.93,Default,Sunraku,0,0,0,,Guess he didn't appreciate getting \Nsplooshed with the saint's special water.
+Dialogue: 0,0:02:33.93,0:02:36.64,Default,Pencilgon,0,0,0,,Hey, can you not make it gross?
+Dialogue: 0,0:02:36.64,0:02:39.56,Default,Pencilgon,0,0,0,,The saint is like the idol of the {\i1}SLF{\i0} world.
+Dialogue: 0,0:02:39.56,0:02:43.60,Default,Oikatzo,0,0,0,,Hey, what's going on with Wethermon?
+Dialogue: 0,0:02:50.07,0:02:51.48,Default,Oikatzo,0,0,0,,H-H-Hey!
+Dialogue: 0,0:03:09.29,0:03:12.55,Default,Oikatzo,0,0,0,,I-I think that thing just transformed!
+Dialogue: 0,0:03:12.80,0:03:14.76,Default,Pencilgon,0,0,0,,What in the world is that thing?!
+Dialogue: 0,0:03:14.76,0:03:16.55,Default,Sunraku,0,0,0,,I dunno,
+Dialogue: 0,0:03:16.55,0:03:20.05,Default,Sunraku,0,0,0,,but I'm betting we don't wanna \Nlet it combine with Wethermon, either!
+Dialogue: 0,0:03:20.35,0:03:23.06,Default,Pencilgon,0,0,0,,An exclusive new form for stage 3?
+Dialogue: 0,0:03:25.31,0:03:28.06,Default,Oikatzo,0,0,0,,Wh-What the hell do we do now?!
+Dialogue: 0,0:03:28.60,0:03:31.57,Default,Sunraku,0,0,0,,A new form calls for a new approach.
+Dialogue: 0,0:03:31.94,0:03:34.99,Default,Sunraku,0,0,0,,Pencilgon, go help Katzo!
+Dialogue: 0,0:03:37.82,0:03:41.49,Default,Sunraku,0,0,0,,Wethermon's body has started \Ngradually crumbling.
+Dialogue: 0,0:03:42.33,0:03:45.75,Default,Sunraku,0,0,0,,For phases 1 and 2, \Nwe had to hold out ten minutes.
+Dialogue: 0,0:03:45.75,0:03:50.33,Default,Sunraku,0,0,0,,Maybe for phase 3, we have \Nto hold out until he falls apart.
+Dialogue: 0,0:03:50.71,0:03:55.59,Default,Pencilgon,0,0,0,,I'd say this all but confirms the \N"time passes" victory condition.
+Dialogue: 0,0:03:56.05,0:03:59.55,Default,Pencilgon,0,0,0,,Given how it's gone up until now, \NI'm betting it's ten minutes more—
+Dialogue: 0,0:04:00.05,0:04:02.93,Default,Pencilgon,0,0,0,,That's our final time limit!
+Dialogue: 0,0:04:04.06,0:04:05.35,Default,Sunraku,0,0,0,,Leave this to me.
+Dialogue: 0,0:04:05.35,0:04:07.69,Default,Sunraku,0,0,0,,I'll survive ten minutes, no problem.
+Dialogue: 0,0:04:11.77,0:04:13.19,Default,Pencilgon,0,0,0,,All right.
+Dialogue: 0,0:04:13.65,0:04:16.36,Default,Pencilgon,0,0,0,,Just... don't get too reckless.
+Dialogue: 0,0:04:16.69,0:04:18.99,Default,Pencilgon,0,0,0,,Until I can get back to acting as support,
+Dialogue: 0,0:04:18.99,0:04:21.12,Default,Pencilgon,0,0,0,,one death could spell the end for you.
+Dialogue: 0,0:04:21.95,0:04:24.62,Default,Pencilgon,0,0,0,,I'm leaving this to you, Sunraku-kun.
+Dialogue: 0,0:04:26.54,0:04:27.66,Default,Sunraku,0,0,0,,Sure thing.
+Dialogue: 0,0:04:32.13,0:04:34.00,Default,Sunraku,0,0,0,,{\i1}Sorry, Pencilgon.
+Dialogue: 0,0:04:34.46,0:04:40.01,Default,Sunraku,0,0,0,,{\i1}Ever since you mentioned the thing about \Nhanging in there through the time limit,
+Dialogue: 0,0:04:40.01,0:04:42.51,Default,Sunraku,0,0,0,,{\i1}I've been thinking...
+Dialogue: 0,0:04:45.14,0:04:47.60,Default,Sunraku,0,0,0,,{\i1}Where the hell is the fun in that?
+Dialogue: 0,0:04:51.44,0:04:55.15,Default,Sunraku,0,0,0,,{\i1}A boss where you just turtle up \Nfor thirty minutes straight...
+Dialogue: 0,0:04:55.61,0:04:58.15,Default,Sunraku,0,0,0,,{\i1}What kind of game would that be?
+Dialogue: 0,0:04:58.49,0:05:00.95,Default,Sunraku,0,0,0,,{\i1}I'll say it flat-out—one \Nthat's boring as shit.
+Dialogue: 0,0:05:02.03,0:05:04.95,Default,Sunraku,0,0,0,,{\i1}Game design that puts the story first?
+Dialogue: 0,0:05:05.24,0:05:07.95,Default,Sunraku,0,0,0,,{\i1}I've played tons of games like that...
+Dialogue: 0,0:05:08.29,0:05:11.71,Default,Sunraku,0,0,0,,{\i1}Games that go for a balance between \Nthe fiction and the gameplay and fail
+Dialogue: 0,0:05:12.04,0:05:14.88,Default,Sunraku,0,0,0,,{\i1}are regularly given the "trash game" stamp.
+Dialogue: 0,0:05:16.84,0:05:19.09,Default,Sunraku,0,0,0,,{\i1}But {\i0}Shangri-La Frontier{\i1}...
+Dialogue: 0,0:05:19.09,0:05:21.05,Default,Sunraku,0,0,0,,{\i1}You're supposed to be a god-tier game!
+Dialogue: 0,0:05:28.68,0:05:30.10,Default,Sunraku,0,0,0,,{\i1}Yeah, thought so.
+Dialogue: 0,0:05:30.10,0:05:32.14,Default,Sunraku,0,0,0,,{\i1}It popped into my head when I \Nsaw that holy water attack...
+Dialogue: 0,0:05:32.77,0:05:34.65,Default,Sunraku,0,0,0,,{\i1}In the state he's in now,
+Dialogue: 0,0:05:34.65,0:05:37.53,Default,Sunraku,0,0,0,,{\i1}he might just take damage!
+Dialogue: 0,0:05:41.65,0:05:44.20,Default,Sunraku,0,0,0,,{\i1}A passable compromise between \Nthe fiction and the gameplay...
+Dialogue: 0,0:05:44.49,0:05:48.37,Default,Sunraku,0,0,0,,{\i1}Any player who endures those \Ntwenty minutes gets a reward...
+Dialogue: 0,0:05:48.62,0:05:51.37,Default,Sunraku,0,0,0,,{\i1}A turn to fight back!
+Dialogue: 0,0:05:55.00,0:05:57.84,Default,Sunraku,0,0,0,,What, is that your first time \Nbeing parried by a helmet?
+Dialogue: 0,0:05:59.92,0:06:04.64,Default,Sunraku,0,0,0,,{\an8}Time to unveil the new armor I created \Nfrom Quad Beetle materials...
+Dialogue: 0,0:06:05.76,0:06:09.14,Default,Sunraku,0,0,0,,Before you get a chance to fall apart, \NI'm gonna beat you down...
+Dialogue: 0,0:06:09.39,0:06:11.27,Default,Sunraku,0,0,0,,Wethermon the Tombguard!
+Dialogue: 0,0:06:21.11,0:06:22.70,Default,Sunraku,0,0,0,,Pretty awesome, huh?
+Dialogue: 0,0:06:22.70,0:06:25.62,Default,Sunraku,0,0,0,,I practiced the helmet parry a ton.
+Dialogue: 0,0:06:26.12,0:06:29.12,Default,Sunraku,0,0,0,,"But why parry with a helmet," you ask?
+Dialogue: 0,0:06:29.41,0:06:32.00,Default,Sunraku,0,0,0,,'Cause if you can parry with your head...
+Dialogue: 0,0:06:32.41,0:06:34.46,Default,Sunraku,0,0,0,,it leaves your hands free!
+Dialogue: 0,0:06:36.88,0:06:39.25,Default,Wethermon,0,0,0,,Wind Slash!
+Dialogue: 0,0:06:42.88,0:06:44.26,Default,Sunraku,0,0,0,,Damn it!
+Dialogue: 0,0:06:44.26,0:06:46.64,Default,Sunraku,0,0,0,,That one did deal damage, right?
+Dialogue: 0,0:06:46.64,0:06:49.93,Default,Sunraku,0,0,0,,I landed a damn critical, \Nand he's not even fazed...
+Dialogue: 0,0:06:51.02,0:06:53.31,Default,Sunraku,0,0,0,,I didn't go as hard as Pencilgon,
+Dialogue: 0,0:06:53.31,0:06:56.73,Default,Sunraku,0,0,0,,but I still dropped a ton \Nof cash on you, got it?
+Dialogue: 0,0:06:57.73,0:06:59.48,Default,Sunraku,0,0,0,,That money-grubbing bunny...
+Dialogue: 0,0:06:59.90,0:07:04.74,Default,Sunraku,0,0,0,,I'm gonna use the 80,000 mahni I paid \Nher to rub your face into the dirt!
+Dialogue: 0,0:07:09.33,0:07:10.41,Default,Sunraku,0,0,0,,Vorpal Blade Tech...
+Dialogue: 0,0:07:17.75,0:07:19.42,Default,Sunraku,0,0,0,,Moon's Reflection!
+Dialogue: 0,0:07:20.63,0:07:22.55,Default,Sunraku,0,0,0,,Better watch your back, man.
+Dialogue: 0,0:07:27.89,0:07:30.14,Default,Sunraku,0,0,0,,Your six is wide open!
+Dialogue: 0,0:07:30.14,0:07:32.18,Default,Sunraku,0,0,0,,{\i1}The Moon's Reflection was a bluff!
+Dialogue: 0,0:07:32.18,0:07:34.18,Default,Sunraku,0,0,0,,{\i1}The real attack... is here!
+Dialogue: 0,0:07:34.77,0:07:36.69,Default,Sunraku,0,0,0,,Assassin Pierce!
+Dialogue: 0,0:07:39.19,0:07:43.28,Default,Sunraku,0,0,0,,Oh, I haven't even started to get my revenge!
+Dialogue: 0,0:07:44.03,0:07:46.28,Default,Sunraku,0,0,0,,Drill Piercer!
+Dialogue: 0,0:07:57.42,0:08:00.25,Default,Sunraku,0,0,0,,If "scars on the back are a swordsman's \Ngreatest shame," then sorry...
+Dialogue: 0,0:08:00.25,0:08:01.88,Default,Sunraku,0,0,0,,I'm about to deal you a whole lot of shame.
+Dialogue: 0,0:08:09.64,0:08:13.64,Default,Pencilgon,0,0,0,,How did I just know he'd end up in a brawl?
+Dialogue: 0,0:08:16.06,0:08:19.15,Default,Oikatzo,0,0,0,,He's cackling like a madman over there!
+Dialogue: 0,0:08:19.15,0:08:20.77,Default,Oikatzo,0,0,0,,Is that guy okay?!
+Dialogue: 0,0:08:21.19,0:08:24.28,Default,Pencilgon,0,0,0,,I guess as long as the \Ncackling goes on, he's fine.
+Dialogue: 0,0:08:25.19,0:08:27.40,Default,Pencilgon,0,0,0,,The bigger of an underdog Sunraku-kun is,
+Dialogue: 0,0:08:27.40,0:08:30.78,Default,Pencilgon,0,0,0,,the more his motivation \Nand player skill spike.
+Dialogue: 0,0:08:32.49,0:08:33.37,Default,Pencilgon,0,0,0,,But...
+Dialogue: 0,0:08:33.99,0:08:36.87,Default,Pencilgon,0,0,0,,If we can't hold this thing in place,
+Dialogue: 0,0:08:36.87,0:08:38.75,Default,Pencilgon,0,0,0,,he'll still end up an unwinnable fight.
+Dialogue: 0,0:08:49.80,0:08:51.68,Default,Oikatzo,0,0,0,,I tried punching it a few times,
+Dialogue: 0,0:08:52.30,0:08:55.68,Default,Oikatzo,0,0,0,,and it's looking like \Nit'll take damage now!
+Dialogue: 0,0:08:55.68,0:08:57.31,Default,Oikatzo,0,0,0,,Still tough as hell, though...
+Dialogue: 0,0:08:59.10,0:09:00.44,Default,Pencilgon,0,0,0,,Okay, look.
+Dialogue: 0,0:09:00.44,0:09:03.44,Default,Pencilgon,0,0,0,,It's not worth sticking out \Nour necks to beat this thing.
+Dialogue: 0,0:09:03.44,0:09:06.32,Default,Pencilgon,0,0,0,,Staying alive and drawing \NKirin's aggro from Sunraku-kun
+Dialogue: 0,0:09:06.32,0:09:10.61,Default,Pencilgon,0,0,0,,is enough to earn us a passing grade.
+Dialogue: 0,0:09:10.61,0:09:13.41,Default,Oikatzo,0,0,0,,A passing grade, sure.
+Dialogue: 0,0:09:13.41,0:09:14.37,Default,Oikatzo,0,0,0,,But...
+Dialogue: 0,0:09:15.87,0:09:18.04,Default,Oikatzo,0,0,0,,Whip Puppet: Snake!
+Dialogue: 0,0:09:20.46,0:09:23.96,Default,Oikatzo,0,0,0,,If I'm gonna be graded, \NI'd rather get a perfect score!
+Dialogue: 0,0:09:36.60,0:09:38.85,Default,Pencilgon,0,0,0,,These two, I swear...
+Dialogue: 0,0:09:52.20,0:09:53.82,Default,Oikatzo,0,0,0,,Okay, maybe not.
+Dialogue: 0,0:09:53.82,0:09:55.20,Default,Oikatzo,0,0,0,,I didn't leave a dent!
+Dialogue: 0,0:09:56.62,0:09:57.91,Default,Oikatzo,0,0,0,,What's this?
+Dialogue: 0,0:09:58.16,0:09:59.58,Default,Pencilgon,0,0,0,,Evil Force.
+Dialogue: 0,0:09:59.91,0:10:01.79,Default,Pencilgon,0,0,0,,It increases the user's \Nstats for fifteen minutes!
+Dialogue: 0,0:10:02.00,0:10:05.13,Default,Pencilgon,0,0,0,,Even in your current state,
+Dialogue: 0,0:10:05.58,0:10:11.72,Default,Pencilgon,0,0,0,,it should give you abilities \Non par with level 99 or so!
+Dialogue: 0,0:10:11.72,0:10:14.01,Default,Oikatzo,0,0,0,,Level 99?!
+Dialogue: 0,0:10:14.01,0:10:15.76,Default,Oikatzo,0,0,0,,That's a god-tier item!
+Dialogue: 0,0:10:15.76,0:10:19.10,Default,Oikatzo,0,0,0,,Why didn't you whip this \Nawesome thing out earlier?!
+Dialogue: 0,0:10:19.10,0:10:21.52,Default,Pencilgon,0,0,0,,Using it comes with a serious penalty.
+Dialogue: 0,0:10:21.52,0:10:25.02,Default,Pencilgon,0,0,0,,I've used it before, and it \Nwas a pretty rough time...
+Dialogue: 0,0:10:26.11,0:10:27.61,Default,Oikatzo,0,0,0,,Penalty?
+Dialogue: 0,0:10:27.61,0:10:32.03,Default,Pencilgon,0,0,0,,I'll admit, I'm getting tired \Nof this one-sided fight, too...
+Dialogue: 0,0:10:32.65,0:10:34.78,Default,Pencilgon,0,0,0,,You said you want a perfect score, right?
+Dialogue: 0,0:10:34.78,0:10:37.32,Default,Pencilgon,0,0,0,,So I'm sure you're prepared for the risk—
+Dialogue: 0,0:10:39.70,0:10:41.16,Default,Oikatzo,0,0,0,,A penalty?
+Dialogue: 0,0:10:41.16,0:10:42.71,Default,Oikatzo,0,0,0,,Sounds fine to me.
+Dialogue: 0,0:10:45.58,0:10:50.34,Default,Oikatzo,0,0,0,,I'm gonna turn you to scrap \Nand get a big old A-plus!
+Dialogue: 0,0:10:54.72,0:10:57.72,Default,Oikatzo,0,0,0,,H-Huh? Why's everything \Nsuddenly in photo-negative?
+Dialogue: 0,0:10:58.35,0:11:00.64,Default,Oikatzo,0,0,0,,I feel like my hearing's gone fuzzy, too...
+Dialogue: 0,0:11:00.85,0:11:03.52,Default,Pencilgon,0,0,0,,It's probably screwing with your \Nsense of smell and taste, too!
+Dialogue: 0,0:11:04.44,0:11:06.48,Default,Oikatzo,0,0,0,,Is this the "penalty"?
+Dialogue: 0,0:11:06.48,0:11:08.69,Default,Oikatzo,0,0,0,,Well, it does feel a little weird,
+Dialogue: 0,0:11:08.69,0:11:10.94,Default,Oikatzo,0,0,0,,but it's not nearly as bad as I expected!
+Dialogue: 0,0:11:10.94,0:11:14.45,Default,Pencilgon,0,0,0,,Actually... that's not the bad part.
+Dialogue: 0,0:11:14.86,0:11:19.03,Default,Pencilgon,0,0,0,,Every thirty seconds, \Nyour level decreases by one.
+Dialogue: 0,0:11:21.41,0:11:22.29,Default,Oikatzo,0,0,0,,Huh?
+Dialogue: 0,0:11:24.16,0:11:27.17,Default,Oikatzo,0,0,0,,Huh? My level goes down?!
+Dialogue: 0,0:11:27.17,0:11:30.09,Default,Oikatzo,0,0,0,,Th-This thing lasts fifteen minutes!
+Dialogue: 0,0:11:30.09,0:11:32.42,Default,Oikatzo,0,0,0,,Does it stick around after the battle, too?!
+Dialogue: 0,0:11:32.71,0:11:33.55,Default,Pencilgon,0,0,0,,Yeah.
+Dialogue: 0,0:11:33.55,0:11:37.80,Default,Pencilgon,0,0,0,,I've used it myself, and the \Nsense of loss was palpable.
+Dialogue: 0,0:11:39.39,0:11:42.26,Default,Oikatzo,0,0,0,,If it's every thirty seconds...
+Dialogue: 0,0:11:42.77,0:11:45.14,Default,Oikatzo,0,0,0,,For fifteen minutes... I lose thirty levels?!
+Dialogue: 0,0:11:45.14,0:11:49.61,Default,Oikatzo,0,0,0,,So when the fight's over, \NI'll have to start back from level 20?!
+Dialogue: 0,0:11:49.61,0:11:52.73,Default,Oikatzo,0,0,0,,Why didn't you say that sooner?!
+Dialogue: 0,0:11:53.19,0:11:54.44,Default,Oikatzo,0,0,0,,Ah, it went down...
+Dialogue: 0,0:11:54.44,0:11:57.24,Default,Pencilgon,0,0,0,,You ate it before I could!
+Dialogue: 0,0:11:57.66,0:12:01.53,Default,Pencilgon,0,0,0,,Oh, and I'll use my remaining Scale \Npoints to boost my own stats!
+Dialogue: 0,0:12:01.53,0:12:02.70,Default,Oikatzo,0,0,0,,Hey!
+Dialogue: 0,0:12:03.08,0:12:06.58,Default,Pencilgon,0,0,0,,Still, I can't believe you chewed it.
+Dialogue: 0,0:12:06.58,0:12:08.71,Default,Pencilgon,0,0,0,,I know it's just flavor text stuff in a game,
+Dialogue: 0,0:12:09.08,0:12:10.79,Default,Pencilgon,0,0,0,,but I learned what those are made of,
+Dialogue: 0,0:12:10.79,0:12:13.75,Default,Pencilgon,0,0,0,,and I haven't been able \Nto stomach one since...
+Dialogue: 0,0:12:14.42,0:12:16.17,Default,Oikatzo,0,0,0,,What the hell did you let me eat?!
+Dialogue: 0,0:12:20.09,0:12:22.35,Default,Oikatzo,0,0,0,,Okay, now I'm pissed!
+Dialogue: 0,0:12:22.35,0:12:25.72,Default,Oikatzo,0,0,0,,You're gonna be my punching \Nbag, you robot jerk!
+Dialogue: 0,0:12:26.10,0:12:30.40,Default,Oikatzo,0,0,0,,Red plus black makes crimson!
+Dialogue: 0,0:12:32.82,0:12:35.61,Default,Oikatzo,0,0,0,,Combo Spirit Fist: Flame Crimson!
+Dialogue: 0,0:12:36.36,0:12:38.82,Default,Pencilgon,0,0,0,,And I'll max out my buffs...
+Dialogue: 0,0:12:40.53,0:12:42.24,Default,,0,0,0,,Let's get to it, Katzo-kun!
+Dialogue: 0,0:12:42.70,0:12:44.24,Default,Oikatzo,0,0,0,,Infight!
+Dialogue: 0,0:12:44.24,0:12:46.16,Default,Oikatzo,0,0,0,,Into...
+Dialogue: 0,0:12:46.70,0:12:48.96,Default,Oikatzo,0,0,0,,Dual Impact!
+Dialogue: 0,0:12:49.42,0:12:52.42,Default,Oikatzo,0,0,0,,With my right fist, I create \Na cross-shaped seal...
+Dialogue: 0,0:12:52.84,0:12:57.76,Default,Oikatzo,0,0,0,,Then I pound it with a right straight punch!
+Dialogue: 0,0:13:00.38,0:13:02.76,Default,Pencilgon,0,0,0,,Nice! You finally staggered it!
+Dialogue: 0,0:13:02.76,0:13:04.51,Default,Pencilgon,0,0,0,,Looks like the medicine did its thing!
+Dialogue: 0,0:13:04.89,0:13:10.02,Default,Pencilgon,0,0,0,,Now I'm gonna stab its \Nknee until it shatters!
+Dialogue: 0,0:13:10.73,0:13:12.98,Default,Pencilgon,0,0,0,,Spear of Sunlight!
+Dialogue: 0,0:13:19.65,0:13:23.82,Default,Arthur,0,0,0,,{\i1}I know it dealt damage... but even \Nwith all those stacked buffs...
+Dialogue: 0,0:13:23.82,0:13:25.99,Default,Arthur,0,0,0,,{\i1}I still can't even crack it?!
+Dialogue: 0,0:13:29.71,0:13:30.87,Default,Oikatzo,0,0,0,,Pencilgon!
+Dialogue: 0,0:13:34.17,0:13:35.54,Default,Pencilgon,0,0,0,,Sheesh...
+Dialogue: 0,0:13:35.54,0:13:39.26,Default,Pencilgon,0,0,0,,I wish you'd be clearer about \Nwhen your stagger phase ends!
+Dialogue: 0,0:13:40.30,0:13:45.26,Default,Oikatzo,0,0,0,,I guess we'll need more than stat \Nboosts to make a breakthrough here.
+Dialogue: 0,0:13:45.64,0:13:48.72,Default,Oikatzo,0,0,0,,Its armor seems thickest around the waist.
+Dialogue: 0,0:13:48.72,0:13:51.60,Default,Oikatzo,0,0,0,,That's probably where all the \Nimportant bits are stored...
+Dialogue: 0,0:13:51.98,0:13:57.27,Default,Oikatzo,0,0,0,,But how the heck do we \Ngo about prying it open?
+Dialogue: 0,0:14:12.00,0:14:12.96,Default,Sunraku,0,0,0,,Okay!
+Dialogue: 0,0:14:12.96,0:14:17.09,Default,Sunraku,0,0,0,,I think I've got the hang of \Nthe head-parry-slash combo.
+Dialogue: 0,0:14:19.30,0:14:21.13,Default,Sunraku,0,0,0,,What's the matter, man?!
+Dialogue: 0,0:14:21.13,0:14:22.22,Default,Sunraku,0,0,0,,Are you that depressed
+Dialogue: 0,0:14:22.22,0:14:25.22,Default,Sunraku,0,0,0,,that your robo-samurai sword \Ntechniques won't work on me?!
+Dialogue: 0,0:14:28.76,0:14:33.10,Default,Sunraku,0,0,0,,{\i1}I knew these Moonblades were \Na good match for my skills.
+Dialogue: 0,0:14:36.31,0:14:40.57,Default,Sunraku,0,0,0,,{\i1}I've got a skill I can only activate \Nwhen my HP fall below one-third—
+Dialogue: 0,0:14:40.57,0:14:42.65,Default,Sunraku,0,0,0,,{\an8}Climax Boost.
+Dialogue: 0,0:14:42.65,0:14:44.36,Default,Sunraku,0,0,0,,{\i1\an8}For five minutes after activating,
+Dialogue: 0,0:14:44.57,0:14:52.37,Default,Sunraku,0,0,0,,{\i1}it boosts my stats in proportion to \Nthe level gap between me and my enemy.
+Dialogue: 0,0:14:53.00,0:14:55.12,Default,Sunraku,0,0,0,,{\i1}But I've got so little HP,
+Dialogue: 0,0:14:55.12,0:15:00.63,Default,Sunraku,0,0,0,,{\i1}there's no way to use Wethermon's attacks \Nto fine-tune them down to one-third.
+Dialogue: 0,0:15:01.13,0:15:01.59,Default,Sunraku,0,0,0,,{\i1}But...
+Dialogue: 0,0:15:02.09,0:15:05.38,Default,Sunraku,0,0,0,,{\i1}With the Moonblades' ability to shave down \Nand recover my HP with every attack,
+Dialogue: 0,0:15:05.38,0:15:06.59,Default,Sunraku,0,0,0,,{\i1}I can do it.
+Dialogue: 0,0:15:07.05,0:15:08.47,Default,Sunraku,0,0,0,,{\i1}And one more thing...
+Dialogue: 0,0:15:08.47,0:15:09.93,Default,Sunraku,0,0,0,,{\i1}Hunger Wolf.
+Dialogue: 0,0:15:09.93,0:15:12.10,Default,Sunraku,0,0,0,,{\i1\an8}It only lasts for one minute,
+Dialogue: 0,0:15:12.10,0:15:14.35,Default,Sunraku,0,0,0,,{\i1\an8}but in exchange for depleting \Nmy stamina and such,
+Dialogue: 0,0:15:14.35,0:15:18.27,Default,Sunraku,0,0,0,,{\i1\an8}it increases my strength, \Nagility, and vitality!
+Dialogue: 0,0:15:18.27,0:15:19.36,Default,Wethermon,0,0,0,,Thunderclap!
+Dialogue: 0,0:15:19.36,0:15:24.82,Default,Sunraku,0,0,0,,{\i1}The stat increase is in proportion to how \Nfew HP you've got, and your "hunger" level!
+Dialogue: 0,0:15:22.65,0:15:23.74,Default,Wethermon,0,0,0,,{\an8}Nimbus Fist!
+Dialogue: 0,0:15:26.49,0:15:30.24,Default,Sunraku,0,0,0,,SLF {\i1}has a gauge to represent your hunger.{\i0}
+Dialogue: 0,0:15:30.70,0:15:32.74,Default,Sunraku,0,0,0,,{\i1}It fills back up when you eat,
+Dialogue: 0,0:15:32.74,0:15:36.25,Default,Sunraku,0,0,0,,{\i1}and if you go hungry for too long, it \Nimpacts your stamina recovery rate.
+Dialogue: 0,0:15:36.25,0:15:38.33,Default,Sunraku,0,0,0,,{\i1}Naturally, I micromanaged that too!
+Dialogue: 0,0:15:39.08,0:15:41.59,Default,Sunraku,0,0,0,,{\i1}I'm at just the right level of hunger!
+Dialogue: 0,0:15:41.59,0:15:45.42,Default,Sunraku,0,0,0,,{\i1}If I can combine these skills just \Nright, I know I can win this!
+Dialogue: 0,0:15:51.64,0:15:52.85,Default,Sunraku,0,0,0,,{\i1}His sword's at his hip.
+Dialogue: 0,0:15:52.85,0:15:54.56,Default,Sunraku,0,0,0,,{\i1}Another Wind Slash?!
+Dialogue: 0,0:15:54.56,0:15:58.27,Default,Sunraku,0,0,0,,{\i1}I'll block it with a head-parry \Nfrom Parry Protect!
+Dialogue: 0,0:16:00.15,0:16:01.02,Default,Sunraku,0,0,0,,{\i1}Here it comes!
+Dialogue: 0,0:16:01.86,0:16:03.40,Default,Sunraku,0,0,0,,Parry!
+Dialogue: 0,0:16:05.53,0:16:06.36,Default,Sunraku,0,0,0,,Huh?
+Dialogue: 0,0:16:08.57,0:16:10.74,Default,Sunraku,0,0,0,,What the... Where's the slash?
+Dialogue: 0,0:16:27.09,0:16:28.05,Default,Wethermon,0,0,0,,A...
+Dialogue: 0,0:16:29.13,0:16:31.09,Default,Wethermon,0,0,0,,Alice.
+Dialogue: 0,0:16:33.14,0:16:36.64,Flashback,Vysache,0,0,0,,He's an awkward one, you see.
+Dialogue: 0,0:16:37.60,0:16:42.02,Flashback,Vysache,0,0,0,,He's a living corpse, \Nunable to even put himself to rest.
+Dialogue: 0,0:16:42.27,0:16:47.69,Flashback,Emul,0,0,0,,So as you face down Wethermon the \NTombguard, I wish to entrust this to you.
+Dialogue: 0,0:16:52.74,0:16:54.53,Default,Wethermon,0,0,0,,Alice.
+Dialogue: 0,0:16:55.49,0:16:56.54,Default,Sunraku,0,0,0,,Alice?
+Dialogue: 0,0:16:56.83,0:16:58.87,Default,Wethermon,0,0,0,,A...lice...
+Dialogue: 0,0:16:59.37,0:17:01.50,Default,Wethermon,0,0,0,,ID key...
+Dialogue: 0,0:17:01.96,0:17:03.29,Default,Wethermon,0,0,0,,fragment.
+Dialogue: 0,0:17:04.09,0:17:08.55,Default,Wethermon,0,0,0,,Alice... is still... known?
+Dialogue: 0,0:17:08.80,0:17:12.05,Default,Sunraku,0,0,0,,{\i1}This isn't a skill incantation.
+Dialogue: 0,0:17:12.34,0:17:15.56,Default,Wethermon,0,0,0,,For endless eternity...
+Dialogue: 0,0:17:15.56,0:17:16.35,Default,Sunraku,0,0,0,,{\i1}He's talking?
+Dialogue: 0,0:17:16.35,0:17:19.31,Default,Wethermon,0,0,0,,{\an8}I have lain here... rotting...
+Dialogue: 0,0:17:19.31,0:17:24.11,Default,Wethermon,0,0,0,,{\an8}I did not... see... their fate...
+Dialogue: 0,0:17:19.89,0:17:24.11,Default,Sunraku,0,0,0,,I thought he was a corpse animated \Nby the machinery,
+Dialogue: 0,0:17:24.11,0:17:26.53,Default,Sunraku,0,0,0,,but maybe not?
+Dialogue: 0,0:17:24.77,0:17:26.07,Default,Wethermon,0,0,0,,{\an8}Indeed...
+Dialogue: 0,0:17:26.61,0:17:31.32,Default,Wethermon,0,0,0,,{\i1\an8}the frontier... has been established...
+Dialogue: 0,0:17:31.32,0:17:34.07,Default,Sunraku,0,0,0,,"They"? "Frontier"?
+Dialogue: 0,0:17:34.62,0:17:38.08,Default,Sunraku,0,0,0,,{\i1}Are they seriously giving \Nme story stuff {\i0}now{\i1}?!
+Dialogue: 0,0:17:40.50,0:17:44.58,Default,Wethermon,0,0,0,,Let us do battle... Child of the Second Plan.
+Dialogue: 0,0:17:47.09,0:17:50.59,Default,Sunraku,0,0,0,,I've got every neuron in my body \Nhard-focused on beating you.
+Dialogue: 0,0:17:50.59,0:17:52.84,Default,Sunraku,0,0,0,,Don't make me think about anything else.
+Dialogue: 0,0:17:53.22,0:17:59.47,Default,Wethermon,0,0,0,,If you intend... to infringe upon my vow...
+Dialogue: 0,0:18:03.44,0:18:06.19,Default,Wethermon,0,0,0,,Then be crushed by my
+Dialogue: 0,0:18:08.28,0:18:10.11,Default,Wethermon,0,0,0,,Clear Sky Conquest.
+Dialogue: 0,0:18:11.40,0:18:13.70,Default,Sunraku,0,0,0,,Guess he's finally getting serious!
+Dialogue: 0,0:18:14.03,0:18:15.87,Default,Sunraku,0,0,0,,Sounds great! Bring it on!
+Dialogue: 0,0:18:18.49,0:18:19.41,Default,Wethermon,0,0,0,,Wind Slash.
+Dialogue: 0,0:18:22.50,0:18:24.21,Default,Sunraku,0,0,0,,I thought maybe you'd changed things up,
+Dialogue: 0,0:18:24.21,0:18:25.67,Default,Sunraku,0,0,0,,but a standard Wind Slash—
+Dialogue: 0,0:18:25.96,0:18:27.00,Default,Wethermon,0,0,0,,Thunderclap.
+Dialogue: 0,0:18:27.25,0:18:29.25,Default,Sunraku,0,0,0,,Not a second's break between them?!
+Dialogue: 0,0:18:29.25,0:18:31.51,Default,Sunraku,0,0,0,,What's the big hurry, Wethermon?!
+Dialogue: 0,0:18:31.51,0:18:33.01,Default,Wethermon,0,0,0,,Nimbus Fist.
+Dialogue: 0,0:18:36.26,0:18:37.01,Default,Sunraku,0,0,0,,{\i1}You kidding me?!
+Dialogue: 0,0:18:37.80,0:18:42.18,Default,Sunraku,0,0,0,,{\i1}The freaking lightning \Nhasn't even stopped yet!
+Dialogue: 0,0:18:45.52,0:18:47.02,Default,Sunraku,0,0,0,,{\i1}He's chaining attacks like crazy,
+Dialogue: 0,0:18:47.36,0:18:49.40,Default,Sunraku,0,0,0,,{\i1}with basically no time lag between them...
+Dialogue: 0,0:18:49.98,0:18:52.32,Default,Wethermon,0,0,0,,Tidal Rush!
+Dialogue: 0,0:19:00.58,0:19:03.00,Default,Sunraku,0,0,0,,You can do that one with your \Nsword in hand, too, huh?!
+Dialogue: 0,0:19:03.87,0:19:04.96,Default,Wethermon,0,0,0,,Wind Slash.
+Dialogue: 0,0:19:04.96,0:19:05.92,Default,Sunraku,0,0,0,,At the head?
+Dialogue: 0,0:19:05.92,0:19:06.54,Default,Wethermon,0,0,0,,Wind Slash.
+Dialogue: 0,0:19:06.54,0:19:07.50,Default,Sunraku,0,0,0,,The torso?!
+Dialogue: 0,0:19:07.50,0:19:08.13,Default,Wethermon,0,0,0,,Wind Slash.
+Dialogue: 0,0:19:08.13,0:19:09.17,Default,Sunraku,0,0,0,,The legs?!
+Dialogue: 0,0:19:09.50,0:19:11.05,Default,Sunraku,0,0,0,,Okay, I get it now!
+Dialogue: 0,0:19:11.30,0:19:16.22,Default,Sunraku,0,0,0,,{\an8}You can spam attacks without recast time!
+Dialogue: 0,0:19:16.22,0:19:18.30,Default,Sunraku,0,0,0,,{\an8}That's pretty messed up!
+Dialogue: 0,0:19:19.01,0:19:22.06,Default,Sunraku,0,0,0,,{\i1}Am I supposed to see every move coming?
+Dialogue: 0,0:19:22.06,0:19:23.89,Default,Sunraku,0,0,0,,{\i1}That feels like pretty broken game balance...
+Dialogue: 0,0:19:25.98,0:19:27.40,Default,Sunraku,0,0,0,,{\i1}The hell is he telegraphing?!
+Dialogue: 0,0:19:27.90,0:19:29.61,Default,Wethermon,0,0,0,,Pyroclastic Wyrm.
+Dialogue: 0,0:19:33.74,0:19:36.32,Default,Sunraku,0,0,0,,{\i1}A new move, {\i0}now{\i1}?!
+Dialogue: 0,0:19:54.26,0:19:55.80,Default,Sunraku,0,0,0,,Black clouds?
+Dialogue: 0,0:19:57.01,0:19:58.80,Default,Wethermon,0,0,0,,Ash Blizzard!
+Dialogue: 0,0:20:03.89,0:20:06.02,Default,Sunraku,0,0,0,,A combination attack?!
+Dialogue: 0,0:20:14.23,0:20:15.82,Default,Sunraku,0,0,0,,What's the matter, man?
+Dialogue: 0,0:20:15.82,0:20:20.16,Default,Sunraku,0,0,0,,If you don't get me on the first hit, \Nyou miss your chance!
+Dialogue: 0,0:20:21.83,0:20:24.83,Default,Sunraku,0,0,0,,{\i1}Still, I don't have much in the way \Nof stamina or dodge skills left...
+Dialogue: 0,0:20:24.83,0:20:27.29,Default,Sunraku,0,0,0,,{\i1}If this chain attack barrage keeps up...
+Dialogue: 0,0:20:30.75,0:20:33.25,Default,Sunraku,0,0,0,,Well, bring it on!
+Dialogue: 0,0:20:33.25,0:20:35.21,Default,Sunraku,0,0,0,,I'll hang on with pure chutzpah!
+Dialogue: 0,0:20:35.21,0:20:37.88,Default,Sunraku,0,0,0,,It's gonna take more than this to beat me!
+Dialogue: 0,0:20:38.13,0:20:40.30,Default,Sunraku,0,0,0,,And I've got a few ideas of my—
+Dialogue: 0,0:20:40.30,0:20:42.97,Default,Wethermon,0,0,0,,Clear Sky Conquest.
+Dialogue: 0,0:20:44.89,0:20:46.06,Default,Wethermon,0,0,0,,{\an8}Through the cycle of rebirth
+Dialogue: 0,0:20:47.31,0:20:49.31,Default,Wethermon,0,0,0,,{\an8}and a parting gift,
+Dialogue: 0,0:20:47.98,0:20:48.85,Default,Sunraku,0,0,0,,{\i1}He's fast!
+Dialogue: 0,0:20:48.85,0:20:50.65,Default,Sunraku,0,0,0,,{\i1}I'm already running as fast as I can!
+Dialogue: 0,0:20:50.98,0:20:53.19,Default,Wethermon,0,0,0,,{\an8}I bring the ultimate end.
+Dialogue: 0,0:20:53.19,0:20:54.57,Default,Sunraku,0,0,0,,{\i1}What the hell? My legs—
+Dialogue: 0,0:20:55.03,0:20:57.78,Default,Wethermon,0,0,0,,{\an8}With transformation of "clear sky,"
+Dialogue: 0,0:20:55.69,0:20:58.53,Default,Sunraku,0,0,0,,{\i1}This isn't like his other moves.
+Dialogue: 0,0:20:59.03,0:21:00.66,Default,Wethermon,0,0,0,,{\an8}I deal the ultimate
+Dialogue: 0,0:21:00.66,0:21:02.24,Default,Sunraku,0,0,0,,{\i1}I'll have to take it head-on!
+Dialogue: 0,0:21:02.24,0:21:07.20,Default,Sunraku,0,0,0,,{\i1}I'll use this helmet to parry, \Nno matter what!
+Dialogue: 0,0:21:03.45,0:21:04.70,Default,Wethermon,0,0,0,,{\an8}strike.
+Dialogue: 0,0:21:07.54,0:21:10.58,Default,Wethermon,0,0,0,,That which can cleave even dragons...
+Dialogue: 0,0:21:11.79,0:21:13.54,Default,Wethermon,0,0,0,,Sky Clear!
+Dialogue: 0,0:21:29.02,0:21:30.81,Default,Sunraku,0,0,0,,{\i1}What the heck was that?
+Dialogue: 0,0:21:31.56,0:21:34.27,Default,Sunraku,0,0,0,,{\i1}"Sky Clear," he called it, I guess...
+Dialogue: 0,0:21:35.07,0:21:40.15,Default,Sunraku,0,0,0,,{\i1}But this move is way too nasty.
+Dialogue: 0,0:21:45.87,0:21:47.08,Default,Oikatzo,0,0,0,,Will it reach?!
+Dialogue: 0,0:21:47.08,0:21:47.83,Default,Pencilgon,0,0,0,,Wait!
+Dialogue: 0,0:21:57.92,0:22:00.26,Default,Sunraku,0,0,0,,{\i1}But it's like I told you...
+Dialogue: 0,0:22:07.22,0:22:10.68,Default,Sunraku,0,0,0,,{\i1}It's gonna take more than that to beat me!

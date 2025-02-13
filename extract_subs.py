@@ -13,7 +13,7 @@ STRIP_TAGS_REGEX = r'\{[^}]*\}'
 
 REMOVE_HEADERS = [("Original Translation", None), ("Original Editing", None), ("Original Timing", None), ("Synch Point", None), ("Script Updated By", None), ("Update Details", None), ("Timer", None)]
 
-episode = "14"
+episode = "18"
 
 Setup(episode, None, clean_work_dirs=True, debug=False)
 
@@ -83,6 +83,7 @@ else:
         .purge_macrons()
     )
 
+    # This just opens the sub in aegisub lol, shifting there just to be safe and to do a quick spot check
     os.startfile(ger.file)
     input("Shift german now")
 

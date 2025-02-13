@@ -1,0 +1,60 @@
+﻿[Script Info]
+Title: English (US)
+ScaledBorderAndShadow: yes
+Original Script: kodansha  [http://www.crunchyroll.com/user/kodansha]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+LayoutResX: 1920
+LayoutResY: 1080
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+Style: Sign_Basic,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,6,3,2,30,30,54,1
+Style: Ep_Title,Arial,60,&H00FFFFFF,&H000000FF,&H00000000,&H00BE9829,-1,0,0,0,100,100,0,0,1,0,6,1,132,30,12,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:02:17.20,0:02:22.75,Ep_Title,sign,0,0,0,,{\fad(2450,0)}Putting Feelings Into a Moment, Part 4
+Dialogue: 0,0:02:37.85,0:02:39.68,Default,sign,0,0,0,,{\fad(50,0)\an8\fnTimes New Roman\b1\c&H000000&\3c&HFFFFFF&\bord3\shad0\blur6}Sky Clear
+Dialogue: 0,0:03:23.31,0:03:26.60,Sign_Basic,sign,0,0,0,,{\pos(289.64,201.999)\org(273.999,201.999)\fscx82.725\fscy74.877\frz48.98\fry26.298\frx-4.295\fax-0.45\fs42\b1\xbord4.96\ybord4.49\xshad0\yshad0\c&HE8E5A3&\3c&H2E231C&}Rebirth Tearjewel
+Dialogue: 0,0:04:45.10,0:04:46.31,Default,sign,0,0,0,,{\fad(50,0)\an8\fnTimes New Roman\b1\c&H630000&\3c&HFFFFFF&\bord3\shad0\blur6}Sky Clear
+Dialogue: 0,0:05:38.65,0:05:39.36,Sign_Basic,sign,0,0,0,,{\fad(25,500)\u1\an7\c&HB77AB9&\3c&H221A15&\shad0\fs48\pos(60,60)}Use Items{\u0}\N{\c&HE1DC9F&}Rebirth Tearjewel\N Divine Lifesalve\NPotion\N High Potion
+Dialogue: 0,0:05:44.66,0:05:46.08,Default,sign,0,0,0,,{\an5\fnTimes New Roman\b1\c&H000000&\3c&HFFFFFF&\bord3\shad0\blur6}Sky                                                                 Clear
+Dialogue: 0,0:06:59.40,0:07:01.98,Sign_Basic,sign,0,0,0,,{\fad(25,0)\u1\an7\c&HB77AB9&\3c&H221A15&\shad0\fs48\pos(60,60)}Use Items{\u0}\N{\c&HE1DC9F&}Divine Lifesalve\NPotion\N High Potion
+Dialogue: 0,0:08:23.07,0:08:30.07,Sign_Basic,sign,0,0,0,,{\fs48\c&HF8F796&\3c&H554539\shad0\move(-138,390,564,390)}Climax Boost
+Dialogue: 0,0:08:23.07,0:08:30.07,Sign_Basic,sign,0,0,0,,{\fs48\c&HF8F796&\3c&H554539\shad0\move(666,390,1368,390)}Hunger Wolf
+Dialogue: 0,0:08:23.07,0:08:30.07,Sign_Basic,sign,0,0,0,,{\move(1476,414,2178,414)\fs48\c&HF8F796&\3c&H554539\shad0}Vorpal Blade Tech\N[Moon's Reflection]
+Dialogue: 0,0:08:32.95,0:08:34.70,Sign_Basic,sign,0,0,0,,{\an8\fnImpact\fs84\shad1.5\c&H82731C&\3c&HFAF6EA&\i1\pos(1044,90)}Sunraku
+Dialogue: 0,0:09:25.00,0:09:25.63,Sign_Basic,sign,0,0,0,,{\an8\pos(801.999,633.999)\org(801.999,633.999)\fry-180\fnImpact\fs84\i1\xshad1.5\yshad1.5\c&H82731C&\3c&HFAF6EA&}Pencilgon
+Dialogue: 0,0:11:04.85,0:11:07.19,Sign_Basic,sign,0,0,0,,{\an7\pos(60,60)\fs48\c&HDFD69E&\3c&H32231A&\b1\shad0}Twisted Steel Spear\N Category: Spear\N Durability:\N Attribute: Corrode
+Dialogue: 0,0:11:04.85,0:11:07.19,Sign_Basic,sign,0,0,0,,{\pos(60,270)\an7\fs48\c&H361AA9&\b1\4c&H1E126A&\3c&HB9B8F0&\bord3\shad6}Breakage Warning\N Weapon change recommended
+Dialogue: 0,0:11:42.97,0:11:44.98,Sign_Basic,sign,0,0,0,,{\an8\pos(964.508,595.982)\org(960,630)\fscx100.874\fscy93.838\frz7.549\fry0\frx6.918\fax-0.123\fnImpact\fs90\xbord12.11\ybord11.26\xshad0\yshad0\c&HF8CA3C&\fad(125,0)}Spear of Sunlight
+Dialogue: 0,0:11:42.97,0:11:44.98,Sign_Basic,sign,0,0,0,,{\an8\pos(964.508,595.982)\org(960,630)\fscx100.874\fscy93.838\frz7.549\fry0\frx6.918\fax-0.123\fnImpact\fs90\xbord6.05\ybord5.63\xshad0\yshad0\c&HF8CA3C&\3c&HFFFFFF&\fad(125,0)}Spear of Sunlight
+Dialogue: 0,0:11:46.23,0:11:47.31,Sign_Basic,sign,0,0,0,,{\pos(60,60)\an7\fs48\c&H361AA9&\b1\4c&H1E126A&\3c&HB9B8F0&\bord3\shad6}Weapon Durability Depleted\N Breakage Warning\N Weapon change recommended
+Dialogue: 0,0:14:36.06,0:14:38.07,Sign_Basic,sign,0,0,0,,{\fad(125,0)\an8\fnImpact\fs90\c&HF8CA3C&\3c&H000000&\bord12\shad0\pos(960,60)}Giant Killing Skewer
+Dialogue: 0,0:14:36.06,0:14:39.07,Sign_Basic,sign,0,0,0,,{\fad(125,0)\an8\fnImpact\fs90\c&HF8CA3C&\3c&HFFFFFF&\bord6\shad0\pos(960,60)}Giant Killing Skewer
+Dialogue: 0,0:15:28.82,0:15:32.08,Sign_Basic,sign,0,0,0,,{\fad(125,0)\an8\fnImpact\fs90\c&HF8CA3C&\3c&H000000&\bord12\shad0\pos(960,60)}All or Nothing
+Dialogue: 0,0:15:28.82,0:15:32.08,Sign_Basic,sign,0,0,0,,{\fad(125,0)\an8\fnImpact\fs90\c&HF8CA3C&\3c&HFFFFFF&\bord6\shad0\pos(960,60)}All or Nothing
+Dialogue: 0,0:17:23.56,0:17:27.44,Sign_Basic,sign,0,0,0,,{\an7\b1\pos(60,60)\c&HF2EAAA&\3c&H30261C&\shad0}Moonblade\N{\fnImpact\fs90\c&H88EF33&\3c&H609736&\4c&HF1E5E3&\shad6}Combination Possible
+Dialogue: 0,0:17:33.95,0:17:35.45,Sign_Basic,sign,0,0,0,,{\an8\pos(732,240)\org(732,240)\fscx97.467\fscy97.749\frz-11.542\fry5.46\frx3.483\fax0.248\fs48\b1\xbord0\ybord0\xshad0\yshad0\c&H83C932&}Head Equipment Changed
+Dialogue: 0,0:17:34.41,0:17:35.45,Sign_Basic,sign,0,0,0,,{\an8\pos(1136.001,414)\org(1136.001,414)\fscx97.467\fscy97.749\frz-11.542\fry5.46\frx3.483\fax0.248\b1\xbord0\ybord0\xshad0\yshad0\c&HE8E099&\fad(100,0)}Staring Bird Mask
+Dialogue: 0,0:17:43.83,0:17:46.84,Sign_Basic,sign,0,0,0,,{\an7\b1\pos(60,60)\c&HF2EAAA&\3c&H30261C&\shad0\fs48}Moonblade\N{\fnImpact\fs66\c&H88EF33&\3c&H609736&\4c&HF1E5E3&\shad6}Combination Possible
+Dialogue: 0,0:18:07.90,0:18:09.28,Sign_Basic,sign,0,0,0,,{\fad(0,925)\c&HF8F796&\3c&H554539\shad0\pos(426,360)\fs60}Climax Boost
+Dialogue: 0,0:18:07.90,0:18:09.28,Sign_Basic,sign,0,0,0,,{\fad(0,925)\c&HF8F796&\3c&H554539\shad0\pos(1254,360)\fs60}Hunger Wolf
+Dialogue: 0,0:18:07.90,0:18:09.65,Sign_Basic,sign,0,0,0,,{\fad(1725,0)\c&HF8F796&\3c&H554539\shad0\fs54\pos(990,360)}Vorpal Blade Tech\N[Moon's Reflection]
+Dialogue: 0,0:18:09.65,0:18:11.40,Sign_Basic,sign,0,0,0,,{\c&HF8F796&\3c&H554539\shad0\pos(972,300)}Vorpal Blade Tech\N[Moon's Reflection]
+Dialogue: 0,0:18:26.34,0:18:33.13,Sign_Basic,sign,0,0,0,,{\an8\b1\c&HFDE88D&\shad0\3c&H6D6733&\blur6}Moonblade \N{\fnArial}Twin Moon
+Dialogue: 0,0:18:57.12,0:18:59.45,Sign_Basic,sign,0,0,0,,{\an7\pos(60,60)\fs48\c&HDFD69E&\3c&H32231A&\b1\shad0}Climax Boost
+Dialogue: 0,0:18:57.12,0:18:59.45,Sign_Basic,sign,0,0,0,,{\pos(60,120)\an7\fs48\c&H361AA9&\b1\4c&H1E126A&\3c&HB9B8F0&\bord3\shad6}Cannot Activate
+Dialogue: 0,0:18:59.99,0:19:01.75,Sign_Basic,sign,0,0,0,,{\an8\fnImpact\fs84\shad1.5\c&H82731C&\3c&HFAF6EA&\i1\frz4.034\pos(710.001,294)}Sunraku
+Dialogue: 0,0:19:57.63,0:20:00.26,Sign_Basic,sign,0,0,0,,{\pos(960,642)\fnArial\b1\bord0\shad0}Endure
+Dialogue: 0,0:20:04.14,0:20:05.68,Sign_Basic,sign,0,0,0,,{\an8\pos(1012.469,294.957)\org(1012.002,300)\fscx99.962\fscy85.538\frz10.472\fry-3.364\frx11.922\fax-0.079\fnImpact\fs84\i1\xbord6\ybord5.13\xshad1.499425\yshad1.283067\c&H82731C&\3c&HFAF6EA&}Sunraku
+Dialogue: 0,0:20:05.85,0:20:06.44,Sign_Basic,sign,0,0,0,,{\fad(125,0)\an7\pos(60,60)\b1\fs60\c&HF3E6AC&\3c&H534838&\shad0}Hunger Wolf\N{\fs42\b0\c&H928B81&}STR, AGI, and VIT increase\Nin proportion to hunger and low HP,\Nbut reduces Stamina, DEX, and TEC in exchange.
+Dialogue: 0,0:20:06.56,0:20:07.14,Sign_Basic,sign,0,0,0,,{\fad(125,0)\an7\pos(60,60)\b1\fs60\c&HF3E6AC&\3c&H534838&\shad0}Climax Boost\N{\fs42\b0\c&H928B81&}All stats increase in proportion\Nto level deficiency against enemy.
+Dialogue: 0,0:20:38.84,0:20:41.34,Sign_Basic,sign,0,0,0,,{\fad(125,250)\an8\fnImpact\fs72\c&HF8CA3C&\3c&H000000&\bord12\shad0\pos(1638,15)}Crescent Vorpal
+Dialogue: 0,0:20:38.84,0:20:41.34,Sign_Basic,sign,0,0,0,,{\fad(125,250)\an8\fnImpact\fs72\c&HF8CA3C&\3c&HFFFFFF&\bord6\shad0\pos(1638,15)}Crescent Vorpal
+Dialogue: 0,0:20:38.84,0:20:41.34,Sign_Basic,sign,0,0,0,,{\fad(125,250)\pos(366,15)\an8\fnTimes New Roman\b1\c&H020908&\3c&H8372E8&\shad0\blur6}Sky Clear

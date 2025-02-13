@@ -1,0 +1,347 @@
+﻿[Script Info]
+Title: Deutsch
+ScaledBorderAndShadow: yes
+Original Script: cr_de  [http://www.crunchyroll.com/user/cr_de]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+LayoutResX: 1920
+LayoutResY: 1080
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+Style: Flashback,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00013E12,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:31.36,0:01:36.16,Default,Pencilgon,0,0,0,,In ShanFro sind Weltbild und Setting\Ndie Schlüssel zur richtigen Strategie.
+Dialogue: 0,0:01:36.16,0:01:37.95,Default,Pencilgon,0,0,0,,Ich dachte lange,
+Dialogue: 0,0:01:37.95,0:01:40.46,Default,Pencilgon,0,0,0,,Wezaemon sei ein Cyborg,\Nder seinen Körper mit Technik
+Dialogue: 0,0:01:40.46,0:01:43.00,Default,Pencilgon,0,0,0,,aus der Zeit der Götter mechanisiert hat.
+Dialogue: 0,0:01:43.00,0:01:47.00,Default,Pencilgon,0,0,0,,Aber er gehört zur Kategorie\N„untotes Monster“!
+Dialogue: 0,0:01:47.80,0:01:49.51,Default,Pencilgon,0,0,0,,Und die bekämpft man mit Weihwasser!
+Dialogue: 0,0:02:04.19,0:02:07.98,Default,Sunraku,0,0,0,,{\an8}Hey, er hat losgebrüllt!\NKommt jetzt die Schockwelle?!
+Dialogue: 0,0:02:07.98,0:02:11.11,Default,Pencilgon,0,0,0,,{\an8}Nein. Das ist eine andere Animation.
+Dialogue: 0,0:02:13.20,0:02:16.87,Default,Pencilgon,0,0,0,,Bingo! Ich konnte\Nseinen Rundumschlag abbrechen!
+Dialogue: 0,0:02:27.88,0:02:32.38,Default,Sunraku,0,0,0,,Oje, hat ihn das Übergießen\Nmit dem Badewasser dieser Heiligen
+Dialogue: 0,0:02:32.38,0:02:33.84,Default,Sunraku,0,0,0,,nicht eher wütend gemacht?
+Dialogue: 0,0:02:33.84,0:02:36.55,Default,Pencilgon,0,0,0,,Hey, mach da nichts Perverses draus.
+Dialogue: 0,0:02:36.55,0:02:39.56,Default,Pencilgon,0,0,0,,Die Heilige ist ShanFros Idol.
+Dialogue: 0,0:02:39.56,0:02:43.60,Default,Oikatso,0,0,0,,Woah, was geht denn mit Wezaemon ab?
+Dialogue: 0,0:02:49.90,0:02:51.61,Default,Oikatso,0,0,0,,Hä?! Halt! Wa-Wa-Wa…!
+Dialogue: 0,0:03:09.04,0:03:12.55,Default,Oikatso,0,0,0,,I-Irgendwie hat er sich transformiert.
+Dialogue: 0,0:03:12.55,0:03:14.72,Default,Pencilgon,0,0,0,,Moment! Was ist das denn?!
+Dialogue: 0,0:03:14.72,0:03:16.55,Default,Sunraku,0,0,0,,Keine Ahnung,
+Dialogue: 0,0:03:16.55,0:03:20.05,Default,Sunraku,0,0,0,,aber ist sicher übel, wenn das Ding\Nmit Wezaemon verschmilzt.
+Dialogue: 0,0:03:20.39,0:03:22.93,Default,Pencilgon,0,0,0,,Eine Form speziell für Phase drei?
+Dialogue: 0,0:03:25.44,0:03:28.06,Default,Oikatso,0,0,0,,H-H-Hey, und was jetzt?!
+Dialogue: 0,0:03:28.73,0:03:31.86,Default,Sunraku,0,0,0,,Das heißt wohl, dass wir\Neine neue Vorgehensweise brauchen.
+Dialogue: 0,0:03:31.86,0:03:35.03,Default,Sunraku,0,0,0,,Pencilgon, geh und unterstütz Katso.
+Dialogue: 0,0:03:37.78,0:03:41.49,Default,Sunraku,0,0,0,,{\i1}Wezaemons Körper beginnt,\NStück für Stück zu zerfallen.
+Dialogue: 0,0:03:42.33,0:03:45.71,Default,Sunraku,0,0,0,,{\i1}In den Phasen eins und zwei\Nmussten wir je zehn Minuten überstehen.
+Dialogue: 0,0:03:45.71,0:03:50.33,Default,Sunraku,0,0,0,,{\i1}Heißt, in Phase drei müssen wir durchhalten,\Nbis er sich selbst auflöst?
+Dialogue: 0,0:03:50.67,0:03:55.80,Default,Pencilgon,0,0,0,,Ich denke, es steht quasi fest,\Ndass die Siegbedingung ein Zeitlimit ist.
+Dialogue: 0,0:03:55.80,0:03:59.55,Default,Pencilgon,0,0,0,,Dem bisherigen Verlauf nach\Nnoch mal zehn Minuten.
+Dialogue: 0,0:03:59.97,0:04:02.93,Default,Pencilgon,0,0,0,,Vermutlich ist das das letzte Zeitlimit.
+Dialogue: 0,0:04:03.93,0:04:07.69,Default,Sunraku,0,0,0,,Verlass dich auf mich.\NIch stehe weitere zehn Minuten durch.
+Dialogue: 0,0:04:11.52,0:04:13.19,Default,Pencilgon,0,0,0,,Okay.
+Dialogue: 0,0:04:13.52,0:04:16.53,Default,Pencilgon,0,0,0,,Aber mach nichts Verrücktes, ja?
+Dialogue: 0,0:04:16.53,0:04:18.95,Default,Pencilgon,0,0,0,,Wir können dir so gut wie\Nkeine Unterstützung geben
+Dialogue: 0,0:04:18.95,0:04:20.99,Default,Pencilgon,0,0,0,,und schon ein Tod\Nkönnte das Ende bedeuten.
+Dialogue: 0,0:04:21.70,0:04:24.62,Default,Pencilgon,0,0,0,,Er gehört dir, Sunraku.
+Dialogue: 0,0:04:26.20,0:04:27.62,Default,Sunraku,0,0,0,,Ja.
+Dialogue: 0,0:04:32.00,0:04:34.00,Default,Sunraku,0,0,0,,{\i1}Tut mir leid, Pencilgon.
+Dialogue: 0,0:04:34.46,0:04:37.38,Default,Sunraku,0,0,0,,{\i1}Seit die Rede von einem Zeitlimit
+Dialogue: 0,0:04:37.38,0:04:42.51,Default,Sunraku,0,0,0,,{\i1}und „mit allen Mitteln durchhalten“ ist,\Nlässt mich ein Gedanke nicht los:
+Dialogue: 0,0:04:45.10,0:04:47.93,Default,Sunraku,0,0,0,,{\i1}Ist das nicht langweilig?
+Dialogue: 0,0:04:51.44,0:04:55.44,Default,Sunraku,0,0,0,,{\i1}Ein Boss, bei dem man 30 Minuten\Nständig nur durchhält.
+Dialogue: 0,0:04:55.44,0:04:58.32,Default,Sunraku,0,0,0,,{\i1}Macht das aus spielerischer Sicht Spaß?
+Dialogue: 0,0:04:58.32,0:05:01.45,Default,Sunraku,0,0,0,,{\i1}Ich behaupte, es ist scheißlangweilig.
+Dialogue: 0,0:05:02.03,0:05:04.95,Default,Sunraku,0,0,0,,{\i1}Game-Design, dass der Story\NVorrang einräumt?
+Dialogue: 0,0:05:05.37,0:05:07.95,Default,Sunraku,0,0,0,,{\i1}Ich habe viele solcher Spiele gespielt.
+Dialogue: 0,0:05:08.33,0:05:11.71,Default,Sunraku,0,0,0,,{\i1}Sie versuchten, eine tolle Welt\Nmit Spielbarkeit zu vereinbaren, scheiterten
+Dialogue: 0,0:05:11.71,0:05:14.88,Default,Sunraku,0,0,0,,{\i1}und wurden allesamt\Nals Trash-Games abgestempelt.
+Dialogue: 0,0:05:16.84,0:05:20.93,Default,Sunraku,0,0,0,,{\i1}Aber du, Shangri-La Frontier,\Nbist doch ein Meisterwerk, oder?
+Dialogue: 0,0:05:28.43,0:05:32.14,Default,Sunraku,0,0,0,,{\i1}Tatsächlich! Dachte mir schon,\Nals ich eben das Weihwasser sah, …
+Dialogue: 0,0:05:32.73,0:05:37.53,Default,Sunraku,0,0,0,,{\i1}dass man ihm im jetzigen Zustand\Nvielleicht Schaden zufügen könnte!
+Dialogue: 0,0:05:41.74,0:05:44.49,Default,Sunraku,0,0,0,,{\i1}Das Mindeste, um Setting\Nmit Gameplay zu verbinden, ist,
+Dialogue: 0,0:05:44.49,0:05:48.37,Default,Sunraku,0,0,0,,{\i1}dem Spieler eine Belohnung für\N20 Minuten langes Durchhalten zu geben.
+Dialogue: 0,0:05:48.37,0:05:51.37,Default,Sunraku,0,0,0,,{\i1}Ja, eine Chance zum Gegenangriff!
+Dialogue: 0,0:05:54.92,0:05:57.92,Default,Sunraku,0,0,0,,Wurden deine Angriffe\Nnoch nie per Kopf abgewehrt?
+Dialogue: 0,0:05:59.63,0:06:05.01,Default,Sunraku,0,0,0,,{\an8}Zeit für das Debüt meiner neuen Ausrüstung\Naus den Materialien des Vierhornkäfers!
+Dialogue: 0,0:06:05.68,0:06:09.14,Default,Sunraku,0,0,0,,Ich werde nicht warten,\Nbis du zerfällst, um dich zu besiegen,
+Dialogue: 0,0:06:09.14,0:06:11.39,Default,Sunraku,0,0,0,,Grabwächter Wezaemon!
+Dialogue: 0,0:06:21.24,0:06:25.62,Default,Sunraku,0,0,0,,Toll, oder? Diese „Kopfparade“\Nhab ich gründlich geübt, weißt du?
+Dialogue: 0,0:06:26.12,0:06:29.12,Default,Sunraku,0,0,0,,Warum ich das gezielt\Nmit dem Kopf mache, fragst du?
+Dialogue: 0,0:06:29.12,0:06:32.00,Default,Sunraku,0,0,0,,Wenn ich damit parieren kann, …
+Dialogue: 0,0:06:32.41,0:06:34.46,Default,Sunraku,0,0,0,,sind beide Hände frei!
+Dialogue: 0,0:06:36.75,0:06:39.34,Default,Wezaemon,0,0,0,,Schneidender … Wind.
+Dialogue: 0,0:06:42.55,0:06:46.55,Default,Sunraku,0,0,0,,Mann! Mache ich wirklich Schaden?
+Dialogue: 0,0:06:46.55,0:06:49.56,Default,Sunraku,0,0,0,,Obwohl ich kritische Treffer lande,\Ntaumelt er nicht mal!
+Dialogue: 0,0:06:51.02,0:06:53.27,Default,Sunraku,0,0,0,,Es ist vielleicht nicht so viel\Nwie bei Pencilgon,
+Dialogue: 0,0:06:53.27,0:06:56.73,Default,Sunraku,0,0,0,,aber auch ich hab ’ne Menge\NKohle für dich ausgegeben.
+Dialogue: 0,0:06:57.65,0:06:59.48,Default,Sunraku,0,0,0,,Bei dem geldgeilen Karnickel …
+Dialogue: 0,0:06:59.94,0:07:04.74,Default,Sunraku,0,0,0,,hab ich 80.000 Mani verpulvert.\NDamit lass ich dich Staub fressen.
+Dialogue: 0,0:07:09.20,0:07:10.41,Default,Sunraku,0,0,0,,„Killer-Klingenkunst:“
+Dialogue: 0,0:07:17.58,0:07:19.84,Default,Sunraku,0,0,0,,„Mondspiegelung im Wasser“.
+Dialogue: 0,0:07:20.54,0:07:22.55,Default,Sunraku,0,0,0,,Vorsicht, hinter dir.
+Dialogue: 0,0:07:27.80,0:07:29.35,Default,Sunraku,0,0,0,,Dein Rücken ist völlig ungeschützt!
+Dialogue: 0,0:07:30.18,0:07:34.18,Default,Sunraku,0,0,0,,{\i1}Mondspiegelung im Wasser ist ein Bluff!\NDie wahre Attacke kommt hier!
+Dialogue: 0,0:07:34.81,0:07:36.69,Default,Sunraku,0,0,0,,„Meuchelstoß“!
+Dialogue: 0,0:07:39.19,0:07:43.28,Default,Sunraku,0,0,0,,Das war’s noch nicht.\NDas reicht nicht, um mich zu belustigen!
+Dialogue: 0,0:07:44.03,0:07:46.28,Default,Sunraku,0,0,0,,„Bohrstecher“
+Dialogue: 0,0:07:57.37,0:08:00.25,Default,Sunraku,0,0,0,,Tut mir leid, wenn Wunden\Nim Rücken dir Schande bereiten.
+Dialogue: 0,0:08:00.25,0:08:01.88,Default,Sunraku,0,0,0,,Schäme dich nach Herzenslust.
+Dialogue: 0,0:08:09.64,0:08:13.56,Default,Pencilgon,0,0,0,,Ich wusste es. Dachte mir schon,\Ndass er es sicher drauf anlegen wird.
+Dialogue: 0,0:08:16.18,0:08:20.77,Default,Oikatso,0,0,0,,Ich höre da ein Lachen mit einem\NAnflug von Wahnsinn. Kommt er klar?
+Dialogue: 0,0:08:21.19,0:08:24.28,Default,Pencilgon,0,0,0,,Solange wir ihn\Nschallend lachen hören, ja.
+Dialogue: 0,0:08:24.82,0:08:27.36,Default,Pencilgon,0,0,0,,Je widriger die Umstände für Sunraku,
+Dialogue: 0,0:08:27.36,0:08:30.95,Default,Pencilgon,0,0,0,,desto höher schießen seine Motivation\Nund sein Spielerskill.
+Dialogue: 0,0:08:32.41,0:08:36.87,Default,Pencilgon,0,0,0,,Aber wenn wir den hier\Nnicht aufhalten können,
+Dialogue: 0,0:08:36.87,0:08:38.75,Default,Pencilgon,0,0,0,,wird das ein Ding der Unmöglichkeit.
+Dialogue: 0,0:08:49.80,0:08:52.05,Default,Oikatso,0,0,0,,Ich hab ihn jetzt\Nein paar Mal geschlagen …
+Dialogue: 0,0:08:52.34,0:08:55.51,Default,Oikatso,0,0,0,,und wie es scheint,\Nfügt ihm das tatsächlich Schaden zu.
+Dialogue: 0,0:08:55.51,0:08:57.27,Default,Oikatso,0,0,0,,Er hält allerdings viel aus.
+Dialogue: 0,0:08:58.85,0:09:03.36,Default,Pencilgon,0,0,0,,Hör mal, wir brauchen kein Risiko\Neinzugehen, um ihn zu besiegen.
+Dialogue: 0,0:09:03.36,0:09:06.32,Default,Pencilgon,0,0,0,,Wenn wir dafür sorgen,\Ndass Sunraku keine Angriffe abkriegt,
+Dialogue: 0,0:09:06.32,0:09:10.61,Default,Pencilgon,0,0,0,,Kirins Aggro auf uns ziehen und nicht sterben,\Nreicht das aus, um unsere Rolle zu erfüllen.
+Dialogue: 0,0:09:10.61,0:09:14.37,Default,Oikatso,0,0,0,,Es reicht aus, ja? Aber …
+Dialogue: 0,0:09:15.87,0:09:18.62,Default,Oikatso,0,0,0,,„Peitschenmarionette: ’Schlange’“!
+Dialogue: 0,0:09:20.21,0:09:23.83,Default,Oikatso,0,0,0,,Wenn schon, dann will ich\Nmit Bravour bestehen.
+Dialogue: 0,0:09:36.43,0:09:38.81,Default,Pencilgon,0,0,0,,Diese zwei machen mich fertig.
+Dialogue: 0,0:09:52.07,0:09:55.03,Default,Oikatso,0,0,0,,Geht wohl doch nicht.\NEr bleibt unbeugsam.
+Dialogue: 0,0:09:56.45,0:09:57.91,Default,Oikatso,0,0,0,,Was ist das?
+Dialogue: 0,0:09:57.91,0:10:01.79,Default,Pencilgon,0,0,0,,„Böse Macht“.\NDamit kann man 15 Minuten lang
+Dialogue: 0,0:10:01.79,0:10:05.50,Default,Pencilgon,0,0,0,,die Stats des Anwenders erhöhen.
+Dialogue: 0,0:10:05.50,0:10:10.01,Default,Pencilgon,0,0,0,,Das würde deine Fähigkeiten praktisch\Nauf etwa Level-99-Niveau bringen,
+Dialogue: 0,0:10:10.01,0:10:11.72,Default,Pencilgon,0,0,0,,schätze ich mal.
+Dialogue: 0,0:10:11.72,0:10:15.76,Default,Oikatso,0,0,0,,Level 99?! Was ist das denn\Nfür ein Über-Item?!
+Dialogue: 0,0:10:15.76,0:10:18.97,Default,Oikatso,0,0,0,,Rück mit so einer Geheimwaffe\Ndoch früher raus!
+Dialogue: 0,0:10:18.97,0:10:21.39,Default,Pencilgon,0,0,0,,Es hat eben schwere Nachteile!
+Dialogue: 0,0:10:21.39,0:10:25.35,Default,Pencilgon,0,0,0,,Ich hab’s auch mal benutzt\Nund es war heftig!
+Dialogue: 0,0:10:26.06,0:10:27.61,Default,Oikatso,0,0,0,,Nachteile?
+Dialogue: 0,0:10:27.61,0:10:32.03,Default,Pencilgon,0,0,0,,Na ja, aber ich hab’s auch satt,\Ndie Hucke voll zu kriegen.
+Dialogue: 0,0:10:32.49,0:10:34.86,Default,Pencilgon,0,0,0,,Du willst doch\Nmit Bravour bestehen, oder?
+Dialogue: 0,0:10:34.86,0:10:36.91,Default,Pencilgon,0,0,0,,Dann sei auch bereit, Risiken einzu…
+Dialogue: 0,0:10:39.41,0:10:42.50,Default,Oikatso,0,0,0,,Nachteile? Kein Problem.
+Dialogue: 0,0:10:45.58,0:10:50.75,Default,Oikatso,0,0,0,,Ich werd ihn verschrotten\Nund mir ein Fleißsternchen verdienen!
+Dialogue: 0,0:10:53.84,0:10:57.55,Default,Oikatso,0,0,0,,I-Irgendwie sehen\Ndie Farben invertiert aus.
+Dialogue: 0,0:10:58.39,0:11:00.64,Default,Oikatso,0,0,0,,Und ich scheine auch\Nnicht mehr so gut zu hören.
+Dialogue: 0,0:11:00.64,0:11:03.52,Default,Pencilgon,0,0,0,,Geruchs- und Geschmackssinn\Ndürften auch beeinträchtigt sein.
+Dialogue: 0,0:11:04.44,0:11:06.44,Default,Oikatso,0,0,0,,Das sind die Nachteile?
+Dialogue: 0,0:11:06.44,0:11:10.94,Default,Oikatso,0,0,0,,Na ja, fühlt sich etwas komisch an,\Nist aber viel besser als gedacht.
+Dialogue: 0,0:11:10.94,0:11:14.45,Default,Pencilgon,0,0,0,,Nein, das ist nicht der schlimme Teil.
+Dialogue: 0,0:11:14.86,0:11:18.62,Default,Pencilgon,0,0,0,,Alle 30 Sekunden\Nwirst du ein Level verlieren.
+Dialogue: 0,0:11:21.16,0:11:22.29,Default,Oikatso,0,0,0,,Hä?
+Dialogue: 0,0:11:24.16,0:11:27.17,Default,Oikatso,0,0,0,,Waaas?! Ich verliere Level?!
+Dialogue: 0,0:11:27.17,0:11:30.13,Default,Oikatso,0,0,0,,F-F-Fünfzehn Minuten lang?!
+Dialogue: 0,0:11:30.13,0:11:32.42,Default,Oikatso,0,0,0,,Und nicht nur im Kampf,\Nsondern auch danach?!
+Dialogue: 0,0:11:32.42,0:11:37.43,Default,Pencilgon,0,0,0,,Ja. Ich hab’s ja auch mal benutzt.\NDas Verlustgefühl war schrecklich.
+Dialogue: 0,0:11:39.18,0:11:41.60,Default,Oikatso,0,0,0,,Alle 30 Sekunden heißt …
+Dialogue: 0,0:11:42.72,0:11:45.23,Default,Oikatso,0,0,0,,minus 30 in 15 Minuten?!
+Dialogue: 0,0:11:45.23,0:11:49.61,Default,Oikatso,0,0,0,,Wenn der Kampf vorbei ist,\Nfang ich wieder bei Level 20 an?!
+Dialogue: 0,0:11:49.61,0:11:52.27,Default,Oikatso,0,0,0,,Sag das doch vorher!
+Dialogue: 0,0:11:53.23,0:11:54.44,Default,Oikatso,0,0,0,,Ah, ein Level weg.
+Dialogue: 0,0:11:54.94,0:11:57.53,Default,Pencilgon,0,0,0,,Du hast es ja gegessen,\Nbevor ich das konnte!
+Dialogue: 0,0:11:57.53,0:12:01.53,Default,Pencilgon,0,0,0,,Ich verstärke mich übrigens\Nmit den restlichen Punkten der Waage.
+Dialogue: 0,0:12:01.53,0:12:03.08,Default,Oikatso,0,0,0,,Ey!
+Dialogue: 0,0:12:03.08,0:12:06.37,Default,Pencilgon,0,0,0,,Aber du hast voll draufgebissen.
+Dialogue: 0,0:12:06.37,0:12:08.71,Default,Pencilgon,0,0,0,,Spiel hin oder her,
+Dialogue: 0,0:12:08.71,0:12:10.67,Default,Pencilgon,0,0,0,,wenn man weiß, was da drin ist,
+Dialogue: 0,0:12:10.67,0:12:14.21,Default,Pencilgon,0,0,0,,kann man das echt nicht\Nin den Mund nehmen.
+Dialogue: 0,0:12:14.21,0:12:16.17,Default,Oikatso,0,0,0,,Was hast du mir da gegeben?!
+Dialogue: 0,0:12:20.01,0:12:22.30,Default,Oikatso,0,0,0,,Mann, jetzt bin ich wirklich sauer!
+Dialogue: 0,0:12:22.30,0:12:25.35,Default,Oikatso,0,0,0,,Du wirst jetzt mein Sandsack,\Nalso mach dich bereit, blöder Roboter!
+Dialogue: 0,0:12:26.02,0:12:30.44,Default,Oikatso,0,0,0,,Rot und Schwarz ergeben Scharlach.
+Dialogue: 0,0:12:32.40,0:12:35.61,Default,Oikatso,0,0,0,,„Gemischte Geisterfaust:\NFlammendes Scharlach“.
+Dialogue: 0,0:12:36.36,0:12:39.03,Default,Pencilgon,0,0,0,,Ich hau auch alle Buffs raus, die ich hab!
+Dialogue: 0,0:12:40.24,0:12:42.24,Default,Pencilgon,0,0,0,,Los geht’s, Katso!
+Dialogue: 0,0:12:42.78,0:12:46.16,Default,Oikatso,0,0,0,,„Handgemenge“! Und dann …
+Dialogue: 0,0:12:46.45,0:12:48.96,Default,Oikatso,0,0,0,,„Doppelter Einschlag“!
+Dialogue: 0,0:12:49.42,0:12:52.42,Default,Oikatso,0,0,0,,Mit der linken Hand lasse ich\Nein Kreuzsiegel erscheinen,
+Dialogue: 0,0:12:52.42,0:12:57.84,Default,Oikatso,0,0,0,,visiere es an und lande\Neine rechte Gerade!
+Dialogue: 0,0:13:00.22,0:13:02.80,Default,Pencilgon,0,0,0,,Nice! Endlich taumelt er!
+Dialogue: 0,0:13:02.80,0:13:04.51,Default,Pencilgon,0,0,0,,Das Mittelchen wirkt, was?!
+Dialogue: 0,0:13:04.97,0:13:10.02,Default,Pencilgon,0,0,0,,Jetzt malträtiere ich deine Knie,\Nbis sie zerbrechen!
+Dialogue: 0,0:13:10.39,0:13:12.98,Default,Pencilgon,0,0,0,,„Sonnenstrahlenspeer“!
+Dialogue: 0,0:13:19.61,0:13:23.37,Default,Pencilgon,0,0,0,,{\i1}Wir machen zwar Schaden,\Naber selbst mit all diesen Buffs
+Dialogue: 0,0:13:23.78,0:13:25.91,Default,Pencilgon,0,0,0,,{\i1}geht nicht mal was zu Bruch?!
+Dialogue: 0,0:13:29.46,0:13:30.83,Default,Oikatso,0,0,0,,Pencilgon!
+Dialogue: 0,0:13:33.75,0:13:39.26,Default,Pencilgon,0,0,0,,Also echt, mach doch bitte deutlich,\Nwann deine Taumel-Animation endet!
+Dialogue: 0,0:13:40.30,0:13:45.26,Default,Pencilgon,0,0,0,,Mit gebufften Stats allein wird es\Nwohl schwer, ihn zu besiegen.
+Dialogue: 0,0:13:45.72,0:13:48.64,Default,Oikatso,0,0,0,,Am Bauch ist seine Panzerung am dicksten.
+Dialogue: 0,0:13:48.64,0:13:51.27,Default,Oikatso,0,0,0,,Da müssen seine essenziellen\NKomponenten drin sein.
+Dialogue: 0,0:13:51.89,0:13:57.27,Default,Oikatso,0,0,0,,Die Frage ist, wie wir diese\Nsuperharte Rüstung aufbrechen.
+Dialogue: 0,0:14:11.96,0:14:17.09,Default,Sunraku,0,0,0,,Okay! Ich hab mich endlich an die\NKopfparade-Schwerthieb-Kombo gewöhnt!
+Dialogue: 0,0:14:19.13,0:14:21.09,Default,Sunraku,0,0,0,,Was denn, was denn?
+Dialogue: 0,0:14:21.09,0:14:25.22,Default,Sunraku,0,0,0,,Bist du so geschockt, dass deine Robo-\NSamurai-Schwertkunst bei mir nicht zieht?
+Dialogue: 0,0:14:28.60,0:14:33.19,Default,Sunraku,0,0,0,,{\i1}Diese Hasenmond-Schwerter\Npassen wirklich gut zu meinen Skills.
+Dialogue: 0,0:14:36.27,0:14:40.57,Default,Sunraku,0,0,0,,{\i1}Den hier kann ich nur aktivieren,\Nwenn meine LP unter einem Drittel liegen:
+Dialogue: 0,0:14:40.57,0:14:44.36,Default,Sunraku,0,0,0,,{\i1\an8}„Spitzenschub“.\NNach Aktivierung des Skills
+Dialogue: 0,0:14:44.36,0:14:47.99,Default,Sunraku,0,0,0,,{\i1}erhalte ich fünf Minuten lang\Neinen Bonus auf all meine Stats, …
+Dialogue: 0,0:14:48.99,0:14:52.37,Default,Sunraku,0,0,0,,{\i1}der umso größer ausfällt, je höher\Nunser Levelabstand ist.
+Dialogue: 0,0:14:52.83,0:14:55.12,Default,Sunraku,0,0,0,,{\i1}Mit meinen wenigen LP
+Dialogue: 0,0:14:55.12,0:14:57.42,Default,Sunraku,0,0,0,,{\i1}ist es unmöglich, Wezaemons Angriffe
+Dialogue: 0,0:14:57.42,0:15:00.88,Default,Sunraku,0,0,0,,{\i1}so abzupassen, dass sie mich\Ngenau unter ein Drittel bringen.
+Dialogue: 0,0:15:00.88,0:15:05.30,Default,Sunraku,0,0,0,,{\i1}Aber durch Angriffe mit den Hasenmonden\Nkann ich meine LP erhöhen und verringern.
+Dialogue: 0,0:15:05.30,0:15:06.59,Default,Sunraku,0,0,0,,{\i1}Damit geht’s!
+Dialogue: 0,0:15:07.01,0:15:09.93,Default,Sunraku,0,0,0,,{\i1\an8}Und dann ist da noch „Hungernder Wolf“.
+Dialogue: 0,0:15:09.93,0:15:12.02,Default,Sunraku,0,0,0,,{\i1\an8}Der Skill hält nur eine Minute an,
+Dialogue: 0,0:15:12.02,0:15:14.60,Default,Sunraku,0,0,0,,{\i1\an8}aber im Austausch für\Nunter anderem verringerte Ausdauer
+Dialogue: 0,0:15:14.60,0:15:18.40,Default,Sunraku,0,0,0,,{\i1}erhöht er Stärke, Agilität und Vitalität.
+Dialogue: 0,0:15:18.40,0:15:19.36,Default,Wezaemon,0,0,0,,„Donnerglocke“.
+Dialogue: 0,0:15:19.36,0:15:22.73,Default,Sunraku,0,0,0,,{\i1}Die Höhe des Bonus hängt von\Nmeinen verbleibenden LP …
+Dialogue: 0,0:15:22.73,0:15:23.74,Default,Wezaemon,0,0,0,,„Gewitterwolke“.
+Dialogue: 0,0:15:23.74,0:15:24.74,Default,Sunraku,0,0,0,,{\i1}… und meinem „Hunger“ ab.
+Dialogue: 0,0:15:26.41,0:15:30.24,Default,Sunraku,0,0,0,,{\i1}In ShanFro gibt es\Neinen Hungerparameter.
+Dialogue: 0,0:15:30.62,0:15:32.74,Default,Sunraku,0,0,0,,{\i1}Isst man etwas, erholt er sich.
+Dialogue: 0,0:15:32.74,0:15:36.25,Default,Sunraku,0,0,0,,{\i1}Wird man zu hungrig,\Nbeeinflusst das die Ausdauererholung.
+Dialogue: 0,0:15:36.25,0:15:38.04,Default,Sunraku,0,0,0,,{\i1}Natürlich hab ich das feinjustiert!
+Dialogue: 0,0:15:39.08,0:15:41.59,Default,Sunraku,0,0,0,,{\i1}Mein Hunger ist auf\Neinen passenden Wert gestiegen!
+Dialogue: 0,0:15:41.59,0:15:44.76,Default,Sunraku,0,0,0,,{\i1}Wenn ich das gut hinbekomme,\Nhab ich definitiv eine Siegeschance!
+Dialogue: 0,0:15:51.56,0:15:54.43,Default,Sunraku,0,0,0,,{\i1}Er hält sein Schwert an der Hüfte!\NWieder Schneidender Wind?!
+Dialogue: 0,0:15:54.43,0:15:58.27,Default,Sunraku,0,0,0,,{\i1}Klarer Fall für\Neine Kopfparade mit Parierschutz!
+Dialogue: 0,0:15:59.77,0:16:01.02,Default,Sunraku,0,0,0,,{\i1}Jetzt!
+Dialogue: 0,0:16:01.86,0:16:03.40,Default,Sunraku,0,0,0,,Parade!
+Dialogue: 0,0:16:05.40,0:16:06.36,Default,Sunraku,0,0,0,,Nanu?
+Dialogue: 0,0:16:08.57,0:16:11.12,Default,Sunraku,0,0,0,,Was ist los?! Warum schlägt er nicht zu?!
+Dialogue: 0,0:16:26.92,0:16:27.93,Default,Wezaemon,0,0,0,,A-A…
+Dialogue: 0,0:16:28.97,0:16:31.09,Default,Wezaemon,0,0,0,,Ali…ce.
+Dialogue: 0,0:16:32.93,0:16:36.64,Flashback,Vice Ash,0,0,0,,Weißt du, er ist ’n unbeholfener Kerl.
+Dialogue: 0,0:16:37.43,0:16:42.02,Flashback,Vice Ash,0,0,0,,Er kann nicht mehr von selbst sterben,\Nist ’ne wandelnde Leiche.
+Dialogue: 0,0:16:42.02,0:16:47.28,Flashback,Emul,0,0,0,,Darum will ich dir für den Kampf\Ngegen Wezaemon das hier leihen.
+Dialogue: 0,0:16:52.62,0:16:54.53,Default,Wezaemon,0,0,0,,A…lice.
+Dialogue: 0,0:16:55.41,0:16:56.54,Default,Wezaemon,0,0,0,,Alice …?
+Dialogue: 0,0:16:56.54,0:17:01.21,Default,Wezaemon,0,0,0,,A…lice. Authentifizierungsschlüssel.
+Dialogue: 0,0:17:01.92,0:17:08.55,Default,Wezaemon,0,0,0,,Fragment … Alice …\NWird ihre … Geschichte … erzählt?
+Dialogue: 0,0:17:08.55,0:17:12.05,Default,Sunraku,0,0,0,,{\i1}Das ist keine Skill-Beschwörung.
+Dialogue: 0,0:17:12.39,0:17:15.56,Default,Wezaemon,0,0,0,,Die Ewigkeit … endet nicht …
+Dialogue: 0,0:17:15.56,0:17:16.43,Default,Sunraku,0,0,0,,{\i1}Er spricht?!
+Dialogue: 0,0:17:16.43,0:17:19.18,Default,Wezaemon,0,0,0,,Mein Körper … verfällt …
+Dialogue: 0,0:17:19.18,0:17:24.06,Default,Wezaemon,0,0,0,,{\an8}Was wird … in Zukunft … aus ihnen?
+Dialogue: 0,0:17:20.02,0:17:24.06,Default,Sunraku,0,0,0,,{\i1}Ich dachte, er wäre nur eine Leiche,\Nbewegt von einer Maschine.
+Dialogue: 0,0:17:24.06,0:17:26.07,Default,Sunraku,0,0,0,,{\i1}Ist seine Seele etwa noch nicht tot?
+Dialogue: 0,0:17:24.06,0:17:26.07,Default,Wezaemon,0,0,0,,{\an8}Zweifellos, …
+Dialogue: 0,0:17:26.69,0:17:31.32,Default,Wezaemon,0,0,0,,die Grenze … ist gezogen\N… und errichtet.
+Dialogue: 0,0:17:31.32,0:17:34.07,Default,Sunraku,0,0,0,,„Ihnen“? „Grenze“?
+Dialogue: 0,0:17:34.49,0:17:38.08,Default,Sunraku,0,0,0,,{\i1}Ernsthaft? In so einem Moment\Nsoll man an Storyschnipseln knabbern?
+Dialogue: 0,0:17:40.62,0:17:44.58,Default,Wezaemon,0,0,0,,Beginnen wir … Kind des Zweiten Plans.
+Dialogue: 0,0:17:46.84,0:17:50.55,Default,Sunraku,0,0,0,,Ich bin voll auf\Nden Kampf mit dir fokussiert.
+Dialogue: 0,0:17:50.55,0:17:52.84,Default,Sunraku,0,0,0,,Ich hab keine\NHirnkapazitäten mehr übrig.
+Dialogue: 0,0:17:53.22,0:17:58.93,Default,Wezaemon,0,0,0,,Wenn du … meinen Schwur …\Nmit Füßen … trittst, …
+Dialogue: 0,0:18:03.10,0:18:06.27,Default,Wezaemon,0,0,0,,sollst du durch meine\N„Unterjochung des blauen Himmels“
+Dialogue: 0,0:18:08.23,0:18:10.11,Default,Wezaemon,0,0,0,,vernichtet werden.
+Dialogue: 0,0:18:11.28,0:18:15.87,Default,Sunraku,0,0,0,,Du machst also endlich ernst!\NGut, Dann komm doch!
+Dialogue: 0,0:18:18.41,0:18:19.83,Default,Wezaemon,0,0,0,,„Schneidender Wind“.
+Dialogue: 0,0:18:22.25,0:18:25.67,Default,Sunraku,0,0,0,,Ich dachte, jetzt kommt was Neues,\Naber das ist ein normaler Schneidender Wind.
+Dialogue: 0,0:18:26.00,0:18:27.13,Default,Wezaemon,0,0,0,,„Donnerglocke“.
+Dialogue: 0,0:18:27.13,0:18:29.38,Default,Sunraku,0,0,0,,Ganz ohne Verzögerung?!
+Dialogue: 0,0:18:29.38,0:18:31.51,Default,Sunraku,0,0,0,,Hey, hey! Wozu die Eile, Wezaemo…
+Dialogue: 0,0:18:31.51,0:18:32.80,Default,Wezaemon,0,0,0,,„Gewitterwolke“.
+Dialogue: 0,0:18:36.01,0:18:37.01,Default,Sunraku,0,0,0,,{\i1}Echt jetzt?!
+Dialogue: 0,0:18:37.68,0:18:41.52,Default,Sunraku,0,0,0,,Es regnet doch immer noch Blitze, Alter!
+Dialogue: 0,0:18:45.35,0:18:47.02,Default,Sunraku,0,0,0,,{\i1}Ein Angriff nach dem anderen!
+Dialogue: 0,0:18:47.02,0:18:49.44,Default,Sunraku,0,0,0,,{\i1}Und dazu noch fast ohne Verzögerung?!
+Dialogue: 0,0:18:50.23,0:18:52.44,Default,Wezaemon,0,0,0,,„Stürmische See“.
+Dialogue: 0,0:19:00.45,0:19:03.00,Default,Sunraku,0,0,0,,Selbst mit Schwert\Nkannst du das einsetzen?
+Dialogue: 0,0:19:03.83,0:19:04.96,Default,Wezaemon,0,0,0,,„Schneidender Wind“.
+Dialogue: 0,0:19:04.96,0:19:05.92,Default,Sunraku,0,0,0,,Kopf!
+Dialogue: 0,0:19:05.92,0:19:06.54,Default,Wezaemon,0,0,0,,„Schneidender Wind“.
+Dialogue: 0,0:19:06.54,0:19:07.50,Default,Sunraku,0,0,0,,Rumpf?!
+Dialogue: 0,0:19:07.50,0:19:08.13,Default,Wezaemon,0,0,0,,„Schneidender Wind“.
+Dialogue: 0,0:19:08.13,0:19:09.17,Default,Sunraku,0,0,0,,Beine?!
+Dialogue: 0,0:19:09.59,0:19:11.05,Default,Sunraku,0,0,0,,Aha, verstehe!
+Dialogue: 0,0:19:11.05,0:19:16.09,Default,Sunraku,0,0,0,,{\an8}Du ignorierst die Abklingzeiten und\Nspamst fortlaufend die gleiche Technik?
+Dialogue: 0,0:19:16.09,0:19:18.30,Default,Sunraku,0,0,0,,{\an8}Das ist doch ein verdammter Witz!
+Dialogue: 0,0:19:18.97,0:19:21.97,Default,Sunraku,0,0,0,,Soll ich etwa jede Technik kommen sehen?
+Dialogue: 0,0:19:21.97,0:19:23.89,Default,Sunraku,0,0,0,,Da stimmt doch das Game-Balancing nicht!
+Dialogue: 0,0:19:25.94,0:19:27.40,Default,Sunraku,0,0,0,,{\i1}Was ist das für eine Animation?!
+Dialogue: 0,0:19:27.94,0:19:29.61,Default,Wezaemon,0,0,0,,„Pyroklastischer Drache“.
+Dialogue: 0,0:19:33.74,0:19:36.32,Default,Sunraku,0,0,0,,{\i1}Jetzt noch eine neue Technik?!
+Dialogue: 0,0:19:54.13,0:19:55.80,Default,Sunraku,0,0,0,,Eine schwarze Wolke?
+Dialogue: 0,0:19:57.09,0:19:58.80,Default,Wezaemon,0,0,0,,„Aschesturm“.
+Dialogue: 0,0:20:03.89,0:20:05.68,Default,Sunraku,0,0,0,,Eine Kombo-Attacke?!
+Dialogue: 0,0:20:14.15,0:20:20.32,Default,Sunraku,0,0,0,,Was ist los?! Wenn du mich beim ersten Mal\Nnicht erwischst, hast du keine Chance!
+Dialogue: 0,0:20:21.87,0:20:24.79,Default,Sunraku,0,0,0,,{\i1}Wobei ich kaum noch Ausdauer\Noder Ausweich-Skills übrig hab.
+Dialogue: 0,0:20:24.79,0:20:27.29,Default,Sunraku,0,0,0,,{\i1}Wenn dieses Sperrfeuer anhält …
+Dialogue: 0,0:20:32.09,0:20:35.09,Default,Sunraku,0,0,0,,Na schön! Dann überleb ich\Neben durch puren Willen!
+Dialogue: 0,0:20:35.09,0:20:37.88,Default,Sunraku,0,0,0,,Glaub ja nicht, dass das reicht,\Num mich zu schlagen!
+Dialogue: 0,0:20:37.88,0:20:40.47,Default,Sunraku,0,0,0,,Ich hab nämlich auch ein paar Idee…
+Dialogue: 0,0:20:40.47,0:20:42.93,Default,Wezaemon,0,0,0,,„Unterjochung des blauen Himmels“.
+Dialogue: 0,0:20:44.89,0:20:46.22,Default,Wezaemon,0,0,0,,Durch Seelenwanderung …
+Dialogue: 0,0:20:47.18,0:20:49.60,Default,Wezaemon,0,0,0,,{\an8}und ein Abschiedsgeschenk …
+Dialogue: 0,0:20:47.93,0:20:50.65,Default,Sunraku,0,0,0,,{\i1}Er ist schnell! Ich renne\Nschon mit ganzer Kraft!
+Dialogue: 0,0:20:51.02,0:20:53.19,Default,Wezaemon,0,0,0,,vollbringe ich das Ende.
+Dialogue: 0,0:20:53.19,0:20:55.03,Default,Sunraku,0,0,0,,{\i1}Was?! Meine Füße …?!
+Dialogue: 0,0:20:55.03,0:20:57.61,Default,Wezaemon,0,0,0,,{\an8}Himmelblau wandelt sich …
+Dialogue: 0,0:20:55.69,0:20:58.53,Default,Sunraku,0,0,0,,{\i1}Das ist anders\Nals seine bisherigen Techniken!
+Dialogue: 0,0:20:58.90,0:21:00.78,Default,Wezaemon,0,0,0,,{\an8}zu meinem ultimativen …
+Dialogue: 0,0:21:00.78,0:21:02.16,Default,Sunraku,0,0,0,,{\i1}Ich muss versuchen,
+Dialogue: 0,0:21:02.16,0:21:04.62,Default,Sunraku,0,0,0,,{\i1}mit dem Helm zu parieren!
+Dialogue: 0,0:21:03.37,0:21:04.62,Default,Wezaemon,0,0,0,,{\an8}Schwertstreich.
+Dialogue: 0,0:21:04.62,0:21:07.54,Default,Sunraku,0,0,0,,{\i1}Ich ziehe das durch, um jeden Preis!
+Dialogue: 0,0:21:07.54,0:21:10.58,Default,Wezaemon,0,0,0,,Selbst Drachen spalte ich.
+Dialogue: 0,0:21:11.83,0:21:13.54,Default,Wezaemon,0,0,0,,„Himmelblau“.
+Dialogue: 0,0:21:28.81,0:21:30.73,Default,Sunraku,0,0,0,,{\i1}Was ist das denn?
+Dialogue: 0,0:21:31.39,0:21:34.27,Default,Sunraku,0,0,0,,{\i1}Himmelblau oder wie auch immer das heißt.
+Dialogue: 0,0:21:34.98,0:21:36.69,Default,Sunraku,0,0,0,,{\i1}Diese Technik …
+Dialogue: 0,0:21:38.40,0:21:40.15,Default,Sunraku,0,0,0,,{\i1}ist zu krass.
+Dialogue: 0,0:21:45.58,0:21:47.12,Default,Oikatso,0,0,0,,Erreich ich ih…
+Dialogue: 0,0:21:47.12,0:21:47.83,Default,Pencilgon,0,0,0,,Warte!
+Dialogue: 0,0:21:57.80,0:22:00.26,Default,Sunraku,0,0,0,,{\i1}Doch wie ich schon sagte:
+Dialogue: 0,0:22:07.18,0:22:10.56,Default,Sunraku,0,0,0,,{\i1}Glaub ja nicht, dass das reicht,\Num mich zu schlagen!
+Dialogue: 0,0:23:43.69,0:23:47.36,Default,Kinder,0,0,0,,ShanFro-Theater!
+Dialogue: 0,0:23:47.36,0:23:48.95,Default,Emul,0,0,0,,Mini!
+Dialogue: 0,0:23:51.33,0:23:54.25,Default,Erzählerin,0,0,0,,Ein verliebtes Mädchen steht früh auf.
+Dialogue: 0,0:23:56.04,0:23:58.79,Default,Rei,0,0,0,,{\an8}Ach, na ja, ähm …
+Dialogue: 0,0:23:58.79,0:24:04.84,Default,Rei,0,0,0,,I-Ich dachte nur, es wäre schön, wenn ich mit\Nihm zusammen zur Schule laufen könnte.
+Dialogue: 0,0:24:04.84,0:24:08.01,Default,Erzählerin,0,0,0,,Selbst in unveränderlicher\Ntäglicher Routine
+Dialogue: 0,0:24:08.01,0:24:11.64,Default,Erzählerin,0,0,0,,können triviale Begebenheiten\Ndie Sicht auf die Dinge verändern.
+Dialogue: 0,0:24:12.39,0:24:16.10,Default,Erzählerin,0,0,0,,Der Blick des verliebten Mädchens\NRei Saiga ist geschärft.
+Dialogue: 0,0:24:16.10,0:24:20.06,Default,Rei,0,0,0,,Ähm, also, ich weiß, welchen Weg\NRakuro zur Schule nimmt.
+Dialogue: 0,0:24:20.06,0:24:22.98,Default,Rei,0,0,0,,Äh, und darum …
+Dialogue: 0,0:24:24.57,0:24:26.69,Default,Rei,0,0,0,,{\an8}R-Rein zufällig!
+Dialogue: 0,0:24:27.11,0:24:31.16,Default,Rei,0,0,0,,Also, man könnte sagen, die Sterne standen\Nzufällig und wundersamerweise günstig,
+Dialogue: 0,0:24:31.16,0:24:33.45,Default,Rei,0,0,0,,sodass ich Rakuro flüchtig erblickte.
+Dialogue: 0,0:24:33.45,0:24:35.79,Default,Rei,0,0,0,,Und dann, ähm,\Ndurch eine Reihe von Zufällen
+Dialogue: 0,0:24:35.79,0:24:38.67,Default,Rei,0,0,0,,hatte ich hin und wieder\Nin dieser Gegend Dinge zu erledigen.
+Dialogue: 0,0:24:38.67,0:24:40.58,Default,Rei,0,0,0,,Diese Gelegenheiten häuften sich
+Dialogue: 0,0:24:40.58,0:24:43.80,Default,Rei,0,0,0,,und so sah ich Rakuro immer wieder.
+Dialogue: 0,0:24:43.80,0:24:46.71,Default,Rei,0,0,0,,Ein Zufall führte zum andern und … nein,
+Dialogue: 0,0:24:46.71,0:24:50.89,Default,Rei,0,0,0,,ich hab wirklich nur zufällig bemerkt,\Ndass er immer hier vorbeikommt.
+Dialogue: 0,0:24:50.89,0:24:52.85,Default,Rei,0,0,0,,Ich mein, es war wirklich keine Absicht.
+Dialogue: 0,0:24:52.85,0:24:54.81,Default,Rei,0,0,0,,Es war reine Neugierde, schätze ich.
+Dialogue: 0,0:24:54.81,0:24:57.10,Default,Rei,0,0,0,,Neugierde ist wohl\Netwas unhöflich ausgedrückt.
+Dialogue: 0,0:24:57.10,0:24:58.73,Default,Rei,0,0,0,,Bitte vergiss das.
+Dialogue: 0,0:24:58.73,0:25:01.90,Default,Rei,0,0,0,,Na ja, und aus all den Informationen\Nhab ich’s mir dann zusammengereimt.
+Dialogue: 0,0:25:01.90,0:25:03.98,Default,Rei,0,0,0,,Aber es war wirklich keine Absicht.
+Dialogue: 0,0:25:03.98,0:25:04.86,Default,Rei,0,0,0,,Ehrlich!
+Dialogue: 0,0:25:04.86,0:25:09.32,Default,Rei,0,0,0,,Äh, aber letztendlich hab ich\Nrausgefunden, wo Rakuro wohnt.
+Dialogue: 0,0:25:09.32,0:25:11.36,Default,Rei,0,0,0,,Tja, ähm …
+Dialogue: 0,0:25:11.91,0:25:17.16,Default,Erzählerin,0,0,0,,Ihr Tonfall, in dem sie weiterredet wie ein\NLagerfeuer, in das man Benzin gegossen hat,
+Dialogue: 0,0:25:17.16,0:25:18.25,Default,Erzählerin,0,0,0,,scheint von Scham,
+Dialogue: 0,0:25:18.25,0:25:23.13,Default,Erzählerin,0,0,0,,aber irgendwo auch von so etwas\Nwie Hoffnung erfüllt zu sein.
+Dialogue: 0,0:25:23.96,0:25:27.21,Default,Erzählerin,0,0,0,,Nach einem schnellen Frühstück zu Hause
+Dialogue: 0,0:25:27.21,0:25:29.67,Default,Erzählerin,0,0,0,,kommt Rei Saiga an einer\Nbestimmten Straßenecke an.
+Dialogue: 0,0:25:29.67,0:25:34.39,Default,Erzählerin,0,0,0,,Doch ihr Blick ist unstet\Nund voller Zaudern.
+Dialogue: 0,0:25:36.64,0:25:42.06,Default,Rei,0,0,0,,Na ja, ähm, also … Es ist nur …
+Dialogue: 0,0:25:42.06,0:25:45.86,Default,Rei,0,0,0,,Ich weiß nicht, ob ich\Nden Mut hab, ihn anzusprechen.
+Dialogue: 0,0:25:45.86,0:25:50.07,Default,Erzählerin,0,0,0,,Während sie ihre leicht, nein,\Ntiefrot gewordene Wange berührt,
+Dialogue: 0,0:25:50.07,0:25:53.95,Default,Erzählerin,0,0,0,,starrt Rei Saiga aufmerksam um die Ecke.
+Dialogue: 0,0:25:53.95,0:25:56.49,Default,Rei,0,0,0,,Rakuro kommt, ähm,
+Dialogue: 0,0:25:56.49,0:26:01.41,Default,Rei,0,0,0,,meistens zwischen acht\Nund zehn nach acht hier vorbei.
+Dialogue: 0,0:26:01.41,0:26:05.21,Default,Rei,0,0,0,,Manchmal auch rennend,\Num zwanzig nach, aber …
+Dialogue: 0,0:26:05.21,0:26:06.79,Default,Rei,0,0,0,,D-Da ist er!
+Dialogue: 0,0:26:08.05,0:26:11.55,Default,Erzählerin,0,0,0,,Liebe ist die Quelle des Mutes.
+Dialogue: 0,0:26:12.34,0:26:15.72,Default,Erzählerin,0,0,0,,Rei Saiga versteckt sich\Nim Schatten der Mauer,
+Dialogue: 0,0:26:15.72,0:26:19.31,Default,Erzählerin,0,0,0,,doch gerade als\Nder Oberschüler an ihr vorbeiläuft,
+Dialogue: 0,0:26:20.02,0:26:23.10,Default,Erzählerin,0,0,0,,streckt sie die Hand aus,\Nspricht ihn an und …
+Dialogue: 0,0:26:25.81,0:26:28.44,Default,Mana,0,0,0,,Und? Als du ihn\Ngerade ansprechen wolltest,
+Dialogue: 0,0:26:28.44,0:26:33.15,Default,Mana,0,0,0,,ist dir ein Mädchen aufgefallen, das neben\Nihm lief und du hast dich versteckt?
+Dialogue: 0,0:26:34.66,0:26:38.03,Default,Mana,0,0,0,,Das war vermutlich\Nseine Schwester, oder?
+Dialogue: 0,0:26:38.03,0:26:40.37,Default,Rei,0,0,0,,Ja, vermutlich …
+Dialogue: 0,0:26:41.45,0:26:44.33,Default,Mana,0,0,0,,Bei dem Tempo bezweifle ich,\Ndass du ihn ansprechen kannst,
+Dialogue: 0,0:26:44.33,0:26:47.42,Default,Mana,0,0,0,,bevor du deinen Schulabschluss machst.

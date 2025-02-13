@@ -1,0 +1,76 @@
+﻿[Script Info]
+Title: Deutsch
+ScaledBorderAndShadow: yes
+Original Script: cr_de  [http://www.crunchyroll.com/user/cr_de]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+LayoutResX: 1920
+LayoutResY: 1080
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: TypePlaceholder,Arial Bold,57,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,0,0,8,30,30,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:02:17.20,0:02:22.75,TypePlaceholder,Types,0,0,0,,{\an1\fnVerdana bold\fscx90\shad6\fs+1\b1\fsp3\c&HF9FEFC&\4c&HC2961C&\bord0\fad(285,502)\3c&HC2961C&\pos(428.28,901.32)}Sich dem {\alpha&HFF&\t(452,577,\alpha&H00&)\fnGeorgia bold\fscx100\bord3\c&HC2961C&\3c&HF9FEFC&\4c&HF9FEFC&}Augenblick {\fnVerdana bold\fscx90\c&HF9FEFC&\4c&HC2961C&\bord0\alpha&HFF&\t(619,786,\alpha&H00&)}hin{\alpha&HFF&\t(1036,1411,\alpha&H00&)}geben, {\alpha&HFF&\t(1662,2454,\alpha&H00&)}Teil 4
+Dialogue: 0,0:02:37.85,0:02:39.68,TypePlaceholder,Types,0,0,0,,{\fnGeorgia BOLD\an2\fs+2\bord3\blur3\pos(279,135)}Himmelblau
+Dialogue: 0,0:03:23.31,0:03:26.60,TypePlaceholder,Types,0,0,0,,{\fnVerdana bold\bord9\fax-0.5\an2\c&HE3E395&\3c&H2E251F&\frz47.33\t(0,0,\fscx58\fscy58)\move(340.5,238.5,264,171,21,7195)}Tränenperle\Nder Wiedergeburt
+Dialogue: 0,0:04:45.10,0:04:46.31,TypePlaceholder,Types,0,0,0,,{\fnGeorgia BOLD\an2\fs+2\bord3\blur3\pos(279,135)\c&H650D00&}Himmelblau
+Dialogue: 0,0:05:44.66,0:05:46.08,TypePlaceholder,Types,0,0,0,,{\fnGeorgia BOLD\an2\fs+2\bord0\c&H000000&\pos(370.5,139.5)}Himmelblau
+Dialogue: 1,0:06:59.40,0:07:01.98,TypePlaceholder,Types,0,0,0,,{\fnVerdana bold\fs-2\u1\an7\c&HBE7EC3&\fs+6\pos(772.5,222)\frz16.51}Gebrauchsitems\N{\u0\c&HEAE0A6&}Lebenselixier\NTrank\NHöherer Trank
+Dialogue: 0,0:08:23.07,0:08:30.07,TypePlaceholder,Types,0,0,0,,{\fnVerdana\bord6\3c&H514236&\fs+1\c&HF9F496&\move(-129,780,559.5,780,24,6990)}Spitzenschub
+Dialogue: 0,0:08:23.07,0:08:30.07,TypePlaceholder,Types,0,0,0,,{\fnVerdana\bord6\3c&H514236&\fs+1\c&HF9F496&\move(664.5,751.5,1353,751.5,24,6990)}Hungernder Wolf
+Dialogue: 0,0:08:23.07,0:08:30.07,TypePlaceholder,Types,0,0,0,,{\fnVerdana\bord6\3c&H514236&\fs+1\c&HF9F496&\move(1480.5,778.5,2169,778.5,24,6990)}Killer-Klingenkunst:\N[Mondspiegelung im Wasser]
+Dialogue: 0,0:08:32.95,0:08:34.70,TypePlaceholder,Types,0,0,0,,{\fnImpact\fsp3\fax-0.3\fs+6\bord6\c&H857619&\an2\pos(1063.5,174)}Sunraku
+Dialogue: 0,0:09:25.00,0:09:25.63,TypePlaceholder,Types,0,0,0,,Arthur Pencilgon
+Dialogue: 0,0:11:04.85,0:11:07.19,TypePlaceholder,Types,0,0,0,,{\fnVerdana\an1\c&HDCD395&\fs-2\3c&H2E1C14&\bord6\frz1.496\pos(918,571.5)}Attribut       {\c&HB6ADA7&}Zerreißen
+Dialogue: 0,0:11:04.85,0:11:07.19,TypePlaceholder,Types,0,0,0,,{\fnVerdana\bord9\c&H2C09C6&\3c&HB4B3ED&\pos(1027.5,814.5)}Bruchwarnung\NWaffenwechsel empfohlen
+Dialogue: 0,0:11:04.85,0:11:07.19,TypePlaceholder,Types,0,0,0,,{\fnVerdana bold\bord9\an2\c&HEDE6A4&\3c&H332119&\frz2.081\pos(934.5,130.5)}Verdrehter Stahlspeer
+Dialogue: 0,0:11:04.85,0:11:07.19,TypePlaceholder,Types,0,0,0,,{\fnVerdana\an1\c&HDCD395&\fs-2\3c&H2E1C14&\bord6\frz1.496\pos(909,388.5)}Kategorie     {\c&HB6ADA7&}Speer
+Dialogue: 0,0:11:04.85,0:11:07.19,TypePlaceholder,Types,0,0,0,,{\fnVerdana\an1\c&HDCD395&\fs-2\3c&H2E1C14&\bord6\frz1.496\pos(910.5,486)}Haltbarkeit
+Dialogue: 1,0:11:42.97,0:11:44.98,TypePlaceholder,Types,0,0,0,,{\fnImpact\b0\bord18\fsp6\fad(121,0)\an1\fs+5\fax-0.3\c&HFCC630&\3c&H232626&\t(203,204,\3c&HA69424&\shad2.1)\t(444,445,\c&HFCC630&\3c&H232626&\shad0)\4c&H232626&\frz7.713\pos(660,717)}Sonnenstrahlenspeer
+Dialogue: 2,0:11:42.97,0:11:44.98,TypePlaceholder,Types,0,0,0,,{\fnImpact\b0\bord7.5\fsp6\fad(121,0)\an1\fs+5\fax-0.3\c&HFCC630&\3c&HFDFEF6&\t(203,204,\c&HFFFFB9&\3c&HFFFFF8&)\t(444,445,\c&HFCC630&\3cHFDFEF6&)\frz7.713\pos(660,717)}Sonnenstrahlenspeer
+Dialogue: 0,0:11:46.23,0:11:47.31,TypePlaceholder,Types,0,0,0,,{\fnImpact\fsp3\bord3\fax-0.7\c&H3D25C2&\fs+4\3c&HBFBEFB&\frz32.54\pos(1006.5,228)}Waffenhaltbarkeit niedrig
+Dialogue: 0,0:11:46.23,0:11:47.31,TypePlaceholder,Types,0,0,0,,{\fnImpact\fsp3\bord3\fax-0.4\c&H3D25C2&\fs+4\3c&HBFBEFB&\an2\frz24.66\pos(1057.5,852)}Bruchwarnung
+Dialogue: 1,0:14:36.06,0:14:39.07,TypePlaceholder,Types,0,0,0,,{\fnImpact\b0\bord18\fsp6\fad(121,0)\an1\fs+5\fax-0.3\c&HFCC630&\3c&H232626&\t(203,204,\3c&HA69424&\shad2.1)\t(444,445,\c&HFCC630&\3c&H232626&\shad0)\4c&H232626&\frz7.713\pos(583.5,967.5)}Riesentöterspieß
+Dialogue: 2,0:14:36.06,0:14:39.07,TypePlaceholder,Types,0,0,0,,{\fnImpact\b0\bord7.5\fsp6\fad(121,0)\an1\fs+5\fax-0.3\c&HFCC630&\3c&HFDFEF6&\t(203,204,\c&HFFFFB9&\3c&HFFFFF8&)\t(444,445,\c&HFCC630&\3cHFDFEF6&)\frz7.713\pos(583.5,967.5)}Riesentöterspieß
+Dialogue: 1,0:15:28.82,0:15:32.08,TypePlaceholder,Types,0,0,0,,{\fnImpact\b0\bord18\fsp6\fad(121,0)\an1\fs+5\fax-0.3\c&HFCC630&\3c&H232626&\t(203,204,\3c&HA69424&\shad2.1)\t(444,445,\c&HFCC630&\3c&H232626&\shad0)\4c&H232626&\frz7.713\pos(1272,742.5)}Alles oder nichts
+Dialogue: 2,0:15:28.82,0:15:32.08,TypePlaceholder,Types,0,0,0,,{\fnImpact\b0\bord7.5\fsp6\fad(121,0)\an1\fs+5\fax-0.3\c&HFCC630&\3c&HFDFEF6&\t(203,204,\c&HFFFFB9&\3c&HFFFFF8&)\t(444,445,\c&HFCC630&\3cHFDFEF6&)\frz7.713\pos(1272,742.5)}Alles oder nichts
+Dialogue: 0,0:17:08.42,0:17:15.68,TypePlaceholder,Types,0,0,0,,{\fnImpact\fsp3\fax-0.6\fs+2\an2\bord3.9\c&H857619&\frz28.59\move(367.5,-4.5,367.5,181.5,23,7238)}Sunraku
+Dialogue: 1,0:17:23.56,0:17:27.44,TypePlaceholder,Types,0,0,0,,{\pos(673.95,111.96)\org(673.95,111.96)\fscx108.229\fscy127.008\frz-5.436\fry5.665\frx-1.305\fax0.119\fnVerdana bold\xbord8.66\ybord8.99\c&HF5ECA4&\fs+2.5}Hasenmond\N{\fnImpact\c&H7DD22E&}\h\hFusion verfügbar
+Dialogue: 2,0:17:23.56,0:17:27.44,TypePlaceholder,Types,0,0,0,,{\pos(673.95,111.96)\org(673.95,111.96)\fscx108.229\fscy127.008\frz-5.436\fry5.665\frx-1.305\fax0.119\fnVerdana bold\xbord2.89\ybord3\c&HF5ECA4&\fs+2.5}Hasenmond\N{\fnImpact\c&H7DD22E&\3c&H4F7B26&}\h\hFusion verfügbar
+Dialogue: 0,0:17:33.95,0:17:35.45,TypePlaceholder,Types,0,0,0,,{\fnVerdana\frz348.7\fax0.2\c&H7EBD40&\pos(708,228)}Kopfbedeckung gewechselt.
+Dialogue: 0,0:17:34.53,0:17:35.45,TypePlaceholder,Types,0,0,0,,{\fnVerdana bold\fs+2\fax0.15\frz350.2\c&HF2E197&\pos(1087.5,397.5)}Starrende Vogelmaske
+Dialogue: 1,0:17:43.83,0:17:46.84,TypePlaceholder,Types,0,0,0,,{\fs+2.5\fnVerdana bold\c&HF5ECA4&\pos(273.45,54.96)}Hasenmond\N{\fnImpact\b0\c&H7DD22E&\3c&HFFFFFF&\bord9}\h\hFusion verfügbar
+Dialogue: 2,0:17:43.83,0:17:46.84,TypePlaceholder,Types,0,0,0,,{\fs+2.5\fnVerdana bold\bord6\c&HF5ECA4&\pos(273.45,54.96)\3c&H32231A&}Hasenmond\N{\fnImpact\b0\c&H7DD22E&\3c&H4F7B26&\bord3}\h\hFusion verfügbar
+Dialogue: 0,0:18:07.90,0:18:08.73,TypePlaceholder,Types,0,0,0,,{\fnVerdana\bord6\3c&H514236&\fs+1\c&HF9F496&\move(427.5,753,-175.5,754.5,24,821)}Spitzenschub
+Dialogue: 0,0:18:07.90,0:18:09.65,TypePlaceholder,Types,0,0,0,,{\fnVerdana\bord6\3c&H514236&\fs+1\c&HF9F496&\move(1242,714,159,717,24,1500)}Hungernder Wolf
+Dialogue: 0,0:18:07.90,0:18:09.65,TypePlaceholder,Types,0,0,0,,{\fnVerdana\bord6\3c&H514236&\fs+1\c&HF9F496&\move(2086.5,762,997.5,751.5,29,1500)}Killer-Klingenkunst:\N[Mondspiegelung im Wasser]
+Dialogue: 0,0:18:09.65,0:18:11.82,TypePlaceholder,Types,0,0,0,,{\fnVerdana\bord6\3c&H514236&\fs+1\c&HF9F496&\pos(973.5,796.5)}Killer-Klingenkunst:\N[Mondspiegelung im Wasser]
+Dialogue: 0,0:18:26.34,0:18:33.13,TypePlaceholder,Types,0,0,0,,{\fnVerdana bold\fs-1\fad(284,0)\c&HFBE88B&\3c&H847D6E&\bord4.5\blur3\pos(766.5,328.5)}Hasenmond\N{\fs+3}„Zwillingsmondsichel“
+Dialogue: 0,0:18:46.19,0:18:51.86,TypePlaceholder,Types,0,0,0,,{\fnVerdana\bord6\fax0.3\3c&H514236&\fs+1\c&HF9F496&\frz352.2\move(982.5,1066.5,912,981,27,5658)}Spitzenschub
+Dialogue: 0,0:18:46.19,0:18:51.86,TypePlaceholder,Types,0,0,0,,{\fnVerdana\bord6\fax0.3\3c&H514236&\fs+1\c&HF9F496&\frz352.2\move(1579.5,1101,1515,1024.5,27,5658)}Hungernder Wolf
+Dialogue: 0,0:18:57.12,0:18:58.62,TypePlaceholder,Types,0,0,0,,{\an2\pos(1102.877,253.86)\org(1096.8,253.86)\fscx289.808\fscy335.738\frz14.847\fry9.632\frx0.818\fax-0.123\fnVerdana\c&HEEE6A1&\fs-3}Spitzenschub
+Dialogue: 0,0:18:57.12,0:18:58.62,TypePlaceholder,Types,0,0,0,,{\fnImpact\fsp3\fs-3\fax-0.5\bord3\c&H2F13B7&\an2\3c&HB7ABFF&\frz32.21\pos(1195.5,804)}Aktivierung nicht möglich
+Dialogue: 0,0:18:59.99,0:19:01.75,TypePlaceholder,Types,0,0,0,,{\fnImpact\fsp3\fax-0.3\fs+10\bord6\c&H857619&\an8\frz4.209\pos(705,262.5)}Sunraku
+Dialogue: 0,0:19:04.75,0:19:06.25,TypePlaceholder,Types,0,0,0,,{\fnImpact\fsp3\fax-0.4\fs+10\bord6\c&H807A00&\an8\frz350.4\3c&HE1F5FF&\move(813,241.5,799.5,241.5,27,1487)}Sunraku
+Dialogue: 0,0:19:57.63,0:20:00.26,TypePlaceholder,Types,0,0,0,,{\fnTrebuchet MS bold\fs+2\pos(960,582)\c&HFCECEC&\fsp6}Zähne zusammenbeißen
+Dialogue: 1,0:20:04.14,0:20:05.68,TypePlaceholder,Types,0,0,0,,{\fnImpact\fsp3\fax-0.5\fs+10\bord9\c&H857619&\an8\frz9.555\pos(1030.5,279)\3c&H716C6D&}Sunraku
+Dialogue: 2,0:20:04.14,0:20:05.68,TypePlaceholder,Types,0,0,0,,{\fnImpact\fsp3\fax-0.5\fs+10\bord6\c&H857619&\an8\frz9.555\pos(1030.5,279)}Sunraku
+Dialogue: 0,0:20:05.89,0:20:06.44,TypePlaceholder,Types,0,0,0,,{\p1\c&H44372E&\3c&HBCA434&\bord6\pos(567,27)}m 0 0 l 1050 0 l 1050 285 l 0 285
+Dialogue: 1,0:20:05.89,0:20:06.44,TypePlaceholder,Types,0,0,0,,{\pos(567,42)\fnVerdana bold\c&HE9E6A0&}Hungernder Wolf\N{\fnTahoma\fs-1.5\c&H8D827A&}Je hungriger du bist und je weniger LP du hast,\Ndesto mehr werden Stärke, Agilität und Vitalität erhöht.\NIm Gegenzug sinken Ausdauer,\NGeschicklichkeit und Technik.
+Dialogue: 0,0:20:06.44,0:20:07.14,TypePlaceholder,Types,0,0,0,,{\p1\c&H44372E&\3c&HBCA434&\bord6\pos(567,27)}m 0 0 l 1050 0 l 1050 240 l 0 240
+Dialogue: 1,0:20:06.44,0:20:07.14,TypePlaceholder,Types,0,0,0,,{\pos(567,42)\fnVerdana bold\c&HE9E6A0&}Spitzenschub\N{\fnTahoma\fs-1.5\c&H8D827A&}Hat der Gegner ein höheres Level als du,\Nwerden all deine Statuswerte proportional\Nzum Levelunterschied erhöht.
+Dialogue: 1,0:20:38.80,0:20:41.34,TypePlaceholder,Types,0,0,0,,{\fnImpact\b0\bord18\fsp6\fad(121,217)\an1\fs+5\fax-0.3\c&HFCC630&\3c&H232626&\t(203,204,\3c&HA69424&\shad2.1)\t(444,445,\c&HFCC630&\3c&H232626&\shad0)\4c&H232626&\frz15.19\pos(918,969)}Killer-Mondsichel
+Dialogue: 2,0:20:38.80,0:20:41.34,TypePlaceholder,Types,0,0,0,,{\fnImpact\b0\bord7.5\fsp6\fad(121,217)\an1\fs+5\fax-0.3\c&HFCC630&\3c&HFDFEF6&\t(203,204,\c&HFFFFB9&\3c&HFFFFF8&)\t(444,445,\c&HFCC630&\3cHFDFEF6&)\frz15.19\pos(918,969)}Killer-Mondsichel
+Dialogue: 0,0:20:38.80,0:20:41.34,TypePlaceholder,Types,0,0,0,,{\fnGeorgia Bold\fad(166,217)\fs+2\bord3\blur9\c&H030502&\3c&H745AD9&\pos(379.5,60)}Himmelblau
+Dialogue: 0,0:22:08.93,0:22:16.40,TypePlaceholder,Types,0,0,0,,{\an2\fnTimes New Roman Bold\fs54\bord1.5\xshad-3\3c&H000000&\c&HFFFFFF&\4c&H000000&\blur3\move(960,1920,960,-10.5,21,7445)}Übersetzung: Markus Lange\NSpotting: Michael Gohl\NRevision & Typesetting: Jacqueline Philippi\NQualitätskontrolle: Konrad Walter\NProjektleitung: Tobias Philippi
+Dialogue: 0,0:23:42.90,0:23:50.16,TypePlaceholder,Types,0,0,0,,{\fnComic Sans MS BOLD\fs+4\bord0\shad6\fs+6\c&H7CEDEF&\4c&H51CBDA&\pos(960,9)}Sh{\c&HC297F0&\4c&H966CD6&}a{\c&H679FF8&\4c&H3171D7&}n{\c&HDE72BD&\4c&HB64897&}F{\c&H5B63E6&\4c&H484FC2&}ro
+Dialogue: 0,0:23:46.70,0:23:50.16,TypePlaceholder,Types,0,0,0,,{\fnComic Sans MS BOLD\fad(493,0)\fs+4\fax-0.15\an3\c&HFAFFFE&\3c&H376777&\4c&H1C3F4D&\shad3.9\bord3.9\pos(1831.5,859.5)}#23 Valentinstag im Hause Saiga
+Dialogue: 0,0:23:47.28,0:23:50.16,TypePlaceholder,Types,0,0,0,,{\c&H515655&\fnComic Sans MS BOLD\fad(333,0)\fs+2\bord0\frz43.99\pos(1447.5,118.5)}Mini
+Dialogue: 0,0:23:50.16,0:25:23.25,TypePlaceholder,Types,0,0,0,,{\fnComic Sans MS BOLD\fad(0,0)\fs+2\fax-0.15\an9\c&HFFFEFF&\3c&H285A75&\4c&H0B1C25&\shad3.9\bord3.9\pos(1831.5,117)}ShanFro-Theater
+Dialogue: 0,0:25:18.79,0:25:23.25,TypePlaceholder,Types,0,0,0,,{\fnTimes New Roman Bold\an7\pos(99,811.5)}Obwohl sie deutlich leckerer als gekaufte Schokolade war,\Nsah sie genau wie handelsübliche aus,\Nwas das Ganze wiederum unheimlich machte.\N\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hvon Mana Iwamaki

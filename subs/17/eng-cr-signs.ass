@@ -1,0 +1,52 @@
+﻿[Script Info]
+Title: English (US)
+ScaledBorderAndShadow: yes
+Original Script: kodansha  [http://www.crunchyroll.com/user/kodansha]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+LayoutResX: 1920
+LayoutResY: 1080
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+Style: Sign_Basic,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,6,3,2,30,30,54,1
+Style: Ep_Title,Arial,60,&H00FFFFFF,&H000000FF,&H00000000,&H00BE9829,-1,0,0,0,100,100,0,0,1,0,6,1,132,30,12,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:02:04.77,0:02:09.32,Ep_Title,sign,0,0,0,,{\fad(2375,550)}Putting Feelings Into a Moment, Part 3
+Dialogue: 0,0:05:35.69,0:05:37.15,Sign_Basic,sign,0,0,0,,{\pos(979.614,394.719)\org(972,420)\fscx100.464\fscy99.709\frz8.766\fry0.667\frx2.684\fax-0.003\fs48\xbord6.03\ybord5.98\xshad0\yshad0\c&H7DC735&\3c&H203115&}Head Equipment Changed
+Dialogue: 0,0:05:37.15,0:05:38.40,Sign_Basic,sign,0,0,0,,{\pos(967.357,426.704)\org(956.001,464.001)\fscx100.464\fscy99.709\frz8.766\fry0.667\frx2.684\fax-0.003\fnArial\b1\xbord0\ybord0\xshad0\yshad0\c&HEDE6A2&}Spiked Battlehelm [4A]
+Dialogue: 0,0:05:55.08,0:05:56.50,Sign_Basic,sign,0,0,0,,{\pos(999.119,234.456)\org(984,276)\fscx97.382\fscy99.134\frz-7.622\fry-4.751\frx4.162\fax-0.052\fnArial\fs48\b1\xbord5.84\ybord5.95\xshad0\yshad0\c&HEDE6A2&\3c&H32241E&\fad(200,0)}Moonblade (Waxing)\N {\b0\c&H8D8581&}equipped.
+Dialogue: 0,0:05:57.63,0:05:59.01,Sign_Basic,sign,0,0,0,,{\pos(931.247,157.817)\org(920.001,200.001)\fscx100.602\fscy100.278\frz4.767\fry0\frx1.335\fax-0.01\fnArial\fs48\b1\xbord6.04\ybord6.02\xshad0\yshad0\c&HEDE6A2&\3c&H32241E&\fad(200,0)}Moonblade (Waning)\N {\b0\c&H8D8581&}equipped.
+Dialogue: 0,0:05:59.13,0:06:05.01,Default,sign,0,0,0,,{\pos(1547.245,708.278)\org(1538.001,744)\fscx100.603\fscy100.276\frz0.077\fry0\frx1.335\fax-0.01\fnArial\fs36\b1\xbord6.04\ybord6.02\xshad0\yshad0\c&HEDE6A2&\3c&H32241E&\fad(200,0)}Spiked Battlehelm [4A]\N {\b0\c&H8D8581&}equipped.
+Dialogue: 0,0:07:16.96,0:07:19.84,Sign_Basic,sign,0,0,0,,{\fad(125,0)\an8\fnImpact\fs90\c&HF8CA3C&\3c&HFFFFFF&\shad6}Vorpal Blade Tech\N Moon's Reflection
+Dialogue: 0,0:07:34.43,0:07:36.19,Sign_Basic,sign,0,0,0,,{\fad(125,0)\an8\fnImpact\fs90\c&HF8CA3C&\3c&HFFFFFF&\shad6}Assassin Pierce
+Dialogue: 0,0:07:44.03,0:07:46.28,Sign_Basic,sign,0,0,0,,{\fad(125,0)\an8\fnImpact\fs90\c&HF8CA3C&\3c&HFFFFFF&\shad6}Drill Piercer
+Dialogue: 0,0:09:15.87,0:09:18.62,Sign_Basic,sign,0,0,0,,{\fad(125,0)\an8\fnImpact\fs90\c&HF8CA3C&\3c&HFFFFFF&\shad6}Whip Puppet: Snake
+Dialogue: 0,0:09:32.89,0:09:35.14,Sign_Basic,sign,0,0,0,,{\an8\fnImpact\fs84\shad1.5\c&H82731C&\3c&HF1ECF0&\pos(796.002,16.002)\frz1.502}Oikatzo
+Dialogue: 0,0:09:49.99,0:09:50.32,Sign_Basic,sign,0,0,0,,{\pos(1348.535,617.049)\org(1342.002,632.001)\fscx100.551\fscy99.677\frz-14.105\fry-180\frx2.682\fax-0.014\fnArial\fs42\b1\xbord6.03\ybord5.98\xshad0\yshad0\c&HF8F4BD&\3c&H818E63&\fad(25,0)\t(6,297,1 \c&HFCFCEE&\3c&HD2D5D0&)}Divine Lifesalve
+Dialogue: 0,0:09:55.83,0:09:57.91,Sign_Basic,sign,0,0,0,,{\pos(979.325,142.082)\org(969.999,157.998)\fscx100.545\fscy99.629\frz0.473\fry0.667\frx2.684\fax-0.005\fnArial\b1\xbord0\ybord0\xshad0\yshad0\c&HEDE6A2&}Evil Force
+Dialogue: 0,0:11:52.73,0:11:54.44,Sign_Basic,sign,0,0,0,,{\an8\fnImpact\fs84\shad1.5\c&H82731C&\3c&HF1ECF0&\pos(960.003,84.003)}Oikatzo
+Dialogue: 0,0:12:32.73,0:12:36.36,Sign_Basic,sign,0,0,0,,{\fad(150,0)\an8\fnArial\b1\c&HFAEA8A&\shad0\frz0}Combo Spirit Fist
+Dialogue: 0,0:12:34.44,0:12:36.36,Sign_Basic,sign,0,0,0,,{\an8\fnArial\b1\c&HFAEA8A&\shad0\frz0}Flame Crimson
+Dialogue: 0,0:12:40.24,0:12:42.24,Sign_Basic,sign,0,0,0,,{\an8\pos(969.755,52.815)\org(962.001,92.004)\fscx99.928\fscy97.287\frz9.71\fry-4.053\frx2.735\fax-0.193\fnImpact\fs84\xbord6\ybord5.84\xshad1.498915\yshad1.459302\c&H82731C&\3c&HF1ECF0&}Arthur Pencilgon
+Dialogue: 0,0:12:40.24,0:12:42.24,Sign_Basic,sign,0,0,0,,{\3c&H7D6E1A&\shad0\bord9\fs42\an7\pos(606,522)\b1\fay-.12}STR↑        AGI↑          VIT↑         Stamina↑
+Dialogue: 0,0:12:46.70,0:12:48.96,Sign_Basic,sign,0,0,0,,{\fad(125,0)\an8\fnImpact\fs90\c&HF8CA3C&\3c&HFFFFFF&\shad6}Dual Impact
+Dialogue: 0,0:13:11.27,0:13:14.52,Sign_Basic,sign,0,0,0,,{\fad(125,0)\an8\fnImpact\fs90\c&HF8CA3C&\3c&H000000&\bord12\shad0\pos(960,60)}Spear of Sunlight
+Dialogue: 0,0:13:11.27,0:13:14.52,Sign_Basic,sign,0,0,0,,{\fad(125,0)\an8\fnImpact\fs90\c&HF8CA3C&\3c&HFFFFFF&\bord6\shad0\pos(960,60)}Spear of Sunlight
+Dialogue: 0,0:14:32.35,0:14:34.35,Sign_Basic,sign,0,0,0,,{\an8\pos(925.204,237.373)\org(924,249)\fscx100.479\fscy98.609\frz5.662\fry-0.667\frx2.684\fax-0.102\fnImpact\fs84\xbord6.03\ybord5.92\xshad1.507189\yshad1.479139\c&H82731C&\3c&HF1ECF0&}Sunraku
+Dialogue: 0,0:14:40.57,0:14:44.36,Sign_Basic,sign,0,0,0,,{\frx0\fry0\pos(960,825)\shad0\fs90\c&HFBF091&\blur3\b1}Climax Boost
+Dialogue: 0,0:14:52.37,0:14:55.12,Sign_Basic,sign,0,0,0,,{\an8\pos(843.661,251.961)\org(842.001,263.001)\fscx99.714\fscy93.624\frz-9.226\fry-1.335\frx7.687\fax-0.141\fnImpact\fs84\xbord5.98\ybord5.62\xshad1.495712\yshad1.404362\c&H82731C&\3c&HF1ECF0&}Sunraku
+Dialogue: 0,0:15:08.47,0:15:14.60,Default,sign,0,0,0,,{\fad(250,0)\frx0\fry0\shad0\fs90\c&HFBF091&\blur3\b1\pos(960,690)}Hunger Wolf
+Dialogue: 0,0:15:20.73,0:15:22.23,Sign_Basic,sign,0,0,0,,{\an8\pos(809.276,16.043)\org(808.002,27)\fscx100.47\fscy92.92\frz6.285\fry-1.335\frx7.687\fax-0.108\fnImpact\fs84\xbord6.03\ybord5.58\xshad1.507043\yshad1.393803\c&H82731C&\3c&HFAF6EA&}Sunraku
+Dialogue: 0,0:18:06.61,0:18:10.11,Sign_Basic,sign,0,0,0,,{\an8\fnTimes New Roman\b1\c&H000000&\3c&HFFFFFF&\bord3\shad0\blur6}Clear Sky Conquest
+Dialogue: 0,0:19:12.96,0:19:18.30,Sign_Basic,sign,0,0,0,,{\pos(960,765)\c&H000000&\3c&HFFFFFF&\shad0\fs54}Recast Time\N= Time needed before a skill can be reused
+Dialogue: 0,0:20:21.53,0:20:27.29,Sign_Basic,sign,0,0,0,,{\pos(416.591,720)\org(426,720)\fscx82.742\fscy82.952\frz-28.1\fry20.315\frx8.631\fax0.379\fs30\xbord4.96\ybord4.98\xshad0\yshad0\c&HE7EAA4&\3c&H4A4434&}Parry Protect                           Skate Foot
+Dialogue: 0,0:20:38.76,0:20:39.89,Sign_Basic,sign,0,0,0,,{\fad(25,0)\u1\c&HAE7CA9&\3c&H2F2820&\an7\fs42\pos(60,60)\shad0\bord9}Use Item{\u0}\N{\c&HE6DE9F&}Rebirth Tearjewel\N Divine Lifesalve\N Potion\N High Potion
+Dialogue: 0,0:21:10.87,0:21:13.54,Default,sign,0,0,0,,{\fad(50,0)\an8\fnTimes New Roman\b1\c&H000000&\3c&HFFFFFF&\bord3\shad0\blur6}Sky Clear
+Dialogue: 0,0:22:05.76,0:22:12.98,Sign_Basic,sign,0,0,0,,{\pos(321.641,222)\org(306,222)\fscx82.725\fscy74.877\frz48.98\fry26.298\frx-4.295\fax-0.45\fs42\b1\xbord4.96\ybord4.49\xshad0\yshad0\c&HE8E5A3&\3c&H2E231C&}Rebirth Tearjewel

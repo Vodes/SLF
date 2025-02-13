@@ -1,0 +1,104 @@
+﻿[Script Info]
+Title: Deutsch
+ScaledBorderAndShadow: yes
+Original Script: cr_de  [http://www.crunchyroll.com/user/cr_de]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+LayoutResX: 1920
+LayoutResY: 1080
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: TypePlaceholder,Arial Bold,57,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,0,0,8,30,30,60,1
+Style: TypePlaceholderBox,Arial Bold,66,&H00200960,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,3,6,0,8,30,30,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:31.45,0:01:36.95,TypePlaceholder,,0,0,0,,{\p1\c&HC2961C&\bord0\alpha&HFF&\fad(0,502)\t(619,786,\alpha&H00&)\fscx250\fscy510\pos(1132.5,933)}m 0 0 l -9 -21 l 33 -21 l 33 -6
+Dialogue: 0,0:01:31.45,0:01:36.95,TypePlaceholder,,0,0,0,,{\an1\fnVerdana Bold\fscx90\shad6\fs+1\b1\fsp3\c&HF9FEFC&\4c&HC2961C&\bord0\fad(285,502)\3c&HC2961C&\pos(428.28,901.32)}Sich dem {\alpha&HFF&\t(452,577,\alpha&H00&)\fnGeorgia Bold\fscx100\bord3\c&HC2961C&\3c&HF9FEFC&\4c&HF9FEFC&}Augenblick {\fnVerdana Bold\fscx90\c&HF9FEFC&\4c&HC2961C&\bord0\alpha&HFF&\t(619,786,\alpha&H00&)}hin{\alpha&HFF&\t(1036,1411,\alpha&H00&)}geben, {\alpha&HFF&\t(1662,2454,\alpha&H00&)}Teil 1
+Dialogue: 0,0:04:21.37,0:04:23.83,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\fs-4\c&HE7FCD0&\frz351\fax0.15\pos(1252.5,384)\bord6\3c&H7ADE2E&}Option\N\N\N\N\N\N\N\N\N\N\h\h\h{\frz353\fax0.09}Wanderfalke
+Dialogue: 1,0:04:21.37,0:04:23.83,TypePlaceholder,,0,0,0,,{\pos(1225.29,768.6)\org(1225.29,768.6)\fscx95.583\fscy91.599\frz-4.512\fry3.46\frx-0.369\fax0.049\fnTahoma\fs48\c&H545E60&\alpha&HFF&}Einen Briefvogel von {\fnImpact\c&HAD9B13&\3c&HBAC8C8&\alpha&H00&}Saiga-0 {\fnTahoma\c&H545E60&\alpha&HFF&}zu {\fnImpact\c&HAD9B13&\alpha&H00&}Sunraku {\fnTahoma\c&H545E60&\alpha&HFF&}schicken?
+Dialogue: 2,0:04:21.37,0:04:23.83,TypePlaceholder,,0,0,0,,{\pos(1225.29,768.6)\org(1225.29,768.6)\fscx95.583\fscy91.599\frz-4.512\fry3.46\frx-0.369\fax0.049\fnTahoma\fs48\c&H545E60&}Einen Briefvogel von {\fnImpact\c&HAD9B13&\3c&HE9EBD4&}Saiga-0 {\fnTahoma\c&H545E60&}zu {\fnImpact\c&HAD9B13&}Sunraku {\fnTahoma\c&H545E60&}schicken?
+Dialogue: 0,0:04:21.37,0:04:23.83,TypePlaceholderBox,,0,0,0,,{\fnTahoma\bo0\bord3\fs-3\frz358\c&HB9C4F0&\3c&H5047B2&\pos(1129.5,925.5)}\hZurück\h
+Dialogue: 0,0:04:21.37,0:04:23.83,TypePlaceholderBox,,0,0,0,,{\fnTahoma\bo0\bord3\fs-3\frz358\c&HD5EEA8&\3c&HA2D958&\fax0.05\pos(1345.5,934.5)}\hJa\h
+Dialogue: 0,0:04:23.83,0:04:28.25,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\fs-4\c&HF2FFF4&\fax0.1\bord6\3c&H94F822&\pos(427.5,-18)\frz12.24}Option\N\N\N\N\N\N\N\N\N\N\N\N\N\N\N\N{\fs+2}\h\h\h\h\h\h\hWanderfalke
+Dialogue: 1,0:04:23.83,0:04:28.25,TypePlaceholder,,0,0,0,,{\fnTahoma\b0\fax0.02\fs60\c&H4D5552&\frz14.77\pos(607.5,549)\alpha&HFF&}Einen Briefvogel von {\alpha&H00&\fnImpact\fs72\c&HD2B916&\3c&HB9C1C0&\bord9}Saiga-0 {\alpha&HFF&\fnTahoma\fs60\c&H4D5552&\bord0}zu {\alpha&H00&\fnImpact\fs72\c&HD2B916&\3c&HB9C1C0&\bord9}Sunraku {\alpha&HFF&\fnTahoma\fs60\c&H4D5552&\bord0}schicken?
+Dialogue: 2,0:04:23.83,0:04:28.25,TypePlaceholder,,0,0,0,,{\fnTahoma\b0\fax0.02\fs60\c&H4D5552&\frz14.77\pos(607.5,549)}Einen Briefvogel von {\fnImpact\fs72\c&HD2B916&\3c&HFBF9FB&\bord6}Saiga-0 {\fnTahoma\fs60\c&H4D5552&\bord0}zu {\fnImpact\fs72\c&HD2B916&\3c&HFBF9FB&\bord6}Sunraku {\fnTahoma\fs60\c&H4D5552&\bord0}schicken?
+Dialogue: 0,0:04:23.83,0:04:28.25,TypePlaceholderBox,,0,0,0,,{\fnTahoma\bo0\bord3\fs\c&HE1E8FF&\3c&H443AB7&\frz15.4\pos(417,870)}\hZurück\h
+Dialogue: 0,0:04:23.83,0:04:28.25,TypePlaceholderBox,,0,0,0,,{\fnTahoma\bo0\bord3\fs\c&HFFFFE2&\3c&HBBF65D&\fax\pos(927,721.5)\frz15.48}\hJa\h
+Dialogue: 0,0:04:37.67,0:04:40.01,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\fs-4\c&HF2FFF4&\fax0.1\bord6\3c&H94F822&\pos(427.5,-18)\frz12.24}Option\N\N\N\N\N\N\N\N\N\N\N\N\N\N\N\N{\fs+2}\h\h\h\h\h\h\hWanderfalke
+Dialogue: 1,0:04:37.67,0:04:40.01,TypePlaceholder,,0,0,0,,{\fnTahoma\b0\fax0.02\fs60\c&H4D5552&\frz14.77\pos(607.5,549)\alpha&HFF&}Einen Briefvogel von {\alpha&H00&\fnImpact\fs72\c&HD2B916&\3c&HB9C1C0&\bord9}Saiga-0 {\alpha&HFF&\fnTahoma\fs60\c&H4D5552&\bord0}zu {\alpha&H00&\fnImpact\fs72\c&HD2B916&\3c&HB9C1C0&\bord9}Sunraku {\alpha&HFF&\fnTahoma\fs60\c&H4D5552&\bord0}schicken?
+Dialogue: 2,0:04:37.67,0:04:40.01,TypePlaceholder,,0,0,0,,{\fnTahoma\b0\fax0.02\fs60\c&H4D5552&\frz14.77\pos(607.5,549)}Einen Briefvogel von {\fnImpact\fs72\c&HD2B916&\3c&HFBF9FB&\bord6}Saiga-0 {\fnTahoma\fs60\c&H4D5552&\bord0}zu {\fnImpact\fs72\c&HD2B916&\3c&HFBF9FB&\bord6}Sunraku {\fnTahoma\fs60\c&H4D5552&\bord0}sc{\t(2107,2108,\alpha&HFF&)}h{\t(1857,1858,\alpha&HFF&)}ic{\t(1607,1608,\alpha&HFF&)}ke{\t(972,972,\alpha&HFF&)}n{\t(856,857,\alpha&HFF)}?
+Dialogue: 0,0:04:37.67,0:04:40.01,TypePlaceholderBox,,0,0,0,,{\fnTahoma\bo0\bord3\fs\c&HE1E8FF&\3c&H443AB7&\frz15.4\pos(417,870)}\hZurück\h
+Dialogue: 0,0:04:37.67,0:04:40.01,TypePlaceholderBox,,0,0,0,,{\fnTahoma\bo0\bord3\fs\c&HFFFFE2&\3c&HBBF65D&\fax\pos(927,721.5)\frz15.48}\hJa\h
+Dialogue: 0,0:04:50.19,0:04:55.19,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\fs-4\c&HF2FFF4&\fax0.1\bord6\3c&H94F822&\pos(427.5,-18)\frz12.24}Option\N\N\N\N\N\N\N\N\N\N\N\N\N\N\N\N{\fs+2}\h\h\h\h\h\h\hWanderfalke
+Dialogue: 1,0:04:50.19,0:04:55.19,TypePlaceholder,,0,0,0,,{\fnTahoma\b0\fax0.02\fs60\c&H4D5552&\frz14.77\pos(607.5,549)\alpha&HFF&}Einen Briefvogel von {\alpha&H00&\fnImpact\fs72\c&HD2B916&\3c&HB9C1C0&\bord9}Saiga-0 {\alpha&HFF&\fnTahoma\fs60\c&H4D5552&\bord0}zu {\alpha&H00&\fnImpact\fs72\c&HD2B916&\3c&HB9C1C0&\bord9}Sunr{\t(3027,3028,\alpha&HFF&)\t(4028,4029,\alpha&H00&)}ak{\t(2902,2903,\alpha&HFF&)\t(4028,4029,\alpha&H00&)}u {\alpha&HFF&\fnTahoma\fs60\c&H4D5552&\bord0}schicken?
+Dialogue: 2,0:04:50.19,0:04:55.19,TypePlaceholder,,0,0,0,,{\fnTahoma\b0\fax0.02\fs60\c&H4D5552&\frz14.77\pos(607.5,549)}Einen Briefvogel von {\fnImpact\fs72\c&HD2B916&\3c&HFBF9FB&\bord6}Saiga-0 {\fnTahoma\fs60\c&H4D5552&\bord0}zu {\fnImpact\fs72\c&HD2B916&\3c&HFBF9FB&\bord6}Sunr{\t(3027,3028,\alpha&HFF&)\t(4028,4029,\alpha&H00&)}ak{\t(2902,2903,\alpha&HFF&)\t(4028,4029,\alpha&H00&)}u {\fnTahoma\fs60\c&H4D5552&\bord0}{\t(2777,2778,\alpha&HFF&)\t(4028,4029,\alpha&H00&)}sc{\t(1859,1860,\alpha&HFF&)\t(4153,4154,\alpha&H00&)}h{\t(1526,1527,\alpha&HFF&)\t(4153,4154,\alpha&H00&)}ic{\t(1192,1193,\alpha&HFF&)\t(4237,4238,\alpha&H00&)}ke{\t(858,859,\alpha&HFF&)\t(4278,4279,\alpha&H00&)}n{\alpha&HFF&}?
+Dialogue: 0,0:04:50.19,0:04:55.19,TypePlaceholderBox,,0,0,0,,{\fnTahoma\bo0\bord3\fs\c&HE1E8FF&\3c&H443AB7&\frz15.4\pos(417,870)}\hZurück\h
+Dialogue: 0,0:04:50.19,0:04:55.19,TypePlaceholderBox,,0,0,0,,{\fnTahoma\bo0\bord3\fs\c&HFFFFE2&\3c&HBBF65D&\fax\pos(927,721.5)\frz15.48\t(3027,3028,\c&HFEFFFB&\3c&HFBFFA1&)}\hJa\h
+Dialogue: 0,0:05:14.09,0:05:17.71,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\an7\c&H2D3733&\fax0.45\pos(511.5,337.5)\frz332.2}Von:\h\h\h\h\h\h\h\h\h\h\h\h{\c&HAC9F2B&}Saiga-100
+Dialogue: 0,0:05:14.09,0:05:17.71,TypePlaceholder,,0,0,0,,{\an1\pos(576.228,546)\org(576,546)\fscx107.555\fscy101.205\frz-25.048\fry4.809\frx1.31\fax0.371\fnVerdana\c&H2D3733&\fs-2}An Saiga-0,
+Dialogue: 0,0:05:14.09,0:05:17.71,TypePlaceholder,,0,0,0,,{\an1\pos(562.534,777)\org(562.5,777)\fscx96.099\fscy100\frz-20.328\fry5.46\frx-2.078\fax0.399\fnVerdana\c&H2D3733&\fs-2}Es sind Informationen über die Basis des Asura-Bündnisses\N\him Umlauf. Ich überprüfe gerade die Echtheit der Infos.
+Dialogue: 0,0:05:34.23,0:05:35.40,TypePlaceholder,,0,0,0,,{\fnGeorgia Bold\fs+4\c&H4C3059&\move(1011,726,1011,604.5,71,488)}H{\c&H7C4AC3&}ase
+Dialogue: 0,0:05:35.40,0:05:36.65,TypePlaceholder,,0,0,0,,{\fnGeorgia Bold\fs+4\c&H4C3059&\move(1011,604.5,1011,508.5,17,559)}H{\c&H7C4AC3&}ase
+Dialogue: 0,0:05:36.65,0:05:38.28,TypePlaceholder,,0,0,0,,{\fnGeorgia Bold\fs+4\c&H4C3059&\move(1011,508.5,1011,433.5,18,560)}H{\c&H7C4AC3&}ase
+Dialogue: 0,0:05:38.28,0:05:38.94,TypePlaceholder,,0,0,0,,{\fnGeorgia Bold\fs+4\c&H4C3059&\move(1011,433.5,1006.5,757.5,25,567)}H{\c&H7C4AC3&}ase
+Dialogue: 0,0:06:11.43,0:06:19.36,TypePlaceholder,,0,0,0,,{\pos(951,595.5)\org(951,595.5)\fscy99.135\frz0\fry-180\frx2.682\fnVerdana Bold\xbord6\ybord5.95\c&HFFFFF1&\3c&HD7C6C3&\fad(0,88)\fs-1}Ein Briefvogel ist eingetroffen.
+Dialogue: 0,0:07:16.33,0:07:18.33,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\fs63\bord6\c&HFBFAFF&\3c&HE1D0AF&\pos(973.5,277.5)}Ein Briefvogel von {\fnImpact\fs69\fsp3\c&HBE9841&\3c&HFFFFFF&}Saiga-0 {\fsp0\fnVerdana Bold\fs63\c&HFBFAFF&\3c&HE1D0AF&}ist eingetroffen.
+Dialogue: 0,0:09:15.37,0:09:18.16,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\bord9\fsp3\fad(204,0)\fs+2\c&HFEF6A1&\3c&H5B3B33&}Halskette der Identifikationsscherbe\N{\fnTahoma\fs-1\c&HA78E86&}ausgerüstet.
+Dialogue: 0,0:09:29.13,0:09:37.47,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\bord9\fsp3\fad(249,0)\fs+2\c&HFFF3A4&\3c&H50413E&\pos(960,630)}Halskette der Identifikationsscherbe\N{\fnTahoma\fs-1\c&H9D928D&}Kein Effekt.
+Dialogue: 0,0:10:04.42,0:10:07.67,TypePlaceholder,,0,0,0,,{\fnImpact\b0\fsp9\fs+6\bord12\c&H1C1C1F&\3c&H748196&}Wegen wichtiger Angelegenheit\Nbis morgen Früh\N{\c&H231B86&}keine Besucher erlaubt!
+Dialogue: 0,0:10:43.12,0:10:50.13,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\fsp6\bord6\fad(0,0)\c&HFFFDF7&\fs-2\3c&HBDB93B&\pos(960,840)}Basis des Asura-Bündnisses
+Dialogue: 0,0:10:52.63,0:10:58.18,TypePlaceholder,,0,0,0,,{\an2\fnImpact\b0\fax-0.3\bord3\c&H7D6C40&\3c&HC0B7A6&\frz356.5\move(4.5,196.5,210,199.5,21,3500)}Wrath
+Dialogue: 0,0:10:52.63,0:10:58.18,TypePlaceholder,,0,0,0,,{\an2\fnImpact\b0\fax-0.3\bord3\c&H7D6C40&\3c&HC0B7A6&\move(169.5,286.5,375,289.5,21,3500)\frz359}Branch
+Dialogue: 0,0:10:52.63,0:10:58.18,TypePlaceholder,,0,0,0,,{\an2\fnImpact\b0\fax-0.3\bord3\c&H7D6C40&\3c&HC0B7A6&\move(438,324,643.5,327,21,3500)\frz358.1}Ketchum
+Dialogue: 0,0:10:52.63,0:10:58.18,TypePlaceholder,,0,0,0,,{\an2\fnImpact\b0\fax-0.3\bord3\c&H7D6C40&\3c&HC0B7A6&\frz356.5\move(1228.5,304.5,1434,307.5,21,3500)}Lemmy
+Dialogue: 0,0:10:52.63,0:10:58.18,TypePlaceholder,,0,0,0,,{\an2\fnImpact\b0\fax-0.3\bord3\c&H7D6C40&\3c&HC0B7A6&\frz2.675\move(1446,331.5,1651.5,334.5,21,3500)}Iori
+Dialogue: 0,0:10:58.18,0:11:02.02,TypePlaceholder,,0,0,0,,{\fnImpact\b0\bord3.6\fs+3\fax-0.3\frz358.2\pos(390,138)\c&HA49136&\3c&HDFCFB8&}Branch
+Dialogue: 0,0:12:57.76,0:13:01.39,TypePlaceholder,,0,0,0,,{\an2\pos(423,510)\fnVerdana Bold\fs\c&HEEF0A2&}Schärpe der Lebensflut
+Dialogue: 0,0:13:49.10,0:13:53.31,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\fad(404,0)\fs-2\an1\pos(520.5,192)\c&H4C5452&}Von:\h\h\h\h\h\h\h\h\h{\c&HA89D3C&}Saiga-0
+Dialogue: 0,0:14:02.32,0:14:03.70,TypePlaceholder,,0,0,0,,{\pos(1081.5,861)\org(1081.5,861)\fscy100\frz4.818\fry-180\frx0\fax0.1\fnVerdana\u1\c&H6CC4A2&\fs-2}Freunde in der Nähe
+Dialogue: 0,0:14:02.32,0:14:03.70,TypePlaceholder,,0,0,0,,{\an7\pos(1416,948)\org(1416,948)\fscx100\frz4.651\fry-180\frx0\fax0.1\fnVerdana Bold\c&HD8ECC2&\fs-2}Sunraku\N\hOikatso
+Dialogue: 0,0:14:05.70,0:14:06.28,TypePlaceholder,,0,0,0,,{\fnImpact\b0\fsp6\fax-0.3\frz5.077\fs+2\pos(903,37.5)\bord4.5\c&HE4D23D&\3c&HFCF9E2&}Arthur Pencilgon\N{\fnTahoma\bord0\fax0.\fs-2\c&HF5E6E6&}hat dich in eine Gruppe eingeladen. Nimmst du an?
+Dialogue: 0,0:14:05.70,0:14:06.28,TypePlaceholderBox,,0,0,0,,{\fnTahoma\b0\pos(807,786)\frz4.955\c&HDCE1FA&\fs+2\3c&H280CAC&}\hNein\h
+Dialogue: 0,0:14:05.70,0:14:06.28,TypePlaceholderBox,,0,0,0,,{\fnTahoma\b0\frz4.955\c&HEFFACE&\fs+2\3c&HB7DA3F&\t(362,363,\c&HFFFCFA&\3c&HFBFDAD&)\pos(1201.5,750)}\hJa\h
+Dialogue: 0,0:14:06.33,0:14:06.95,TypePlaceholder,,0,0,0,,{\fnImpact\b0\fsp6\fax-0.3\frz5.077\fs+2\bord4.5\c&HE4D23D&\3c&HFCF9E2&\pos(1014,705)}Arthur Pencilgons\N{\fnTahoma\bord0\fax0.\fs-2\c&HF5E6E6&}Gruppe beigetreten.
+Dialogue: 0,0:14:06.95,0:14:07.79,TypePlaceholder,,0,0,0,,{\fnImpact\b0\fsp6\fax-0.3\fs-1\bord4.5\c&HE4D23D&\3c&HFCF9E2&\frz337.2\pos(328.5,343.5)}Arthur Pencilgon\N{\fnTahoma\bord0\fax0.\fs-2\c&HF5E6E6&}hat dich in eine Gruppe eingeladen. Nimmst du an?
+Dialogue: 0,0:14:06.95,0:14:07.79,TypePlaceholderBox,,0,0,0,,{\fnTahoma\b0\c&HDCE1FA&\fax0.1\fs\3c&H280CAC&\pos(91.5,526.5)\frz336.1}\hNein\h
+Dialogue: 0,0:14:06.95,0:14:07.79,TypePlaceholderBox,,0,0,0,,{\fnTahoma\b0\fax0.1\c&HEFFACE&\fs+2\3c&HB7DA3F&\t(624,625,\c&HFFFCFA&\3c&HFBFDAD&)\frz337.8\pos(640.5,615)}\hJa\h
+Dialogue: 0,0:14:06.95,0:14:08.70,TypePlaceholder,,0,0,0,,{\fnImpact\b0\fsp6\fax-0.3\frz5.077\fs+2\bord4.5\c&HE4D23D&\3c&HFCF9E2&\pos(1014,705)\clip(m 756 883.5 l 945 606 1486.5 583.5 1447.5 822)}Arthur Pencilgons\N{\fnTahoma\bord0\fax0.\fs-2\c&HF5E6E6&}Gruppe beigetreten.
+Dialogue: 0,0:14:07.83,0:14:08.70,TypePlaceholder,,0,0,0,,{\fnImpact\b0\fsp6\fax-0.3\fs+2\bord4.5\c&HE4D23D&\3c&HFCF9E2&\pos(631.5,105)\frz338.5}Arthur Pencilgons\N{\fnTahoma\bord0\fax0.\fs-2\c&HF5E6E6&}Gruppe beigetreten.
+Dialogue: 0,0:14:41.28,0:14:42.57,TypePlaceholder,,0,0,0,,{\fnTahoma\b0\bord9\fad(119,0)\c&H7E716D&\3c&H210106&\fs+1\pos(850.5,42)}Andere Spieler befinden sich gerade\Nim Kampf mit einem einzigartigen Monster.
+Dialogue: 0,0:17:04.92,0:17:08.84,TypePlaceholderBox,,0,0,0,,{\fnVerdana bold\fs-3\an2\pos(960,480)\c&H9C3677&\3c&HED78E1&\fad(164,928)}Einzigartiges Monster
+Dialogue: 1,0:17:04.92,0:17:08.84,TypePlaceholder,,0,0,0,,{\fad(164,928)\an2\pos(960,630)\fnImpact\b0\fs+3\bord6\fsp6\3c&HDEA9C5&\c&HFE8BF7&}Grabwächter Wezaemon\N{\alpha&HFF&\fnTahoma\b0\fs-3\bord9\fsp0\3c&H26111B&\c&HC7B8BB&}begegnet.
+Dialogue: 2,0:17:04.92,0:17:08.84,TypePlaceholder,,0,0,0,,{\fad(164,928)\an2\pos(960,630)\fnImpact\b0\fs+3\bord3\fsp6\3c&H582D47&\c&HFE8BF7&}Grabwächter Wezaemon\N{\fnTahoma\b0\fs-3\bord9\fsp0\3c&H26111B&\c&HC7B8BB&}begegnet.
+Dialogue: 1,0:17:08.09,0:17:11.84,TypePlaceholder,,0,0,0,,{\fnImpact\fs+6\b0\fad(623,0)\an2\fax-0.3\pos(1059,454.5)\bord8.4\c&H867A13&\3c&H614F4C&}Arthur Pencilgon
+Dialogue: 2,0:17:08.09,0:17:11.84,TypePlaceholder,,0,0,0,,{\fnImpact\fs+6\b0\fad(623,0)\an2\fax-0.3\pos(1059,454.5)\bord5.4\c&H867A13&}Arthur Pencilgon
+Dialogue: 1,0:17:08.84,0:17:11.84,TypePlaceholder,,0,0,0,,{\fnImpact\fs+6\b0\fad(0,0)\an2\fax-0.3\bord8.4\c&H867A13&\3c&H614F4C&\pos(900,93)}Sunraku
+Dialogue: 2,0:17:08.84,0:17:11.84,TypePlaceholder,,0,0,0,,{\fnImpact\fs+6\b0\fad(0,0)\an2\fax-0.3\bord5.4\c&H867A13&\pos(900,93)}Sunraku
+Dialogue: 1,0:17:08.84,0:17:11.84,TypePlaceholder,,0,0,0,,{\fnImpact\fs+6\b0\fad(0,0)\an2\fax-0.3\bord8.4\c&H867A13&\3c&H614F4C&\pos(984,852)}Oikatso
+Dialogue: 2,0:17:08.84,0:17:11.84,TypePlaceholder,,0,0,0,,{\fnImpact\fs+6\b0\fad(0,0)\an2\fax-0.3\bord5.4\c&H867A13&\pos(984,852)}Oikatso
+Dialogue: 0,0:17:58.85,0:18:01.52,TypePlaceholder,,0,0,0,,{\fnGeorgia Bold\fs+3\an5\bord4.5\t(0,0,\fscx105\fscy105)\blur6\3c&HD5D5D5&\pos(495,120)}Schneidender Wind
+Dialogue: 0,0:18:20.20,0:18:22.58,TypePlaceholder,,0,0,0,,{\an2\pos(518.398,594)\org(519,594)\fscx94.999\fscy94.402\frz34.196\fry-1.124\frx-2.948\fax0.004\fnVerdana Bold\xbord8.54\ybord8.49\c&HE7E5A2&\3c&H241A15&\fs-1}Imperiumbienen-Zwillinge\N{\fnTahoma\c&H716A64&\fs-1}ausgerüstet.
+Dialogue: 0,0:18:45.40,0:18:50.40,TypePlaceholder,,0,0,0,,{\fnTimes New Roman Bold\bord0\fad(1000,0)\fax-0.5\an1\fs-3\c&H87867D&\frz6.688\pos(441,312)}\h\hGesammelte Informationen\Nüber Wezaemon
+Dialogue: 0,0:18:50.40,0:18:52.44,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\fs\bord4.5\blur9\an2\fad(0,0)\c&HE3EBDB&\3c&H667957&\pos(1588.5,310.5)}Katso Tataki
+Dialogue: 0,0:18:58.20,0:19:04.00,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\fs-2\bord4.5\blur3\an2\fad(0,0)\c&HE9F2EA&\3c&H718759&\move(961.5,445.5,961.5,670.5,29,5785)}Pencil Warrior
+Dialogue: 0,0:19:08.50,0:19:18.10,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\fs\bord4.5\blur9\an2\fad(0,0)\c&HE3EBDB&\3c&H667957&\move(1588.5,310.5,1656,310.5,3608,4025)}Katso Tataki
+Dialogue: 0,0:20:57.78,0:20:59.15,TypePlaceholder,,0,0,0,,{\fnVerdana\b0\fsp6\fax0.2\c&HC177C5&\frz6.483\pos(417,22.5)}Verwendete\NGegenstände
+Dialogue: 0,0:20:57.78,0:20:59.15,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\fsp6\fax0.2\an1\c&HE8E99F&\frz7.001\pos(442.5,627)}Waage der Kompensation\N\hTränenperle der Wiedergeburt
+Dialogue: 0,0:20:57.78,0:20:59.15,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\fsp6\fax0.2\an1\c&HE8E99F&\pos(585,958.5)\frz8.606}Lebenselixier
+Dialogue: 1,0:21:50.96,0:21:52.46,TypePlaceholder,,0,0,0,,{\fnImpact\b0\fax0.1\fs+6\c&H7F6E19&\bord11.4\3c&H6C6661&\frz329.3\pos(1108.5,265.5)}Sunraku
+Dialogue: 2,0:21:50.96,0:21:52.46,TypePlaceholder,,0,0,0,,{\fnImpact\b0\fax0.1\fs+6\c&H7F6E19&\bord7.5\3c&HECE4DF&\frz329.3\pos(1108.5,265.5)}Sunraku
+Dialogue: 0,0:21:54.21,0:21:55.59,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\fad(100,0)\c&HF1E9AF&\bord6\fax-0.2\3c&H5E473E&\fs-2\frz16.29\pos(865.5,175.5)}Tränenperle der Wiedergeburt
+Dialogue: 0,0:22:14.77,0:22:18.78,TypePlaceholder,,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\pos(960,45)}Übersetzung: Markus Lange
+Dialogue: 0,0:22:14.77,0:22:18.78,TypePlaceholder,,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\an2\pos(960,1035)}Spotting: Michael Gohl
+Dialogue: 0,0:22:18.78,0:22:23.28,TypePlaceholder,,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\pos(960,45)}Revision & Typesetting: Jacqueline Philippi
+Dialogue: 0,0:22:18.78,0:22:23.28,TypePlaceholder,,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\an2\pos(960,1035)}Qualitätskontrolle: Konrad Walter
+Dialogue: 0,0:22:23.78,0:22:27.74,TypePlaceholder,,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\pos(960,45)}Projektleitung: Tobias Philippi
+Dialogue: 0,0:23:42.94,0:23:50.20,TypePlaceholder,,0,0,0,,{\fnComic Sans MS Bold\fs+4\bord0\shad6\fs+6\c&H7CEDEF&\4c&H51CBDA&\pos(960,9)}Sh{\c&HC297F0&\4c&H966CD6&}a{\c&H679FF8&\4c&H3171D7&}n{\c&HDE72BD&\4c&HB64897&}F{\c&H5B63E6&\4c&H484FC2&}ro
+Dialogue: 0,0:23:46.74,0:23:50.20,TypePlaceholder,,0,0,0,,{\fnComic Sans MS bold\fad(493,0)\fs+4\fax-0.15\an3\c&HFAFFFE&\3c&H376777&\4c&H1C3F4D&\shad3.9\bord3.9\pos(1831.5,859.5)}#20 Die Promi Towa Amane ist eine Gamerin?
+Dialogue: 0,0:23:47.32,0:23:50.20,TypePlaceholder,,0,0,0,,{\c&H515655&\fnComic Sans MS Bold\fad(333,0)\fs+2\bord0\frz43.99\pos(1447.5,118.5)}Mini
+Dialogue: 0,0:23:50.24,0:24:45.25,TypePlaceholder,,0,0,0,,{\fnComic Sans MS bold\fad(0,0)\fs+2\fax-0.15\an9\c&HFEFFFF&\3c&H3C6477&\4c&H0B1C25&\shad3.9\bord3.9\pos(1831.5,117)}ShanFro-Theater

@@ -1,0 +1,51 @@
+﻿[Script Info]
+Title: English (US)
+ScaledBorderAndShadow: yes
+Original Script: kodansha  [http://www.crunchyroll.com/user/kodansha]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+LayoutResX: 1920
+LayoutResY: 1080
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+Style: Sign_Basic,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,6,3,2,30,30,54,1
+Style: Ep_Title,Arial,60,&H00FFFFFF,&H000000FF,&H00000000,&H00BE9829,-1,0,0,0,100,100,0,0,1,0,6,1,132,30,12,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:09.49,0:00:15.54,Sign_Basic,sign,0,0,0,,{\3c&H5D7147&\shad0\fs42\pos(960,210)}Pencil Knight
+Dialogue: 0,0:00:32.51,0:00:39.14,Sign_Basic,sign,0,0,0,,{\3c&H5D7147&\shad0\fs42\pos(960,672)}Pencil Knight
+Dialogue: 0,0:00:32.51,0:00:39.14,Sign_Basic,sign,0,0,0,,{\3c&H5D7147&\shad0\fs42\pos(678,129)}Sunraku
+Dialogue: 0,0:00:32.51,0:00:39.14,Sign_Basic,sign,0,0,0,,{\3c&H5D7147&\shad0\fs42\pos(1200,129)}Katzo Tataki
+Dialogue: 0,0:02:52.49,0:02:57.99,Ep_Title,sign,0,0,0,,{\fad(2450,300)}Putting Feelings Into a Moment, Part 2
+Dialogue: 0,0:03:06.42,0:03:09.42,Sign_Basic,sign,0,0,0,,{\fad(300,0)\pos(960,675)\fnArial\b1\shad0\c&HACEAF6&\3a&HA0&\3c&H00686A&}Rebirth Tearjewel
+Dialogue: 0,0:03:44.12,0:03:50.88,Sign_Basic,sign,0,0,0,,{\fs42\an7\pos(60,60)\b1\c&HFEFAA9&\3c&H44241C&\shad0\bord9}Divine Lifesalve\N{\b0\c&HB29D97&\fs30}A secret formula sealed within specially treated glass.\NWhen used on a disabled target within ten seconds,\Nit revives them with half of their max HP. \NLife is an ever-repeating cycle,\Nbut what a noble thing it is to fight against the tide!\N{\3c&HB6D739&\c&HFBFDC9&\b1\fs36}Accept
+Dialogue: 0,0:03:46.08,0:03:48.88,Sign_Basic,sign,0,0,0,,{\fad(300,0)\pos(960,735)\fnArial\b1\shad0\c&HACEAF6&\3a&HA0&\3c&H00686A&}Divine Lifesalve
+Dialogue: 0,0:04:40.30,0:04:42.55,Sign_Basic,sign,0,0,0,,{\an8\pos(1163.332,293.038)\org(1161.999,286.002)\fscx98.622\fscy85.249\frz-33.606\fry10.051\frx8.541\fax0.164\fnImpact\fs84\xbord5.92\ybord5.12\xshad2.958649\yshad2.557466\c&H82731C&\3c&HE2DED6&}Sunraku
+Dialogue: 0,0:04:44.31,0:04:46.18,Sign_Basic,sign,0,0,0,,{\an8\pos(896.001,162)\org(896.001,162)\fscx95.992\fscy97.77\frz15.298\fry6.918\frx-2.833\fax-0.061\fnArial\fs60\b1\xbord5.76\ybord5.87\xshad0\yshad0\c&HECE59A&\3c&H56473D&}Rebirth Tearjewel
+Dialogue: 0,0:05:02.32,0:05:03.45,Default,sign,0,0,0,,{\an8\pos(885.999,34.002)\org(885.999,34.002)\fscx99.998\fscy99.785\frz-4.989\fry0\frx1.335\fax0\fnImpact\fs84\xbord6\ybord5.99\xshad2.999951\yshad2.993554\c&H82731C&\3c&HE2DED6&}Sunraku
+Dialogue: 0,0:06:04.39,0:06:05.01,Sign_Basic,sign,0,0,0,,{\fad(75,0)\an7\fs48\c&HD7D396&\3c&H231C14&\shad0\frz7.779\fscx80\pos(1532.001,92.001)}Empire Bee Twinblades\N Marsh Daggers [V3]\N Moonblade (Waxing)
+Dialogue: 0,0:06:04.39,0:06:05.01,Sign_Basic,sign,0,0,0,,{\fad(75,0)\an7\fs36\c&HD7D396&\3c&H231C14&\shad0\frz7.779\fscx80\pos(336,738)}Empire Bee Twinblades\N Category: Twinblade\N Durability\N Attribute: Corrode\N Multiplier: x1.15
+Dialogue: 0,0:10:11.84,0:10:13.97,Sign_Basic,sign,0,0,0,,{\fad(125,0)\pos(378,504)\c&H5F2634&\3c&HC13AB9&\fs48\shad0}Tactical Mount\N{\fs72\fnArial\b1\c&HFB64EF&\3c&HB04DAF&\4c&HD58ACB&}Kirin
+Dialogue: 0,0:12:01.62,0:12:04.12,Sign_Basic,sign,0,0,0,,{\pos(78,720)\an1\fnArial\b1\c&HF5EC7B&\bord3\4c&HE2E5E2&\shad6}Whip Puppet: Snake
+Dialogue: 0,0:12:24.01,0:12:26.14,Sign_Basic,sign,0,0,0,,{\an7\pos(60,60)\fs48\c&H8C5488&\u1\3c&H221A15&}Use Items{\u0}\N{\c&HDCDE9C&}Reward Scales
+Dialogue: 0,0:12:26.14,0:12:31.77,Sign_Basic,sign,0,0,0,,{\an7\pos(60,60)\fs48\c&H8C5488&\u1\3c&H221A15&}Offer Items{\u0}\N{\c&HDCDE9C&}Silverite Amber
+Dialogue: 0,0:12:39.07,0:12:50.79,Default,sign,0,0,0,,{\pos(950.001,494.001)\c&H5BC5BC&\3c&HC1FEF5&\shad0\fs42\fade(1,600)}The Golden Scales
+Dialogue: 0,0:12:53.04,0:12:55.05,Sign_Basic,sign,0,0,0,,{\fad(225,0)\pos(960,912)\c&HF3E985&\b1\shad0\3a&H20&\3c&H6A672B&}Reward Scales
+Dialogue: 0,0:13:20.28,0:13:27.83,Sign_Basic,sign,0,0,0,,{\an7\pos(60,60)\fs48\c&H8C5488&\u1\3c&H221A15&}Offer Items{\u0}\N{\c&HDCDE9C&}Goldblood Ricewine\NCrimson Grapewine
+Dialogue: 0,0:13:31.21,0:13:34.84,Sign_Basic,sign,0,0,0,,{\pos(960,654)\fnArial\b1\c&HF8EB88&\shad0\bord3\3c&H616D42&}Offering Dish
+Dialogue: 0,0:13:31.21,0:13:34.84,Sign_Basic,sign,0,0,0,,{\pos(960,1050)\c&H525953&\bord0\shad0\b1}30,002,310 Mahni
+Dialogue: 0,0:13:34.84,0:13:36.21,Sign_Basic,sign,0,0,0,,{\an8\fnArial\b1\c&HE5D65F&\3c&H655F52&\shad0}Choose Your Perk
+Dialogue: 0,0:13:36.80,0:13:38.84,Sign_Basic,sign,0,0,0,,{\pos(1019.774,861.293)\org(1017.999,876)\fscx98.613\fscy99.086\frz2.85\fry3.364\frx4.108\fax0.183\fnArial\fs90\b1\xbord0\ybord0\xshad0\yshad0\fad(275,0)}More Stat Points
+Dialogue: 0,0:14:15.21,0:14:18.67,Sign_Basic,sign,0,0,0,,{\fs48\c&HDAD823&\fnImpact\3c&HF8F6EC&\an7\pos(60,60)\shad0}Sunraku {\3c&HE3C659&\c&HCDA012&}LV: 50 {\c&HF9ECE0&\bord0\fnArial\b1}Mercenary (Twin Blade User)\N{\bord6\c&HDAD823&\fnImpact\3c&HF8F6EC&\shad0}Oikatzo {\3c&HE3C659&\c&HCDA012&}LV: 50 {\c&HF9ECE0&\bord0\fnArial\b1}Monk
+Dialogue: 0,0:14:18.75,0:14:21.17,Sign_Basic,sign,0,0,0,,{\fad(0,1000)\fnArial\b1\c&HF8EB88&\shad0\bord3\3c&H616D42&\pos(962.001,585.999)}Blessings Dish\N{\c&H4D4E50&\3c&HADC2B7&}Perk: Additional Skill Points 300
+Dialogue: 0,0:14:56.42,0:14:58.29,Sign_Basic,sign,0,0,0,,{\pos(332.001,396)\fs48\c&H918881&\3c&H362D23&\shad0}Weapon unequipped.
+Dialogue: 0,0:15:27.20,0:15:29.49,Sign_Basic,sign,0,0,0,,{\an8\fnImpact\fs90\c&HF8CA3C&\3c&HFFFFFF&\shad6}H{\c&HF7C238&}a{\c&HF6BB35&}n{\c&HF5B331&}d{\c&HF5AC2E&} {\c&HF4A42A&}o{\c&HF39D27&}f{\c&HF29523&} {\c&HF39D27&}F{\c&HF4A42A&}o{\c&HF5AC2E&}r{\c&HF5B331&}t{\c&HF6BB35&}u{\c&HF7C238&}n{\c&HF8CA3C&}e
+Dialogue: 0,0:16:01.52,0:16:03.73,Sign_Basic,sign,0,0,0,,{\pos(960,900)\c&H000000&\3c&HFFFFFF&\shad0}Inventory: A player's item storage
+Dialogue: 0,0:17:41.04,0:17:42.79,Sign_Basic,sign,0,0,0,,{\an8\pos(345.999,254.001)\org(345.999,254.001)\fscx88.997\fscy86.349\frz-1.958\fry10.893\frx13.289\fax0.258\fnImpact\fs84\xbord5.34\ybord5.18\xshad0\yshad0\c&H82731C&\3c&HE2DED6&}Sunraku
+Dialogue: 0,0:21:08.41,0:21:10.25,Sign_Basic,sign,0,0,0,,{\fad(200,0)\an7\pos(60,60)\bord12\fs48\shad0\b1\c&HF2EBCA&\3c&H32232D&}Saint's Holy Water

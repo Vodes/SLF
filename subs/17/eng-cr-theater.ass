@@ -1,0 +1,77 @@
+﻿[Script Info]
+Title: English (US)
+ScaledBorderAndShadow: yes
+Original Script: kodansha  [http://www.crunchyroll.com/user/kodansha]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+LayoutResX: 1920
+LayoutResY: 1080
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+Style: Flashback,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00013E12,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+Style: Sign_Basic,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,6,3,2,30,30,54,1
+Style: Ep_Title,Arial,60,&H00FFFFFF,&H000000FF,&H00000000,&H00BE9829,-1,0,0,0,100,100,0,0,1,0,6,1,132,30,12,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:23:42.98,0:23:50.24,Sign_Basic,sign,0,0,0,,{\an8\fnArial\b1\fs90\c&H7CEDEF&\shad0\bord0}S{\c&H639FF5&}L{\c&HE171BE&}F {\bord6\c&H4C4F52&\3c&HF0F5F5&}Mini
+Dialogue: 0,0:23:43.78,0:23:46.78,Default,Kids,0,0,0,,{\i1}SLF{\i0} Theater!
+Dialogue: 0,0:23:46.78,0:23:50.24,Sign_Basic,sign,0,0,0,,{\fad(475,0)\an1\i1\b1\c&HF1FBFD&\3c&H3D717E&\bord4.5\fscx90\pos(807.999,864)}The Day Starts Early for a Girl in Love
+Dialogue: 0,0:23:47.57,0:23:48.99,Default,Emul,0,0,0,,{\an8}Mini!
+Dialogue: 0,0:23:50.24,0:26:47.42,Sign_Basic,sign,0,0,0,,{\an7\i1\b1\c&HF1FBFD&\3c&H3D717E&\bord4.5\fs60\pos(1434,120)}SLF Theater
+Dialogue: 0,0:23:51.49,0:23:53.87,Default,Narrator,0,0,0,,The day starts early for a girl in love.
+Dialogue: 0,0:23:55.00,0:23:56.75,Sign_Basic,sign,0,0,0,,{\pos(960,900)\fnTimes New Roman\c&H000000&\3c&HFFFFFF&\shad0\b1\bord3.75}Why are you up so early?
+Dialogue: 0,0:23:56.12,0:23:58.63,Default,Rei,0,0,0,,{\an8}W-Well, it's just... er...
+Dialogue: 0,0:23:58.63,0:24:04.26,Default,Rei,0,0,0,,I th-thought it might be nice... if we \Ncould walk to school together, maybe...
+Dialogue: 0,0:24:05.05,0:24:08.13,Default,Narrator,0,0,0,,Even on the most ordinary of days,
+Dialogue: 0,0:24:08.13,0:24:11.68,Default,Narrator,0,0,0,,the most trivial things can \Nchange the scenery you see.
+Dialogue: 0,0:24:12.43,0:24:16.18,Default,Narrator,0,0,0,,As a girl in love, Rei Saiga's gaze is focused.
+Dialogue: 0,0:24:16.18,0:24:22.86,Default,Rei,0,0,0,,W-Well, I know the route Hizutome-kun \Nwalks to school, so...
+Dialogue: 0,0:24:23.19,0:24:24.94,Sign_Basic,sign,0,0,0,,{\pos(960,900)\fnTimes New Roman\c&H000000&\3c&HFFFFFF&\shad0\b1\bord3.75}How did you find that out?
+Dialogue: 0,0:24:24.69,0:24:26.69,Default,Rei,0,0,0,,{\an8}I-It was a total coincidence!
+Dialogue: 0,0:24:27.11,0:24:29.66,Default,Rei,0,0,0,,It just happened that, miraculously,
+Dialogue: 0,0:24:29.66,0:24:33.37,Default,Rei,0,0,0,,the planets aligned such that I happened \Nto catch sight of Hizutome-kun...
+Dialogue: 0,0:24:33.37,0:24:35.70,Default,Rei,0,0,0,,Then, a series of coincidences
+Dialogue: 0,0:24:35.70,0:24:38.58,Default,Rei,0,0,0,,ended up with me happening to \Ncome this way a few times...
+Dialogue: 0,0:24:38.58,0:24:40.50,Default,Rei,0,0,0,,And it happened enough times that
+Dialogue: 0,0:24:40.50,0:24:43.71,Default,Rei,0,0,0,,I ended up happening to catch sight of \NHizutome-kun a few different times...
+Dialogue: 0,0:24:43.71,0:24:46.05,Default,Rei,0,0,0,,And from those coincidental \Nsightings, I coincidentally...
+Dialogue: 0,0:24:46.05,0:24:48.38,Default,Rei,0,0,0,,I mean, it really was a \Ncoincidence that I happened to
+Dialogue: 0,0:24:48.38,0:24:50.76,Default,Rei,0,0,0,,realize that he tended to \Ncome by this way a lot...
+Dialogue: 0,0:24:50.76,0:24:52.72,Default,Rei,0,0,0,,I mean, it wasn't on purpose at all.
+Dialogue: 0,0:24:52.72,0:24:54.72,Default,Rei,0,0,0,,It was just a little curiosity...
+Dialogue: 0,0:24:54.72,0:24:57.10,Default,Rei,0,0,0,,Well, I guess "curiosity" is \Na rude way of putting it...
+Dialogue: 0,0:24:57.56,0:24:58.69,Default,Rei,0,0,0,,Forget I said that.
+Dialogue: 0,0:24:58.69,0:25:02.02,Default,Rei,0,0,0,,Well, with all the information I had, \NI kind of put it together...
+Dialogue: 0,0:25:02.02,0:25:03.90,Default,Rei,0,0,0,,I mean, it really wasn't on purpose!
+Dialogue: 0,0:25:03.90,0:25:04.73,Default,Rei,0,0,0,,I mean it!
+Dialogue: 0,0:25:04.73,0:25:09.28,Default,Rei,0,0,0,,But in the end, I did kind of find \Nout where Hizutome-kun lived...
+Dialogue: 0,0:25:09.28,0:25:11.36,Default,Rei,0,0,0,,Um, that is...
+Dialogue: 0,0:25:11.86,0:25:17.20,Default,Narrator,0,0,0,,As she speaks on with the \Nforce of a raging bonfire,
+Dialogue: 0,0:25:17.20,0:25:23.13,Default,Narrator,0,0,0,,there is embarrassment in her voice, \Ncombined with a strange sense of hope.
+Dialogue: 0,0:25:24.00,0:25:27.21,Default,Narrator,0,0,0,,After having a brief breakfast at home,
+Dialogue: 0,0:25:27.21,0:25:29.47,Default,Narrator,0,0,0,,Ms. Rei Saiga arrives at a certain corner.
+Dialogue: 0,0:25:29.88,0:25:34.39,Default,Narrator,0,0,0,,But her eyes are unfocused and hesitant.
+Dialogue: 0,0:25:34.64,0:25:36.64,Sign_Basic,sign,0,0,0,,{\pos(960,900)\fnTimes New Roman\c&H000000&\3c&HFFFFFF&\shad0\b1\bord3.75}What are you doing?
+Dialogue: 0,0:25:36.93,0:25:39.60,Default,Rei,0,0,0,,Well... it's just, well...
+Dialogue: 0,0:25:39.60,0:25:45.57,Default,Rei,0,0,0,,Maybe I... you know... \Nmight not be brave enough to...
+Dialogue: 0,0:25:46.07,0:25:50.11,Default,Narrator,0,0,0,,Touching her pinkened—no, reddened—cheek,
+Dialogue: 0,0:25:50.11,0:25:53.99,Default,Narrator,0,0,0,,Ms. Rei Saiga stares around the corner.
+Dialogue: 0,0:25:53.99,0:26:01.16,Default,Rei,0,0,0,,Hizutome-kun generally passes this way \Nbetween eight o'clock and ten-after.
+Dialogue: 0,0:26:01.50,0:26:05.25,Default,Rei,0,0,0,,He sometimes comes running \Nat twenty-after, too, but...
+Dialogue: 0,0:26:05.25,0:26:06.79,Default,Rei,0,0,0,,I-It's him!
+Dialogue: 0,0:26:08.13,0:26:11.55,Default,Narrator,0,0,0,,Love — it is that which fuels courage.
+Dialogue: 0,0:26:12.43,0:26:15.76,Default,Narrator,0,0,0,,Ms. Rei Saiga hides behind the wall,
+Dialogue: 0,0:26:15.76,0:26:19.68,Default,Narrator,0,0,0,,but as the high schooler \Npasses by in front of her,
+Dialogue: 0,0:26:20.06,0:26:23.14,Default,Narrator,0,0,0,,she reaches out her hand, and speaks...
+Dialogue: 0,0:26:25.86,0:26:28.44,Default,Mana,0,0,0,,So, as you were about to talk to him,
+Dialogue: 0,0:26:28.44,0:26:31.61,Default,Mana,0,0,0,,you caught sight of a middle-school \Ngirl running alongside him,
+Dialogue: 0,0:26:31.61,0:26:33.11,Default,Mana,0,0,0,,and you hid?
+Dialogue: 0,0:26:34.78,0:26:38.12,Default,Mana,0,0,0,,That was probably his sister, you know.
+Dialogue: 0,0:26:38.12,0:26:40.16,Default,Rei,0,0,0,,Yes, probably...
+Dialogue: 0,0:26:41.54,0:26:46.88,Default,Mana,0,0,0,,At this rate, you might graduate \Nbefore you ever talk to him!
