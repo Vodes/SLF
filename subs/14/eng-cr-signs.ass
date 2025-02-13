@@ -1,0 +1,51 @@
+﻿[Script Info]
+Title: English (US)
+ScaledBorderAndShadow: yes
+Original Script: kodansha  [http://www.crunchyroll.com/user/kodansha]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+LayoutResX: 1920
+LayoutResY: 1080
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+Style: Sign_Basic,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,6,3,2,30,30,54,1
+Style: Ep_Title,Arial,60,&H00FFFFFF,&H000000FF,&H00000000,&H00BE9829,-1,0,0,0,100,100,0,0,1,0,6,1,132,30,12,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:02:12.40,0:02:17.95,Ep_Title,sign,0,0,0,,{\fad(475,300)}Squish
+Dialogue: 0,0:02:38.89,0:02:40.47,Sign_Basic,sign,0,0,0,,{\pos(1446.639,605.559)\org(1454.001,588)\fscx100.743\fscy97.712\frz-7.314\fry1.335\frx3.371\fax0.135\b1\xbord6.04\ybord5.86\xshad0\yshad0\c&H150F45&\3c&HCFD4D7&}Dragonfly
+Dialogue: 0,0:02:42.14,0:02:43.43,Sign_Basic,sign,0,0,0,,{\pos(1446.639,605.559)\org(1454.001,588)\fscx100.743\fscy97.712\frz-7.314\fry1.335\frx3.371\fax0.135\b1\xbord6.04\ybord5.86\xshad0\yshad0\c&H150F45&\3c&HCFD4D7&}Dragonfly
+Dialogue: 0,0:03:11.96,0:03:14.97,Sign_Basic,sign,0,0,0,,{\c&H282282&\3c&HE4F1F3&\b1\shad0\pos(432,870)}Dragonfly
+Dialogue: 0,0:03:11.96,0:03:14.97,Sign_Basic,sign,0,0,0,,{\c&H282282&\3c&HE4F1F3&\b1\shad0\pos(1548,870)}Sunraku
+Dialogue: 0,0:04:01.55,0:04:02.31,Sign_Basic,sign,0,0,0,,{\pos(691.474,368.001)\org(687.999,368.001)\fscx98.737\fscy95.245\frz14.041\fry-4.751\frx5.607\fax-0.049\b1\xbord5.92\ybord5.71\xshad0\yshad0\c&H1A104E&\3c&HE4F1F3&}Sunraku
+Dialogue: 0,0:05:22.68,0:05:24.18,Sign_Basic,sign,0,0,0,,{\pos(621.19,765)\org(618,765)\fscx97.364\fscy96.588\fry-4.751\frx5.607\fax-0.061\fs54\b1\xbord5.84\ybord5.79\xshad0\yshad0\c&H1A104E&\3c&HE4F1F3&}Sunraku
+Dialogue: 0,0:05:26.97,0:05:28.77,Sign_Basic,sign,0,0,0,,{\fad(25,0)\c&H5B4CE2&\3c&HE4F1F3&\b1\shad0\fs66\pos(840,366)}Round 1
+Dialogue: 0,0:07:00.90,0:07:04.40,Sign_Basic,sign,0,0,0,,{\c&H282282&\3c&HE4F1F3&\b1\shad0\pos(432,870)}Dragonfly
+Dialogue: 0,0:07:00.90,0:07:04.40,Sign_Basic,sign,0,0,0,,{\c&H282282&\3c&HE4F1F3&\b1\shad0\pos(1548,870)}Sunraku
+Dialogue: 0,0:09:04.19,0:09:06.94,Sign_Basic,sign,0,0,0,,{\pos(990,870)\3c&HAFA33E&\bord9\shad0}Palace of Rabituza
+Dialogue: 0,0:10:28.69,0:10:29.82,Default,sign,0,0,0,,{\fad(200,0)\pos(1458,858)\b1\c&H9554D4&\bord0\shad0\fnArial}Elke
+Dialogue: 0,0:11:29.54,0:11:37.43,Sign_Basic,sign,0,0,0,,{\pos(90,870)\an1\fs36\b1\fnArial\c&H38FED0&\3c&H0A3321&\shad0}Linkable Skills\N {\c&HFCF48D&\3c&H104A33&}Strong Puncher {\c&HFFFFFF&}Lv.1\N{\c&HFCF48D&\3c&H104A33&}Loop Slash {\c&HFFFFFF&}Lv.8\N{\c&HFCF48D&\3c&H104A33&}Accel {\c&HFFFFFF&}Lv.MAX\N{\c&HFCF48D&\3c&H104A33&}Deerstep {\c&HFFFFFF&}Lv.7\N{\c&HFCF48D&\3c&H104A33&}Cutwater {\c&HFFFFFF&}Lv.6\N{\c&HFCF48D&\3c&H104A33&}Crossing Slash {\c&HFFFFFF&}Lv.4\N{\c&HFCF48D&\3c&H104A33&}Oppression Kick {\c&HFFFFFF&}Lv.5\N{\c&HFCF48D&\3c&H104A33&}Armor Piercer {\c&HFFFFFF&}Lv.3\N{\c&HFCF48D&\3c&H104A33&}Fighting Spirit {\c&HFFFFFF&}Lv.7\N{\c&HFCF48D&\3c&H104A33&}Unbreakable {\c&HFFFFFF&}Lv.5\N{\c&HFCF48D&\3c&H104A33&}Highrunner {\c&HFFFFFF&}Lv.6\N{\c&HFCF48D&\3c&H104A33&}Naked Sense {\c&HFFFFFF&}Lv.4\N{\c&HFCF48D&\3c&H104A33&}Starving Impulse {\c&HFFFFFF&}Lv.4
+Dialogue: 0,0:12:02.12,0:12:02.20,Sign_Basic,sign,0,0,0,,{\an8\pos(1086.54,151.429)\org(1086,146.001)\fscx99.578\fscy96.937\frz-3.925\fry2.682\frx4.792\fax0.097\fnArial\fs48\b1\xbord2.99\ybord2.91\xshad0\yshad0\c&H77E936&\3c&H347828&}Link 6/6
+Dialogue: 0,0:12:02.33,0:12:04.58,Sign_Basic,sign,0,0,0,,{\pos(1120.264,420)\org(1122,420)\fscx99.212\fscy97.294\frz-1.472\fry2.682\frx4.792\fax0.029\fs60\b1\xbord0\ybord0\xshad0\yshad0\c&HF5F291&\fad(250,0)}Accel {\c&HFFFFFF&}Lv.MAX
+Dialogue: 0,0:12:02.33,0:12:04.58,Sign_Basic,sign,0,0,0,,{\pos(1150.19,584.001)\org(1152,584.001)\fscx99.112\fscy97.392\frz0.43\fry2.682\frx4.792\fax0.03\fs60\b1\xbord0\ybord0\xshad0\yshad0\c&HF5F291&\fad(250,0)}Fighting Spirit {\c&HFFFFFF&}Lv.7
+Dialogue: 0,0:12:02.33,0:12:06.46,Sign_Basic,sign,0,0,0,,{\an8\pos(1086.54,151.429)\org(1086,146.001)\fscx99.578\fscy96.937\frz-3.925\fry2.682\frx4.792\fax0.097\fnArial\fs48\b1\xbord2.99\ybord2.91\xshad0\yshad0\c&H77E936&\3c&H347828&}Link 6/6
+Dialogue: 0,0:12:04.58,0:12:06.46,Sign_Basic,sign,0,0,0,,{\pos(1090.073,398.001)\org(1092,398.001)\fscx98.651\fscy98.655\fry3.364\frx3.41\fax0.027\b1\xbord0\ybord0\xshad0\yshad0\c&H7DFF53&}Climax Boost
+Dialogue: 0,0:12:22.81,0:12:26.93,Sign_Basic,sign,0,0,0,,{\pos(483.999,606)\org(483.999,606)\fry-180\fs30\xbord9\ybord9\xshad0\yshad0\c&HC4BDBA&\3c&H4E4338&}Skill Linking Fee\N{\c&HEFECA3&} 6000 mahni\N Cash on Hand: {\c&HC6BEB9&}80,150 mahni{reverse}
+Dialogue: 0,0:12:42.41,0:12:49.67,Sign_Basic,sign,0,0,0,,{\an7\fnImpact\b1\c&HC8981C&\3c&HFFFFFF&\shad0}Sunraku {\3c&HEACF6B&\bord3}LV:51\N{\fnTrebuchet MS\b0\fs42\c&HF0EFEB&\3c&H4D3A20&\bord6}Mercenary (Twin Blade User)  {\c&HB1AAAE&}Skill Points Remaining: 5\N {\c&HE2D684&}Cash on Hand  {\c&HB5A9A8&}80,150 mahni
+Dialogue: 0,0:13:42.34,0:13:49.10,Sign_Basic,sign,0,0,0,,{\c&H332622&\3c&HADFCFD\shad0\fs36\an7\pos(90,60)}New Skills\N {\c&HF6F29E&\3c&H332924&\b1}Infight {\c&HFFFFFF&}Lv.1\N{\c&HF6F29E&}Hand of Fortune {\c&HFFFFFF&}Lv.1\N{\c&HF6F29E&}Climax Boost {\c&HFFFFFF&}Lv.1\N{{\c&HF6F29E&}Assassin Pierce {\c&HFFFFFF&}Lv.1\N{\c&HF6F29E&}Offroad {\c&HFFFFFF&}Lv.1\N{{\c&HF6F29E&}Hunger Wolf\N{\c&H666560&} learned.
+Dialogue: 0,0:13:49.14,0:13:54.35,Sign_Basic,sign,0,0,0,,{\an7\pos(90,60)\fs30\c&HF6F29E&\3c&H332924&\b1}Skate Foot\N Best Step\N Parry Protect\N Five-Boat Leap\N Great Climb\N Sharp Turn\NInfight {\c&HFFFFFF&}Lv.1\N{\c&HF6F29E&}Hand of Fortune {\c&HFFFFFF&}Lv.1\N{\c&HF6F29E&}Climax Boost {\c&HFFFFFF&}Lv.1\N{{\c&HF6F29E&}Assassin Pierce {\c&HFFFFFF&}Lv.1\N{\c&HF6F29E&}Offroad {\c&HFFFFFF&}Lv.1\N{{\c&HF6F29E&}Hunger Wolf
+Dialogue: 0,0:14:58.92,0:15:03.92,Sign_Basic,sign,0,0,0,,{\fnArial\b1\c&H4CFFDB&\3c&H0A3724&\shad0\fs42\an7\pos(90,180)}Skill Grimoire Shop\N{\c&HE9F0A4&\3c&H174B37&\b0\fs36}Vorpal Sword Tech  [Half-Moon Slash]\N Vorpal Spear Tech  [Moonlight Thrust]\N Vorpal Blade Tech  [Moon's Reflection]\N Vorpal Judo Tech  [Crescent Throw]\N Secret\N Secret\N Secret
+Dialogue: 0,0:16:30.80,0:16:34.06,Sign_Basic,sign,0,0,0,,{\an8\b1\3c&HE5EAFB&\shad0}The Serpent's Apple
+Dialogue: 0,0:21:31.44,0:21:35.94,Sign_Basic,sign,0,0,0,,{\fad(475,550)\pos(960,900)\c&H000000&\3c&HFFFFFF&\shad0\bord4.5\3a&H22&}Two Weeks Later...
+Dialogue: 0,0:21:36.94,0:21:40.20,Sign_Basic,sign,0,0,0,,{\an8\fnTimes New Roman\b1\c&H2E2A29&\3c&H7E757B&\shad0}Constant Progress
+Dialogue: 0,0:21:56.09,0:22:04.09,Sign_Basic,sign,0,0,0,,{\fad(0,1050)\move(888,-465,888,555)\an8\fnArial\b1\bord3\3c&HAA5043&\4c&HAA5043&\shad6\frx0\fry348\fax-.1\frz10.08}Major Summer Update!!
+Dialogue: 0,0:21:56.09,0:22:04.09,Sign_Basic,sign,0,0,0,,{\fad(0,1050)\fnArial\b1\fs60\shad0\c&HC68844&\3c&HF3F2E9&\frx8\fry350\move(1212,-228,1212,792)\frz7.642}The Severed Sea
+Dialogue: 0,0:21:56.09,0:22:04.09,Sign_Basic,sign,0,0,0,,{\fad(0,1050)\fnArial\b1\fs48\shad0\c&HC68844&\3c&HF8EEF1&\frx8\fry354\frz2.827\move(1116,180,1110,1200)}The Frontier Fleet
+Dialogue: 0,0:21:56.09,0:22:04.09,Sign_Basic,sign,0,0,0,,{\fad(0,1050)\move(774,318,774,1338)\fnArial\b1\fs48\shad0\c&HC68844&\3c&HE2D5C6&\frx8\fry354\frz2.827}The New Land
+Dialogue: 0,0:21:56.09,0:22:04.09,Sign_Basic,sign,0,0,0,,{\fad(0,1050)\fnArial\b1\an1\fs48\shad0\c&HDDD8D6&\3c&HAF4939&\frx8\fry354\move(1116,600,1116,1620)\frz1.126}New Job!!\N{\fs72\c&HA15336&\3c&HD6DCD1&}Rider

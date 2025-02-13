@@ -1,0 +1,338 @@
+﻿[Script Info]
+Title: English (US)
+ScaledBorderAndShadow: yes
+Original Script: kodansha  [http://www.crunchyroll.com/user/kodansha]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+LayoutResX: 1920
+LayoutResY: 1080
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.94,0:00:06.74,Default,Narrator,0,0,0,,This world is filled with \Ntoo many games to count,
+Dialogue: 0,0:00:07.99,0:00:12.24,Default,Narrator,0,0,0,,though the vast majority simply \Ncome and go in obscurity.
+Dialogue: 0,0:00:13.66,0:00:16.41,Default,Narrator,0,0,0,,The greatest of all games
+Dialogue: 0,0:00:16.41,0:00:21.71,Default,Narrator,0,0,0,,is the fully immersive VR game boasting \Nover 30 million players worldwide—
+Dialogue: 0,0:00:21.71,0:00:26.26,Default,Narrator,0,0,0,,{\i0}Shangri-La Frontier{\i1}, which rightly \Nearns the title of "god-tier game"!
+Dialogue: 0,0:00:28.01,0:00:31.93,Default,Narrator,0,0,0,,One lover of trash games, Rakuro Hizutome,
+Dialogue: 0,0:00:31.93,0:00:35.14,Default,Narrator,0,0,0,,is trying out the god-tier \Ngame, {\i0}Shangri-La Frontier{\i1}!
+Dialogue: 0,0:00:35.93,0:00:40.65,Default,Narrator,0,0,0,,What adventures await him there?
+Dialogue: 0,0:02:14.74,0:02:17.16,Default,Mob D,0,0,0,,Hey, Sunraku's back.
+Dialogue: 0,0:02:17.16,0:02:18.74,Default,Mob C,0,0,0,,Who's that he's fighting?
+Dialogue: 0,0:02:18.74,0:02:20.37,Default,Mob A,0,0,0,,Never seen him before.
+Dialogue: 0,0:02:20.37,0:02:22.21,Default,Mob D,0,0,0,,No way it's a new player, right?
+Dialogue: 0,0:02:22.21,0:02:24.87,Default,Mob B,0,0,0,,Hard to believe, but I think it might be!
+Dialogue: 0,0:02:29.63,0:02:32.09,Default,Dragonfly,0,0,0,,I'll take at least one round!
+Dialogue: 0,0:02:35.39,0:02:36.93,Default,Sunraku,0,0,0,,Quickdraw Fist!
+Dialogue: 0,0:02:47.31,0:02:49.69,Default,VO,0,0,0,,{\i1}You lose!
+Dialogue: 0,0:02:49.69,0:02:53.57,Default,Dragonfly,0,0,0,,Wh-Why can't I take a \Nsingle round against you?!
+Dialogue: 0,0:02:53.78,0:02:56.45,Default,Sunraku,0,0,0,,The Quickdraw Fist style \Nis basically unbeatable.
+Dialogue: 0,0:02:57.53,0:03:00.41,Default,Dragonfly,0,0,0,,One more match! This'll be the last one!
+Dialogue: 0,0:03:00.41,0:03:02.33,Default,Dragonfly,0,0,0,,Best of three!
+Dialogue: 0,0:03:02.58,0:03:04.00,Default,Sunraku,0,0,0,,If you insist.
+Dialogue: 0,0:03:04.00,0:03:05.04,Default,Sunraku,0,0,0,,But this'll be the last one.
+Dialogue: 0,0:03:05.04,0:03:06.75,Default,Dragonfly,0,0,0,,Thank you so much!
+Dialogue: 0,0:03:06.75,0:03:08.33,Default,Sunraku,0,0,0,,And the rules are, of course...
+Dialogue: 0,0:03:08.33,0:03:10.29,Default,Dragonfly,0,0,0,,Bug tudo!
+Dialogue: 0,0:03:10.29,0:03:11.46,Default,Dragonfly,0,0,0,,Yes!
+Dialogue: 0,0:03:12.17,0:03:13.51,Default,VO,0,0,0,,{\i1}Battle start!
+Dialogue: 0,0:03:13.51,0:03:14.67,Default,VO,0,0,0,,{\i1}Round 1!
+Dialogue: 0,0:03:15.01,0:03:15.72,Default,VO,0,0,0,,{\i1}Fight!
+Dialogue: 0,0:03:18.55,0:03:20.18,Default,Sunraku,0,0,0,,Same approach again?
+Dialogue: 0,0:03:31.86,0:03:33.36,Default,Sunraku,0,0,0,,Hey!
+Dialogue: 0,0:03:33.36,0:03:37.74,Default,Sunraku,0,0,0,,You learned to time the Yo-Yo \Nto your opponent's attacks?
+Dialogue: 0,0:03:37.74,0:03:39.87,Default,Dragonfly,0,0,0,,Yes! I think I'm getting the hang of it!
+Dialogue: 0,0:03:40.12,0:03:43.95,Default,Sunraku,0,0,0,,{\i1}Still, I meant to come train \Nmyself for the Wethermon fight,
+Dialogue: 0,0:03:43.95,0:03:47.62,Default,Sunraku,0,0,0,,{\i1}but I basically ended up \Ntraining some newbie...
+Dialogue: 0,0:03:47.96,0:03:52.63,Default,Sunraku,0,0,0,,{\i1}I really wish I could've landed \Nsome stronger competition...
+Dialogue: 0,0:03:59.34,0:04:00.64,Default,Dragonfly,0,0,0,,Flying Smash!
+Dialogue: 0,0:04:04.81,0:04:08.31,Default,Sunraku,0,0,0,,{\i1}He closed in with the retraction \Nof his elongated leg,
+Dialogue: 0,0:04:08.31,0:04:09.81,Default,Sunraku,0,0,0,,{\i1}and attacked simultaneously!
+Dialogue: 0,0:04:10.81,0:04:13.86,Default,Sunraku,0,0,0,,That's some seriously impressive improvement.
+Dialogue: 0,0:04:13.86,0:04:14.69,Default,Sunraku,0,0,0,,But...
+Dialogue: 0,0:04:14.69,0:04:18.45,Default,Sunraku,0,0,0,,your choice of Flying Smash, \Nwhich isn't a bug technique,
+Dialogue: 0,0:04:18.45,0:04:20.28,Default,Sunraku,0,0,0,,shows just how little you \Nunderstand about {\i1}BERP{\i0}.
+Dialogue: 0,0:04:20.28,0:04:24.16,Default,Sunraku,0,0,0,,Flying Smash may be a powerful move, \Nbut it leaves you with a wicked recovery time.
+Dialogue: 0,0:04:24.99,0:04:28.29,Default,Sunraku,0,0,0,,Makes it hard to deal out a \Nfollow-up, even when you land it.
+Dialogue: 0,0:04:28.71,0:04:30.17,Default,Sunraku,0,0,0,,The correct move is...
+Dialogue: 0,0:04:30.88,0:04:34.55,Default,Sunraku,0,0,0,,Pile Bunker!
+Dialogue: 0,0:04:37.38,0:04:39.09,Default,Dragonfly,0,0,0,,H-He's so fast!
+Dialogue: 0,0:04:48.02,0:04:50.56,Default,Dragonfly,0,0,0,,If I can't get away, then...
+Dialogue: 0,0:04:54.98,0:04:57.40,Default,Sunraku,0,0,0,,Still charging in headlong?!
+Dialogue: 0,0:04:58.15,0:05:00.24,Default,Sunraku,0,0,0,,I'll just counter with a Quickdraw Fist!
+Dialogue: 0,0:05:04.91,0:05:05.99,Default,Sunraku,0,0,0,,{\i1}What's he doing?!
+Dialogue: 0,0:05:08.87,0:05:11.08,Default,Dragonfly,0,0,0,,Flying Smash!
+Dialogue: 0,0:05:11.08,0:05:13.71,Default,Sunraku,0,0,0,,{\i1}He triggered two Flying Smashes at once?!
+Dialogue: 0,0:05:13.71,0:05:14.75,Default,Sunraku,0,0,0,,{\i1}I've never seen that happen!
+Dialogue: 0,0:05:15.04,0:05:17.92,Default,Sunraku,0,0,0,,{\i1}A Quickdraw Fist could \Nprobably counter it, but...
+Dialogue: 0,0:05:18.13,0:05:19.59,Default,Sunraku,0,0,0,,I think I'll let it hit me!
+Dialogue: 0,0:05:27.18,0:05:28.77,Default,VO,0,0,0,,{\i1}You win!
+Dialogue: 0,0:05:29.43,0:05:31.31,Default,Dragonfly,0,0,0,,I did it!
+Dialogue: 0,0:05:31.31,0:05:33.69,Default,Dragonfly,0,0,0,,I took my first round!
+Dialogue: 0,0:05:33.69,0:05:35.52,Default,Mob C,0,0,0,,What just happened?
+Dialogue: 0,0:05:35.52,0:05:37.86,Default,Mob C,0,0,0,,Did he stack Flying Smashes?
+Dialogue: 0,0:05:37.86,0:05:40.61,Default,Mob A,0,0,0,,Yeah. I've never seen that happen before.
+Dialogue: 0,0:05:40.61,0:05:42.53,Default,Sunraku,0,0,0,,Well, what do you guys think?
+Dialogue: 0,0:05:42.95,0:05:46.45,Default,Sunraku,0,0,0,,Both of 'em had hitboxes for sure.
+Dialogue: 0,0:05:46.66,0:05:49.58,Default,Mob C,0,0,0,,Fundamentally, it's a Pile Bunker...
+Dialogue: 0,0:05:49.58,0:05:53.29,Default,Mob C,0,0,0,,But that shouldn't let you stack gauge moves.
+Dialogue: 0,0:05:53.29,0:05:56.46,Default,Mob A,0,0,0,,It must be a form of the \NDoppelganger bug, right?
+Dialogue: 0,0:05:56.75,0:06:00.09,Default,Sunraku,0,0,0,,That's never let you form a double \Nin the same coordinates, though.
+Dialogue: 0,0:06:00.34,0:06:01.97,Default,Sunraku,0,0,0,,That much has been verified.
+Dialogue: 0,0:06:01.97,0:06:05.14,Default,Mob D,0,0,0,,And you can't use a Chimera \Nfrom a Doppelganger.
+Dialogue: 0,0:06:05.14,0:06:06.43,Default,Mob D,0,0,0,,Which means...
+Dialogue: 0,0:06:06.43,0:06:07.51,Default,Sunraku,0,0,0,,Yeah.
+Dialogue: 0,0:06:07.85,0:06:10.98,Default,Sunraku,0,0,0,,If the test team can \Nreproduce it, it's a lock.
+Dialogue: 0,0:06:11.68,0:06:13.02,Default,Sunraku,0,0,0,,Dragonfly-san.
+Dialogue: 0,0:06:13.31,0:06:14.48,Default,Dragonfly,0,0,0,,Y-Yes?
+Dialogue: 0,0:06:14.69,0:06:16.36,Default,Sunraku,0,0,0,,Congratulations.
+Dialogue: 0,0:06:16.36,0:06:17.94,Default,Sunraku,0,0,0,,It's not quite official yet,
+Dialogue: 0,0:06:17.94,0:06:21.49,Default,Sunraku,0,0,0,,but you're probably the discoverer \Nof a new bugged-out move!
+Dialogue: 0,0:06:22.99,0:06:24.36,Default,Mob C,0,0,0,,Congratulations!
+Dialogue: 0,0:06:23.28,0:06:24.36,Default,Mob A,0,0,0,,Wonderful!
+Dialogue: 0,0:06:24.36,0:06:25.49,Default,Mob D,0,0,0,,Bravo!
+Dialogue: 0,0:06:24.36,0:06:25.49,Default,Mob B,0,0,0,,Congrats!
+Dialogue: 0,0:06:25.49,0:06:27.49,Default,Dragonfly,0,0,0,,H-Hey, thanks!
+Dialogue: 0,0:06:27.99,0:06:32.96,Default,Sunraku,0,0,0,,The discoverer of the bug \Nmove usually gets to name it.
+Dialogue: 0,0:06:32.96,0:06:33.87,Default,Sunraku,0,0,0,,So, what you got?
+Dialogue: 0,0:06:33.87,0:06:36.75,Default,Dragonfly,0,0,0,,O-Oh, this is all too sudden...
+Dialogue: 0,0:06:39.30,0:06:41.67,Default,Dragonfly,0,0,0,,Um... a name for the move?
+Dialogue: 0,0:06:41.67,0:06:42.76,Default,Dragonfly,0,0,0,,Let's see...
+Dialogue: 0,0:06:42.76,0:06:45.05,Default,Sunraku,0,0,0,,You don't have to choose right away.
+Dialogue: 0,0:06:45.05,0:06:46.93,Default,Sunraku,0,0,0,,Take some time and think about it.
+Dialogue: 0,0:06:46.93,0:06:49.56,Default,Sunraku,0,0,0,,Besides, we've still got \Nrounds to play, right?
+Dialogue: 0,0:06:49.56,0:06:54.14,Default,Sunraku,0,0,0,,In exchange for showing me a \Nnew bug, I'll show you one, too.
+Dialogue: 0,0:06:54.14,0:06:55.39,Default,Dragonfly,0,0,0,,You mean it?!
+Dialogue: 0,0:06:55.39,0:06:58.69,Default,Sunraku,0,0,0,,It's a pretty crazy bug \Nthat can only be activated
+Dialogue: 0,0:06:58.69,0:07:00.90,Default,Sunraku,0,0,0,,the instant the round starts, though.
+Dialogue: 0,0:07:01.82,0:07:03.32,Default,VO,0,0,0,,{\i1}Battle start!
+Dialogue: 0,0:07:03.32,0:07:04.65,Default,VO,0,0,0,,{\i1}Round two!
+Dialogue: 0,0:07:04.65,0:07:05.40,Default,VO,0,0,0,,{\i1}Fight!
+Dialogue: 0,0:07:09.45,0:07:11.54,Default,Sunraku,0,0,0,,Doppelganger achieved.
+Dialogue: 0,0:07:12.04,0:07:15.04,Default,Dragonfly,0,0,0,,Sunraku-san split in two?!
+Dialogue: 0,0:07:15.04,0:07:19.75,Default,Sunraku,0,0,0,,I waffled on what to name this one \Nwhen I first discovered it, too.
+Dialogue: 0,0:07:19.75,0:07:22.80,Default,Sunraku,0,0,0,,Shadow Clones? Swampman?
+Dialogue: 0,0:07:23.01,0:07:24.55,Default,Sunraku,0,0,0,,Amazing, right?
+Dialogue: 0,0:07:24.55,0:07:26.26,Default,Sunraku,0,0,0,,You think you've got it all figured out,
+Dialogue: 0,0:07:26.26,0:07:29.72,Default,Sunraku,0,0,0,,but there's always new things \Nto learn in this game!
+Dialogue: 0,0:07:29.93,0:07:32.14,Default,Sunraku,0,0,0,,{\i1}That's why, no matter \Nhow deserted it becomes,
+Dialogue: 0,0:07:32.14,0:07:34.98,Default,Sunraku,0,0,0,,{\i1}I've always gotta drop in from time to time.
+Dialogue: 0,0:07:34.98,0:07:36.81,Default,Sunraku,0,0,0,,{\i1}That's the joy of {\i0}BERP{\i1}...
+Dialogue: 0,0:07:39.23,0:07:42.73,Default,Sunraku,0,0,0,,Berserk Online Passion{\i1}!
+Dialogue: 0,0:07:51.12,0:07:52.37,Default,Sunraku,0,0,0,,You okay?
+Dialogue: 0,0:07:53.04,0:07:55.96,Default,Dragonfly,0,0,0,,Two quick losses in a row...
+Dialogue: 0,0:07:56.08,0:08:01.54,Default,Dragonfly,0,0,0,,Having one clone hold me in place while \Nthe other one attacks isn't fair!
+Dialogue: 0,0:08:01.54,0:08:06.97,Default,Sunraku,0,0,0,,Yeah, it's not fair how the clone ends \Nup controlled by the AI if you let it.
+Dialogue: 0,0:08:06.97,0:08:11.68,Default,Dragonfly,0,0,0,,Thank you so much for giving up \Nyour time to a new player like me!
+Dialogue: 0,0:08:11.68,0:08:12.51,Default,Sunraku,0,0,0,,No prob.
+Dialogue: 0,0:08:12.89,0:08:15.02,Default,Dragonfly,0,0,0,,I've learned so much today.
+Dialogue: 0,0:08:15.02,0:08:18.77,Default,Dragonfly,0,0,0,,I'm going to think up a cool \Nname for my own bug move, too!
+Dialogue: 0,0:08:20.77,0:08:21.90,Default,Sunraku,0,0,0,,Oh...
+Dialogue: 0,0:08:22.19,0:08:26.86,Default,Sunraku,0,0,0,,Speaking of, there's one really \Ncreepy bug a friend of mine found.
+Dialogue: 0,0:08:27.53,0:08:30.16,Default,Sunraku,0,0,0,,Not sure if I can pull it off, \Nbut you wanna find out?
+Dialogue: 0,0:08:32.07,0:08:33.78,Default,Dragonfly,0,0,0,,Yes, please!
+Dialogue: 0,0:08:33.78,0:08:34.99,Default,Sunraku,0,0,0,,Okay!
+Dialogue: 0,0:08:34.99,0:08:37.04,Default,Narrator,0,0,0,,Meanwhile...
+Dialogue: 0,0:08:37.33,0:08:39.79,Default,Narrator,0,0,0,,This "friend" of his was...
+Dialogue: 0,0:08:39.79,0:08:44.17,Default,Oikatzo,0,0,0,,Damn it! Why do I gotta stay \Nbehind here by myself?!
+Dialogue: 0,0:08:44.17,0:08:46.96,Default,Pencilgon,0,0,0,,What, you're still just Level 47?
+Dialogue: 0,0:08:46.96,0:08:50.01,Default,Pencilgon,0,0,0,,Instead of tuna, you should \Nput "minnow" in your name!
+Dialogue: 0,0:08:50.01,0:08:53.05,Default,Oikatzo,0,0,0,,Sunraku, get back here already!
+Dialogue: 0,0:08:53.05,0:08:54.18,Default,Pencilgon,0,0,0,,You small fry!
+Dialogue: 0,0:08:54.93,0:08:56.22,Default,Senji,0,0,0,,And, boom!
+Dialogue: 0,0:09:05.40,0:09:06.94,Default,Sunraku,0,0,0,,{\an8}Hell yeah!
+Dialogue: 0,0:09:06.94,0:09:10.32,Default,Sunraku,0,0,0,,Time for another dedicated day of {\i1}SLF{\i0}!
+Dialogue: 0,0:09:10.32,0:09:13.07,Default,Emul,0,0,0,,Oh, do wait for me!
+Dialogue: 0,0:09:13.45,0:09:18.41,Default,Sunraku,0,0,0,,We're gonna try out that skill combo \Nstuff Katzo told us about, Emul!
+Dialogue: 0,0:09:18.41,0:09:20.08,Default,Emul,0,0,0,,R-Righty-o!
+Dialogue: 0,0:09:20.33,0:09:21.83,Default,Sunraku,0,0,0,,So, this the right way?
+Dialogue: 0,0:09:21.83,0:09:26.09,Default,Emul,0,0,0,,You went off running without even \Nknowing where the Skill Garden is?!
+Dialogue: 0,0:09:26.09,0:09:30.76,Default,Emul,0,0,0,,Still, Sunraku-san, \Nyou appear quite motivated today!
+Dialogue: 0,0:09:30.76,0:09:33.34,Default,Emul,0,0,0,,Last night at bedtime, \Nyou seemed so exhausted!
+Dialogue: 0,0:09:33.34,0:09:35.10,Default,Emul,0,0,0,,It had me so worried!
+Dialogue: 0,0:09:35.10,0:09:37.72,Default,Sunraku,0,0,0,,I really was tired, yeah.
+Dialogue: 0,0:09:37.72,0:09:42.56,Default,Sunraku,0,0,0,,But discovering new things \Ncan't help but get me excited!
+Dialogue: 0,0:09:42.85,0:09:46.02,Default,Sunraku,0,0,0,,Especially when it's something \NI can get really into!
+Dialogue: 0,0:09:46.86,0:09:49.24,Default,Emul,0,0,0,,W-Wait, please!
+Dialogue: 0,0:09:49.24,0:09:51.57,Default,Emul,0,0,0,,The Skill Garden is this way!
+Dialogue: 0,0:09:51.57,0:09:53.28,Default,Emul,0,0,0,,Turn left down this passage!
+Dialogue: 0,0:09:55.70,0:10:01.33,Default,Sunraku,0,0,0,,Still, there's one of these Skill Garden \Nplaces in the Palace of Rabituza, too?
+Dialogue: 0,0:10:01.33,0:10:03.04,Default,Emul,0,0,0,,But of course!
+Dialogue: 0,0:10:03.50,0:10:06.92,Default,Emul,0,0,0,,And the Skill Garden in the \NPalace of Rabituza contains
+Dialogue: 0,0:10:06.92,0:10:10.67,Default,Emul,0,0,0,,a far greater selection \Nthan the ones in the towns!
+Dialogue: 0,0:10:10.67,0:10:12.59,Default,Emul,0,0,0,,We'll just keep that between us!
+Dialogue: 0,0:10:13.72,0:10:16.35,Default,Sunraku,0,0,0,,A secret advantage? I like it.
+Dialogue: 0,0:10:22.60,0:10:24.81,Default,Elke,0,0,0,,Oh, welcome!
+Dialogue: 0,0:10:24.81,0:10:29.32,Default,Elke,0,0,0,,Gracious me! If it isn't Emul \Nand her bird-man friend.
+Dialogue: 0,0:10:30.07,0:10:33.61,Default,Sunraku,0,0,0,,{\i1}I'm never escaping this "bird-man" rap, am I?
+Dialogue: 0,0:10:33.61,0:10:35.74,Default,Emul,0,0,0,,This is my big sister, Elke.
+Dialogue: 0,0:10:35.74,0:10:38.87,Default,Emul,0,0,0,,We're actually two of a set of triplets!
+Dialogue: 0,0:10:38.87,0:10:40.66,Default,Elke,0,0,0,,Such a pleasure!
+Dialogue: 0,0:10:40.66,0:10:42.20,Default,Sunraku,0,0,0,,A pleasure.
+Dialogue: 0,0:10:43.66,0:10:45.75,Default,Sunraku,0,0,0,,{\i1}Well, she's got the lop ears.
+Dialogue: 0,0:10:45.75,0:10:47.29,Default,Sunraku,0,0,0,,{\i1}I guess I see the resemblance.
+Dialogue: 0,0:10:47.88,0:10:50.59,Default,Sunraku,0,0,0,,{\i1}And if they're triplets, \Nthat means there's a third.
+Dialogue: 0,0:10:50.92,0:10:53.67,Default,Elke,0,0,0,,Well? How may I help you?
+Dialogue: 0,0:10:55.22,0:11:00.68,Default,Sunraku,0,0,0,,I heard you can combine skills here, so...
+Dialogue: 0,0:11:00.68,0:11:02.64,Default,Elke,0,0,0,,Oh, I certainly can!
+Dialogue: 0,0:11:03.02,0:11:07.02,Default,Elke,0,0,0,,As it happens, I'm {\i1}very{\i0}\Ngood at that sort of thing,
+Dialogue: 0,0:11:07.02,0:11:12.53,Default,Elke,0,0,0,,so Father put me in charge of \Nit... and that's why I'm here.
+Dialogue: 0,0:11:12.78,0:11:15.32,Default,Sunraku,0,0,0,,Did he, now?
+Dialogue: 0,0:11:16.32,0:11:19.74,Default,Emul,0,0,0,,He's picked up my sister's speech pattern!
+Dialogue: 0,0:11:19.74,0:11:22.20,Default,Sunraku,0,0,0,,Well, then, if you'd be so kind,
+Dialogue: 0,0:11:22.20,0:11:25.96,Default,Sunraku,0,0,0,,I'd be ever-so-happy if you'd \Nhelp me combine my skills...
+Dialogue: 0,0:11:25.96,0:11:28.13,Default,Elke,0,0,0,,Oh, but of course!
+Dialogue: 1,0:11:30.88,0:11:35.34,Default,Sunraku,0,0,0,,I jumped levels pretty quick, \Nso they've really piled up.
+Dialogue: 1,0:11:35.34,0:11:38.01,Default,Sunraku,0,0,0,,A bunch of 'em have changed, too.
+Dialogue: 0,0:11:39.39,0:11:41.56,Default,Elke,0,0,0,,Just so you know,
+Dialogue: 0,0:11:41.56,0:11:45.43,Default,Elke,0,0,0,,combining high-level skills with each other
+Dialogue: 0,0:11:45.43,0:11:48.19,Default,Elke,0,0,0,,{\i1}does{\i0} tend to produce superior \Nskills in the end...
+Dialogue: 0,0:11:48.19,0:11:49.81,Default,Sunraku,0,0,0,,Oh, yeah?
+Dialogue: 0,0:11:49.81,0:11:52.94,Default,Sunraku,0,0,0,,When you put it that way, it kinda \Nmakes me wanna max them out first...
+Dialogue: 0,0:11:53.40,0:11:55.69,Default,Sunraku,0,0,0,,But I'm also trying to clean house a bit...
+Dialogue: 0,0:11:55.69,0:11:57.57,Default,Sunraku,0,0,0,,So, let's get combining.
+Dialogue: 0,0:11:57.95,0:12:00.66,Default,Elke,0,0,0,,Oh, yes, let's!
+Dialogue: 0,0:12:04.79,0:12:06.46,Default,Sunraku,0,0,0,,There we go!
+Dialogue: 0,0:12:06.46,0:12:10.21,Default,Sunraku,0,0,0,,Is that all the skills I \Ncan combine for now, then?
+Dialogue: 0,0:12:12.17,0:12:14.76,Default,Elke,0,0,0,,And this is the recipe you want?
+Dialogue: 0,0:12:17.17,0:12:21.72,Default,Elke,0,0,0,,Six combinations will cost you 6000 mahni.
+Dialogue: 0,0:12:21.72,0:12:23.10,Default,Sunraku,0,0,0,,Sure thing.
+Dialogue: 0,0:12:23.43,0:12:25.35,Default,Sunraku,0,0,0,,Six thousand...
+Dialogue: 0,0:12:27.23,0:12:30.35,Default,Elke,0,0,0,,You sit tight, now. I'll have it right out!
+Dialogue: 0,0:12:30.35,0:12:31.61,Default,Emul,0,0,0,,Oh, if you please!
+Dialogue: 0,0:12:31.61,0:12:32.90,Default,Sunraku,0,0,0,,Oh, if you please!
+Dialogue: 0,0:12:32.90,0:12:34.94,Default,Emul,0,0,0,,Stop mimicking me!
+Dialogue: 0,0:12:36.69,0:12:39.74,Default,Sunraku,0,0,0,,I'll take a minute to \Ndouble-check my stats, then.
+Dialogue: 0,0:12:40.11,0:12:43.08,Default,Sunraku,0,0,0,,Though I'm Level 51 now,
+Dialogue: 0,0:12:43.08,0:12:49.67,Default,Sunraku,0,0,0,,I had to stat up to equip my Moonblades, \Nso I never got to increase my VIT...
+Dialogue: 0,0:12:50.04,0:12:53.04,Default,Sunraku,0,0,0,,My defenses are still paper-thin.
+Dialogue: 0,0:12:53.59,0:12:56.38,Default,Sunraku,0,0,0,,No... make that tissue-paper-thin.
+Dialogue: 0,0:12:56.71,0:12:59.01,Default,Elke,0,0,0,,Well, here you are!
+Dialogue: 0,0:12:59.01,0:13:01.47,Default,Sunraku,0,0,0,,Wow, that really was fast!
+Dialogue: 0,0:13:02.18,0:13:04.76,Default,Elke,0,0,0,,It's all ready for you!
+Dialogue: 0,0:13:04.76,0:13:08.27,Default,Elke,0,0,0,,It's six combinations at once, \Nso the amount is {\i1}quite{\i0} copious...
+Dialogue: 0,0:13:08.27,0:13:10.31,Default,Elke,0,0,0,,but the moment you drink it all down,
+Dialogue: 0,0:13:10.31,0:13:12.69,Default,Elke,0,0,0,,you'll learn the combined skills instantly.
+Dialogue: 0,0:13:13.11,0:13:15.44,Default,Sunraku,0,0,0,,{\i1}I've gotta chug this whole foul brew?
+Dialogue: 0,0:13:16.03,0:13:17.94,Default,Sunraku,0,0,0,,{\i1}There's a freaking branch in it!
+Dialogue: 0,0:13:17.94,0:13:20.70,Default,Elke,0,0,0,,Go on! All at once, now!
+Dialogue: 0,0:13:20.99,0:13:23.74,Default,Sunraku,0,0,0,,{\i1}I'd never do this if it weren't a game.
+Dialogue: 0,0:13:23.74,0:13:25.58,Default,Emul,0,0,0,,Go on, all at once!
+Dialogue: 0,0:13:25.58,0:13:26.33,Default,Elke,0,0,0,,Go on!
+Dialogue: 0,0:13:26.33,0:13:27.58,Default,Emul,0,0,0,,Go on!
+Dialogue: 0,0:13:42.72,0:13:45.76,Default,Sunraku,0,0,0,,Wow, I learned 'em all at once!
+Dialogue: 0,0:13:45.76,0:13:49.39,Default,Sunraku,0,0,0,,That's six new skills from the ones I linked!
+Dialogue: 0,0:13:49.39,0:13:53.65,Default,Sunraku,0,0,0,,Plus nine I learned or that \Nchanged while I leveled up...
+Dialogue: 0,0:13:54.35,0:13:56.86,Default,Sunraku,0,0,0,,I hope at least some of 'em are powerful.
+Dialogue: 0,0:13:56.86,0:13:58.36,Default,Emul,0,0,0,,Congratulations to you!
+Dialogue: 0,0:13:59.40,0:14:00.86,Default,Elke,0,0,0,,Isn't it lovely?
+Dialogue: 0,0:14:01.53,0:14:05.28,Default,Elke,0,0,0,,Oh, that's right. If you'd like...
+Dialogue: 0,0:14:05.28,0:14:10.79,Default,Elke,0,0,0,,There are Skill Grimoires you can \Nacquire only here in Rabituza.
+Dialogue: 0,0:14:10.79,0:14:12.37,Default,Elke,0,0,0,,Would you like to buy one?
+Dialogue: 0,0:14:12.37,0:14:14.00,Default,Sunraku,0,0,0,,Skill Grimoires?
+Dialogue: 0,0:14:14.00,0:14:17.09,Default,Elke,0,0,0,,And as my sister is so {\i1}very{\i0} fond of you...
+Dialogue: 0,0:14:17.09,0:14:19.88,Default,Elke,0,0,0,,I'll give you a discount.
+Dialogue: 0,0:14:19.88,0:14:21.76,Default,Sunraku,0,0,0,,You mean it? Awesome!
+Dialogue: 0,0:14:21.76,0:14:24.26,Default,Emul,0,0,0,,Do be cautious, Sunraku-san!
+Dialogue: 0,0:14:24.55,0:14:27.39,Default,Emul,0,0,0,,Despite appearances, Big Sister \NElke is quite a moneygru—
+Dialogue: 0,0:14:27.39,0:14:30.77,Default,Sunraku,0,0,0,,Wow, I can tell you're related! \NYour sister's fast, too.
+Dialogue: 0,0:14:32.85,0:14:34.27,Default,Sunraku,0,0,0,,Don't sweat it, Emul.
+Dialogue: 0,0:14:35.27,0:14:39.78,Default,Sunraku,0,0,0,,When it comes to merch you can only \Nbuy in special areas like this,
+Dialogue: 0,0:14:40.11,0:14:42.57,Default,Sunraku,0,0,0,,I'm always prepared to pay some high prices.
+Dialogue: 0,0:14:43.28,0:14:45.95,Default,Elke,0,0,0,,What a wise bird-man you are!
+Dialogue: 0,0:14:45.95,0:14:48.53,Default,Elke,0,0,0,,If I might ask, how much \Ndo you have to spend?
+Dialogue: 0,0:14:48.53,0:14:51.12,Default,Sunraku,0,0,0,,I've been having a fire \Nsale on materials lately,
+Dialogue: 0,0:14:51.12,0:14:53.33,Default,Sunraku,0,0,0,,so I've got about 80,000 mahni on-hand.
+Dialogue: 0,0:14:53.33,0:14:54.46,Default,Elke,0,0,0,,Gracious me!
+Dialogue: 0,0:14:54.46,0:14:58.00,Default,Elke,0,0,0,,You could easily afford these, then.
+Dialogue: 0,0:14:59.29,0:15:00.34,Default,Sunraku,0,0,0,,They're so expensive!
+Dialogue: 0,0:15:00.34,0:15:01.80,Default,Sunraku,0,0,0,,And this is with the discount?
+Dialogue: 0,0:15:01.80,0:15:03.92,Default,Sunraku,0,0,0,,Are you sure you got this right?
+Dialogue: 0,0:15:04.17,0:15:06.43,Default,Sunraku,0,0,0,,Hang on... are you ripping me off?
+Dialogue: 0,0:15:06.43,0:15:09.43,Default,Elke,0,0,0,,Well, what do you say?
+Dialogue: 0,0:15:09.64,0:15:18.44,Default,Elke,0,0,0,,Surely you're not {\i1}such{\i0} a fool as to \Nlet this special offer go, {\i1}are{\i0} you?
+Dialogue: 0,0:15:22.11,0:15:23.69,Default,Sunraku,0,0,0,,Th-Then...
+Dialogue: 0,0:15:24.32,0:15:30.16,Default,Sunraku,0,0,0,,I'll take the Vorpal Blade Tech... \NMoon's Reflection... if you please.
+Dialogue: 0,0:15:30.16,0:15:31.37,Default,Elke,0,0,0,,Why, thank you!
+Dialogue: 0,0:15:31.37,0:15:33.83,Default,Elke,0,0,0,,That'll be 80,000 mahni!
+Dialogue: 0,0:15:33.83,0:15:38.88,Default,Elke,0,0,0,,Thank you {\i1}so{\i0} much for your business!
+Dialogue: 0,0:15:41.92,0:15:43.84,Default,Sunraku,0,0,0,,I just couldn't say no.
+Dialogue: 0,0:15:44.26,0:15:47.05,Default,Emul,0,0,0,,Sunraku-san, are you all right?
+Dialogue: 0,0:15:47.05,0:15:51.05,Default,Sunraku,0,0,0,,I thought she was gonna tear \Nthe feathers off my head.
+Dialogue: 0,0:15:51.05,0:15:54.43,Default,Emul,0,0,0,,Why, Big Sister Elke would never...
+Dialogue: 0,0:15:54.81,0:15:56.39,Default,Emul,0,0,0,,Actually, she might.
+Dialogue: 0,0:15:56.73,0:16:01.65,Default,Sunraku,0,0,0,,I wanted to buy that waist \Narmor in Thirdrema, too...
+Dialogue: 0,0:16:01.98,0:16:05.36,Default,Sunraku,0,0,0,,I'll have to make some more money \Nbefore the Wethermon fight.
+Dialogue: 0,0:16:09.99,0:16:11.12,Default,Sunraku,0,0,0,,Hey, what time is it?
+Dialogue: 0,0:16:14.12,0:16:15.75,Default,Sunraku,0,0,0,,Whoa, just in time!
+Dialogue: 0,0:16:15.75,0:16:19.63,Default,Sunraku,0,0,0,,Who knows what they'd do to me \Nif I was late to another meeting?
+Dialogue: 0,0:16:19.96,0:16:21.84,Default,Sunraku,0,0,0,,Emul, open a gate!
+Dialogue: 0,0:16:21.84,0:16:23.05,Default,Emul,0,0,0,,Righty-o!
+Dialogue: 0,0:16:39.56,0:16:40.98,Default,Sunraku,0,0,0,,A fine evening to you.
+Dialogue: 0,0:16:42.48,0:16:44.44,Default,Pencilgon,0,0,0,,Oh, Sunraku-kun.
+Dialogue: 0,0:16:44.44,0:16:46.82,Default,Pencilgon,0,0,0,,You're actually on time for once.
+Dialogue: 0,0:16:47.65,0:16:49.82,Default,Oikatzo,0,0,0,,You have a good day or something?
+Dialogue: 0,0:16:49.82,0:16:51.99,Default,Pencilgon,0,0,0,,I wouldn't say that, exactly...
+Dialogue: 0,0:16:52.78,0:16:53.99,Default,Pencilgon,0,0,0,,But I've made up my mind.
+Dialogue: 0,0:16:53.99,0:16:55.08,Default,Sunraku,0,0,0,,About what?
+Dialogue: 0,0:16:55.54,0:17:00.54,Default,Pencilgon,0,0,0,,Regarding our fight against Wethermon \Nthe Tombguard in two weeks...
+Dialogue: 0,0:17:01.50,0:17:03.42,Default,Pencilgon,0,0,0,,There's just one problem.
+Dialogue: 0,0:17:03.42,0:17:04.67,Default,Oikatzo,0,0,0,,Problem?
+Dialogue: 0,0:17:04.67,0:17:07.38,Default,Sunraku,0,0,0,,What is it? We're both over level 50 now.
+Dialogue: 0,0:17:07.63,0:17:11.89,Default,Pencilgon,0,0,0,,Currently, the only ones who know \Nthe conditions to meet Wethermon
+Dialogue: 0,0:17:11.89,0:17:14.85,Default,Pencilgon,0,0,0,,are my clan, the Ashura Kai.
+Dialogue: 0,0:17:15.68,0:17:18.43,Default,Pencilgon,0,0,0,,They've been using the \Nunique monster system—
+Dialogue: 0,0:17:18.43,0:17:22.27,Default,Pencilgon,0,0,0,,the fact that you get experience \Njust for encountering them—
+Dialogue: 0,0:17:22.27,0:17:27.07,Default,Pencilgon,0,0,0,,to level up and build their PVP skills.
+Dialogue: 0,0:17:27.07,0:17:28.69,Default,Oikatzo,0,0,0,,Ashura Kai?
+Dialogue: 0,0:17:29.49,0:17:31.11,Default,Sunraku,0,0,0,,Those guys, huh?
+Dialogue: 0,0:17:31.74,0:17:36.99,Default,Oikatzo,0,0,0,,Unlike Lycagon, you can always meet \Nhim in a given time and place.
+Dialogue: 0,0:17:36.99,0:17:40.62,Default,Oikatzo,0,0,0,,Must be pretty ideal for grinding, huh?
+Dialogue: 0,0:17:40.62,0:17:43.13,Default,Pencilgon,0,0,0,,So the issue is...
+Dialogue: 0,0:17:43.13,0:17:47.55,Default,Sunraku,0,0,0,,On the night of the new moon, \Nwhen we fight Wethermon,
+Dialogue: 0,0:17:47.96,0:17:51.63,Default,Sunraku,0,0,0,,we'll end up at odds with the \Nmembers of the Ashura Kai
+Dialogue: 0,0:17:51.63,0:17:54.59,Default,Sunraku,0,0,0,,who've already accepted the \Nunique scenario. Right?
+Dialogue: 0,0:17:54.59,0:17:55.60,Default,Pencilgon,0,0,0,,Yes.
+Dialogue: 0,0:17:56.10,0:17:57.85,Default,Oikatzo,0,0,0,,But aren't you part of their clan?
+Dialogue: 0,0:17:58.10,0:18:00.39,Default,Oikatzo,0,0,0,,Can't you work together or something?
+Dialogue: 0,0:18:00.39,0:18:03.98,Default,Oikatzo,0,0,0,,Like... ask them to stand down this month?
+Dialogue: 0,0:18:03.98,0:18:05.15,Default,Pencilgon,0,0,0,,Not a chance.
+Dialogue: 0,0:18:05.15,0:18:07.86,Default,Pencilgon,0,0,0,,They're actively opposed \Nto defeating Wethermon.
+Dialogue: 0,0:18:09.44,0:18:12.03,Default,Sunraku,0,0,0,,I'm not sure I see where \Nyou're going with this.
+Dialogue: 0,0:18:12.03,0:18:16.20,Default,Sunraku,0,0,0,,What exactly is it you've \N"made up your mind" about?
+Dialogue: 0,0:18:24.29,0:18:26.29,Default,Pencilgon,0,0,0,,The Ashura Kai...
+Dialogue: 0,0:18:26.75,0:18:31.92,Default,Pencilgon,0,0,0,,are universally hated for \Ntheir player-killing habits.
+Dialogue: 0,0:18:31.92,0:18:33.63,Default,Sunraku,0,0,0,,I'll bet, yeah.
+Dialogue: 0,0:18:33.63,0:18:37.64,Default,Pencilgon,0,0,0,,And there was recently an \Nupdate that gives players
+Dialogue: 0,0:18:37.64,0:18:41.31,Default,Pencilgon,0,0,0,,who've done PKing a special sort of status.
+Dialogue: 0,0:18:41.31,0:18:43.19,Default,Oikatzo,0,0,0,,A special status?
+Dialogue: 0,0:18:43.69,0:18:47.15,Default,Pencilgon,0,0,0,,If a player kills a PKer,
+Dialogue: 0,0:18:47.52,0:18:49.19,Default,Pencilgon,0,0,0,,in addition to a bounty,
+Dialogue: 0,0:18:49.19,0:18:56.16,Default,Pencilgon,0,0,0,,they earn the right to any items and \Nequipment the PKer was carrying.
+Dialogue: 0,0:18:56.91,0:19:00.95,Default,Pencilgon,0,0,0,,All of it—including stuff \Nthey've got in storage.
+Dialogue: 0,0:19:01.20,0:19:02.50,Default,Sunraku,0,0,0,,Oh?
+Dialogue: 0,0:19:02.50,0:19:08.04,Default,Pencilgon,0,0,0,,High-level PKers like the Ashura Kai tend \Nto end up with some pretty rare items.
+Dialogue: 0,0:19:08.96,0:19:15.43,Default,Pencilgon,0,0,0,,Which makes PKers like us basically \Nwalking treasure chests.
+Dialogue: 0,0:19:17.05,0:19:20.56,Default,Pencilgon,0,0,0,,It's created a new class \Nof player—the PK Killer.
+Dialogue: 0,0:19:21.52,0:19:22.89,Default,Pencilgon,0,0,0,,Of course, we've found loopholes
+Dialogue: 0,0:19:22.89,0:19:27.77,Default,Pencilgon,0,0,0,,in the system to reduce the \Ndamage they can do to us,
+Dialogue: 0,0:19:27.77,0:19:31.82,Default,Pencilgon,0,0,0,,but someone could get around all \Nof that by attacking our hideout.
+Dialogue: 0,0:19:31.82,0:19:33.32,Default,Sunraku,0,0,0,,Your hideout?
+Dialogue: 0,0:19:33.32,0:19:36.20,Default,Sunraku,0,0,0,,Hang on. So the thing you \Nmade up your mind about...
+Dialogue: 0,0:19:36.20,0:19:37.74,Default,Oikatzo,0,0,0,,You mean...
+Dialogue: 0,0:19:38.57,0:19:39.87,Default,Pencilgon,0,0,0,,That's right.
+Dialogue: 0,0:19:39.87,0:19:44.08,Default,Pencilgon,0,0,0,,Naturally, I know just where that hideout is.
+Dialogue: 0,0:19:44.41,0:19:48.88,Default,Pencilgon,0,0,0,,And that gang of cowards is just \Na thorn in my side at this point.
+Dialogue: 0,0:19:49.42,0:19:50.54,Default,Pencilgon,0,0,0,,So...
+Dialogue: 0,0:19:50.96,0:19:54.26,Default,Pencilgon,0,0,0,,I was thinking we'd go squash the Ashura Kai.
+Dialogue: 0,0:21:48.83,0:21:52.87,Default,Narrator,0,0,0,,The fully immersive VR game, \N{\i0}Shangri-La Frontier{\i1}...
+Dialogue: 0,0:21:54.29,0:21:57.92,Default,Narrator,0,0,0,,Its major summer update has finally arrived.
+Dialogue: 0,0:22:09.22,0:22:12.89,Default,Narrator,0,0,0,,Yes. And on the night of this major update,
+Dialogue: 0,0:22:16.11,0:22:19.86,Default,Narrator,0,0,0,,Sunraku and his party will take \Non Wethermon the Tombguard.

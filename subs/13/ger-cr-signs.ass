@@ -1,0 +1,67 @@
+﻿[Script Info]
+Title: Deutsch
+ScaledBorderAndShadow: yes
+Original Script: cr_de  [http://www.crunchyroll.com/user/cr_de]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+LayoutResX: 1920
+LayoutResY: 1080
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: TypePlaceholder,Arial Bold,66,&H00200960,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,6,0,8,30,30,60,1
+Style: TypePlaceholderBox,Arial Bold,66,&H00200960,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,3,6,0,8,30,30,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:02:12.45,0:02:16.99,TypePlaceholder,,0,0,0,,{\an1\fnVerdana Bold\fscx90\shad6\fs+1\b1\fsp3\c&HFFFFFF&\4c&HC6951D&\bord0\fad(284,0)\3c&HC6951D&\pos(411.78,904.32)}Nichts als {\fnGeorgia Bold\bord3\fscx100\c&HC6951D&\3c&HFFFFFF&\4c&HFFFFFF&\alpha&HFF&\t(326,493,\alpha&H00&)}Bedauern {\fnVerdana Bold\fscx90\c&HFFFFFF&\4c&HC6951D&\bord0\alpha&HFF&\t(535,1327,\alpha&H00&)}gibt es {\alpha&HFF&\t(1494,1786,\alpha&H00&)}dort
+Dialogue: 0,0:02:23.16,0:02:25.75,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\fsp6\fad(492,0)\an2\c&HFEFFFD&\fs-2\3c&H9F881B&\pos(978,864)}Bunt schillernde Waldgrotte
+Dialogue: 1,0:05:06.12,0:05:08.75,TypePlaceholder,,0,0,0,,{\fnImpact\fad(205,0)\b0\fsp6\bord6\fscx110\pos(517.5,859.5)\c&HE089FC&\3c&HF2C6FF&}Setsuna ferner Tage
+Dialogue: 2,0:05:06.12,0:05:08.75,TypePlaceholder,,0,0,0,,{\fnImpact\fad(205,0)\b0\fsp6\bord3\fscx110\pos(517.5,859.5)\c&HE089FC&\3c&H8743B6&}Setsuna ferner Tage
+Dialogue: 0,0:05:24.14,0:05:27.64,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\bord9\fad(536,503)\fs+1\c&HF0FEF9&\3c&H2C160E&}Das Epos der Killerkaninchen\N{\fnTimes New Roman BOLD\fs-2\c&HF2E4DD&}Wenn der Geist des göttlichen Zeitalters erbebt,\Nwird jener Hase das Epos erzählen.\N{\fs+1\fnTahoma\b0\c&HFAEE96&}Empfohlenes Level: {\fnImpact\b0\c&HBF9014&\3c&HFEE371&\bord4.5\fsp9}80
+Dialogue: 0,0:07:05.03,0:07:09.20,TypePlaceholderBox,,0,0,0,,{\fnVerdana\b0\fs-2\bord3\fad(200,0)\c&H381C18&\3c&HEBFEFF&\pos(373.5,64.5)}Einzigartiges Szenario EX
+Dialogue: 0,0:07:05.03,0:07:09.20,TypePlaceholder,,0,0,0,,{\fad(200,0)\pos(373.5,136.5)\fnVerdana Bold\fs-1\bord9\c&HEBFEFF&\3c&H311917&}Vom Diesseits ans\NJenseits, mit Liebe\N{\fnTahoma\b0\c&HF3EAE6&}starten?
+Dialogue: 0,0:07:09.95,0:07:11.45,TypePlaceholder,,0,0,0,,{\pos(558,604.5)\org(558,604.5)\fry-180\fnVerdana Bold\xbord0\ybord0\c&HF6F6D6&\fad(100,0)\fs+1}Ja
+Dialogue: 0,0:07:09.95,0:07:11.45,TypePlaceholder,,0,0,0,,{\pos(1366.5,604.5)\org(1366.5,604.5)\fry-180\fnVerdana Bold\xbord0\ybord0\c&HE3D7FF&\fad(100,0)\fs+1}Nein
+Dialogue: 0,0:07:15.96,0:07:18.21,TypePlaceholder,,0,0,0,,{\pos(372,624)\org(372,624)\fscx99.302\fscy97.035\frz50.486\fry5.46\frx-1.383\fax-0.729\fnVerdana Bold\xbord0\ybord0\c&HE1E7F8&}Nein
+Dialogue: 0,0:07:15.96,0:07:18.21,TypePlaceholder,,0,0,0,,{\pos(610.5,322.5)\org(610.5,322.5)\fscx99.302\fscy97.035\frz50.486\fry5.46\frx-1.383\fax-0.929\fnVerdana Bold\xbord0\ybord0\c&HF8FFE1&}Ja
+Dialogue: 0,0:07:18.21,0:07:18.67,TypePlaceholder,,0,0,0,,{\fnTahoma\fad(0,200)\b0\c&HF3EAE6&\bord9\fs-1\3c&H311917&\pos(960,250.5)}starten?
+Dialogue: 0,0:07:18.21,0:07:20.67,TypePlaceholderBox,,0,0,0,,{\fnVerdana\b0\fs-2\bord3\fad(0,200)\c&H381C18&\3c&HEBFEFF&\pos(960,60)}Einzigartiges Szenario EX
+Dialogue: 0,0:07:18.21,0:07:20.67,TypePlaceholder,,0,0,0,,{\fad(0,200)\fnVerdana Bold\fs-1\bord9\c&HEBFEFF&\3c&H311917&\pos(960,132)}Vom Diesseits ans\NJenseits, mit Liebe
+Dialogue: 0,0:07:18.75,0:07:20.67,TypePlaceholder,,0,0,0,,{\fad(0,200)\fnTahoma\b0\c&HF3EAE6&\bord9\fs-1\3c&H311917&\pos(960,250.5)}gestartet.
+Dialogue: 0,0:10:36.66,0:10:38.41,TypePlaceholder,,0,0,0,,{\fnGeorgia Bold\fad(161,0)\an5\fs+3\pos(960,760.5)\c&H000000&\t(370,0,\fscx105\fscy105)}Unterwürfige Pose
+Dialogue: 0,0:13:21.91,0:13:23.62,TypePlaceholder,,0,0,0,,{\fnTahoma\b0\c&HC9CBC7&\3c&H4F5E40&\bord3\fs+2\an2\frx346\fry358\move(964.5,127.5,964.5,142.5,25,1693)}Sunraku
+Dialogue: 0,0:13:51.19,0:13:53.40,TypePlaceholderBox,,0,0,0,,{\fnVerdana Bold\fad(451,0)\c&HFAFCFC&\3c&H855A38&\fs-1\pos(1651.5,834)}\hEika Hizutome\h
+Dialogue: 0,0:13:51.19,0:13:53.40,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\fad(316,0)\c&H855A38&\3c&HC6961F&\fs-1\4c&HFAFCFC&\bord0\shad6\pos(1654.5,915)}Rakuros Mutter\NInsektenfan
+Dialogue: 0,0:14:17.96,0:14:20.42,TypePlaceholderBox,,0,0,0,,{\fnVerdana Bold\fad(451,0)\c&HFFFEFE&\3c&HC5009A&\fs-1\pos(1636.5,790.5)}\hRumi Hizutome\h
+Dialogue: 0,0:14:17.96,0:14:20.42,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\fad(316,0)\c&HC5009A&\3c&HFFFEFE&\fs-1\4c&HFAFCFC&\bord0\shad6\pos(1639.5,871.5)}Rakuros\Nkleine Schwester\NHardcore-Modefan
+Dialogue: 0,0:14:22.93,0:14:24.93,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\bord0\c&H170F0B&\fs-2.5\an2\pos(769.5,1024.5)\frz33.15}Towa Amane
+Dialogue: 0,0:15:44.97,0:15:47.68,TypePlaceholderBox,,0,0,0,,{\fnVerdana Bold\fad(451,0)\c&HFFFEFF&\3c&H37754C&\fs-1\pos(1510.5,771)}\hSenji Hizutome\h
+Dialogue: 0,0:15:44.97,0:15:47.68,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\fad(316,0)\c&H37754C&\3c&HFFFEFE&\fs-1\4c&HFFFEFF&\bord0\shad6\pos(1513.5,852)}Rakuros Vater\NLiebt Fischen mehr\Nals drei Mahlzeiten am Tag
+Dialogue: 0,0:17:44.54,0:17:48.55,TypePlaceholder,,0,0,0,,{\fnTrebuchet MS bold\bord4.5\c&H362F89&\3c&HE0F1FF&}Sunraku
+Dialogue: 0,0:17:53.05,0:17:59.81,TypePlaceholder,,0,0,0,,{\fnTrebuchet MS bold\bord3\fs-4\c&H362F89&\3c&HE0F1FF&\pos(937.5,111)}Sunraku
+Dialogue: 0,0:18:00.06,0:18:02.56,TypePlaceholder,,0,0,0,,{\fnTrebuchet MS bold\bord4.5\c&H362F89&\3c&HE0F1FF&}Sunraku
+Dialogue: 0,0:18:02.56,0:18:09.82,TypePlaceholder,,0,0,0,,{\fnTrebuchet MS bold\bord4.5\c&H362F89&\3c&HE0F1FF&\pos(696,34.5)}Dragonfly               Sunraku
+Dialogue: 0,0:18:09.82,0:18:13.20,TypePlaceholder,,0,0,0,,{\fnTrebuchet MS bold\bord10.5\fs+3\c&H202078&\3c&HE2F0F0&}Dragonfly
+Dialogue: 0,0:18:23.33,0:18:26.71,TypePlaceholder,,0,0,0,,{\fnTrebuchet MS bold\bord4.5\c&H362F89&\3c&HE0F1FF&\pos(1209,84)}Sunraku
+Dialogue: 0,0:18:32.13,0:18:33.55,TypePlaceholder,,0,0,0,,{\pos(532.5,535.5)\org(532.5,535.5)\fscy100\frz14.3\fry-180\frx0\fax0\fnGeorgia Bold\xbord2.4\ybord2.4\xshad3.9\yshad3.9\c&H271996&\3c&HB0B9E2&\4c&H000000&\fad(161,0)\fs+2}Match-Anfrage
+Dialogue: 0,0:18:33.55,0:18:36.05,TypePlaceholder,,0,0,0,,{\pos(532.5,535.5)\org(532.5,535.5)\fscx100\fscy100\frz14.3\fry-180\frx0\fax0\fnGeorgia Bold\xbord2.4\ybord2.4\xshad3.9\yshad3.9\c&H5C9036&\3c&HB8F394&\4c&H000000&\fad(0,379)\t(1120,1287,\fry0\frz-14.3)\fs+2}Annehmen
+Dialogue: 0,0:18:50.98,0:18:54.32,TypePlaceholder,,0,0,0,,{\fnGeorgia Bold\bord21\c&H2C199C&\fs-1\3c&H3D424C&\shad6\an2\t(41,1292,\fscx140\fscy140\fry2880)\t(1292,0,\fscx200\fscy200)\4c&H3D424C&\move(961.5,387,961.5,300,23,3336)}Kampf beginnt\NRunde 1
+Dialogue: 0,0:18:50.98,0:18:54.32,TypePlaceholder,,0,0,0,,{\fnGeorgia Bold\bord16.8\c&H2C199C&\fs-1\3c&HB9B9B9&\an2\t(41,1292,\fscx140\fscy140\fry2880)\t(1292,0,\fscx200\fscy200)\move(961.5,387,961.5,300,23,3336)}Kampf beginnt\NRunde 1
+Dialogue: 0,0:18:50.98,0:18:54.32,TypePlaceholder,,0,0,0,,{\fnGeorgia Bold\bord7.8\c&H2C199C&\fs-1\3c&H3D424C&\an2\t(41,1292,\fscx140\fscy140\fry2880)\t(1292,0,\fscx200\fscy200)\move(961.5,387,961.5,300,23,3336)}Kampf beginnt\NRunde 1
+Dialogue: 0,0:18:50.98,0:18:54.32,TypePlaceholder,,0,0,0,,{\fnGeorgia Bold\bord3.6\c&H2C199C&\fs-1\3c&HD6D9EE&\an2\t(41,1292,\fscx140\fscy140\fry2880)\t(1292,0,\fscx200\fscy200)\move(961.5,387,961.5,300,23,3193)}Kampf beginnt\NRunde 1
+Dialogue: 0,0:20:19.20,0:20:22.49,TypePlaceholder,,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\pos(960,45)}Übersetzung: Markus Lange
+Dialogue: 0,0:20:19.20,0:20:22.49,TypePlaceholder,,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\an2\pos(960,1035)}Spotting: Michael Gohl
+Dialogue: 0,0:20:22.49,0:20:25.83,TypePlaceholder,,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\pos(960,45)}Revision & Typesetting: Jacqueline Philippi
+Dialogue: 0,0:20:22.49,0:20:25.83,TypePlaceholder,,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\an2\pos(960,1035)}Qualitätskontrolle: Konrad Walter
+Dialogue: 0,0:20:25.83,0:20:28.71,TypePlaceholder,,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\pos(960,45)}Projektleitung: Tobias Philippi
+Dialogue: 0,0:21:43.41,0:21:46.62,TypePlaceholder,,0,0,0,,{\fnGeorgia bold\i1\fs-3\c&H252C2B&\an2\bord0\fad(0,0)\frz1.514\move(582,736.5,582,822,26,3195)}Stetiger\NFortschritt
+Dialogue: 0,0:21:47.62,0:21:52.37,TypePlaceholder,,0,0,0,,{\fnGeorgia bold\i1\fs-4\c&H252C2B&\an2\bord0\fad(0,0)\pos(277.5,654)}Stetiger\NFortschritt
+Dialogue: 0,0:22:02.63,0:22:13.65,TypePlaceholder,,0,0,0,,{\fnGeorgia bold\i1\fs-4\c&H252C2B&\an2\bord0\fad(0,0)\pos(277.5,654)}Stetiger\NFortschritt
+Dialogue: 0,0:22:57.98,0:23:05.24,TypePlaceholder,,0,0,0,,{\fnComic Sans MS Bold\fs+4\bord0\shad6\fs+6\c&H7CEDEF&\4c&H51CBDA&\pos(960,9)}Sh{\c&HC297F0&\4c&H966CD6&}a{\c&H679FF8&\4c&H3171D7&}n{\c&HDE72BD&\4c&HB64897&}F{\c&H5B63E6&\4c&H484FC2&}ro
+Dialogue: 0,0:23:01.78,0:23:05.24,TypePlaceholder,,0,0,0,,{\fnComic Sans MS Bold\fad(493,0)\fs+4\fax-0.15\an3\c&HFAFFFE&\3c&H376777&\4c&H1C3F4D&\shad3.9\bord3.9\pos(1831.5,859.5)}#18 Weihnachtsgrüße
+Dialogue: 0,0:23:02.36,0:23:05.24,TypePlaceholder,,0,0,0,,{\c&H515655&\fnComic Sans MS Bold\fad(333,0)\fs+2\bord0\frz43.99\pos(1447.5,118.5)}Mini
+Dialogue: 0,0:23:05.24,0:23:48.28,TypePlaceholder,,0,0,0,,{\fnComic Sans MS bold\fad(0,0)\fs+2\fax-0.15\an9\c&HF9FFFC&\3c&H516985&\4c&H0A2141&\shad3.9\bord3.9\pos(1831.5,109.5)}ShanFro-Theater

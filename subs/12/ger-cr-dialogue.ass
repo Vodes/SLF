@@ -1,0 +1,334 @@
+﻿[Script Info]
+Title: Deutsch
+ScaledBorderAndShadow: yes
+Original Script: cr_de  [http://www.crunchyroll.com/user/cr_de]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+LayoutResX: 1920
+LayoutResY: 1080
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+Style: Alt,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00743E15,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+Style: Flashback,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00013E12,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.90,0:00:06.57,Default,Erzählerin,0,0,0,,Auf dieser Welt gibt es\Nunzählige Videospiele.
+Dialogue: 0,0:00:07.99,0:00:12.37,Default,Erzählerin,0,0,0,,Doch die meisten davon gehen unter,\Nohne je bekannt gewesen zu sein.
+Dialogue: 0,0:00:13.66,0:00:16.50,Default,Erzählerin,0,0,0,,An der Spitze dieser Spiele steht
+Dialogue: 0,0:00:16.50,0:00:21.75,Default,Erzählerin,0,0,0,,das Full-Dive-VR-Game mit einer\Nweltweiten Spielerzahl von über 30 Millionen,
+Dialogue: 0,0:00:21.75,0:00:26.42,Default,Erzählerin,0,0,0,,das es absolut verdient, als Meisterwerk\Nbezeichnet zu werden: Shangri-La Frontier.
+Dialogue: 0,0:00:28.01,0:00:31.93,Default,Erzählerin,0,0,0,,Rakuro Hizutome, ein Junge,\Nder Trash-Games über alles liebt,
+Dialogue: 0,0:00:31.93,0:00:35.18,Default,Erzählerin,0,0,0,,wagt sich an das Meisterwerk\NShangri-La Frontier.
+Dialogue: 0,0:00:35.93,0:00:40.73,Default,Erzählerin,0,0,0,,Welche Abenteuer werden ihn\Nauf seinem Weg wohl erwarten?
+Dialogue: 0,0:02:14.78,0:02:17.74,Default,Pencil Warrior,0,0,0,,{\an8}Dann lasst uns mal Kriegsrat halten.
+Dialogue: 0,0:02:18.16,0:02:20.87,Default,Pencil Warrior,0,0,0,,Problem Nummer eins\Nbeim Kampf gegen Wezaemon:
+Dialogue: 0,0:02:21.41,0:02:23.12,Default,Pencil Warrior,0,0,0,,Direkt zu Beginn des Kampfes …
+Dialogue: 0,0:02:23.54,0:02:27.84,Default,Pencil Warrior,0,0,0,,wird ein Skill aktiviert,\Nder das Maximallevel im Kampfgebiet
+Dialogue: 0,0:02:27.84,0:02:31.42,Default,Pencil Warrior,0,0,0,,für alle außer Wezaemon auf 50 setzt.
+Dialogue: 0,0:02:31.42,0:02:33.34,Default,Katso Tataki,0,0,0,,Maximallevel 50?!
+Dialogue: 0,0:02:33.34,0:02:36.26,Default,Sunraku,0,0,0,,Das meintest du also mit\N„Euer Level ist kein Problem“?!
+Dialogue: 0,0:02:37.47,0:02:39.56,Default,Pencil Warrior,0,0,0,,Wezaemon ist Level 200.
+Dialogue: 0,0:02:39.56,0:02:41.18,Default,Katso Tataki,0,0,0,,200?!
+Dialogue: 0,0:02:41.18,0:02:44.48,Default,Pencil Warrior,0,0,0,,Es wird also ein Unterschied\Nvon 150 Leveln erzwungen.
+Dialogue: 0,0:02:44.48,0:02:47.36,Default,Pencil Warrior,0,0,0,,Genau darum\Nist Spieler-Skill der Schlüssel.
+Dialogue: 0,0:02:48.86,0:02:51.94,Default,Pencil Warrior,0,0,0,,Das kommt euch Low-Levels\Ndoch entgegen, oder?
+Dialogue: 0,0:02:52.86,0:02:56.70,Default,Pencil Warrior,0,0,0,,Dann müsst ihr nicht\Nbis zur Levelobergrenze grinden.
+Dialogue: 0,0:02:58.91,0:02:59.70,Default,Pencil Warrior,0,0,0,,Trotzdem …
+Dialogue: 0,0:03:00.45,0:03:03.83,Default,Pencil Warrior,0,0,0,,steht außer Frage, dass ihr\Nmindestens Level 50 sein solltet.
+Dialogue: 0,0:03:05.62,0:03:08.29,Default,Pencil Warrior,0,0,0,,{\an8}Also levelt schön fleißig, okay?
+Dialogue: 0,0:03:10.00,0:03:11.84,Default,Sunraku,0,0,0,,Level 50, ja?
+Dialogue: 0,0:03:11.84,0:03:14.59,Default,Sunraku,0,0,0,,In diesen Eisenruinen\Ndes Göttlichen Zeitalters
+Dialogue: 0,0:03:14.59,0:03:17.64,Default,Sunraku,0,0,0,,soll es einen geheimen Bereich geben,\Nin dem man optimal leveln kann.
+Dialogue: 0,0:03:17.64,0:03:20.22,Default,Sunraku,0,0,0,,Aber wie lang das wohl dauern wird?
+Dialogue: 0,0:03:20.56,0:03:23.22,Default,Oikatso,0,0,0,,Das wissen wir erst,\Nwenn wir es ausprobieren.
+Dialogue: 0,0:03:37.49,0:03:39.78,Default,Oikatso,0,0,0,,Kommt mir wie ein ganz anderes Spiel vor.
+Dialogue: 0,0:03:39.78,0:03:42.91,Default,Emul,0,0,0,,Diese schwarzen Tafeln schweben ja!
+Dialogue: 0,0:03:43.58,0:03:47.87,Default,Sunraku,0,0,0,,Solche sich bewegenden Objekte verhalten\Nsich witzig, wenn sie verbuggt sind.
+Dialogue: 0,0:03:48.29,0:03:53.38,Default,Oikatso,0,0,0,,Wasch dir mal den Trash-Game-Filter\Naus den Augen, durch den du alles siehst.
+Dialogue: 0,0:03:53.38,0:03:57.34,Default,Oikatso,0,0,0,,Aber diese Atmosphäre kommt mir\Nirgendwoher bekannt vor.
+Dialogue: 0,0:03:57.34,0:04:00.26,Default,Oikatso,0,0,0,,Das ist das Endbosslevel\Naus „Brave Galaxy Fighter“!
+Dialogue: 0,0:04:00.26,0:04:02.26,Default,Sunraku,0,0,0,,Das Spiel kenn ich nicht.
+Dialogue: 0,0:04:02.26,0:04:06.77,Default,Oikatso,0,0,0,,Das ist ein weltweit gefeiertes,\Nmonumentales Sci-Fi-Prügelspiel …
+Dialogue: 0,0:04:07.35,0:04:10.44,Default,Sunraku,0,0,0,,Als ob ich so ein Meisterwerk\Nkennen würde.
+Dialogue: 0,0:04:10.44,0:04:14.03,Default,Sunraku,0,0,0,,Übrigens, Katso, welches Level bist du?
+Dialogue: 0,0:04:14.03,0:04:17.15,Default,Oikatso,0,0,0,,Level? 25.
+Dialogue: 0,0:04:17.15,0:04:21.99,Default,Sunraku,0,0,0,,Ach, herrje,\Nnoch in den Zwanzigern, ja? So jung.
+Dialogue: 0,0:04:21.99,0:04:24.20,Default,Sunraku,0,0,0,,Ich bin 31, so ganz nebenbei.
+Dialogue: 0,0:04:25.45,0:04:27.96,Default,Oikatso,0,0,0,,Das ist ja wohl kein großer Unterschied!
+Dialogue: 0,0:04:27.96,0:04:32.08,Default,Emul,0,0,0,,Du machst dir also Sorgen,\Ndass Oikatso schwach und hilflos sein könnte?
+Dialogue: 0,0:04:32.08,0:04:33.92,Default,Sunraku,0,0,0,,Du bist so schlau, Emul.
+Dialogue: 0,0:04:33.92,0:04:37.42,Default,Oikatso,0,0,0,,Blödsinn! Jetzt hat sie\Nein falsches Bild von mir!
+Dialogue: 0,0:04:38.55,0:04:39.93,Default,Emul,0,0,0,,Sunraku!
+Dialogue: 0,0:04:40.59,0:04:42.43,Default,Emul,0,0,0,,Da kommt was auf uns zu!
+Dialogue: 0,0:04:49.69,0:04:53.31,Default,Sunraku,0,0,0,,Unter den schwebenden Tafeln\Nsind also auch Gegner?
+Dialogue: 0,0:04:53.31,0:04:56.53,Default,Oikatso,0,0,0,,Du kannst dich zurücklehnen, Sunraku.
+Dialogue: 0,0:05:00.40,0:05:02.62,Default,Oikatso,0,0,0,,Das Besondere an ShanFro ist doch,
+Dialogue: 0,0:05:03.41,0:05:06.33,Default,Oikatso,0,0,0,,dass man selbst\Nmit niedrigem Level eine Chance hat!
+Dialogue: 0,0:05:06.33,0:05:08.87,Default,Emul,0,0,0,,Bist du sicher,\Ndass du nicht helfen willst?!
+Dialogue: 0,0:05:08.87,0:05:10.79,Default,Sunraku,0,0,0,,Ach, das passt schon.
+Dialogue: 0,0:05:12.17,0:05:14.25,Default,Oikatso,0,0,0,,„Abwehrkonter“!
+Dialogue: 0,0:05:15.55,0:05:19.42,Default,Oikatso,0,0,0,,Ziemlich einfache Bewegungen.\NIst das ein Gegner für Konterübungen?
+Dialogue: 0,0:05:20.17,0:05:22.55,Default,Oikatso,0,0,0,,„Schmetternder Aufwärtshaken“!
+Dialogue: 0,0:05:22.89,0:05:24.60,Default,Sunraku,0,0,0,,Ooh, mit einem Schlag!
+Dialogue: 0,0:05:24.60,0:05:26.81,Default,Emul,0,0,0,,Sie ist ja total stark!
+Dialogue: 0,0:05:27.68,0:05:30.06,Default,Sunraku,0,0,0,,Ist diese rote Aura irgendein Buff?
+Dialogue: 0,0:05:30.06,0:05:31.10,Default,Oikatso,0,0,0,,{\an8}Ja.
+Dialogue: 0,0:05:31.10,0:05:33.90,Default,Oikatso,0,0,0,,{\an8}Er gibt einen Bonus\Nauf Stärke und Vitalität.
+Dialogue: 0,0:05:33.90,0:05:36.32,Default,Oikatso,0,0,0,,{\an8}Ein Zauber namens\N„Geisterfaust: Roter Impuls“.
+Dialogue: 0,0:05:41.57,0:05:43.99,Default,Oikatso,0,0,0,,{\an8}Mein Beruf ist Mönch,\NGeisterfaust-Anwender.
+Dialogue: 0,0:05:43.99,0:05:48.33,Default,Oikatso,0,0,0,,{\an8}Ich kann keine Waffen ausrüsten, dafür aber\Nmeine Fäuste ständig mit Buffs verstärken.
+Dialogue: 0,0:05:48.70,0:05:49.70,Default,Sunraku,0,0,0,,Wie hast du geskillt?
+Dialogue: 0,0:05:50.12,0:05:52.46,Default,Oikatso,0,0,0,,Einiges auf LP und Vitalität.
+Dialogue: 0,0:05:53.12,0:05:56.63,Default,Oikatso,0,0,0,,So eine Art Leichter-Krieger-\NBuild, schätze ich.
+Dialogue: 0,0:05:57.84,0:06:02.09,Default,Sunraku,0,0,0,,{\i1}Ein Build, der davon ausgeht,\Ndass man ein wenig Schaden nimmt, was?
+Dialogue: 0,0:06:02.76,0:06:07.60,Default,Sunraku,0,0,0,,„Töte, bevor du getötet wirst.“ Ein typischer\NGedanke für einen Prügelspiel-Gamer wie dich.
+Dialogue: 0,0:06:07.93,0:06:09.27,Default,Sunraku,0,0,0,,Ich hab übrigens …
+Dialogue: 0,0:06:09.27,0:06:11.10,Default,Oikatso,0,0,0,,Brauchst es gar nicht zu sagen.
+Dialogue: 0,0:06:11.10,0:06:15.35,Default,Oikatso,0,0,0,,Eh alles auf Stärke und Agilität\Nsowie hauchdünne Rüstung, oder?
+Dialogue: 0,0:06:15.35,0:06:21.07,Default,Sunraku,0,0,0,,Falsch! Ich bin ein Glückskrieger,\Nhab alles in Agilität und Glück gesteckt!
+Dialogue: 0,0:06:21.07,0:06:23.70,Default,Oikatso,0,0,0,,Das kommt doch aufs Gleiche raus.
+Dialogue: 0,0:06:23.70,0:06:26.24,Default,Emul,0,0,0,,Die volle Dröhnung Killergeist!
+Dialogue: 0,0:06:26.24,0:06:29.41,Default,Oikatso,0,0,0,,Killergeist? Was ist das?
+Dialogue: 0,0:06:29.41,0:06:32.75,Default,Emul,0,0,0,,Killergeist ist Killergeist!
+Dialogue: 0,0:06:33.96,0:06:39.25,Default,Sunraku,0,0,0,,Ähm … Von der nächsten Etage aus\Ngelangt man wohl in den Geheimbereich.
+Dialogue: 0,0:06:43.51,0:06:47.93,Default,Sunraku,0,0,0,,Links an der Platte mit\Ndem Loch in der Mitte vorbei.
+Dialogue: 0,0:06:54.31,0:06:56.27,Default,Sunraku,0,0,0,,Über die Spalte springen.
+Dialogue: 0,0:07:02.61,0:07:05.32,Default,Sunraku,0,0,0,,Auf die an allen Seiten\Nabgebrochene Platte.
+Dialogue: 0,0:07:08.57,0:07:11.79,Default,Sunraku,0,0,0,,Dann in den Raum\Nzwischen U2 und U3 begeben.
+Dialogue: 0,0:07:17.96,0:07:19.67,Default,Sunraku,0,0,0,,Und weiter geradeaus gehen.
+Dialogue: 0,0:07:24.26,0:07:26.97,Default,Sunraku,0,0,0,,Wahnsinn, wer findet so was?!
+Dialogue: 0,0:07:26.97,0:07:30.81,Default,Sunraku,0,0,0,,Wie muss man drauf sein,\Num solche Wege zu entdecken?
+Dialogue: 0,0:07:31.14,0:07:34.27,Default,Oikatso,0,0,0,,Ich mein, war das nicht Pencilgon?
+Dialogue: 0,0:07:34.27,0:07:37.31,Default,Oikatso,0,0,0,,Wundert mich so gar nicht bei ihr.
+Dialogue: 0,0:07:37.31,0:07:39.98,Default,Emul,0,0,0,,Das ist wie ein Labyrinth.
+Dialogue: 0,0:07:39.98,0:07:43.69,Default,Sunraku,0,0,0,,Als Letztes durch das Loch springen, ja?
+Dialogue: 0,0:07:48.32,0:07:50.49,Default,Emul,0,0,0,,Man kann den Boden nicht sehen.
+Dialogue: 0,0:07:50.87,0:07:55.91,Default,Oikatso,0,0,0,,Das wird doch kein Streich sein,\Nmit dem sie uns auf Umwegen töten will,
+Dialogue: 0,0:07:55.91,0:07:58.33,Default,Oikatso,0,0,0,,oder etwa doch?
+Dialogue: 0,0:07:58.33,0:08:02.17,Default,Sunraku,0,0,0,,Wenn ja, wird diese Pencil-Frau das büßen.
+Dialogue: 0,0:08:02.17,0:08:07.55,Default,Emul,0,0,0,,Buße! Pap… Der Chef sagt auch,\Ndass Buße tun wichtig ist!
+Dialogue: 0,0:08:07.55,0:08:09.18,Default,Oikatso,0,0,0,,Ganz genau.
+Dialogue: 0,0:08:09.64,0:08:12.47,Default,Oikatso,0,0,0,,Wir wissen nicht, was dort unten ist,
+Dialogue: 0,0:08:12.47,0:08:17.10,Default,Oikatso,0,0,0,,und ich kann den kaum gepanzerten Sunraku\Nja nicht als Erstes gehen lassen.
+Dialogue: 0,0:08:17.10,0:08:18.06,Default,Emul,0,0,0,,Hä?
+Dialogue: 0,0:08:18.06,0:08:20.56,Default,Oikatso,0,0,0,,Dann werd ich mich da mal umsehen!
+Dialogue: 0,0:08:20.56,0:08:21.65,Default,Sunraku,0,0,0,,Danke.
+Dialogue: 0,0:08:24.28,0:08:27.24,Default,Emul,0,0,0,,Sie ist nicht nur nett,\Nsondern auch stark und mutig!
+Dialogue: 0,0:08:27.24,0:08:30.03,Default,Emul,0,0,0,,Was für eine coole Frau!
+Dialogue: 0,0:08:30.03,0:08:30.66,Default,Sunraku,0,0,0,,Hm?
+Dialogue: 0,0:08:32.49,0:08:34.33,Default,Sunraku,0,0,0,,Aaah!
+Dialogue: 0,0:08:34.83,0:08:36.54,Default,Sunraku,0,0,0,,Er ist ’n Mann, weißt du?
+Dialogue: 0,0:08:36.54,0:08:37.33,Default,Emul,0,0,0,,Hä?
+Dialogue: 0,0:08:37.96,0:08:42.67,Default,Sunraku,0,0,0,,Ich mein, innerlich … Nein … Äh, kurzum,
+Dialogue: 0,0:08:42.67,0:08:45.84,Default,Sunraku,0,0,0,,er sieht aus wie eine Frau,\Naber in ihm steckt die Seele eines Mannes.
+Dialogue: 0,0:08:45.84,0:08:46.84,Default,Emul,0,0,0,,Hm?
+Dialogue: 0,0:08:47.97,0:08:50.47,Default,Emul,0,0,0,,Waaaas?!
+Dialogue: 0,0:08:50.47,0:08:54.22,Default,Emul,0,0,0,,D-Das Leben steckt voller Mysterien!
+Dialogue: 0,0:08:54.22,0:08:56.47,Default,Sunraku,0,0,0,,Die Welt ist groß.
+Dialogue: 0,0:08:56.89,0:08:58.85,Default,Oikatso,0,0,0,,{\fs-2}… Memme!
+Dialogue: 0,0:08:57.39,0:08:58.23,Default,Sunraku,0,0,0,,Hm?
+Dialogue: 0,0:09:00.69,0:09:02.27,Default,Sunraku,0,0,0,,Hat er was gesagt?
+Dialogue: 0,0:09:02.27,0:09:04.40,Default,Oikatso,0,0,0,,{\fs-2}Komm endlich, du Memme!
+Dialogue: 0,0:09:04.40,0:09:08.49,Default,Sunraku,0,0,0,,Ich kann’s nicht verstehen.\NWar jedenfalls kein mörderischer Streich.
+Dialogue: 0,0:09:08.49,0:09:11.99,Default,Emul,0,0,0,,Er sagt: „Komm endlich, du Memme“.
+Dialogue: 0,0:09:14.49,0:09:18.75,Default,Sunraku,0,0,0,,Wie du willst!\NIch mach dich kalt, du Penner!
+Dialogue: 0,0:09:15.70,0:09:24.00,Default,Emul,0,0,0,,{\an8}Wa… Halt! Ich bin mental nicht bereeeeit!
+Dialogue: 0,0:09:29.47,0:09:31.01,Default,Oikatso,0,0,0,,Da seid ihr ja.
+Dialogue: 0,0:09:31.34,0:09:34.51,Default,Oikatso,0,0,0,,Es geht nicht so steil bergab,\Nwie man denkt, oder?
+Dialogue: 0,0:09:37.64,0:09:40.81,Default,Sunraku,0,0,0,,Das ist also der Geheimbereich,\Nvon dem Pencilgon sprach!
+Dialogue: 0,0:09:44.44,0:09:50.03,Default,Sunraku,0,0,0,,In diesem See soll man ein Monster namens\N„Lebensflut-Seeschlange“ angeln können.
+Dialogue: 0,0:09:50.49,0:09:53.16,Default,Sunraku,0,0,0,,Anscheinend gibt die viele EP.
+Dialogue: 0,0:09:53.16,0:09:55.78,Default,Oikatso,0,0,0,,Mit dieser Angel kann man Monster fangen?
+Dialogue: 0,0:09:55.78,0:09:58.37,Default,Sunraku,0,0,0,,Tja, versuchen wir’s einfach mal.
+Dialogue: 0,0:09:58.37,0:10:00.04,Default,Oikatso,0,0,0,,Okay!
+Dialogue: 0,0:10:05.08,0:10:07.71,Default,Oikatso,0,0,0,,Wer mehr fängt, gewinnt, einverstanden?
+Dialogue: 0,0:10:07.71,0:10:09.55,Default,Sunraku,0,0,0,,Oh, da beißt schon was an!
+Dialogue: 0,0:10:09.55,0:10:10.88,Default,Sunraku,0,0,0,,Das ging schnell!
+Dialogue: 0,0:10:10.88,0:10:13.30,Default,Sunraku,0,0,0,,Mein Vater nimmt mich oft zum Angeln mit.
+Dialogue: 0,0:10:13.76,0:10:15.64,Default,Sunraku,0,0,0,,Ich kenn alle Tricks.
+Dialogue: 0,0:10:15.64,0:10:17.64,Default,Oikatso,0,0,0,,Es liegt an deinem Glückswert, oder?
+Dialogue: 0,0:10:17.64,0:10:18.93,Default,Sunraku,0,0,0,,Erwischt.
+Dialogue: 0,0:10:25.44,0:10:30.48,Default,Oikatso,0,0,0,,Ein Lachs. Der bringt uns nichts.\NSieht aber lecker aus.
+Dialogue: 0,0:10:31.65,0:10:33.15,Default,Oikatso,0,0,0,,Oh! Ich hab auch was!
+Dialogue: 0,0:10:33.15,0:10:34.82,Default,Sunraku,0,0,0,,Eh wieder ein Lachs.
+Dialogue: 0,0:10:35.57,0:10:37.99,Default,Oikatso,0,0,0,,Vermutlich, der Umriss ist klein.
+Dialogue: 0,0:10:37.99,0:10:39.62,Default,Sunraku,0,0,0,,Wollen wir den Ort wechseln?
+Dialogue: 0,0:10:40.49,0:10:42.66,Default,Emul,0,0,0,,Sunraku!
+Dialogue: 0,0:10:46.04,0:10:49.21,Default,Emul,0,0,0,,Eine riesige Schlange?!
+Dialogue: 0,0:10:51.55,0:10:53.84,Default,Sunraku,0,0,0,,Katso, das ist so eine!
+Dialogue: 0,0:10:55.34,0:10:57.80,Default,Sunraku,0,0,0,,Eine Lebensflut-Seeschlange!
+Dialogue: 0,0:11:05.44,0:11:09.52,Default,Sunraku,0,0,0,,Dann wird es wohl Zeit für\Nden ersten Auftritt meiner neuen Waffen!
+Dialogue: 0,0:11:09.52,0:11:14.78,Default,Oikatso,0,0,0,,Was? War dein Level nicht zu niedrig, um diese\NHasenmonde oder wie sie heißen auszurüsten?
+Dialogue: 0,0:11:16.20,0:11:18.32,Default,Sunraku,0,0,0,,Niemand hat behauptet, dass mir …
+Dialogue: 0,0:11:19.24,0:11:21.49,Default,Sunraku,0,0,0,,nur ein Satz Waffen angefertigt wurde.
+Dialogue: 0,0:11:21.49,0:11:23.91,Default,Sunraku,0,0,0,,Ihr Name ist Imperiumbienen-Zwillinge.
+Dialogue: 0,0:11:23.91,0:11:26.50,Default,Emul,0,0,0,,Uuuh, die sind so cool!
+Dialogue: 0,0:11:29.13,0:11:32.00,Default,Oikatso,0,0,0,,Was, du hast noch andere neue Waffen?
+Dialogue: 0,0:11:32.42,0:11:34.09,Default,Emul,0,0,0,,Die hat meine Schwester Bee gemacht!
+Dialogue: 0,0:11:34.42,0:11:35.38,Default,Oikatso,0,0,0,,Bee?
+Dialogue: 0,0:11:44.93,0:11:46.77,Flashback,Beelac,0,0,0,,Fertig!
+Dialogue: 0,0:11:46.77,0:11:50.52,Flashback,Beelac,0,0,0,,Erschaffen aus Materialien\Nder Imperiumbienenkönigin:
+Dialogue: 0,0:11:50.52,0:11:52.57,Flashback,Beelac,0,0,0,,Die Imperiumbienen-Zwillinge!
+Dialogue: 0,0:11:55.07,0:11:57.40,Flashback,Beelac,0,0,0,,Was lungert ihr hier so rum?
+Dialogue: 0,0:11:58.70,0:12:03.04,Flashback,Sunraku,0,0,0,,Schon fertig? Das ging schnell,\Nähm … Beelac.
+Dialogue: 0,0:12:03.04,0:12:05.66,Flashback,Emul,0,0,0,,Typisch Bee.
+Dialogue: 0,0:12:05.66,0:12:08.67,Flashback,Beelac,0,0,0,,Weil der Boss weg ist,\Nnimmste mich nicht mehr ernst?
+Dialogue: 0,0:12:08.67,0:12:12.54,Flashback,Beelac,0,0,0,,Ich hab alles direkt von ihm gelernt.
+Dialogue: 0,0:12:12.54,0:12:16.30,Flashback,Sunraku,0,0,0,,Nein, nein, überhaupt nicht!\NIch danke dir.
+Dialogue: 0,0:12:16.30,0:12:20.09,Flashback,Sunraku,0,0,0,,Ich war schon ratlos, weil ich meine\NHauptwaffen nicht mehr benutzen kann.
+Dialogue: 0,0:12:25.56,0:12:27.81,Flashback,Sunraku,0,0,0,,{\i1}Ich muss nicht nur bei Vash und Emul,
+Dialogue: 0,0:12:27.81,0:12:31.15,Flashback,Sunraku,0,0,0,,{\i1}sondern auch bei anderen Kaninchen\Nmeine Sympathiewerte managen?
+Dialogue: 0,0:12:31.15,0:12:33.82,Flashback,Sunraku,0,0,0,,{\i1}Ich spiel hier doch keinen Dating-Sim.
+Dialogue: 0,0:12:34.23,0:12:37.61,Flashback,Sunraku,0,0,0,,{\i1}Halt, wenn ich daran denke,\Ndass ich mit allen Kaninchen,
+Dialogue: 0,0:12:37.61,0:12:40.99,Flashback,Sunraku,0,0,0,,{\i1}die noch kommen könnten,\Nauf meine Sympathiewerte achten muss …
+Dialogue: 0,0:12:42.62,0:12:45.83,Flashback,Emul,0,0,0,,Was hast du, Sunraku?
+Dialogue: 0,0:12:47.50,0:12:51.08,Flashback,Sunraku,0,0,0,,{\i1}Da kommt mein\NDating-Trash-Trauma wieder hoch!
+Dialogue: 0,0:12:52.00,0:12:53.84,Flashback,Sunraku,0,0,0,,Einmal musste ich meine Beziehungen
+Dialogue: 0,0:12:53.84,0:12:57.97,Flashback,Sunraku,0,0,0,,zu zwölf Mädchen\Nauf die Sekunde genau abstimmen.
+Dialogue: 0,0:12:57.97,0:13:03.10,Flashback,Sunraku,0,0,0,,Nur ein Moment der Unachtsamkeit und\Nsämtliche Werte fielen wie Dominosteine.
+Dialogue: 0,0:13:03.76,0:13:06.52,Flashback,Sunraku,0,0,0,,Dann gingen aus irgendeinem\NGrund alle nach Italien,
+Dialogue: 0,0:13:06.52,0:13:09.73,Flashback,Sunraku,0,0,0,,um Pizzabäckerinnen zu werden.\NBad Ending.
+Dialogue: 0,0:13:10.02,0:13:10.94,Flashback,Emul,0,0,0,,Hä?
+Dialogue: 0,0:13:10.94,0:13:13.44,Flashback,Beelac,0,0,0,,Wovon redeste da?
+Dialogue: 0,0:13:13.44,0:13:17.61,Flashback,Sunraku,0,0,0,,Und so verlor der junge\N„Pökelthunfisch Sunraku“ gegen Pizza …
+Dialogue: 0,0:13:18.61,0:13:21.36,Flashback,Sunraku,0,0,0,,Na ja, aber zurück zu den Waffen.
+Dialogue: 0,0:13:21.36,0:13:24.24,Flashback,Sunraku,0,0,0,,Die Imperiumbienen-Zwillinge, ja?
+Dialogue: 0,0:13:26.24,0:13:28.37,Flashback,Sunraku,0,0,0,,Du hast was drauf.
+Dialogue: 0,0:13:28.37,0:13:29.75,Flashback,Beelac,0,0,0,,Natürlich.
+Dialogue: 0,0:13:29.75,0:13:31.62,Flashback,Emul,0,0,0,,Sehr cool!
+Dialogue: 0,0:13:31.62,0:13:33.75,Flashback,Sunraku,0,0,0,,Gut, dass ich\Nnach dem Ableben des Käfers
+Dialogue: 0,0:13:33.75,0:13:37.13,Flashback,Sunraku,0,0,0,,zurück bin und die Materialien\Nder Königin eingesammelt hab.
+Dialogue: 0,0:13:37.13,0:13:39.47,Flashback,Beelac,0,0,0,,Keine schlechten Waffen, oder?
+Dialogue: 0,0:13:39.47,0:13:42.51,Flashback,Beelac,0,0,0,,Das rechte Schwert hat\N’n recht eigentümliches Attribut.
+Dialogue: 0,0:13:42.93,0:13:44.22,Flashback,Sunraku,0,0,0,,Das rechte?
+Dialogue: 0,0:13:53.81,0:13:55.40,Default,Oikatso,0,0,0,,Ist die nicht ein wenig zu zäh?!
+Dialogue: 0,0:13:55.81,0:13:59.65,Default,Oikatso,0,0,0,,Auf unserem Level fügen Angriffe\Nihr kaum Schaden zu!
+Dialogue: 0,0:14:02.24,0:14:06.16,Default,Sunraku,0,0,0,,{\i1}Bestimmte Waffen, Skills,\NZauber und Monsterangriffe
+Dialogue: 0,0:14:07.28,0:14:11.79,Default,Sunraku,0,0,0,,{\i1}haben das sogenannte „Zerreißen“-Attribut,\Nwas sogar den Avatar-Körper zerstören kann.
+Dialogue: 0,0:14:12.83,0:14:17.04,Default,Sunraku,0,0,0,,{\i1}Indem man dem Körperteil, das man\Nzerstören will, ausreichend Schaden zufügt,
+Dialogue: 0,0:14:17.04,0:14:21.38,Default,Sunraku,0,0,0,,{\i1}kann man dank dieses Attributs genau das tun\Nund dabei noch Schwachpunkte erzeugen.
+Dialogue: 0,0:14:21.92,0:14:27.01,Flashback,Beelac,0,0,0,,Aber was diese Waffe hat,\Nist kein gewöhnliches Zerreißen.
+Dialogue: 0,0:14:28.10,0:14:31.52,Flashback,Beelac,0,0,0,,Es verseucht den getroffenen Bereich\Nund zerstört ihn.
+Dialogue: 0,0:14:31.52,0:14:33.64,Flashback,Beelac,0,0,0,,{\an8}Das „Verderbnisgift“.
+Dialogue: 0,0:14:36.11,0:14:41.36,Default,Sunraku,0,0,0,,{\i1}Wie bei herkömmlichem Gift\Nsammelt sich Zerreißen über die Zeit an.
+Dialogue: 0,0:14:42.03,0:14:44.74,Default,Sunraku,0,0,0,,{\i1}Fügt man Verderbnisgift\Nnatürlich mehrmals zu,
+Dialogue: 0,0:14:44.74,0:14:49.74,Default,Sunraku,0,0,0,,{\i1}durchbricht es die Debuff-Resistenz\Ndes Gegners, was den Effekt noch beschleunigt.
+Dialogue: 0,0:14:49.74,0:14:51.75,Default,Sunraku,0,0,0,,Die Schuppen haben sich gelöst, Katso!
+Dialogue: 0,0:14:51.75,0:14:53.87,Default,Oikatso,0,0,0,,Verstanden! Greife mit voller Kraft an!
+Dialogue: 0,0:14:53.87,0:14:56.63,Default,Oikatso,0,0,0,,„Geisterfaust: Schwarz“!
+Dialogue: 0,0:15:06.59,0:15:10.43,Default,Oikatso,0,0,0,,Super! Die Stelle ist\Nzu einem Schwachpunkt geworden!
+Dialogue: 0,0:15:11.01,0:15:13.77,Default,Emul,0,0,0,,I-Ich helfe auch mit!
+Dialogue: 0,0:15:15.52,0:15:16.52,Default,Sunraku,0,0,0,,Emul!
+Dialogue: 0,0:15:22.07,0:15:23.19,Default,Sunraku,0,0,0,,Katso?!
+Dialogue: 0,0:15:24.24,0:15:28.62,Default,Oikatso,0,0,0,,Mein Build ist auf Schaden tanken ausgelegt.\NSo viel halte ich schon noch aus.
+Dialogue: 0,0:15:28.62,0:15:31.20,Default,Emul,0,0,0,,I-Ich danke dir!
+Dialogue: 0,0:15:33.87,0:15:35.87,Default,Oikatso,0,0,0,,„Abwehrkonter“!
+Dialogue: 0,0:15:35.87,0:15:38.38,Default,Sunraku,0,0,0,,Nice, sie taumelt! Auf sie mit Gebrüll!
+Dialogue: 0,0:15:38.38,0:15:39.08,Default,Oikatso,0,0,0,,Jo!
+Dialogue: 0,0:15:39.08,0:15:40.13,Default,Emul,0,0,0,,Jawohl!
+Dialogue: 0,0:15:40.13,0:15:42.88,Default,Sunraku,0,0,0,,Ich filetier dich!
+Dialogue: 0,0:15:40.13,0:15:42.88,Default,Emul,0,0,0,,{\an8}Magische Schneide!
+Dialogue: 0,0:15:40.13,0:15:42.88,Alt,Oikatso,0,0,0,,Jetzt gibt’s gehackten Aal!
+Dialogue: 0,0:15:48.47,0:15:50.10,Default,Sunraku,0,0,0,,Jaaa!
+Dialogue: 0,0:15:50.10,0:15:51.39,Default,Emul,0,0,0,,Geschafft!
+Dialogue: 0,0:15:51.39,0:15:53.02,Default,Oikatso,0,0,0,,Yeah!
+Dialogue: 0,0:15:59.23,0:16:01.65,Default,Sunraku,0,0,0,,Ooh, direkt ein Level-up!
+Dialogue: 0,0:16:01.65,0:16:04.28,Default,Sunraku,0,0,0,,Das ist wirklich ’ne nette EP-Rate!
+Dialogue: 0,0:16:04.28,0:16:09.03,Default,Oikatso,0,0,0,,Die war echt hartnäckig.\NIch bin ganze vier Level aufgestiegen!
+Dialogue: 0,0:16:09.03,0:16:11.66,Default,Oikatso,0,0,0,,Oh, und ich hab neue Skills gelernt.
+Dialogue: 0,0:16:12.24,0:16:15.41,Default,Oikatso,0,0,0,,Ob ich die beim\NFähigkeiten-Gärtner verknüpfen kann?
+Dialogue: 0,0:16:15.41,0:16:18.21,Default,Sunraku,0,0,0,,Hm? Skills verknüpfen?
+Dialogue: 0,0:16:18.21,0:16:20.42,Default,Sunraku,0,0,0,,Geht’s wieder um ein anderes Spiel?
+Dialogue: 0,0:16:20.42,0:16:21.21,Default,Oikatso,0,0,0,,Hä?
+Dialogue: 0,0:16:22.00,0:16:22.88,Default,Sunraku,0,0,0,,Hä?
+Dialogue: 0,0:16:23.96,0:16:24.76,Default,Oikatso,0,0,0,,Hä?
+Dialogue: 0,0:16:26.42,0:16:29.59,Default,Oikatso,0,0,0,,Nein, nein. ShanFro ist\Nein skill-basiertes Spiel,
+Dialogue: 0,0:16:29.59,0:16:34.68,Default,Oikatso,0,0,0,,darum ist das Verbinden der erlernten Skills\Nzu „Fusions-Skills“ doch eine Grundlage.
+Dialogue: 0,0:16:34.68,0:16:35.81,Default,Sunraku,0,0,0,,Fusion …
+Dialogue: 0,0:16:35.81,0:16:39.77,Default,Oikatso,0,0,0,,In der ersten Stadt, Ersteia,\Ngab’s doch ein Tutorial.
+Dialogue: 0,0:16:39.77,0:16:42.19,Default,Sunraku,0,0,0,,{\fs-1\pos(1524,1020)}Ich war nicht in Ersteia.
+Dialogue: 0,0:16:42.19,0:16:43.36,Default,Oikatso,0,0,0,,Äh …
+Dialogue: 0,0:16:44.36,0:16:46.78,Default,Oikatso,0,0,0,,{\pos(1497,1020)}Skills mit steigendem\NMeisterschaftslevel
+Dialogue: 0,0:16:46.78,0:16:50.53,Default,Oikatso,0,0,0,,{\pos(1435.5,1020)}kann man beim Fähigkeiten-\NGärtner miteinander koppeln.
+Dialogue: 0,0:16:50.53,0:16:54.33,Default,Oikatso,0,0,0,,So erschafft man\Neinen neuen „Fusions-Skill“.
+Dialogue: 0,0:16:54.79,0:16:57.62,Default,Sunraku,0,0,0,,M-Meisterschaft?!
+Dialogue: 1,0:16:57.62,0:16:58.96,Default,Sunraku,0,0,0,,{\i1}Stimmt,
+Dialogue: 1,0:16:58.96,0:17:03.13,Default,Sunraku,0,0,0,,{\i1}es gibt Skills, die aus anderen entstehen,\Nwie „Abwehrkonter“ aus „Blitzkonter“
+Dialogue: 1,0:17:03.13,0:17:07.67,Default,Sunraku,0,0,0,,{\i1}und solche, die ein Level hinter sich\Nstehen haben. Das ist mir schon aufgefallen.
+Dialogue: 1,0:17:07.67,0:17:11.01,Default,Sunraku,0,0,0,,{\i1}Letztere kann man also verknüpfen?!
+Dialogue: 0,0:17:11.39,0:17:16.27,Default,Oikatso,0,0,0,,Der Gärtner sagt dir, wie lange ein Skill noch\Nzum Aufleveln oder Weiterentwickeln braucht
+Dialogue: 0,0:17:16.27,0:17:20.44,Default,Oikatso,0,0,0,,oder die Bedingungen, um einen Skill\Nzu erhalten. Er ist unerlässlich.
+Dialogue: 0,0:17:20.44,0:17:22.44,Default,Oikatso,0,0,0,,Zudem verkauft er Folianten und …
+Dialogue: 0,0:17:25.23,0:17:27.86,Default,Emul,0,0,0,,Alles in Ordnung, Sunraku?
+Dialogue: 0,0:17:27.86,0:17:32.20,Default,Oikatso,0,0,0,,{\an8}Kann es sein, dass du auch nichts\Nüber Nebenberufe und Gilden weißt?
+Dialogue: 0,0:17:34.16,0:17:37.87,Default,Sunraku,0,0,0,,Wie viel hab ich durch das Überspringen\Nnur einer Stadt bitte verpasst?!
+Dialogue: 0,0:17:40.37,0:17:42.12,Default,Sunraku,0,0,0,,Ach, scheiß drauf!
+Dialogue: 0,0:17:42.12,0:17:45.34,Default,Sunraku,0,0,0,,Über Vergangenes zu grübeln,\Nzieht mich bloß runter!
+Dialogue: 0,0:17:45.34,0:17:47.67,Default,Sunraku,0,0,0,,Machen wir endlich mit dem Leveln weiter!
+Dialogue: 0,0:17:53.18,0:17:56.72,Default,Sunraku,0,0,0,,In so einem Moment stürzt man sich\Nam besten in einfache, monotone Arbeit!
+Dialogue: 0,0:17:56.72,0:18:00.43,Default,Sunraku,0,0,0,,Jetzt heißt es, wie wild\Ndiese Aale zu fangen, Katso, Emul!
+Dialogue: 0,0:18:00.43,0:18:02.14,Default,Emul,0,0,0,,J-Jawohl!
+Dialogue: 0,0:18:02.14,0:18:06.27,Default,Oikatso,0,0,0,,Oje, er hat auf Durchzug geschaltet.
+Dialogue: 0,0:18:08.28,0:18:10.28,Default,Pencilgon,0,0,0,,Ooh!
+Dialogue: 0,0:18:10.69,0:18:14.03,Default,Pencilgon,0,0,0,,Level 42 und 40.
+Dialogue: 0,0:18:14.03,0:18:17.49,Default,Pencilgon,0,0,0,,In der kurzen Zeit\Nhabt ihr so viel geschafft?
+Dialogue: 0,0:18:17.49,0:18:21.04,Default,Pencilgon,0,0,0,,Lebt ihr nicht ein bisschen zu schnell?\NIst was passiert?
+Dialogue: 0,0:18:21.04,0:18:25.04,Default,Oikatso,0,0,0,,Weißt du, Sunraku hat\Ndas Tutorial übersprungen und …
+Dialogue: 0,0:18:26.38,0:18:28.59,Default,Oikatso,0,0,0,,Schon gut, schon gut.\NIch halt die Klappe.
+Dialogue: 0,0:18:29.76,0:18:34.93,Default,Oikatso,0,0,0,,Tja, wenn Emul erst mal loslegt,\Nschallern ihre Angriffe ganz schön rein.
+Dialogue: 0,0:18:36.09,0:18:38.01,Default,Emul,0,0,0,,Bin ich fertig.
+Dialogue: 0,0:18:38.01,0:18:41.64,Default,Sunraku,0,0,0,,Tatsächlich ist meine Emul auf Level 56.
+Dialogue: 0,0:18:41.64,0:18:42.93,Default,Pencilgon,0,0,0,,Wow.
+Dialogue: 0,0:18:42.93,0:18:45.27,Default,Sunraku,0,0,0,,Aber dieses Zelt ist schon praktisch.
+Dialogue: 0,0:18:45.27,0:18:45.69,Default,Oikatso,0,0,0,,Ja.
+Dialogue: 0,0:18:45.69,0:18:49.19,Default,Sunraku,0,0,0,,{\an8}Es ist schlicht, aber man kann\Ndamit einen Speicherpunkt erschaffen.
+Dialogue: 0,0:18:49.19,0:18:54.95,Default,Pencilgon,0,0,0,,{\an8}Doch obwohl es so absurd teuer ist, kann man\Ndas verdammte Item nur ein paar Mal benutzen.
+Dialogue: 0,0:18:54.95,0:19:00.45,Default,Pencilgon,0,0,0,,Ständen wir nicht unter Zeitdruck,\Nwürde ich das nicht so leichtfertig benutzen.
+Dialogue: 0,0:19:00.45,0:19:03.79,Default,Pencilgon,0,0,0,,Also los, ihr könnt hier\Nnicht ewig chillen. Gehen wir.
+Dialogue: 0,0:19:03.79,0:19:04.92,Default,Sunraku,0,0,0,,Gehen?
+Dialogue: 0,0:19:04.92,0:19:05.96,Default,Oikatso,0,0,0,,Wohin?
+Dialogue: 0,0:19:07.42,0:19:11.13,Default,Pencilgon,0,0,0,,Heute ist Vollmond.\NNur dann können wir sie treffen.
+Dialogue: 0,0:19:13.17,0:19:14.97,Default,Sunraku,0,0,0,,Wen treffen?
+Dialogue: 0,0:19:15.34,0:19:18.22,Default,Pencilgon,0,0,0,,Vor dem Kampf gegen Grabwächter Wezaemon
+Dialogue: 0,0:19:18.22,0:19:20.26,Default,Pencilgon,0,0,0,,müssen wir noch ein Gespräch führen.
+Dialogue: 0,0:19:22.10,0:19:23.98,Default,Pencilgon,0,0,0,,Mit dem einzigartigen NPC …
+Dialogue: 0,0:19:24.89,0:19:26.60,Default,Pencilgon,0,0,0,,„Setsuna ferner Tage“.
+Dialogue: 0,0:19:28.19,0:19:29.44,Default,Pencilgon,0,0,0,,Mit der lieben Set.
+Dialogue: 0,0:19:30.69,0:19:58.30,Default,Setsuna,0,0,0,,Zwischen zwei Augenblicken kommt\Nzum Vorschein ein frommer Wunsch.
+Dialogue: 0,0:21:37.65,0:21:41.32,Default,Kinder,0,0,0,,ShanFro-Theater!
+Dialogue: 0,0:21:41.32,0:21:42.99,Default,Emul,0,0,0,,Mini!
+Dialogue: 0,0:21:44.70,0:21:47.66,Default,Erzählerin,0,0,0,,Die Bunt schillernde Waldgrotte.
+Dialogue: 0,0:21:47.66,0:21:52.21,Default,Erzählerin,0,0,0,,Dort machte ein gewisses glaubwürdig\Nscheinendes Gerücht die Runde.
+Dialogue: 0,0:21:54.29,0:21:58.09,Default,Erzählerin,0,0,0,,Der unidentifizierte, mysteriöse\N„Hasenohren-Schuhschnabel“.
+Dialogue: 0,0:21:58.09,0:22:01.97,Default,Erzählerin,0,0,0,,Existierte dieser\Nlegendäre Vogel wirklich?
+Dialogue: 0,0:22:12.60,0:22:15.98,Default,Animalia,0,0,0,,Der unidentifizierte,\Nmysteriöse Vogel.
+Dialogue: 0,0:22:15.98,0:22:19.32,Default,Animalia,0,0,0,,Mit der Erfahrung in der Tierforschung,\Ndie SF-Zoo gesammelt hat,
+Dialogue: 0,0:22:19.32,0:22:21.32,Default,Animalia,0,0,0,,finden wir ihn garantiert!
+Dialogue: 0,0:22:21.32,0:22:23.53,Default,Tierforscherin 1,0,0,0,,Kommandantin, sieh dir das an!
+Dialogue: 0,0:22:23.53,0:22:24.24,Default,Animalia,0,0,0,,Hm?
+Dialogue: 0,0:22:26.74,0:22:30.91,Default,Animalia,0,0,0,,Das sind Fußspuren\Ndes Hasenohren-Schuhschnabels.
+Dialogue: 0,0:22:30.91,0:22:33.29,Default,Animalia,0,0,0,,Sehen eher menschlich\Nals vogelartig aus.
+Dialogue: 0,0:22:34.08,0:22:38.59,Default,Erzählerin,0,0,0,,Den Spuren folgend, begab sich\Ndas Expeditionskorps tiefer in die Grotte.
+Dialogue: 0,0:22:39.25,0:22:41.05,Default,Erzählerin,0,0,0,,Und dort hörten sie es!
+Dialogue: 0,0:22:45.05,0:22:47.18,Default,Tierforscher 2,0,0,0,,Kommandantin, dieser Schrei …
+Dialogue: 0,0:22:47.18,0:22:50.60,Default,Animalia,0,0,0,,Kein Zweifel, das ist\Nder Hasenohren-Schuhschnabel!
+Dialogue: 0,0:22:50.60,0:22:54.10,Default,Erzählerin,0,0,0,,Der Wald erbebte durch\Nden ungewöhnlichen Schrei.
+Dialogue: 0,0:22:54.10,0:22:56.44,Default,Erzählerin,0,0,0,,Und dann sahen sie es!
+Dialogue: 0,0:23:01.82,0:23:03.90,Default,Animalia,0,0,0,,Wir haben ihn! Hinterher!
+Dialogue: 0,0:23:03.90,0:23:04.57,Default,Tierforscher 1; 2; 3,0,0,0,,Ja!
+Dialogue: 0,0:23:07.41,0:23:11.66,Default,Erzählerin,0,0,0,,Sie konnten die Kreatur nicht\Neindeutig mit der Kamera einfangen,
+Dialogue: 0,0:23:11.66,0:23:15.33,Default,Erzählerin,0,0,0,,aber der Hasenohren-Schuhschnabel\Nwar zweifellos real!
+Dialogue: 0,0:23:16.33,0:23:18.50,Default,Erzählerin,0,0,0,,Doch ihre eingehende Suche\Nblieb vergebens
+Dialogue: 0,0:23:18.50,0:23:22.34,Default,Erzählerin,0,0,0,,und sie konnten keinen klaren Blick\Nauf das Wesen erhaschen.
+Dialogue: 0,0:23:23.38,0:23:27.34,Default,Erzählerin,0,0,0,,Trotzdem, die Suche des Animalia-\NExpeditionskorps war nicht zu Ende.
+Dialogue: 0,0:23:27.93,0:23:32.35,Default,Erzählerin,0,0,0,,So lange, bis sie das unbekannte\NTier eines Tages finden würden.
+Dialogue: 0,0:23:35.77,0:23:39.73,Default,Oikatso,0,0,0,,Mann, dass ihr von dem riesigen Hirschkäfer\Ndurch die Gegend geschleudert wurdet,
+Dialogue: 0,0:23:39.73,0:23:41.90,Default,Oikatso,0,0,0,,war echt zu witzig, Sunraku.
+Dialogue: 0,0:23:41.90,0:23:44.90,Default,Sunraku,0,0,0,,Hach, ich bin froh, dass wir noch leben.
+Dialogue: 0,0:23:44.90,0:23:48.32,Default,Emul,0,0,0,,Ich fühl mich alles andere als lebendig.

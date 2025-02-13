@@ -1,0 +1,313 @@
+﻿[Script Info]
+Title: English (US)
+ScaledBorderAndShadow: yes
+Original Script: kodansha  [http://www.crunchyroll.com/user/kodansha]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+LayoutResX: 1920
+LayoutResY: 1080
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+Style: Flashback,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00013E12,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.94,0:00:06.69,Default,Narrator,0,0,0,,This world is filled with \Ntoo many games to count,
+Dialogue: 0,0:00:07.99,0:00:12.20,Default,Narrator,0,0,0,,though the vast majority simply \Ncome and go in obscurity.
+Dialogue: 0,0:00:13.58,0:00:16.45,Default,Narrator,0,0,0,,The greatest of all games
+Dialogue: 0,0:00:16.45,0:00:21.71,Default,Narrator,0,0,0,,is the fully immersive VR game boasting \Nover 30 million players worldwide—
+Dialogue: 0,0:00:21.71,0:00:26.30,Default,Narrator,0,0,0,,{\i0}Shangri-La Frontier{\i1}, which rightly \Nearns the title of "god-tier game"!
+Dialogue: 0,0:00:27.80,0:00:31.93,Default,Narrator,0,0,0,,One lover of trash games, Rakuro Hizutome,
+Dialogue: 0,0:00:31.93,0:00:35.10,Default,Narrator,0,0,0,,is trying out the god-tier \Ngame, {\i0}Shangri-La Frontier{\i1}!
+Dialogue: 0,0:00:35.93,0:00:40.60,Default,Narrator,0,0,0,,What adventures await him there?
+Dialogue: 0,0:02:14.82,0:02:17.74,Default,Pencil Knight,0,0,0,,{\an8}Shall we begin our strategy meeting?
+Dialogue: 0,0:02:18.16,0:02:20.87,Default,Pencil Knight,0,0,0,,Wethermon battle, issue number 1:
+Dialogue: 0,0:02:21.54,0:02:25.88,Default,Pencil Knight,0,0,0,,At the start of the battle, \NWethermon activates a skill
+Dialogue: 0,0:02:25.88,0:02:31.42,Default,Pencil Knight,0,0,0,,that sets the max level of all characters \Nin the battle area—except for him—to 50.
+Dialogue: 0,0:02:31.42,0:02:33.34,Default,Katzo Tataki,0,0,0,,Max level 50?
+Dialogue: 0,0:02:33.34,0:02:36.26,Default,Sunraku,0,0,0,,That's what you meant about our \Nlevels not being a problem?
+Dialogue: 0,0:02:37.47,0:02:39.56,Default,Pencil Knight,0,0,0,,Wethermon's level is 200.
+Dialogue: 0,0:02:39.56,0:02:40.85,Default,Katzo Tataki,0,0,0,,Two hundred?!
+Dialogue: 0,0:02:41.18,0:02:44.52,Default,Pencil Knight,0,0,0,,Which means a minimum 150-level gap.
+Dialogue: 0,0:02:44.52,0:02:47.23,Default,Pencil Knight,0,0,0,,That's why player skill is the key.
+Dialogue: 0,0:02:48.82,0:02:51.94,Default,Pencil Knight,0,0,0,,Perfect for you, right? \NMy low-level friends...
+Dialogue: 0,0:02:52.86,0:02:56.70,Default,Pencil Knight,0,0,0,,You won't need to grind all \Nthe way to the level cap.
+Dialogue: 0,0:02:58.83,0:02:59.70,Default,Pencil Knight,0,0,0,,Although...
+Dialogue: 0,0:03:00.45,0:03:03.70,Default,Pencil Knight,0,0,0,,You do absolutely {\i1}do{\i0} have to reach 50.
+Dialogue: 0,0:03:05.62,0:03:08.21,Default,Pencil Knight,0,0,0,,{\an8}So work hard at grinding, all right?
+Dialogue: 0,0:03:10.17,0:03:11.84,Default,Sunraku,0,0,0,,Level 50, huh?
+Dialogue: 0,0:03:12.13,0:03:17.59,Default,Sunraku,0,0,0,,She said there was a hidden area in \Nthe Iron Ruins perfect for grinding,
+Dialogue: 0,0:03:17.59,0:03:20.22,Default,Sunraku,0,0,0,,but I still gotta wonder how long it'll take.
+Dialogue: 0,0:03:20.60,0:03:22.77,Default,Oikatzo,0,0,0,,Guess we won't know until we try.
+Dialogue: 0,0:03:37.57,0:03:39.70,Default,Oikatzo,0,0,0,,It's like a whole different game in here.
+Dialogue: 0,0:03:39.70,0:03:42.91,Default,Emul,0,0,0,,The black panels are sliding all around!
+Dialogue: 0,0:03:43.54,0:03:47.87,Default,Sunraku,0,0,0,,Man, you can get do some great stuff, \Nglitching out moving platforms like that.
+Dialogue: 0,0:03:48.21,0:03:52.84,Default,Oikatzo,0,0,0,,You need to soak your eyeballs and \Nwash away that trash game filter, man.
+Dialogue: 0,0:03:53.38,0:03:57.26,Default,Oikatzo,0,0,0,,Hang on! I thought I'd \Nexperienced this vibe before!
+Dialogue: 0,0:03:57.26,0:04:00.26,Default,Oikatzo,0,0,0,,It's the final boss stage \Nin {\i1}Brave Galaxy Fighter{\i0}!
+Dialogue: 0,0:04:00.26,0:04:02.22,Default,Sunraku,0,0,0,,Never heard of that one.
+Dialogue: 0,0:04:02.22,0:04:03.85,Default,Oikatzo,0,0,0,,It's the pinnacle of sci-fi fighting games,
+Dialogue: 0,0:04:03.85,0:04:06.77,Default,Oikatzo,0,0,0,,renowned the whole world o—oh, right.
+Dialogue: 0,0:04:07.35,0:04:10.23,Default,Sunraku,0,0,0,,Why would I know about some god-tier game?
+Dialogue: 0,0:04:10.56,0:04:12.11,Default,Sunraku,0,0,0,,By the way, Katzo-kun.
+Dialogue: 0,0:04:12.11,0:04:14.03,Default,Sunraku,0,0,0,,What're you up to now?
+Dialogue: 0,0:04:14.03,0:04:15.15,Default,Oikatzo,0,0,0,,Level-wise, you mean?
+Dialogue: 0,0:04:15.78,0:04:17.15,Default,Oikatzo,0,0,0,,Twenty-five.
+Dialogue: 0,0:04:17.15,0:04:20.66,Default,Sunraku,0,0,0,,My, my! Still in your twenties, are you?
+Dialogue: 0,0:04:20.66,0:04:21.87,Default,Sunraku,0,0,0,,So young!
+Dialogue: 0,0:04:21.87,0:04:24.20,Default,Sunraku,0,0,0,,I happen to be 31.
+Dialogue: 0,0:04:25.37,0:04:27.87,Default,Oikatzo,0,0,0,,It's not that big a difference!
+Dialogue: 0,0:04:27.87,0:04:32.04,Default,Emul,0,0,0,,He's clearly worried about how \Nfrail and helpless you are, Oikatzo-san!
+Dialogue: 0,0:04:32.04,0:04:33.92,Default,Sunraku,0,0,0,,You're so wise, Emul!
+Dialogue: 0,0:04:33.92,0:04:35.55,Default,Oikatzo,0,0,0,,But I'm not!
+Dialogue: 0,0:04:35.55,0:04:37.42,Default,Oikatzo,0,0,0,,Darn it, she's got it all wrong!
+Dialogue: 0,0:04:38.47,0:04:39.93,Default,Emul,0,0,0,,Sunraku-san!
+Dialogue: 0,0:04:40.64,0:04:42.80,Default,Emul,0,0,0,,Something's approaching!
+Dialogue: 0,0:04:49.98,0:04:53.31,Default,Sunraku,0,0,0,,So there're enemies mixed in \Nwith the floating panels, huh?
+Dialogue: 0,0:04:53.31,0:04:56.53,Default,Oikatzo,0,0,0,,You can sit this one out, Sunraku!
+Dialogue: 0,0:05:00.53,0:05:02.62,Default,Oikatzo,0,0,0,,No matter how low your level might be...
+Dialogue: 0,0:05:03.32,0:05:05.95,Default,Oikatzo,0,0,0,,{\i1}SLF{\i0} still lets you stand a chance!
+Dialogue: 0,0:05:06.49,0:05:08.66,Default,Emul,0,0,0,,You're sure we don't need to lend our aid?
+Dialogue: 0,0:05:08.66,0:05:10.79,Default,Sunraku,0,0,0,,Eh... nah.
+Dialogue: 0,0:05:12.12,0:05:14.34,Default,Oikatzo,0,0,0,,Repel Counter!
+Dialogue: 0,0:05:15.55,0:05:17.09,Default,Oikatzo,0,0,0,,What a simple attack pattern.
+Dialogue: 0,0:05:17.09,0:05:19.42,Default,Oikatzo,0,0,0,,Wonder if you're supposed to \Npractice counters on these guys.
+Dialogue: 0,0:05:20.17,0:05:22.55,Default,Oikatzo,0,0,0,,Crush Uppercut!
+Dialogue: 0,0:05:22.84,0:05:24.51,Default,Sunraku,0,0,0,,Hey, one punch!
+Dialogue: 0,0:05:24.51,0:05:26.81,Default,Emul,0,0,0,,You're actually quite powerful!
+Dialogue: 0,0:05:27.64,0:05:29.98,Default,Sunraku,0,0,0,,{\an8}What's with the red aura?\NSome kind of buff?
+Dialogue: 0,0:05:29.98,0:05:31.10,Default,Oikatzo,0,0,0,,{\an8}Yeah.
+Dialogue: 0,0:05:31.35,0:05:33.85,Default,Oikatzo,0,0,0,,{\an8}It's a spell that gives bonuses \Nto strength and vitality.
+Dialogue: 0,0:05:33.85,0:05:36.19,Default,,0,0,0,,{\an8}It's called Spirit Fist: Red.
+Dialogue: 0,0:05:41.49,0:05:44.03,Default,Oikatzo,0,0,0,,{\an8}For my job, I picked a \N"spirit fist user" Monk.
+Dialogue: 0,0:05:44.03,0:05:46.33,Default,Oikatzo,0,0,0,,{\an8}I can't equip weapons, but in exchange,
+Dialogue: 0,0:05:46.33,0:05:48.33,Default,Oikatzo,0,0,0,,I can give myself buffs and \Nbeat shit up with my fists!
+Dialogue: 0,0:05:48.62,0:05:49.70,Default,Sunraku,0,0,0,,Build?
+Dialogue: 0,0:05:49.70,0:05:52.46,Default,Oikatzo,0,0,0,,Lots of HP and vitality—
+Dialogue: 0,0:05:53.17,0:05:56.34,Default,Oikatzo,0,0,0,,a light fighter, I guess you'd say!
+Dialogue: 0,0:05:57.84,0:06:02.09,Default,Sunraku,0,0,0,,A build that assumes you'll be \Nsoaking lots of damage, huh?
+Dialogue: 0,0:06:02.63,0:06:04.47,Default,Sunraku,0,0,0,,"Kill 'em before they kill you."
+Dialogue: 0,0:06:04.47,0:06:07.60,Default,Sunraku,0,0,0,,Makes sense for a fighting gamer like you.
+Dialogue: 0,0:06:07.93,0:06:09.18,Default,Sunraku,0,0,0,,If you're wondering, I'm—
+Dialogue: 0,0:06:09.18,0:06:11.06,Default,Oikatzo,0,0,0,,Oh, I've got you pegged already.
+Dialogue: 0,0:06:11.06,0:06:15.35,Default,Oikatzo,0,0,0,,A glass cannon with a \Nstrength/agility focus, right?
+Dialogue: 0,0:06:15.35,0:06:16.73,Default,Sunraku,0,0,0,,Wrong!
+Dialogue: 0,0:06:16.73,0:06:19.86,Default,Sunraku,0,0,0,,I'm a luck fighter, \Nspecializing in agility and luck!
+Dialogue: 0,0:06:21.11,0:06:23.82,Default,Oikatzo,0,0,0,,But still a glass cannon, right?
+Dialogue: 0,0:06:23.82,0:06:26.24,Default,Emul,0,0,0,,He's bursting with vorpal soul!
+Dialogue: 0,0:06:26.24,0:06:28.37,Default,Oikatzo,0,0,0,,Vorpal soul?
+Dialogue: 0,0:06:28.37,0:06:29.29,Default,Oikatzo,0,0,0,,What's that?
+Dialogue: 0,0:06:29.29,0:06:32.62,Default,Emul,0,0,0,,Vorpal soul is vorpal soul, of course!
+Dialogue: 0,0:06:34.00,0:06:35.67,Default,Sunraku,0,0,0,,Let's see...
+Dialogue: 0,0:06:35.67,0:06:39.25,Default,Sunraku,0,0,0,,Looks like the floor ahead starts \Nthe passage to the hidden area.
+Dialogue: 0,0:06:43.59,0:06:47.89,Default,Sunraku,0,0,0,,Pass along the left side of \Nthe plate with the big hole.
+Dialogue: 0,0:06:54.35,0:06:56.27,Default,Sunraku,0,0,0,,Jump over the fissure.
+Dialogue: 0,0:07:02.74,0:07:05.07,Default,Sunraku,0,0,0,,Jump onto the plate with damaged sides.
+Dialogue: 0,0:07:08.57,0:07:11.79,Default,Sunraku,0,0,0,,Slip into the crack between B2F and B3F.
+Dialogue: 0,0:07:17.92,0:07:19.67,Default,Sunraku,0,0,0,,Now go straight.
+Dialogue: 0,0:07:24.34,0:07:26.97,Default,Sunraku,0,0,0,,Whoever found this is something else!
+Dialogue: 0,0:07:26.97,0:07:30.81,Default,Sunraku,0,0,0,,How do you have to be wired \Nto map out a route like this?
+Dialogue: 0,0:07:31.10,0:07:34.31,Default,Oikatzo,0,0,0,,Well, Pencilgon found it, right?
+Dialogue: 0,0:07:34.31,0:07:37.31,Default,Oikatzo,0,0,0,,Seems like explanation enough to me.
+Dialogue: 0,0:07:37.31,0:07:39.98,Default,Emul,0,0,0,,It truly is a maze!
+Dialogue: 0,0:07:40.19,0:07:43.57,Default,Sunraku,0,0,0,,"Jump into the hole, and you're done," huh?
+Dialogue: 0,0:07:48.28,0:07:50.49,Default,Emul,0,0,0,,It's too dark to see the bottom!
+Dialogue: 0,0:07:50.78,0:07:55.83,Default,Oikatzo,0,0,0,,Is this a weird prank to \Nkill us in a roundabout way?
+Dialogue: 0,0:07:55.83,0:07:57.29,Default,Oikatzo,0,0,0,,No way, right?
+Dialogue: 0,0:07:58.46,0:08:02.17,Default,Sunraku,0,0,0,,She'll have some real \Napologizing to do if so.
+Dialogue: 0,0:08:02.17,0:08:03.50,Default,Emul,0,0,0,,Apologizing?!
+Dialogue: 0,0:08:03.50,0:08:07.55,Default,Emul,0,0,0,,My da—er, the boss says a proper \Napology is {\i1}very{\i0} important!
+Dialogue: 0,0:08:07.55,0:08:09.18,Default,Oikatzo,0,0,0,,That's right!
+Dialogue: 0,0:08:09.64,0:08:12.22,Default,Oikatzo,0,0,0,,We dunno what's down there.
+Dialogue: 0,0:08:12.64,0:08:17.06,Default,Oikatzo,0,0,0,,I wouldn't want glass cannon Sunraku \Nto get himself shattered going first.
+Dialogue: 0,0:08:18.31,0:08:20.60,Default,Oikatzo,0,0,0,,So, I'll take point!
+Dialogue: 0,0:08:20.60,0:08:21.77,Default,Sunraku,0,0,0,,Thanks.
+Dialogue: 0,0:08:24.23,0:08:27.15,Default,Emul,0,0,0,,So kind, so strong, so brave!
+Dialogue: 0,0:08:27.15,0:08:30.07,Default,Emul,0,0,0,,What an admirable lady she is!
+Dialogue: 0,0:08:34.87,0:08:36.45,Default,Sunraku,0,0,0,,That's a guy, actually.
+Dialogue: 0,0:08:37.91,0:08:40.79,Default,Sunraku,0,0,0,,I mean, the player... Never mind.
+Dialogue: 0,0:08:40.79,0:08:42.63,Default,Sunraku,0,0,0,,Um, point is...
+Dialogue: 0,0:08:42.63,0:08:45.59,Default,Sunraku,0,0,0,,Sometimes a person can look like a woman, \Nbut they've got the soul of a man.
+Dialogue: 0,0:08:50.47,0:08:54.18,Default,Emul,0,0,0,,L-Life holds so many mysteries!
+Dialogue: 0,0:08:54.18,0:08:56.47,Default,Sunraku,0,0,0,,The world is truly vast.
+Dialogue: 0,0:08:57.06,0:08:58.89,Default,Oikatzo,0,0,0,,—ser.
+Dialogue: 0,0:09:00.94,0:09:02.15,Default,Sunraku,0,0,0,,I think he said something.
+Dialogue: 0,0:09:02.15,0:09:04.57,Default,Oikatzo,0,0,0,,Get down here, loser!
+Dialogue: 0,0:09:04.57,0:09:06.03,Default,Sunraku,0,0,0,,Hard to hear.
+Dialogue: 0,0:09:06.03,0:09:08.40,Default,Sunraku,0,0,0,,Guess it's not a prank to \Nget us killed, at least.
+Dialogue: 0,0:09:08.40,0:09:11.99,Default,Emul,0,0,0,,"Get down here, loser!" he said.
+Dialogue: 0,0:09:14.49,0:09:16.33,Default,Sunraku,0,0,0,,Fine, then!
+Dialogue: 0,0:09:16.33,0:09:18.20,Default,Sunraku,0,0,0,,I'll murder that asshole!
+Dialogue: 0,0:09:18.20,0:09:22.37,Default,Emul,0,0,0,,I-I'm not prepared!
+Dialogue: 0,0:09:29.59,0:09:31.01,Default,Oikatzo,0,0,0,,There you are.
+Dialogue: 0,0:09:31.30,0:09:34.51,Default,Oikatzo,0,0,0,,Surprisingly gentle slope, right?
+Dialogue: 0,0:09:37.52,0:09:40.77,Default,Sunraku,0,0,0,,So this is the hidden \Narea Pencilgon mentioned?
+Dialogue: 0,0:09:44.48,0:09:50.03,Default,Sunraku,0,0,0,,"You can fish up a monster called the \NLifestide Lake Serpent in the lake," it says.
+Dialogue: 0,0:09:50.32,0:09:53.11,Default,Sunraku,0,0,0,,Apparently it gives up some sweet exp drops.
+Dialogue: 0,0:09:53.11,0:09:55.87,Default,Oikatzo,0,0,0,,Can we fish up a monster \Nwith these puny little rods?
+Dialogue: 0,0:09:55.87,0:09:58.37,Default,Sunraku,0,0,0,,Well, might as well try it!
+Dialogue: 0,0:09:58.37,0:09:59.58,Default,Oikatzo,0,0,0,,Sure!
+Dialogue: 0,0:10:05.13,0:10:08.05,Default,Oikatzo,0,0,0,,Let's compete to see who \Ncan catch more!
+Dialogue: 0,0:10:08.05,0:10:09.55,Default,Sunraku,0,0,0,,Got a bite already!
+Dialogue: 0,0:10:09.55,0:10:10.63,Default,Oikatzo,0,0,0,,That's fast!
+Dialogue: 0,0:10:10.97,0:10:13.30,Default,Sunraku,0,0,0,,My father used to take \Nme fishing all the time.
+Dialogue: 0,0:10:13.72,0:10:15.59,Default,Sunraku,0,0,0,,I know all the tips and tricks.
+Dialogue: 0,0:10:15.59,0:10:17.56,Default,Oikatzo,0,0,0,,I think that's your luck stat, dude.
+Dialogue: 0,0:10:17.56,0:10:18.93,Default,Sunraku,0,0,0,,Got me, huh?
+Dialogue: 0,0:10:25.69,0:10:26.90,Default,Oikatzo,0,0,0,,A salmon.
+Dialogue: 0,0:10:27.61,0:10:29.23,Default,Oikatzo,0,0,0,,That's not what we're after.
+Dialogue: 0,0:10:29.23,0:10:30.57,Default,Oikatzo,0,0,0,,Looks tasty, though.
+Dialogue: 0,0:10:31.65,0:10:32.95,Default,Oikatzo,0,0,0,,Hey, I got one, too!
+Dialogue: 0,0:10:32.95,0:10:34.99,Default,Sunraku,0,0,0,,Just another salmon, right?
+Dialogue: 0,0:10:35.57,0:10:37.95,Default,Oikatzo,0,0,0,,It looks small, so probably.
+Dialogue: 0,0:10:37.95,0:10:39.66,Default,Sunraku,0,0,0,,Wanna try a new spot?
+Dialogue: 0,0:10:41.20,0:10:42.62,Default,Emul,0,0,0,,Sunraku-san!
+Dialogue: 0,0:10:46.04,0:10:49.21,Default,Emul,0,0,0,,What a grand serpent indeed!
+Dialogue: 0,0:10:51.55,0:10:53.80,Default,Sunraku,0,0,0,,Katzo, I think that's our guy!
+Dialogue: 0,0:10:55.38,0:10:57.89,Default,Sunraku,0,0,0,,The Lifestide Lake Serpent!
+Dialogue: 0,0:11:05.44,0:11:09.52,Default,Sunraku,0,0,0,,Guess it's time to unveil my new weapon.
+Dialogue: 0,0:11:09.52,0:11:10.61,Default,Oikatzo,0,0,0,,Huh?
+Dialogue: 0,0:11:10.61,0:11:14.78,Default,Oikatzo,0,0,0,,I thought you were too low-level \Nto equip those Moonblade things.
+Dialogue: 0,0:11:16.07,0:11:18.53,Default,Sunraku,0,0,0,,Who ever said...
+Dialogue: 0,0:11:19.24,0:11:20.99,Default,Sunraku,0,0,0,,I had only one weapon made?
+Dialogue: 0,0:11:21.58,0:11:23.91,Default,Sunraku,0,0,0,,Behold, the Empire Bee Twinblades!
+Dialogue: 0,0:11:23.91,0:11:26.50,Default,Emul,0,0,0,,How very impressive!
+Dialogue: 0,0:11:29.08,0:11:32.00,Default,Oikatzo,0,0,0,,What, you had another new weapon?
+Dialogue: 0,0:11:32.30,0:11:34.09,Default,Emul,0,0,0,,My big sister, Bee, made them!
+Dialogue: 0,0:11:34.38,0:11:35.17,Default,Oikatzo,0,0,0,,Bee?
+Dialogue: 0,0:11:45.02,0:11:46.77,Flashback,Bilac,0,0,0,,It's done!
+Dialogue: 0,0:11:46.77,0:11:50.48,Flashback,Bilac,0,0,0,,Made from the Empire Bee \NQueen material you brought...
+Dialogue: 0,0:11:50.48,0:11:52.44,Flashback,Bilac,0,0,0,,The Empire Bee Twinblades!
+Dialogue: 0,0:11:55.11,0:11:57.40,Flashback,Bilac,0,0,0,,Hey! Wake up, lazybones!
+Dialogue: 0,0:11:57.70,0:12:02.91,Flashback,Sunraku,0,0,0,,What, it's done already? Um... Bilac?
+Dialogue: 0,0:12:02.91,0:12:05.54,Flashback,Emul,0,0,0,,That's Big Sis Bee for you!
+Dialogue: 0,0:12:05.54,0:12:08.71,Flashback,Bilac,0,0,0,,You think you can disrespect \Nme if Pops isn't here?!
+Dialogue: 0,0:12:08.71,0:12:12.54,Flashback,Bilac,0,0,0,,I learned the trade from him, y'know!
+Dialogue: 0,0:12:12.75,0:12:14.96,Flashback,Sunraku,0,0,0,,Hey, I didn't mean it like that.
+Dialogue: 0,0:12:14.96,0:12:16.30,Flashback,Sunraku,0,0,0,,I really appreciate it!
+Dialogue: 0,0:12:16.30,0:12:20.14,Flashback,Sunraku,0,0,0,,I was pretty worried about what \NI'd do with my main weapon gone.
+Dialogue: 0,0:12:25.60,0:12:30.56,Flashback,Sunraku,0,0,0,,{\i0}Am I gonna have to manage affection levels \Nwith rabbits other than Emul and Vash?
+Dialogue: 0,0:12:31.27,0:12:33.27,Flashback,Sunraku,0,0,0,,It's not a dang dating sim!
+Dialogue: 0,0:12:34.19,0:12:35.28,Flashback,Sunraku,0,0,0,,Actually...
+Dialogue: 0,0:12:35.28,0:12:38.11,Flashback,Sunraku,0,0,0,,The thought of having to \Nmanage affection levels with
+Dialogue: 0,0:12:38.11,0:12:41.82,Flashback,Sunraku,0,0,0,,more rabbits in the future makes me...
+Dialogue: 0,0:12:43.20,0:12:45.37,Flashback,Emul,0,0,0,,What's the matter, Sunraku-san?
+Dialogue: 0,0:12:47.50,0:12:51.08,Flashback,Sunraku,0,0,0,,I'm getting trauma flashbacks \Nfrom that trash game dating sim!
+Dialogue: 0,0:12:52.04,0:12:57.51,Flashback,Sunraku,0,0,0,,I once had to balance affection levels \Nbetween twelve girls without a moment's slip.
+Dialogue: 0,0:12:58.01,0:12:59.88,Flashback,Sunraku,0,0,0,,The slightest lapse in attention
+Dialogue: 0,0:12:59.88,0:13:03.10,Flashback,Sunraku,0,0,0,,would trigger a domino effect \Nof tumbling affection levels...
+Dialogue: 0,0:13:03.72,0:13:06.43,Flashback,Sunraku,0,0,0,,And I'd land the bad end where all the girls
+Dialogue: 0,0:13:06.43,0:13:09.35,Flashback,Sunraku,0,0,0,,move to Italy to apprentice at a pizzeria!
+Dialogue: 0,0:13:11.10,0:13:13.40,Flashback,Bilac,0,0,0,,The heck're you talking about?
+Dialogue: 0,0:13:13.40,0:13:17.23,Flashback,Sunraku,0,0,0,,Sunraku Picklefish's adolescence, \Ncrushed beneath a pizza stone.
+Dialogue: 0,0:13:18.78,0:13:21.36,Flashback,Sunraku,0,0,0,,But hey, look at these new weapons!
+Dialogue: 0,0:13:21.36,0:13:24.24,Flashback,Sunraku,0,0,0,,Empire Bee Twinblades, huh?
+Dialogue: 0,0:13:26.29,0:13:28.37,Flashback,Sunraku,0,0,0,,You're pretty good.
+Dialogue: 0,0:13:28.37,0:13:29.62,Flashback,Bilac,0,0,0,,Damn right I am.
+Dialogue: 0,0:13:29.62,0:13:31.62,Flashback,Emul,0,0,0,,It's very impressive indeed!
+Dialogue: 0,0:13:31.62,0:13:37.09,Flashback,Sunraku,0,0,0,,Glad I came back for the Queen's \Nmaterials after I beat the Quad Beetle.
+Dialogue: 0,0:13:37.09,0:13:39.05,Flashback,Bilac,0,0,0,,Those blades'll serve you well.
+Dialogue: 0,0:13:39.51,0:13:42.51,Flashback,Bilac,0,0,0,,The right-hand blade has a special attribute.
+Dialogue: 0,0:13:42.84,0:13:44.01,Flashback,Sunraku,0,0,0,,The right-hand...?
+Dialogue: 0,0:13:53.85,0:13:55.40,Default,Oikatzu,0,0,0,,This thing is too damn tough!
+Dialogue: 0,0:13:55.73,0:13:59.65,Default,Oikatzu,0,0,0,,We're too low-level to put \Nmore than a scratch on it!
+Dialogue: 0,0:14:02.20,0:14:06.16,Default,Sunraku,0,0,0,,{\i1}Some weapons, skills, spells, \Nand monster attacks
+Dialogue: 0,0:14:07.24,0:14:12.37,Default,Sunraku,0,0,0,,{\i1}have the "corrode" attribute, \Nwhich destroys part of an avatar itself.
+Dialogue: 0,0:14:12.87,0:14:16.79,Default,Sunraku,0,0,0,,{\i1}If you deal enough damage to \Nthe part you want to take out,
+Dialogue: 0,0:14:17.13,0:14:21.38,Default,Sunraku,0,0,0,,{\i1}it'll cause visible damage to the part in \Nquestion and create a weak point there.
+Dialogue: 0,0:14:21.92,0:14:27.05,Flashback,Bilac,0,0,0,,But that weapon doesn't \Ncorrode in the normal way.
+Dialogue: 0,0:14:27.97,0:14:31.43,Flashback,Bilac,0,0,0,,It infects the part you attack \Nand corrodes it over time—
+Dialogue: 0,0:14:31.43,0:14:32.89,Flashback,Bilac,0,0,0,,{\an8}with corrosive poison.
+Dialogue: 0,0:14:36.11,0:14:37.65,Default,Sunraku,0,0,0,,{\i1}It acts like poison—
+Dialogue: 0,0:14:37.65,0:14:41.36,Default,Sunraku,0,0,0,,{\i1}the "corrode" attribute building up and \Nworming its way in little by little.
+Dialogue: 0,0:14:42.03,0:14:44.74,Default,Sunraku,0,0,0,,{\i1}And if you keep dealing more corrosive \Npoison with repeated strikes...
+Dialogue: 0,0:14:45.07,0:14:47.28,Default,Sunraku,0,0,0,,{\i1}it breaks through the \Nenemy's debuff resistance
+Dialogue: 0,0:14:47.28,0:14:49.74,Default,Sunraku,0,0,0,,{\i1}and causes the corrode attribute \Nto show itself faster!
+Dialogue: 0,0:14:49.95,0:14:51.75,Default,Sunraku,0,0,0,,I've stripped away its scales, Katzo!
+Dialogue: 0,0:14:51.75,0:14:52.66,Default,Oikatzo,0,0,0,,Got it!
+Dialogue: 0,0:14:52.66,0:14:53.87,Default,Oikatzo,0,0,0,,I'll bring out the big guns!
+Dialogue: 0,0:14:54.08,0:14:56.63,Default,Oikatzo,0,0,0,,Spirit Fist: Black!
+Dialogue: 0,0:15:06.72,0:15:07.72,Default,Oikatzo,0,0,0,,Nice!
+Dialogue: 0,0:15:07.72,0:15:10.06,Default,Oikatzo,0,0,0,,It's a proper weak point now.
+Dialogue: 0,0:15:11.06,0:15:13.77,Default,Emul,0,0,0,,I-I'll aid in the fight!
+Dialogue: 0,0:15:15.52,0:15:16.52,Default,Sunraku,0,0,0,,Emul!
+Dialogue: 0,0:15:22.19,0:15:23.19,Default,Sunraku,0,0,0,,Katzo!
+Dialogue: 0,0:15:24.28,0:15:26.70,Default,Oikatzo,0,0,0,,I built myself to tank damage, remember?
+Dialogue: 0,0:15:26.70,0:15:28.57,Default,Oikatzo,0,0,0,,That won't be enough to take me out!
+Dialogue: 0,0:15:28.57,0:15:31.20,Default,Emul,0,0,0,,Th-Thank you so much!
+Dialogue: 0,0:15:33.87,0:15:35.87,Default,Oikatzo,0,0,0,,Repel Counter!
+Dialogue: 0,0:15:35.87,0:15:38.38,Default,Sunraku,0,0,0,,Nice stun! Now, let's press the attack!
+Dialogue: 0,0:15:38.38,0:15:39.00,Default,Oikatzo,0,0,0,,Yeah!
+Dialogue: 0,0:15:39.00,0:15:40.13,Default,Emul,0,0,0,,Indeed!
+Dialogue: 0,0:15:40.34,0:15:42.71,Default,Sunraku,0,0,0,,I'll cut you into serpent fillets!
+Dialogue: 0,0:15:40.34,0:15:42.71,Default,Oikatzo,0,0,0,,I'll make minced eel out of you!
+Dialogue: 0,0:15:40.34,0:15:42.71,Default,Emul,0,0,0,,{\an8}Take this! Magic Edge!
+Dialogue: 0,0:15:48.47,0:15:49.97,Default,Sunraku,0,0,0,,Hell yeah!
+Dialogue: 0,0:15:49.97,0:15:51.47,Default,Emul,0,0,0,,We defeated it!
+Dialogue: 0,0:15:51.47,0:15:52.97,Default,Oikatzo,0,0,0,,Nice work!
+Dialogue: 0,0:15:59.27,0:16:01.65,Default,Sunraku,0,0,0,,Hey, I leveled up already!
+Dialogue: 0,0:16:01.65,0:16:04.28,Default,Sunraku,0,0,0,,These guys really do offer \Ngreat exp for the effort.
+Dialogue: 0,0:16:04.28,0:16:06.53,Default,Oikatzo,0,0,0,,Boy, that thing was tough.
+Dialogue: 0,0:16:06.53,0:16:08.99,Default,Oikatzo,0,0,0,,I got a four-level jump!
+Dialogue: 0,0:16:09.66,0:16:11.66,Default,Oikatzo,0,0,0,,Hey, I learned new skills, too!
+Dialogue: 0,0:16:12.28,0:16:15.41,Default,Oikatzo,0,0,0,,Wonder if I can link 'em \Nat the Skill Garden...
+Dialogue: 0,0:16:16.41,0:16:20.42,Default,Sunraku,0,0,0,,Linking skills? You thinking \Nof another game again?
+Dialogue: 0,0:16:26.42,0:16:27.59,Default,Oikatzo,0,0,0,,No, man!
+Dialogue: 0,0:16:27.59,0:16:29.47,Default,Oikatzo,0,0,0,,{\i1}SLF{\i0} is a game about skills.
+Dialogue: 0,0:16:29.47,0:16:34.72,Default,Oikatzo,0,0,0,,Of course you can combine the ones you \Nlearn to create combo skills, right?
+Dialogue: 0,0:16:34.72,0:16:35.81,Default,Sunraku,0,0,0,,Combine?
+Dialogue: 0,0:16:35.81,0:16:39.77,Default,Oikatzo,0,0,0,,Remember the tutorial in Firstia, \Nthe starting town?!
+Dialogue: 0,0:16:39.77,0:16:42.11,Default,Sunraku,0,0,0,,Firstia? Never went.
+Dialogue: 0,0:16:44.36,0:16:46.82,Default,Oikatzo,0,0,0,,Skills with proficiency \Nlevels can be linked up
+Dialogue: 0,0:16:46.82,0:16:50.20,Default,Oikatzo,0,0,0,,at a facility called the Skill Garden.
+Dialogue: 0,0:16:50.66,0:16:54.33,Default,Oikatzo,0,0,0,,That lets you create new "combo skills"!
+Dialogue: 0,0:16:54.79,0:16:57.08,Default,Sunraku,0,0,0,,P-Proficiency levels?!
+Dialogue: 0,0:16:57.70,0:16:59.04,Default,Sunraku,0,0,0,,That's right...
+Dialogue: 0,0:16:59.04,0:17:01.50,Default,Sunraku,0,0,0,,I was wondering why some \Nskills changed their name,
+Dialogue: 0,0:17:01.50,0:17:03.17,Default,Sunraku,0,0,0,,like Repel Counter to Flash Counter,
+Dialogue: 0,0:17:03.17,0:17:07.42,Default,Sunraku,0,0,0,,and some just came with \Nlevel numbers to raise...
+Dialogue: 0,0:17:07.80,0:17:11.01,Default,Sunraku,0,0,0,,So the second kind can be linked up?!
+Dialogue: 0,0:17:11.30,0:17:14.64,Default,Oikatzo,0,0,0,,You can also go to the \NSkill Garden to find out how long until
+Dialogue: 0,0:17:14.64,0:17:16.22,Default,Oikatzo,0,0,0,,your skills level up or evolve,
+Dialogue: 0,0:17:16.22,0:17:19.10,Default,Oikatzo,0,0,0,,and find out conditions \Nfor learning new skills.
+Dialogue: 0,0:17:19.10,0:17:20.48,Default,Oikatzo,0,0,0,,It's pretty crucial stuff!
+Dialogue: 0,0:17:20.48,0:17:22.69,Default,Oikatzo,0,0,0,,They also sell grimoires there, and—
+Dialogue: 0,0:17:25.19,0:17:27.86,Default,Emul,0,0,0,,Sunraku-san! Are you all right?
+Dialogue: 0,0:17:28.28,0:17:32.32,Default,Oikatzo,0,0,0,,{\an8}Don't tell me... you don't even \Nknow about sub-jobs and guilds?
+Dialogue: 0,0:17:34.07,0:17:39.00,Default,Sunraku,0,0,0,,How much did I miss by \Nskipping one little town?!
+Dialogue: 0,0:17:40.37,0:17:42.04,Default,Sunraku,0,0,0,,Fine, whatever!
+Dialogue: 0,0:17:42.04,0:17:45.17,Default,Sunraku,0,0,0,,Wallowing in regret will \Njust get me depressed!
+Dialogue: 0,0:17:45.17,0:17:47.59,Default,Sunraku,0,0,0,,Let's get back to the grind!
+Dialogue: 0,0:17:53.22,0:17:56.47,Default,Sunraku,0,0,0,,The best cure for bad \Nmemories is simple labor!
+Dialogue: 0,0:17:56.81,0:18:00.31,Default,Sunraku,0,0,0,,Let's catch us a big eel, Katzo! Emul!
+Dialogue: 0,0:18:00.31,0:18:02.14,Default,Emul,0,0,0,,R-Righty-o!
+Dialogue: 0,0:18:03.31,0:18:05.69,Default,Oikatzo,0,0,0,,Going for the mental blackout, huh?
+Dialogue: 0,0:18:10.69,0:18:14.03,Default,Pencilgon,0,0,0,,Level 42 and Level 40?
+Dialogue: 0,0:18:14.03,0:18:17.49,Default,Pencilgon,0,0,0,,That's a lot of progress \Nin pretty a short time.
+Dialogue: 0,0:18:17.49,0:18:20.00,Default,Pencilgon,0,0,0,,You could even afford to slow down a bit...
+Dialogue: 0,0:18:20.00,0:18:21.00,Default,Pencilgon,0,0,0,,What got into you?
+Dialogue: 0,0:18:21.00,0:18:25.04,Default,Oikatzo,0,0,0,,Actually, turns out Sunraku \Nskipped the tutori—
+Dialogue: 0,0:18:25.92,0:18:28.63,Default,Oikatzo,0,0,0,,Fine, fine. I won't tell her.
+Dialogue: 0,0:18:29.71,0:18:34.97,Default,Oikatzo,0,0,0,,Still, Emul-chan's got some \Npretty nice attack power!
+Dialogue: 0,0:18:36.09,0:18:38.22,Default,Emul,0,0,0,,I'm truly exhausted!
+Dialogue: 0,0:18:38.22,0:18:41.60,Default,Sunraku,0,0,0,,It just so happens, \Nmy dear little Emul is level 56!
+Dialogue: 0,0:18:42.93,0:18:45.69,Default,Sunraku,0,0,0,,And this tent's a handy little thing, huh?
+Dialogue: 0,0:18:45.69,0:18:49.19,Default,Sunraku,0,0,0,,{\an8}It's not the coziest, but it\Nlets you make a save point, right?
+Dialogue: 0,0:18:49.19,0:18:51.19,Default,Pencilgon,0,0,0,,{\an8}Yeah, but they're the worst.
+Dialogue: 0,0:18:51.19,0:18:54.95,Default,Pencilgon,0,0,0,,{\an8}Stupidly expensive for something \Nwith a limited number of uses.
+Dialogue: 0,0:18:55.24,0:18:59.95,Default,Pencilgon,0,0,0,,I'd never use one for this if \Nwe weren't pressed for time.
+Dialogue: 0,0:19:00.45,0:19:03.75,Default,Pencilgon,0,0,0,,Well, enough sitting around. Let's go!
+Dialogue: 0,0:19:03.75,0:19:04.79,Default,Sunraku,0,0,0,,Go?
+Dialogue: 0,0:19:04.79,0:19:05.96,Default,Oikatzo,0,0,0,,Go where?
+Dialogue: 0,0:19:07.38,0:19:11.17,Default,Pencilgon,0,0,0,,It's a full moon tonight. \NThe only time we can meet her.
+Dialogue: 0,0:19:13.17,0:19:14.51,Default,Sunraku,0,0,0,,Meet who?
+Dialogue: 0,0:19:15.38,0:19:20.26,Default,Pencilgon,0,0,0,,In order to fight Wethermon the Tombguard, \Nthere's someone we need to talk to.
+Dialogue: 0,0:19:22.06,0:19:26.56,Default,Pencilgon,0,0,0,,The unique NPC... Setsuna of Bygone Days.
+Dialogue: 0,0:19:28.19,0:19:29.40,Default,Pencilgon,0,0,0,,Set-chan.
+Dialogue: 0,0:19:30.65,0:19:45.12,Default,Setsuna,0,0,0,,{\i1}Into the gap between moments
+Dialogue: 0,0:19:47.17,0:19:56.68,Default,Setsuna,0,0,0,,{\i1}spills a single wish

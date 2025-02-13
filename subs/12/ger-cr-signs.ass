@@ -1,0 +1,77 @@
+﻿[Script Info]
+Title: Deutsch
+ScaledBorderAndShadow: yes
+Original Script: cr_de  [http://www.crunchyroll.com/user/cr_de]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+LayoutResX: 1920
+LayoutResY: 1080
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: TypePlaceholder,Arial,60,&H00FFFFFF,&H000000FF,&H00000000,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,6,0,8,30,30,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:02:12.32,0:02:17.74,TypePlaceholder,,0,0,0,,{\an1\fnVerdana Bold\fscx90\shad6\fs+1\b1\fsp3\c&HFCFEFE&\4c&HC7951D&\bord0\fad(206,0)\3c&HFFFFFE&\pos(414.78,895.32)}Bedauern liegt {\alpha&HFF&\t(331,498,\alpha&H00&)}immer {\alpha&HFF&\t(623,873,\alpha&H00&)}in der {\fnGeorgia Bold\fscx100\bord3\c&HC7951D&\3c&HFCFEFE&\4c&HFCFEFE&\alpha&HFF&\t(957,1749,\alpha&H00&)}Vergangenheit
+Dialogue: 0,0:02:12.53,0:02:17.74,TypePlaceholder,,0,0,0,,{\p1\c&HC7951D&\bord0\fad(101,0)\fscx530\fscy510\pos(1003.5,928.5)}m 0 0 l -9 -21 l 33 -21 l 33 -6
+Dialogue: 0,0:02:20.87,0:02:23.12,TypePlaceholder,,0,0,0,,{\fnTimes New Roman Bold\bord0\fax-0.5\an1\fs-3\c&H87867D&\frz6.688\pos(441,312)}\h\hGesammelte Informationen\Nüber Wezaemon
+Dialogue: 0,0:02:39.56,0:02:47.31,TypePlaceholder,,0,0,0,,{\fnTahoma\b0\c&HF1F5EF&\3c&H68795B&\bord3\fs-2\an2\move(730.5,85.5,730.5,73.5,108,400)}Sunraku
+Dialogue: 0,0:02:39.56,0:02:47.31,TypePlaceholder,,0,0,0,,{\fnTahoma\b0\c&HF1F5EF&\3c&H68795B&\bord3\fs-2\an2\move(1452,133.5,1419,135,108,400)}Katso Tataki
+Dialogue: 0,0:02:47.31,0:02:48.48,TypePlaceholder,,0,0,0,,{\fnTahoma\b0\c&HF1F5EF&\3c&H68795B&\bord3\fs-2\an2\move(730.5,73.5,706.5,72,0,314)}Sunraku
+Dialogue: 0,0:02:47.31,0:02:48.48,TypePlaceholder,,0,0,0,,{\fnTahoma\b0\c&HF1F5EF&\3c&H68795B&\bord3\fs-2\an2\move(1419,135,1470,135,0,314)}Katso Tataki
+Dialogue: 0,0:02:51.94,0:02:56.70,TypePlaceholder,,0,0,0,,{\fnTahoma\b0\c&HECF0E9&\3c&H657652&\bord3\fs\an2\frz350.1\move(1519.5,265.5,1696.5,363,22,4735)}Katso Tataki
+Dialogue: 0,0:03:00.70,0:03:05.21,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\fsp6\fad(0,0)\c&HFEFFFD&\fs-2\3c&H9F881B&\pos(960,591)}Eisenruinen des göttlichen Zeitalters
+Dialogue: 0,0:03:07.00,0:03:09.46,TypePlaceholder,Pencil Warrior,0,0,0,,{\fnTahoma\b0\an2\bord4.8\fs+1\fad(436,0)\c&H000000&\3c&HFFFFFF&\pos(960,889.5)}Leveln = sein Level erhöhen
+Dialogue: 0,0:04:47.31,0:04:49.69,TypePlaceholder,,0,0,0,,{\fnVerdana\b0\c&H7A2EF5&\fsp3\fs-1\blur3\bord3\3c&H332050&\pos(427.5,340.5)}Unterdrückungsdrohne\N{\fs-1}Typ: Pyramide
+Dialogue: 1,0:05:20.17,0:05:22.55,TypePlaceholder,,0,0,0,,{\fnImpact\b0\bord19.5\fsp6\fad(160,229)\an1\fs+3\fax-0.3\c&HFCC630&\3c&H0E1916&\frz6.162\pos(669,231)}Schmetternder Aufwärtshaken
+Dialogue: 2,0:05:20.17,0:05:22.55,TypePlaceholder,,0,0,0,,{\fnImpact\b0\bord7.5\fsp6\fad(160,229)\an1\fs+3\fax-0.3\c&HF59820&\3c&HFDFEF6&\t(242,243,\c&HFEFEFA&\3c&HEEEC60&\blur6)\t(368,493,\blur0\c&HF6BA2D&\3cHFDFEF6&)\frz6.162\pos(669,231)}Schmetternder Aufwärtshaken
+Dialogue: 0,0:05:29.60,0:05:33.02,TypePlaceholder,,0,0,0,,{\fnTahoma\b0\an2\bord4.8\fs+1\fad(540,503)\c&H000000&\3c&HFFFFFF&\pos(960,889.5)}Buff = Verstärkung
+Dialogue: 0,0:05:34.61,0:05:36.82,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\an2\fad(660,0)\pos(967.5,790.5)\c&HFEEB7E&\3c&H6F692F&\bord3\blur6}Geisterfaust: Roter Impuls
+Dialogue: 0,0:05:42.78,0:05:45.83,TypePlaceholder,,0,0,0,,{\fnTahoma\b0\an2\bord4.8\fs+1\fad(583,0)\c&H000000&\3c&HFFFFFF&\pos(960,852)}Beruf: Mönch
+Dialogue: 1,0:07:55.29,0:07:55.75,TypePlaceholder,,0,0,0,,{\fnImpact\b0\fsp3\an2\fad(204,0)\frz340.9\c&H1A31D1&\3c&HFCFEEB&\bord9\pos(1062,226.5)}Voller Erfolg!!
+Dialogue: 2,0:07:55.29,0:07:55.75,TypePlaceholder,,0,0,0,,{\fnImpact\b0\bord3\fsp3\an2\fad(204,0)\frz340.9\c&H1A31D1&\3c&H1A2F7B&\pos(1062,226.5)}Voller Erfolg!!
+Dialogue: 1,0:07:55.75,0:07:56.25,TypePlaceholder,,0,0,0,,{\fnImpact\b0\fsp3\an2\fad(0,0)\c&H1A31D1&\3c&HFCFEEB&\bord9\frz19.65\pos(826.5,222)}Voller Erfolg!!
+Dialogue: 2,0:07:55.75,0:07:56.25,TypePlaceholder,,0,0,0,,{\fnImpact\b0\bord3\fsp3\an2\fad(0,0)\c&H1A31D1&\3c&H1A2F7B&\frz19.65\pos(826.5,222)}Voller Erfolg!!
+Dialogue: 1,0:07:56.25,0:07:56.75,TypePlaceholder,,0,0,0,,{\fnImpact\b0\fsp3\an2\fad(0,0)\frz340.9\c&H1A31D1&\3c&HFCFEEB&\bord9\pos(1062,226.5)}Voller Erfolg!!
+Dialogue: 2,0:07:56.25,0:07:56.75,TypePlaceholder,,0,0,0,,{\fnImpact\b0\bord3\fsp3\an2\fad(0,0)\frz340.9\c&H1A31D1&\3c&H1A2F7B&\pos(1062,226.5)}Voller Erfolg!!
+Dialogue: 1,0:07:56.75,0:07:57.25,TypePlaceholder,,0,0,0,,{\fnImpact\b0\fsp3\an2\fad(0,0)\c&H1A31D1&\3c&HFCFEEB&\bord9\frz19.65\pos(826.5,222)}Voller Erfolg!!
+Dialogue: 2,0:07:56.75,0:07:57.25,TypePlaceholder,,0,0,0,,{\fnImpact\b0\bord3\fsp3\an2\fad(0,0)\c&H1A31D1&\3c&H1A2F7B&\frz19.65\pos(826.5,222)}Voller Erfolg!!
+Dialogue: 1,0:07:57.25,0:07:57.75,TypePlaceholder,,0,0,0,,{\fnImpact\b0\fsp3\an2\fad(0,0)\frz340.9\c&H1A31D1&\3c&HFCFEEB&\bord9\pos(1062,226.5)}Voller Erfolg!!
+Dialogue: 2,0:07:57.25,0:07:57.75,TypePlaceholder,,0,0,0,,{\fnImpact\b0\bord3\fsp3\an2\fad(0,0)\frz340.9\c&H1A31D1&\3c&H1A2F7B&\pos(1062,226.5)}Voller Erfolg!!
+Dialogue: 1,0:07:57.75,0:07:58.21,TypePlaceholder,,0,0,0,,{\fnImpact\b0\fsp3\an2\fad(0,0)\c&H1A31D1&\3c&HFCFEEB&\bord9\frz19.65\pos(826.5,222)}Voller Erfolg!!
+Dialogue: 2,0:07:57.75,0:07:58.21,TypePlaceholder,,0,0,0,,{\fnImpact\b0\bord3\fsp3\an2\fad(0,0)\c&H1A31D1&\3c&H1A2F7B&\frz19.65\pos(826.5,222)}Voller Erfolg!!
+Dialogue: 0,0:09:39.56,0:09:43.02,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\fsp6\fad(496,0)\c&HFEFFFD&\fs-2\3c&H9F881B&\pos(960,591)}Unterirdischer See des Tränenschimmers
+Dialogue: 0,0:10:23.19,0:10:25.44,TypePlaceholder,,0,0,0,,{\fnVerdana\b0\c&H7A2EF5&\fsp3\fs-1\an7\blur3\bord3\3c&H332050&\pos(207,912)}Lebensflut-Lachs
+Dialogue: 0,0:10:54.47,0:10:57.26,TypePlaceholder,,0,0,0,,{\fnVerdana\b0\c&H7A2EF5&\fsp3\an7\fs-2.5\blur3\bord3\3c&H332050&\pos(36,385.5)}Lebensflut-Seeschlange
+Dialogue: 0,0:11:22.37,0:11:26.50,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\fs-1\bord9\fad(200,0)\c&HF8F6AA&\3c&H271807&\an2\pos(969,717)}Imperiumbienen-Zwillinge\N{\fnTahoma\b0\fs-1\c&H8E846D&}ausgerüstet.
+Dialogue: 0,0:13:46.60,0:13:48.39,TypePlaceholder,,0,0,0,,{\an2\pos(1413.494,667.5)\org(1411.5,667.5)\fscx95.856\fscy99.317\frz3.735\fry-6.181\frx2.097\fax-0.185\fnVerdana Bold\xbord0\ybord0\c&HFFF9A1&}Spiralschneide
+Dialogue: 0,0:14:31.52,0:14:33.64,TypePlaceholder,,0,0,0,,{\fnTahoma\b0\an2\bord4.8\fs+1\fad(536,0)\c&H000000&\3c&HFFFFFF&\pos(960,847.5)}Verderbnisgift
+Dialogue: 0,0:16:34.68,0:16:39.31,TypePlaceholder,,0,0,0,,{\fnComic Sans MS bold\fad(229,335)\bord0\fs+3\c&H23294D&\frz339\move(1662,277.5,1701,201,21,4608)}Fusion …
+Dialogue: 0,0:16:43.94,0:16:49.20,TypePlaceholder,,0,0,0,,{\fnTahoma\b0\fs-1.7\bord0\c&H35616A&\move(645,132,645,261,4284,5243)}Nahkampffähigkeit{\fs+3\c&H33373F&}\N\N\N\N\N\NPower-Haken Lv. 5
+Dialogue: 0,0:16:43.94,0:16:49.20,TypePlaceholder,,0,0,0,,{\fnTahoma\b0\fs-1.7\bord0\c&H35616A&\move(645,655.5,645,547.5,4284,5243)}Fähigkeit zur Verbesserung der kritischen Rate{\fs+3\c&H33373F&}\N\N\N\N\N\NKritische Unterstützung Lv. 3
+Dialogue: 0,0:16:49.20,0:16:51.20,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\c&H3444A4&\3c&H9AF3F3&\pos(640.5,574.5)}Verknüpfung
+Dialogue: 0,0:16:51.20,0:16:54.33,TypePlaceholder,,0,0,0,,{\fnTahoma\b0\bord0\fs-3.5\c&H2F4443&\pos(633,381)}Chance auf Bewusstlosigkeit bei kritischem Treffer{\fs+12}\N\N\N\N\N\NKnockout
+Dialogue: 0,0:16:56.62,0:17:11.01,TypePlaceholder,,0,0,0,,{\fnVerdana\b0\an7\fad(583,0)\c&HC4BBA5&\bord0\fs-2\frz10.7\t(0,0,\fscx135\fscy135)\move(301.5,663,415.5,715.5,41,14347)}Abwehrkonter\NBlitzkonter\NSchleifenschlitzer Lv. 5\NBeschleunigung Lv. 6
+Dialogue: 0,0:17:29.61,0:17:31.86,TypePlaceholder,,0,0,0,,{\fnTahoma\b0\an2\bord4.8\fs+1\fad(0,510)\c&H000000&\3c&HFFFFFF&\pos(499.5,753)}Nebenberufe
+Dialogue: 0,0:17:30.32,0:17:31.86,TypePlaceholder,,0,0,0,,{\fnTahoma\b0\an2\bord4.8\fs+1\fad(0,510)\c&H000000&\3c&HFFFFFF&\pos(1429.5,759)}Gilden
+Dialogue: 1,0:18:10.28,0:18:14.03,TypePlaceholder,,0,0,0,,{\fnImpact\b0\fax-0.3\fs+3\frz9.466\bord9\c&H8D8935&\3c&H5B6468&\move(423,211.5,423,318,26,3738)}Oikatso
+Dialogue: 2,0:18:10.28,0:18:14.03,TypePlaceholder,,0,0,0,,{\fnImpact\b0\fax-0.3\fs+3\frz9.466\move(423,211.5,423,318,26,3738)\c&H8D8935&\3c&HFFFFFF&}Oikatso
+Dialogue: 1,0:18:10.28,0:18:14.03,TypePlaceholder,,0,0,0,,{\fnImpact\b0\fax-0.1\fs+3\bord9\c&H8D8935&\3c&H5B6468&\frz349\move(1317,198,1317,294,26,3738)}Sunraku
+Dialogue: 2,0:18:10.28,0:18:14.03,TypePlaceholder,,0,0,0,,{\fnImpact\b0\fax-0.1\fs+3\c&H8D8935&\3c&HFFFFFF&\frz349\move(1317,198,1317,294,26,3738)}Sunraku
+Dialogue: 0,0:18:45.69,0:18:54.95,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\an2\fad(0,0)\c&HFFE78F&\fs+3\3c&H454228&\bord3\blur6\pos(1428,862.5)}Speicherzelt
+Dialogue: 0,0:20:19.16,0:20:22.45,TypePlaceholder,,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\pos(960,45)}Übersetzung: Markus Lange
+Dialogue: 0,0:20:19.16,0:20:22.45,TypePlaceholder,,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\an2\pos(960,1035)}Spotting: Michael Gohl
+Dialogue: 0,0:20:22.45,0:20:25.79,TypePlaceholder,,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\pos(960,45)}Revision & Typesetting: Jacqueline Philippi
+Dialogue: 0,0:20:22.45,0:20:25.79,TypePlaceholder,,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\an2\pos(960,1035)}Qualitätskontrolle: Konrad Walter
+Dialogue: 0,0:20:25.79,0:20:28.67,TypePlaceholder,,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\pos(960,45)}Projektleitung: Tobias Philippi
+Dialogue: 0,0:21:36.94,0:21:44.20,TypePlaceholder,,0,0,0,,{\fnComic Sans MS Bold\fs+4\bord0\shad6\fs+6\c&H7CEDEF&\4c&H51CBDA&\pos(960,9)}Sh{\c&HC297F0&\4c&H966CD6&}a{\c&H679FF8&\4c&H3171D7&}n{\c&HDE72BD&\4c&HB64897&}F{\c&H5B63E6&\4c&H484FC2&}ro
+Dialogue: 0,0:21:40.74,0:21:44.20,TypePlaceholder,,0,0,0,,{\fnComic Sans MS bold\fad(493,0)\fs+2\fax-0.15\an3\c&HFAFFFE&\3c&H376777&\4c&H1C3F4D&\shad3.9\bord3.9\pos(1825.5,628.5)}#17 Animalias Expeditionskorps – Der mysteriöse Vogel der Waldgrotte, „Hasenohren-Schuhschnabel“, war real!
+Dialogue: 0,0:21:41.32,0:21:44.20,TypePlaceholder,,0,0,0,,{\c&H515655&\fnComic Sans MS Bold\fad(333,0)\fs+2\bord0\frz43.99\pos(1447.5,118.5)}Mini
+Dialogue: 0,0:21:44.20,0:23:48.32,TypePlaceholder,,0,0,0,,{\fnComic Sans MS bold\fad(0,0)\fs+2\fax-0.15\an9\c&HFEFFFF&\3c&H3C6477&\4c&H0B1C25&\shad3.9\bord3.9\pos(1831.5,117)}ShanFro-Theater
+Dialogue: 0,0:22:01.97,0:22:05.14,TypePlaceholder,,0,0,0,,{\fnTimes New Roman Bold\an5\c&H0600A6&\fs-4\bord3\t(0,286,\fscx300\fscy300\bord6)\3c&HFDF9FA&\move(960,664.5,958.5,192,2372,3164)\t(2372,3164,\fscx500\fscy500)}Animalias\hExpeditionskorps
+Dialogue: 0,0:22:05.60,0:22:08.64,TypePlaceholder,,0,0,0,,{\fnTimes New Roman Bold\an5\c&H0600A6&\fs-4\bord3\t(0,744,\fscx300\fscy300\bord6)\3c&HFDF9FA&\pos(955.5,688.5)\t(2579,0,\fry80\fscx50)}Der mysteriöse Vogel der Waldgrotte,
+Dialogue: 0,0:22:08.64,0:22:12.48,TypePlaceholder,,0,0,0,,{\fnTimes New Roman Bold\an5\c&H0600A6&\fry-90\fs-4\bord3\t(0,540,\fry0\fscx300\fscy300\bord6)\3c&HFDF9FA&\t(3042,0,\fscy500\fscx500)\move(960,792,960,1320,3042,3835)}„Hasenohren-Schuhschnabel“,\hwar\hreal!

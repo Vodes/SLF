@@ -1,0 +1,86 @@
+﻿[Script Info]
+Title: Deutsch
+ScaledBorderAndShadow: yes
+Original Script: cr_de  [http://www.crunchyroll.com/user/cr_de]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+LayoutResX: 1920
+LayoutResY: 1080
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: TypePlaceholder,Arial Bold,60,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,0,0,8,30,30,60,1
+Style: TypePlaceholderBox,Arial Bold,66,&H00200960,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,3,6,0,8,30,30,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:02:12.40,0:02:17.95,TypePlaceholder,,0,0,0,,{\an1\fnGeorgia BOLD\shad6\fs+4\b1\fsp3\c&HC7951D&\4c&HFEFDFE&\bord3\fad(116,252)\3c&HFEFDFE&\pos(469.5,1011)}S{\alpha&HFF&\t(158,241,\alpha&H00&)}p{\alpha&HFF&\t(241,342,\alpha&H00&)}ra{\fnVerdana Bold\fscx90\c&HFEFDFE&\4c&HC7951D&\bord0\alpha&HFF&\t(366,491,\alpha&H00&)}tz
+Dialogue: 0,0:02:38.89,0:02:40.47,TypePlaceholder,,0,0,0,,{\fnTrebuchet MS bold\bord4.5\an2\fs+5\c&H170D4B&\fax0.266\3c&HD7E0E8&\pos(1410,577.5)\frz353.4}Dragonfly
+Dialogue: 0,0:02:42.14,0:02:43.43,TypePlaceholder,,0,0,0,,{\fnTrebuchet MS bold\bord4.5\an2\fs+5\c&H170D4B&\fax0.266\3c&HD7E0E8&\pos(1410,577.5)\frz353.4}Dragonfly
+Dialogue: 0,0:03:11.46,0:03:15.22,TypePlaceholder,,0,0,0,,{\fnGeorgia BOLD\bord21\c&H2C199C&\fs-1\3c&H3D424C&\4c&H3D424C&\shad6\an2\t(41,532,\fscx140\fscy140\fry1440)\t(532,0,\fscx180\fscy180)\move(960,315,960,220.5,31,3493)}Kampf beginnt\NRunde 1
+Dialogue: 0,0:03:11.46,0:03:15.22,TypePlaceholder,,0,0,0,,{\fnGeorgia BOLD\bord16.8\c&H2C199C&\fs-1\3c&HB9B9B9&\an2\t(41,532,\fscx140\fscy140\fry1440)\t(532,0,\fscx180\fscy180)\move(960,315,960,220.5,31,3493)}Kampf beginnt\NRunde 1
+Dialogue: 0,0:03:11.46,0:03:15.22,TypePlaceholder,,0,0,0,,{\fnGeorgia BOLD\bord7.8\c&H2C199C&\fs-1\3c&H3D424C&\an2\t(41,532,\fscx140\fscy140\fry1440)\t(532,0,\fscx180\fscy180)\move(960,315,960,220.5,31,3493)}Kampf beginnt\NRunde 1
+Dialogue: 0,0:03:11.46,0:03:15.22,TypePlaceholder,,0,0,0,,{\fnGeorgia BOLD\bord3.6\c&H2C199C&\fs-1\3c&HD6D9EE&\an2\t(41,532,\fscx140\fscy140\fry1440)\t(532,0,\fscx180\fscy180)\move(960,315,960,220.5,31,3493)}Kampf beginnt\NRunde 1
+Dialogue: 0,0:03:11.96,0:03:14.97,TypePlaceholder,,0,0,0,,{\fnTrebuchet MS Bold\fs+2\fax-0.1\bord6\c&H151785&\3c&HE3EEFB&\an2\pos(429,865.5)}Dragonfly
+Dialogue: 0,0:03:11.96,0:03:14.97,TypePlaceholder,,0,0,0,,{\fnTrebuchet MS Bold\fs+2\fax-0.1\bord6\c&H151785&\3c&HE3EEFB&\an2\pos(1554,870)}Sunraku
+Dialogue: 0,0:04:01.55,0:04:02.31,TypePlaceholder,,0,0,0,,{\fnTrebuchet MS Bold\fs+6\fax-0.3\bord6\c&H190C59&\3c&HE4E7F1&\an2\frz15.34\pos(673.5,376.5)}Sunraku
+Dialogue: 0,0:05:22.68,0:05:24.18,TypePlaceholder,,0,0,0,,{\fnTrebuchet MS Bold\fs+2\fax\bord6\c&H1D1053&\3c&HD7DAEB&\an2\pos(618,771)}Sunraku
+Dialogue: 0,0:05:24.18,0:05:25.35,TypePlaceholder,,0,0,0,,{\fnTrebuchet MS Bold\fs-2\bord3\fax\c&H1D1053&\3c&HD7DAEB&\an2\pos(643.5,97.5)}Sunraku
+Dialogue: 0,0:05:26.85,0:05:28.77,TypePlaceholder,,0,0,0,,{\pos(510,385.5)\org(510,385.5)\fscx99.947\fscy99.782\frz-0.399\fry0.667\frx1.336\fax0.002\fnTrebuchet MS Bold\xbord6\ybord5.99\c&HF8FCFC&\3c&HF8FCFC&\t(0,120,\alpha&HFF&)\t(120,204,\alpha&H00&\c&H5D4CE2&)\fs+2}Runde 1
+Dialogue: 0,0:07:00.90,0:07:04.40,TypePlaceholder,,0,0,0,,{\fnTrebuchet MS Bold\fs+2\bord6\fax-0.1\c&H151785&\3c&HE3EEFB&\an2\pos(429,865.5)}Dragonfly
+Dialogue: 0,0:07:00.90,0:07:04.40,TypePlaceholder,,0,0,0,,{\fnTrebuchet MS Bold\fs+2\fax-0.1\bord6\c&H151785&\3c&HE3EEFB&\an2\pos(1554,870)}Sunraku
+Dialogue: 0,0:07:00.90,0:07:04.65,TypePlaceholder,,0,0,0,,{\fnGeorgia BOLD\bord21\c&H2C199C&\fs-1\3c&H3D424C&\4c&H3D424C&\shad6\an2\t(41,532,\fscx140\fscy140\fry1440)\t(532,0,\fscx180\fscy180)\move(960,315,960,220.5,31,3493)}Kampf beginnt\NRunde 2
+Dialogue: 0,0:07:00.90,0:07:04.65,TypePlaceholder,,0,0,0,,{\fnGeorgia BOLD\bord16.8\c&H2C199C&\fs-1\3c&HB9B9B9&\an2\t(41,532,\fscx140\fscy140\fry1440)\t(532,0,\fscx180\fscy180)\move(960,315,960,220.5,31,3493)}Kampf beginnt\NRunde 2
+Dialogue: 0,0:07:00.90,0:07:04.65,TypePlaceholder,,0,0,0,,{\fnGeorgia BOLD\bord7.8\c&H2C199C&\fs-1\3c&H3D424C&\an2\t(41,532,\fscx140\fscy140\fry1440)\t(532,0,\fscx180\fscy180)\move(960,315,960,220.5,31,3493)}Kampf beginnt\NRunde 2
+Dialogue: 0,0:07:00.90,0:07:04.65,TypePlaceholder,,0,0,0,,{\fnGeorgia BOLD\bord3.6\c&H2C199C&\fs-1\3c&HD6D9EE&\an2\t(41,532,\fscx140\fscy140\fry1440)\t(532,0,\fscx180\fscy180)\move(960,315,960,220.5,31,3493)}Kampf beginnt\NRunde 2
+Dialogue: 0,0:09:04.19,0:09:06.94,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\fsp6\fad(0,0)\an2\c&HFDFEFA&\bord6\fs-\3c&HB8AE54&\pos(960,888)}Hasenpalast
+Dialogue: 1,0:10:18.81,0:10:22.31,TypePlaceholder,,0,0,0,,{\fnImpact\an2\fs+6\b0\fsp15\bord18\blur12\c&H1C252A&\3c&HA9FBF5&\move(960,124.5,960,367.5,25,3487)}Fähigkeiten-Gärtner
+Dialogue: 2,0:10:18.81,0:10:22.31,TypePlaceholder,,0,0,0,,{\fnImpact\an2\fs+6\b0\fsp15\bord7.5\c&H1C252A&\3c&HE0F2F3&\move(960,124.5,960,367.5,25,3487)}Fähigkeiten-Gärtner
+Dialogue: 0,0:10:28.82,0:10:29.82,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\fs+4\an2\bord0\c&H9E56DE&\pos(1467,1038)}Elk
+Dialogue: 1,0:11:29.54,0:11:37.43,TypePlaceholder,,0,0,0,,{\p1\c&H0D452E&\bord6\3c&H3CF99E&\blur6\pos(1012.5,43.5)}m 0 0 l 900 0 l 900 810 l 0 810
+Dialogue: 2,0:11:29.54,0:11:37.43,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\bord0\c&H44FFD5&\pos(1012.5,55.5)}Verknüpfbare Fähigkeiten
+Dialogue: 2,0:11:29.54,0:11:37.43,TypePlaceholder,,0,0,0,,{\fnVerdana\an7\bord0\b0\fs-1\fsp6\c&HD7E193&\pos(591,130.5)}Starker Schläger {\c&HEAF4E9&\b1}Lv. 1\N{\b0\c&HD7E193&}Schleifenschlitzer {\c&HEAF4E9&\b1}Lv. 8\N{\b0\c&HD7E193&}Beschleunigen {\c&HEAF4E9&\b1}Lv. MAX\N{\b0\c&HD7E193&}Rehschritt {\c&HEAF4E9&\b1}Lv. 7\N{\b0\c&HD7E193&}Steinehüpfen {\c&HEAF4E9&\b1}Lv. 6\N{\b0\c&HD7E193&}Niedermähen {\c&HEAF4E9&\b1}Lv. 4\N{\b0\c&HD7E193&}Unterdrückungstritt {\c&HEAF4E9&\b1}Lv. 5\N{\b0\c&HD7E193&}Rüstungsbrecher {\c&HEAF4E9&\b1}Lv. 3\N{\b0\c&HD7E193&}Kampfgeist {\c&HEAF4E9&\b1}Lv. 7\N{\b0\c&HD7E193&}Unbeugsam {\c&HEAF4E9&\b1}Lv. 5\N{\b0\c&HD7E193&}Überflieger {\c&HEAF4E9&\b1}Lv. 6\N{\b0\c&HD7E193&}Nackter Verstand {\c&HEAF4E9&\b1}Lv. 4\N{\b0\c&HD7E193&}Hungertrieb {\c&HEAF4E9&\b1}Lv. 4
+Dialogue: 0,0:12:02.12,0:12:06.46,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\c&H81EE2E&\fs-2\fax0.2\3c&H2A721E&\an2\bord3\pos(706.5,102)\frz356.3}Verknüpfungen 6/6
+Dialogue: 0,0:12:02.20,0:12:04.58,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\an2\fs-1\fax0.2\bord0\c&HFCF783&\frz356.2\pos(1071,226.5)}Beschleunigung {\c&HFEFEFE&}Lv. MAX
+Dialogue: 0,0:12:02.20,0:12:04.58,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\an2\fs-1\fax0.05\bord0\c&HFCF783&\fad(200,0)\pos(891,820.5)\frz3.874}Kampfgeist {\c&HFEFEFE&}Lv. 7
+Dialogue: 0,0:12:04.58,0:12:06.46,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\bord0\fs+2\c&H77FF56&\fax0.15\an2\pos(1044,394.5)\frz358.2}Spitzenschub
+Dialogue: 2,0:12:42.41,0:12:49.67,TypePlaceholder,,0,0,0,,{\fnImpact\b0\fax-0.3\fs+2\bord4.5\an2\c&HCC9D16&\3c&HFAEEEC&\frz4.391\move(613.5,252,613.5,-10.5,27,7242)}Sunraku
+Dialogue: 2,0:12:42.41,0:12:49.67,TypePlaceholder,,0,0,0,,{\fnVerdana\b0\c&HF4EEE6&\an1\bord0\fs-1\frz4.319\move(358.5,465,358.5,202.5,27,7242)}Söldner (beidhändig)\h\h\h\h\h\h\h\h{\c&HA99CA3&\fs-1}Fähigkeiten-Punkte: 5
+Dialogue: 2,0:12:42.41,0:12:49.67,TypePlaceholder,,0,0,0,,{\fnVerdana\b0\fs-1\bord0\an2\c&HE2E183&\frz4.555\move(832.5,646.5,832.5,379.5,27,7242)}Geld
+Dialogue: 2,0:12:42.41,0:12:49.67,TypePlaceholder,,0,0,0,,{\fnVerdana\b0\fs-2\bord0\an2\c&HB5B0AF&\frz4.552\move(1381.5,612,1381.5,343.5,27,7242)}Mani
+Dialogue: 2,0:13:42.34,0:13:49.10,TypePlaceholderBox,,0,0,0,,{\c&H4B625D&\3c&HA3FCF7&\fnVerdana Bold\fs-2\pos(496.5,82.5)}Neue Fähigkeiten
+Dialogue: 2,0:13:42.34,0:13:49.10,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\c&HF7FA9A&\pos(496.5,154.5)}Handgemenge {\c&HFFFDF8&}Lv. 1\N{\c&HF7FA9A&}Glückliches Händchen {\c&HFFFDF8&}Lv. 1\N{\c&HF7FA9A&}Spitzenschub {\c&HFFFDF8&}Lv. 1\N{\c&HF7FA9A&}Meuchelstoß {\c&HFFFDF8&}Lv. 1\N{\c&HF7FA9A&}Offroad {\c&HFFFDF8&}Lv. 1\N{\c&HF7FA9A&}Hungriger Wolf\N{\fnTahoma\b0\fs-1\c&H686463&}erlernt
+Dialogue: 1,0:13:42.34,0:13:54.35,TypePlaceholder,,0,0,0,,{\p1\c&H2D211C&\bord6\3c&HF4E440&\blur6\pos(498,54)}m 0 0 l 840 0 l 840 540 l 0 540
+Dialogue: 2,0:13:49.10,0:13:54.35,TypePlaceholder,,0,0,0,,{\fnVerdana\b0\c&HF7FA9A&\fs-3\pos(498,69)}Schlittschuhfüße\NSicherer Tritt\NParierschutz\NFünf-Schiffe-Sprung\NGroßer Kletterer\NScharfe Wende\NNEU Handgemenge Lv. 1\NNEU Glückliches Händchen Lv. 1\NNEU Spitzenschub Lv. 1\NNEU Meuchelstoß Lv. 1\NNEU Offroad Lv. 1\NNEU Hungernder Wolf
+Dialogue: 3,0:13:49.10,0:13:54.35,TypePlaceholderBox,,0,0,0,,{\fnVerdana Bold\c&H235D64&\fs-5\3c&HA4FAF4&\pos(319.5,325.5)}NEU
+Dialogue: 3,0:13:49.10,0:13:54.35,TypePlaceholderBox,,0,0,0,,{\fnVerdana Bold\c&H235D64&\fs-5\3c&HA4FAF4&\pos(250.5,370.5)}NEU
+Dialogue: 3,0:13:49.10,0:13:54.35,TypePlaceholderBox,,0,0,0,,{\fnVerdana Bold\c&H235D64&\fs-5\3c&HA4FAF4&\pos(327,411)}NEU
+Dialogue: 3,0:13:49.10,0:13:54.35,TypePlaceholderBox,,0,0,0,,{\fnVerdana Bold\c&H235D64&\fs-5\3c&HA4FAF4&\pos(336,451.5)}NEU
+Dialogue: 3,0:13:49.10,0:13:54.35,TypePlaceholderBox,,0,0,0,,{\fnVerdana Bold\c&H235D64&\fs-5\3c&HA4FAF4&\pos(379.5,496.5)}NEU
+Dialogue: 3,0:13:49.10,0:13:54.35,TypePlaceholderBox,,0,0,0,,{\fnVerdana Bold\c&H235D64&\fs-5\3c&HA4FAF4&\pos(343.5,538.5)}NEU
+Dialogue: 1,0:14:58.92,0:15:03.92,TypePlaceholder,,0,0,0,,{\p1\c&H0D452E&\bord6\3c&H3CF99E&\blur6\pos(556.5,300)}m 0 0 l 960 0 l 960 360 l 0 360
+Dialogue: 2,0:14:58.92,0:15:03.92,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\bord0\c&H44FFD5&\fs-1\pos(556.5,312)}„Folianten der Fähigkeiten“-Shop
+Dialogue: 2,0:14:58.92,0:15:03.92,TypePlaceholder,,0,0,0,,{\fnVerdana\b0\bord0\fs-4\an7\c&HE0E8A1&\pos(96,384)}Killer-Schwertkunst: Halbmondschnitt{\fscx98}                 {\c&H94ABA1&\fscx100}50.000 Mani\N{\c&HE0E8A1&}Killer-Speerkunst: Mondlichtstoß{\fscx97}                         {\c&H94ABA1&\fscx100}70.000 Mani\N{\c&HE0E8A1&}Killer-Klingenkunst: Mondspiegelung im Wasser{\fscx91}   {\c&H94ABA1&\fscx100}80.000 Mani\N{\c&HE0E8A1&}Killer-Kampfkunst: Mondsichelmuster{\fscx95}                  {\fscx100\c&H94ABA1&}90.000 Mani\N{\c&HE0E8A1&}Geheim                                                                {\c&H94ABA1&}???? Mani\N{\c&HE0E8A1&}Geheim                                                                {\c&H94ABA1&}???? Mani\N{\c&HE0E8A1&}Geheim                                                                {\c&H94ABA1&}???? Mani
+Dialogue: 1,0:15:23.69,0:15:33.83,TypePlaceholder,,0,0,0,,{\fnImpact\an2\fs+6\b0\fsp15\bord18\blur12\c&H1C252A&\3c&HA9FBF5&\move(960,367.5,960,105,23,10116)}Fähigkeiten-Gärtner
+Dialogue: 2,0:15:23.69,0:15:33.83,TypePlaceholder,,0,0,0,,{\fnImpact\an2\fs+6\b0\fsp15\bord7.5\c&H1C252A&\3c&HE0F2F3&\move(960,367.5,960,105,23,10116)}Fähigkeiten-Gärtner
+Dialogue: 0,0:16:30.80,0:16:34.06,TypePlaceholder,,0,0,0,,{\fnTrebuchet MS Bold\bord3\blur6\c&HFEFEF6&\an2\fs+10\3c&HAAABD9&\move(958.5,637.5,960,253.5,22,3233)}Schlangenapfel
+Dialogue: 0,0:20:02.81,0:20:06.81,TypePlaceholder,,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\pos(960,45)}Übersetzung: Markus Lange
+Dialogue: 0,0:20:02.81,0:20:06.81,TypePlaceholder,,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\an2\pos(960,1035)}Spotting: Michael Gohl
+Dialogue: 0,0:20:06.81,0:20:11.27,TypePlaceholder,,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\pos(960,45)}Revision & Typesetting: Jacqueline Philippi
+Dialogue: 0,0:20:06.81,0:20:11.27,TypePlaceholder,,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\an2\pos(960,1035)}Qualitätskontrolle: Konrad Walter
+Dialogue: 0,0:20:11.82,0:20:15.78,TypePlaceholder,,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\pos(960,45)}Projektleitung: Tobias Philippi
+Dialogue: 0,0:21:31.44,0:21:35.98,TypePlaceholder,,0,0,0,,{\fnVerdana\b0\bord4.5\an2\fad(536,552)\pos(960,888)}Etwa zwei Wochen später …
+Dialogue: 0,0:21:36.94,0:21:40.20,TypePlaceholder,,0,0,0,,{\fnGeorgia bold\i1\fs-3\c&H252223&\an2\bord9\fad(0,0)\frz5.73\3c&H80777F&\move(901.5,928.5,904.5,756,21,3232)}Stetiger\NFortschritt
+Dialogue: 0,0:21:56.09,0:22:00.51,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\fs+2\bord6\c&HAC4A3E&\3c&HE1D7CA&\move(1237.5,517.5,1251,1072.5,25,4404)}Rider
+Dialogue: 0,0:21:56.09,0:22:00.88,TypePlaceholderBox,,0,0,0,,{\fnVerdana Bold\fs-5\an2\c&HDFD5CC&\fax\3c&HA94A3A&\frz12.51\move(990,535.5,1000.5,1135.5,25,4780)}\hNeuer Beruf!!\h
+Dialogue: 0,0:21:56.09,0:22:02.09,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\fs-2\an2\bord6\c&HC37749&\fax-0.2\3c&HEEE6D2&\frz3.457\move(787.5,313.5,778.5,1036.5,25,5989)}Die Neue Welt
+Dialogue: 0,0:21:56.09,0:22:04.09,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\bord6\fad(0,1010)\fs-2\fax-0.1\an2\c&HD99A61&\3c&HF4EDF1&\frz3.74\move(1119,186,1140,1186.5,25,7991)}Die Pionierflotte
+Dialogue: 0,0:21:57.13,0:22:04.09,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\bord6\fs-2\fad(0,1010)\fax-0.3\an2\c&HC9885E&\3c&HFCF4E7&\frz7.804\move(1210.5,-70.5,1233,780)}Der Ozean des Untergangs
+Dialogue: 0,0:21:58.59,0:22:04.09,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\fad(0,1010)\bord3\fax-0.2\shad6\c&HFFF9FA&\3c&H8D3D3F&\4c&H8D3D3F&\frz10.28\move(868.5,-117,838.5,558,36,5481)}Das große Sommerupdate!!
+Dialogue: 0,0:22:34.87,0:22:42.13,TypePlaceholder,,0,0,0,,{\fnComic Sans MS Bold\fs+4\bord0\shad6\fs+6\c&H7CEDEF&\4c&H51CBDA&\pos(960,9)}Sh{\c&HC297F0&\4c&H966CD6&}a{\c&H679FF8&\4c&H3171D7&}n{\c&HDE72BD&\4c&HB64897&}F{\c&H5B63E6&\4c&H484FC2&}ro
+Dialogue: 0,0:22:38.67,0:22:42.13,TypePlaceholder,,0,0,0,,{\fnComic Sans MS Bold\fad(493,0)\fs+4\fax-0.15\an3\c&HFAFFFE&\3c&H376777&\4c&H1C3F4D&\shad3.9\bord3.9\pos(1831.5,859.5)}#19 Neujahrsgrüße
+Dialogue: 0,0:22:39.25,0:22:42.13,TypePlaceholder,,0,0,0,,{\c&H515655&\fnComic Sans MS Bold\fad(333,0)\fs+2\bord0\frz43.99\pos(1447.5,118.5)}Mini
+Dialogue: 0,0:22:42.13,0:23:48.20,TypePlaceholder,,0,0,0,,{\fnComic Sans MS BOLD\fad(0,0)\fs+2\fax-0.15\an9\c&HFFFFFF&\3c&H57788A&\4c&H0C1929&\shad3.9\bord3.9\pos(1830,118.5)}ShanFro-Theater

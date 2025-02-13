@@ -1,0 +1,49 @@
+﻿[Script Info]
+Title: English (US)
+ScaledBorderAndShadow: yes
+Original Script: kodansha  [http://www.crunchyroll.com/user/kodansha]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+LayoutResX: 1920
+LayoutResY: 1080
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+Style: Sign_Basic,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,6,3,2,30,30,54,1
+Style: Ep_Title,Arial,60,&H00FFFFFF,&H000000FF,&H00000000,&H00BE9829,-1,0,0,0,100,100,0,0,1,0,6,1,132,30,12,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:02:12.32,0:02:17.74,Ep_Title,sign,0,0,0,,{\fad(1700,0)}Regrets Always Lie in the Past
+Dialogue: 0,0:02:20.87,0:02:23.12,Sign_Basic,sign,0,0,0,,{\an7\fs36\c&H53554F&\3c&HE6E7DE&\shad0}Known Wethermon Info\N When the battle begins, a badstat(?) field gimmick(?)\Nis applied to all players.\N Levels will be reduced and equipment with level requirements \Nwill be force-unequippable. (Demonstrably, armor will feel\Nunusually heavy and hard to move in,\Nweapons will fly from hands.) Normal attacks can generally\Nbe dodged by attentive players, but one hit will even kill\Nmost tanks, so be careful!!\N Most annoying is the frequency with which he uses his\Nfinishing move (which he always announces — telegraphing?).\N\NHow to deal with his mecha-steed remains unclear.\NSlashes and magic attacks don't seem to deal damage, and if you let it be
+Dialogue: 0,0:02:39.56,0:02:48.48,Sign_Basic,sign,0,0,0,,{\pos(732,72)\fs54\shad0\3c&H657953&}Sunraku
+Dialogue: 0,0:02:39.56,0:02:48.48,Sign_Basic,sign,0,0,0,,{\fs54\shad0\3c&H657953&\pos(1428,144)}Katzo Tataki
+Dialogue: 0,0:03:00.70,0:03:05.21,Sign_Basic,sign,0,0,0,,{\pos(960,444)\3c&HAFA33E&\bord9\shad0}Iron Ruins of the Divinity
+Dialogue: 0,0:03:06.96,0:03:09.46,Sign_Basic,sign,0,0,0,,{\fad(475,0)\pos(960,900)\fs60\c&H000000&\3c&HFFFFFF&\shad0\bord4.5}Grinding = Repeatedly leveling up
+Dialogue: 0,0:04:47.23,0:04:49.69,Sign_Basic,sign,0,0,0,,{\fad(125,0)\c&H6D2BED&\shad0\pos(414,54)\an8\fs60\3c&H211A2D&}Suppression Drone \N{\fs45}Type: Pyramid
+Dialogue: 0,0:05:20.17,0:05:22.55,Default,sign,0,0,0,,{\fad(450,0)\an8\fnImpact\b1\i1\fs90\shad6\c&HF9C130&\3c&HFFFFFF&\bord9\fscy140\fsp3\pos(930,60)}Crush Uppercut
+Dialogue: 0,0:05:29.60,0:05:33.02,Sign_Basic,sign,0,0,0,,{\fad(475,550)\pos(960,900)\fs60\c&H000000&\3c&HFFFFFF&\shad0\bord4.5}Buff = Enhancement
+Dialogue: 0,0:05:34.61,0:05:36.82,Sign_Basic,sign,0,0,0,,{\fad(775,0)\pos(945,795)\c&HFDE982&\fnArial\b1\shad0\bord3\blur9\3a&H40&}Spirit Fist: Red
+Dialogue: 0,0:05:42.82,0:05:45.83,Default,sign,0,0,0,,{\fad(475,0)\pos(960,870)\fs60\c&H000000&\3c&HFFFFFF&\shad0\bord4.5}Job: Monk
+Dialogue: 0,0:07:55.29,0:07:58.21,Sign_Basic,sign,0,0,0,,{\fad(150,225)\an8\c&H1731C6&\3c&HF3FFEC&\bord9\shad0\b1}It worked!
+Dialogue: 0,0:09:39.56,0:09:43.02,Sign_Basic,sign,0,0,0,,{\fade(300,1)}{\pos(990,444)\3c&HAFA33E&\bord9\shad0}Tearlight Lake
+Dialogue: 0,0:10:23.06,0:10:25.44,Sign_Basic,sign,0,0,0,,{\fad(225,0)\c&H6D2BED&\shad0\an8\fs60\3c&H3F422A&\pos(438,666)}Lifestide Salmon
+Dialogue: 0,0:10:54.47,0:10:57.30,Sign_Basic,sign,0,0,0,,{\fad(0,175)\c&H6D2BED&\shad0\an8\fs60\3c&H201D28&\pos(290.001,129.999)}Lifestide Lake Serpent
+Dialogue: 0,0:11:22.37,0:11:26.50,Sign_Basic,sign,0,0,0,,{\fad(150,0)\c&HF3FCAD&\3c&H3C2E12&\shad0\fs54\b1\pos(963,714)}Empire Bee Twinblades\N {\c&H9A8E74&\fs36}equipped.
+Dialogue: 0,0:13:46.56,0:13:48.39,Sign_Basic,sign,0,0,0,,{\pos(1408.432,669.013)\org(1398,681.999)\fscx98.3\fscy97.14\frz5.726\fry-4.751\frx4.162\fax-0.145\fs60\b1\xbord0\ybord0\xshad0\yshad0\c&HFEF7A1&}Spiral Edge
+Dialogue: 0,0:14:31.52,0:14:33.64,Sign_Basic,sign,0,0,0,,{\fad(475,0)\pos(960,855)\fs54\c&H000000&\3c&HFFFFFF&\shad0\bord4.5}Corrosive Poison
+Dialogue: 0,0:16:34.72,0:16:39.31,Sign_Basic,sign,0,0,0,,{\fade(200,300)\move(1638,318,1662.78,245.784)}{\c&H26334A&\bord0\shad0\fnComic Sans MS\frz338.5\pos(1638,318)}Combine...
+Dialogue: 0,0:16:43.94,0:16:49.20,Sign_Basic,sign,0,0,0,,{\pos(654,360)\an8\fs42\c&H275B63&\3c&HE0E6F5&\shad0\fnArial}Fighter-type Skill\N{\fs72\c&H30373C&}Power Direct Lv. 5
+Dialogue: 0,0:16:43.94,0:16:49.20,Sign_Basic,sign,0,0,0,,{\an8\fs42\c&H275B63&\3c&HF1FFFF&\shad0\fnArial\pos(660,549)}Critical-enhancement Skill\N{\fs72\c&H30373C&}Critical Assist Lv. 3
+Dialogue: 0,0:16:49.20,0:16:51.20,Sign_Basic,sign,0,0,0,,{\pos(645,648)\c&H2A409A&\b1\3c&H9AF2F4&\shad0}Link
+Dialogue: 0,0:16:51.20,0:16:54.33,Sign_Basic,sign,0,0,0,,{\pos(645,645)\fs36\an8\c&H738685&\3c&HDCF7F5&\shad0\fnArial}Chance of KO effect\Non critical hit\N{\fs72\c&H2C4138&\b1}Knockout
+Dialogue: 0,0:16:56.66,0:17:11.01,Sign_Basic,sign,0,0,0,,{\pos(60,60)\an7\c&HC1B1A3&\shad0\fs60}Repel Counter\N Flash Counter\N Loop Slash {\b1\c&HDFDFDB&}Lv.5\N{\c&HC1B1A3&\b0}Accel {\b1\c&HDFDFDB&}LV.6
+Dialogue: 0,0:17:29.61,0:17:31.86,Sign_Basic,sign,0,0,0,,{\fad(0,550)\fs60\c&H000000&\3c&HFFFFFF&\shad0\bord4.5\pos(492,762)}Sub-jobs
+Dialogue: 0,0:17:30.36,0:17:31.86,Sign_Basic,sign,0,0,0,,{\fad(0,550)\fs60\c&H000000&\3c&HFFFFFF&\shad0\bord4.5\pos(1428,762)}Guilds
+Dialogue: 0,0:18:10.28,0:18:14.03,Sign_Basic,sign,0,0,0,,{\an8\fs90\fnImpact\b1\c&H867F0A&\3c&HFFFFFF&\bord12\bord4.5\fay-.15\fsp6\pos(380.001,66)}Oikatzo
+Dialogue: 0,0:18:10.28,0:18:14.03,Sign_Basic,sign,0,0,0,,{\an8\fs90\fnImpact\b1\c&H867F0A&\3c&HFFFFFF&\bord12\bord4.5\i1\fay.18\fsp6\pos(1343.997,-1.998)}Sunraku
+Dialogue: 0,0:18:45.69,0:18:54.95,Sign_Basic,sign,0,0,0,,{\c&HFDE982&\fnArial\b1\shad0\bord3\blur9\3a&H40&\pos(1428,870)}Save Tent

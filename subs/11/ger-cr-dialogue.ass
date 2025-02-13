@@ -1,0 +1,313 @@
+﻿[Script Info]
+Title: Deutsch
+ScaledBorderAndShadow: yes
+Original Script: cr_de  [http://www.crunchyroll.com/user/cr_de]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+LayoutResX: 1920
+LayoutResY: 1080
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+Style: Alt,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00743E15,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.77,0:00:06.90,Default,Erzählerin,0,0,0,,Auf dieser Welt gibt es\Nunzählige Videospiele.
+Dialogue: 0,0:00:07.99,0:00:12.37,Default,Erzählerin,0,0,0,,Doch die meisten davon gehen unter,\Nohne je bekannt gewesen zu sein.
+Dialogue: 0,0:00:13.62,0:00:16.41,Default,Erzählerin,0,0,0,,An der Spitze dieser Spiele steht
+Dialogue: 0,0:00:16.41,0:00:21.71,Default,Erzählerin,0,0,0,,das Full-Dive-VR-Game mit einer\Nweltweiten Spielerzahl von über 30 Millionen,
+Dialogue: 0,0:00:21.71,0:00:26.34,Default,Erzählerin,0,0,0,,das es absolut verdient, als Meisterwerk\Nbezeichnet zu werden: Shangri-La Frontier.
+Dialogue: 0,0:00:28.17,0:00:31.97,Default,Erzählerin,0,0,0,,Rakuro Hizutome, ein Junge,\Nder Trash-Games über alles liebt,
+Dialogue: 0,0:00:31.97,0:00:35.18,Default,Erzählerin,0,0,0,,wagt sich an das Meisterwerk\NShangri-La Frontier.
+Dialogue: 0,0:00:35.93,0:00:40.73,Default,Erzählerin,0,0,0,,Welche Abenteuer werden ihn\Nauf seinem Weg wohl erwarten?
+Dialogue: 0,0:02:12.82,0:02:18.74,Default,Pencil Warrior,0,0,0,,Wollen wir drei das einzigartige Monster\N„Grabwächter Wezaemon“ töten?
+Dialogue: 0,0:02:19.33,0:02:21.54,Default,Sunraku,0,0,0,,Es ist so, in zwei Wochen
+Dialogue: 0,0:02:21.54,0:02:25.46,Default,Sunraku,0,0,0,,werde ich mich mit\NGrabwächter Wezaemon anlegen.
+Dialogue: 0,0:02:25.83,0:02:30.42,Default,Sunraku,0,0,0,,Und es wäre besser, wenn du\Nwährenddessen aus meiner Gruppe aus…
+Dialogue: 0,0:02:30.42,0:02:31.46,Default,Sunraku,0,0,0,,Was ist los?
+Dialogue: 0,0:02:31.46,0:02:36.22,Default,Emul,0,0,0,,Wezaemooon?!
+Dialogue: 0,0:02:36.55,0:02:37.39,Default,Sunraku,0,0,0,,Hä?
+Dialogue: 0,0:02:37.97,0:02:45.27,Default,Emul,0,0,0,,P-Pap… der Che… Papef …\NChe… Chepa, Chefchen?!
+Dialogue: 0,0:02:45.27,0:02:50.48,Default,Emul,0,0,0,,P-P-Papa muss das sofort erfahreeen!
+Dialogue: 0,0:02:48.40,0:02:49.23,Alt,Sunraku,0,0,0,,Hey!
+Dialogue: 0,0:03:00.37,0:03:03.62,Default,Vice Ash,0,0,0,,Ich hab’s bereits von Emul erfahren,
+Dialogue: 0,0:03:03.62,0:03:06.12,Default,Vice Ash,0,0,0,,aber ich will’s noch mal\Naus deinem Mund hören.
+Dialogue: 0,0:03:08.42,0:03:13.38,Default,Vice Ash,0,0,0,,Ist es wahr, dass du dich mit diesem\Nunsterblichen Kerl anlegen willst?
+Dialogue: 0,0:03:15.38,0:03:20.22,Default,Sunraku,0,0,0,,{\i1}Unsterblich? Wezaemon?\NWas soll das heißen?
+Dialogue: 0,0:03:21.01,0:03:27.73,Default,Sunraku,0,0,0,,{\i1}Davon abgesehen, dieses plötzlich\Ngestartete Event ist zweifellos wichtig!
+Dialogue: 0,0:03:28.44,0:03:32.28,Default,Sunraku,0,0,0,,{\i1\an8}Ich sollte basierend auf dem Weltbild\Nund seines Charakters Rollenspiel machen.
+Dialogue: 0,0:03:32.28,0:03:35.24,Default,Sunraku,0,0,0,,{\i1\an8}Das wäre in dieser Situation das Beste.
+Dialogue: 0,0:03:35.82,0:03:37.24,Default,Sunraku,0,0,0,,{\i1}Ganz ruhig.
+Dialogue: 0,0:03:37.24,0:03:41.87,Default,Sunraku,0,0,0,,{\i1}Wenn es gut läuft, erhalte ich vielleicht\Nwertvolle Informationen über Wezaemon.
+Dialogue: 0,0:03:42.37,0:03:46.37,Default,Sunraku,0,0,0,,{\i1}Ich hab Trash Cronicles geschafft,\Nich schaff auch das hier!
+Dialogue: 0,0:03:47.71,0:03:52.30,Default,Sunraku,0,0,0,,{\i1}Ich muss Vash überzeugen.\NDas Schlüsselwort lautet: Killergeist!
+Dialogue: 0,0:03:52.30,0:03:54.59,Default,Vice Ash,0,0,0,,Dir ist doch bewusst,
+Dialogue: 0,0:03:54.59,0:03:59.05,Default,Vice Ash,0,0,0,,dass du immer noch schwach bist, oder?
+Dialogue: 0,0:04:00.72,0:04:02.05,Default,Sunraku,0,0,0,,Zweifellos.
+Dialogue: 0,0:04:03.26,0:04:08.06,Default,Sunraku,0,0,0,,Es ist auch nicht so, dass ich fest daran glaube,\Ndiesen Kampf gewinnen zu können, Boss.
+Dialogue: 0,0:04:09.19,0:04:10.10,Default,Vice Ash,0,0,0,,Was?
+Dialogue: 0,0:04:11.65,0:04:14.82,Default,Sunraku,0,0,0,,Ich werde letztendlich\Nnur unterstützen.
+Dialogue: 0,0:04:14.82,0:04:17.32,Default,Sunraku,0,0,0,,Eine Bekannte von mir\Nwird im Mittelpunkt stehen.
+Dialogue: 0,0:04:21.16,0:04:26.66,Default,Sunraku,0,0,0,,Weißt du irgendetwas über Grabwächter\NWezaemons derzeitige Situation?
+Dialogue: 0,0:04:27.25,0:04:32.17,Default,Vice Ash,0,0,0,,Nein. Ist auch ziemlich lange her,\Ndass ich ihn gesehen hab.
+Dialogue: 0,0:04:32.54,0:04:38.09,Default,Sunraku,0,0,0,,Laut dieser Bekannten\Ndient Wezaemon dazu, PKer … Äh, ich meine,
+Dialogue: 0,0:04:38.09,0:04:42.47,Default,Sunraku,0,0,0,,eine Gruppe schurkischer Mörder\Nauszubilden. Er ist wie ein Werkzeug
+Dialogue: 0,0:04:42.47,0:04:44.85,Default,Sunraku,0,0,0,,und wird nach Belieben gesteuert.
+Dialogue: 0,0:04:44.85,0:04:49.89,Default,Sunraku,0,0,0,,Tja, allein durch die Begegnung mit ihm\Nerhält man viele Erfahrungspunkte.
+Dialogue: 0,0:04:53.90,0:04:58.61,Default,Sunraku,0,0,0,,Der Kopf hinter unserem Angriff\Ngehört selbst zu diesen Schurken,
+Dialogue: 0,0:04:58.61,0:05:02.82,Default,Sunraku,0,0,0,,meint es aber ernst damit,\NGrabwächter Wezaemon zu besiegen.
+Dialogue: 0,0:05:03.07,0:05:05.91,Default,Sunraku,0,0,0,,Dafür lässt sie nichts unversucht.
+Dialogue: 0,0:05:05.91,0:05:10.54,Default,Vice Ash,0,0,0,,Das mag ja sein,\Naber ohne Aussicht auf den Sieg
+Dialogue: 0,0:05:10.54,0:05:12.96,Default,Vice Ash,0,0,0,,ist das einfach nur tollkühn.
+Dialogue: 0,0:05:13.67,0:05:19.72,Default,Vice Ash,0,0,0,,Ich erinnere mich nicht, gesagt zu haben,\Ndass Killergeist bedeutet, in den Tod zu gehen.
+Dialogue: 0,0:05:20.22,0:05:22.26,Default,Sunraku,0,0,0,,Keiner, mich eingeschlossen,
+Dialogue: 0,0:05:22.26,0:05:25.72,Default,Sunraku,0,0,0,,geht mit der Intention\Nzu verlieren in diesen Kampf.
+Dialogue: 0,0:05:26.26,0:05:29.85,Default,Sunraku,0,0,0,,Aber ich und der andere Mitstreiter\Nfühlten uns veranlasst,
+Dialogue: 0,0:05:29.85,0:05:33.23,Default,Sunraku,0,0,0,,dem Siegeswillen\Nunserer Bekannten Genüge zu tun.
+Dialogue: 0,0:05:36.02,0:05:40.49,Default,Sunraku,0,0,0,,Sie hat nur eine Chance. Ob Sieg\Noder Niederlage, dies ist ihre letzte.
+Dialogue: 0,0:05:41.07,0:05:44.99,Default,Sunraku,0,0,0,,Jemandem, der sich mir\Nderart anvertraut, zu helfen,
+Dialogue: 0,0:05:44.99,0:05:48.49,Default,Sunraku,0,0,0,,ist eine Frage der Ehre, … finde ich.
+Dialogue: 0,0:05:51.12,0:05:54.21,Default,Sunraku,0,0,0,,Ja, ich bin noch\Nein unbedeutender Grünschnabel,
+Dialogue: 0,0:05:54.21,0:05:57.71,Default,Sunraku,0,0,0,,aber in nur zwei Wochen\Nwerde ich es schaffen.
+Dialogue: 0,0:05:57.71,0:06:00.63,Default,Sunraku,0,0,0,,Ich werde die anmaßende\NVerwegenheit eines Anfängers
+Dialogue: 0,0:06:00.63,0:06:04.26,Default,Sunraku,0,0,0,,in den Mut, einen starken\NGegner herauszufordern, verwandeln.
+Dialogue: 0,0:06:16.81,0:06:19.40,Default,Vice Ash,0,0,0,,Ehre, ja?
+Dialogue: 0,0:06:21.40,0:06:25.16,Default,Vice Ash,0,0,0,,Weißt du, er ist ’n unbeholfener Kerl.
+Dialogue: 0,0:06:25.66,0:06:27.41,Default,Sunraku,0,0,0,,{\i1}Meint er Wezaemon?
+Dialogue: 0,0:06:27.78,0:06:31.62,Default,Vice Ash,0,0,0,,Er ist todernst und weiß nicht,\Nwann Schluss ist.
+Dialogue: 0,0:06:31.62,0:06:35.42,Default,Vice Ash,0,0,0,,Durch eine stümperhafte Lüge\Nverlor er seine Frau
+Dialogue: 0,0:06:35.42,0:06:38.92,Default,Vice Ash,0,0,0,,und dann wurde er mit ’nem\NKörper gestraft, der nicht sterben kann.
+Dialogue: 0,0:06:40.92,0:06:45.80,Default,Vice Ash,0,0,0,,Er kann nicht mehr von selbst sterben,\Nist ’ne wandelnde Leiche.
+Dialogue: 0,0:06:46.76,0:06:47.80,Default,Vice Ash,0,0,0,,Also …
+Dialogue: 0,0:06:49.22,0:06:53.81,Default,Vice Ash,0,0,0,,muss irgendjemand ihn\Nniederstrecken und schlafen legen.
+Dialogue: 0,0:06:56.90,0:07:01.32,Default,Vice Ash,0,0,0,,Ich hab beschlossen, niemals Hand\Nan einen von „ihnen“ zu legen, …
+Dialogue: 0,0:07:02.53,0:07:06.32,Default,Vice Ash,0,0,0,,wenn du das unbedingt machen willst,\Nhalt ich dich nicht auf.
+Dialogue: 0,0:07:09.24,0:07:11.95,Default,Vice Ash,0,0,0,,Das ist auch die Bitte\Nmeiner reizenden Tochter.
+Dialogue: 0,0:07:13.79,0:07:15.33,Default,Vice Ash,0,0,0,,Komm mit.
+Dialogue: 0,0:07:15.75,0:07:20.96,Default,Vice Ash,0,0,0,,Es mag nicht viel sein, aber auch ich will\Ndir ’n wenig unter die Arme greifen.
+Dialogue: 0,0:07:32.68,0:07:34.10,Default,Sunraku,0,0,0,,Eine Schmiede?
+Dialogue: 0,0:07:34.81,0:07:37.60,Default,Sunraku,0,0,0,,{\i1}Sieht aus, als ginge\Ndas Event erst mal weiter.
+Dialogue: 0,0:07:37.60,0:07:39.73,Default,Sunraku,0,0,0,,{\i1}Gut, wohl alles richtig gemacht!
+Dialogue: 0,0:07:40.02,0:07:43.61,Default,Vice Ash,0,0,0,,Hey, Beelac, bist du da?
+Dialogue: 0,0:07:43.61,0:07:47.74,Default,Beelac,0,0,0,,Hm? Was ist denn, Boss?\NUngewöhnlich, …
+Dialogue: 0,0:07:48.41,0:07:50.45,Default,Beelac,0,0,0,,dass du dich hier mal blicken lässt.
+Dialogue: 0,0:07:50.99,0:07:52.87,Default,Emul,0,0,0,,Hallo, Bee!
+Dialogue: 0,0:07:52.87,0:07:53.91,Default,Beelac,0,0,0,,Hi, Emul.
+Dialogue: 0,0:07:54.41,0:07:57.25,Default,Sunraku,0,0,0,,{\i1}Noch eins von Emuls Geschwistern.
+Dialogue: 0,0:07:57.25,0:08:00.88,Default,Sunraku,0,0,0,,{\i1}Sind etwa alle Einwohner\NHasingens Vashs Kinder?
+Dialogue: 0,0:08:00.88,0:08:02.92,Default,Sunraku,0,0,0,,{\i1}Nein, das kann nicht sein.
+Dialogue: 0,0:08:03.30,0:08:07.68,Default,Beelac,0,0,0,,Oh? Bist du der Typ, von dem\Nder Boss und Emul geredet haben?
+Dialogue: 0,0:08:07.68,0:08:08.80,Default,Sunraku,0,0,0,,Hallo.
+Dialogue: 0,0:08:08.80,0:08:10.43,Default,Emul,0,0,0,,Das ist Sunraku!
+Dialogue: 0,0:08:11.47,0:08:14.93,Default,Beelac,0,0,0,,Aha. Seine Augen erinnern mich an Evel.
+Dialogue: 0,0:08:15.27,0:08:18.56,Default,Sunraku,0,0,0,,{\i1}Evel? Noch ein neuer Hase?!
+Dialogue: 0,0:08:18.56,0:08:20.44,Default,Sunraku,0,0,0,,{\i1}Es reicht mit den Namen!
+Dialogue: 0,0:08:20.44,0:08:24.90,Default,Vice Ash,0,0,0,,So, gleich zum Punkt.\NZeig mal deine Killerwaffen her.
+Dialogue: 0,0:08:24.90,0:08:25.69,Default,Sunraku,0,0,0,,Hä?
+Dialogue: 0,0:08:29.11,0:08:32.32,Default,Vice Ash,0,0,0,,Du wirst von deinen Waffen ja\Nordentlich anerkannt.
+Dialogue: 0,0:08:33.12,0:08:36.75,Default,Vice Ash,0,0,0,,Diese Klingen sehen gut aus.
+Dialogue: 0,0:08:36.75,0:08:39.33,Default,Vice Ash,0,0,0,,Das dürfte ausreichen.
+Dialogue: 0,0:08:39.83,0:08:41.08,Default,Sunraku,0,0,0,,Okay.
+Dialogue: 0,0:08:41.50,0:08:44.21,Default,Vice Ash,0,0,0,,Beelac, ich werd sie erwecken.
+Dialogue: 0,0:08:45.59,0:08:47.92,Default,Sunraku,0,0,0,,Verstecken? Entdecken?
+Dialogue: 0,0:08:47.92,0:08:49.63,Default,Emul,0,0,0,,Erwecken.
+Dialogue: 0,0:08:50.84,0:08:54.10,Default,Beelac,0,0,0,,Sag bloß, du schwingst selbst den Hammer?
+Dialogue: 0,0:08:57.77,0:09:00.81,Default,Vice Ash,0,0,0,,Wenn er diesen\NUnsterblichen herausfordert,
+Dialogue: 0,0:09:00.81,0:09:04.57,Default,Vice Ash,0,0,0,,wär’s doch schade,\Neinfach nur tatenlos zuzusehen.
+Dialogue: 0,0:09:06.78,0:09:09.78,Default,Beelac,0,0,0,,Warte kurz! Ich heiz sofort den Ofen an!
+Dialogue: 0,0:09:10.15,0:09:14.99,Default,Vice Ash,0,0,0,,Hast du irgend’n gutes Material\Nzur Hand? Mal überlegen …
+Dialogue: 0,0:09:14.99,0:09:18.75,Default,Vice Ash,0,0,0,,Etwas, das du dir hart\Nerkämpfen musstest, zum Beispiel?
+Dialogue: 0,0:09:18.75,0:09:20.54,Default,Sunraku,0,0,0,,Was? Hart erkämpft?
+Dialogue: 0,0:09:21.08,0:09:23.96,Default,Sunraku,0,0,0,,{\i1}Meint er so einen Kampf wie gegen Lycaon?
+Dialogue: 0,0:09:23.96,0:09:26.30,Default,Sunraku,0,0,0,,{\i1}Nein, der war ja aussichtslos.
+Dialogue: 0,0:09:26.30,0:09:29.01,Default,Sunraku,0,0,0,,{\i1}Und die Mats von Schlammgräber\Nhab ich verkauft.
+Dialogue: 0,0:09:31.09,0:09:33.72,Default,Sunraku,0,0,0,,Ich musste nicht hart dafür kämpfen,
+Dialogue: 0,0:09:33.72,0:09:36.72,Default,Sunraku,0,0,0,,aber ich hab hier was\Nvon einem Gegner, der stark aussah.
+Dialogue: 0,0:09:36.72,0:09:38.06,Default,Vice Ash,0,0,0,,Zeig mal her.
+Dialogue: 0,0:09:47.53,0:09:50.07,Default,Vice Ash,0,0,0,,Der Panzer eines Vierhornkäfers, was?
+Dialogue: 0,0:09:50.07,0:09:54.28,Default,Sunraku,0,0,0,,Er hielt den Angriffen\Nder Imperiumbienen lange stand.
+Dialogue: 0,0:09:54.28,0:09:56.99,Default,Sunraku,0,0,0,,Ich denke, der eignet sich\Nprima als Material.
+Dialogue: 0,0:09:58.20,0:09:59.95,Default,Vice Ash,0,0,0,,Nicht schlecht.
+Dialogue: 0,0:10:00.87,0:10:03.58,Default,Vice Ash,0,0,0,,Na dann, legen wir mal los.
+Dialogue: 0,0:10:18.64,0:10:22.02,Default,Beelac,0,0,0,,Du bist echt ’n Glückspilz.
+Dialogue: 0,0:10:22.35,0:10:27.02,Default,Beelac,0,0,0,,Ist schon ’n paar Jahre her, dass der Boss\Nden Hammer geschwungen hat.
+Dialogue: 0,0:10:27.02,0:10:30.36,Default,Sunraku,0,0,0,,Ach ja? Ähm … Beelac.
+Dialogue: 0,0:10:30.36,0:10:35.11,Default,Beelac,0,0,0,,Er hat den Titel des Königs\Nvon Hasingen oder so geerbt.
+Dialogue: 0,0:10:35.11,0:10:37.53,Default,Beelac,0,0,0,,Und ich von ihm die Schmiede.
+Dialogue: 0,0:10:38.03,0:10:40.41,Default,Emul,0,0,0,,Das wusstest du ja gar nicht, Sunraku!
+Dialogue: 0,0:10:40.41,0:10:42.91,Default,Emul,0,0,0,,Mein Pap… Ähem …
+Dialogue: 0,0:10:42.91,0:10:45.17,Default,Emul,0,0,0,,Der Chef war nämlich mal Schmied!
+Dialogue: 0,0:10:45.17,0:10:46.50,Default,Sunraku,0,0,0,,Schmied …
+Dialogue: 0,0:10:47.04,0:10:49.92,Default,Beelac,0,0,0,,Und nicht nur irgend’n Schmied.
+Dialogue: 0,0:10:52.21,0:10:57.09,Default,Beelac,0,0,0,,Da er seine Kunst perfektioniert hat,\Ndarf er sich „Meisterhandwerker“ nennen,
+Dialogue: 0,0:10:57.09,0:11:00.81,Default,Beelac,0,0,0,,sowie „Ahnenhandwerker“, weil er Waffen aus dem göttlichen Zeitalter schmieden kann.
+Dialogue: 0,0:11:01.43,0:11:04.44,Default,Beelac,0,0,0,,Und als Meister beider Klassen\Nist er ein „Göttlicher Handwerker“.
+Dialogue: 0,0:11:04.44,0:11:08.19,Default,Beelac,0,0,0,,Der absolut beste seiner Zunft.\NKeiner kommt ihm gleich.
+Dialogue: 0,0:11:08.19,0:11:11.32,Default,Beelac,0,0,0,,Das ist unser Boss.
+Dialogue: 0,0:11:17.36,0:11:19.33,Default,Emul,0,0,0,,Es geht los, Sunraku!
+Dialogue: 0,0:11:36.30,0:11:37.47,Default,Sunraku,0,0,0,,{\i1}Was ist das?
+Dialogue: 0,0:11:39.55,0:11:40.97,Default,Sunraku,0,0,0,,{\i1}Magische Kreise?
+Dialogue: 0,0:11:40.97,0:11:44.31,Default,Sunraku,0,0,0,,{\i1}Mit jedem Schlag tauchen sie auf\Nund werden von der Waffe absorbiert!
+Dialogue: 0,0:11:44.31,0:11:46.23,Default,Beelac,0,0,0,,Beim Erwecken
+Dialogue: 0,0:11:46.23,0:11:50.56,Default,Beelac,0,0,0,,liest er die durch Kämpfe erlangten\NErinnerungen und Erfahrungen der Waffe
+Dialogue: 0,0:11:51.32,0:11:55.11,Default,Beelac,0,0,0,,und formt sie\Nin ’ne geeignetere, sprich:
+Dialogue: 0,0:11:55.49,0:11:58.95,Default,Beelac,0,0,0,,in ihre wahre Gestalt um.\NEin Werk der Götter.
+Dialogue: 0,0:11:58.95,0:12:00.74,Default,Beelac,0,0,0,,Ihre wahre Gestalt …
+Dialogue: 0,0:12:00.74,0:12:05.41,Default,Beelac,0,0,0,,Waffen mit der Vorsilbe „Killer“ erinnern\Nsich an Kämpfe gegen starke Gegner.
+Dialogue: 0,0:12:05.41,0:12:08.21,Default,Beelac,0,0,0,,Er nimmt die gemeinsamen\NErinnerungen mit dir
+Dialogue: 0,0:12:08.21,0:12:11.42,Default,Beelac,0,0,0,,sowie die Kraft eines starken Wesens,\Ndie du ihm übergeben hast,
+Dialogue: 0,0:12:11.42,0:12:15.46,Default,Beelac,0,0,0,,verschmilzt und schmiedet sie\Nund verändert so die Form der Klinge.
+Dialogue: 0,0:12:16.22,0:12:19.01,Default,Beelac,0,0,0,,Und da du sogar mit Lycaon gekämpft hast,
+Dialogue: 0,0:12:19.01,0:12:22.47,Default,Beelac,0,0,0,,kann ich es kaum erwarten zu sehen,\Nwas für ’ne Waffe dabei rauskommt!
+Dialogue: 0,0:12:27.14,0:12:31.65,Default,Vice Ash,0,0,0,,♪ In der Dunkelheit der Nacht,
+Dialogue: 0,0:12:31.65,0:12:36.11,Default,Vice Ash,0,0,0,,die Lohe des Ofens. ♪
+Dialogue: 0,0:12:36.40,0:12:38.53,Default,Sunraku,0,0,0,,Hm? Singt er was?
+Dialogue: 0,0:12:40.11,0:12:41.12,Default,Beelac,0,0,0,,Pscht!
+Dialogue: 0,0:12:44.12,0:12:48.25,Default,Vice Ash,0,0,0,,♪ Funken stieben in die Luft,
+Dialogue: 0,0:12:48.25,0:12:53.13,Default,Vice Ash,0,0,0,,das Dunkel gierig sie verschlingt.
+Dialogue: 0,0:12:53.13,0:13:02.01,Default,Vice Ash,0,0,0,,Der Hammer, er tanzt auf und ab,\Ndas Eisen, es singt.
+Dialogue: 0,0:13:02.01,0:13:06.35,Default,Vice Ash,0,0,0,,Bumm, Klatter, Klang und
+Dialogue: 0,0:13:06.35,0:13:09.73,Default,Vice Ash,0,0,0,,Klong, Kling, Krach.
+Dialogue: 0,0:13:09.73,0:13:18.74,Default,Vice Ash,0,0,0,,Du bist eine Klinge, o ja, du bist Macht.
+Dialogue: 0,0:13:27.54,0:13:31.54,Default,Vice Ash,0,0,0,,Es kommt aus der Erde Schoß,
+Dialogue: 0,0:13:31.54,0:13:37.55,Default,Vice Ash,0,0,0,,verbrenn das Holz und zieh das Feuer groß.
+Dialogue: 0,0:13:37.55,0:13:41.55,Default,Vice Ash,0,0,0,,Schmiede das Metall in Form,
+Dialogue: 0,0:13:41.55,0:13:45.30,Default,Vice Ash,0,0,0,,mit Wasser kühl es ab.
+Dialogue: 0,0:13:45.30,0:13:54.31,Default,Vice Ash,0,0,0,,Die Welt dreht sich immerzu,\Nund dann steht sie plötzlich still.
+Dialogue: 0,0:13:54.31,0:13:58.69,Default,Vice Ash,0,0,0,,Von Metall zu Eisen hin,
+Dialogue: 0,0:13:58.69,0:14:02.95,Default,Vice Ash,0,0,0,,und von Eisen hin zu Stahl,
+Dialogue: 0,0:14:02.95,0:14:13.08,Default,Vice Ash,0,0,0,,aus dem Stahl wird eine Klinge\Nund die Klinge wird zum Schwerte. ♪
+Dialogue: 0,0:14:29.81,0:14:38.57,Default,Vice Ash,0,0,0,,♪ Sieh, das Schwert, wie es funkelt\Nin der Morgendämmerung.
+Dialogue: 0,0:14:38.57,0:14:47.41,Default,Vice Ash,0,0,0,,In ihm spiegelt sich das Licht,\Nes zerteilt die Finsternis.
+Dialogue: 0,0:14:47.41,0:14:56.75,Default,Vice Ash,0,0,0,,Singe du, o Welt,\Nfür dies tanzende Schwert. ♪
+Dialogue: 0,0:15:26.28,0:15:27.70,Default,Vice Ash,0,0,0,,Gut.
+Dialogue: 0,0:15:28.41,0:15:33.20,Default,Vice Ash,0,0,0,,Die Killer-Hackmesser haben nun ihre wahren\NNamen und ihre wahre Form erhalten.
+Dialogue: 0,0:15:33.20,0:15:34.71,Default,Vice Ash,0,0,0,,Sie lauten …
+Dialogue: 0,0:15:35.29,0:15:39.46,Default,Vice Ash,0,0,0,,Hasenmond (Zunehmend)\Nund Hasenmond (Abnehmend).
+Dialogue: 0,0:15:39.46,0:15:41.34,Default,Sunraku,0,0,0,,Zwillingsschwerter?!
+Dialogue: 0,0:15:41.34,0:15:43.34,Default,Vice Ash,0,0,0,,Zwei Klingen und doch eine.
+Dialogue: 0,0:15:43.34,0:15:48.59,Default,Vice Ash,0,0,0,,Nur zusammen\Nerschließt sich ihre Bedeutung.
+Dialogue: 0,0:15:48.93,0:15:52.35,Default,Vice Ash,0,0,0,,Aber ist wirklich ewig her, dass ich\Ndie Form einer Waffe verändert hab.
+Dialogue: 0,0:15:53.52,0:15:55.85,Default,Sunraku,0,0,0,,Ooh, lass mal sehen!
+Dialogue: 0,0:15:56.23,0:16:01.06,Default,Sunraku,0,0,0,,Bei Zunehmend steht: „Kämpfst du mit\Neinem Gegner, der ein höheres Level als du hat,
+Dialogue: 0,0:16:01.06,0:16:04.53,Default,Sunraku,0,0,0,,und landest einen kritischen Treffer,\Nverlierst du LP,
+Dialogue: 0,0:16:04.53,0:16:07.99,Default,Sunraku,0,0,0,,aber im Gegenzug erhält\Nder nächste Angriff Bonusschaden.“
+Dialogue: 0,0:16:07.99,0:16:13.20,Default,Sunraku,0,0,0,,Und Abnehmend regeneriert\Nunter den gleichen Bedingungen LP, was?
+Dialogue: 0,0:16:13.20,0:16:17.04,Default,Sunraku,0,0,0,,Verstehe, das sind wirklich\Nzwei Klingen und doch eine.
+Dialogue: 0,0:16:17.04,0:16:22.09,Default,Sunraku,0,0,0,,Oh? Durch eine bestimmte Anzahl kritischer\NTreffer wird die Fusionsleiste gefüllt?!
+Dialogue: 0,0:16:22.09,0:16:26.38,Default,Sunraku,0,0,0,,Diese Waffen fusionieren?!\NOoh! Echt?! Jawohl!
+Dialogue: 0,0:16:26.38,0:16:28.72,Default,Emul,0,0,0,,Äff mich nicht nach!
+Dialogue: 0,0:16:30.47,0:16:32.80,Default,Sunraku,0,0,0,,Ich werd sie gleich anlegen\Nund ausprobieren!
+Dialogue: 0,0:16:34.10,0:16:36.85,Default,Sunraku,0,0,0,,Was? Benötige Statuswerte?
+Dialogue: 0,0:16:38.85,0:16:41.36,Default,Sunraku,0,0,0,,{\i1}G-Ganz ruhig …
+Dialogue: 0,0:16:41.36,0:16:43.98,Default,Sunraku,0,0,0,,{\i1}Das ist ’ne einfache Rechenaufgabe.
+Dialogue: 0,0:16:43.98,0:16:47.19,Default,Sunraku,0,0,0,,{\i1}Die Summe der benötigten Werte beträgt 150.
+Dialogue: 0,0:16:47.19,0:16:51.37,Default,Sunraku,0,0,0,,{\i1}Die betreffenden Attribute haben bei mir\Nzusammen einen Wert von 57.
+Dialogue: 0,0:16:51.37,0:16:54.37,Default,Sunraku,0,0,0,,{\i1}Pro Levelaufsteig bekomme ich\Nfünf Punkte dazu,
+Dialogue: 0,0:16:54.37,0:16:57.37,Default,Sunraku,0,0,0,,{\i1}also kann ich sie bis Level 50\Nnicht ausrüsten?!
+Dialogue: 0,0:16:57.37,0:17:02.83,Default,Vice Ash,0,0,0,,Tja, bis du sie richtig benutzen kannst,\Nmusst du wohl noch fleißig trainieren.
+Dialogue: 0,0:17:05.25,0:17:08.26,Default,Sunraku,0,0,0,,Nooooo!
+Dialogue: 0,0:17:08.26,0:17:10.26,Default,Emul,0,0,0,,S-Sunraku?
+Dialogue: 0,0:17:10.63,0:17:12.47,Default,Emul,0,0,0,,Sunrakuuu?!
+Dialogue: 0,0:17:13.26,0:17:18.27,Default,Sunraku,0,0,0,,Ich will sie jetzt sofort benutzeeeeen!
+Dialogue: 0,0:17:29.11,0:17:31.78,Default,Sunraku,0,0,0,,Joa, und deshalb
+Dialogue: 0,0:17:31.78,0:17:35.78,Default,Sunraku,0,0,0,,bin ich zu spät. Sorry.\NTut mir auch irgendwie leid.
+Dialogue: 0,0:17:39.62,0:17:42.50,Default,Pencilgon,0,0,0,,Hast du irgendwelche letzten Worte?
+Dialogue: 0,0:17:42.50,0:17:45.54,Default,Oikatso,0,0,0,,Du bist fast drei Stunden zu spät!
+Dialogue: 0,0:17:45.54,0:17:48.42,Default,Oikatso,0,0,0,,Diese Unpünktlichkeit\Nvergeben wir dir nicht so einfach!
+Dialogue: 0,0:17:48.42,0:17:52.38,Default,Sunraku,0,0,0,,Es ist so, als ich mein eigenes Unique\Nvorangetrieben hab,
+Dialogue: 0,0:17:52.38,0:17:55.18,Default,Sunraku,0,0,0,,ist Wezaemon zur Sprache gekommen.
+Dialogue: 0,0:17:55.18,0:17:58.52,Default,Sunraku,0,0,0,,Vielleicht hilft uns das ja weiter.
+Dialogue: 0,0:17:59.56,0:18:02.23,Default,Pencilgon,0,0,0,,Gut. Spuck’s aus und ich drück ein Auge zu.
+Dialogue: 0,0:18:02.23,0:18:04.56,Default,Oikatso,0,0,0,,Was?! Ganz ohne Strafe?!
+Dialogue: 0,0:18:05.44,0:18:09.23,Default,Sunraku,0,0,0,,Sag mal, du hast dir da ja\Neinen hübschen Avatar erstellt, Katso.
+Dialogue: 0,0:18:10.19,0:18:13.70,Default,Sunraku,0,0,0,,Nein, hier heißt du Oikatso, was?
+Dialogue: 0,0:18:13.70,0:18:15.45,Default,Sunraku,0,0,0,,Wie die Fischbouillon, richtig?
+Dialogue: 0,0:18:15.95,0:18:18.45,Default,Sunraku,0,0,0,,{\i1}Das ist sein Sinn für Namensgebung.
+Dialogue: 0,0:18:18.83,0:18:23.71,Default,Sunraku,0,0,0,,{\i1}„Katso“ ist eine Kombi aus den Zeichen seines\NNamens, die er immer für Nicknamen benutzt.
+Dialogue: 0,0:18:23.71,0:18:26.67,Default,Oikatso,0,0,0,,Von dir lass ich\Nmein Äußeres nicht kritisieren.
+Dialogue: 0,0:18:26.67,0:18:30.55,Default,Oikatso,0,0,0,,Die Leute rufen die Polizei,\Nwenn sie dich Exhibitionisten sehen.
+Dialogue: 0,0:18:31.51,0:18:35.39,Default,Sunraku,0,0,0,,Du hast ja keine Ahnung,\Nwie hart es für mich war, herzukommen.
+Dialogue: 0,0:18:35.39,0:18:39.64,Default,Pencilgon,0,0,0,,Selbst unter den Hinterhoftavernen\Nist das noch die am wenigsten besuchte.
+Dialogue: 0,0:18:39.64,0:18:41.39,Default,Pencilgon,0,0,0,,Du bist hier drin also sicher.
+Dialogue: 0,0:18:41.89,0:18:44.77,Default,Sunraku,0,0,0,,Kein Wunder, dass sie\Nso schwer zu finden war.
+Dialogue: 0,0:18:44.77,0:18:48.82,Default,Pencilgon,0,0,0,,Also dann, kommen wir zur Sache.\NVerrat uns doch, was du erfahren hast.
+Dialogue: 0,0:18:49.98,0:18:50.82,Default,Sunraku,0,0,0,,Okay.
+Dialogue: 0,0:18:52.32,0:18:53.82,Default,Pencilgon,0,0,0,,Ich verstehe.
+Dialogue: 0,0:18:53.82,0:18:55.86,Default,Pencilgon,0,0,0,,Er hat Grabwächter Wezaemon
+Dialogue: 0,0:18:55.86,0:19:00.08,Default,Pencilgon,0,0,0,,als unsterblich und als\Nwandelnde Leiche beschrieben.
+Dialogue: 0,0:19:00.87,0:19:03.21,Default,Oikatso,0,0,0,,Er ist also ein Monster vom Typ Untoter?
+Dialogue: 0,0:19:03.54,0:19:08.42,Default,Pencilgon,0,0,0,,Stimmt, wenn ich so zurückdenke, zu Beginn\Ndes Kampfes waren seine Bewegungen hölzern.
+Dialogue: 0,0:19:08.42,0:19:13.09,Default,Pencilgon,0,0,0,,Ach so. Ich dachte immer,\Ner sei vom Typ Cyborg,
+Dialogue: 0,0:19:13.09,0:19:16.01,Default,Pencilgon,0,0,0,,aber wenn er Untoter ist,\Nleuchtet mir so einiges ein.
+Dialogue: 0,0:19:16.01,0:19:17.97,Default,Sunraku,0,0,0,,Können wir das für den Kampf nutzen?
+Dialogue: 0,0:19:21.47,0:19:26.02,Default,Pencilgon,0,0,0,,Ich muss mich da um was kümmern.\NKönnte bis heute Abend dauern.
+Dialogue: 0,0:19:26.02,0:19:28.77,Default,Sunraku,0,0,0,,Na gut, und was machen wir so lange?
+Dialogue: 0,0:19:29.36,0:19:31.53,Default,Pencilgon,0,0,0,,Ich geb euch fürs Erste die hier.
+Dialogue: 0,0:19:31.53,0:19:35.28,Default,Pencilgon,0,0,0,,Levelt bis heute Abend in den\NEisenruinen des göttlichen Zeitalters.
+Dialogue: 0,0:19:35.28,0:19:39.53,Default,Sunraku,0,0,0,,Level grinden? Damit kann\Nich mich anfreunden, aber …
+Dialogue: 0,0:19:40.78,0:19:42.04,Default,Oikatso,0,0,0,,Eine Karte und …
+Dialogue: 0,0:19:42.62,0:19:43.79,Default,Sunraku,0,0,0,,… eine Angel?
+Dialogue: 0,0:19:44.29,0:19:46.04,Default,Pencilgon,0,0,0,,Seid ihr da, werdet ihr’s verstehen.
+Dialogue: 0,0:19:58.09,0:20:01.10,Default,Pencilgon,0,0,0,,Eins frag ich mich schon,\Nseit du hier bist.
+Dialogue: 0,0:20:01.10,0:20:05.06,Default,Pencilgon,0,0,0,,Sunraku, soll das etwa ihre Tarnung sein?
+Dialogue: 0,0:20:05.60,0:20:09.56,Default,Sunraku,0,0,0,,Wie meinen? Das ist nur\Ndie allerneueste Mode.
+Dialogue: 0,0:20:09.56,0:20:11.82,Default,Oikatso,0,0,0,,Hä? Wovon redet ihr?
+Dialogue: 0,0:20:12.44,0:20:14.65,Default,Pencilgon,0,0,0,,{\i1}Einen hat es schon mal getäuscht.
+Dialogue: 0,0:20:14.65,0:20:17.53,Default,Pencilgon,0,0,0,,{\i1}Wenn man nichts von ihr weiß,\Nbemerkt man es wohl nicht,
+Dialogue: 0,0:20:17.53,0:20:18.82,Default,Pencilgon,0,0,0,,{\i1}schätze ich.
+Dialogue: 0,0:20:18.82,0:20:21.70,Default,Pencilgon,0,0,0,,Na ja, was soll’s.\NAlso dann, bis heute Abend.
+Dialogue: 0,0:20:21.70,0:20:22.74,Default,Sunraku,0,0,0,,Okay.
+Dialogue: 0,0:20:22.74,0:20:24.83,Default,Oikatso,0,0,0,,Tschau!
+Dialogue: 0,0:20:24.83,0:20:28.21,Default,Oikatso,0,0,0,,Alles klar, lass uns auch gleich los!
+Dialogue: 0,0:20:28.21,0:20:31.25,Default,Sunraku,0,0,0,,Die Eisenruinen\Ndes göttlichen Zeitalters, richtig?
+Dialogue: 0,0:20:31.25,0:20:34.42,Default,Sunraku,0,0,0,,Warte kurz, ich suche\Neine sichere Route zum Tor.
+Dialogue: 0,0:20:34.88,0:20:37.51,Default,Oikatso,0,0,0,,Was? Supernervig.
+Dialogue: 0,0:20:37.51,0:20:40.01,Default,Oikatso,0,0,0,,Muss ich denn auch rumschleichen?
+Dialogue: 0,0:20:40.01,0:20:44.85,Default,Emul,0,0,0,,Sunraku, Sunraku,\Nmir tun langsam die Ohren weh.
+Dialogue: 0,0:20:44.85,0:20:45.47,Default,Oikatso,0,0,0,,Hm?
+Dialogue: 0,0:20:45.47,0:20:48.27,Default,Emul,0,0,0,,Kann ich mich nur ganz kurz bewegen?
+Dialogue: 0,0:20:57.36,0:21:02.87,Default,Oikatso,0,0,0,,Waaas?! Sunraku, deine Ausrüstung\Nspricht ja! Hat sie doch, oder?!
+Dialogue: 0,0:21:02.87,0:21:04.62,Default,Sunraku,0,0,0,,Ach, komm schon.
+Dialogue: 0,0:21:04.62,0:21:07.87,Default,Sunraku,0,0,0,,Ich wollte doch sehen, wie lange\Nes dauert, bis er dich bemerkt!
+Dialogue: 0,0:21:07.87,0:21:09.21,Default,Emul,0,0,0,,Bin ich kaputt.
+Dialogue: 0,0:21:09.21,0:21:13.04,Default,Oikatso,0,0,0,,Ist dieser NPC vielleicht\Ndas besagte Unique?
+Dialogue: 0,0:21:13.04,0:21:15.05,Default,Oikatso,0,0,0,,Lass dich mal näher betrachten!
+Dialogue: 0,0:21:15.59,0:21:16.92,Default,Emul,0,0,0,,W-Was machst du da?!
+Dialogue: 0,0:21:17.30,0:21:18.92,Default,Emul,0,0,0,,Lass mich los!
+Dialogue: 0,0:21:18.92,0:21:22.72,Default,Oikatso,0,0,0,,Ich will auch ein Unique.
+Dialogue: 0,0:21:19.63,0:21:22.72,Alt,Emul,0,0,0,,A-Aufhören!
+Dialogue: 0,0:21:22.72,0:21:24.93,Default,Sunraku,0,0,0,,Das musst du selbst hinkriegen.
+Dialogue: 0,0:21:22.72,0:21:24.93,Alt,Emul,0,0,0,,Lass mich los!
+Dialogue: 0,0:21:26.68,0:21:30.98,Default,Sunraku,0,0,0,,Ah, hier ist es.\NEndlich sind wir am Eingang.
+Dialogue: 0,0:21:30.98,0:21:34.44,Default,Oikatso,0,0,0,,Ich bin neidisch auf dein Unique.\NSo neidisch!
+Dialogue: 0,0:21:34.44,0:21:37.15,Default,Sunraku,0,0,0,,Damit hängst du mir schon\Ndie ganze Zeit in den Ohren.
+Dialogue: 0,0:21:37.15,0:21:41.57,Default,Sunraku,0,0,0,,Beeilen wir uns.\NIch will schnell Level 50 werden.
+Dialogue: 0,0:21:41.57,0:21:46.58,Default,Oikatso,0,0,0,,Jaja. Übrigens ist das\Nmeine erste Gruppe in ShanFro.
+Dialogue: 0,0:21:46.95,0:21:49.00,Default,Sunraku,0,0,0,,Meine auch, mit einem Spieler.
+Dialogue: 0,0:21:50.12,0:21:54.46,Default,Oikatso,0,0,0,,Setting und Atmosphäre\Nsind anders als bisher.
+Dialogue: 0,0:21:54.46,0:21:56.13,Default,Oikatso,0,0,0,,Wirkt ganz interessant.
+Dialogue: 0,0:21:56.13,0:22:00.09,Default,Sunraku,0,0,0,,Ja. Die Eisenruinen\Ndes göttlichen Zeitalters also.
+Dialogue: 0,0:23:43.69,0:23:47.36,Default,Kinder,0,0,0,,ShanFro-Theater!
+Dialogue: 0,0:23:47.36,0:23:49.03,Default,Emul,0,0,0,,Mini!
+Dialogue: 0,0:23:50.87,0:23:55.12,Default,Vice Ash,0,0,0,,♪ Funken stieben in die Luft,
+Dialogue: 0,0:23:55.12,0:24:00.04,Default,Vice Ash,0,0,0,,das Dunkel gierig sie verschlingt.
+Dialogue: 0,0:24:00.04,0:24:08.93,Default,Vice Ash,0,0,0,,Der Hammer, er tanzt auf und ab,\Ndas Eisen, es singt.
+Dialogue: 0,0:24:08.93,0:24:16.60,Default,Vice Ash,0,0,0,,Bumm, Klatter, Klang\Nund Klong, Kling, Krach.
+Dialogue: 0,0:24:16.60,0:24:25.65,Default,Vice Ash,0,0,0,,Du bist eine Klinge, o ja, du bist Macht. ♪
+Dialogue: 0,0:24:26.65,0:24:28.82,Default,Oikatso,0,0,0,,Echt cool.
+Dialogue: 0,0:24:28.82,0:24:31.03,Default,Pencilgon,0,0,0,,Ein schönes Lied.
+Dialogue: 0,0:24:31.03,0:24:35.66,Default,Pencilgon,0,0,0,,Genau. Sunraku, wie wär’s, wenn du\Nauch mal mit einem Erkennungslied auftrittst?
+Dialogue: 0,0:24:36.20,0:24:37.58,Default,Sunraku,0,0,0,,Ein Erkennungslied?
+Dialogue: 0,0:24:43.80,0:24:48.55,Default,Sunraku,0,0,0,,♪ Gurr, gurr, gurr, die Taube macht gurr.
+Dialogue: 0,0:24:48.55,0:24:52.93,Default,Sunraku,0,0,0,,Willst du ein paar Erbsen?\NDann komm doch her zu mir. ♪
+Dialogue: 0,0:24:52.93,0:24:54.31,Default,Sunraku,0,0,0,,Wer ist hier ’ne Taube?!
+Dialogue: 0,0:24:54.31,0:24:56.77,Default,Pencilgon,0,0,0,,Passt aber doch perfekt zu dir.
+Dialogue: 0,0:24:56.77,0:24:58.06,Default,Oikatso,0,0,0,,Ja, total.
+Dialogue: 0,0:24:58.06,0:24:59.56,Default,Sunraku,0,0,0,,Und was daran?
+Dialogue: 0,0:25:00.85,0:25:01.48,Default,Pencilgon,0,0,0,,Das.

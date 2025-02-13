@@ -1,0 +1,318 @@
+﻿[Script Info]
+Title: Deutsch
+ScaledBorderAndShadow: yes
+Original Script: cr_de  [http://www.crunchyroll.com/user/cr_de]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+LayoutResX: 1920
+LayoutResY: 1080
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+Style: Alt,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00743E15,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+Style: Flashback,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00013E12,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.94,0:00:06.78,Default,Erzählerin,0,0,0,,Auf dieser Welt gibt es\Nunzählige Videospiele.
+Dialogue: 0,0:00:07.99,0:00:12.33,Default,Erzählerin,0,0,0,,Doch die meisten davon gehen unter,\Nohne je bekannt gewesen zu sein.
+Dialogue: 0,0:00:13.70,0:00:16.45,Default,Erzählerin,0,0,0,,An der Spitze dieser Spiele steht
+Dialogue: 0,0:00:16.45,0:00:21.71,Default,Erzählerin,0,0,0,,das Full-Dive-VR-Game mit einer\Nweltweiten Spielerzahl von über 30 Millionen,
+Dialogue: 0,0:00:21.71,0:00:26.30,Default,Erzählerin,0,0,0,,das es absolut verdient, als Meisterwerk\Nbezeichnet zu werden: Shangri-La Frontier.
+Dialogue: 0,0:00:28.17,0:00:31.93,Default,Erzählerin,0,0,0,,Rakuro Hizutome, ein Junge,\Nder Trash-Games über alles liebt,
+Dialogue: 0,0:00:31.93,0:00:35.18,Default,Erzählerin,0,0,0,,wagt sich an das Meisterwerk\NShangri-La Frontier.
+Dialogue: 0,0:00:35.93,0:00:40.69,Default,Erzählerin,0,0,0,,Welche Abenteuer werden ihn\Nauf seinem Weg wohl erwarten?
+Dialogue: 0,0:02:26.17,0:02:27.75,Default,Pencilgon,0,0,0,,In Vollmondnächten
+Dialogue: 0,0:02:27.75,0:02:31.84,Default,Pencilgon,0,0,0,,gibt es an den Wänden der Bunt\Nschillernden Waldgrotte eine winzige Stelle,
+Dialogue: 0,0:02:31.84,0:02:34.38,Default,Pencilgon,0,0,0,,an der das Moos nicht leuchtet.
+Dialogue: 0,0:02:39.64,0:02:41.35,Default,Pencilgon,0,0,0,,Untersucht man die …
+Dialogue: 0,0:02:48.31,0:02:49.98,Default,Sunraku,0,0,0,,Ein geheimer Durchgang!
+Dialogue: 0,0:02:56.36,0:03:00.54,Default,Sunraku,0,0,0,,Die Waldgrotte hab ich bereits durch.\NDass hier ein versteckter Bereich ist,
+Dialogue: 0,0:03:00.54,0:03:02.25,Default,Sunraku,0,0,0,,ärgert mich irgendwie.
+Dialogue: 0,0:03:02.50,0:03:04.71,Default,Oikatso,0,0,0,,Krass, dass du das gefunden hast.
+Dialogue: 0,0:03:04.71,0:03:05.87,Default,Emul,0,0,0,,Ja, erstaunlich.
+Dialogue: 0,0:03:06.37,0:03:09.96,Default,Pencilgon,0,0,0,,Da dieser Bereich nur zu bestimmten\NZeiten zugänglich ist, war es pures Glück.
+Dialogue: 0,0:03:09.96,0:03:14.63,Default,Pencilgon,0,0,0,,Ich war auf der Jagd nach benötigten Items\Nund fand das hier rein zufällig.
+Dialogue: 0,0:03:15.13,0:03:16.68,Default,Sunraku,0,0,0,,Tja, das heißt wohl,
+Dialogue: 0,0:03:16.68,0:03:20.93,Default,Sunraku,0,0,0,,wer Uniques findet, hat auch\Nim echten Leben viel Glück, was?
+Dialogue: 0,0:03:20.93,0:03:24.14,Default,Oikatso,0,0,0,,Dein Blick pisst mich an.\NKönntest du das lassen?
+Dialogue: 0,0:03:24.48,0:03:26.98,Default,Sunraku,0,0,0,,Dein Gebieter blickt\Nvoller Mitleid und Erbarmen
+Dialogue: 0,0:03:26.98,0:03:30.27,Default,Sunraku,0,0,0,,aus dem Himmel auf den am Boden\Nkriechenden, jammernden Pöbel hinab
+Dialogue: 0,0:03:30.27,0:03:35.03,Default,Sunraku,0,0,0,,und du wagst es, so mit ihm\Nzu sprechen, du unverschämter Kerl?
+Dialogue: 0,0:03:35.32,0:03:37.03,Default,Oikatso,0,0,0,,Ich klatsch dich weg.
+Dialogue: 0,0:03:37.32,0:03:40.41,Default,Pencilgon,0,0,0,,Okay, das reicht, ihr Komiker.\NWir sind da.
+Dialogue: 0,0:04:11.23,0:04:13.69,Default,Emul,0,0,0,,Was für schöne Blumen!
+Dialogue: 0,0:04:13.69,0:04:17.78,Default,Pencilgon,0,0,0,,Unique hin oder her,\Nich mag dieses Gebiet einfach.
+Dialogue: 0,0:04:20.41,0:04:24.54,Default,Oikatso,0,0,0,,Es ist schon schön,\Naber irgendwie unheimlich, oder?
+Dialogue: 0,0:04:24.54,0:04:26.62,Default,Sunraku,0,0,0,,Sind das Spinnenlilien?
+Dialogue: 0,0:04:27.12,0:04:29.87,Default,Sunraku,0,0,0,,Nicht gerade glückverheißende Blumen.
+Dialogue: 0,0:04:30.54,0:04:35.34,Default,Setsuna,0,0,0,,Zwischen zwei Augenblicken
+Dialogue: 0,0:04:35.34,0:04:39.22,Default,Setsuna,0,0,0,,kommt zum Vorschein
+Dialogue: 0,0:04:37.30,0:04:39.22,Alt,Oikatso,0,0,0,,Sunraku, da!
+Dialogue: 0,0:04:40.01,0:04:47.60,Default,Setsuna,0,0,0,,ein frommer Wunsch.
+Dialogue: 0,0:04:49.23,0:04:58.69,Default,Setsuna,0,0,0,,{\an8}Er sickert durch …
+Dialogue: 0,0:04:53.23,0:04:54.94,Default,Emul,0,0,0,,Sie ist durchsichtig?!
+Dialogue: 0,0:04:54.94,0:04:55.69,Default,Sunraku,0,0,0,,Ein Bug?!
+Dialogue: 0,0:04:55.69,0:04:59.24,Default,Oikatso,0,0,0,,Du vermutest natürlich\Nals allererstes einen Bug.
+Dialogue: 0,0:04:58.69,0:04:59.70,Default,Setsuna,0,0,0,,{\an8}
+Dialogue: 0,0:04:59.70,0:05:02.24,Default,Pencilgon,0,0,0,,Hey, Set.\NSchon wieder ein Monat rum.
+Dialogue: 0,0:05:02.78,0:05:05.74,Default,Setsuna,0,0,0,,Ah, Arthur. Lange nicht gesehen.
+Dialogue: 0,0:05:09.66,0:05:13.13,Default,Sunraku,0,0,0,,{\i1}Ihre Kleidung …\NSieht nicht nach Fantasy aus.
+Dialogue: 0,0:05:13.13,0:05:16.63,Default,Sunraku,0,0,0,,{\i1}Eher nach einem Design,\Ndem man auch in echt begegnen könnte.
+Dialogue: 0,0:05:17.34,0:05:20.88,Default,Sunraku,0,0,0,,{\i1}Gehört sie zur alten Zivilisation\Naus dem Göttlichen Zeitalter?
+Dialogue: 0,0:05:20.88,0:05:21.51,Default,Emul,0,0,0,,Hm?
+Dialogue: 0,0:05:21.80,0:05:23.51,Default,Sunraku,0,0,0,,{\i1}Vielleicht
+Dialogue: 0,0:05:23.51,0:05:26.85,Default,Sunraku,0,0,0,,{\i1}finde ich ja irgendeinen Anhaltspunkt\Nfür mein einzigartiges Szenario.
+Dialogue: 0,0:05:30.10,0:05:33.23,Default,Setsuna,0,0,0,,Du hast heute\Nandere Leute als sonst dabei.
+Dialogue: 0,0:05:33.23,0:05:34.94,Default,Pencilgon,0,0,0,,Ja, ich stell sie dir vor.
+Dialogue: 0,0:05:36.44,0:05:40.03,Default,Sunraku,0,0,0,,Hallo, wir sind Pencilgons heitere Kumpanen.\NIch bin der rote Power Ranger, Sunra…
+Dialogue: 0,0:05:40.03,0:05:42.99,Default,Pencilgon,0,0,0,,Das sind die Deppen-Ranger\Neins und zwei sowie ihr Maskottchen.
+Dialogue: 0,0:05:43.74,0:05:48.12,Default,Sunraku,0,0,0,,Halt! Stell uns ordentlich vor! Ich hab mir\Nsogar eine Heldenpose ausgedacht!
+Dialogue: 0,0:05:48.12,0:05:50.12,Default,Pencilgon,0,0,0,,Diese zwei sind die Trümpfe …
+Dialogue: 0,0:05:50.79,0:05:53.62,Default,Pencilgon,0,0,0,,um ihn, Wezaemon,\Nins Nirvana zu schicken.
+Dialogue: 0,0:05:56.92,0:05:59.38,Default,Emul,0,0,0,,Ich bin Vice Ashs Tochter Emul!
+Dialogue: 0,0:05:59.38,0:06:01.09,Default,Sunraku,0,0,0,,Hey, nicht vordrängeln!
+Dialogue: 0,0:06:01.09,0:06:02.80,Default,Oikatso,0,0,0,,Ich bin Oikatso!
+Dialogue: 0,0:06:02.80,0:06:04.22,Default,Sunraku,0,0,0,,Du auch nicht!
+Dialogue: 0,0:06:04.22,0:06:07.31,Default,Setsuna,0,0,0,,Arthur, da hast du ja\Neine unglaubliche Truppe.
+Dialogue: 0,0:06:07.31,0:06:08.89,Default,Pencilgon,0,0,0,,Keine Sorge.
+Dialogue: 0,0:06:08.89,0:06:12.18,Default,Pencilgon,0,0,0,,Jetzt sind sie schwach, aber\Nbis zum Kampf werd ich sie trainieren.
+Dialogue: 0,0:06:12.18,0:06:13.27,Default,Setsuna,0,0,0,,Das meine ich nicht.
+Dialogue: 0,0:06:14.15,0:06:18.57,Default,Setsuna,0,0,0,,Ich habe noch nie jemanden getroffen, dem an\Nzwei Stellen so viel von Blackys Aura anhaftet.
+Dialogue: 0,0:06:18.57,0:06:21.28,Default,Setsuna,0,0,0,,Und er hat Aschenputtels Kind bei sich.
+Dialogue: 0,0:06:24.24,0:06:26.82,Default,Setsuna,0,0,0,,Das erinnert mich\Nan eine liebe Freundin.
+Dialogue: 0,0:06:26.82,0:06:28.33,Default,Sunraku,0,0,0,,Ähm …
+Dialogue: 0,0:06:28.33,0:06:28.78,Default,Oikatso,0,0,0,,Hm?
+Dialogue: 0,0:06:29.20,0:06:32.04,Default,Setsuna,0,0,0,,Nicht so wichtig.\NIch denke nur wehmütig zurück.
+Dialogue: 0,0:06:32.04,0:06:34.79,Default,Setsuna,0,0,0,,An alte, längst vergangene Zeiten.
+Dialogue: 0,0:06:35.37,0:06:36.79,Default,Sunraku,0,0,0,,Aha …
+Dialogue: 0,0:06:39.96,0:06:43.17,Default,Setsuna,0,0,0,,Ich schätze, sie ist schon lange tot.
+Dialogue: 0,0:06:48.35,0:06:51.93,Default,Setsuna,0,0,0,,Aber dank dir wurden\Nschöne Erinnerungen geweckt.
+Dialogue: 0,0:06:52.93,0:06:53.93,Default,Setsuna,0,0,0,,Danke.
+Dialogue: 0,0:06:55.85,0:06:58.31,Default,Sunraku,0,0,0,,Gern … geschehen.
+Dialogue: 0,0:06:58.52,0:07:02.69,Default,Pencilgon,0,0,0,,Setsuna, würdest du auch\Nden beiden bitte von ihm erzählen?
+Dialogue: 0,0:07:03.11,0:07:03.99,Default,Setsuna,0,0,0,,Also gut.
+Dialogue: 0,0:07:10.24,0:07:10.99,Default,Sunraku,0,0,0,,{\i1}Da ist es!
+Dialogue: 0,0:07:22.21,0:07:26.09,Default,Setsuna,0,0,0,,Er, Wezaemon, ist mein Geliebter.
+Dialogue: 0,0:07:30.10,0:07:33.77,Default,Setsuna,0,0,0,,Durch eine unbedeutende\NBegebenheit bin ich gestorben.
+Dialogue: 0,0:07:33.77,0:07:35.77,Default,Setsuna,0,0,0,,Seit jenem Tag …
+Dialogue: 0,0:07:37.02,0:07:39.98,Default,Setsuna,0,0,0,,beschützt er ohne Unterlass mein Grab.
+Dialogue: 0,0:07:40.31,0:07:41.57,Default,Sunraku,0,0,0,,Dein Grab …
+Dialogue: 0,0:07:41.57,0:07:43.73,Default,Oikatso,0,0,0,,Darum also „Grabwächter“.
+Dialogue: 0,0:07:44.07,0:07:49.12,Default,Setsuna,0,0,0,,Ich weiß nicht, wie viel Zeit\Nseit meinem Tod vergangen ist.
+Dialogue: 0,0:07:49.41,0:07:52.24,Default,Setsuna,0,0,0,,Als ich zu mir kam, war ich in dieser Gestalt.
+Dialogue: 0,0:07:58.75,0:08:02.63,Default,Setsuna,0,0,0,,Dabei ist es gar nicht so,\Ndass ich meinen Tod bedauern würde.
+Dialogue: 0,0:08:03.30,0:08:07.55,Default,Setsuna,0,0,0,,Der Tod ist das Ende. Er setzt\Neinen Schlussstrich unter Vergangenes
+Dialogue: 0,0:08:07.55,0:08:11.76,Default,Setsuna,0,0,0,,und ist nichts, was Gegenwart\Noder Zukunft eines anderen einschränkt.
+Dialogue: 0,0:08:13.06,0:08:18.81,Default,Setsuna,0,0,0,,Dass er immer noch an meine Vergangenheit\Ngebunden ist, ertrage ich nicht.
+Dialogue: 0,0:08:19.73,0:08:22.06,Default,Setsuna,0,0,0,,Mit dem von mir geschaffenen Progra…
+Dialogue: 0,0:08:22.82,0:08:26.15,Default,Setsuna,0,0,0,,Mit meiner Magie hat er hier\Neine Barriere errichtet.
+Dialogue: 0,0:08:26.82,0:08:31.03,Default,Sunraku,0,0,0,,{\i1}Ich glaub, sie wollte gerade etwas sagen,\Nwas nicht so ganz ins Weltbild passt.
+Dialogue: 0,0:08:31.28,0:08:33.74,Default,Setsuna,0,0,0,,Er nutzte die Zauberkraft des Mondlichts
+Dialogue: 0,0:08:33.74,0:08:36.91,Default,Setsuna,0,0,0,,und drehte die Koordinaten\Nauf die Rückseite der Dimension,
+Dialogue: 0,0:08:36.91,0:08:38.96,Default,Setsuna,0,0,0,,sodass niemand sich einmischen kann.
+Dialogue: 0,0:08:40.12,0:08:44.55,Default,Setsuna,0,0,0,,Aber in einer Neumondnacht,\Nwenn der Mond all sein Licht einbüßt,
+Dialogue: 0,0:08:44.55,0:08:48.97,Default,Setsuna,0,0,0,,öffnet sich ein Riss in der Barriere, der zu\Nden rückseitigen Koordinaten führt. Zu ihm.
+Dialogue: 0,0:08:49.26,0:08:51.97,Default,Oikatso,0,0,0,,Und das nutzen wir also zum Angriff.
+Dialogue: 0,0:08:56.22,0:08:57.64,Default,Setsuna,0,0,0,,Bitte bettet Wezaemon …
+Dialogue: 0,0:08:58.48,0:09:01.35,Default,Setsuna,0,0,0,,Bettet meinen Geliebten\Nzur ewigen Ruhe.
+Dialogue: 0,0:09:07.32,0:09:08.86,Default,Pencilgon,0,0,0,,Verlass dich auf uns, Set.
+Dialogue: 0,0:09:09.40,0:09:12.36,Default,Pencilgon,0,0,0,,Wir sind anders als all\Ndie bisherigen Schwächlinge.
+Dialogue: 0,0:09:12.36,0:09:16.74,Default,Pencilgon,0,0,0,,Er wird dir nicht länger Kummer bereiten.\NDenn wir werden ihn garantiert besiegen!
+Dialogue: 0,0:09:18.75,0:09:20.21,Default,Sunraku,0,0,0,,Hast du das gehört?
+Dialogue: 0,0:09:20.21,0:09:22.12,Default,Oikatso,0,0,0,,Ist das wirklich Pencilgon?
+Dialogue: 0,0:09:22.63,0:09:26.42,Default,Sunraku,0,0,0,,Die Pencilgon, die in Unite Rounds\Neinen NPC-König als lebendigen Köder
+Dialogue: 0,0:09:26.42,0:09:28.96,Default,Sunraku,0,0,0,,hinter einem Wagen hergezogen hat,\Num Gegner anzulocken?!
+Dialogue: 0,0:09:28.96,0:09:30.76,Default,Pencilgon,0,0,0,,Hyahaaa!
+Dialogue: 0,0:09:30.76,0:09:33.26,Default,Oikatso,0,0,0,,Die Pencilgon, die es wagte,\Neine NPC-Prinzessin
+Dialogue: 0,0:09:33.26,0:09:37.72,Default,Oikatso,0,0,0,,als Lebendköder an einen Kronleuchter\Nzu hängen, um Spieler anzulocken?!
+Dialogue: 0,0:09:39.73,0:09:42.56,Default,Sunraku,0,0,0,,{\i1}Die{\i0} plaudert nett mit einem NPC?!
+Dialogue: 0,0:09:42.56,0:09:45.31,Default,Sunraku,0,0,0,,Hat sie endlich ihr\Nmenschliches Herz wiedererlangt?!
+Dialogue: 0,0:09:45.31,0:09:49.49,Default,Oikatso,0,0,0,,DieSEs GeFühL … IsT dAs … mEIn HeRz?
+Dialogue: 0,0:10:00.16,0:10:05.17,Default,Pencilgon,0,0,0,,Das ist dann doch\Netwas frech, findet ihr nicht?!
+Dialogue: 0,0:10:05.46,0:10:10.51,Default,Pencilgon,0,0,0,,Wie wär’s, wenn ich euch die Macht eines\NMax-Level-Charakters ins Hirn einprügle?!
+Dialogue: 0,0:10:10.51,0:10:13.80,Default,Sunraku,0,0,0,,Warte, warte! Ich bin durch\Nden letzten Schlag schon fast tot!
+Dialogue: 0,0:10:13.80,0:10:16.89,Default,Oikatso,0,0,0,,Das ist übel, Sunraku!\NSie meint’s ernst! Sie will uns killen!
+Dialogue: 0,0:10:16.89,0:10:19.10,Default,Pencilgon,0,0,0,,Hyahaaa!
+Dialogue: 0,0:10:23.48,0:10:25.02,Default,Pencilgon,0,0,0,,Mann.
+Dialogue: 0,0:10:25.02,0:10:27.23,Default,Pencilgon,0,0,0,,Stünde der Kampf\Ngegen Wezaemon nicht bevor,
+Dialogue: 0,0:10:27.23,0:10:30.28,Default,Pencilgon,0,0,0,,müsste ich euch ganze fünf Male spawn-killen,\Num mich zu beruhigen.
+Dialogue: 0,0:10:30.61,0:10:34.15,Default,Sunraku,0,0,0,,Sieht aus, als wäre die übliche\Ngrausame Pencilgon zurück.
+Dialogue: 0,0:10:34.15,0:10:35.78,Default,Oikatso,0,0,0,,Das war zu einfach.
+Dialogue: 0,0:10:38.70,0:10:40.66,Default,Pencilgon,0,0,0,,Vielleicht bring ich euch doch um.
+Dialogue: 0,0:10:42.58,0:10:47.79,Default,Pencilgon,0,0,0,,Ich mein, manchmal will ich eben\Nvor einem NPC cool aussehen, okay?
+Dialogue: 0,0:10:47.79,0:10:52.17,Default,Pencilgon,0,0,0,,Setsunas Name und so, das hat mich eben\Nauf persönlicher Ebene angesprochen.
+Dialogue: 0,0:10:55.05,0:10:57.76,Default,Pencilgon,0,0,0,,Jaja, so ist es halt!
+Dialogue: 0,0:10:57.76,0:11:02.18,Default,Pencilgon,0,0,0,,Selbst ich kann mich auch mal\Nemotional in ein Spiel einbringen!
+Dialogue: 0,0:11:02.43,0:11:04.52,Default,Sunraku,0,0,0,,Klar, ist doch toll, oder?
+Dialogue: 0,0:11:05.90,0:11:09.73,Default,Sunraku,0,0,0,,Sich ernsthaft in ein Spiel zu vertiefen,\Nist doch etwas Wunderbares.
+Dialogue: 0,0:11:09.73,0:11:13.36,Default,Sunraku,0,0,0,,Egal, was man tut, es macht immer\Nmehr Spaß, wenn man sich reinhängt.
+Dialogue: 0,0:11:13.57,0:11:17.11,Default,Oikatso,0,0,0,,Genau! Es macht Spaß,\Nweil du ernsthaft spielst.
+Dialogue: 0,0:11:17.11,0:11:21.62,Default,Oikatso,0,0,0,,Ich mein, ich bin Pro-Gamer.\NDas ist immerhin mein Job.
+Dialogue: 0,0:11:22.70,0:11:25.12,Default,Sunraku,0,0,0,,Was? Du bist Pro, hängst dich hier rein
+Dialogue: 0,0:11:25.12,0:11:28.63,Default,Sunraku,0,0,0,,und hast selbst noch\Nkein einziges Unique entdeckt?
+Dialogue: 0,0:11:28.63,0:11:30.17,Default,Oikatso,0,0,0,,Okay, jetzt reicht’s!
+Dialogue: 0,0:11:30.17,0:11:33.63,Default,Oikatso,0,0,0,,Ich rupf dir die Federn vom Kopf,\Ndamit man deine Hühnerhaut sieht!
+Dialogue: 0,0:11:33.63,0:11:37.13,Default,Sunraku,0,0,0,,Hey, Katso, hör auf!\NNoch ein Schlag und ich bin tot!
+Dialogue: 0,0:11:37.13,0:11:39.89,Default,Emul,0,0,0,,Bitte hört auf zu streiten!
+Dialogue: 0,0:11:44.10,0:11:45.27,Default,Pencilgon,0,0,0,,Richtig.
+Dialogue: 0,0:11:47.10,0:11:50.19,Default,Pencilgon,0,0,0,,Ihr seid ja zum Großteil\Ngenauso bescheuert wie ich.
+Dialogue: 0,0:11:58.03,0:12:01.95,Default,Pencilgon,0,0,0,,Unser Gegner stellt\Nalle anderen Bosse in den Schatten.
+Dialogue: 0,0:12:01.95,0:12:05.29,Default,Pencilgon,0,0,0,,Er ist ein einzigartiges Monster,\Ndas einen Levelunterschied von 150 erzwingt.
+Dialogue: 0,0:12:06.12,0:12:07.92,Default,Pencilgon,0,0,0,,Grabwächter Wezaemon.
+Dialogue: 0,0:12:08.71,0:12:13.42,Default,Pencilgon,0,0,0,,Trotzdem, wir drei schaffen das!\NLasst uns alles geben und gewinnen!
+Dialogue: 0,0:12:13.42,0:12:14.55,Default,Oikatso,0,0,0,,Ja!
+Dialogue: 0,0:12:13.42,0:12:14.55,Alt,Sunraku,0,0,0,,Jepp!
+Dialogue: 0,0:12:51.33,0:12:53.54,Default,Rakuro,0,0,0,,Schon Morgen …
+Dialogue: 0,0:12:53.54,0:12:56.84,Default,Rakuro,0,0,0,,Weil wir nach der Begegnung\Nmit Setsuna noch eifrig gelevelt haben,
+Dialogue: 0,0:12:56.84,0:13:00.76,Default,Rakuro,0,0,0,,bin ich erst spät ins Bett gekommen.
+Dialogue: 0,0:13:01.34,0:13:05.10,Default,Rakuro,0,0,0,,{\i1}Wir haben fleißig Lebensflut-\NSeeschlangen gefarmt
+Dialogue: 0,0:13:05.10,0:13:07.64,Default,Rakuro,0,0,0,,{\i1}und im Handumdrehen war ich Level 51.
+Dialogue: 0,0:13:07.64,0:13:10.77,Default,Rakuro,0,0,0,,{\i1}Katsuo war erst Level 46, glaub ich.
+Dialogue: 0,0:13:11.85,0:13:13.81,Default,Rakuro,0,0,0,,{\i1}Als Nächstes Skills.
+Dialogue: 0,0:13:13.81,0:13:15.07,Default,Rakuro,0,0,0,,{\i1}Emul zufolge
+Dialogue: 0,0:13:15.07,0:13:19.95,Default,Rakuro,0,0,0,,{\i1}gibt es auch in Hasingen so einen Fähigkeiten-\NGärtner, bei dem man Skills kombinieren kann,
+Dialogue: 0,0:13:19.95,0:13:21.91,Default,Rakuro,0,0,0,,{\i1}also lass ich mich da mal hinführen.
+Dialogue: 0,0:13:21.91,0:13:26.12,Flashback,Pencil Warrior,0,0,0,,Was euer Level betrifft,\Ndas ist kein großes Problem.
+Dialogue: 0,0:13:27.37,0:13:31.12,Flashback,Pencil Warrior,0,0,0,,Was ich brauche,\Nist purer Spieler-Skill.
+Dialogue: 0,0:13:34.46,0:13:38.26,Default,Rakuro,0,0,0,,Bleibt noch mein\Neigener Spieler-Skill, was?
+Dialogue: 0,0:13:41.88,0:13:43.01,Default,Rakuro,0,0,0,,Morgen.
+Dialogue: 0,0:13:43.01,0:13:44.51,Default,Eika,0,0,0,,Ah, Morgen.
+Dialogue: 0,0:13:45.01,0:13:47.68,Default,Eika,0,0,0,,Du scheinst deine\NSommerferien zu genießen,
+Dialogue: 0,0:13:47.68,0:13:51.06,Default,Eika,0,0,0,,aber schön, dass du auch\Nunsere Abmachung einhältst, Rakuro.
+Dialogue: 0,0:13:53.98,0:13:58.07,Default,Rakuro,0,0,0,,Ich hab’s eben satt, physisch\Nzwangsausgeloggt zu werden.
+Dialogue: 0,0:13:58.07,0:13:59.90,Default,Eika,0,0,0,,Man erntet, was man sät.
+Dialogue: 0,0:14:02.57,0:14:06.91,Default,Rumi,0,0,0,,Hey, Mama! Wir haben doch gesagt:\Nkeine Insekten in der Küche!
+Dialogue: 0,0:14:07.33,0:14:09.95,Default,Eika,0,0,0,,Was? Dabei ist er doch so süß.
+Dialogue: 0,0:14:09.95,0:14:12.92,Default,Eika,0,0,0,,Nicht wahr, Augustus III.?
+Dialogue: 0,0:14:13.25,0:14:17.80,Default,Rumi,0,0,0,,Gib ihnen keine Namen! Also echt …\NDa vergeht einem schon morgens der Appetit.
+Dialogue: 0,0:14:24.93,0:14:27.18,Default,Rakuro,0,0,0,,Da ist sie ja, Towa Amane.
+Dialogue: 0,0:14:27.47,0:14:31.06,Default,Rumi,0,0,0,,Was? Bist du jetzt etwa auch\Nein Fan von Lady Towa?
+Dialogue: 0,0:14:31.06,0:14:31.68,Default,Rakuro,0,0,0,,Bitte?
+Dialogue: 0,0:14:32.06,0:14:36.19,Default,Rumi,0,0,0,,Japans weltweit bekanntes Supermodel\NTowa Amane, genannt Lady Towa!
+Dialogue: 0,0:14:36.19,0:14:39.61,Default,Rumi,0,0,0,,Fotografiert man einfach jede ihrer Regungen,\Nkann man ein ganzes Fashionmagazin füllen!
+Dialogue: 0,0:14:39.61,0:14:41.94,Default,Rumi,0,0,0,,Es ist, als wäre sie zum Modeln geboren!
+Dialogue: 0,0:14:42.36,0:14:46.24,Default,Rumi,0,0,0,,Ein Fan hat mal heimlich gemachte Fotos\Nvon ihr auf Social Media hochgeladen
+Dialogue: 0,0:14:46.24,0:14:49.66,Default,Rumi,0,0,0,,und obwohl sie das unmöglich bemerkt haben\Nund nicht das genaue Timing wissen konnte,
+Dialogue: 0,0:14:49.66,0:14:50.37,Alt,Rakuro,0,0,0,,Towa …
+Dialogue: 0,0:14:49.66,0:14:51.45,Default,Rumi,0,0,0,,sah sie immer absolut perfekt aus.
+Dialogue: 0,0:14:51.45,0:14:56.21,Flashback,Pencilgon,0,0,0,,Setsunas Name und so, das hat mich eben\Nauf persönlicher Ebene angesprochen.
+Dialogue: 0,0:14:56.88,0:14:58.84,Default,Rakuro,0,0,0,,{\i1}Towa (Ewigkeit) lebt für den Augenblick
+Dialogue: 0,0:14:58.84,0:15:01.59,Default,Rakuro,0,0,0,,{\i1}und Setsuna (Augenblick) hat\Neine Ewigkeit verbracht.
+Dialogue: 0,0:15:02.13,0:15:06.84,Default,Rakuro,0,0,0,,{\i1}Auch wenn diese Übereinstimmung\Nbloßer Zufall und das Spiel nur Fiktion ist, …
+Dialogue: 0,0:15:07.64,0:15:12.06,Default,Rakuro,0,0,0,,{\i1}vielleicht hat Towa sich mit diesem\Nso lebensechten NPC verglichen.
+Dialogue: 0,0:15:12.85,0:15:14.14,Default,Rumi,0,0,0,,Hm? Was ist?
+Dialogue: 0,0:15:14.14,0:15:18.61,Default,Rakuro,0,0,0,,Pencil… nein, diese Lady Towa\Nhat auch ein Privatleben.
+Dialogue: 0,0:15:18.61,0:15:22.36,Default,Rakuro,0,0,0,,Man sollte nicht ohne Erlaubnis\NScreensho… Fotos von ihr machen.
+Dialogue: 0,0:15:22.36,0:15:26.49,Default,Rumi,0,0,0,,Ja, absolut. Ich hab heute\Nauch einen Modeljob.
+Dialogue: 0,0:15:26.78,0:15:29.12,Default,Rakuro,0,0,0,,Echt? So eine Amateurmodel-Sache?
+Dialogue: 0,0:15:29.37,0:15:32.08,Default,Rumi,0,0,0,,Bald muss ich auch vor heimlichen\NAufnahmen auf der Hut sein.
+Dialogue: 0,0:15:32.08,0:15:35.29,Default,Rumi,0,0,0,,Genau, ich muss Papa bitten,\NReklame zu machen.
+Dialogue: 0,0:15:35.29,0:15:37.12,Default,Rakuro,0,0,0,,Ach ja, wo ist Papa eigentlich?
+Dialogue: 0,0:15:37.54,0:15:39.42,Default,Eika,0,0,0,,Der ist seit gestern Fischen und …
+Dialogue: 0,0:15:39.42,0:15:40.50,Default,Senji,0,0,0,,Bin wieder da!
+Dialogue: 0,0:15:40.50,0:15:42.42,Default,Eika,0,0,0,,Er kommt wohl gerade zurück.
+Dialogue: 0,0:15:42.42,0:15:44.67,Default,Senji,0,0,0,,Schaut mal!\NEin gestreifter Schnabelbarsch!
+Dialogue: 0,0:15:48.55,0:15:49.89,Default,Rakuro,0,0,0,,Wow, riesig!
+Dialogue: 0,0:15:49.89,0:15:50.93,Default,Eika,0,0,0,,Du meine Güte!
+Dialogue: 0,0:15:50.93,0:15:55.31,Default,Senji,0,0,0,,Ich hab bis zu unserer Verabredung ausgeharrt.\NDen hab ich gerade noch rechtzeitig geangelt.
+Dialogue: 0,0:15:56.02,0:15:58.44,Default,Rumi,0,0,0,,Dann gibt’s wohl\Nschon wieder jeden Tag Fisch.
+Dialogue: 0,0:15:58.94,0:16:02.32,Default,Rakuro,0,0,0,,{\i1}Bei uns gibt es\Neine Abmachung, eine Art Regel.
+Dialogue: 0,0:16:02.69,0:16:04.57,Default,Rakuro,0,0,0,,{\i1}Jeden Sonntagmorgen und -abend
+Dialogue: 0,0:16:04.57,0:16:08.82,Default,Rakuro,0,0,0,,{\i1}essen wir mit der ganzen Familie\Nund unterhalten uns.
+Dialogue: 0,0:16:09.57,0:16:12.53,Default,Rakuro,0,0,0,,{\i1}Ansonsten würde sich\Njeder in sein Hobby vertiefen
+Dialogue: 0,0:16:12.53,0:16:16.71,Default,Rakuro,0,0,0,,{\i1}und wir hätten kaum Gelegenheit,\Nuns zu sehen … oder so was in der Art.
+Dialogue: 0,0:16:17.58,0:16:20.08,Default,Senji,0,0,0,,Ich hab mich mit einem\NSpeerfischangler angefreundet.
+Dialogue: 0,0:16:20.08,0:16:22.34,Default,Senji,0,0,0,,Nächstes Mal will ich\Netwas weiter rausfahren.
+Dialogue: 0,0:16:22.34,0:16:26.26,Default,Rumi,0,0,0,,Halt, was machst du denn, Papa?\NWillst du den hier ausnehmen?
+Dialogue: 0,0:16:26.26,0:16:28.63,Default,Senji,0,0,0,,Natürlich! Frische ist wichtig!
+Dialogue: 0,0:16:28.63,0:16:29.97,Default,Rumi,0,0,0,,Mach das in der Küche!
+Dialogue: 0,0:16:30.39,0:16:31.72,Default,Eika,0,0,0,,Ach, herrje.
+Dialogue: 0,0:16:32.14,0:16:36.93,Default,Rakuro,0,0,0,,{\i1}Die Leute scheinen meine Familie\Nfür leicht seltsam zu halten,
+Dialogue: 0,0:16:36.93,0:16:41.23,Default,Rakuro,0,0,0,,{\i1}aber bei uns hat einfach\Njeder seine eigene Welt
+Dialogue: 0,0:16:41.23,0:16:42.98,Default,Rakuro,0,0,0,,{\i1}und das ist äußerst gesund.
+Dialogue: 0,0:16:42.98,0:16:47.86,Default,Rumi,0,0,0,,Ah, Fischsaft auf meinen Klamotten!\NDabei hab ich gleich ein Shooting!
+Dialogue: 0,0:16:47.86,0:16:50.03,Default,Rumi,0,0,0,,Sag doch was, Mama!
+Dialogue: 0,0:16:50.03,0:16:52.07,Default,Eika,0,0,0,,Ich muss mich um\Ndie Schmetterlinge kümmern.
+Dialogue: 0,0:16:52.07,0:16:55.16,Default,Eika,0,0,0,,Schatz, ich überlass dir\Ndie Küche und das Putzen.
+Dialogue: 0,0:16:55.16,0:16:55.87,Default,Senji,0,0,0,,Alles klar!
+Dialogue: 0,0:16:55.87,0:16:57.25,Default,Rumi,0,0,0,,Maaaann!
+Dialogue: 0,0:16:58.71,0:17:01.08,Default,Rakuro,0,0,0,,Na ja, ich bin aber der Normalste.
+Dialogue: 0,0:17:05.25,0:17:06.00,Default,Rakuro,0,0,0,,So.
+Dialogue: 0,0:17:07.55,0:17:10.26,Default,Rakuro,0,0,0,,Dann geh auch ich\Nin meine Hobbywelt zurück.
+Dialogue: 0,0:17:11.13,0:17:13.39,Default,Rakuro,0,0,0,,{\i1}Noch zwei Wochen bis\Nzum Kampf gegen Wezaemon.
+Dialogue: 0,0:17:13.39,0:17:15.01,Default,Rakuro,0,0,0,,{\i1}Das wird sicher kein Kinderspiel.
+Dialogue: 0,0:17:15.72,0:17:20.14,Default,Rakuro,0,0,0,,{\i1}Laut den Infos von Pencilgon hat Wezaemon\Nsuperschnelle Angriffe von wenigen Frames,
+Dialogue: 0,0:17:20.14,0:17:23.77,Default,Rakuro,0,0,0,,{\i1}sowie One-Hit- und Flächenangriffe.\NEin ganzes Arsenal eben.
+Dialogue: 0,0:17:24.31,0:17:27.57,Default,Rakuro,0,0,0,,{\i1}Wenn das so ist, gibt es da\Ndoch einen guten Trainingsort.
+Dialogue: 0,0:17:27.57,0:17:31.28,Default,Rakuro,0,0,0,,{\i1}Ein Trash-Game, in dem alle Angriffe\Ndurch Bugs unfassbar schnell sind.
+Dialogue: 0,0:17:32.03,0:17:34.28,Default,Rakuro,0,0,0,,{\i1}Berserk Online Passion.
+Dialogue: 0,0:17:34.66,0:17:36.29,Default,Rakuro,0,0,0,,{\i1}Genannt BenP.
+Dialogue: 0,0:17:44.96,0:17:48.55,Default,Sunraku,0,0,0,,Hm … Dieses Spiel\Nist wirklich entvölkert.
+Dialogue: 0,0:17:53.30,0:17:56.05,Default,Sunraku,0,0,0,,Es ist zwar Morgen,\Naber für Sonntag ist das mau.
+Dialogue: 0,0:17:56.72,0:17:59.81,Default,Sunraku,0,0,0,,Na, was soll’s. Kämpfe ich halt\Ngegen den Storymodus-Endboss.
+Dialogue: 0,0:18:02.56,0:18:04.77,Default,Sunraku,0,0,0,,{\i1}Oh, da ist ja ein Spieler!
+Dialogue: 0,0:18:04.77,0:18:07.48,Default,Sunraku,0,0,0,,{\i1}Und er hat das Versus-Icon.
+Dialogue: 0,0:18:07.48,0:18:08.36,Default,Sunraku,0,0,0,,Hallo!
+Dialogue: 0,0:18:08.36,0:18:09.82,Default,Dragonfly,0,0,0,,Hi, wie geht’s?
+Dialogue: 0,0:18:09.82,0:18:13.20,Default,Sunraku,0,0,0,,{\i1}Dragonfly … Den Namen\Nhab ich noch nie gesehen.
+Dialogue: 0,0:18:13.74,0:18:17.12,Default,Sunraku,0,0,0,,Ähm, du hast\Ndas Versus-Icon an. Wollen wir?
+Dialogue: 0,0:18:17.12,0:18:21.37,Default,Dragonfly,0,0,0,,Was? Klar! Ich bin noch unerfahren.\NHab noch nicht mal den Endboss besiegt!
+Dialogue: 0,0:18:21.37,0:18:23.33,Default,Dragonfly,0,0,0,,Wär echt super,\Nwenn ich an dir üben dürfte!
+Dialogue: 0,0:18:23.71,0:18:24.29,Default,Sunraku,0,0,0,,Hä?
+Dialogue: 0,0:18:24.29,0:18:26.34,Default,Sunraku,0,0,0,,{\i1}Noch nicht mal den Endboss besiegt?!
+Dialogue: 0,0:18:26.71,0:18:30.59,Default,Sunraku,0,0,0,,{\i1}Krass, ein neuer Spieler!\NEine vom Aussterben bedrohte Art!
+Dialogue: 0,0:18:31.17,0:18:33.68,Default,Sunraku,0,0,0,,{\i1}Ich weiß nicht,\Nob das ein gutes Training ist,
+Dialogue: 0,0:18:33.68,0:18:36.60,Default,Sunraku,0,0,0,,{\i1}aber ich will gegen\Ndieses seltene Exemplar spielen!
+Dialogue: 0,0:18:37.35,0:18:39.01,Default,Sunraku,0,0,0,,Sind Bug-Techniken für dich okay?
+Dialogue: 0,0:18:39.01,0:18:40.97,Default,Dragonfly,0,0,0,,Ja! Auf einen guten Kampf!
+Dialogue: 0,0:18:41.43,0:18:43.69,Default,Sunraku,0,0,0,,{\i1}Dem Aussehen nach ist er ein Allrounder.
+Dialogue: 0,0:18:43.69,0:18:47.73,Default,Sunraku,0,0,0,,{\i1}Die Art, die viele Bugs triggern kann.\NGlaub aber nicht, dass er die alle drauf hat.
+Dialogue: 0,0:18:48.77,0:18:50.98,Default,Sunraku,0,0,0,,{\i1}Also, dann wollen wir mal sehen.
+Dialogue: 0,0:18:51.36,0:18:54.45,Default,Spielstimme,0,0,0,,Kampf beginnt. Runde 1. Kämpft!
+Dialogue: 0,0:18:58.95,0:19:01.50,Default,Sunraku,0,0,0,,{\i1}Ein schneller Angriff?!\NDabei ist er kein Tempo-Typ!
+Dialogue: 0,0:19:02.00,0:19:04.50,Default,Sunraku,0,0,0,,{\i1}Ein Anfänger schert sich\Neben nicht um Theorie.
+Dialogue: 0,0:19:04.50,0:19:06.50,Default,Dragonfly,0,0,0,,Die Faust drehen und zurückziehen!
+Dialogue: 0,0:19:06.50,0:19:07.50,Default,Sunraku,0,0,0,,Das ist …
+Dialogue: 0,0:19:08.25,0:19:11.55,Default,Sunraku,0,0,0,,{\i1}Zieht man die Faust in dem Moment zurück,\Nin dem die Schlag-Animation beginnt,
+Dialogue: 0,0:19:11.55,0:19:14.34,Default,Sunraku,0,0,0,,{\i1}löst man einen Bug aus, bei dem\Nsich der Arm wie Gummi dehnt.
+Dialogue: 0,0:19:15.59,0:19:17.72,Default,Sunraku,0,0,0,,{\i1}Schlägt man den Gegner\Nin diesem Zustand,
+Dialogue: 0,0:19:17.72,0:19:21.39,Default,Sunraku,0,0,0,,{\i1}landet man eine Zwei-Treffer-Combo\Nmit jeweils doppeltem Schaden.
+Dialogue: 0,0:19:21.39,0:19:22.68,Default,Sunraku,0,0,0,,{\i1}Sie heißt:
+Dialogue: 0,0:19:22.93,0:19:25.27,Default,Dragonfly,0,0,0,,„Pile Bunker“!
+Dialogue: 0,0:19:32.78,0:19:33.65,Default,Dragonfly,0,0,0,,Er ist weg?
+Dialogue: 0,0:19:39.53,0:19:40.99,Default,Dragonfly,0,0,0,,Dein Bein?!
+Dialogue: 0,0:19:40.99,0:19:43.16,Default,Sunraku,0,0,0,,Diese Bug-Technik heißt „Jo-Jo“.
+Dialogue: 0,0:19:43.62,0:19:46.50,Default,Sunraku,0,0,0,,Sie verschiebt die Textur\Ndes Avatars mitsamt der Hitbox.
+Dialogue: 0,0:19:47.25,0:19:50.50,Default,Sunraku,0,0,0,,Anscheinend beherrschst du\Ndie grundlegenden Bug-Techniken.
+Dialogue: 0,0:19:50.50,0:19:53.00,Default,Sunraku,0,0,0,,Doch in diesem Spiel\Ngeht’s um mehr als das.
+Dialogue: 0,0:19:53.63,0:19:56.88,Default,Sunraku,0,0,0,,Ich hatte ja vor, für den Kampf\Nmit Wezaemon zu üben, aber …
+Dialogue: 0,0:19:58.14,0:20:02.26,Default,Sunraku,0,0,0,,Bugs, die Spieler nach unzähligen Durchgängen\Nund Nachforschungen entdeckt haben.
+Dialogue: 0,0:20:03.89,0:20:05.93,Default,Sunraku,0,0,0,,Lass mich dir einige zeigen.
+Dialogue: 0,0:21:54.67,0:21:55.63,Default,Rei,0,0,0,,{\i1}Lieber Sunraku, …
+Dialogue: 0,0:21:56.46,0:21:58.92,Default,Rei,0,0,0,,{\i1}dies ist mein erster Brief an dich.
+Dialogue: 0,0:21:58.92,0:22:02.63,Default,Rei,0,0,0,,{\i1}Ich hoffe, die Hitze macht dir\Nnicht zu sehr zu schaffen.
+Dialogue: 0,0:22:03.13,0:22:06.97,Default,Rei,0,0,0,,{\i1}Du hast neulich meine\NFreundschaftsanfrage angenommen.
+Dialogue: 0,0:22:06.97,0:22:10.52,Default,Rei,0,0,0,,{\i1}Darüber bin ich so entzückt,\Ndass ich vor Freude tanze.
+Dialogue: 0,0:22:13.65,0:22:15.81,Default,Rei,0,0,0,,So steif … Zu steif!
+Dialogue: 0,0:22:15.81,0:22:18.48,Default,Rei,0,0,0,,Ich will ihn doch nur\Nzum gemeinsamen Spielen einladen.
+Dialogue: 0,0:22:18.48,0:22:20.82,Default,Rei,0,0,0,,Wenn das so steif ist,\Nwird er sonst was denken!
+Dialogue: 0,0:22:22.82,0:22:27.08,Default,Rei,0,0,0,,Ich muss umgänglicher,\Ngenau, kumpelhafter schreiben!
+Dialogue: 0,0:22:27.37,0:22:29.95,Default,Rei,0,0,0,,So, dass er die Einladung\Nungezwungen annimmt.
+Dialogue: 0,0:22:32.71,0:22:37.88,Default,Rei,0,0,0,,{\i1}Hi, Sunraku, alles fresh, nyaa?\NHier ist dein Kumpel Saiga-0, nyaa!
+Dialogue: 0,0:22:37.88,0:22:40.71,Default,Rei,0,0,0,,{\i1}Wenn du Bock hast, können wir ja\Ndemnächst mal zocken, nyoo!
+Dialogue: 0,0:22:53.94,0:22:57.23,Default,Rei,0,0,0,,Briefe schreiben ist schwierig.
+Dialogue: 0,0:22:58.69,0:23:02.36,Default,Kinder,0,0,0,,ShanFro-Theater!
+Dialogue: 0,0:23:02.36,0:23:03.95,Default,Emul,0,0,0,,Mini!
+Dialogue: 0,0:23:08.12,0:23:09.58,Default,Sunraku,0,0,0,,Frohe Weihnachten!
+Dialogue: 0,0:23:09.58,0:23:11.66,Default,Sunraku,0,0,0,,Diesen Tag verbringt man\Nmit seinen Liebsten.
+Dialogue: 0,0:23:12.62,0:23:17.25,Default,Oikatso,0,0,0,,Frohe Weihnachten! Ich wünsche allen\Neinen fantastischen Tag!
+Dialogue: 0,0:23:17.83,0:23:22.42,Default,Pencilgon,0,0,0,,Frohe Weihnachten! Die Städte\Nsind voller Pärchen, absolut widerwärtig!
+Dialogue: 0,0:23:23.88,0:23:26.80,Default,Emul,0,0,0,,Frohe Weihnachten wünsch ich dir!
+Dialogue: 0,0:23:26.80,0:23:31.64,Default,Emul,0,0,0,,Der Weihnachtsmann wird auch zu dir kommen\Nund dir eine Menge Karotten schenken!
+Dialogue: 0,0:23:34.52,0:23:39.65,Default,Rei,0,0,0,,R-Rakuro, f-frohe Weihnachten!
+Dialogue: 0,0:23:40.73,0:23:43.90,Default,Rei,0,0,0,,Ich vernasch dich jetzt, Rakuro!

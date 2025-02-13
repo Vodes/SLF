@@ -1,0 +1,47 @@
+﻿[Script Info]
+Title: English (US)
+ScaledBorderAndShadow: yes
+Original Script: kodansha  [http://www.crunchyroll.com/user/kodansha]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+LayoutResX: 1920
+LayoutResY: 1080
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+Style: Sign_Basic,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,6,3,2,30,30,54,1
+Style: sign_147_12_Rakuro_Hizutome_,Arial,72,&H00FFFFFF,&H000000FF,&H00D19728,&H00000000,-1,0,0,0,100,100,0,0,3,3,0,9,1185,60,60,1
+Style: Ep_Title,Arial,60,&H00FFFFFF,&H000000FF,&H00000000,&H00BE9829,-1,0,0,0,100,100,0,0,1,0,6,1,132,30,12,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:02:12.45,0:02:16.99,Ep_Title,sign,0,0,0,,{\fad(1725,0)}Only Resentments About the End of Life Remain
+Dialogue: 0,0:02:23.16,0:02:25.75,Sign_Basic,sign,0,0,0,,{\fade(300,1)}{\pos(990,852)\3c&HAFA33E&\bord9\shad0}Prismatic Forest Grotto
+Dialogue: 0,0:05:06.12,0:05:08.75,Sign_Basic,sign,0,0,0,,{\fad(200,0)\pos(516,900)\b1\fnArial\fs60\c&HCF84F7&\bord1.5\4c&HB798B5&}Setsuna of Bygone Days
+Dialogue: 0,0:05:24.10,0:05:27.64,Sign_Basic,sign,0,0,0,,{\fad(550,525)\an8\fnArial\fs54\c&H77675C&\3c&HF3FEFE&\shad0\bord12\pos(960,30)}Bonus Unique Scenario\N{\b1\c&HF2FCF8&\3c&H6A4E3C&}Vorpal Epic\N{\b0\fnTimes New Roman}When the souls of the Divinity are shaken,\Na rabbit shall tell an epic tale.\N{\c&HF0EF91&\fnTrebuchet MS}Rec. Level: 80
+Dialogue: 0,0:07:05.03,0:07:06.20,Sign_Basic,sign,0,0,0,,{\fad(275,0)\an8\fnArial\fs54\c&H77675C&\3c&HF2FFFF&\shad0\bord12\pos(960,30)}Unique Scenario EX\N{\b1\c&HE6FAFB&\3c&H6A4E3C&} From the Living World, With Love\N{\b0\c&HF9F1EE&}Begin now?
+Dialogue: 0,0:07:06.20,0:07:09.20,Sign_Basic,sign,0,0,0,,{\an8\fnArial\fs54\c&H77675C&\3c&HF2FFFF&\shad0\bord12\pos(960,30)}Unique Scenario EX\N{\b1\c&HE6FAFB&\3c&H6A4E3C&} From the Living World, With Love\N{\b0\c&HF9F1EE&}Begin now?
+Dialogue: 0,0:07:09.95,0:07:11.45,Sign_Basic,sign,0,0,0,,{\pos(582,672)\org(582,672)\fry-180\b1\xbord0\ybord0\xshad0\yshad0\fad(75,0)}Yes
+Dialogue: 0,0:07:09.95,0:07:11.45,Sign_Basic,sign,0,0,0,,{\pos(1368,672)\org(1368,672)\fry-180\b1\xbord0\ybord0\xshad0\yshad0\fad(75,0)}No{backwards}
+Dialogue: 0,0:07:18.21,0:07:18.67,Sign_Basic,sign,0,0,0,,{\an8\fnArial\fs54\c&H77675C&\3c&HF2FFFF&\shad0\bord12\pos(960,30)}Unique Scenario EX\N{\b1\c&HE6FAFB&\3c&H6A4E3C&} From the Living World, With Love\N{\b0\c&HF9F1EE&}Begin now?
+Dialogue: 0,0:07:18.67,0:07:20.67,Sign_Basic,sign,0,0,0,,{\fad(0,200)\an8\fnArial\fs54\c&H77675C&\3c&HF2FFFF&\shad0\bord12\pos(960,30)}Unique Scenario EX\N{\b1\c&HE6FAFB&\3c&H6A4E3C&} From the Living World, With Love\N{\b0\c&HF9F1EE&}Begun.
+Dialogue: 0,0:10:36.66,0:10:38.41,Sign_Basic,sign,0,0,0,,{\fad(100,0)\pos(960,750)\fnTimes New Roman\b1\3c&HFFFFFF&\c&H000000&\shad0}Submission Pose
+Dialogue: 0,0:13:21.91,0:13:23.62,Sign_Basic,sign,0,0,0,,{\an8\shad0\c&HC7CFC0&\3c&H4A5C35&}Sunraku
+Dialogue: 0,0:13:23.62,0:13:26.12,Default,sign,0,0,0,,{\an8\shad0\c&HC7CFC0&\3c&H4A5C35&\pos(1764,30)}Katzo Tataki
+Dialogue: 0,0:13:51.23,0:13:53.40,Sign_Basic,sign,0,0,0,,{\fad(600,0)\pos(60,60)\an7\fnArial\b1\bord0\shad4.5\c&H86593A&\4c&HFFFFFF&}Rakuro's Mother
+Dialogue: 0,0:13:51.27,0:13:53.40,sign_147_12_Rakuro_Hizutome_,sign,0,0,0,,{\fad(550,0)\pos(60,150)\fs90\3c&H875A38&\an7}Eika Hizutome
+Dialogue: 0,0:13:51.48,0:13:53.40,Sign_Basic,sign,0,0,0,,{\fad(350,0)\pos(60,240)\an7\fnArial\b1\bord0\shad4.5\c&H86593A&\4c&HFFFFFF&}Entomology Geek
+Dialogue: 0,0:14:17.96,0:14:20.42,Sign_Basic,sign,0,0,0,,{\fad(600,0)\pos(60,60)\an7\fnArial\b1\bord0\shad4.5\c&HC8009C&\4c&HFFFFFF&}Rakuro's Younger Sister
+Dialogue: 0,0:14:18.00,0:14:20.42,sign_147_12_Rakuro_Hizutome_,sign,0,0,0,,{\fad(550,0)\pos(60,150)\fs90\3c&HC8009C&\an7}Rumi Hizutome
+Dialogue: 0,0:14:18.21,0:14:20.42,Sign_Basic,sign,0,0,0,,{\fad(350,0)\pos(60,240)\an7\fnArial\b1\bord0\shad4.5\c&HC8009C&\4c&HFFFFFF&}Fashionista
+Dialogue: 0,0:14:22.93,0:14:24.93,Sign_Basic,sign,0,0,0,,{\pos(890.001,936)\an3\frz36.87\fs60\shad0\c&H000000&\bord1.5\shad0\3c&HFFFFFF&\3a&HA0&}Towa Amane
+Dialogue: 0,0:15:44.97,0:15:47.68,Sign_Basic,sign,0,0,0,,{\fad(600,0)\pos(1860,60)\an9\fnArial\b1\bord0\shad4.5\c&H34774C&\4c&HFFFFFF&}Rakuro's Father
+Dialogue: 0,0:15:45.01,0:15:47.68,sign_147_12_Rakuro_Hizutome_,sign,0,0,0,,{\fad(550,0)\pos(1860,150)\an9\fs90\3c&H34774C&}Senji Hizutome
+Dialogue: 0,0:15:45.22,0:15:47.68,Sign_Basic,sign,0,0,0,,{\fad(350,0)\pos(1860,240)\fnArial\an9\b1\bord0\shad4.5\c&H34774C&\4c&HFFFFFF&}Likes Fishing More\NThan Three Meals a Day
+Dialogue: 0,0:17:44.54,0:17:48.55,Sign_Basic,sign,0,0,0,,{\pos(999.999,231.999)\c&H2E2887&\3c&HE0EDFE&\b1\shad0}Sunraku
+Dialogue: 0,0:18:02.56,0:18:09.82,Sign_Basic,sign,0,0,0,,{\c&H2E2887&\3c&HE0EDFE&\b1\shad0\fs60\bord4.5\pos(432,318)}Dragonfly
+Dialogue: 0,0:22:02.63,0:22:13.65,Sign_Basic,sign,0,0,0,,{\pos(276,600)\fnTimes New Roman\fs48\c&H303838&\bord0\shad0\b1\an5}Ever\NImproving

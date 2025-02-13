@@ -1,0 +1,57 @@
+﻿[Script Info]
+Title: Deutsch
+ScaledBorderAndShadow: yes
+Original Script: cr_de  [http://www.crunchyroll.com/user/cr_de]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+LayoutResX: 1920
+LayoutResY: 1080
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: TypePlaceholder,Arial Bold,66,&H00200960,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,6,0,8,30,30,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:02:52.99,0:02:56.61,TypePlaceholder,,0,0,0,,{\an1\fnVerdana Bold\fscx90\shad6\fs+1\b1\fsp3\c&HFDFFFB&\4c&HC7951D&\bord0\fad(160,0)\3c&HFFFFFE&\pos(288.78,905.82)}Wahre {\fnGeorgia Bold\fscx100\c&HC7951D&\bord3\3c&HFDFFFB&\4c&HFDFFFB&\alpha&HFF&\t(285,619,\alpha&H00&)}Brillanz
+Dialogue: 0,0:03:30.65,0:03:35.24,TypePlaceholder,,0,0,0,,{\fnTahoma\b0\an1\bord4.8\fs+1\fad(500,0)\pos(490.5,739.5)\c&H000000&\3c&HFFFFFF&}„Rollenspiel“\NDas Darstellen einer bestimmten Rolle.
+Dialogue: 0,0:07:34.23,0:07:39.73,TypePlaceholder,,0,0,0,,{\fnComic Sans MS Bold\fad(200,0)\fs+5\bord9\c&H351BC6&\3c&HECEFEC&\fsp6\pos(832.5,69)}Gute Kommunikation
+Dialogue: 0,0:07:48.11,0:07:50.99,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\an2\bord0\fs+4\c&H9F5CE2&\pos(453,838.5)}Beelac
+Dialogue: 0,0:08:48.76,0:08:50.84,TypePlaceholder,,0,0,0,,{\an2\fnVerdana Bold\bord3\blur6\pos(958.5,763.5)\c&HFFF282&\3c&H645018&}Erwecken
+Dialogue: 0,0:10:55.05,0:11:00.81,TypePlaceholder,,0,0,0,,{\fnTimes New Roman Bold\an2\c&HFFFFFF&\fs+2\bord3\blur3\pos(1593,175.5)\3c&H000000&}„Meister-\Nhandwerker“
+Dialogue: 0,0:10:59.31,0:11:00.81,TypePlaceholder,,0,0,0,,{\fnTimes New Roman Bold\an2\c&HFFFFFF&\fs+2\bord3\blur3\pos(370.5,175.5)\3c&H000000&}„Ahnen-\Nhandwerker“
+Dialogue: 0,0:11:03.60,0:11:11.32,TypePlaceholder,,0,0,0,,{\fnTimes New Roman Bold\an2\fad(250,0)\c&HFFFFFF&\fs+2\bord3\blur3\pos(972,130.5)\3c&H000000&}„Göttlicher Handwerker“
+Dialogue: 0,0:15:37.58,0:15:39.46,TypePlaceholder,,0,0,0,,{\an2\fnVerdana Bold\bord9\fad(250,0)\fs-1\pos(1513.5,208.5)\c&HF9F49A&\3c&H34221A&}Hasenmond (Zunehmend)\N{\fnTahoma\b0\fs-1\c&H887D75&}Ein Zwillingsschwert mit\Neiner sichelförmigen Klinge.
+Dialogue: 0,0:15:37.58,0:15:39.46,TypePlaceholder,,0,0,0,,{\an2\fnVerdana Bold\bord9\fad(250,0)\fs-1\c&HF9F49A&\3c&H34221A&\pos(438,736.5)}Hasenmond (Abnehmend)\N{\fnTahoma\b0\fs-1\c&H887D75&}Ein Zwillingsschwert mit\Neiner sichelförmigen Klinge.
+Dialogue: 0,0:16:07.07,0:16:22.09,TypePlaceholder,,0,0,0,,{\fnTahoma\b0\an7\fs-1\bord12\c&HBCB6A7&\3c&H25150E&\pos(280.5,57)}„Zunehmend“\NKämpfst du mit einem Gegner, der ein höheres Level als du\Nhat, und landest einen kritischen Treffer, verlierst du LP,\Naber im Gegenzug erhält der nächste Angriff Bonusschaden.\N\N„Abnehmend“\NKämpfst du mit einem Gegner, der ein höheres Level als du hat,\Nund landest einen kritischen Treffer, regenerieren sich deine LP.\N\N\NDurch eine bestimmte Anzahl kritischer Treffer wird die\NFusionsleiste gefüllt.
+Dialogue: 0,0:16:32.72,0:16:34.10,TypePlaceholder,,0,0,0,,{\fnTahoma\c&H8E88DF&\fs-2\3c&HFFFFFF&\bord3\blur1.5\b0\frx6\fry180\move(979.5,925.5,979.5,940.5,40,207)\t(0,207,\fscx110\fscy110)}Benötigte Statuswerte unzureichend.\NKann nicht als Waffe verwendet werden.
+Dialogue: 0,0:16:34.10,0:16:36.85,TypePlaceholder,,0,0,0,,{\fnTahoma\b0\fsp3\c&H7A74F7&\fs+0.5\an2\3c&HBCC8FD&\bord3\blur1.5\pos(966,441)}Benötigte Statuswerte unzureichend.\NKann nicht als Waffe verwendet werden.
+Dialogue: 0,0:16:41.36,0:16:54.37,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\bord0\an2\c&HFFFFAC&\fs+0.3\fax0.12\move(559.5,318,559.5,-678)}(Zunehmend / Abnehmend)
+Dialogue: 0,0:16:41.36,0:16:54.37,TypePlaceholder,,0,0,0,,{\fnTahoma\b0\fs-1\bord9\fax0.03\c&H90FF23&\3c&H40510C&\frz1.829\move(981,738,981,-240)}Benötigte Statuswerte
+Dialogue: 0,0:17:18.31,0:17:21.27,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\fsp6\fad(496,0)\c&HFEFFFD&\3c&H9F881B&\pos(961.5,559.5)}Drittlema
+Dialogue: 0,0:17:28.28,0:17:31.78,TypePlaceholder,,0,0,0,,{\fnTrebuchet MS Bold\fax0.2\bord3\blur6\c&HFEFFFC&\fs+2\3c&H8671B6&\frz353.8\pos(975,558)\t(0,0,\fscx102\fscy102)}Schlangenapfel
+Dialogue: 1,0:18:15.45,0:18:18.45,TypePlaceholder,,0,0,0,,{\fnImpact\b0\an2\fax-0.3\c&H91850B&\3c&HAFB8BC&\fs+10\bord15\move(1026,136.5,1026,207,28,2989)}Oikatso
+Dialogue: 2,0:18:15.45,0:18:18.45,TypePlaceholder,,0,0,0,,{\fnImpact\b0\an2\fax-0.3\c&H91850B&\3c&HD8D6DC&\fs+10\bord12\move(1026,136.5,1026,207,28,2989)}Oikatso
+Dialogue: 0,0:18:18.45,0:18:19.95,TypePlaceholder,,0,0,0,,{\fnImpact\b0\fsp9\c&H94810F&\fs+5\an7\fscx110\3c&HFFFEFA&\pos(781.5,684)}Uomi Kei
+Dialogue: 0,0:18:18.45,0:18:23.71,TypePlaceholder,,0,0,0,,{\fnComic Sans MS Bold\fs+5\c&H48DEF4&\bord4.8\frz15.04\pos(624,241.5)}ModoruKatso
+Dialogue: 0,0:18:18.45,0:18:23.71,TypePlaceholder,,0,0,0,,{\fnComic Sans MS Bold\fs+5\an2\c&H48DEF4&\bord4.8\frz333.5\pos(1599,363)}Oikatso
+Dialogue: 0,0:18:18.45,0:18:23.71,TypePlaceholder,,0,0,0,,{\fnComic Sans MS Bold\fs+5\c&H48DEF4&\an2\bord4.8\frz353.4\pos(418.5,765)}Katso Tataki
+Dialogue: 0,0:18:19.95,0:18:20.04,TypePlaceholder,,0,0,0,,{\fnImpact\b0\fsp9\c&H94810F&\fs+5\an7\fscx110\3c&HFFFEFA&\pos(781.5,684)}Uomi
+Dialogue: 0,0:18:20.04,0:18:21.96,TypePlaceholder,,0,0,0,,{\fnImpact\b0\fsp9\c&H94810F&\fs+5\an7\fscx110\3c&HFFFEFA&\fad(0,150)\pos(781.5,684)}Uomi Sei
+Dialogue: 0,0:18:21.96,0:18:23.71,TypePlaceholder,,0,0,0,,{\fnImpact\b0\fsp9\c&H94810F&\fs+5\an8\fscx110\3c&HFFFEFA&\fad(150,0)\pos(981,684)}Katsuo\N{\fs-6}(Bonito-Fisch)
+Dialogue: 0,0:19:33.90,0:19:35.28,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\an2\bord0\c&HCDCEBD&\fax-0.1\frz347.4\pos(798,348)\t(647,648,\c&H8999A1&)}Geben
+Dialogue: 0,0:19:33.90,0:19:35.28,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\an2\bord0\c&H77A1AE&\fax-0.1\frz347.4\pos(1759.5,556.5)}Wegwerfen
+Dialogue: 0,0:22:01.01,0:22:07.01,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\fsp6\fad(0,0)\c&HFEFFFD&\fs-2\3c&H9F881B&\pos(960,591)}Eisenruinen des göttlichen Zeitalters
+Dialogue: 0,0:22:25.20,0:22:28.49,TypePlaceholder,,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\pos(960,45)}Übersetzung: Markus Lange
+Dialogue: 0,0:22:25.20,0:22:28.49,TypePlaceholder,,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\an2\pos(960,1035)}Spotting: Michael Gohl
+Dialogue: 0,0:22:28.49,0:22:31.83,TypePlaceholder,,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\pos(960,45)}Revision & Typesetting: Jacqueline Philippi
+Dialogue: 0,0:22:28.49,0:22:31.83,TypePlaceholder,,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\an2\pos(960,1035)}Qualitätskontrolle: Konrad Walter
+Dialogue: 0,0:22:31.83,0:22:34.71,TypePlaceholder,,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\pos(960,45)}Projektleitung: Tobias Philippi
+Dialogue: 0,0:23:42.98,0:23:50.24,TypePlaceholder,,0,0,0,,{\fnComic Sans MS Bold\fs+4\bord0\shad6\fs+6\c&H7CEDEF&\4c&H51CBDA&\pos(960,9)}Sh{\c&HC297F0&\4c&H966CD6&}a{\c&H679FF8&\4c&H3171D7&}n{\c&HDE72BD&\4c&HB64897&}F{\c&H5B63E6&\4c&H484FC2&}ro
+Dialogue: 0,0:23:46.78,0:23:50.24,TypePlaceholder,,0,0,0,,{\fnComic Sans MS Bold\fad(493,0)\fs+4\fax-0.15\an3\c&HFAFFFE&\3c&H376777&\4c&H1C3F4D&\shad3.9\bord3.9\pos(1831.5,859.5)}#16 Sunrakus Erkennungslied
+Dialogue: 0,0:23:47.36,0:23:50.24,TypePlaceholder,,0,0,0,,{\c&H515655&\fnComic Sans MS Bold\fad(333,0)\fs+2\bord0\frz43.99\pos(1447.5,118.5)}Mini
+Dialogue: 0,0:23:50.24,0:25:10.32,TypePlaceholder,,0,0,0,,{\fnComic Sans MS BOLD\fad(0,0)\fs+2\fax-0.15\an9\c&HFEFFFF&\3c&H3C6477&\4c&H0B1C25&\shad3.9\bord3.9\pos(1830,105)}ShanFro-Theater
+Dialogue: 0,0:25:05.73,0:25:10.32,TypePlaceholder,,0,0,0,,{\fnTimes New Roman Bold\an7\fs-2\bord4.5\pos(291,775.5)\c&H000000&}„Wie eine Taube, die von einem Blasrohr getroffen wurde.“\NAuf dem falschen Fuß erwischt werden; verblüfft sein.\NDie Augen vor Erstaunen weit aufreißen. Wie eine erschrockene Taube.\N\N\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h~Aus: Kojien, 7. Auflage~

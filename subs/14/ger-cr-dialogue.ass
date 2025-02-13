@@ -1,0 +1,335 @@
+﻿[Script Info]
+Title: Deutsch
+ScaledBorderAndShadow: yes
+Original Script: cr_de  [http://www.crunchyroll.com/user/cr_de]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+LayoutResX: 1920
+LayoutResY: 1080
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+Style: Alt,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00743E15,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.94,0:00:06.86,Default,Erzählerin,0,0,0,,Auf dieser Welt gibt es\Nunzählige Videospiele.
+Dialogue: 0,0:00:07.99,0:00:12.37,Default,Erzählerin,0,0,0,,Doch die meisten davon gehen unter,\Nohne je bekannt gewesen zu sein.
+Dialogue: 0,0:00:13.70,0:00:16.50,Default,Erzählerin,0,0,0,,An der Spitze dieser Spiele steht
+Dialogue: 0,0:00:16.50,0:00:21.75,Default,Erzählerin,0,0,0,,das Full-Dive-VR-Game mit einer\Nweltweiten Spielerzahl von über 30 Millionen,
+Dialogue: 0,0:00:21.75,0:00:26.30,Default,Erzählerin,0,0,0,,das es absolut verdient, als Meisterwerk\Nbezeichnet zu werden: Shangri-La Frontier.
+Dialogue: 0,0:00:28.01,0:00:31.93,Default,Erzählerin,0,0,0,,Rakuro Hizutome, ein Junge,\Nder Trash-Games über alles liebt,
+Dialogue: 0,0:00:31.93,0:00:35.10,Default,Erzählerin,0,0,0,,wagt sich an das Meisterwerk\NShangri-La Frontier.
+Dialogue: 0,0:00:35.93,0:00:40.69,Default,Erzählerin,0,0,0,,Welche Abenteuer werden ihn\Nauf seinem Weg wohl erwarten?
+Dialogue: 0,0:02:15.49,0:02:17.24,Default,Spieler D,0,0,0,,{\pos(1290,1020)}Sunraku ist ja schon wieder da.
+Dialogue: 0,0:02:17.24,0:02:18.87,Default,Spieler C,0,0,0,,{\pos(1290,1020)}Wer ist sein Gegner?
+Dialogue: 0,0:02:18.87,0:02:20.37,Default,Spieler A,0,0,0,,Den seh ich zum ersten Mal.
+Dialogue: 0,0:02:20.37,0:02:22.25,Default,Spieler D,0,0,0,,Etwa ein neuer Spieler?
+Dialogue: 0,0:02:22.25,0:02:24.50,Default,Spieler B,0,0,0,,Kaum zu glauben, aber scheint so.
+Dialogue: 0,0:02:29.63,0:02:32.47,Default,Dragonfly,0,0,0,,Ich will wenigstens eine Runde gewinnen!
+Dialogue: 0,0:02:35.51,0:02:36.93,Default,Sunraku,0,0,0,,"Iai-Faust"!
+Dialogue: 0,0:02:47.52,0:02:49.27,Default,Spielstimme,0,0,0,,Du hast verloren.
+Dialogue: 0,0:02:49.94,0:02:53.57,Default,Dragonfly,0,0,0,,E-Egal, wie oft wir kämpfen,\Nich kann nicht eine Runde gewinnen!
+Dialogue: 0,0:02:53.86,0:02:56.41,Default,Sunraku,0,0,0,,Die Iai-Faust-Schule\Nist eben unbesiegbar!
+Dialogue: 0,0:02:57.66,0:03:00.41,Default,Dragonfly,0,0,0,,Ein Kampf noch! Das wird der Letzte!
+Dialogue: 0,0:03:00.66,0:03:02.33,Default,Dragonfly,0,0,0,,Best-of-three!
+Dialogue: 0,0:03:02.66,0:03:05.16,Default,Sunraku,0,0,0,,Na gut, überredet.\NDann ist aber Schluss.
+Dialogue: 0,0:03:05.16,0:03:06.71,Default,Dragonfly,0,0,0,,Vielen Dank!
+Dialogue: 0,0:03:06.71,0:03:08.33,Default,Sunraku,0,0,0,,Die Regeln sind natürlich …
+Dialogue: 0,0:03:08.58,0:03:10.09,Default,Dragonfly,0,0,0,,„Bug tudo“.
+Dialogue: 0,0:03:10.59,0:03:11.46,Default,Dragonfly,0,0,0,,Okaaay!
+Dialogue: 0,0:03:12.26,0:03:15.72,Default,Spielstimme,0,0,0,,Kampf beginnt. Runde 1. Kämpft!
+Dialogue: 0,0:03:18.59,0:03:19.64,Default,Sunraku,0,0,0,,Das wieder?
+Dialogue: 0,0:03:33.57,0:03:37.74,Default,Sunraku,0,0,0,,Du kannst Jo-Jo jetzt zeitgleich\Nmit einem gegnerischen Angriff auslösen?
+Dialogue: 0,0:03:37.74,0:03:39.87,Default,Dragonfly,0,0,0,,Ja! Ich hab mich ein wenig dran gewöhnt!
+Dialogue: 0,0:03:40.12,0:03:44.00,Default,Sunraku,0,0,0,,{\i1}Moment, eigentlich bin ich ja hier,\Num für den Kampf gegen Wezaemon zu üben,
+Dialogue: 0,0:03:44.00,0:03:47.87,Default,Sunraku,0,0,0,,{\i1}aber plötzlich hab ich irgendwie diesen\NNeuling unter meine Fittiche genommen.
+Dialogue: 0,0:03:47.87,0:03:52.34,Default,Sunraku,0,0,0,,{\i1}Ehrlich gesagt würde ich zur Übung gern\Ngegen einen schwierigeren Gegner kämpfen.
+Dialogue: 0,0:03:59.30,0:04:00.64,Default,Dragonfly,0,0,0,,„Fliegende Faustramme“!
+Dialogue: 0,0:04:04.81,0:04:08.31,Default,Sunraku,0,0,0,,{\i1}Er nutzt das Tempo, mit dem sein verlängertes\NBein zurückschnellt, um sich zu nähern,
+Dialogue: 0,0:04:08.31,0:04:09.81,Default,Sunraku,0,0,0,,{\i1}und greift zeitgleich an.
+Dialogue: 0,0:04:10.81,0:04:14.69,Default,Sunraku,0,0,0,,Dass du das schon\Nso gut beherrschst, nicht übel. Aber …
+Dialogue: 0,0:04:14.98,0:04:18.53,Default,Sunraku,0,0,0,,du hast mit Fliegende Faustramme\Neine Nicht-Bug-Technik gewählt, was zeigt,
+Dialogue: 0,0:04:18.53,0:04:20.28,Default,Sunraku,0,0,0,,dass du BenP noch nicht verstehst.
+Dialogue: 0,0:04:20.28,0:04:24.16,Default,Sunraku,0,0,0,,Fliegende Faustramme hat Power,\Naber danach erstarrt man lange.
+Dialogue: 0,0:04:24.99,0:04:28.25,Default,Sunraku,0,0,0,,Trotz deiner hart erarbeiteten Chance\Nwerden so Folgeangriffe schwierig.
+Dialogue: 0,0:04:28.92,0:04:30.17,Default,Sunraku,0,0,0,,Die richtige Wahl wäre …
+Dialogue: 0,0:04:30.88,0:04:34.42,Default,Sunraku,0,0,0,,„Pile Bunker“!
+Dialogue: 0,0:04:37.67,0:04:39.26,Default,Dragonfly,0,0,0,,S-So schnell!
+Dialogue: 0,0:04:48.02,0:04:50.73,Default,Dragonfly,0,0,0,,Wenn ich sowieso nicht wegrennen kann …
+Dialogue: 0,0:04:54.98,0:04:57.40,Default,Sunraku,0,0,0,,Du stürmst immer noch gerade drauflos?
+Dialogue: 0,0:04:58.19,0:05:00.24,Default,Sunraku,0,0,0,,Ich antworte einfach mit der Iai-Faust!
+Dialogue: 0,0:05:04.91,0:05:05.99,Default,Zuschauer,0,0,0,,Was ist das?!
+Dialogue: 0,0:05:08.87,0:05:11.17,Default,Dragonfly,0,0,0,,„Fliegende Faustramme“!
+Dialogue: 0,0:05:11.17,0:05:13.71,Default,Sunraku,0,0,0,,{\i1}Er hat die Technik doppelt ausgelöst?
+Dialogue: 0,0:05:13.71,0:05:15.09,Default,Sunraku,0,0,0,,{\i1}Den Trick kenn ich nicht!
+Dialogue: 0,0:05:15.09,0:05:17.51,Default,Sunraku,0,0,0,,{\i1}Das könnte ich wohl\Nmit Iai-Faust abwehren, aber …
+Dialogue: 0,0:05:18.17,0:05:19.59,Default,Sunraku,0,0,0,,Ich lass mich mal treffen.
+Dialogue: 0,0:05:29.14,0:05:33.69,Default,Dragonfly,0,0,0,,Geschafft! Ich hab meine\Nerste Runde gewonnen!
+Dialogue: 0,0:05:33.94,0:05:37.90,Default,Spieler C,0,0,0,,Was war das gerade?! Er hat\Ndie Faustramme doppelt ausgeführt, oder?
+Dialogue: 0,0:05:37.90,0:05:40.61,Default,Spieler A,0,0,0,,Ja, das Muster seh ich zum ersten Mal.
+Dialogue: 0,0:05:40.61,0:05:42.49,Default,Sunraku,0,0,0,,Was denkt ihr, Leute?
+Dialogue: 0,0:05:42.95,0:05:46.45,Default,Sunraku,0,0,0,,Beide hatten richtige Hitboxen!
+Dialogue: 0,0:05:46.74,0:05:49.66,Default,Spieler C,0,0,0,,Prinzipiell ist das ein Pile Bunker,
+Dialogue: 0,0:05:49.66,0:05:53.33,Default,Spieler C,0,0,0,,aber damit kann man keine\NLeistentechnik doppelt ausführen.
+Dialogue: 0,0:05:53.33,0:05:56.79,Default,Spieler A,0,0,0,,Hängt der Bug dann nicht\Nmit „Doppelgänger“ zusammen?
+Dialogue: 0,0:05:56.79,0:06:00.09,Default,Sunraku,0,0,0,,Den könnte er doch nicht an den\Ngleichen Koordinaten erschaffen, oder?
+Dialogue: 0,0:06:00.09,0:06:02.05,Default,Sunraku,0,0,0,,Das hat mal jemand nachgeprüft.
+Dialogue: 0,0:06:02.05,0:06:06.47,Default,Spieler D,0,0,0,,Außerdem kann man mit dem Doppelgänger\N„Chimäre“ nicht einsetzen. Was bedeutet …
+Dialogue: 0,0:06:06.47,0:06:07.93,Default,Sunraku,0,0,0,,Ja.
+Dialogue: 0,0:06:07.93,0:06:10.98,Default,Sunraku,0,0,0,,Wenn die Tester das\Nreproduzieren können, steht es fest.
+Dialogue: 0,0:06:11.68,0:06:13.31,Default,Sunraku,0,0,0,,Dragonfly.
+Dialogue: 0,0:06:13.31,0:06:14.48,Default,Dragonfly,0,0,0,,J-Ja?
+Dialogue: 0,0:06:14.77,0:06:16.40,Default,Sunraku,0,0,0,,Herzlichen Glückwunsch!
+Dialogue: 0,0:06:16.40,0:06:21.49,Default,Sunraku,0,0,0,,Es ist zwar noch nicht endgültig, aber du hast\Nsoeben wohl eine neue Bug-Technik entdeckt!
+Dialogue: 0,0:06:21.49,0:06:22.57,Default,Dragonfly,0,0,0,,Hä?!
+Dialogue: 0,0:06:22.99,0:06:24.32,Default,Spieler C,0,0,0,,Glückwunsch!
+Dialogue: 0,0:06:23.53,0:06:24.32,Alt,Spieler A,0,0,0,,Fantastisch!
+Dialogue: 0,0:06:24.32,0:06:24.82,Default,Spieler D,0,0,0,,Bravo!
+Dialogue: 0,0:06:24.82,0:06:25.49,Default,Spieler B,0,0,0,,Glückwunsch!
+Dialogue: 0,0:06:25.78,0:06:27.41,Default,Dragonfly,0,0,0,,Äh, d-danke.
+Dialogue: 0,0:06:27.99,0:06:33.00,Default,Sunraku,0,0,0,,Der Entdecker einer Bug-Technik\Ndarf ihr auch einen Namen geben.
+Dialogue: 0,0:06:33.00,0:06:33.91,Default,Sunraku,0,0,0,,Also?
+Dialogue: 0,0:06:33.91,0:06:36.75,Default,Dragonfly,0,0,0,,D-Das kommt jetzt etwas plötzlich …
+Dialogue: 0,0:06:39.38,0:06:42.76,Default,Dragonfly,0,0,0,,Ähm … Ein Name\Nfür eine Technik … Ähm …
+Dialogue: 0,0:06:43.01,0:06:47.01,Default,Sunraku,0,0,0,,Du musst dich nicht gleich entscheiden.\NDenk in Ruhe drüber nach.
+Dialogue: 0,0:06:47.01,0:06:49.56,Default,Sunraku,0,0,0,,Außerdem haben wir ja\Nnoch Runden übrig, oder?
+Dialogue: 0,0:06:49.56,0:06:54.14,Default,Sunraku,0,0,0,,Und dafür, dass du mir einen neuen\NBug gezeigt hast, zeig ich dir auch einen.
+Dialogue: 0,0:06:54.14,0:06:55.39,Default,Dragonfly,0,0,0,,Wirklich?!
+Dialogue: 0,0:06:55.39,0:06:58.61,Default,Sunraku,0,0,0,,Man kann ihn nur in dem Moment triggern,\Nin dem eine Runde beginnt.
+Dialogue: 0,0:06:58.61,0:07:00.90,Default,Sunraku,0,0,0,,Ist ziemlich schwierig auszuführen.
+Dialogue: 0,0:07:01.90,0:07:05.40,Default,Spielstimme,0,0,0,,Kampf beginnt. Runde 2. Kämpft!
+Dialogue: 0,0:07:09.53,0:07:12.04,Default,Sunraku,0,0,0,,Doppelgänger erfolgreich.
+Dialogue: 0,0:07:12.54,0:07:15.04,Default,Dragonfly,0,0,0,,Du hast dich … vermehrt?
+Dialogue: 0,0:07:15.04,0:07:19.79,Default,Sunraku,0,0,0,,Als ich den entdeckt hatte, hab ich mir auch\Nüber einen Namen den Kopf zerbrochen.
+Dialogue: 0,0:07:19.79,0:07:22.80,Default,Sunraku,0,0,0,,Schattenklon, Sumpfmann …
+Dialogue: 0,0:07:23.13,0:07:26.34,Default,Sunraku,0,0,0,,Toll, oder? Da denkt man,\Nman hat in diesem Spiel alles gesehen
+Dialogue: 0,0:07:26.34,0:07:29.72,Default,Sunraku,0,0,0,,und dann wird immer noch Neues entdeckt.
+Dialogue: 0,0:07:30.05,0:07:34.98,Default,Sunraku,0,0,0,,{\i1}Darum schau ich gerne ab und zu rein,\Negal, wie entvölkert es sein mag.
+Dialogue: 0,0:07:34.98,0:07:36.39,Default,Sunraku,0,0,0,,{\i1}Das ist eben BenP, …
+Dialogue: 0,0:07:39.23,0:07:42.73,Default,Sunraku,0,0,0,,{\i1}Berserk Online Passion!
+Dialogue: 0,0:07:51.20,0:07:52.37,Default,Sunraku,0,0,0,,Alles okay?
+Dialogue: 0,0:07:53.12,0:07:55.96,Default,Dragonfly,0,0,0,,Im Handumdrehen zwei Runden verloren …
+Dialogue: 0,0:07:56.33,0:08:01.54,Default,Dragonfly,0,0,0,,Einer hat mich im Doppel-Nelson gehalten,\Nder Klon hat angegriffen. Das war unfair!
+Dialogue: 0,0:08:01.54,0:08:04.30,Default,Sunraku,0,0,0,,Aus irgendeinem Grund\Nübernimmt die KI, wenn man
+Dialogue: 0,0:08:04.30,0:08:06.97,Default,Sunraku,0,0,0,,seinen Doppelgänger ignoriert.\NIst wirklich unfair.
+Dialogue: 0,0:08:06.97,0:08:11.68,Default,Dragonfly,0,0,0,,Vielen Dank, dass du dich heute\Nmit einem Anfänger abgegeben hast.
+Dialogue: 0,0:08:11.68,0:08:12.51,Default,Sunraku,0,0,0,,Gern.
+Dialogue: 0,0:08:12.97,0:08:15.10,Default,Dragonfly,0,0,0,,Ich hab ’ne Menge gelernt.
+Dialogue: 0,0:08:15.10,0:08:18.77,Default,Dragonfly,0,0,0,,Und ich werd mir einen coolen Namen\Nfür die Bug-Technik ausdenken!
+Dialogue: 0,0:08:20.77,0:08:26.74,Default,Sunraku,0,0,0,,Ach, da fällt mir ein, ein Bekannter hat da\Neinen superwiderlichen Bug entdeckt.
+Dialogue: 0,0:08:27.78,0:08:30.16,Default,Sunraku,0,0,0,,Weiß nicht, ob ich den hinkrieg,\Naber versuchen wir’s?
+Dialogue: 0,0:08:32.12,0:08:33.91,Default,Dragonfly,0,0,0,,Ja! Ich bitte darum!
+Dialogue: 0,0:08:33.91,0:08:35.04,Default,Sunraku,0,0,0,,Okay!
+Dialogue: 0,0:08:35.04,0:08:37.04,Default,Erzählerin,0,0,0,,Zur gleichen Zeit …
+Dialogue: 0,0:08:37.50,0:08:39.79,Default,Erzählerin,0,0,0,,bei eben jenem Bekannten …
+Dialogue: 0,0:08:39.79,0:08:44.17,Default,Oikatso,0,0,0,,Scheiße! Warum muss\Nnur ich Überstunden machen?!
+Dialogue: 0,0:08:44.46,0:08:47.05,Default,Pencilgon,0,0,0,,Immer noch Level 47?!
+Dialogue: 0,0:08:47.05,0:08:50.13,Default,Pencilgon,0,0,0,,Von wegen Bonito! Wohl eher Blindfisch!
+Dialogue: 0,0:08:50.13,0:08:53.14,Default,Oikatso,0,0,0,,Komm endlich zurück, Sunraku!
+Dialogue: 0,0:08:53.14,0:08:54.43,Default,Pencilgon,0,0,0,,Du Wurm!
+Dialogue: 0,0:08:54.93,0:08:56.22,Default,Senji,0,0,0,,Tada!
+Dialogue: 0,0:09:05.52,0:09:06.94,Default,Sunraku,0,0,0,,{\an8}Okaaay!
+Dialogue: 0,0:09:06.94,0:09:10.32,Default,Sunraku,0,0,0,,Heute wird wieder\Nordentlich ShanFro gezockt!
+Dialogue: 0,0:09:10.32,0:09:13.07,Default,Emul,0,0,0,,W-Warte bitte auf mich!
+Dialogue: 0,0:09:13.45,0:09:18.41,Default,Sunraku,0,0,0,,Gehen wir dieses Skill-Fusionieren,\Nvon dem Katso geredet hat, testen!
+Dialogue: 0,0:09:18.41,0:09:20.08,Default,Emul,0,0,0,,J-Jawohl!
+Dialogue: 0,0:09:20.37,0:09:21.83,Default,Sunraku,0,0,0,,Also, stimmt die Richtung?
+Dialogue: 0,0:09:21.83,0:09:26.09,Default,Emul,0,0,0,,Du rennst los, ohne zu wissen,\Nwo der Fähigkeiten-Gärtner ist?
+Dialogue: 0,0:09:26.09,0:09:30.76,Default,Emul,0,0,0,,Davon abgesehen bist du heute\Nja voller Energie, Sunraku!
+Dialogue: 0,0:09:30.76,0:09:35.05,Default,Emul,0,0,0,,Ich hab mir Sorgen gemacht, weil du gestern\Nbeim Schlafengehen so erschöpft schienst.
+Dialogue: 0,0:09:35.05,0:09:37.72,Default,Sunraku,0,0,0,,Ich war ja auch echt fertig.
+Dialogue: 0,0:09:37.72,0:09:42.56,Default,Sunraku,0,0,0,,Aber wenn ich was Neues entdecke,\Nwerde ich immer ganz aufgeregt.
+Dialogue: 0,0:09:42.94,0:09:46.15,Default,Sunraku,0,0,0,,Besonders, wenn es etwas ist,\Nworin ich mich vertiefen kann.
+Dialogue: 0,0:09:46.15,0:09:46.57,Default,Emul,0,0,0,,Oh.
+Dialogue: 0,0:09:46.90,0:09:48.98,Default,Emul,0,0,0,,W-Warte bitte!
+Dialogue: 0,0:09:48.98,0:09:49.40,Default,Sunraku,0,0,0,,Hm?
+Dialogue: 0,0:09:49.40,0:09:53.24,Default,Emul,0,0,0,,Zum Fähigkeiten-Gärtner\Ngeht’s hier lang. Hier links.
+Dialogue: 0,0:09:55.74,0:10:01.37,Default,Sunraku,0,0,0,,Es gibt also wirklich einen\NFähigkeiten-Gärtner im Hasenpalast.
+Dialogue: 0,0:10:01.37,0:10:03.04,Default,Emul,0,0,0,,Natürlich!
+Dialogue: 0,0:10:03.54,0:10:06.88,Default,Emul,0,0,0,,Zudem hat der Gärtner hier im Hasenpalast
+Dialogue: 0,0:10:06.88,0:10:10.67,Default,Emul,0,0,0,,eine bessere Auswahl\Nals der in Hasingen-Stadt!
+Dialogue: 0,0:10:10.67,0:10:12.55,Default,Emul,0,0,0,,Aber das ist ein Geheimnis.
+Dialogue: 0,0:10:13.72,0:10:16.30,Default,Sunraku,0,0,0,,Ein geheimer Unterschied? Nett!
+Dialogue: 0,0:10:22.64,0:10:24.81,Default,Elk,0,0,0,,Willkooommen!
+Dialogue: 0,0:10:24.81,0:10:29.19,Default,Elk,0,0,0,,Oooh, wenn das nicht Emul\Nund der Vooogelmensch sind!
+Dialogue: 0,0:10:30.07,0:10:33.65,Default,Sunraku,0,0,0,,Dieses „Vogelmensch“ hat\Nsich wohl eingebürgert, was?
+Dialogue: 0,0:10:33.65,0:10:35.78,Default,Emul,0,0,0,,Das ist meine große Schwester Elk!
+Dialogue: 0,0:10:35.78,0:10:38.91,Default,Emul,0,0,0,,Elk und ich sind zwei von drei Drillingen!
+Dialogue: 0,0:10:38.91,0:10:40.66,Default,Elk,0,0,0,,Freut mich seeehr!
+Dialogue: 0,0:10:40.66,0:10:42.16,Default,Sunraku,0,0,0,,Gleichfalls.
+Dialogue: 0,0:10:43.58,0:10:47.29,Default,Sunraku,0,0,0,,{\i1}Na ja, sie hat auch Schlappohren.\NSchätze, sie sehen sich schon ähnlich.
+Dialogue: 0,0:10:47.92,0:10:50.88,Default,Sunraku,0,0,0,,{\i1}Drillinge heißt, es gibt noch eine.
+Dialogue: 0,0:10:50.88,0:10:53.63,Default,Elk,0,0,0,,Also, waaas kann ich heute für dich tun?
+Dialogue: 0,0:10:55.30,0:11:00.68,Default,Sunraku,0,0,0,,Ich hab gehört, dass man hier\Nseine Skills fusionieren kann.
+Dialogue: 0,0:11:00.68,0:11:03.02,Default,Elk,0,0,0,,So ist eees.
+Dialogue: 0,0:11:03.27,0:11:07.02,Default,Elk,0,0,0,,Daaas ist meine Spezialität, weißt duuu.
+Dialogue: 0,0:11:07.02,0:11:09.69,Default,Elk,0,0,0,,Das hat mein Vaaater gesagt.
+Dialogue: 0,0:11:09.69,0:11:12.53,Default,Elk,0,0,0,,Darum führe ich diesen Laaaden.
+Dialogue: 0,0:11:12.86,0:11:15.24,Default,Sunraku,0,0,0,,Ach sooo.
+Dialogue: 0,0:11:16.41,0:11:19.74,Default,Emul,0,0,0,,Ihre Art zu reden färbt auf dich ab!
+Dialogue: 0,0:11:20.03,0:11:22.33,Default,Sunraku,0,0,0,,Dann würde ich gerne gleeeich
+Dialogue: 0,0:11:22.33,0:11:26.00,Default,Sunraku,0,0,0,,mit dem Fusionieren beginneeen.
+Dialogue: 0,0:11:26.00,0:11:28.04,Default,Elk,0,0,0,,Wie du wüüünschst.
+Dialogue: 0,0:11:30.96,0:11:35.34,Default,Sunraku,0,0,0,,Durch das viele Leveln hab ich jetzt\Nein ziemliches Wirrwar an Skills.
+Dialogue: 0,0:11:35.34,0:11:37.43,Default,Sunraku,0,0,0,,Und auch viele weiterentwickelte.
+Dialogue: 0,0:11:39.30,0:11:45.43,Default,Elk,0,0,0,,Üüübrigens, höherstufige Fähigkeiten\Nmiteinander zu verbinden,
+Dialogue: 0,0:11:45.43,0:11:48.27,Default,Elk,0,0,0,,bringt bessere Resultaaate.
+Dialogue: 0,0:11:48.27,0:11:52.94,Default,Sunraku,0,0,0,,Oooh? Wenn ich das höre,\Nwill ich alle aufs Maximum leveln.
+Dialogue: 0,0:11:53.44,0:11:57.40,Default,Sunraku,0,0,0,,Aber da ich damit gleichzeitig Ordnung\Nschaffe, wird jetzt kräftig fusioniert.
+Dialogue: 0,0:11:58.24,0:12:00.66,Default,Elk,0,0,0,,Dann wollen wir maaal.
+Dialogue: 0,0:12:04.70,0:12:06.46,Default,Sunraku,0,0,0,,Okay.
+Dialogue: 0,0:12:06.66,0:12:10.21,Default,Sunraku,0,0,0,,Ich glaub, das sind erst mal alle Skills,\Ndie ich verketten kann.
+Dialogue: 0,0:12:12.21,0:12:14.71,Default,Elk,0,0,0,,Bist du mit diesem Rezept zufrieeeden?
+Dialogue: 0,0:12:17.13,0:12:21.72,Default,Elk,0,0,0,,Sechs Verknüpfungen,\Ndas macht dann 6.000 Maaani.
+Dialogue: 0,0:12:21.97,0:12:23.01,Default,Sunraku,0,0,0,,Geht klar.
+Dialogue: 0,0:12:23.56,0:12:24.68,Default,Sunraku,0,0,0,,6.000, ja?
+Dialogue: 0,0:12:27.23,0:12:30.35,Default,Elk,0,0,0,,Warte kurz, ich mach es gleich feeertig.
+Dialogue: 0,0:12:30.35,0:12:31.65,Default,Emul,0,0,0,,Aber gern!
+Dialogue: 0,0:12:31.65,0:12:33.02,Default,Sunraku,0,0,0,,„Aber gern“!
+Dialogue: 0,0:12:33.02,0:12:34.90,Default,Emul,0,0,0,,Du machst es schon wieder!
+Dialogue: 0,0:12:36.74,0:12:39.66,Default,Sunraku,0,0,0,,{\i1}Bei der Gelegenheit kann ich\Nauch meine Stats checken.
+Dialogue: 0,0:12:40.16,0:12:43.08,Default,Sunraku,0,0,0,,{\i1}Ich bin zwar Level 51 geworden,
+Dialogue: 0,0:12:43.08,0:12:46.04,Default,Sunraku,0,0,0,,{\i1}aber weil ich meine neuen\NHasenmond-Schwerter ausrüsten will,
+Dialogue: 0,0:12:46.04,0:12:49.67,Default,Sunraku,0,0,0,,{\i1}konnte ich natürlich keine Punkte\Nin Vitalität investieren.
+Dialogue: 0,0:12:50.12,0:12:52.92,Default,Sunraku,0,0,0,,{\i1}Ich hab also nach wie vor\Neine papierdünne Rüstung.
+Dialogue: 0,0:12:53.63,0:12:56.67,Default,Sunraku,0,0,0,,{\i1}Nein, mittlerweile\Neher taschentuchdünn.
+Dialogue: 0,0:12:56.67,0:12:59.68,Default,Elk,0,0,0,,Sooo, danke fürs Waaarten.
+Dialogue: 0,0:12:59.68,0:13:01.47,Default,Sunraku,0,0,0,,Das ging aber wirklich fix.
+Dialogue: 0,0:13:02.18,0:13:04.81,Default,Elk,0,0,0,,Es ist feeertig.
+Dialogue: 0,0:13:04.81,0:13:08.31,Default,Elk,0,0,0,,Da es für sechs Verknüpfungen ist,\Nist es eeetwas viel,
+Dialogue: 0,0:13:08.31,0:13:12.69,Default,Elk,0,0,0,,aber wenn du alles trinkst, erlernst du\Ndie verknüpften Fähigkeiten sooofort.
+Dialogue: 0,0:13:13.19,0:13:15.94,Default,Sunraku,0,0,0,,Dieses suspekte Zeug\Nsoll ich komplett trinken?
+Dialogue: 0,0:13:15.94,0:13:17.94,Default,Sunraku,0,0,0,,Da ist irgendein Zweig drin.
+Dialogue: 0,0:13:17.94,0:13:20.70,Default,Elk,0,0,0,,Los, in einem Zuuug!
+Dialogue: 0,0:13:21.07,0:13:23.74,Default,Sunraku,0,0,0,,{\i1}Im echten Leben würd ich das nie tun.
+Dialogue: 0,0:13:23.74,0:13:25.58,Default,Emul,0,0,0,,Los, in einem Zug!
+Dialogue: 0,0:13:25.58,0:13:26.33,Default,Elk,0,0,0,,Los!
+Dialogue: 0,0:13:26.33,0:13:27.58,Default,Emul,0,0,0,,Los!
+Dialogue: 0,0:13:42.89,0:13:45.89,Default,Sunraku,0,0,0,,Ooh, so viele auf einmal!
+Dialogue: 0,0:13:45.89,0:13:49.52,Default,Sunraku,0,0,0,,Damit hab ich durchs Verknüpfen\Nsechs neue Skills gelernt.
+Dialogue: 0,0:13:49.52,0:13:53.65,Default,Sunraku,0,0,0,,Dazu noch neun, die sich durch Leveln\Noder Sonstiges entwickelt haben.
+Dialogue: 0,0:13:54.35,0:13:56.86,Default,Sunraku,0,0,0,,Ich hoffe, da sind starke dabei.
+Dialogue: 0,0:13:56.86,0:13:58.36,Default,Emul,0,0,0,,Glückwunsch!
+Dialogue: 0,0:13:59.44,0:14:00.86,Default,Elk,0,0,0,,Freut mich für diiich.
+Dialogue: 0,0:14:01.61,0:14:08.70,Default,Elk,0,0,0,,Ach ja, richtig. Ich hätte da noch etwaaas,\Ndas nur in Hasingen verkauft wiiird.
+Dialogue: 0,0:14:08.70,0:14:12.37,Default,Elk,0,0,0,,„Folianten der Fähigkeiten“.\NWie wääär’s?
+Dialogue: 0,0:14:12.37,0:14:14.04,Default,Sunraku,0,0,0,,Folianten?
+Dialogue: 0,0:14:14.04,0:14:20.05,Default,Elk,0,0,0,,Und da Emul dich sooo mag,\Nmache ich dir einen guuuten Preis.
+Dialogue: 0,0:14:20.05,0:14:21.88,Default,Sunraku,0,0,0,,Echt?! Nice!
+Dialogue: 0,0:14:21.88,0:14:24.26,Default,Emul,0,0,0,,Sei bitte vorsichtig, Sunraku!
+Dialogue: 0,0:14:24.64,0:14:27.30,Default,Emul,0,0,0,,Man sieht es ihr nicht an,\Naber Elk ist raffgie…
+Dialogue: 0,0:14:27.30,0:14:30.77,Default,Sunraku,0,0,0,,Ooh, du bist wirklich\NEmuls Schwester. So flink!
+Dialogue: 0,0:14:32.94,0:14:34.23,Default,Sunraku,0,0,0,,Ist schon gut, Emul.
+Dialogue: 0,0:14:35.27,0:14:39.78,Default,Sunraku,0,0,0,,Das ist immerhin Ware, die in einem besonderen\NGebiet wie dem Hasenpalast verkauft wird.
+Dialogue: 0,0:14:40.11,0:14:42.57,Default,Sunraku,0,0,0,,Ich bin auf ein\Ngewisses Preisniveau gefasst.
+Dialogue: 0,0:14:43.28,0:14:46.07,Default,Elk,0,0,0,,Wie vom Vogelmensch zu erwaaarten.
+Dialogue: 0,0:14:46.07,0:14:48.53,Default,Elk,0,0,0,,Wie sieht denn dein Budget aus?
+Dialogue: 0,0:14:48.74,0:14:53.16,Default,Sunraku,0,0,0,,Da ich einige Materialien verkauft hab,\Nbesitze ich etwa 80.000 Mani.
+Dialogue: 0,0:14:53.16,0:14:57.88,Default,Elk,0,0,0,,Ohaaa, dann kannst du ja\Nbedenkenlos zuuugreifen.
+Dialogue: 0,0:14:59.38,0:15:03.92,Default,Sunraku,0,0,0,,Alter, sind die teuer! Ist das mit Rabatt?!\NSind das wirklich angemessene Preise?!
+Dialogue: 0,0:15:04.13,0:15:06.43,Default,Sunraku,0,0,0,,Du zockst mich doch nicht etwa ab?!
+Dialogue: 0,0:15:06.43,0:15:09.43,Default,Elk,0,0,0,,Aaalso, was darf’s seeein?
+Dialogue: 0,0:15:09.68,0:15:11.47,Default,Elk,0,0,0,,Siiicherlich
+Dialogue: 0,0:15:11.47,0:15:18.44,Default,Elk,0,0,0,,bist du nicht so töricht, dir diese einmalige\NChance entgehen zu lassen, oooder?
+Dialogue: 0,0:15:22.15,0:15:23.69,Default,Sunraku,0,0,0,,D-Dann …
+Dialogue: 0,0:15:24.40,0:15:30.20,Default,Sunraku,0,0,0,,Killer-Klingenkunst … Mond…\Nspiegelung … im Wasser, … bitte.
+Dialogue: 0,0:15:30.20,0:15:33.83,Default,Elk,0,0,0,,Sehr gern, das macht 80.000 Maaani.
+Dialogue: 0,0:15:33.83,0:15:38.83,Default,Elk,0,0,0,,Vieeelen Dank für deinen Einkaaauf!
+Dialogue: 0,0:15:41.88,0:15:43.84,Default,Sunraku,0,0,0,,Ich konnte nicht nein sagen …
+Dialogue: 0,0:15:44.30,0:15:47.13,Default,Emul,0,0,0,,Alles okay, Sunraku?
+Dialogue: 0,0:15:47.13,0:15:51.01,Default,Sunraku,0,0,0,,Ich dachte, sie würde mich\Nbis auf die Kopffedern rupfen.
+Dialogue: 0,0:15:51.01,0:15:56.39,Default,Emul,0,0,0,,Selbst Elk würde nicht so weit …\NNa ja, vielleicht doch.
+Dialogue: 0,0:15:56.85,0:16:01.11,Default,Sunraku,0,0,0,,Dabei gab’s in Drittlema einen\NLendenschutz, den ich kaufen wollte.
+Dialogue: 0,0:16:02.07,0:16:05.36,Default,Sunraku,0,0,0,,Muss ich bis zum Wezaemon-\NKampf wieder sparen.
+Dialogue: 0,0:16:10.03,0:16:11.12,Default,Sunraku,0,0,0,,Wie viel Uhr ist es?
+Dialogue: 0,0:16:14.08,0:16:15.79,Default,Sunraku,0,0,0,,Oh Shit, das wird knapp!
+Dialogue: 0,0:16:15.79,0:16:19.63,Default,Sunraku,0,0,0,,Wer weiß, was die zwei mir antun,\Nwenn ich wieder zu spät komme!
+Dialogue: 0,0:16:20.00,0:16:21.84,Default,Sunraku,0,0,0,,Emul, ein Portal, bitte!
+Dialogue: 0,0:16:21.84,0:16:23.09,Default,Emul,0,0,0,,Jawohl!
+Dialogue: 0,0:16:39.60,0:16:40.90,Default,Sunraku,0,0,0,,Du hast ja gute Laune.
+Dialogue: 0,0:16:42.56,0:16:46.78,Default,Pencilgon,0,0,0,,Oha, Sunraku, heute\Nzur Abwechslung mal pünktlich?
+Dialogue: 0,0:16:47.69,0:16:49.82,Default,Oikatso,0,0,0,,Ist was Gutes passiert?
+Dialogue: 0,0:16:49.82,0:16:53.99,Default,Pencilgon,0,0,0,,Das nicht, aber … ich hab was beschlossen.
+Dialogue: 0,0:16:53.99,0:16:55.08,Default,Sunraku,0,0,0,,Und was?
+Dialogue: 0,0:16:55.74,0:17:00.92,Default,Pencilgon,0,0,0,,In knapp zwei Wochen fordern wir\Nja Grabwächter Wezaemon heraus, …
+Dialogue: 0,0:17:01.54,0:17:03.42,Default,Pencilgon,0,0,0,,aber ein Problem hätten wir da noch.
+Dialogue: 0,0:17:03.42,0:17:04.71,Default,Oikatso,0,0,0,,Ein Problem?
+Dialogue: 0,0:17:04.71,0:17:07.38,Default,Sunraku,0,0,0,,Wir sind doch jetzt beide über Level 50.
+Dialogue: 0,0:17:07.67,0:17:11.89,Default,Pencilgon,0,0,0,,Momentan sind die Einzigen, die wissen,\Nwie man auf Wezaemon trifft,
+Dialogue: 0,0:17:11.89,0:17:15.22,Default,Pencilgon,0,0,0,,die Mitglieder des Asura-Bündnisses,\Ndem ich angehöre.
+Dialogue: 0,0:17:15.68,0:17:18.31,Default,Pencilgon,0,0,0,,Sie nutzen das System aus,
+Dialogue: 0,0:17:18.31,0:17:22.31,Default,Pencilgon,0,0,0,,bei dem man allein für die Begegnung mit\Neinem einzigartigen Monster EP bekommt,
+Dialogue: 0,0:17:22.31,0:17:27.15,Default,Pencilgon,0,0,0,,und verwenden ihn zum Leveln sowie als Trainingspuppe für PvP.
+Dialogue: 0,0:17:27.15,0:17:28.69,Default,Oikatso,0,0,0,,Das Asura-Bündnis …
+Dialogue: 0,0:17:29.70,0:17:31.11,Default,Sunraku,0,0,0,,Dieser Haufen also.
+Dialogue: 0,0:17:31.74,0:17:36.99,Default,Oikatso,0,0,0,,Anders als Lycaon kann man ihn immer\Nzur gleichen Zeit am gleichen Ort antreffen.
+Dialogue: 0,0:17:36.99,0:17:40.62,Default,Oikatso,0,0,0,,Einen besseren Platz zum Leveln\Ngibt es demnach nicht.
+Dialogue: 0,0:17:40.62,0:17:43.17,Default,Pencilgon,0,0,0,,Mit anderen Worten, das Problem ist …
+Dialogue: 0,0:17:43.17,0:17:47.13,Default,Sunraku,0,0,0,,Wenn sich nichts ändert, treffen wir\Nbeim Neumond des Kampfes gegen Wezaemon …
+Dialogue: 0,0:17:47.96,0:17:51.59,Default,Sunraku,0,0,0,,auf die anderen Asura-Mitglieder,\Ndie das einzigartige Szenario
+Dialogue: 0,0:17:51.59,0:17:54.59,Default,Sunraku,0,0,0,,ebenfalls angenommen haben.
+Dialogue: 0,0:17:54.59,0:17:55.51,Default,Pencilgon,0,0,0,,Genau.
+Dialogue: 0,0:17:56.14,0:17:57.85,Default,Oikatso,0,0,0,,Aber ihr seid doch im gleichen Clan.
+Dialogue: 0,0:17:58.14,0:18:00.39,Default,Oikatso,0,0,0,,Können wir denn nicht zusammenarbeiten?
+Dialogue: 0,0:18:00.39,0:18:03.98,Default,Oikatso,0,0,0,,Oder sie halten sich eben dieses Mal raus.
+Dialogue: 0,0:18:03.98,0:18:08.07,Default,Pencilgon,0,0,0,,Keine Chance. Vielmehr sind sie\Nsogar dagegen, ihn zu töten.
+Dialogue: 0,0:18:09.53,0:18:12.07,Default,Sunraku,0,0,0,,Also ich kann dir nicht ganz folgen.
+Dialogue: 0,0:18:12.07,0:18:16.07,Default,Sunraku,0,0,0,,Was hat das mit dem Beschluss zu tun,\Nvon dem du eben gesprochen hast?
+Dialogue: 0,0:18:24.37,0:18:26.29,Default,Pencilgon,0,0,0,,Das Asura-Bündnis …
+Dialogue: 0,0:18:26.79,0:18:31.92,Default,Pencilgon,0,0,0,,macht nichts als Player-Killing,\Ndaher werden sie von allen gehasst.
+Dialogue: 0,0:18:31.92,0:18:33.59,Default,Sunraku,0,0,0,,Verständlich.
+Dialogue: 0,0:18:33.59,0:18:37.64,Default,Pencilgon,0,0,0,,Und durch ein kürzliches Update\Nwerden Spieler, die PKs begehen,
+Dialogue: 0,0:18:37.64,0:18:41.22,Default,Pencilgon,0,0,0,,mit einem besonderen Zustand versehen.
+Dialogue: 0,0:18:41.22,0:18:42.77,Default,Oikatso,0,0,0,,Ein besonderer Zustand?
+Dialogue: 0,0:18:43.69,0:18:47.44,Default,Pencilgon,0,0,0,,Tötet ein anderer Spieler einen PKer,
+Dialogue: 0,0:18:47.44,0:18:51.74,Default,Pencilgon,0,0,0,,erhält er zusätzlich zu\Neinem Kopfgeld das Besitzrecht
+Dialogue: 0,0:18:51.74,0:18:53.82,Default,Pencilgon,0,0,0,,für alle Items und die Ausrüstung,
+Dialogue: 0,0:18:53.82,0:18:55.78,Default,Pencilgon,0,0,0,,die der PKer bei sich hatte.
+Dialogue: 0,0:18:57.03,0:19:00.95,Default,Pencilgon,0,0,0,,Das schließt auch eingelagerte\NGegenstände ein. Einfach alles!
+Dialogue: 0,0:19:01.24,0:19:02.50,Default,Sunraku,0,0,0,,Oha!
+Dialogue: 0,0:19:02.50,0:19:07.96,Default,Pencilgon,0,0,0,,Ein Top-PKer des Asura-Bündnisses hat\Neine beträchtliche Menge an seltenen Items.
+Dialogue: 0,0:19:08.96,0:19:13.17,Default,Pencilgon,0,0,0,,PKer wie wir sind demnach\Nso was wie wandelnde Schatztruhen,
+Dialogue: 0,0:19:13.17,0:19:15.30,Default,Pencilgon,0,0,0,,wenn man so will.
+Dialogue: 0,0:19:16.97,0:19:20.35,Default,Pencilgon,0,0,0,,Das wiederum ruft PK-Killer auf den Plan.
+Dialogue: 0,0:19:21.52,0:19:25.39,Default,Pencilgon,0,0,0,,Natürlich haben wir einige\NSchlupflöcher im System entdeckt
+Dialogue: 0,0:19:25.39,0:19:27.73,Default,Pencilgon,0,0,0,,und diverse Gegenmaßnahmen parat,
+Dialogue: 0,0:19:27.73,0:19:31.86,Default,Pencilgon,0,0,0,,aber wird unser Hauptquartier angegriffen,\Nist das alles für die Katz.
+Dialogue: 0,0:19:31.86,0:19:36.07,Default,Sunraku,0,0,0,,Hauptquartier? Halt, halt,\Nist dein Beschluss etwa …
+Dialogue: 0,0:19:36.07,0:19:37.74,Default,Oikatso,0,0,0,,Ernsthaft?
+Dialogue: 0,0:19:38.62,0:19:44.08,Default,Pencilgon,0,0,0,,Genau. Ich weiß selbstverständlich,\Nwo dieses Hauptquartier ist.
+Dialogue: 0,0:19:44.50,0:19:48.88,Default,Pencilgon,0,0,0,,Die braucht doch keiner mehr, richtig?\NDas sind Feiglinge, die nur im Weg stehen.
+Dialogue: 0,0:19:49.42,0:19:50.96,Default,Pencilgon,0,0,0,,Darum
+Dialogue: 0,0:19:50.96,0:19:54.09,Default,Pencilgon,0,0,0,,hab ich mir überlegt,\Ndas Asura-Bündnis zu zerquetschen.
+Dialogue: 0,0:21:48.91,0:21:52.87,Default,Erzählerin,0,0,0,,Und so kam der Tag,\Nan dem das große Sommer-Update …
+Dialogue: 0,0:21:54.33,0:21:57.92,Default,Erzählerin,0,0,0,,des Full-Dive-VR-Games\NShangri-La Frontier durchgeführt wurde.
+Dialogue: 0,0:22:09.27,0:22:12.94,Default,Erzählerin,0,0,0,,Ja, an diesem Tag, in dieser Nacht\Ndes großen Updates
+Dialogue: 0,0:22:16.11,0:22:19.90,Default,Erzählerin,0,0,0,,sollten Sunraku und seine Freunde\NGrabwächter Wezaemon herausfordern.
+Dialogue: 0,0:22:35.58,0:22:39.25,Default,Kinder,0,0,0,,ShanFro-Theater!
+Dialogue: 0,0:22:39.25,0:22:40.88,Default,Emul,0,0,0,,Mini!
+Dialogue: 0,0:22:45.72,0:22:48.10,Default,Sunraku,0,0,0,,Frohes neues Jahr!
+Dialogue: 0,0:22:48.10,0:22:51.18,Default,Oikatso,0,0,0,,Vielen Dank für eure Unterstützung\Nim vergangenen Jahr.
+Dialogue: 0,0:22:51.18,0:22:53.64,Default,Pencilgon,0,0,0,,Seid mir auch in diesem Jahr gewogen.
+Dialogue: 0,0:22:53.64,0:22:57.52,Default,Emul,0,0,0,,Auch ich bitte euch um euer Wohlwollen.
+Dialogue: 0,0:22:58.27,0:22:59.77,Default,Pencilgon,0,0,0,,Also dann, Sunraku.
+Dialogue: 0,0:23:00.23,0:23:01.44,Default,Sunraku,0,0,0,,Was soll die Geste?
+Dialogue: 0,0:23:01.44,0:23:02.94,Default,Pencilgon,0,0,0,,Mein Neujahrgeschenk, bitte.
+Dialogue: 0,0:23:02.94,0:23:04.49,Default,Sunraku,0,0,0,,Nix gibt’s!
+Dialogue: 0,0:23:04.49,0:23:05.78,Default,Pencilgon,0,0,0,,Geizhals.
+Dialogue: 0,0:23:05.78,0:23:06.61,Default,Pencilgon,0,0,0,,Dann …
+Dialogue: 0,0:23:06.61,0:23:07.74,Default,Oikatso,0,0,0,,Nee, vergiss es.
+Dialogue: 0,0:23:07.74,0:23:09.49,Default,Pencilgon,0,0,0,,Du verdienst doch Geld.
+Dialogue: 0,0:23:09.49,0:23:12.54,Default,Oikatso,0,0,0,,Verdienst du nicht\Nselber ganz ordentlich?
+Dialogue: 0,0:23:14.37,0:23:15.58,Default,Sunraku,0,0,0,,Tu mal nicht so!
+Dialogue: 0,0:23:15.58,0:23:17.67,Default,Emul,0,0,0,,Sunraku, Sunraku.
+Dialogue: 0,0:23:17.67,0:23:19.96,Default,Emul,0,0,0,,Was ist ein Neujahrsgeschenk?
+Dialogue: 0,0:23:19.96,0:23:22.38,Default,Sunraku,0,0,0,,Ähm, kurzum …
+Dialogue: 0,0:23:23.51,0:23:24.42,Default,Sunraku,0,0,0,,Das hier.
+Dialogue: 0,0:23:25.30,0:23:28.76,Default,Emul,0,0,0,,Ein Neujahrsgeschenk! Absolut spitze!
+Dialogue: 0,0:23:31.10,0:23:32.77,Default,Sunraku; Pencilgon; Oikatso,0,0,0,,{\i1}So einfach gestrickt.
+Dialogue: 0,0:23:36.64,0:23:41.07,Default,Rei,0,0,0,,Ich hatte nicht den Mut,\NRakuro einen Neujahrsgruß zu schicken.
+Dialogue: 0,0:23:42.23,0:23:47.57,Default,Rei,0,0,0,,Frohes neues Jahr!

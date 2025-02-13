@@ -1,0 +1,45 @@
+﻿[Script Info]
+Title: English (US)
+ScaledBorderAndShadow: yes
+Original Script: kodansha  [http://www.crunchyroll.com/user/kodansha]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+LayoutResX: 1920
+LayoutResY: 1080
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+Style: Sign_Basic,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,6,3,2,30,30,54,1
+Style: Ep_Title,Arial,60,&H00FFFFFF,&H000000FF,&H00000000,&H00BE9829,-1,0,0,0,100,100,0,0,1,0,6,1,132,30,12,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:02:52.99,0:02:56.61,Ep_Title,sign,0,0,0,,{\fad(575,0)}The Glimmer of Truth
+Dialogue: 0,0:03:30.65,0:03:35.24,Sign_Basic,sign,0,0,0,,{\fad(475,0)\pos(960,750)\c&H181510&\3c&HF8F9F8&\shad0\bord4.5}"Roleplaying"\N To play one's given role in the setting.
+Dialogue: 0,0:07:34.27,0:07:39.73,Sign_Basic,sign,0,0,0,,{\c&H2E10C1&\b1\3c&HECEEED&\shad0\an8\pos(960,60)}Good Communication
+Dialogue: 0,0:07:48.03,0:07:50.99,Sign_Basic,sign,0,0,0,,{\fad(150,0)\frz0\pos(450,840)\fnArial\b1\c&H9B5DE0&\bord0\shad0}Bilac
+Dialogue: 0,0:08:48.76,0:08:50.84,Default,sign,0,0,0,,{\pos(960,750)\fs48\b1\c&HF3E894&\bord0\shad3\4c&H5B5536&}Ascend\N{\fnArial\fs60\b1}"Bring to Truth"
+Dialogue: 0,0:10:55.05,0:11:00.81,Sign_Basic,sign,0,0,0,,{\an8\fnTimes New Roman\b1\shad0\3a&H80&\blur1.5\pos(1596,105)}Master Craftsman
+Dialogue: 0,0:10:59.31,0:11:00.81,Sign_Basic,sign,0,0,0,,{\an8\fnTimes New Roman\b1\shad0\3a&H80&\blur1.5\pos(360,105)}Ancient Craftsman
+Dialogue: 0,0:11:03.56,0:11:11.32,Sign_Basic,sign,0,0,0,,{\fad(250,0)\fnTimes New Roman\b1\shad0\3a&H50&\blur1.5\pos(996,1035)}Divine Craftsman
+Dialogue: 0,0:15:37.62,0:15:39.46,Sign_Basic,sign,0,0,0,,{\pos(1518,225)\c&HF9F7A2&\b1\fs60\shad0\3c&H322218&}Moonblade (Waxing) \N{\b0\fs36\c&H8A7F78&}A twinblade with a crescent-shaped blade.
+Dialogue: 0,0:15:37.62,0:15:39.46,Sign_Basic,sign,0,0,0,,{\c&HF9F7A2&\b1\fs60\shad0\3c&H322218&\pos(432,750)}Moonblade (Waning)\N{\b0\fs36\c&H8A7F78&}A twinblade with a crescent-shaped blade.
+Dialogue: 0,0:16:07.07,0:16:17.12,Default,sign,0,0,0,,{\pos(60,60)\an7\fs42\c&HAD9D94&\3c&H24150C&\shad0}\h\h\hWaxing \N When fighting an opponent of higher level, successful criticals reduce your HP, but a power bonus is added to your next attack.\N\N{\fs42\c&HAD9D94&\3c&H24150C&\shad0}\h\h\hWaning\N When fighting an opponent of higher level, successful criticals restore your HP.\N\NA certain number of successful criticals adds to the fusion gauge.
+Dialogue: 0,0:16:34.10,0:16:36.85,Sign_Basic,sign,0,0,0,,{\an8\c&H4E51F3&\shad0\bord2.25\3c&H9DACE9&}Cannot be wielded due to\Nfailure to meet stat requirements.
+Dialogue: 0,0:16:41.36,0:16:54.20,Sign_Basic,sign,0,0,0,,{\c&HFDFEAB&\b1\bord0\shad0\move(570,345,570,-615)}Waxing / Waning
+Dialogue: 0,0:16:41.36,0:16:54.20,Sign_Basic,sign,0,0,0,,{\c&H91FE1B&\move(984,654,984,-306)\frz0.7784\3c&H3C510E&\shad0\fs60}Stat Requirements
+Dialogue: 0,0:17:18.35,0:17:21.27,Sign_Basic,sign,0,0,0,,{\fad(375,0)\pos(960,444)\3c&HAFA33E&\bord9\shad0}Thirdrema
+Dialogue: 0,0:17:28.28,0:17:31.78,Sign_Basic,sign,0,0,0,,{\pos(958.052,649.347)\org(962.001,603.999)\fscx101.034\fscy97.43\frz-8.422\fry1.335\frx3.371\fax0.154\fnArial\b1\xbord6.06\ybord5.85\xshad0\yshad0\3c&HB3CABF&}The Serpent's Apple
+Dialogue: 0,0:18:15.45,0:18:18.45,Sign_Basic,sign,0,0,0,,{\an8\fs90\fnImpact\b1\c&H867F0A&\3c&HD7D9E1&\bord12\i1\fsp6}Oikatzo
+Dialogue: 0,0:18:18.45,0:18:21.46,Sign_Basic,sign,0,0,0,,{\an8\b1\c&H9B820F&\3c&HEAFEFF&\shad0\pos(915,660)\fnArial}Kei Uomi
+Dialogue: 0,0:18:18.45,0:18:23.71,Sign_Basic,sign,0,0,0,,{\pos(686.001,246)\an8\b1\c&H46E0F2&\3c&HEAFEFF&\shad0\frz12.51}Modor Katzo
+Dialogue: 0,0:18:18.45,0:18:23.71,Sign_Basic,sign,0,0,0,,{\an8\b1\c&H50E2EB&\3c&HEAFEFF&\shad0\pos(1592.001,264)\frz333.2}Oikatzo
+Dialogue: 0,0:18:18.45,0:18:23.71,Sign_Basic,sign,0,0,0,,{\an8\b1\c&H50E2EB&\3c&HEAFEFF&\shad0\frz354.9\pos(687.999,744)}Katzo Tataki
+Dialogue: 0,0:18:21.46,0:18:23.71,Default,sign,0,0,0,,{\an8\b1\c&H9B820F&\3c&HEAFEFF&\shad0\fnArial\pos(960,660)}Katsuo (Skipjack Tuna)
+Dialogue: 0,0:19:33.90,0:19:35.28,Sign_Basic,sign,0,0,0,,{\pos(738.344,506.001)\org(736.002,506.001)\fscx99.441\fscy95.14\frz-12.555\fry-0.667\frx6.921\fax-0.033\xbord0\ybord0\xshad0\yshad0\c&H899B94&}Give
+Dialogue: 0,0:19:33.90,0:19:35.28,Default,sign,0,0,0,,{\pos(1718.342,727.998)\org(1716,727.998)\fscx99.441\fscy95.14\frz-12.555\fry-0.667\frx6.921\fax-0.033\xbord0\ybord0\xshad0\yshad0\c&H7EA4A3&}Drop
+Dialogue: 0,0:22:01.01,0:22:07.01,Sign_Basic,sign,0,0,0,,{\fad(375,0)\pos(960,444)\3c&HAFA33E&\bord9\shad0}Iron Ruins of the Divinity
