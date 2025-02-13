@@ -1,0 +1,299 @@
+﻿[Script Info]
+Title: Deutsch
+ScaledBorderAndShadow: yes
+Original Script: cr_de  [http://www.crunchyroll.com/user/cr_de]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+LayoutResX: 1920
+LayoutResY: 1080
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+Style: Flashback,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00013E12,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:34.78,0:01:36.78,Default,Pencilgon,0,0,0,,Alles für dich zu behalten,\Nist nicht nett.
+Dialogue: 0,0:01:37.41,0:01:40.79,Default,Pencilgon,0,0,0,,So etwas solltest du\Nmit allen teilen, weißt du?
+Dialogue: 0,0:01:43.21,0:01:45.54,Default,Pencilgon,0,0,0,,Revolutionsritter Sunraku.
+Dialogue: 0,0:01:46.13,0:01:48.55,Default,Sunraku,0,0,0,,Endlich zeigst du dich, Pencil Warrior!
+Dialogue: 0,0:01:48.55,0:01:51.59,Default,Pencilgon,0,0,0,,{\an8}Hey, hey! Rede mit einer\Nübernatürlichen Schönheit
+Dialogue: 0,0:01:49.01,0:01:51.01,Default,Erzählerin,0,0,0,,„Revolutionsritter Sunraku“.
+Dialogue: 0,0:01:51.01,0:01:54.59,Default,Erzählerin,0,0,0,,Dieser Titel hat in ShanFro\Nkeinerlei Bedeutung.
+Dialogue: 0,0:01:51.59,0:01:55.26,Default,Pencilgon,0,0,0,,{\an8}gefälligst nicht\Nwie mit einem lästigen Monster.
+Dialogue: 0,0:01:54.59,0:01:59.14,Default,Erzählerin,0,0,0,,Er stammt aus einem bestimmten Spiel\Nund weist auf die Beziehung zwischen
+Dialogue: 0,0:01:56.93,0:01:58.18,Default,Pencilgon,0,0,0,,{\an8}Außerdem …
+Dialogue: 0,0:01:59.14,0:02:00.73,Default,Erzählerin,0,0,0,,einer gewissen Spielerin\Nund Sunraku hin.
+Dialogue: 0,0:02:00.73,0:02:04.44,Default,Pencilgon,0,0,0,,Würdest du mich in ShanFro\Nbitte nicht Pencil Warrior,
+Dialogue: 0,0:02:04.44,0:02:08.69,Default,Pencilgon,0,0,0,,sondern Arthur Pencilgon nennen?
+Dialogue: 0,0:02:17.74,0:02:21.62,Default,Sunraku,0,0,0,,{\i1\an8}Meine Trash-Game-Freundin,\NPencil Warrior,
+Dialogue: 0,0:02:21.62,0:02:24.62,Default,Sunraku,0,0,0,,{\i1\an8}korrigiere, Arhur Pencilgon.
+Dialogue: 0,0:02:31.55,0:02:35.01,Default,Erzählerin,0,0,0,,Um ihren Hintergrund\Nzu erklären, müssen wir
+Dialogue: 0,0:02:35.01,0:02:38.26,Default,Erzählerin,0,0,0,,über ein bestimmtes\NTrash-Game sprechen: Unite Rounds.
+Dialogue: 0,0:02:42.10,0:02:44.35,Flashback,Ladeninhaber-NPC,0,0,0,,Bitte verschont unser Leben!
+Dialogue: 0,0:02:44.35,0:02:47.61,Flashback,Spieler A,0,0,0,,Räum alles leer!\NWenn sie sich wehren, mach sie kalt!
+Dialogue: 0,0:02:47.61,0:02:48.61,Flashback,Spieler B,0,0,0,,Okay!
+Dialogue: 0,0:02:49.98,0:02:53.03,Flashback,Spieler B,0,0,0,,Die haben ordentlich was zurückgelegt!
+Dialogue: 0,0:02:54.15,0:02:57.53,Flashback,Spieler A,0,0,0,,Super, ein dicker Fang!\NHauen wir schnell ab!
+Dialogue: 0,0:02:57.53,0:03:00.91,Flashback,Spieler B,0,0,0,,Ich könnte mir nicht den ganzen Tag\Nden Buckel dafür krumm machen!
+Dialogue: 0,0:03:03.00,0:03:06.92,Flashback,Sunraku,0,0,0,,Danke fürs Sammeln der Items.\NIch nehm euch die Last ab.
+Dialogue: 0,0:03:09.96,0:03:13.92,Default,Erzählerin,0,0,0,,Die Spieler nannten es\N„Endzeit-Plünder-Simulator“.
+Dialogue: 0,0:03:14.88,0:03:18.55,Default,Erzählerin,0,0,0,,Ursprünglich wurden sie\Nin diesem Spiel zu Rittern und kämpften
+Dialogue: 0,0:03:19.01,0:03:22.72,Default,Erzählerin,0,0,0,,gegen angreifende Monster, um ein\NKönigreich vor der Vernichtung zu retten.
+Dialogue: 0,0:03:22.72,0:03:25.48,Default,Erzählerin,0,0,0,,Es war ein Koop-VRMMO.
+Dialogue: 0,0:03:29.06,0:03:34.15,Default,Erzählerin,0,0,0,,Doch da es seine Prämisse zu ernst nahm,\Nwar die Item-Droprate unglaublich gering.
+Dialogue: 0,0:03:34.15,0:03:38.99,Default,Erzählerin,0,0,0,,Durch diesen äußerst trashigen Aspekt\Nwaren ehrliche Spieler extrem selten.
+Dialogue: 0,0:03:39.41,0:03:42.99,Flashback,Sunraku,0,0,0,,Selbst Steine haben\Neine Droprate von 40 %?!
+Dialogue: 0,0:03:42.99,0:03:46.71,Default,Erzählerin,0,0,0,,Sogar für die Anfängerquest\N„Beschaffung von Heilkräutern“
+Dialogue: 0,0:03:46.71,0:03:52.00,Default,Erzählerin,0,0,0,,musste man 12 Stunden lang im Dickicht suchen,\Num die benötigte Anzahl zu finden.
+Dialogue: 0,0:03:52.00,0:03:57.01,Default,Erzählerin,0,0,0,,Und je höher die Qualität des Items,\Ndesto schwerer war es natürlich zu beschaffen.
+Dialogue: 0,0:03:58.09,0:03:59.72,Default,Erzählerin,0,0,0,,Was macht man also?
+Dialogue: 0,0:04:00.55,0:04:02.14,Default,Erzählerin,0,0,0,,Ganz einfach.
+Dialogue: 0,0:04:03.26,0:04:04.43,Default,Erzählerin,0,0,0,,Man stiehlt.
+Dialogue: 0,0:04:05.43,0:04:10.02,Default,Erzählerin,0,0,0,,Heilkräuter sammeln? Ewig auf\Nallen Vieren kriechen und Gräser rupfen?
+Dialogue: 0,0:04:10.02,0:04:12.73,Default,Erzählerin,0,0,0,,Überfalle einfach die Läden der NPCs
+Dialogue: 0,0:04:12.73,0:04:15.61,Default,Erzählerin,0,0,0,,oder raube die Spieler aus,\Ndie das bereits getan haben.
+Dialogue: 0,0:04:15.61,0:04:18.24,Default,Erzählerin,0,0,0,,Das war in Unite Rounds\Ndie richtige Lösung.
+Dialogue: 0,0:04:22.41,0:04:27.16,Default,Erzählerin,0,0,0,,In dieser grassierenden Verbrechenswelle,\Nwo im Grunde jeder ein Feind war,
+Dialogue: 0,0:04:27.16,0:04:31.04,Default,Erzählerin,0,0,0,,schaffte es eine Person durch dauernde\NAufstände und Ausschöpfen jeglicher Tricks
+Dialogue: 0,0:04:31.04,0:04:33.59,Default,Erzählerin,0,0,0,,das Königreich an sich zu reißen.
+Dialogue: 0,0:04:36.34,0:04:39.68,Flashback,Pencil Warrior,0,0,0,,Wir teilen Schätze und Items\Nunter allen auf, okay?
+Dialogue: 0,0:04:42.18,0:04:43.85,Flashback,Spielermob,0,0,0,,Das Königreich ist unser!
+Dialogue: 0,0:04:43.85,0:04:45.97,Flashback,Spielermob,0,0,0,,Genossin Pencil Warrior!
+Dialogue: 0,0:04:45.97,0:04:49.02,Flashback,Spielermob,0,0,0,,Gut so, Pencil Warrior!
+Dialogue: 0,0:04:49.02,0:04:51.48,Default,Erzählerin,0,0,0,,So entstand plötzlich das Pencil-Königreich.
+Dialogue: 0,0:05:11.33,0:05:12.71,Flashback,Katso Tataki,0,0,0,,Hey, Sunraku.
+Dialogue: 0,0:05:13.00,0:05:15.13,Flashback,Sunraku,0,0,0,,Was denn, Katso?
+Dialogue: 0,0:05:15.13,0:05:17.21,Flashback,Sunraku,0,0,0,,Oh, hab was Nettes gefunden.
+Dialogue: 0,0:05:17.63,0:05:21.22,Flashback,Katso Tataki,0,0,0,,In diesem Spiel beschützt man\Ndas Land vor Monstern, oder?
+Dialogue: 0,0:05:21.51,0:05:26.56,Flashback,Sunraku,0,0,0,,Ja? Muss man nicht eine Dämonenkönigin\Nnamens Pencil Warrior besiegen?
+Dialogue: 0,0:05:26.56,0:05:31.23,Default,Erzählerin,0,0,0,,Pencil Warrior war nicht\Nmit dem Endboss der Story zu vergleichen.
+Dialogue: 0,0:05:31.56,0:05:35.44,Default,Erzählerin,0,0,0,,Sie machte einige Spieler absichtlich nicht\Nzu ihren Anhängern und beutete sie aus.
+Dialogue: 0,0:05:35.44,0:05:39.24,Default,Erzählerin,0,0,0,,Dann traf sie Gegenmaßnahmen, ließ\Nihre Maulwürfe etwa einen Widerstand gründen,
+Dialogue: 0,0:05:39.53,0:05:42.24,Default,Erzählerin,0,0,0,,und entfachte so\Nden Willen zur Rebellion in ihren Opfern,
+Dialogue: 0,0:05:42.24,0:05:45.24,Default,Erzählerin,0,0,0,,damit diese das Spiel nicht aufgaben.
+Dialogue: 0,0:05:46.20,0:05:48.74,Flashback,Sunraku,0,0,0,,Also dann, gehen wir sie ermorden?
+Dialogue: 0,0:05:55.08,0:05:58.75,Default,Erzählerin,0,0,0,,Damals wurde Unite Rounds vollständig …
+Dialogue: 0,0:06:00.51,0:06:02.34,Default,Erzählerin,0,0,0,,von einer Spielerin kontrolliert
+Dialogue: 0,0:06:02.34,0:06:06.64,Default,Erzählerin,0,0,0,,und im Nu hatte man ihr den Namen\N„Dystopia Empress“ gegeben.
+Dialogue: 0,0:06:07.26,0:06:10.14,Flashback,Pencil Warrior,0,0,0,,Die Rebellenarmee war also nur ein Köder.
+Dialogue: 0,0:06:10.14,0:06:13.14,Flashback,Pencil Warrior,0,0,0,,Mit einer kleinen Elite in\Nden Bergfried einzudringen, nicht schlecht.
+Dialogue: 0,0:06:13.56,0:06:17.40,Flashback,Sunraku,0,0,0,,Du hättest ein paar\Nknackigere Fallen aufstellen können.
+Dialogue: 0,0:06:17.40,0:06:20.15,Flashback,Katso Tataki,0,0,0,,Die waren so lasch, wir kamen\Neasy beim ersten Versuch durch.
+Dialogue: 0,0:06:20.57,0:06:23.11,Flashback,Pencil Warrior,0,0,0,,Sunraku und Katso Tataki.
+Dialogue: 0,0:06:23.11,0:06:24.86,Flashback,Pencil Warrior,0,0,0,,Okay, merke ich mir.
+Dialogue: 0,0:06:25.99,0:06:30.08,Flashback,Pencil Warrior,0,0,0,,Euer süffisantes Lachen macht mich\Naus irgendeinem Grund echt sauer.
+Dialogue: 0,0:06:33.00,0:06:35.08,Flashback,Pencil Warrior,0,0,0,,Also dann, Zeit für den Bosskampf.
+Dialogue: 0,0:06:35.08,0:06:38.38,Flashback,Pencil Warrior,0,0,0,,Könnt ihr mich besiegen\Nund zu Revolutionsrittern werden?
+Dialogue: 0,0:06:44.18,0:06:45.64,Default,Sunraku,0,0,0,,{\i1}Kurzum,
+Dialogue: 0,0:06:45.64,0:06:49.06,Default,Sunraku,0,0,0,,{\i1}uns verbindet eine lange Geschichte.
+Dialogue: 0,0:06:49.06,0:06:53.06,Default,Sunraku,0,0,0,,{\i1}In Unite Rounds endete unser Kampf\Nletztendlich unentschieden.
+Dialogue: 0,0:06:53.06,0:06:55.39,Default,Sunraku,0,0,0,,{\i1}Doch hier trennt uns zudem\Nnoch ein Levelunterschied.
+Dialogue: 0,0:07:01.19,0:07:05.70,Default,Pencilgon,0,0,0,,Ich bin extra aus Fünfzehnia gekommen,\Num dich zu töten. Trotz Strafe, die mir blüht.
+Dialogue: 0,0:07:05.70,0:07:08.95,Default,Pencilgon,0,0,0,,Du darfst vor Dankbarkeit\Ngerne weinen, weißt du?
+Dialogue: 0,0:07:19.34,0:07:22.88,Default,Sunraku,0,0,0,,Diese Messer haben\Neindeutig ein Gift-Attribut.
+Dialogue: 0,0:07:22.88,0:07:26.38,Default,Pencilgon,0,0,0,,Für Wegwerfwaffen\Nsind sie ziemlich teuer.
+Dialogue: 0,0:07:28.89,0:07:32.43,Default,Pencilgon,0,0,0,,Übrigens, auf welchem Level\Nbist du jetzt, Sunraku?
+Dialogue: 0,0:07:34.06,0:07:38.15,Default,Pencilgon,0,0,0,,Da du gerade den Schlammgräber\Nbesiegt hast, ungefähr dreißig, oder?
+Dialogue: 0,0:07:38.15,0:07:40.31,Default,Pencilgon,0,0,0,,Dafür weichst du gut aus.
+Dialogue: 0,0:07:40.61,0:07:44.82,Default,Sunraku,0,0,0,,Das hier ist eben ein göttliches Spiel.\NMein Körper bewegt sich ganz geschmeidig.
+Dialogue: 0,0:07:45.19,0:07:47.82,Default,Animalia,0,0,0,,Pencilgon … Ist sie etwa
+Dialogue: 0,0:07:47.82,0:07:51.33,Default,Animalia,0,0,0,,von diesem PK … Player-Killer-Clan?
+Dialogue: 0,0:07:51.33,0:07:55.33,Default,Animalia,0,0,0,,Die Nummer zwei\Ndes Asura-Bündnisses, die „Riesentöterin“?
+Dialogue: 0,0:07:57.96,0:08:00.92,Default,Mädchen-Emul,0,0,0,,G-Gar nicht gut!
+Dialogue: 0,0:08:00.92,0:08:03.25,Default,Sunraku,0,0,0,,Riesentöterin?
+Dialogue: 0,0:08:03.55,0:08:06.51,Default,Pencilgon,0,0,0,,Nachdem ich ständig\Nhöherstufige Spieler angegriffen hatte,
+Dialogue: 0,0:08:06.51,0:08:09.30,Default,Pencilgon,0,0,0,,hatte ich schnell diesen Namen weg.
+Dialogue: 0,0:08:09.30,0:08:13.85,Default,Pencilgon,0,0,0,,Neulich haben die Entwickler allerdings\Nvieles angepasst und das Töten erschwert.
+Dialogue: 0,0:08:15.73,0:08:18.10,Default,Sunraku,0,0,0,,Also in Dystopia
+Dialogue: 0,0:08:18.10,0:08:22.15,Default,Sunraku,0,0,0,,warst ja eher du die Riesin,\Ndie getötet wurde, oder?
+Dialogue: 0,0:08:22.15,0:08:25.28,Default,Sunraku,0,0,0,,Spiel das Gewicht deiner Sünden\Nund deines riesigen Körpers nicht herunter.
+Dialogue: 0,0:08:31.82,0:08:34.91,Default,Pencilgon,0,0,0,,Für ein Spatzenhirn\Nkennst du aber schwere Wörter!
+Dialogue: 0,0:08:34.91,0:08:37.20,Default,Pencilgon,0,0,0,,Hast du fleißig gelernt?!
+Dialogue: 0,0:08:38.29,0:08:39.96,Default,Pencilgon,0,0,0,,Das Thema ist tabu!
+Dialogue: 0,0:08:40.33,0:08:44.00,Default,Sunraku,0,0,0,,Wer ist hier durch und durch\Nein Spatzenhirn?! Trottel!
+Dialogue: 0,0:08:46.30,0:08:49.34,Default,Animalia,0,0,0,,W-Was geht mit den beiden?
+Dialogue: 0,0:08:50.01,0:08:54.51,Default,Pencilgon,0,0,0,,Weißt du, ehrlich gesagt bin ich\Nnicht nur aus persönlichen Gründen hier.
+Dialogue: 0,0:08:56.52,0:09:01.02,Default,Pencilgon,0,0,0,,Der Anführer meines Clans Asura-Bündnis\Nhat mir eine Nachricht für dich gegeben.
+Dialogue: 0,0:09:01.02,0:09:02.90,Default,Sunraku,0,0,0,,Eine Nachricht?!
+Dialogue: 0,0:09:03.31,0:09:06.28,Default,Pencilgon,0,0,0,,Sie lautet: „Gib die Infos zum Unique frei
+Dialogue: 0,0:09:06.28,0:09:09.36,Default,Pencilgon,0,0,0,,oder werde gejagt,\Nbis dir danach ist. Wähle.“
+Dialogue: 0,0:09:10.07,0:09:12.62,Default,Sunraku,0,0,0,,Er droht? Mir?
+Dialogue: 0,0:09:22.33,0:09:24.08,Default,Sunraku,0,0,0,,Er ist ein Idiot.
+Dialogue: 0,0:09:25.13,0:09:26.50,Default,Pencilgon,0,0,0,,Ich weiß.
+Dialogue: 0,0:09:38.77,0:09:40.48,Default,Sunraku,0,0,0,,{\i1}Aber was soll ich jetzt machen?
+Dialogue: 0,0:09:40.48,0:09:43.60,Default,Sunraku,0,0,0,,{\i1}Der Unterschied zwischen unseren Leveln\Nund der Ausrüstung ist zu groß!
+Dialogue: 0,0:09:45.94,0:09:50.57,Default,Sunraku,0,0,0,,Seltsam. Scheint, als wolltest du mich\Nnicht in die Nähe des Tores lassen.
+Dialogue: 0,0:09:50.57,0:09:51.82,Default,Sunraku,0,0,0,,Auch dein Angriff eben
+Dialogue: 0,0:09:51.82,0:09:56.83,Default,Sunraku,0,0,0,,war so getimt, dass ich nicht in die Stadt komme.\NDas ist doch keine Einbildung, oder?
+Dialogue: 0,0:09:56.83,0:09:59.58,Default,Sunraku,0,0,0,,Klar, eine belebte Stadt
+Dialogue: 0,0:09:59.58,0:10:02.41,Default,Sunraku,0,0,0,,kommt selbst\Neiner Player-Killerin ungelegen.
+Dialogue: 0,0:10:03.42,0:10:06.96,Default,Pencilgon,0,0,0,,Na ja, wenn möglich,\Nwürde ich es gern vermeiden.
+Dialogue: 0,0:10:09.21,0:10:12.80,Default,Pencilgon,0,0,0,,Du schaffst es doch sowieso nicht zum Tor.
+Dialogue: 0,0:10:19.31,0:10:21.48,Default,Mädchen-Emul,0,0,0,,Mein Schwanz!
+Dialogue: 0,0:10:21.48,0:10:25.10,Default,Mädchen-Emul,0,0,0,,{\i1}Sunraku, ich kann bald nicht mehr!
+Dialogue: 0,0:10:25.10,0:10:28.23,Default,Mädchen-Emul,0,0,0,,{\i1}Meine Verwandlung löst sich gleich auf!
+Dialogue: 0,0:10:32.40,0:10:36.74,Default,Animalia,0,0,0,,{\i1}Ach, Mann!\NIch hab ihn doch zuerst gefunden!
+Dialogue: 0,0:10:36.74,0:10:40.74,Default,Animalia,0,0,0,,{\i1}Aber … seine Gegnerin\Nist eben die Riesentöterin.
+Dialogue: 0,0:10:40.74,0:10:42.91,Default,Animalia,0,0,0,,{\i1}Genau, vielleicht\Nweiß seine Begleitung …
+Dialogue: 0,0:10:47.04,0:10:52.05,Default,Animalia,0,0,0,,{\i1}Nanu? Hatte sie diese Ohren-\Nund Schwanz-Accessoires die ganze Zeit?
+Dialogue: 0,0:10:52.38,0:10:54.01,Default,Animalia,0,0,0,,Hey, kann ich dich kurz …
+Dialogue: 0,0:10:57.89,0:10:59.56,Default,Animalia,0,0,0,,W-Was?!
+Dialogue: 0,0:11:01.72,0:11:02.52,Default,Animalia,0,0,0,,Ah …
+Dialogue: 0,0:11:14.28,0:11:15.36,Default,Sunraku,0,0,0,,Emul?!
+Dialogue: 0,0:11:16.28,0:11:18.37,Default,Sunraku,0,0,0,,{\i1}Ausgerechnet jetzt!
+Dialogue: 0,0:11:22.58,0:11:24.58,Default,Emul,0,0,0,,B-Beruhige dich!
+Dialogue: 0,0:11:25.71,0:11:26.79,Default,Sunraku,0,0,0,,Aha!
+Dialogue: 0,0:11:27.58,0:11:29.54,Default,Pencilgon,0,0,0,,Wo schaust du hin?\NNimmst du mich nicht ernst?
+Dialogue: 0,0:11:31.88,0:11:33.01,Default,Sunraku,0,0,0,,Das sagt die Richtige.
+Dialogue: 0,0:11:38.39,0:11:42.51,Default,Sunraku,0,0,0,,Diejenige, die nicht\NErnst macht, bist doch du!
+Dialogue: 0,0:11:45.02,0:11:47.27,Default,Pencilgon,0,0,0,,Du hast es also bemerkt.
+Dialogue: 0,0:11:47.69,0:11:49.15,Default,Sunraku,0,0,0,,Emul! Komm!
+Dialogue: 0,0:11:51.73,0:11:52.40,Default,Emul,0,0,0,,Jawohl!
+Dialogue: 0,0:11:57.15,0:12:01.16,Default,Animalia,0,0,0,,Warte! Lass mich wenigstens\Neinen Screenshot mit ihr machen!
+Dialogue: 0,0:12:01.53,0:12:05.12,Default,Sunraku,0,0,0,,Wenn ich das unversehrt überstehe,\Ndenke ich drüber nach!
+Dialogue: 0,0:12:05.50,0:12:06.66,Default,Animalia,0,0,0,,Unversehrt …?
+Dialogue: 0,0:12:11.71,0:12:15.21,Default,Pencilgon,0,0,0,,Bei dem Tempo\Nentkommst du mir auf keinen Fall.
+Dialogue: 0,0:12:28.85,0:12:31.31,Default,Animalia,0,0,0,,Der Spieler ist mir egal, …
+Dialogue: 0,0:12:31.77,0:12:35.40,Default,Animalia,0,0,0,,aber da du das\Nsüße Häschen in Gefahr bringst,
+Dialogue: 0,0:12:35.40,0:12:39.41,Default,Animalia,0,0,0,,wirst du hier sterben, Riesentöterin!
+Dialogue: 0,0:12:40.16,0:12:43.78,Default,Sunraku,0,0,0,,{\i1}Okay, sehr gut!\NSie dient mir als Schutzschild!
+Dialogue: 0,0:12:43.78,0:12:48.66,Default,Sunraku,0,0,0,,{\i1}Animalia, richtig?\NSie war ziemlich von Emul eingenommen.
+Dialogue: 0,0:12:49.00,0:12:52.84,Default,Sunraku,0,0,0,,Mann, du bist wirklich\Nein hervorragendes Maskottchen, Emul!
+Dialogue: 0,0:12:52.84,0:12:53.67,Default,Emul,0,0,0,,Hm?
+Dialogue: 0,0:12:54.13,0:12:58.59,Default,Sunraku,0,0,0,,{\i1}Jetzt kann ich in die Stadt und mich\Nper Teleport nach Hasingen bringen lassen.
+Dialogue: 0,0:12:58.59,0:13:00.93,Default,Sunraku,0,0,0,,{\i1}Dort dürfte mich\Nniemand schnappen können.
+Dialogue: 0,0:13:06.81,0:13:09.98,Default,Pencilgon,0,0,0,,Ich bin zwar die einzige Botin, …
+Dialogue: 0,0:13:12.77,0:13:17.40,Default,Pencilgon,0,0,0,,aber ich sagte ja nicht,\Ndass ich allein bin, nicht wahr?
+Dialogue: 0,0:13:17.40,0:13:20.20,Default,Ketchum,0,0,0,,Tss! Ich hasse es,\NLow-Level-Spieler zu töten.
+Dialogue: 0,0:13:20.20,0:13:23.78,Default,Ketchum,0,0,0,,Da gehen meine Karmapunkte\Nimmer durch die Decke.
+Dialogue: 0,0:13:23.78,0:13:26.20,Default,Wrath,0,0,0,,Das gilt auch bei stärkeren Typen.
+Dialogue: 0,0:13:26.20,0:13:29.83,Default,Branch,0,0,0,,Sind nicht deswegen gerade wir\Nzum Vollstreckertrupp gemacht worden?
+Dialogue: 0,0:13:29.83,0:13:33.54,Default,Lemmy,0,0,0,,Wenn du weiter rumnölst,\Nwird Pencilgon dich kaltmachen.
+Dialogue: 0,0:13:33.54,0:13:36.84,Default,Sunraku,0,0,0,,Wilde Player-Killer erscheinen?!
+Dialogue: 0,0:13:36.84,0:13:39.59,Default,Sunraku,0,0,0,,So ein Aufwand\Nfür einen Low-Level-Gegner?!
+Dialogue: 0,0:13:41.26,0:13:44.97,Default,Pencilgon,0,0,0,,Andere aufzuhetzen,\Nist eben meine Spezialität.
+Dialogue: 0,0:13:44.97,0:13:48.10,Default,Pencilgon,0,0,0,,Na ja, aber ich kann gegen\Ndie Direktorin von SF-Zoo kämpfen,
+Dialogue: 0,0:13:48.10,0:13:52.81,Default,Pencilgon,0,0,0,,dem Clan von Monsterfotografen, die kein Stück\Nan anderen Menschen interessiert sind.
+Dialogue: 0,0:13:52.81,0:13:55.44,Default,Pencilgon,0,0,0,,Ich muss Sunraku wirklich danken.
+Dialogue: 0,0:13:59.03,0:14:00.53,Default,Sunraku,0,0,0,,Verdammt!
+Dialogue: 0,0:14:00.53,0:14:03.70,Default,Sunraku,0,0,0,,Macht mir mein Meisterwerk\Nbloß nicht zum Trash-Game!
+Dialogue: 0,0:14:03.70,0:14:05.20,Default,Branch,0,0,0,,Hiyah!
+Dialogue: 0,0:14:09.04,0:14:12.50,Default,Ketchum,0,0,0,,Gib endlich auf und spuck die Infos aus!
+Dialogue: 0,0:14:14.42,0:14:17.75,Default,Sunraku,0,0,0,,Vier Player-Killer? Dann kommt doch!
+Dialogue: 0,0:14:18.13,0:14:21.42,Default,Sunraku,0,0,0,,Ich bin euch ja nur in Level,\NAusrüstung und Statuswerten unterlegen!
+Dialogue: 0,0:14:25.43,0:14:29.18,Default,Animalia,0,0,0,,Nimm … das!
+Dialogue: 0,0:15:03.55,0:15:04.80,Default,Pencilgon,0,0,0,,Wow!
+Dialogue: 0,0:15:04.80,0:15:09.01,Default,Pencilgon,0,0,0,,Du bist eine Schamanin, die voll auf\NDebuffs geht, nur um Monster zu fotografieren.
+Dialogue: 0,0:15:09.35,0:15:11.35,Default,Pencilgon,0,0,0,,{\an8}Du bist mit Statuseffekten übersät.
+Dialogue: 0,0:15:11.81,0:15:15.98,Default,Animalia,0,0,0,,Meine gesamte Magie\Nwurde zurückgeworfen?!
+Dialogue: 0,0:15:15.98,0:15:16.85,Default,Animalia,0,0,0,,Wie?!
+Dialogue: 0,0:15:17.19,0:15:21.57,Default,Pencilgon,0,0,0,,Ein PK-Schamane klebte mir mal\Nregelrecht an den Fersen.
+Dialogue: 0,0:15:21.57,0:15:24.15,Default,Pencilgon,0,0,0,,Ich weiß also,\Ndass eure Magie ziemlich lästig ist.
+Dialogue: 0,0:15:24.15,0:15:26.86,Default,Pencilgon,0,0,0,,Darum hab ich jetzt vorsichtshalber\Nimmer so was hier dabei.
+Dialogue: 0,0:15:26.86,0:15:30.83,Default,Animalia,0,0,0,,Eine „Strohpuppe der Vergeltung“.\NSo was hast du?!
+Dialogue: 0,0:15:31.74,0:15:34.45,Default,Pencilgon,0,0,0,,Sie kontert sämtliche Flüche\Ndurch karmische Vergeltung.
+Dialogue: 0,0:15:34.45,0:15:37.33,Default,Pencilgon,0,0,0,,Ohne die sähe ich jetzt echt alt aus.
+Dialogue: 0,0:15:38.25,0:15:40.00,Default,Pencilgon,0,0,0,,Pech gehabt, was?
+Dialogue: 0,0:15:40.67,0:15:44.26,Default,Pencilgon,0,0,0,,Ich sehe dir wenigstens dabei zu,\Nwie du durch dein eigenes Gift stirbst.
+Dialogue: 0,0:15:59.19,0:16:00.48,Default,Sunraku,0,0,0,,{\i1}Aufs Korn nehme ich
+Dialogue: 0,0:16:00.48,0:16:03.36,Default,Sunraku,0,0,0,,{\i1}den da, der mich\Nnicht ernst zu nehmen scheint.
+Dialogue: 0,0:16:03.36,0:16:07.28,Default,Sunraku,0,0,0,,{\i1}Bei dem Angriffstempo seines Großschwerts\Nkann ich selbst ohne Skills ausweichen.
+Dialogue: 0,0:16:08.32,0:16:11.41,Default,Sunraku,0,0,0,,{\i1}Das Problem sind die krassen Rüstungen\Ndieser High-Level-Spieler.
+Dialogue: 0,0:16:11.41,0:16:13.58,Default,Sunraku,0,0,0,,{\i1}Wie soll ich ihnen Schaden zufügen?
+Dialogue: 0,0:16:14.29,0:16:17.41,Default,Saiga-0,0,0,0,,Zerreißender Angriff:\N„Festungsspalter“!
+Dialogue: 0,0:16:25.05,0:16:27.42,Default,Emul,0,0,0,,W-Was ist das?!
+Dialogue: 0,0:16:29.43,0:16:31.26,Default,Branch,0,0,0,,Mit einem Schlag?!
+Dialogue: 0,0:16:31.26,0:16:33.72,Default,Wrath,0,0,0,,Moment mal! Ist das nicht …
+Dialogue: 0,0:16:34.26,0:16:38.19,Default,Wrath,0,0,0,,der Träger des Titels „Angriffs-Ass“?!
+Dialogue: 0,0:16:39.56,0:16:43.23,Default,Sunraku,0,0,0,,{\i1}Angriffs-Ass? Was ist das denn?
+Dialogue: 0,0:16:43.69,0:16:46.19,Default,Sunraku,0,0,0,,{\i1}Noch einer mehr, der nach Ärger aussieht!
+Dialogue: 0,0:16:47.53,0:16:51.78,Default,Saiga-0,0,0,0,,{\i1}Eine Vogelmaske\Nund Spielername Sunraku.
+Dialogue: 0,0:16:53.49,0:16:54.83,Default,Saiga-0,0,0,0,,{\i1}Endlich.
+Dialogue: 0,0:16:56.04,0:16:58.58,Default,Saiga-0,0,0,0,,{\i1}Endlich sind wir uns begegnet, …
+Dialogue: 0,0:16:59.00,0:17:00.33,Default,Saiga-0,0,0,0,,{\i1}Rakuro!
+Dialogue: 0,0:17:18.43,0:17:23.02,Flashback,Rei,0,0,0,,Rakuro, wo in aller Welt bist du bloß?
+Dialogue: 0,0:17:23.94,0:17:25.65,Flashback,Mana,0,0,0,,Du bist ihm noch nicht begegnet?
+Dialogue: 0,0:17:28.40,0:17:32.95,Flashback,Rei,0,0,0,,Also, nachdem du meintest,\Ndass er sich in jedem Spiel Sunraku nennt,
+Dialogue: 0,0:17:32.95,0:17:36.12,Flashback,Rei,0,0,0,,hab ich überall nach ihm gesucht,\Naber wie es scheint,
+Dialogue: 0,0:17:36.12,0:17:40.50,Flashback,Rei,0,0,0,,ist er weitergekommen,\Nohne in die Tutorial-Stadt zu gehen.
+Dialogue: 0,0:17:40.87,0:17:43.63,Flashback,Mana,0,0,0,,Na ja, aber du wirst ihn bald finden.
+Dialogue: 0,0:17:43.63,0:17:45.75,Flashback,Mana,0,0,0,,Bleib dran, Rei!
+Dialogue: 0,0:17:46.38,0:17:47.59,Flashback,Rei,0,0,0,,Ja …
+Dialogue: 0,0:17:47.59,0:17:49.26,Flashback,Mana,0,0,0,,Und gesteh ihm endlich deine Gefühle.
+Dialogue: 0,0:17:55.97,0:18:02.64,Flashback,Rei,0,0,0,,Mann, ich finde ihn einfach nicht, Mana.
+Dialogue: 0,0:18:08.40,0:18:12.95,Flashback,Rei,0,0,0,,{\i1}Die Spiele, die er mag,\Nsind alle, wie soll ich sagen,
+Dialogue: 0,0:18:13.53,0:18:16.41,Flashback,Rei,0,0,0,,{\i1}wahnsinnig eigentümlich, zäh
+Dialogue: 0,0:18:16.41,0:18:19.41,Flashback,Rei,0,0,0,,{\i1}und für mich zu schwierig.
+Dialogue: 0,0:18:20.33,0:18:24.83,Flashback,Rei,0,0,0,,{\i1}Ich habe kein einziges Spiel gefunden,\Ndas wir zusammen spielen könnten.
+Dialogue: 0,0:18:25.79,0:18:28.30,Flashback,Rei,0,0,0,,{\i1}Aber ShanFro wiederum …
+Dialogue: 0,0:18:29.92,0:18:33.01,Flashback,Rei,0,0,0,,{\i1}Jetzt, wo Rakuro damit angefangen hat,
+Dialogue: 0,0:18:33.01,0:18:36.72,Flashback,Rei,0,0,0,,{\i1}will ich mir diese Chance\Nauf keinen Fall entgehen lassen!
+Dialogue: 0,0:18:51.61,0:18:52.57,Flashback,Saiga-0,0,0,0,,Ein Brief?
+Dialogue: 0,0:18:53.78,0:18:55.32,Flashback,Saiga-0,0,0,0,,Von meiner Schwester?
+Dialogue: 0,0:18:59.62,0:19:00.41,Flashback,Saiga-0,0,0,0,,Was?
+Dialogue: 0,0:19:07.71,0:19:12.63,Flashback,Saiga-100,0,0,0,,{\i1}An Saiga-0: Tut mir leid, aber du musst\Ndeine private Suche bitte unterbrechen.
+Dialogue: 0,0:19:13.22,0:19:15.93,Flashback,Saiga-100,0,0,0,,{\i1}Es gibt da einen Spieler,\Nmit dem ich unbedingt sprechen will,
+Dialogue: 0,0:19:15.93,0:19:18.35,Flashback,Saiga-100,0,0,0,,{\i1}daher möchte ich, dass du ihn findest.
+Dialogue: 0,0:19:18.35,0:19:20.60,Flashback,Alitomo,0,0,0,,War das vielleicht doch nicht so gut?
+Dialogue: 0,0:19:20.60,0:19:25.56,Flashback,Alinoille,0,0,0,,Heimliche Aufnahme, meinten sie.\NIch lösche das Bild mal lieber, oder?
+Dialogue: 0,0:19:26.48,0:19:28.94,Flashback,Saiga-100,0,0,0,,{\i1}Er ist in der Nähe von Sekundir
+Dialogue: 0,0:19:28.94,0:19:32.23,Flashback,Saiga-100,0,0,0,,{\i1}und soll ein Kleidung tragendes,\Nsprechendes Killerkaninchen bei sich haben.
+Dialogue: 0,0:19:32.86,0:19:36.74,Flashback,Saiga-100,0,0,0,,{\i1}Möglicherweise ist er schon\Nauf dem Weg nach Drittlema.
+Dialogue: 0,0:19:37.36,0:19:39.45,Flashback,Saiga-100,0,0,0,,{\i1}Er sieht aus wie auf\Ndem angehängten Bild.
+Dialogue: 0,0:19:40.20,0:19:45.37,Flashback,Saiga-100,0,0,0,,{\i1}Er hat die Starrende Vogelmaske ausgerüstet\Nund trägt Lycaons Mal an Rumpf und Beinen.
+Dialogue: 0,0:19:45.37,0:19:47.29,Flashback,Saiga-100,0,0,0,,{\i1}Sein Spielername lautet:
+Dialogue: 0,0:19:47.29,0:19:48.92,Flashback,Saiga-0,0,0,0,,Sunraku.
+Dialogue: 0,0:20:03.56,0:20:08.65,Flashback,Saiga-100,0,0,0,,{\i1}Es sind bereits einige Clans unterwegs,\Num Kontakt mit ihm aufzunehmen.
+Dialogue: 0,0:20:08.65,0:20:11.69,Flashback,Saiga-100,0,0,0,,{\i1}Darunter auch das\Nberüchtigte Asura-Bündnis.
+Dialogue: 0,0:20:13.44,0:20:14.53,Flashback,Saiga-0,0,0,0,,Da ist er.
+Dialogue: 0,0:20:15.99,0:20:18.95,Flashback,Saiga-100,0,0,0,,{\i1\an8}Die Chance, dass ein\NPvP-Kampf ausbricht, ist extrem hoch.
+Dialogue: 0,0:20:20.20,0:20:21.45,Flashback,Saiga-100,0,0,0,,{\i1\an8}Sei bitte vorsichtig.
+Dialogue: 0,0:20:21.45,0:20:24.83,Flashback,Saiga-0,0,0,0,,Das ist eine einmalige Gelegenheit!
+Dialogue: 0,0:20:24.83,0:20:27.71,Flashback,Saiga-0,0,0,0,,{\i1}Wenn ich ihn als Spielerin\Nvor Player-Killern beschütze,
+Dialogue: 0,0:20:27.71,0:20:31.04,Flashback,Saiga-0,0,0,0,,{\i1}komme ich ganz automatisch\Nmit Rakuro ins Gespräch!
+Dialogue: 0,0:20:31.04,0:20:36.21,Flashback,Saiga-0,0,0,0,,{\i1}Und dann könnte ich früher oder später\Nauch in Echt mit Rakuro interagieren!
+Dialogue: 0,0:20:44.26,0:20:47.39,Flashback,Saiga-0,0,0,0,,Zerreißender Angriff: „Festungsspalter“!
+Dialogue: 0,0:20:50.35,0:20:53.06,Default,Pencilgon,0,0,0,,Die anderen lassen es ja auch krachen.
+Dialogue: 0,0:20:53.06,0:20:57.28,Default,Pencilgon,0,0,0,,Na ja, diese Player-Killer\Nkönnen Sunraku aber wohl kaum besiegen.
+Dialogue: 0,0:21:01.36,0:21:04.12,Default,Pencilgon,0,0,0,,{\i1}Jetzt, da wir in ShanFro\Ngekämpft haben, ist es umso deutlicher.
+Dialogue: 0,0:21:04.95,0:21:06.29,Default,Pencilgon,0,0,0,,{\i1}Sunrakus Skills,
+Dialogue: 0,0:21:06.29,0:21:10.54,Default,Pencilgon,0,0,0,,{\i1}die er in allerlei Trash-Games\Nüber alle Genres hinweg verfeinert hat,
+Dialogue: 0,0:21:10.54,0:21:14.88,Default,Pencilgon,0,0,0,,{\i1}sind mehr wert als einzigartige Items\Noder hochstufige Statuswerte.
+Dialogue: 0,0:21:14.88,0:21:20.34,Default,Pencilgon,0,0,0,,{\i1}Und das ist hier in Shangri-La Frontier\Neine unschätzbare Waffe.
+Dialogue: 0,0:21:21.05,0:21:26.26,Default,Pencilgon,0,0,0,,{\i1}Wie ich höre, hat Katso auch\Nmit ShanFro angefangen. Und mit Sunraku …
+Dialogue: 0,0:21:27.18,0:21:29.60,Default,Pencilgon,0,0,0,,{\i1}ist mein Plan\Ngleich viel realistischer.
+Dialogue: 0,0:21:33.19,0:21:34.27,Default,Pencilgon,0,0,0,,{\i1}Ist das …
+Dialogue: 0,0:21:35.07,0:21:36.48,Default,Pencilgon,0,0,0,,{\i1}Saiga-0?!
+Dialogue: 0,0:21:38.61,0:21:42.53,Default,Pencilgon,0,0,0,,{\i1}Unglaublich, dass nach der Zoo-Direktorin\Nauch noch das Angriffs-Ass angebissen hat!
+Dialogue: 0,0:21:42.53,0:21:46.91,Default,Pencilgon,0,0,0,,Ich bin froh, dass ich gekommen bin,\Num Sunraku zu treffen!
+Dialogue: 0,0:21:47.29,0:21:49.96,Default,Animalia,0,0,0,,Fünf Mal getroffen …
+Dialogue: 0,0:21:53.12,0:21:55.34,Default,Animalia,0,0,0,,Wegen ihrer außergewöhnlichen Wirkung …
+Dialogue: 0,0:21:55.75,0:21:58.46,Default,Animalia,0,0,0,,ist die Anzahl der Debuffs,
+Dialogue: 0,0:21:58.46,0:22:00.34,Default,Animalia,0,0,0,,die reflektiert werden können,
+Dialogue: 0,0:22:00.34,0:22:04.09,Default,Animalia,0,0,0,,pro Strohpuppe der Vergeltung auf fünf begrenzt.
+Dialogue: 0,0:22:07.56,0:22:11.23,Default,Animalia,0,0,0,,Kannst du dich jetzt noch\Nvor meiner Trumpfkarte schützen?
+Dialogue: 0,0:23:52.79,0:23:54.79,Default,Emul,0,0,0,,Karotten sind köstlich!
+Dialogue: 0,0:23:54.79,0:23:58.50,Default,Emul,0,0,0,,Sie sind wirklich das stärkste,\Nunvergleichlichste und beste Essen.
+Dialogue: 0,0:23:58.50,0:24:01.50,Default,Emul,0,0,0,,Geschmack, Kaugefühl, Form, Farbe.
+Dialogue: 0,0:24:01.50,0:24:04.67,Default,Emul,0,0,0,,Karotten sind das perfekte Futter!
+Dialogue: 0,0:24:04.67,0:24:07.22,Default,Emul,0,0,0,,Denkst du nicht auch, Sunrak…?
+Dialogue: 0,0:24:09.22,0:24:12.72,Default,Emul,0,0,0,,S-Sunraku, willst du das alles essen?
+Dialogue: 0,0:24:12.72,0:24:13.56,Default,Sunraku,0,0,0,,Jepp.
+Dialogue: 0,0:24:14.35,0:24:17.10,Default,Sunraku,0,0,0,,Anscheinend gibt es\Neine Geschmacksbegrenzung.
+Dialogue: 0,0:24:17.10,0:24:19.27,Default,Emul,0,0,0,,Geschmacksbegrenzung?
+Dialogue: 0,0:24:19.60,0:24:23.86,Default,Sunraku,0,0,0,,Für NPCs ist das nicht von Belang,\Naber … wie erkläre ich das?
+Dialogue: 0,0:24:23.86,0:24:26.53,Default,Sunraku,0,0,0,,Pioniere haben\Neine eingeschränkte Zunge.
+Dialogue: 0,0:24:26.53,0:24:30.87,Default,Sunraku,0,0,0,,Egal, was sie essen,\Nes schmeckt nur grob süß oder scharf.
+Dialogue: 0,0:24:30.87,0:24:32.74,Default,Sunraku,0,0,0,,Ich hab ein Gerücht gehört,
+Dialogue: 0,0:24:32.74,0:24:36.04,Default,Sunraku,0,0,0,,dass man jede Menge essen soll,\Num das aufzuheben.
+Dialogue: 0,0:24:37.25,0:24:39.83,Default,Emul,0,0,0,,Ah, ach so.
+Dialogue: 0,0:24:39.83,0:24:42.29,Default,Emul,0,0,0,,Pass auf, dass du es nicht übertreibst.
+Dialogue: 0,0:24:42.67,0:24:46.80,Default,Sunraku,0,0,0,,{\i1}Komisch. So viel ich auch esse,\Nam Geschmack ändert sich nichts.
+Dialogue: 0,0:24:47.34,0:24:50.97,Default,Emul,0,0,0,,Die habe ich extra\Naus dem Hasenpalast mitgebracht.
+Dialogue: 0,0:24:54.10,0:24:57.10,Default,Sunraku,0,0,0,,Ich bin richtig neidisch,\Nso gut scheint es dir zu schmecken.
+Dialogue: 0,0:25:11.36,0:25:11.86,Default,Sunraku,0,0,0,,Hä?

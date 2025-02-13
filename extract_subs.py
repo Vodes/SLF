@@ -13,7 +13,7 @@ STRIP_TAGS_REGEX = r'\{[^}]*\}'
 
 REMOVE_HEADERS = [("Original Translation", None), ("Original Editing", None), ("Original Timing", None), ("Synch Point", None), ("Script Updated By", None), ("Update Details", None), ("Timer", None)]
 
-episode = "05"
+episode = "10"
 
 Setup(episode, None, clean_work_dirs=True, debug=False)
 
@@ -46,6 +46,15 @@ def split_into_theater_and_regular(sub: SubFile) -> tuple[SubFile, SubFile]:
     
     return (sub.manipulate_lines(lambda lines: theaterstuff(lines, False)), sub2.manipulate_lines(lambda lines: theaterstuff(lines, True)))
 
+def fix_ep10(sub: SubFile) -> SubFile:
+    def intersting_fax_removal(lines: LINES):
+        for line in lines:
+            if "0.1.2" in line.text:
+                line.text = line.text.replace("fax0.1.2", "fax0.12")
+                info(f"Found sussy fax line: {line.text}")
+    
+    return sub.manipulate_lines(intersting_fax_removal)
+
 if is_preview():
     set_output(FileInfo(premux).src_cut, 0, "Premux")
     cr_src = FileInfo(cr, trim=cr_trim).src_cut.resize.Bicubic(1920, 1080)
@@ -66,9 +75,9 @@ else:
         .restyle(GJM_GANDHI_PRESET)
         .set_headers((ASSHeader.LayoutResX, 1920), (ASSHeader.LayoutResY, 1080), (ASSHeader.YCbCr_Matrix, "TV.709"), *REMOVE_HEADERS)
     )
-    ger = (SubFile.from_mkv(cr, find_tracks(cr, lang="de", type=TrackType.SUB)[0].relative_id)
-        .unfuck_cr(alt_styles=["overlap"])
-        .resample(premux, use_arch=True)
+    ger = SubFile.from_mkv(cr, find_tracks(cr, lang="de", type=TrackType.SUB)[0].relative_id).unfuck_cr(alt_styles=["overlap"])
+    ger = fix_ep10(ger)
+    ger = (ger.resample(premux, use_arch=True)
         .restyle(GJM_GANDHI_PRESET)
         .set_headers((ASSHeader.LayoutResX, 1920), (ASSHeader.LayoutResY, 1080), (ASSHeader.YCbCr_Matrix, "TV.709"), *REMOVE_HEADERS)
         .purge_macrons()

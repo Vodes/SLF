@@ -1,0 +1,288 @@
+﻿[Script Info]
+Title: English (US)
+ScaledBorderAndShadow: yes
+Original Script: kodansha  [http://www.crunchyroll.com/user/kodansha]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+LayoutResX: 1920
+LayoutResY: 1080
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+Style: Flashback,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00013E12,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:34.70,0:01:37.45,Default,Pencilgon,0,0,0,,It's not nice to keep things to yourself.
+Dialogue: 0,0:01:37.45,0:01:40.79,Default,Pencilgon,0,0,0,,Everyone should share in the fun...
+Dialogue: 0,0:01:43.21,0:01:45.54,Default,Pencilgon,0,0,0,,Revolutionary Knight Sunraku-kun.
+Dialogue: 0,0:01:46.04,0:01:48.55,Default,Sunraku,0,0,0,,You've shown your face, Pencil Knight!
+Dialogue: 0,0:01:48.55,0:01:49.71,Default,Pencilgon,0,0,0,,{\an8}Hey, now.
+Dialogue: 0,0:01:49.01,0:01:50.88,Default,Narrator,0,0,0,,"Revolutionary Knight Sunraku."
+Dialogue: 0,0:01:49.71,0:01:51.72,Default,Pencilgon,0,0,0,,{\an8}Don't talk to a supreme beauty like me
+Dialogue: 0,0:01:50.88,0:01:54.55,Default,Narrator,0,0,0,,This title has no meaning in the game of {\i1}SLF{\i0}.
+Dialogue: 0,0:01:52.22,0:01:55.30,Default,Pencilgon,0,0,0,,{\an8}like she's some annoying monster.
+Dialogue: 0,0:01:54.55,0:01:56.30,Default,Narrator,0,0,0,,It's a signifier of a relationship
+Dialogue: 0,0:01:56.30,0:02:00.68,Default,Narrator,0,0,0,,between Sunraku and a certain other \Nplayer in a certain other game.
+Dialogue: 0,0:01:56.76,0:01:58.18,Default,Pencilgon,0,0,0,,{\an8}Besides...
+Dialogue: 0,0:02:00.68,0:02:03.90,Default,Pencilgon,0,0,0,,in {\i1}SLF{\i0}, I'm not Pencil Knight.
+Dialogue: 0,0:02:04.44,0:02:08.61,Default,Pencilgon,0,0,0,,Kindly call me Arthur Pencilgon.
+Dialogue: 0,0:02:18.08,0:02:21.62,Default,Sunraku,0,0,0,,{\an8}My friend in trash gamerhood, \NPencil Knight...
+Dialogue: 0,0:02:21.62,0:02:24.62,Default,Sunraku,0,0,0,,Or should I say... Arthur Pencilgon.
+Dialogue: 0,0:02:31.59,0:02:34.47,Default,Narrator,0,0,0,,In order to discuss her, \Nwe first need to talk
+Dialogue: 0,0:02:35.13,0:02:38.01,Default,Narrator,0,0,0,,about a certain trash game \Nknown as {\i1}Unite Rounds{\i0}.
+Dialogue: 0,0:02:41.97,0:02:44.35,Flashback,NPC Shopkeep,0,0,0,,Take anything you want! Just don't kill me!
+Dialogue: 0,0:02:44.35,0:02:45.90,Flashback,Mob A,0,0,0,,Let's clean the place out!
+Dialogue: 0,0:02:45.90,0:02:47.61,Flashback,Mob A,0,0,0,,If he tries anything, kill him!
+Dialogue: 0,0:02:47.61,0:02:48.61,Flashback,Mob B,0,0,0,,Yeah!
+Dialogue: 0,0:02:50.15,0:02:53.03,Flashback,Mob B,0,0,0,,Hey, this guy's got quite a stash!
+Dialogue: 0,0:02:54.20,0:02:55.74,Flashback,Mob A,0,0,0,,Yeah! What a haul!
+Dialogue: 0,0:02:55.74,0:02:57.53,Flashback,Mob A,0,0,0,,Now, let's split.
+Dialogue: 0,0:02:57.53,0:03:00.87,Flashback,Mob B,0,0,0,,I'm not gonna spend another \Nday on my hands and knees!
+Dialogue: 0,0:03:03.00,0:03:05.08,Flashback,Sunraku,0,0,0,,Nice work getting those items!
+Dialogue: 0,0:03:05.08,0:03:06.92,Flashback,Sunraku,0,0,0,,It's shakedown time.
+Dialogue: 0,0:03:09.96,0:03:13.80,Default,Narrator,0,0,0,,The players called it a \N"Post-Apocalyptic Looting Simulator."
+Dialogue: 0,0:03:14.55,0:03:18.55,Default,Narrator,0,0,0,,The game was originally meant to simulate \Na kingdom on the verge of collapse,
+Dialogue: 0,0:03:18.93,0:03:22.72,Default,Narrator,0,0,0,,with players assuming the role of knights \Nwho protect it from attacking monsters—
+Dialogue: 0,0:03:22.72,0:03:25.44,Default,Narrator,0,0,0,,A co-op MMO VR game.
+Dialogue: 0,0:03:29.06,0:03:34.11,Default,Narrator,0,0,0,,But because of truly garbage design that \Nprioritized faithfulness to the concept,
+Dialogue: 0,0:03:34.11,0:03:36.65,Default,Narrator,0,0,0,,the drop rate was unreasonably low,
+Dialogue: 0,0:03:36.65,0:03:38.99,Default,Narrator,0,0,0,,and precious few players \Ntried to play it "the right way."
+Dialogue: 0,0:03:39.32,0:03:42.99,Flashback,Sunraku,0,0,0,,Even the rocks have a 40% drop rate?!
+Dialogue: 0,0:03:42.99,0:03:46.62,Default,Narrator,0,0,0,,Even the beginner's quest, \N"Gather Medicinal Herbs,"
+Dialogue: 0,0:03:46.62,0:03:52.00,Default,Narrator,0,0,0,,required twelve hours of combing \Nthrough open fields to complete.
+Dialogue: 0,0:03:52.21,0:03:57.01,Default,Narrator,0,0,0,,Naturally, higher grade items \Nwere even harder to find.
+Dialogue: 0,0:03:58.09,0:03:59.68,Default,Narrator,0,0,0,,What were the players to do?
+Dialogue: 0,0:04:00.51,0:04:02.14,Default,Narrator,0,0,0,,The answer was simple:
+Dialogue: 0,0:04:03.10,0:04:04.56,Default,Narrator,0,0,0,,Steal what they needed.
+Dialogue: 0,0:04:05.43,0:04:06.89,Default,Narrator,0,0,0,,"Find medicinal herbs?
+Dialogue: 0,0:04:06.89,0:04:09.98,Default,Narrator,0,0,0,,You expect me to spend hours picking \Nthrough the grass for that crap?
+Dialogue: 0,0:04:09.98,0:04:15.49,Default,Narrator,0,0,0,,I'll just raid an NPC store, \Nor steal them from a player who did."
+Dialogue: 0,0:04:15.49,0:04:18.20,Default,Narrator,0,0,0,,That proved to be the winning \Nmove in {\i0}Unite Rounds{\i1}.
+Dialogue: 0,0:04:22.28,0:04:27.21,Default,Narrator,0,0,0,,In an environment where outrage was \Nrampant and everyone was an enemy,
+Dialogue: 0,0:04:27.21,0:04:30.96,Default,Narrator,0,0,0,,a lone figure arose, \Nfueled by violence and cunning,
+Dialogue: 0,0:04:30.96,0:04:33.59,Default,Narrator,0,0,0,,to take control of the kingdom.
+Dialogue: 0,0:04:36.30,0:04:39.68,Flashback,Pencil Knight,0,0,0,,Let's all share the wealth and drop items!
+Dialogue: 0,0:04:42.18,0:04:43.89,Flashback,Mobs,0,0,0,,The kingdom is ours!
+Dialogue: 0,0:04:43.89,0:04:45.97,Flashback,Mobs,0,0,0,,Comrade Pencil Knight!
+Dialogue: 0,0:04:45.97,0:04:48.94,Flashback,Mobs,0,0,0,,Yeah! Pencil Knight!
+Dialogue: 0,0:04:48.94,0:04:51.31,Default,Narrator,0,0,0,,And thus, the Pencil Kingdom was born.
+Dialogue: 0,0:05:11.33,0:05:12.71,Flashback,Katzo Tataki,0,0,0,,Hey, Sunraku.
+Dialogue: 0,0:05:13.08,0:05:14.63,Flashback,Sunraku,0,0,0,,Yeah, Katzo?
+Dialogue: 0,0:05:15.21,0:05:17.21,Flashback,Sunraku,0,0,0,,Aw, yeah, that's good stuff!
+Dialogue: 0,0:05:17.59,0:05:21.22,Flashback,Katzo Tataki,0,0,0,,Isn't this game about defending \Nthe kingdom from monsters?
+Dialogue: 0,0:05:21.47,0:05:22.72,Flashback,Sunraku,0,0,0,,Is it?
+Dialogue: 0,0:05:22.72,0:05:26.18,Flashback,Sunraku,0,0,0,,I thought it was about defeating \Nthe true big bad, Pencil Knight.
+Dialogue: 0,0:05:26.72,0:05:30.85,Default,Narrator,0,0,0,,Pencil Knight was nothing like the final \Nboss built into the game's story.
+Dialogue: 0,0:05:31.56,0:05:35.15,Default,Narrator,0,0,0,,She would intentionally abuse players\Nwho she didn't allow into her ranks,
+Dialogue: 0,0:05:35.15,0:05:39.24,Default,Narrator,0,0,0,,then use her agents to create\Norganized resistance to oppose her.
+Dialogue: 0,0:05:39.44,0:05:42.20,Default,Narrator,0,0,0,,Thus, she fomented the will to \Nfight back in her victims,
+Dialogue: 0,0:05:42.20,0:05:45.24,Default,Narrator,0,0,0,,preventing them from simply \Ngiving up on the game.
+Dialogue: 0,0:05:46.20,0:05:48.74,Flashback,Sunraku,0,0,0,,Well, shall we get to the assassination?
+Dialogue: 0,0:05:55.08,0:05:58.75,Default,Narrator,0,0,0,,At this time, the game of {\i0}Unite Rounds {\i1}\Nwas completely at the whim of one player,
+Dialogue: 0,0:06:00.38,0:06:06.64,Default,Narrator,0,0,0,,acting under a name she'd picked up \Nat some point—the Dystopian Empress.
+Dialogue: 0,0:06:07.26,0:06:10.14,Flashback,Pencil Knight,0,0,0,,You used the rebel army as a distraction
+Dialogue: 0,0:06:10.14,0:06:13.14,Flashback,Pencil Knight,0,0,0,,to slip a small strike force \Ninto my inner chambers? Nice.
+Dialogue: 0,0:06:14.31,0:06:17.40,Flashback,Sunraku,0,0,0,,You coulda set some more effective traps.
+Dialogue: 0,0:06:17.40,0:06:20.15,Flashback,Katzo Tataki,0,0,0,,They were so easy we broke \Nthrough 'em on the first try!
+Dialogue: 0,0:06:20.53,0:06:22.82,Flashback,Pencil Knight,0,0,0,,Sunraku-kun. Katzo Tataki-kun.
+Dialogue: 0,0:06:23.82,0:06:24.78,Flashback,Pencil Knight,0,0,0,,I'll remember that.
+Dialogue: 0,0:06:25.99,0:06:30.04,Flashback,Pencil Knight,0,0,0,,Something about that goofy smirk \Nof yours really gets on my nerves.
+Dialogue: 0,0:06:33.00,0:06:35.04,Default,Pencil Knight,0,0,0,,It's time for the boss battle.
+Dialogue: 0,0:06:35.04,0:06:38.38,Default,Pencil Knight,0,0,0,,Can you defeat me and become \Nthe Revolutionary Knight?
+Dialogue: 0,0:06:44.13,0:06:45.64,Default,Sunraku,0,0,0,,In other words...
+Dialogue: 0,0:06:45.64,0:06:49.01,Default,Sunraku,0,0,0,,She and I have one hell of a history.
+Dialogue: 0,0:06:49.01,0:06:52.98,Default,Sunraku,0,0,0,,In {\i1}Unite Rounds{\i0}, we fought each other to a draw,\Nwith both of us dying in the end.
+Dialogue: 0,0:06:52.98,0:06:55.39,Default,Sunraku,0,0,0,,And here, we've got a big level gap in play.
+Dialogue: 0,0:07:01.23,0:07:05.82,Default,Pencilgon,0,0,0,,I took the penalty and came all \Nthe way from Fifticia to PK you.
+Dialogue: 0,0:07:05.82,0:07:08.95,Default,Pencilgon,0,0,0,,You must be {\i1}so{\i0} grateful and flattered! \NFeel free to cry!
+Dialogue: 0,0:07:19.38,0:07:22.80,Default,Sunraku,0,0,0,,I'll bet those knives have \Na poison attribute, right?
+Dialogue: 0,0:07:22.80,0:07:26.38,Default,Pencilgon,0,0,0,,They're pretty expensive for \None-use items, you know...
+Dialogue: 0,0:07:29.01,0:07:32.39,Default,Pencilgon,0,0,0,,By the way, Sunraku-kun. \NWhat level are you at?
+Dialogue: 0,0:07:34.10,0:07:38.23,Default,Pencilgon,0,0,0,,If you just beat Mud Digger, \Nyou've got to be around 30, right?
+Dialogue: 0,0:07:38.23,0:07:40.31,Default,Pencilgon,0,0,0,,That's some really impressive dodging, then.
+Dialogue: 0,0:07:40.31,0:07:42.19,Default,Sunraku,0,0,0,,That's the god-tier game factor.
+Dialogue: 0,0:07:42.19,0:07:44.32,Default,Sunraku,0,0,0,,All my moves come nice and smooth.
+Dialogue: 0,0:07:45.19,0:07:47.41,Default,Animalia,0,0,0,,Pencilgon... is she...
+Dialogue: 0,0:07:48.07,0:07:53.04,Default,Animalia,0,0,0,,Second in command of that player \Nkiller clan, Ashura Kai...
+Dialogue: 0,0:07:53.04,0:07:54.75,Default,Animalia,0,0,0,,The Giant Killer?!
+Dialogue: 0,0:07:57.96,0:08:00.92,Default,Emul,0,0,0,,Oh, dear! Oh, dear!
+Dialogue: 0,0:08:00.92,0:08:03.25,Default,Sunraku,0,0,0,,"Giant Killer"?
+Dialogue: 0,0:08:03.50,0:08:06.38,Default,Pencilgon,0,0,0,,I focused on ambushing higher-level players,
+Dialogue: 0,0:08:06.38,0:08:09.30,Default,Pencilgon,0,0,0,,and at some point, \NI just picked up the nickname.
+Dialogue: 0,0:08:09.30,0:08:13.85,Default,Pencilgon,0,0,0,,But the devs nerfed how that works, \Nso it's been a lot harder lately.
+Dialogue: 0,0:08:15.73,0:08:17.64,Default,Sunraku,0,0,0,,Now, hang on a minute...
+Dialogue: 0,0:08:18.14,0:08:22.19,Default,Sunraku,0,0,0,,In that dystopia, {\i1}you{\i0} were the \Ngiant who got yourself killed!
+Dialogue: 0,0:08:22.19,0:08:25.28,Default,Sunraku,0,0,0,,Giants who live in glass houses \Nshouldn't throw boulders!
+Dialogue: 0,0:08:31.74,0:08:34.83,Default,Pencilgon,0,0,0,,That's a clever turn of phrase \Nfor a birdbrain like you!
+Dialogue: 0,0:08:34.83,0:08:37.04,Default,Pencilgon,0,0,0,,You been studying hard lately, huh?
+Dialogue: 0,0:08:38.29,0:08:40.29,Default,Pencilgon,0,0,0,,And don't you talk about that here!
+Dialogue: 0,0:08:40.29,0:08:42.50,Default,Sunraku,0,0,0,,I've got a bird {\i1}head{\i0}, not a bird {\i1}brain{\i0}!
+Dialogue: 0,0:08:42.50,0:08:44.09,Default,Sunraku,0,0,0,,You moron!
+Dialogue: 0,0:08:46.30,0:08:49.22,Default,Animalia,0,0,0,,Wh-What's with those two?
+Dialogue: 0,0:08:50.30,0:08:54.51,Default,Pencilgon,0,0,0,,Matter of fact, I didn't {\i1}just {\i0}\Ncome here for personal reasons!
+Dialogue: 0,0:08:56.52,0:09:01.02,Default,Pencilgon,0,0,0,,The leader of my clan, Ashura Kai, \Nasked me to deliver a message!
+Dialogue: 0,0:09:01.02,0:09:02.35,Default,Sunraku,0,0,0,,A message?!
+Dialogue: 0,0:09:03.19,0:09:06.03,Default,Pencilgon,0,0,0,,"Publish info on the unique scenario,
+Dialogue: 0,0:09:06.03,0:09:09.36,Default,Pencilgon,0,0,0,,or wear a target on your back until you do!"
+Dialogue: 0,0:09:09.78,0:09:12.28,Default,Sunraku,0,0,0,,He's threatening {\i1}me{\i0}?!
+Dialogue: 0,0:09:22.37,0:09:24.08,Default,Sunraku,0,0,0,,Sounds like a real dumbass.
+Dialogue: 0,0:09:25.17,0:09:26.42,Default,Pencilgon,0,0,0,,Oh, he is.
+Dialogue: 0,0:09:38.85,0:09:40.43,Default,Sunraku,0,0,0,,{\i1}Still, what do I do here?
+Dialogue: 0,0:09:40.43,0:09:43.44,Default,Sunraku,0,0,0,,{\i1}There's too big a gap in \Nour equipment and levels.
+Dialogue: 0,0:09:45.98,0:09:50.57,Default,Sunraku,0,0,0,,Still, seems like you're trying hard \Nto keep me away from that gate.
+Dialogue: 0,0:09:50.57,0:09:56.83,Default,Sunraku,0,0,0,,I'll bet you timed that first attack to \Nprevent me from entering the city, too.
+Dialogue: 0,0:09:56.83,0:10:02.41,Default,Sunraku,0,0,0,,Is it that hard for a player killer to do \Ntheir thing in a highly populated town?
+Dialogue: 0,0:10:03.33,0:10:06.96,Default,Pencilgon,0,0,0,,Well... I'd certainly prefer \Nto avoid it if I can.
+Dialogue: 0,0:10:09.21,0:10:12.59,Default,Pencilgon,0,0,0,,Besides, you're {\i1}not{\i0} making \Nit to the gate, are you?
+Dialogue: 0,0:10:20.02,0:10:21.35,Default,Emul,0,0,0,,My tail!
+Dialogue: 0,0:10:21.35,0:10:25.10,Default,Emul,0,0,0,,{\i1}Sunraku-san, I can't hold it any longer!
+Dialogue: 0,0:10:25.35,0:10:28.69,Default,Emul,0,0,0,,{\i1}I'm going to lose my transformed state!
+Dialogue: 0,0:10:32.19,0:10:36.74,Default,Animalia,0,0,0,,{\i1}Darn it! I found him first!
+Dialogue: 0,0:10:36.74,0:10:40.33,Default,Animalia,0,0,0,,{\i1}But... he's fighting the \Ninfamous Giant Killer...
+Dialogue: 0,0:10:40.74,0:10:42.96,Default,Animalia,0,0,0,,{\i1}Oh, wait! I can ask his companion...
+Dialogue: 0,0:10:47.04,0:10:51.63,Default,Animalia,0,0,0,,{\i1}Eh? Was she always wearing \Nthose tail and ear accessories?
+Dialogue: 0,0:10:52.38,0:10:54.01,Default,Animalia,0,0,0,,Hey, can I ask you—
+Dialogue: 0,0:10:57.51,0:10:59.56,Default,Animalia,0,0,0,,Wh-What the...
+Dialogue: 0,0:11:14.32,0:11:15.36,Default,Sunraku,0,0,0,,Emul!
+Dialogue: 0,0:11:16.28,0:11:17.95,Default,Sunraku,0,0,0,,{\i1}At the worst possible moment!
+Dialogue: 0,0:11:22.20,0:11:24.58,Default,Emul,0,0,0,,P-Please, calm yourself!
+Dialogue: 0,0:11:25.66,0:11:26.79,Default,Sunraku,0,0,0,,That's it!
+Dialogue: 0,0:11:27.54,0:11:29.54,Default,Pencilgon,0,0,0,,Getting distracted? I'm not \Nenough of an opponent for you?
+Dialogue: 0,0:11:31.71,0:11:33.01,Default,Sunraku,0,0,0,,Yeah, right!
+Dialogue: 0,0:11:38.39,0:11:42.14,Default,Sunraku,0,0,0,,{\i1}You're{\i0} the one going easy on {\i1}me{\i0}!
+Dialogue: 0,0:11:45.02,0:11:47.27,Default,Pencilgon,0,0,0,,Figured it out, did you?
+Dialogue: 0,0:11:47.77,0:11:49.15,Default,Sunraku,0,0,0,,Emul! C'mere!
+Dialogue: 0,0:11:51.77,0:11:52.40,Default,Emul,0,0,0,,On my way!
+Dialogue: 0,0:11:57.15,0:11:58.36,Default,Animalia,0,0,0,,W-Wait!
+Dialogue: 0,0:11:58.36,0:12:01.16,Default,Animalia,0,0,0,,At least let me get a screenshot with her!
+Dialogue: 0,0:12:01.45,0:12:04.62,Default,Sunraku,0,0,0,,If we survive this, I'll think about it!
+Dialogue: 0,0:12:05.41,0:12:06.54,Default,Animalia,0,0,0,,"Survive"?
+Dialogue: 0,0:12:11.63,0:12:15.05,Default,Pencilgon,0,0,0,,You're not fast enough to get away from me.
+Dialogue: 0,0:12:28.85,0:12:31.31,Default,Animalia,0,0,0,,I don't give a damn about that player...
+Dialogue: 0,0:12:31.69,0:12:34.90,Default,Animalia,0,0,0,,But if you're gonna put that \Nsweet little bunny in danger...
+Dialogue: 0,0:12:35.40,0:12:39.32,Default,Animalia,0,0,0,,I'll slay you where you stand, Giant Killer!
+Dialogue: 0,0:12:40.16,0:12:41.87,Default,Sunraku,0,0,0,,{\i1}Yes, nice one!
+Dialogue: 0,0:12:41.87,0:12:43.74,Default,Sunraku,0,0,0,,{\i1}I got her to put herself \Nin harm's way for me!
+Dialogue: 0,0:12:43.74,0:12:45.62,Default,Sunraku,0,0,0,,{\i1}Animalia, was it?
+Dialogue: 0,0:12:45.62,0:12:48.66,Default,Sunraku,0,0,0,,{\i1}I could tell she was \Npretty hung up on Emul...
+Dialogue: 0,0:12:49.04,0:12:53.17,Default,Sunraku,0,0,0,,Boy, you make a great mascot, too, Emul!
+Dialogue: 0,0:12:54.21,0:12:58.59,Default,Sunraku,0,0,0,,{\i1}Now I just need to get into town and have \Nher make me a teleport gate to Rabituza!
+Dialogue: 0,0:12:58.59,0:13:00.93,Default,Sunraku,0,0,0,,{\i1}No one should be able to track me there!
+Dialogue: 0,0:13:06.85,0:13:09.98,Default,Pencilgon,0,0,0,,I'm the only one serving as {\i1}messenger{\i0}...
+Dialogue: 0,0:13:12.73,0:13:17.40,Default,Pencilgon,0,0,0,,But I never said I came here alone.
+Dialogue: 0,0:13:17.40,0:13:23.78,Default,Ketchum,0,0,0,,Man, I hate PKing low-level scrubs. \NIt's hell on your karma points.
+Dialogue: 0,0:13:23.78,0:13:26.20,Default,Lass,0,0,0,,Our bosses feel the same way.
+Dialogue: 0,0:13:26.20,0:13:29.83,Default,Branch,0,0,0,,That's why they send us \Nto do their dirty work.
+Dialogue: 0,0:13:30.08,0:13:31.42,Default,Remy,0,0,0,,Stop complaining.
+Dialogue: 0,0:13:31.42,0:13:33.54,Default,Remy,0,0,0,,You wanna get PKed by Pencilgon-san?
+Dialogue: 0,0:13:33.54,0:13:36.84,Default,Sunraku,0,0,0,,A wild player killer appears, huh?!
+Dialogue: 0,0:13:37.25,0:13:39.55,Default,Sunraku,0,0,0,,You're going this far \Nagainst a low-level player?
+Dialogue: 0,0:13:41.30,0:13:44.97,Default,Pencilgon,0,0,0,,Well, delegation {\i1}is{\i0} my usual MO...
+Dialogue: 0,0:13:44.97,0:13:49.52,Default,Pencilgon,0,0,0,,Still, now I get to fight \Nthe keeper of SF-Zoo,
+Dialogue: 0,0:13:49.52,0:13:52.77,Default,Pencilgon,0,0,0,,a monster documenter clan with \Nno interest in other players?
+Dialogue: 0,0:13:52.77,0:13:55.40,Default,Pencilgon,0,0,0,,I've really got to thank you, Sunraku-kun!
+Dialogue: 0,0:13:59.03,0:14:00.11,Default,Sunraku,0,0,0,,Damn it!
+Dialogue: 0,0:14:00.61,0:14:03.70,Default,Sunraku,0,0,0,,This god-tier game doesn't \Nneed a trash game arc!
+Dialogue: 0,0:14:08.91,0:14:12.37,Default,Ketchum,0,0,0,,I'm gonna make you cough up that info!
+Dialogue: 0,0:14:14.42,0:14:16.21,Default,Sunraku,0,0,0,,Four PKers.
+Dialogue: 0,0:14:16.21,0:14:17.75,Default,Sunraku,0,0,0,,Bring it on!
+Dialogue: 0,0:14:18.05,0:14:21.42,Default,Sunraku,0,0,0,,I mean, you've only got me beat \Nin level, equipment, and stats!
+Dialogue: 0,0:14:25.43,0:14:29.18,Default,Animalia,0,0,0,,Take... this!
+Dialogue: 0,0:15:03.30,0:15:04.84,Default,Pencilgon,0,0,0,,Wow!
+Dialogue: 0,0:15:04.84,0:15:09.01,Default,Pencilgon,0,0,0,,You work hard on your shaman debuffs to \Nhelp you record monster footage, right?
+Dialogue: 0,0:15:09.30,0:15:11.35,Default,Pencilgon,0,0,0,,{\an8}Look at all those status ailments!
+Dialogue: 0,0:15:12.10,0:15:15.94,Default,Animalia,0,0,0,,You reflected all my curses?
+Dialogue: 0,0:15:15.94,0:15:16.85,Default,Animalia,0,0,0,,How?!
+Dialogue: 0,0:15:17.15,0:15:21.53,Default,Pencilgon,0,0,0,,There was this shaman PK killer who \Nwould just {\i1}not{\i0} leave me alone...
+Dialogue: 0,0:15:21.53,0:15:24.19,Default,Pencilgon,0,0,0,,So I know how scary curses can be.
+Dialogue: 0,0:15:24.19,0:15:26.86,Default,Pencilgon,0,0,0,,That's why I carry this around, just in case.
+Dialogue: 0,0:15:26.86,0:15:30.87,Default,Animalia,0,0,0,,{\an8}A Karmic Straw Doll?!
+Dialogue: 0,0:15:31.74,0:15:34.54,Default,Pencilgon,0,0,0,,Counters all curses with karmic retribution!
+Dialogue: 0,0:15:34.54,0:15:37.33,Default,Pencilgon,0,0,0,,I'd have really been in trouble without it.
+Dialogue: 0,0:15:38.17,0:15:40.38,Default,Pencilgon,0,0,0,,Sorry about the rotten luck.
+Dialogue: 0,0:15:40.67,0:15:44.26,Default,Pencilgon,0,0,0,,Don't worry. I'll stick around to \Nwatch you die of your own poison.
+Dialogue: 0,0:15:59.06,0:16:03.23,Default,Sunraku,0,0,0,,{\i1}My best target is that jerk \Nwho thinks I'm a scrub.
+Dialogue: 0,0:16:03.23,0:16:05.74,Default,Sunraku,0,0,0,,{\i1}With a slow weapon like that longsword,
+Dialogue: 0,0:16:05.74,0:16:07.28,Default,Sunraku,0,0,0,,{\i1}I don't even need skills \Nto dodge his attacks.
+Dialogue: 0,0:16:08.07,0:16:11.37,Default,Sunraku,0,0,0,,{\i1}The real question is, how do \NI damage high-level players
+Dialogue: 0,0:16:11.37,0:16:13.66,Default,Sunraku,0,0,0,,{\i1}decked out in top-tier armor?
+Dialogue: 0,0:16:14.29,0:16:17.41,Default,Psyger-0,0,0,0,,Severing attack! Rook-smasher!
+Dialogue: 0,0:16:24.92,0:16:27.42,Default,Emul,0,0,0,,Wh-What in the world?!
+Dialogue: 0,0:16:29.64,0:16:31.26,Default,Branch,0,0,0,,A one-hit kill?!
+Dialogue: 0,0:16:31.26,0:16:33.72,Default,Lass,0,0,0,,Hang on a minute. Is that...
+Dialogue: 0,0:16:34.26,0:16:38.06,Default,Lass,0,0,0,,The unparalleled firepower \Nof the Attack Master?!
+Dialogue: 0,0:16:39.65,0:16:42.81,Default,Sunraku,0,0,0,,"Attack Master"? What the hell is that?
+Dialogue: 0,0:16:43.57,0:16:46.19,Default,Sunraku,0,0,0,,As if I didn't have enough problems here!
+Dialogue: 0,0:16:47.49,0:16:49.28,Default,Psyger-0,0,0,0,,A bird head mask.
+Dialogue: 0,0:16:49.28,0:16:51.74,Default,Psyger-0,0,0,0,,Character name: Sunraku.
+Dialogue: 0,0:16:53.53,0:16:54.83,Default,Psyger-0,0,0,0,,At last...
+Dialogue: 0,0:16:56.04,0:16:58.58,Default,Psyger-0,0,0,0,,At last I've found you,
+Dialogue: 0,0:16:59.04,0:17:00.21,Default,Psyger-0,0,0,0,,Hizutome-kun!
+Dialogue: 0,0:17:18.43,0:17:20.06,Flashback,Rei,0,0,0,,Hizutome-kun.
+Dialogue: 0,0:17:20.56,0:17:22.60,Flashback,Rei,0,0,0,,Where could he be?
+Dialogue: 0,0:17:23.86,0:17:25.69,Flashback,Mana,0,0,0,,You still haven't found him?
+Dialogue: 0,0:17:28.40,0:17:32.91,Flashback,Rei,0,0,0,,Well, you said he always plays as "Sunraku,"
+Dialogue: 0,0:17:32.91,0:17:36.08,Flashback,Rei,0,0,0,,so I've been looking for \Nhim under that name...
+Dialogue: 0,0:17:36.08,0:17:40.50,Flashback,Rei,0,0,0,,But he seems to have skipped the \Nfirst tutorial city entirely...
+Dialogue: 0,0:17:40.83,0:17:43.54,Flashback,Mana,0,0,0,,I'm sure you'll find him soon.
+Dialogue: 0,0:17:43.54,0:17:45.75,Flashback,Mana,0,0,0,,Keep going, Rei-chan!
+Dialogue: 0,0:17:46.30,0:17:47.59,Flashback,Rei,0,0,0,,Okay...
+Dialogue: 0,0:17:47.59,0:17:49.26,Flashback,Mana,0,0,0,,Then tell him how you feel.
+Dialogue: 0,0:17:57.64,0:18:01.85,Flashback,Rei,0,0,0,,I still can't find him anywhere, Mana-san!
+Dialogue: 0,0:18:08.48,0:18:12.95,Flashback,Rei,0,0,0,,{\i1}The games he likes are so... like...
+Dialogue: 0,0:18:13.45,0:18:15.99,Flashback,Rei,0,0,0,,{\an8\i1}So unusual and difficult.
+Dialogue: 0,0:18:16.45,0:18:19.33,Flashback,Rei,0,0,0,,{\an8\i1}They're all too hard for me.
+Dialogue: 0,0:18:20.16,0:18:24.79,Flashback,Rei,0,0,0,,{\i1}I could never find a game \Nthat I could play with him.
+Dialogue: 0,0:18:25.88,0:18:28.25,Flashback,Rei,0,0,0,,{\i1}But with {\i0}SLF{\i1}...
+Dialogue: 0,0:18:29.96,0:18:32.76,Flashback,Rei,0,0,0,,{\i1}We've got Hizutome-kun playing it.
+Dialogue: 0,0:18:33.09,0:18:36.47,Flashback,Rei,0,0,0,,{\i1}I won't let this chance get away!
+Dialogue: 0,0:18:51.57,0:18:52.65,Flashback,Psyger-0,0,0,0,,{\an8}Mail?
+Dialogue: 0,0:18:53.95,0:18:55.32,Flashback,Psyger-0,0,0,0,,From my sister?
+Dialogue: 0,0:18:59.66,0:19:00.41,Flashback,Psyger-0,0,0,0,,What?!
+Dialogue: 0,0:19:07.67,0:19:08.63,Flashback,Psyger-100,0,0,0,,{\i1}Dear Psyger-0,
+Dialogue: 0,0:19:09.59,0:19:12.59,Flashback,Psyger-100,0,0,0,,{\i1}Sorry, but I need you to pause \Nyour private player hunt.
+Dialogue: 0,0:19:13.17,0:19:16.01,Flashback,Psyger-100,0,0,0,,{\i1}There's a player I really need to talk to.
+Dialogue: 0,0:19:16.01,0:19:18.35,Flashback,Psyger-100,0,0,0,,{\i1}Can you find him for me?
+Dialogue: 0,0:19:18.35,0:19:20.43,Flashback,Aritomo,0,0,0,,This seems really bad.
+Dialogue: 0,0:19:20.43,0:19:22.47,Flashback,Alinoiyu,0,0,0,,They said taking pictures \Nis against the rules...
+Dialogue: 0,0:19:22.89,0:19:25.56,Flashback,Alinoiyu,0,0,0,,I guess I should probably delete it, right?
+Dialogue: 0,0:19:26.65,0:19:28.69,Flashback,Psyger-100,0,0,0,,{\i1}He was last sighted near Secondale.
+Dialogue: 0,0:19:29.02,0:19:32.28,Flashback,Psyger-100,0,0,0,,{\i1}He seems to have a talking, \Nclothed Vorpal Bunny with him.
+Dialogue: 0,0:19:32.86,0:19:36.61,Flashback,Psyger-100,0,0,0,,{\i1}He might already be en route to Thirdrema.
+Dialogue: 0,0:19:37.49,0:19:39.45,Flashback,Psyger-100,0,0,0,,{\i1}I've attached a picture with him in it.
+Dialogue: 0,0:19:40.20,0:19:42.29,Flashback,Psyger-100,0,0,0,,{\i1}He's equipped with a Staring Bird Mask,
+Dialogue: 0,0:19:42.29,0:19:45.00,Flashback,Psyger-100,0,0,0,,{\i1}and his legs and torso bear Lycagon's Mark.
+Dialogue: 0,0:19:45.41,0:19:46.83,Flashback,Psyger-100,0,0,0,,{\i1}His name is...
+Dialogue: 0,0:19:47.50,0:19:48.83,Flashback,Psyger-0,0,0,0,,Sunraku.
+Dialogue: 0,0:20:03.64,0:20:08.27,Flashback,Psyger-100,0,0,0,,{\i1}A number of clans are already \Narranging to make contact with him.
+Dialogue: 0,0:20:08.65,0:20:11.69,Flashback,Psyger-100,0,0,0,,{\i1}Ashura Kai is among them.
+Dialogue: 0,0:20:13.32,0:20:14.48,Flashback,Psyger-0,0,0,0,,I found you.
+Dialogue: 0,0:20:16.11,0:20:19.28,Flashback,Psyger-100,0,0,0,,{\i1\an8}There's a very good chance \Nhe's already engaged in PvP.
+Dialogue: 0,0:20:20.16,0:20:21.45,Flashback,Psyger-100,0,0,0,,{\i1}Be careful.
+Dialogue: 0,0:20:21.45,0:20:24.79,Flashback,Psyger-0,0,0,0,,I won't get a chance like this again!
+Dialogue: 0,0:20:24.79,0:20:30.25,Flashback,Psyger-0,0,0,0,,If I can save him from PKers, \NI'll have a natural "in" to talk to him!
+Dialogue: 0,0:20:31.25,0:20:32.92,Flashback,Psyger-0,0,0,0,,Then some day...
+Dialogue: 0,0:20:33.46,0:20:36.21,Flashback,Psyger-0,0,0,0,,I'll be able to talk to him IRL, too!
+Dialogue: 0,0:20:44.56,0:20:47.39,Flashback,Psyger-0,0,0,0,,Severing attack! Rook-smasher!
+Dialogue: 0,0:20:50.35,0:20:52.90,Default,Pencilgon,0,0,0,,{\i1}Things are getting intense over there, too.
+Dialogue: 0,0:20:52.90,0:20:57.28,Default,Pencilgon,0,0,0,,{\i1}Though, those PKers may not \Nbe able to beat Sunraku-kun...
+Dialogue: 0,0:21:01.28,0:21:04.12,Default,Pencilgon,0,0,0,,{\i1}Fighting him in {\i0}SLF{\i1} has \Nmade it even more clear...
+Dialogue: 0,0:21:04.95,0:21:10.29,Default,Pencilgon,0,0,0,,{\i1}The skills he's built up playing \Nterrible games in all genres
+Dialogue: 0,0:21:10.67,0:21:14.88,Default,Pencilgon,0,0,0,,{\i1}are more valuable than unique \Nitems and high-level stats.
+Dialogue: 0,0:21:14.88,0:21:19.67,Default,Pencilgon,0,0,0,,{\i1}And that's a huge asset here \Nin {\i1}Shangri-La Frontier{\i0}.
+Dialogue: 0,0:21:21.09,0:21:24.18,Default,Pencilgon,0,0,0,,{\i1}I hear Katzo-kun's playing {\i0}SLF{\i1}, as well.
+Dialogue: 0,0:21:24.18,0:21:26.14,Default,Pencilgon,0,0,0,,{\i1}So with Sunraku-kun...
+Dialogue: 0,0:21:27.18,0:21:29.52,Default,Pencilgon,0,0,0,,{\i1}That project of mine is \Nlooking more possible.
+Dialogue: 0,0:21:32.94,0:21:34.27,Default,Pencilgon,0,0,0,,{\i1}Is that...
+Dialogue: 0,0:21:34.94,0:21:36.27,Default,Pencilgon,0,0,0,,{\i1}Psyger-0?!
+Dialogue: 0,0:21:38.78,0:21:42.53,Default,Pencilgon,0,0,0,,{\i1}First he lured in the Zookeeper, \Nnow the Attack Master?!
+Dialogue: 0,0:21:42.74,0:21:46.91,Default,Pencilgon,0,0,0,,I'm so glad I came to see you, Sunraku-kun!
+Dialogue: 0,0:21:47.37,0:21:49.75,Default,Animalia,0,0,0,,I hit you with five spells.
+Dialogue: 0,0:21:53.17,0:21:57.96,Default,Animalia,0,0,0,,"Karmic Straw Doll" is extremely powerful,
+Dialogue: 0,0:21:58.55,0:22:04.09,Default,Animalia,0,0,0,,so each doll tops out at \Nreflecting five debuffs.
+Dialogue: 0,0:22:07.51,0:22:11.14,Default,Animalia,0,0,0,,Can you counter my final hand?!

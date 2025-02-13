@@ -1,0 +1,144 @@
+﻿[Script Info]
+Title: Deutsch
+ScaledBorderAndShadow: yes
+Original Script: cr_de  [http://www.crunchyroll.com/user/cr_de]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+LayoutResX: 1920
+LayoutResY: 1080
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: TypePlaceholder,Arial,60,&H00FFFFFF,&H000000FF,&H00000000,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,6,0,8,30,30,60,1
+Style: TypePlaceholderBox,Arial Bold,66,&H00200960,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,3,6,0,8,30,30,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:02:12.32,0:02:17.99,TypePlaceholder,,0,0,0,,{\an1\fnGeorgia Bold\shad6\fs-11\b1\fsp3\c&HC9961F&\4c&HFFFFFF&\bord3.6\fad(122,0)\3c&HFFFFFD&\pos(267.78,851.82)}Überbleibsel {\fnTahoma\c&HFFFFFF&\4c&HC9961F&\bord0}des {\alpha&HFF&\t(289,581,\alpha&H00&)}Göttlichen Zeitalters,\N{\alpha&HFF&\t(623,790,\alpha&H00&)}wahnsinniger {\fnGeorgia Bold\bord3.6\c&HC9961F&\4c&HFFFFFF&\alpha&HFF&\t(915,1165,\alpha&H00&)}Verlierer
+Dialogue: 0,0:04:37.67,0:04:40.30,TypePlaceholder,,0,0,0,,{\fnImpact\fsp6\fax-0.3\bord3.9\fs+2\c&HC1AD23&\3c&HFFFFFF&\t(0,0,\fscx115\fscy115)\move(1180.5,87,1233,166.5,23,2609)}Saiga-0
+Dialogue: 0,0:05:04.58,0:05:04.78,TypePlaceholderBox,,0,0,0,,{\fnTahoma\fs-3\bord9\c&HBEFDF9&\3c&HBB0D91&\t(0,0,\fscx110\fscy110)\move(430.5,277.5,432,262.5,34,201)}\hGift\h
+Dialogue: 0,0:05:04.58,0:05:04.78,TypePlaceholderBox,,0,0,0,,{\fnTahoma\fs-3\bord9\c&HBEFDF9&\3c&H229CB5&\t(0,0,\fscx110\fscy110)\move(597,277.5,615,262.5,34,201)}\hLähmung\h
+Dialogue: 0,0:05:04.58,0:05:04.78,TypePlaceholderBox,,0,0,0,,{\fnTahoma\fs-3\bord9\c&HDDE4EC&\3c&HD54E70&\t(0,0,\fscx110\fscy110)\move(847.5,277.5,885,261,34,201)}\hEntkräftung\h
+Dialogue: 0,0:05:04.58,0:05:04.78,TypePlaceholderBox,,0,0,0,,{\fnTahoma\fs-3\bord9\c&HCDDAE5&\3c&H8107B0&\t(0,0,\fscx110\fscy110)\move(1125,277.5,1185,261,34,201)}\hErschöpfung\h
+Dialogue: 0,0:05:04.58,0:05:04.78,TypePlaceholderBox,,0,0,0,,{\fnTahoma\fs-3\bord9\c&HCDDAE5&\3c&H319449&\t(0,0,\fscx110\fscy110)\move(1371,277.5,1447.5,261,34,201)}\hAgilität↓\h
+Dialogue: 0,0:05:04.78,0:05:09.08,TypePlaceholderBox,,0,0,0,,{\fnTahoma\fs-3\bord9\c&HBEFDF9&\3c&HBB0D91&\fscx110\fscy110\move(432,262.5,441,262.5,23,440)}\hGift\h
+Dialogue: 0,0:05:04.78,0:05:09.08,TypePlaceholderBox,,0,0,0,,{\fnTahoma\fs-3\bord9\c&HBEFDF9&\3c&H229CB5&\fscx110\fscy110\move(615,262.5,630,262.5,23,440)}\hLähmung\h
+Dialogue: 0,0:05:04.78,0:05:09.08,TypePlaceholderBox,,0,0,0,,{\fnTahoma\fs-3\bord9\c&HDDE4EC&\3c&HD54E70&\fscx110\fscy110\move(885,261,891,261,23,440)}\hEntkräftung\h
+Dialogue: 0,0:05:04.78,0:05:09.08,TypePlaceholderBox,,0,0,0,,{\fnTahoma\fs-3\bord9\c&HDDE4EC&\3c&H8107B0&\fscx110\fscy110\move(1189.5,259.5,1194,261,23,440)}\hErschöpfung\h
+Dialogue: 0,0:05:04.78,0:05:09.08,TypePlaceholderBox,,0,0,0,,{\fnTahoma\fs-3\bord9\c&HD6D8E9&\3c&H319449&\fscx110\fscy110\move(1453.5,259.5,1458,261,23,440)}\hAgilität↓\h
+Dialogue: 1,0:05:19.51,0:05:22.93,TypePlaceholder,,0,0,0,,{\fnImpact\b0\bord19.5\fsp6\fad(160,0)\an1\fs+3\fax-0.3\c&HFCC630&\3c&H0E1916&\frz20.54\pos(634.5,393)}Weggefährte ins Jenseits
+Dialogue: 2,0:05:19.51,0:05:22.93,TypePlaceholder,,0,0,0,,{\fnImpact\b0\bord7.5\fsp6\fad(160,0)\an1\fs+3\fax-0.3\c&HF59820&\3c&HFDFEF6&\t(242,243,\c&HFEFEFA&\3c&HEEEC60&\blur6)\t(368,493,\blur0\c&HF6BA2D&\3cHFDFEF6&)\frz20.54\pos(634.5,393)}Weggefährte ins Jenseits
+Dialogue: 0,0:06:15.98,0:06:18.48,TypePlaceholder,,0,0,0,,{\fnImpact\fsp6\fs+2\bord4.5\an2\fax-0.3\pos(672,136.5)\c&HC4A21E&\3c&HFFFFFF&}Saiga-0
+Dialogue: 0,0:07:31.06,0:07:32.18,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\fsp6\c&HFEFEF7&\fad(0,460)\3c&HA99A25&\pos(967.5,981)}Gasthaus Hasingen
+Dialogue: 1,0:08:10.47,0:08:16.98,TypePlaceholder,,0,0,0,,{\p1\c&HEFF8F8&\3c&HA2998F&\pos(1491,30)}m 0 0 l 810 0 l 810 645 l 0 645
+Dialogue: 2,0:08:10.47,0:08:16.98,TypePlaceholder,,0,0,0,,{\fnTahoma\b0\bord0\c&H90989D&\fs-3\an7\pos(1096.92,36)}Von: Pencil Warrior\NAn: Sunraku\N\NDeine Gegner waren zwar kleine Fische, aber\Ndennoch konntest du hochstufigen Spielern\Nentkommen.\N\NIch bin letztendlich durch eine Selbstzerstörung\Ngestorben, ist also nicht so, dass ich verloren hätte.\N\NKaum zu glauben, dass das Angriffs-Ass dir zu Hilfe\Ngeeilt ist. Kennst du ihn?\N\NNa ja, wie auch immer.\NIch will was besprechen, also lass uns in Unite\NRounds treffen. Ich sag auch Katso Bescheid.\NDie Zeit machen wir später aus.
+Dialogue: 1,0:08:52.97,0:09:01.85,TypePlaceholder,,0,0,0,,{\p1\c&HF0F8FB&\3c&HCBCBE8&\pos(443.73,34.35)}m 0 0 l 810 0 l 810 390 l 0 390
+Dialogue: 2,0:08:52.97,0:09:01.85,TypePlaceholder,,0,0,0,,{\fnTahoma\b0\bord0\c&H82888B&\fs-3\an7\pos(49.65,40.35)}Von: ModoruKatso\NAn: Sunraku\N\NIch hab gerade eine Einladung von Pencil\Nbekommen, die eindeutig nach Intrige riecht.\NWas hast du angestellt?\N\NKlingt aber irgendwie interessant. Man kann sich\Nja mal anhören, was sie zu sagen hat.\NDu kneifst doch sicher nicht, oder?
+Dialogue: 0,0:09:55.66,0:09:59.62,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\fsp6\c&HFEFEF7&\fs+2\fad(486,0)\3c&HA99A25&\pos(966.42,575.19)}Killerkolosseum
+Dialogue: 1,0:11:06.65,0:11:16.03,TypePlaceholder,,0,0,0,,{\p1\c&HB8B6B7&\3c&H181818&\an2\pos(964.5,954)}m 0 0 l 825 0 l 825 225 l 0 225
+Dialogue: 2,0:11:06.65,0:11:16.03,TypePlaceholder,,0,0,0,,{\p1\c&H1701BD&\bord0\3c&H000000&\an2\pos(964.5,907.5)}m 0 0 l 825 0 l 825 105 l 0 105
+Dialogue: 3,0:11:06.65,0:11:16.03,TypePlaceholder,,0,0,0,,{\fnTahoma\bord0\c&H000000&\fs-2\pos(964.5,738)}Praktisches Kampftraining, 1. Monster
+Dialogue: 3,0:11:06.65,0:11:16.03,TypePlaceholder,,0,0,0,,{\fnTahoma\bord0\fs+3\c&H000000&\pos(964.5,816)}Überzahl-Jagdhunde
+Dialogue: 3,0:11:06.65,0:11:16.03,TypePlaceholder,,0,0,0,,{\fnTahoma\bord0\b0\c&H473A75&\fs-4\pos(964.5,912)}Erscheinen immer in Rudeln von mehr als fünf.
+Dialogue: 0,0:11:13.11,0:11:16.03,TypePlaceholder,,0,0,0,,{\p1\c&H181818&\3c&H181818&\an2\pos(964.5,1026)}m 0 0 l 825 0 l 825 225 l 0 225
+Dialogue: 0,0:11:13.11,0:11:16.03,TypePlaceholder,,0,0,0,,{\fnTahoma\b0\bord0\pos(964.5,961.5)}Durchschnittliches Level: {\fnImpact\fsp6}65
+Dialogue: 0,0:11:40.01,0:11:43.52,TypePlaceholder,,0,0,0,,{\fnGeorgia bold\i1\fs-2\c&H151613&\an2\bord0\fad(0,0)\frz3.219\pos(949.5,1005)}Stetiger\NFortschritt
+Dialogue: 1,0:13:50.02,0:13:52.44,TypePlaceholder,,0,0,0,,{\fnImpact\b0\bord19.5\fsp6\fad(160,300)\an1\fs+3\fax-0.3\c&HFCC630&\3c&H0E1916&\pos(345,942)\frz22.36}Spiralschneide
+Dialogue: 2,0:13:50.02,0:13:52.44,TypePlaceholder,,0,0,0,,{\fnImpact\b0\bord7.5\fsp6\fad(160,300)\an1\fs+3\fax-0.3\c&HF59820&\3c&HFDFEF6&\t(242,243,\c&HFEFEFA&\3c&HEEEC60&\blur6)\t(368,493,\blur0\c&HF6BA2D&\3cHFDFEF6&)\pos(345,942)\frz22.36}Spiralschneide
+Dialogue: 1,0:14:40.48,0:14:46.24,TypePlaceholder,,0,0,0,,{\p1\c&HFFFFFF&\3c&H181818&\1a&H60&\an2\pos(484.5,282)}m 0 0 l 825 0 l 825 225 l 0 225
+Dialogue: 2,0:14:40.48,0:14:46.24,TypePlaceholder,,0,0,0,,{\p1\c&H1701BD&\bord0\3c&H000000&\an2\pos(484.5,235.5)}m 0 0 l 825 0 l 825 105 l 0 105
+Dialogue: 0,0:14:40.48,0:14:46.24,TypePlaceholder,,0,0,0,,{\p1\c&H181818&\3c&H181818&\an2\pos(484.5,354)}m 0 0 l 825 0 l 825 66 l 0 66
+Dialogue: 0,0:14:40.48,0:14:46.24,TypePlaceholder,,0,0,0,,{\fnTahoma\b0\bord0\pos(484.5,289.5)}Durchschnittliches Level: {\fnImpact\fsp6}65
+Dialogue: 3,0:14:40.48,0:14:46.24,TypePlaceholder,,0,0,0,,{\fnTahoma\bord0\c&H000000&\fs-2\pos(484.5,66)}Praktisches Kampftraining, 1. Monster
+Dialogue: 3,0:14:40.48,0:14:46.24,TypePlaceholder,,0,0,0,,{\fnTahoma\bord0\fs+3\c&H000000&\pos(484.5,144)}Überzahl-Jagdhunde
+Dialogue: 3,0:14:40.48,0:14:46.24,TypePlaceholder,,0,0,0,,{\fnTahoma\bord0\b0\c&H473A75&\fs-4\pos(484.5,240)}Erscheinen immer in Rudeln von mehr als fünf.
+Dialogue: 4,0:14:44.99,0:14:46.24,TypePlaceholder,,0,0,0,,{\c&HFFFFFF&\3c&H362AD3&\fnImpact\fad(278,0)\fsp15\3a&H50&\blur3\fs+8\frz10.21\pos(475.5,136.5)}Abgeschlossen
+Dialogue: 1,0:15:03.30,0:15:07.85,TypePlaceholder,,0,0,0,,{\p1\c&HFFFFFF&\3c&H181818&\bord9\1a&H60&\an2\pos(751.5,987)}m 0 0 l 675 0 l 675 156 l 0 156
+Dialogue: 2,0:15:03.30,0:15:07.85,TypePlaceholder,,0,0,0,,{\p1\c&H1701BD&\bord0\3c&H000000&\an2\pos(751.5,988.5)}m 0 0 l 675 0 l 675 84 l 0 84
+Dialogue: 3,0:15:03.30,0:15:07.85,TypePlaceholder,,0,0,0,,{\fnTahoma\bord0\c&H000000&\fs-3.5\pos(751.5,846)}Praktisches Kampftraining, 2. Monster
+Dialogue: 3,0:15:03.30,0:15:07.85,TypePlaceholder,,0,0,0,,{\fnTahoma\bord0\fs+1\c&H000000&\pos(751.5,909)}Parasitententakel
+Dialogue: 1,0:15:09.85,0:15:14.48,TypePlaceholder,,0,0,0,,{\p1\c&HFFFFFF&\3c&H181818&\bord9\1a&H60&\an2\pos(396,208.5)}m 0 0 l 675 0 l 675 156 l 0 156
+Dialogue: 2,0:15:09.85,0:15:14.48,TypePlaceholder,,0,0,0,,{\p1\c&H1701BD&\bord0\3c&H000000&\an2\pos(396,210)}m 0 0 l 675 0 l 675 84 l 0 84
+Dialogue: 3,0:15:09.85,0:15:14.48,TypePlaceholder,,0,0,0,,{\fnTahoma\bord0\c&H000000&\fs-3.5\pos(396,67.5)}Praktisches Kampftraining, 2. Monster
+Dialogue: 3,0:15:09.85,0:15:14.48,TypePlaceholder,,0,0,0,,{\fnTahoma\bord0\fs+1\c&H000000&\pos(396,130.5)}Parasitententakel
+Dialogue: 3,0:15:14.60,0:15:27.91,TypePlaceholder,,0,0,0,,{\fnTahoma\bord0\c&H000000&\fs-3.5\fad(271,0)\pos(960,70.5)}Praktisches Kampftraining, 2. Monster
+Dialogue: 3,0:15:14.60,0:15:27.91,TypePlaceholder,,0,0,0,,{\fnTahoma\bord0\fs+1\c&H000000&\pos(960,133.5)\fad(271,0)}Parasitententakel
+Dialogue: 1,0:15:14.60,0:16:44.07,TypePlaceholder,,0,0,0,,{\p1\c&HFFFFFF&\3c&H181818&\bord9\an2\fad(271,507)\pos(960,211.5)}m 0 0 l 675 0 l 675 156 l 0 156
+Dialogue: 2,0:15:14.60,0:16:44.07,TypePlaceholder,,0,0,0,,{\p1\c&H1701BD&\bord0\3c&H000000&\fad(271,507)\an2\pos(960,213)}m 0 0 l 675 0 l 675 84 l 0 84
+Dialogue: 0,0:15:26.86,0:15:27.91,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\bord1.5\shad4.5\c&H0C00C9&\blur3\fad(150,350)\fs+2\3c&HFFFFFF&\4c&H000000&\frz10.18\pos(961.5,271.5)}Versuche: 4
+Dialogue: 3,0:15:27.91,0:15:39.46,TypePlaceholder,,0,0,0,,{\fnTahoma\bord0\c&H000000&\fs-3.5\pos(960,70.5)}Praktisches Kampftraining, 3. Monster
+Dialogue: 3,0:15:27.91,0:15:39.46,TypePlaceholder,,0,0,0,,{\fnTahoma\bord0\fs+1\c&H000000&\pos(960,133.5)}Goblin-Berserker
+Dialogue: 0,0:15:37.75,0:15:39.84,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\bord1.5\shad4.5\c&H0C00C9&\blur3\fad(150,350)\fs+2\3c&HFFFFFF&\4c&H000000&\frz10.18\pos(961.5,271.5)}Versuche: 2
+Dialogue: 3,0:15:39.46,0:16:02.65,TypePlaceholder,,0,0,0,,{\fnTahoma\bord0\c&H000000&\fs-3.5\pos(960,70.5)}Praktisches Kampftraining, 4. Monster
+Dialogue: 3,0:15:39.46,0:16:02.65,TypePlaceholder,,0,0,0,,{\fnTahoma\bord0\fs+1\c&H000000&\pos(960,133.5)}Dyna-Eber
+Dialogue: 0,0:16:01.36,0:16:03.11,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\bord1.5\shad4.5\c&H0C00C9&\blur3\fad(150,350)\fs+2\3c&HFFFFFF&\4c&H000000&\frz10.18\pos(961.5,271.5)}Versuche: 1
+Dialogue: 3,0:16:02.65,0:16:11.07,TypePlaceholder,,0,0,0,,{\fnTahoma\bord0\c&H000000&\fs-3.5\pos(960,70.5)}Praktisches Kampftraining, 5. Monster
+Dialogue: 3,0:16:02.65,0:16:11.07,TypePlaceholder,,0,0,0,,{\fnTahoma\bord0\fs+1\c&H000000&\pos(960,133.5)}Giftiger Adler
+Dialogue: 0,0:16:09.82,0:16:11.58,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\bord1.5\shad4.5\c&H0C00C9&\blur3\fad(150,350)\fs+2\3c&HFFFFFF&\4c&H000000&\frz10.18\pos(961.5,271.5)}Versuche: 112
+Dialogue: 3,0:16:11.07,0:16:23.25,TypePlaceholder,,0,0,0,,{\fnTahoma\bord0\c&H000000&\fs-3.5\pos(960,70.5)}Praktisches Kampftraining, 6. Monster
+Dialogue: 3,0:16:11.07,0:16:23.25,TypePlaceholder,,0,0,0,,{\fnTahoma\bord0\fs+1\c&H000000&\pos(960,133.5)}Gepanzerte Larve
+Dialogue: 0,0:16:21.46,0:16:23.50,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\bord1.5\shad4.5\c&H0C00C9&\blur3\fad(150,350)\fs+2\3c&HFFFFFF&\4c&H000000&\frz10.18\pos(961.5,271.5)}Versuche: 1
+Dialogue: 3,0:16:23.25,0:16:35.31,TypePlaceholder,,0,0,0,,{\fnTahoma\bord0\c&H000000&\fs-3.5\pos(960,70.5)}Praktisches Kampftraining, 7. Monster
+Dialogue: 3,0:16:23.25,0:16:35.31,TypePlaceholder,,0,0,0,,{\fnTahoma\bord0\fs+1\c&H000000&\pos(960,133.5)}Vollstreckerpanther
+Dialogue: 0,0:16:33.64,0:16:35.68,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\bord1.5\shad4.5\c&H0C00C9&\blur3\fad(150,350)\fs+2\3c&HFFFFFF&\4c&H000000&\frz10.18\pos(961.5,271.5)}Versuche: 1
+Dialogue: 3,0:16:35.31,0:16:42.52,TypePlaceholder,,0,0,0,,{\fnTahoma\bord0\c&H000000&\fs-3.5\pos(960,70.5)}Praktisches Kampftraining, 8. Monster
+Dialogue: 3,0:16:35.31,0:16:42.52,TypePlaceholder,,0,0,0,,{\fnTahoma\bord0\fs+1\c&H000000&\pos(960,133.5)}Zwillingskopftiger
+Dialogue: 0,0:16:41.23,0:16:42.90,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\bord1.5\shad4.5\c&H0C00C9&\blur3\fad(150,350)\fs+2\3c&HFFFFFF&\4c&H000000&\frz10.18\pos(961.5,271.5)}Versuche: 2
+Dialogue: 3,0:16:42.52,0:16:44.07,TypePlaceholder,,0,0,0,,{\fnTahoma\bord0\c&H000000&\fs-3.5\pos(960,70.5)\fad(0,507)}Praktisches Kampftraining, 9. Monster
+Dialogue: 3,0:16:42.52,0:16:44.07,TypePlaceholder,,0,0,0,,{\fnTahoma\bord0\fs-1\c&H000000&\pos(960,144)\fad(0,507)}Beta-Einheit Golem, Typ S2
+Dialogue: 1,0:17:18.35,0:17:23.23,TypePlaceholder,,0,0,0,,{\p1\c&HFFFFFF&\3c&H181818&\bord9\an2\pos(960,211.5)}m 0 0 l 675 0 l 675 156 l 0 156
+Dialogue: 2,0:17:18.35,0:17:23.23,TypePlaceholder,,0,0,0,,{\p1\c&H1701BD&\bord0\3c&H000000&\an2\pos(960,213)}m 0 0 l 675 0 l 675 84 l 0 84
+Dialogue: 3,0:17:18.35,0:17:23.23,TypePlaceholder,,0,0,0,,{\fnTahoma\bord0\c&H000000&\fs-3.5\pos(960,70.5)}Praktisches Kampftraining, 9. Monster
+Dialogue: 3,0:17:18.35,0:17:23.23,TypePlaceholder,,0,0,0,,{\fnTahoma\bord0\fs-1\c&H000000&\pos(960,144)}Beta-Einheit Golem, Typ S2
+Dialogue: 0,0:17:22.06,0:17:23.23,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\bord1.5\shad4.5\c&H0C00C9&\blur3\fad(150,0)\fs+2\3c&HFFFFFF&\4c&H000000&\frz10.18\pos(961.5,271.5)}Versuche: 7
+Dialogue: 1,0:17:32.53,0:17:36.99,TypePlaceholder,,0,0,0,,{\p1\c&HFFFFFF&\3c&H181818&\fad(332,0)\bord9\an2\pos(1431,558)}m 0 0 l 810 0 l 810 156 l 0 156
+Dialogue: 2,0:17:32.53,0:17:36.99,TypePlaceholder,,0,0,0,,{\p1\c&H1701BD&\bord0\fad(332,0)\3c&H000000&\an2\pos(1431,559.5)}m 0 0 l 810 0 l 810 84 l 0 84
+Dialogue: 3,0:17:32.53,0:17:36.99,TypePlaceholder,,0,0,0,,{\fnTahoma\bord0\fad(332,0)\c&H000000&\fs-3\pos(1431,417)}Praktisches Kampftraining, 9. Monster
+Dialogue: 3,0:17:32.53,0:17:36.99,TypePlaceholder,,0,0,0,,{\fnTahoma\bord0\fs+1\fad(332,0)\c&H000000&\pos(1431,481.5)}Beta-Einheit Golem, Typ S2
+Dialogue: 4,0:17:35.74,0:17:36.99,TypePlaceholder,,0,0,0,,{\c&HFFFFFF&\3c&H362AD3&\fnImpact\fad(278,0)\fsp15\3a&H50&\blur3\fs+6\frz10.21\pos(1420.5,426)}Abgeschlossen
+Dialogue: 0,0:17:54.89,0:17:58.52,TypePlaceholder,,0,0,0,,{\fnImpact\b0\bord3\fad(250,0)\c&HA54F70&\3c&H000000&\pos(423,48)}Groh Groh\NGroh Groh
+Dialogue: 1,0:19:30.98,0:19:43.83,TypePlaceholder,,0,0,0,,{\p1\c&HE6E6E6&\3c&H181818&\fad(240,0)\an2\pos(1453.5,1039.5)}m 0 0 l 825 0 l 825 234 l 0 234
+Dialogue: 2,0:19:30.98,0:19:43.83,TypePlaceholder,,0,0,0,,{\p1\c&H1701BD&\bord0\fad(240,0)\3c&H000000&\an2\pos(1453.5,993)}m 0 0 l 825 0 l 825 105 l 0 105
+Dialogue: 3,0:19:30.98,0:19:43.83,TypePlaceholder,,0,0,0,,{\fnTahoma\bord0\fad(240,0)\c&H000000&\fs-2\pos(1453.5,823.5)}Praktisches Kampftraining, 10. Monster
+Dialogue: 3,0:19:30.98,0:19:43.83,TypePlaceholder,,0,0,0,,{\fnTahoma\bord0\fs+1.2\fad(240,0)\c&H000000&\pos(1452,904.5)}Wahnsinniger Baummagier
+Dialogue: 0,0:19:30.98,0:19:43.83,TypePlaceholderBox,,0,0,0,,{\fnTahoma\b0\\c&H3B3D48&\3c&H80A3F7&\fs-2\fad(240,0)\pos(1453.5,469.5)}\hEinzigartiges Szenario\h
+Dialogue: 0,0:19:30.98,0:19:43.83,TypePlaceholder,,0,0,0,,{\fnTahoma\bord3\blur3\c&H80A3F7&\3c&H393E3B&\fad(240,0)\fs-2\pos(1456.5,529.5)}Eine Einladung aus dem Hasenland
+Dialogue: 1,0:19:39.49,0:19:43.83,TypePlaceholder,,0,0,0,,{\p1\c&HFCFCF7&\3c&H5E514E&\fad(249,0)\an2\pos(1572,348)}m 0 0 l 615 0 l 615 201 l 0 201
+Dialogue: 2,0:19:39.49,0:19:43.83,TypePlaceholderBox,,0,0,0,,{\c&HFCFCF7&\3c&H1701BD&\fs-3\fad(249,0)\fnTahoma\pos(1572,186)}\hSiegbedingung aktualisiert\h
+Dialogue: 2,0:19:39.49,0:19:43.83,TypePlaceholder,,0,0,0,,{\fnTahoma\b0\c&H5E514E&\bord0\fs+2\fad(249,0)\pos(1572,255)}Überlebe 5 Minuten.
+Dialogue: 1,0:19:43.83,0:19:46.54,TypePlaceholder,,0,0,0,,{\p1\c&HFCFCF7&\3c&H5E514E&\fad(0,0)\an2\pos(1564.5,343.5)}m 0 0 l 615 0 l 615 201 l 0 201
+Dialogue: 2,0:19:43.83,0:19:46.54,TypePlaceholderBox,,0,0,0,,{\c&HFCFCF7&\3c&H1701BD&\fs-3\fad(0,0)\fnTahoma\pos(1564.5,181.5)}\hSiegbedingung aktualisiert\h
+Dialogue: 2,0:19:43.83,0:19:46.54,TypePlaceholder,,0,0,0,,{\fnTahoma\b0\c&H5E514E&\bord0\fs+2\fad(0,0)\pos(1564.5,250.5)}Überlebe 5 Minuten.
+Dialogue: 1,0:20:32.59,0:20:36.01,TypePlaceholder,,0,0,0,,{\p1\c&HE6E7EB&\fad(494,0)\3c&H181818&\fscx80\fscy75\an2\pos(1525.5,211.5)}m 0 0 l 825 0 l 825 225 l 0 225
+Dialogue: 2,0:20:32.59,0:20:36.01,TypePlaceholder,,0,0,0,,{\fad(494,0)\p1\c&H1701BD&\bord0\fscx80\fscy80\3c&H000000&\an2\pos(1525.5,178.5)}m 0 0 l 825 0 l 825 105 l 0 105
+Dialogue: 3,0:20:32.59,0:20:36.01,TypePlaceholder,,0,0,0,,{\fad(494,0)\fscx80\fscy80\fnTahoma\bord0\c&H000000&\fs-2\pos(1525.5,49.5)}Praktisches Kampftraining, 10. Monster
+Dialogue: 3,0:20:32.59,0:20:36.01,TypePlaceholder,,0,0,0,,{\fad(494,0)\fscx80\fscy80\fnTahoma\bord0\fs+1\c&H000000&\pos(1525.5,108)}Wahnsinniger Baummagier
+Dialogue: 0,0:20:33.09,0:20:36.01,TypePlaceholder,,0,0,0,,{\p1\c&H181818&\3c&H181818&\an2\fscx80\fscy80\pos(1525.5,262.5)}m 0 0 l 825 0 l 825 225 l 0 225
+Dialogue: 0,0:20:33.09,0:20:36.01,TypePlaceholder,,0,0,0,,{\fnTahoma\b0\bord0\fscx80\fscy80\pos(1525.5,213)}Level: {\fnImpact\fsp6}120
+Dialogue: 1,0:20:36.01,0:20:40.01,TypePlaceholder,,0,0,0,,{\p1\c&HE6E7EB&\fad(0,0)\3c&H181818&\fscx80\fscy75\an2\pos(1525.5,211.5)}m 0 0 l 825 0 l 825 225 l 0 225
+Dialogue: 2,0:20:36.01,0:20:40.01,TypePlaceholder,,0,0,0,,{\fad(0,0)\p1\c&H1701BD&\bord0\fscx80\fscy80\3c&H000000&\an2\pos(1525.5,178.5)}m 0 0 l 825 0 l 825 105 l 0 105
+Dialogue: 0,0:20:36.01,0:20:40.01,TypePlaceholder,,0,0,0,,{\p1\c&H181818&\3c&H181818&\an2\fscx80\fscy80\pos(1525.5,262.5)}m 0 0 l 825 0 l 825 225 l 0 225
+Dialogue: 0,0:20:36.01,0:20:40.01,TypePlaceholder,,0,0,0,,{\fnTahoma\b0\bord0\fscx80\fscy80\pos(1525.5,213)}Level: {\fnImpact\fsp6}120
+Dialogue: 3,0:20:36.01,0:20:40.01,TypePlaceholder,,0,0,0,,{\fad(0,0)\fscx80\fscy80\fnTahoma\bord0\c&H000000&\fs-2\pos(1525.5,49.5)}Praktisches Kampftraining, 10. Monster
+Dialogue: 3,0:20:36.01,0:20:40.01,TypePlaceholder,,0,0,0,,{\fad(0,0)\fscx80\fscy80\fnTahoma\bord0\fs+1\c&H000000&\pos(1525.5,108)}Wahnsinniger Baummagier
+Dialogue: 0,0:20:52.19,0:20:55.48,TypePlaceholder,,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\pos(960,45)}Übersetzung: Markus Lange
+Dialogue: 0,0:20:52.19,0:20:55.48,TypePlaceholder,,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\an2\pos(960,1035)}Spotting: Michael Gohl
+Dialogue: 0,0:20:55.48,0:20:58.82,TypePlaceholder,,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\pos(960,45)}Revision & Typesetting: Jacqueline Philippi
+Dialogue: 0,0:20:55.48,0:20:58.82,TypePlaceholder,,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\an2\pos(960,1035)}Qualitätskontrolle: Konrad Walter
+Dialogue: 0,0:20:58.82,0:21:01.70,TypePlaceholder,,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\pos(960,45)}Projektleitung: Tobias Philippi
+Dialogue: 0,0:22:10.06,0:22:17.32,TypePlaceholder,,0,0,0,,{\fnComic Sans MS Bold\fs+4\bord0\shad6\fs+6\c&H7CEDEF&\4c&H51CBDA&\pos(960,9)}Sh{\c&HC297F0&\4c&H966CD6&}a{\c&H679FF8&\4c&H3171D7&}n{\c&HDE72BD&\4c&HB64897&}F{\c&H5B63E6&\4c&H484FC2&}ro
+Dialogue: 0,0:22:13.85,0:22:17.32,TypePlaceholder,,0,0,0,,{\fnComic Sans MS BOLD\fad(493,0)\fs+5\fax-0.15\an3\c&HFAFFFE&\3c&H376777&\4c&H1C3F4D&\shad3.9\bord3.9\pos(1840.5,744)}#10 Dir werde ich wirklich\Nabsolut niemals verzeihen
+Dialogue: 0,0:22:14.44,0:22:17.32,TypePlaceholder,,0,0,0,,{\c&H515655&\fnComic Sans MS Bold\fad(333,0)\fs+2\bord0\frz43.99\pos(1447.5,118.5)}Mini
+Dialogue: 0,0:22:17.32,0:22:55.35,TypePlaceholder,,0,0,0,,{\fnComic Sans MS Bold\fad(0,0)\fs+2\fax-0.15\an9\c&HFAFFFE&\3c&H376777&\4c&H1C3F4D&\alpha&H30&\shad3.9\bord3.9\pos(1824,112.5)}ShanFro-Theater
+Dialogue: 0,0:22:21.11,0:22:23.11,TypePlaceholder,,0,0,0,,{\fnTimes New Roman Bold\bord4.5\c&H000000&\3c&HFFFFFF&\fs+2\pos(960,459)}Einzigartiges Szenario\N„Eine Einladung aus dem Hasenland“
+Dialogue: 0,0:22:21.11,0:22:23.11,TypePlaceholder,,0,0,0,,{\fnTimes New Roman Bold\bord4.5\c&H000000&\3c&HFFFFFF&\fs+2\pos(960,904.5)}Praktisches Kampftraining, 5. Monster\N„Giftiger Adler“
+Dialogue: 0,0:22:23.11,0:22:25.16,TypePlaceholder,,0,0,0,,{\fnTimes New Roman Bold\bord4.5\c&H000000&\3c&HFFFFFF&\fs+2\pos(960,648)}Versuch Nr. 45
+Dialogue: 0,0:22:55.35,0:23:02.61,TypePlaceholder,,0,0,0,,{\fnComic Sans MS Bold\fs+4\bord0\shad6\fs+6\c&H7CEDEF&\4c&H51CBDA&\pos(960,9)}Sh{\c&HC297F0&\4c&H966CD6&}a{\c&H679FF8&\4c&H3171D7&}n{\c&HDE72BD&\4c&HB64897&}F{\c&H5B63E6&\4c&H484FC2&}ro
+Dialogue: 0,0:22:59.15,0:23:02.61,TypePlaceholder,,0,0,0,,{\fnComic Sans MS Bold\fad(493,0)\fs+4\fax-0.15\an3\c&HFAFFFE&\3c&H376777&\4c&H1C3F4D&\shad3.9\bord3.9\pos(1831.5,859.5)}#11 Was für ein Mensch ist Rakuro Hizutome?
+Dialogue: 0,0:22:59.73,0:23:02.61,TypePlaceholder,,0,0,0,,{\c&H515655&\fnComic Sans MS Bold\fad(333,0)\fs+2\bord0\frz43.99\pos(1447.5,118.5)}Mini
+Dialogue: 0,0:23:02.61,0:23:51.66,TypePlaceholder,,0,0,0,,{\fnComic Sans MS Bold\fad(0,0)\fs+2\fax-0.15\an9\c&HFAFFFE&\3c&H376777&\4c&H1C3F4D&\alpha&H30&\shad3.9\bord3.9\pos(1824,112.5)}ShanFro-Theater
+Dialogue: 0,0:23:18.67,0:23:31.26,TypePlaceholder,,0,0,0,,{\fnTimes New Roman Bold\an1\bord4.5\c&H000000&\3c&HFFFFFF&\fs-3\pos(957,483)}„Scheue in deiner Jugend keine Mühen.“\NDas bedeutet, das man in jungen Jahren Mühen aktiv auf\Nsich nehmen sollte, da einem diese Erfahrungen später\Nhilfreich sein werden.\N\N\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hAus: Kojien, 7. Auflage
+Dialogue: 0,0:23:47.03,0:23:51.66,TypePlaceholder,,0,0,0,,{\fnTimes New Roman Bold\fad(248,0)\bord0\an7\fs+2\c&H000000&\pos(63,739.5)}Diese wilde Fantasie ist Fiktion.\NEs besteht keinerlei Zusammenhang mit real existierenden\NPersonen oder Trash-Gamern.

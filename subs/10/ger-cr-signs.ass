@@ -1,0 +1,83 @@
+﻿[Script Info]
+Title: Deutsch
+ScaledBorderAndShadow: yes
+Original Script: cr_de  [http://www.crunchyroll.com/user/cr_de]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+LayoutResX: 1920
+LayoutResY: 1080
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: TypePlaceholder,Arial Bold,66,&H00200960,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,6,0,8,30,30,60,1
+Style: TypePlaceholderBox,Arial Bold,66,&H00200960,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,3,6,0,8,30,30,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:02:58.37,0:03:04.00,TypePlaceholder,,0,0,0,,{\an1\fnVerdana Bold\fscx90\shad6\fs+1\b1\fsp3\c&HFEFFFC&\4c&HC7951D&\bord0\fad(202,507)\3c&HFFFFFE&\pos(406.5,895.5)}Auf zum {\fnGeorgia\fscx100\c&HC7951D&\3c&HFEFFFC&\4c&HFEFFFC&\bord4.5\alpha&HFF&\t(244,619,\alpha&H00&)}Grabschänden!!
+Dialogue: 0,0:03:24.02,0:03:25.64,TypePlaceholder,,0,0,0,,{\fnVerdana\b0\bord9\an2\fad(200,0)\pos(982.5,334.5)\c&H766C66&\3c&H180001&}Andere Spieler befinden sich gerade\Nim Kampf mit dem Gebietsboss.
+Dialogue: 0,0:05:00.95,0:05:04.87,TypePlaceholder,,0,0,0,,{\fnVerdana\b0\fad(100,0)\an7\c&HE2E094&\bord0\fs-1\pos(625.5,487.5)}Stürmender Schlitzer\NSchnelle Drehung\NSchleifenschlitzer Lv. 5\NBeschleunigen Lv. 6\NSchiffsprung
+Dialogue: 0,0:05:11.50,0:05:13.38,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\an2\pos(1384.5,733.5)\c&HF8EF9C&\bord0}Schiffssprung
+Dialogue: 0,0:06:16.94,0:06:20.19,TypePlaceholder,,0,0,0,,{\fnVerdana\b0\c&H3929F1&\fad(300,511)\bord9\fs+6\3c&H0F0B32&\pos(1515,1021.5)}Gebietsboss\N{\fnVerdana Bold\an2}Clownspinne
+Dialogue: 1,0:06:34.08,0:06:35.58,TypePlaceholder,,0,0,0,,{\fnImpact\b0\bord19.5\fsp6\fad(160,0)\an1\fs+3\fax-0.3\c&HFCC630&\3c&H0E1916&\frz1.246\pos(619.5,154.5)}Schleifenschlitzer
+Dialogue: 2,0:06:34.08,0:06:35.58,TypePlaceholder,,0,0,0,,{\fnImpact\b0\bord7.5\fsp6\fad(160,0)\an1\fs+3\fax-0.3\c&HF59820&\3c&HFDFEF6&\t(242,243,\c&HFEFEFA&\3c&HEEEC60&\blur6)\t(368,493,\blur0\c&HF6BA2D&\3cHFDFEF6&)\frz1.246\pos(619.5,154.5)}Schleifenschlitzer
+Dialogue: 0,0:07:00.94,0:07:02.15,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\bord0\fs+1\c&HF3F1AC&\pos(373.5,93)}Wurfmesser\N\N\N\N\N\N{\fnTahoma\b0\c&H7F7068&\fs-2}ausgerüstet.
+Dialogue: 0,0:09:12.87,0:09:14.74,TypePlaceholder,,0,0,0,,{\fnVerdana\b0\c&H3929F1&\fad(300,00)\bord9\fs+4\3c&H0F0B32&\pos(1243.5,489)}Gebietsboss\N{\fnVerdana Bold\an2}Clownspinne
+Dialogue: 1,0:09:13.37,0:09:14.74,TypePlaceholder,,0,0,0,,{\fnImpact\bord3\blur3\fad(300,0)\fs+7\fsp12\c&HF9FFF6&\3c&H312A81&\frz9.758\pos(1234.5,352.5)}Besiegt
+Dialogue: 1,0:09:38.89,0:09:42.14,TypePlaceholder,,0,0,0,,{\p1\c&HF2F1ED&\3c&HD9C4B1&\an8\pos(1422,45)}m 0 0 l 900 0 l 900 450 l 0 450
+Dialogue: 1,0:09:38.89,0:09:42.14,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\b0\an7\bord0\fs-3.5\c&H969794&\pos(991.5,55.5)}Lass uns intrigieren – in großem Stil!\N\N{\fnVerdana}Von: Pencil Warrior\NAn: Modoru Katso\N\NEin Wunder ist geschehen, ein kataklysmisches\NOmen:\N{\i1}Der{\i0} Sunraku spielt ShanFro.\NWenn du auch angefangen hast, wollen wir uns\Ndann mal treffen und unsere Freundschaft\Nvertiefen?
+Dialogue: 0,0:10:03.08,0:10:09.09,TypePlaceholder,,0,0,0,,{\fnImpact\fax-0.3\fs+7\shad3\c&HBBA717&\3c&HFFFFFF&\4c&HC6C6C6&\move(973.5,-87,975,114,0,2100)}Oikatso
+Dialogue: 0,0:10:15.59,0:10:17.60,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\fs-1\c&HDDDBD4&\fax-0.6\3c&H75494A&\4c&H75494A&\bord3\shad3\frz15.89\move(901.5,282,901.5,369,24,1984)}Das große Sommerupdate!!
+Dialogue: 0,0:10:15.59,0:10:17.60,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\fs-2\an2\c&H976442&\fax-0.6\3c&HCDC8CA&\frz14.84\move(1203,345,1203,435,24,1984)}Der Ozean des Untergangs
+Dialogue: 0,0:10:15.59,0:10:17.60,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\fs-2\an2\c&HA77450&\fax-0.6\3c&HCDC8CA&\move(1065,651,1065,741,24,1984)\frz10.29}Die Pionierflotte
+Dialogue: 0,0:10:15.59,0:10:17.60,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\fs-2\an2\c&HA77450&\fax-0.6\3c&HCDC8CA&\move(663,798,663,888,24,1984)\frz8.29}Die Neue Welt
+Dialogue: 0,0:10:15.59,0:10:17.60,TypePlaceholderBox,,0,0,0,,{\fnVerdana Bold\fs-4\an2\c&HD3C1B2&\fax-0.1\3c&H834836&\frz14.54\move(865.5,985.5,865.5,1072.5,24,1984)}\hNeuer Beruf!!\h
+Dialogue: 0,0:11:48.02,0:11:55.24,TypePlaceholder,,0,0,0,,{\fnImpact\b0\c&H5D7FE8&\u1\bord0\frz340\move(694.5,34.5,693,382.5,29,7203)}Kei Uomi\N{\fnVerdana\fs-2\u0}Pro-Gamer
+Dialogue: 0,0:11:56.95,0:12:07.87,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\bord3\shad6\c&HF0F4F3&\3c&H8A3633&\4c&H8A3633&\frz342.5\move(999,415.5,999,4.5,25,10911)}Das große Sommerupdate!!
+Dialogue: 0,0:11:56.95,0:12:07.87,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\fs-2\an2\c&HA95A3D&\3c&HE2E3DD&\frz336.1\move(1278,718.5,1278,321,25,10911)}Der Ozean des Untergangs
+Dialogue: 0,0:11:56.95,0:12:07.87,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\fs-2\fax-0.1\an2\c&HA95A3D&\3c&HE2E3DD&\move(1054.5,963,1054.5,565.5,25,10911)\frz340.6}Die Pionierflotte
+Dialogue: 0,0:11:56.95,0:12:07.87,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\fs-2\an2\c&HA95A3D&\fax-0.2\3c&HE2E3DD&\frz347.4\move(648,916.5,648,519,25,10911)}Die Neue Welt
+Dialogue: 0,0:11:56.95,0:12:07.87,TypePlaceholderBox,,0,0,0,,{\fnVerdana Bold\fs-5\an2\c&HDFD5CC&\fax\3c&HA94A3A&\frz353.6\move(825,1185,828,774)}\hNeuer Beruf!!\h
+Dialogue: 0,0:11:56.95,0:12:07.87,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\fs+2\c&HAC4A3E&\3c&HE1D7CA&\frz345.1\move(622.5,1230,622.5,816)}Rider
+Dialogue: 0,0:12:18.22,0:12:23.47,TypePlaceholder,,0,0,0,,{\fnTahoma\b0\c&HC7CDC3&\3c&H475631&\bord3\fs-4\an2\move(969,264,969,367.5,26,5240)}Pencil Warrior
+Dialogue: 0,0:12:31.19,0:12:43.58,TypePlaceholder,,0,0,0,,{\fnTahoma\b0\c&HC7CDC3&\3c&H475631&\bord3\fs-2\an2\pos(147,69)}Sunraku
+Dialogue: 0,0:12:31.19,0:12:43.58,TypePlaceholder,,0,0,0,,{\fnTahoma\b0\blur6\c&HADC19A&\3c&H6A7E57&\bord3\fs-2\an2\pos(720,93)}Pencil Warrior
+Dialogue: 0,0:12:31.19,0:12:43.58,TypePlaceholder,,0,0,0,,{\fnTahoma\b0\c&HC7CDC3&\3c&H475631&\bord3\fs-2\an2\pos(1755,129)}Katso Tataki
+Dialogue: 0,0:12:43.58,0:12:49.87,TypePlaceholder,,0,0,0,,{\fnTahoma\b0\c&HC9CFC2&\3c&H475631&\bord3\fs-1\an2\pos(1530,142.5)}Katso Tataki
+Dialogue: 0,0:12:49.87,0:12:57.55,TypePlaceholder,,0,0,0,,{\fnTahoma\b0\c&HC7CDC3&\3c&H475631&\bord3\fs-2\an2\pos(310.5,73.5)}Sunraku
+Dialogue: 0,0:13:19.86,0:13:27.12,TypePlaceholder,,0,0,0,,{\fnTahoma\b0\c&HC7CDC3&\3c&H475631&\bord3\fs-\an2\pos(492,90)}Sunraku
+Dialogue: 0,0:13:41.13,0:13:48.39,TypePlaceholder,,0,0,0,,{\fnTahoma\b0\c&HD2D0CA&\3c&H646A46&\bord3\fs-2\an2\pos(969,214.5)}Pencil Warrior
+Dialogue: 0,0:14:20.38,0:14:30.39,TypePlaceholder,,0,0,0,,{\fnTahoma\b0\c&HC7CDC3&\3c&H475631&\bord3\fs-2\an2\pos(526.5,276)}Pencil Warrior
+Dialogue: 0,0:14:20.38,0:14:30.39,TypePlaceholder,,0,0,0,,{\fnTahoma\b0\c&HC7CDC3&\3c&H475631&\bord3\fs-2\an2\pos(901.5,103.5)}Sunraku
+Dialogue: 0,0:14:20.38,0:14:30.39,TypePlaceholder,,0,0,0,,{\fnTahoma\b0\c&HC7CDC3&\3c&H475631&\bord3\fs-2\an2\pos(1470,139.5)}Katso Tataki
+Dialogue: 0,0:15:01.80,0:15:07.30,TypePlaceholder,,0,0,0,,{\fnTahoma\b0\c&HCDD5CA&\3c&H556B3E&\bord3\fs-2\an2\pos(1458,219)}Katso Tataki
+Dialogue: 0,0:15:09.81,0:15:21.82,TypePlaceholder,,0,0,0,,{\fnTahoma\b0\c&HC7C8C7&\3c&H506841&\bord3\fs\an2\move(610.5,93,612,216,24,11994)}Sunraku
+Dialogue: 0,0:15:42.34,0:15:46.34,TypePlaceholder,,0,0,0,,{\fnTahoma\b0\c&HF3F7F1&\3c&H74855E&\bord3\fs-2\an2\pos(976.5,171)}Pencil Warrior
+Dialogue: 1,0:16:25.63,0:16:28.51,TypePlaceholder,,0,0,0,,{\fnImpact\b0\c&H7B4527&\bord12\shad6\fs+4\fax-0.3\3c&H7B4527&\frz5.734\move(1107,69,1078.5,580.5,113,405)\4c&H978B5F&}Weekly VR Full Diver
+Dialogue: 2,0:16:25.63,0:16:28.51,TypePlaceholder,,0,0,0,,{\fnImpact\b0\c&H7B4527&\bord4.5\fs+4\fax-0.3\3c&HFFFFFF&\frz5.734\move(1107,69,1078.5,580.5,113,405)}Weekly VR Full Diver
+Dialogue: 0,0:16:29.68,0:16:33.43,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\fs-2\c&HB29692&\3c&H8D4B44&\fax0.3\frz338.8\pos(796.5,270)}Großes Sonderangebot {braucht’s durch das Englische aber auch nicht wirklich, oder?}
+Dialogue: 0,0:18:22.71,0:18:26.71,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\fs-2\an7\fax0.12\frz19.83\bord0\pos(685.5,136.5)\c&H5F5F5F&}Von: {\c&HB2D579&}Pencilgon\N\N\N\h{\c&H5F5F5F&}An: {\c&HB2D579&}Sunraku\N\N\N\N\h\h{\c&H5F5F5F&}Komm endlich
+Dialogue: 0,0:18:22.71,0:18:26.71,TypePlaceholder,,0,0,0,,{\b0\an7\fs-2\fnVerdana\bord0\fax0.12\c&H5F5F5F&\frz20.44\pos(403.5,586.5)}Wirst du nicht von Schuldgefühlen erdrückt,\N\hweil du mich hier warten lässt?\N\hBist du okay? Soll ich einen Krankenwagen rufen?
+Dialogue: 0,0:20:39.55,0:20:54.07,TypePlaceholder,,0,0,0,,{\fnTahoma\b0\c&HF0FAEA&\3c&H506740&\bord3\fs-3\an2\pos(472.5,301.5)}Katso Tataki
+Dialogue: 0,0:20:39.55,0:20:54.07,TypePlaceholder,,0,0,0,,{\fnTahoma\b0\c&HF0FAEA&\3c&H506740&\bord3\fs-3\an2\pos(1555.5,285)}Sunraku
+Dialogue: 0,0:20:57.53,0:21:01.78,TypePlaceholder,,0,0,0,,{\fnTahoma\b0\c&HF0FAEA&\3c&H506740&\bord3\fs\an2\pos(456,126)}Sunraku
+Dialogue: 0,0:20:57.53,0:21:01.78,TypePlaceholder,,0,0,0,,{\fnTahoma\b0\c&HF0FAEA&\3c&H506740&\bord3\fs\an2\pos(1591.5,111)}Katso Tataki
+Dialogue: 0,0:21:30.27,0:21:33.56,TypePlaceholder,,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\pos(960,45)}Übersetzung: Markus Lange
+Dialogue: 0,0:21:30.27,0:21:33.56,TypePlaceholder,,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\an2\pos(960,1035)}Spotting: Michael Gohl
+Dialogue: 0,0:21:33.56,0:21:36.90,TypePlaceholder,,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\pos(960,45)}Revision & Typesetting: Jacqueline Philippi
+Dialogue: 0,0:21:33.56,0:21:36.90,TypePlaceholder,,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\an2\pos(960,1035)}Qualitätskontrolle: Konrad Walter
+Dialogue: 0,0:21:36.90,0:21:39.78,TypePlaceholder,,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\pos(960,45)}Projektleitung: Tobias Philippi
+Dialogue: 0,0:22:48.05,0:22:55.31,TypePlaceholder,,0,0,0,,{\fnComic Sans MS Bold\fs+4\bord0\shad6\fs+6\c&H7CEDEF&\4c&H51CBDA&\pos(960,9)}Sh{\c&HC297F0&\4c&H966CD6&}a{\c&H679FF8&\4c&H3171D7&}n{\c&HDE72BD&\4c&HB64897&}F{\c&H5B63E6&\4c&H484FC2&}ro
+Dialogue: 0,0:22:51.81,0:22:55.31,TypePlaceholder,,0,0,0,,{\fnComic Sans MS BOLD\fad(493,0)\fs+4\fax-0.15\an3\c&HFAFFFE&\3c&H376777&\4c&H1C3F4D&\shad3.9\bord3.9\pos(1828.5,733.5)}#15 Antworte in 5 Sekunden, Pencilgon
+Dialogue: 0,0:22:52.43,0:22:55.31,TypePlaceholder,,0,0,0,,{\c&H515655&\fnComic Sans MS Bold\fad(333,0)\fs+2\bord0\frz43.99\pos(1447.5,118.5)}Mini
+Dialogue: 0,0:22:55.31,0:23:48.36,TypePlaceholder,,0,0,0,,{\fnComic Sans MS BOLD\fad(0,0)\fs+2\fax-0.15\an9\c&HF7F9FC&\3c&H1F4E60&\4c&H1C3F4D&\shad3.9\bord3.9\pos(559.5,871.5)}ShanFro-Theater
+Dialogue: 0,0:22:58.82,0:23:05.82,TypePlaceholder,,0,0,0,,{\fnGeorgia Bold\c&H000000&\3c&HFFFFFF&\bord3.6\fs+1\pos(408,187.5)}Was magst du?
+Dialogue: 0,0:23:06.07,0:23:12.58,TypePlaceholder,,0,0,0,,{\fnGeorgia Bold\c&H000000&\3c&HFFFFFF&\bord3.6\fs+1\pos(598.5,99)}Was magst du nicht?
+Dialogue: 0,0:23:12.83,0:23:19.34,TypePlaceholder,,0,0,0,,{\fnGeorgia Bold\c&H000000&\an7\3c&HFFFFFF&\bord3.6\fs+1\pos(1293,268.5)}Was hältst du\Nvon Sunraku?
+Dialogue: 0,0:23:19.59,0:23:27.59,TypePlaceholder,,0,0,0,,{\fnGeorgia Bold\c&H000000&\3c&HFFFFFF&\bord3.6\fs+1\pos(1054.5,55.5)}Was ist deine Lieblingsredewendung?
+Dialogue: 0,0:23:27.59,0:23:32.60,TypePlaceholder,,0,0,0,,{\fnGeorgia Bold\c&H000000&\3c&HFFFFFF&\bord3.6\fs+1\pos(960,763.5)}Welchen Spitznamen würdest du dir geben?
+Dialogue: 0,0:23:32.85,0:23:37.60,TypePlaceholder,,0,0,0,,{\fnGeorgia Bold\c&H000000&\3c&HFFFFFF&\bord3.6\fs+1\pos(672,166.5)}Player-Kills sind wie …?
+Dialogue: 0,0:23:37.85,0:23:48.36,TypePlaceholder,,0,0,0,,{\fnGeorgia Bold\c&H000000&\3c&HFFFFFF&\bord3.6\fs+1\pos(334.5,189)}Warum?

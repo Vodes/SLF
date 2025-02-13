@@ -1,0 +1,108 @@
+﻿[Script Info]
+Title: Deutsch
+ScaledBorderAndShadow: yes
+Original Script: cr_de  [http://www.crunchyroll.com/user/cr_de]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+LayoutResX: 1920
+LayoutResY: 1080
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+Style: TypePlaceholder,Arial,60,&H00FFFFFF,&H000000FF,&H00000000,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,6,0,8,30,30,60,1
+Style: TypePlaceholderBox,Arial Bold,66,&H00200960,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,3,6,0,8,30,30,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:02:10.82,0:02:13.86,TypePlaceholder,,0,0,0,,{\fnImpact\fsp6\fs+5\fax-0.3\an2\c&HB1940E&\3c&HFCF9F0&\4c&H41392F&\shad3\move(1054.5,132,1053,331.5,23,3985)}Arthur Pencilgon
+Dialogue: 0,0:02:17.45,0:02:21.62,TypePlaceholder,,0,0,0,,{\an1\fnTahoma\shad6\fs+1\b1\fsp3\c&HFDFFFF&\4c&HC9961F&\bord0\fad(164,0)\3c&HFFFFFE&\pos(293.28,896.82)}Die Schreibwerkzeug{\shad0\alpha&HFF&\t(331,498,\alpha&H00&)}-{\fnGeorgia bold\bord3\shad3\c&HCA9129&\4c&HFDFFFF&\3c&HFDFFFF&\alpha&HFF&\t(581,665,\alpha&H00&)}Ritter{\alpha&HFF&\t(707,790,\alpha&H00&)}köni{\alpha&HFF&\t(790,873,\alpha&H00&)}gin
+Dialogue: 0,0:02:34.76,0:02:39.14,TypePlaceholderBox,,0,0,0,,{\fnVerdana Bold\bord9\c&HD0ECEF&\fax0.37\fs-4\fad(852,0)\3c&H2B3949&\frz339.5\pos(750,366)}Händler
+Dialogue: 0,0:02:39.14,0:02:39.72,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\fsp3\bord0\an2\fs+1\fax0.4\c&HBCC2BE&\fad(0,135)\pos(846,348)}Warenregal
+Dialogue: 0,0:02:53.03,0:02:57.53,TypePlaceholder,,0,0,0,,{\fnVerdana bold\bord9\c&HD0EFF7&\fs-1\fax-0.5\3c&H2F263F&\pos(1428,187.5)\frz27.77}Händler
+Dialogue: 0,0:03:02.20,0:03:06.92,TypePlaceholder,,0,0,0,,{\fnVerdana\b0\fs+2\an2\c&HE0E6DA&\fad(300,0)\3c&H6E7A5D&\blur3\fsp3\pos(996,124.5)}Sunraku
+Dialogue: 0,0:03:23.98,0:03:29.06,TypePlaceholder,,0,0,0,,{\fnVerdana\an2\bord6\b0\c&H000000&\3c&HFFFFFF&\fs+5\fad(0,0)\pos(960,786)}Massen-Mehrspieler-Online-Spiel
+Dialogue: 0,0:03:36.36,0:03:38.99,TypePlaceholder,,0,0,0,,{\fnTahoma\an7\fsp3\bord0\pos(523.5,409.5)}Dieser Stein scheint nicht\Nzum Werfen geeignet.
+Dialogue: 0,0:04:34.13,0:04:35.88,TypePlaceholder,,0,0,0,,{\fnVerdana bold\an1\pos(112.5,169.5)\c&HE1ECFE&\3c&H93B797&\blur3\fsp3\fs+2}Pencil Warrior
+Dialogue: 0,0:04:58.57,0:05:10.58,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\fs-3\bord4.5\blur3\c&HB3EFFA&\3c&H739B84&\pos(1288.5,48)}Katso Tataki    Sunraku
+Dialogue: 0,0:05:21.22,0:05:31.23,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\fs-3\bord4.5\blur3\c&HB3EFFA&\3c&H739B84&}Sunraku   Katso Tataki
+Dialogue: 0,0:05:35.61,0:05:39.24,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\fs-3\bord4.5\blur3\c&HB3EFFA&\3c&H739B84&}Sunraku    Katso Tataki
+Dialogue: 0,0:05:48.74,0:05:51.62,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\fs-3\bord3\blur3\c&HDAF7D6&\3c&H779577&\fad(0,1400)\pos(973.5,229.5)}Sunraku
+Dialogue: 0,0:05:48.74,0:05:51.62,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\fs-3\bord3\blur3\fad(0,800)\c&HDAF7D6&\3c&H779577&\pos(1347,229.5)}Katso Tataki
+Dialogue: 0,0:05:54.38,0:06:00.13,TypePlaceholder,,0,0,0,,{\fnVerdana bold\fsp3\bord4.5\blur3\an2\c&HDFFFE2&\3c&H6C9A6E&\fad(0,1003)\move(1402.5,15,1402.5,654,24,5738)}Katso Tataki
+Dialogue: 0,0:05:54.88,0:06:00.13,TypePlaceholder,,0,0,0,,{\fnVerdana bold\fsp3\bord4.5\blur3\an2\c&HDFFFE2&\3c&H6C9A6E&\fad(0,1003)\move(513,12,513,583.5,25,5238)}Sunraku
+Dialogue: 1,0:06:02.13,0:06:06.64,TypePlaceholder,,0,0,0,,{\fnTimes New Roman bold\an2\fs+4\bord9\fsp6\c&HFEF9FF&\3c&H2B3970&\pos(960,181.5)}Dystopia Empress
+Dialogue: 2,0:06:02.13,0:06:06.64,TypePlaceholder,,0,0,0,,{\fnTimes New Roman bold\an2\fs+4\bord9\fsp6\c&HE1F3FF&\3c&H2B3970&\pos(960,181.5)\clip(597,138,1332,201)}Dystopia Empress
+Dialogue: 3,0:06:02.13,0:06:06.64,TypePlaceholder,,0,0,0,,{\fnTimes New Roman bold\an2\fs+4\bord9\fsp6\c&HABFBFE&\3c&H2B3970&\pos(960,181.5)\clip(600,153,1329,189)}Dystopia Empress
+Dialogue: 0,0:06:13.14,0:06:20.15,TypePlaceholder,,0,0,0,,{\fnVerdana bold\fsp3\fs+2\an2\blur3\c&HDDF9F6&\3c&H587E57&\frz354.6\pos(1482,111)}Sunraku
+Dialogue: 0,0:06:29.54,0:06:30.54,TypePlaceholder,,0,0,0,,{\fnVerdana bold\fsp3\fs+2\an2\blur3\c&HDFF4F1&\3c&H69A167&\pos(1681.5,222)\frz359.9}Sunraku
+Dialogue: 0,0:06:33.12,0:06:38.38,TypePlaceholder,,0,0,0,,{\fnVerdana bold\bord4.5\fs-1\fad(300,0)\pos(820.5,60)\c&HE6FFE5&\3c&H88B87F&}Pencil Warrior
+Dialogue: 0,0:07:50.83,0:07:55.33,TypePlaceholder,,0,0,0,,{\fnGeorgia bold\fs+3\blur3\c&HFEFEFE&\3c&H0C090B&\pos(1545,21)}Asura-Bündnis
+Dialogue: 0,0:07:53.24,0:07:55.33,TypePlaceholder,,0,0,0,,{\fnGeorgia bold\fs+3\blur3\c&HFEFEFE&\3c&H0C090B&\pos(381,19.5)}Riesentöterin
+Dialogue: 1,0:11:34.01,0:11:36.01,TypePlaceholder,,0,0,0,,{\fnImpact\b0\bord19.5\fsp6\fad(160,0)\an1\fs+5\fax-0.3\c&HFCC630&\3c&H0E1916&\frz22\pos(705,322.5)}Abwehrkonter
+Dialogue: 2,0:11:34.01,0:11:36.01,TypePlaceholder,,0,0,0,,{\fnImpact\b0\bord7.5\fsp6\fad(160,0)\an1\fs+5\fax-0.3\c&HF59820&\3c&HFDFEF6&\t(242,243,\c&HFEFEFA&\3c&HEEEC60&\blur6)\t(368,493,\blur0\c&HF6BA2D&\3cHFDFEF6&)\frz22\pos(705,322.5)}Abwehrkonter
+Dialogue: 0,0:13:12.40,0:13:17.40,TypePlaceholder,,0,0,0,,{\fnImpact\b0\fsp6\bord3.6\fs-3\fax-0.3\an2\c&HB6AA3D&\3c&HFFFEC9&\t(0,0,\fscx90\fscy90)\move(495,291,505.5,286.5,25,4988)}Lemmy
+Dialogue: 0,0:13:12.40,0:13:17.40,TypePlaceholder,,0,0,0,,{\fnImpact\b0\fsp6\bord3.6\fs-3\fax-0.3\an2\c&HB6AA3D&\3c&HFFFEC9&\t(0,0,\fscx90\fscy90)\move(745.5,259.5,748.5,258,25,4988)}Branch
+Dialogue: 0,0:13:12.40,0:13:17.40,TypePlaceholder,,0,0,0,,{\fnImpact\b0\fsp6\bord3.6\fs-3\fax-0.3\an2\c&HB6AA3D&\3c&HFFFEC9&\t(0,0,\fscx90\fscy90)\move(1246.5,322.5,1225.5,322.5,25,4988)}Wrath
+Dialogue: 0,0:13:12.40,0:13:17.40,TypePlaceholder,,0,0,0,,{\fnImpact\b0\fsp6\bord3.6\fs-3\fax-0.3\an2\c&HB6AA3D&\3c&HFFFEC9&\t(0,0,\fscx90\fscy90)\move(1485,283.5,1467,285,25,4988)}Ketchum
+Dialogue: 0,0:13:17.40,0:13:23.78,TypePlaceholder,,0,0,0,,{\fnImpact\b0\fsp6\fax-0.3\yshad6\fs+3\an2\pos(1474.5,136.5)\frz331.4\c&HC3A81E&\3c&HFDF9F6&\4c&H7B7E7F&}Ketchum
+Dialogue: 0,0:13:23.78,0:13:26.20,TypePlaceholder,,0,0,0,,{\fnImpact\b0\fsp6\fax-0.3\yshad6\fs+3\an8\c&HC3A81E&\3c&HFDF9F6&\4c&H7B7E7F&\frz11.39\pos(1143,228)}Wrath
+Dialogue: 0,0:13:26.20,0:13:29.83,TypePlaceholder,,0,0,0,,{\fnImpact\b0\fsp6\fax-0.3\yshad6\fs+3\an2\c&HC3A81E&\3c&HFDF9F6&\4c&H7B7E7F&\pos(601.5,121.5)\frz27.21}Branch
+Dialogue: 0,0:13:29.83,0:13:33.54,TypePlaceholder,,0,0,0,,{\fnImpact\b0\fsp6\fax-0.3\yshad6\fs+3\an2\c&HC3A81E&\3c&HFDF9F6&\4c&H7B7E7F&\frz354.8\pos(1381.5,132)}Lemmy
+Dialogue: 0,0:13:33.54,0:13:36.84,TypePlaceholder,,0,0,0,,{\fnImpact\b0\fsp6\fax-0.3\yshad6\fs+3\an2\c&HC3A81E&\3c&HFDF9F6&\4c&H433E38&\frz12.57\pos(1056,303)}Ketchum
+Dialogue: 0,0:15:01.96,0:15:03.01,TypePlaceholderBox,,0,0,0,,{\fnTahoma\fs-4\c&HBCD6DE&\3c&HB21990&\pos(297,447)}\hGift\h
+Dialogue: 0,0:15:01.96,0:15:03.01,TypePlaceholderBox,,0,0,0,,{\fnTahoma\fs-4\c&HBCD6DE&\3c&H32B1BB&\pos(444,447)}\hLähmung\h
+Dialogue: 0,0:15:01.96,0:15:03.01,TypePlaceholderBox,,0,0,0,,{\fnTahoma\fs-4\c&H63AC6E&\3c&HBF5868&\pos(660,447)}\hEntkräftung\h
+Dialogue: 0,0:15:01.96,0:15:03.01,TypePlaceholderBox,,0,0,0,,{\fnTahoma\fs-4\c&H61B77A&\3c&H7208A6&\pos(900,447)}\hErschöpfung\h
+Dialogue: 0,0:15:01.96,0:15:03.01,TypePlaceholderBox,,0,0,0,,{\fnTahoma\fs-4\c&HBCF9FC&\3c&H20993A&\pos(1108.5,447)}\hAgilität↓\h
+Dialogue: 0,0:15:03.01,0:15:09.01,TypePlaceholderBox,,0,0,0,,{\fnTahoma\fs-4\fax-0.06\c&H4A7F49&\3c&HAE0080&\pos(651,465)\frz360}\hGift\h
+Dialogue: 0,0:15:03.01,0:15:09.01,TypePlaceholderBox,,0,0,0,,{\fnTahoma\fs-4\c&H448351&\fax-0.1\3c&H0E97B4&\frz3.405\pos(834,456)}\hLähmung\h
+Dialogue: 0,0:15:03.01,0:15:09.01,TypePlaceholderBox,,0,0,0,,{\fnTahoma\fs-4\c&H4E542F&\3c&HD62E5B&\fax-0.1\frz3.437\pos(1051.5,439.5)}\hEntkräftung\h
+Dialogue: 0,0:15:03.01,0:15:09.01,TypePlaceholderBox,,0,0,0,,{\fnTahoma\fs-4\c&H2F5F2C&\3c&H63009D&\fax-0.1\pos(1290,427.5)\frz3.238}\hErschöpfung\h
+Dialogue: 0,0:15:03.01,0:15:09.01,TypePlaceholderBox,,0,0,0,,{\fnTahoma\fs-4\c&H1E510D&\3c&H079026&\fax-0.1\frz4.19\pos(1525.5,409.5)}\hAgilität↓\h
+Dialogue: 0,0:15:09.01,0:15:11.35,TypePlaceholder,,0,0,0,,{\fnVerdana\an2\bord6\b0\c&H000000&\3c&HFFFFFF&\fs\fad(0,0)\pos(960,889.5)}Debuff = Statusverschlechterung
+Dialogue: 0,0:15:29.28,0:15:31.74,TypePlaceholder,,0,0,0,,{\fnVerdana bold\bord9\fad(199,0)\fs-1\c&HFDFBA1&\3c&H2F140A&\pos(805.5,67.5)}Strohpuppe der Vergeltung\N{\fnTahoma\b0\fs-1\c&H907E79&}Indem du sie mit der Hand zerdrückst,\Nkannst du auf dich gewirkte Magie zurückwerfen.\N\NVersuchst du, das „Etwas“ im Kern\Nder Puppe bloßzulegen, stirbst du auf der Stelle.
+Dialogue: 1,0:16:17.66,0:16:20.42,TypePlaceholder,,0,0,0,,{\fnImpact\b0\bord19.5\fsp6\fad(160,0)\an1\fs-1\fax-0.3\c&HFCC630&\3c&H0E1916&\frz22\pos(739.5,363)}Zerreißender Angriff:\N{\fs+6}„Festungsspalter“
+Dialogue: 2,0:16:17.66,0:16:20.42,TypePlaceholder,,0,0,0,,{\fnImpact\b0\bord7.5\fsp6\fad(160,0)\an1\fs-1\fax-0.3\c&HF59820&\3c&HFDFEF6&\t(241,242,\c&HFEFEFA&\3c&HEEEC60&\blur6)\t(368,493,\blur0\c&HF6BA2D&\3cHFDFEF6&)\frz22\pos(739.5,363)}Zerreißender Angriff:\N{\fs+6}„Festungsspalter“
+Dialogue: 0,0:16:46.19,0:16:49.66,TypePlaceholder,,0,0,0,,{\fnImpact\fsp3\fax-0.3\shad3\an2\bord4.5\c&HC3A72B&\3c&HF4F3CA&\4c&HB19578&\move(61.5,118.5,298.5,120,147,606)}Sunraku
+Dialogue: 0,0:16:49.66,0:16:54.83,TypePlaceholder,,0,0,0,,{\fnImpact\fs+6\fax-0.3\shad6\pos(936,165)\c&HBFA71B&\3c&HFDFDF4&\4c&HA59D8D&}Sunraku
+Dialogue: 0,0:17:08.42,0:17:10.51,TypePlaceholder,,0,0,0,,{\fnGeorgia bold\i1\fs-2\c&H151613&\an2\bord0\frz0.8512\pos(967.5,1062)\fad(0,250)}Stetiger\NFortschritt
+Dialogue: 0,0:17:24.44,0:17:26.86,TypePlaceholder,,0,0,0,,{\c&HFFFCF4&\3c&H996759&\4c&H996759&\fnImpact\b0\fs-5\fsp6\bord3\shad3\pos(1030.5,624)}Sommerferien-Aktion\NServer-Kapazitäten\Nausgebaut
+Dialogue: 1,0:18:12.95,0:18:19.95,TypePlaceholder,,0,0,0,,{\fnImpact\fsp6\bord7.5\fs-3\fax0.3\an2\c&H51713E&\3c&HBBBDA4&\frz206.2\t(0,0,\fscx95\fscy95)\move(712.5,592.5,724.5,589.5,25,6991)}Frog Swimmer
+Dialogue: 2,0:18:12.95,0:18:19.95,TypePlaceholder,,0,0,0,,{\fnImpact\fsp6\bord4.5\fs-3\fax0.3\an2\c&H51713E&\3c&HDEEFDC&\frz206.2\t(0,0,\fscx95\fscy95)\move(712.5,592.5,724.5,589.5,25,6991)}Frog Swimmer
+Dialogue: 1,0:18:12.95,0:18:19.95,TypePlaceholder,,0,0,0,,{\fnImpact\fsp6\bord7.5\fs-3\fax-0.3\an2\c&H5449C8&\3c&H132830&\t(0,0,\fscx95\fscy95)\frz357.5\move(1207.5,424.5,1188,426,25,6991)}Battle Circuit
+Dialogue: 2,0:18:12.95,0:18:19.95,TypePlaceholder,,0,0,0,,{\fnImpact\fsp6\bord4.5\fs-3\fax-0.3\an2\c&H5449C8&\3c&HCEDEE2&\t(0,0,\fscx95\fscy95)\frz357.5\move(1207.5,424.5,1188,426,25,6991)}Battle Circuit
+Dialogue: 0,0:18:19.95,0:18:22.96,TypePlaceholder,,0,0,0,,{\fnTahoma\b0\c&HDADBD8&\fs-2\3c&H627187&\bord3\frz68.98\move(1125,426,1434,810,22,2984)}Modernes Japanisch
+Dialogue: 0,0:18:19.95,0:18:22.96,TypePlaceholder,,0,0,0,,{\fnTahoma\c&H30322C&\3c&HE0DFDA&\fs-1\frz81.69\move(913.5,447,1225.5,843,22,2984)}Animal Fight Online
+Dialogue: 0,0:18:19.95,0:18:22.96,TypePlaceholder,,0,0,0,,{\fnTahoma\fs-1\c&HE7D0C6&\3c&H704727&\frz82.43\move(819,402,1129.5,790.5,22,2984)}Galaxy Traveler
+Dialogue: 0,0:18:19.95,0:18:22.96,TypePlaceholder,,0,0,0,,{\fnComic Sans MS Bold\fsp6\fs+2\c&HF17DE5&\3c&HB95EB1&\frz81.72\move(700.5,397.5,1012.5,790.5,22,2984)}Costume Fight
+Dialogue: 0,0:18:19.95,0:18:22.96,TypePlaceholder,,0,0,0,,{\fnTahoma\c&H30322C&\3c&HE0DFDA&\fs-1\frz81.69\move(610.5,342,922.5,738,22,2984)}Cosmo Buster
+Dialogue: 0,0:18:19.95,0:18:22.96,TypePlaceholder,,0,0,0,,{\fnTahoma\c&H5C763E&\3c&HE0DFDA&\fs-1\frz81.69\move(495,366,807,762,22,2984)}Berserk Online Passion
+Dialogue: 0,0:18:19.95,0:18:22.96,TypePlaceholder,,0,0,0,,{\fnTahoma\c&H30322C&\3c&HE0DFDA&\fs-1\frz81.69\move(391.5,316.5,703.5,712.5,22,2984)}Unite Rounds
+Dialogue: 0,0:18:19.95,0:18:22.96,TypePlaceholder,,0,0,0,,{\fnVerdana\b0\bord9\fs-2\c&H1E211E&\3c&HD6D8D3&\frz80.18\move(132,283.5,441,667.5,22,2984)}Mathe leicht gemacht
+Dialogue: 0,0:18:19.95,0:18:22.96,TypePlaceholder,,0,0,0,,{\fnGeorgia bold\c&H091815&\fs-1\3c&HBEE1DB&\frz79.84\move(54,235.5,363,628.5,22,2984)}Geschichte des Judo
+Dialogue: 0,0:18:20.70,0:18:22.96,TypePlaceholder,,0,0,0,,{\fnVerdana\b0\fsp3\fs-3\c&H262823&\3c&HD3D3D3&\frz79.33\move(-46.5,328.5,178.5,625.5,23,2234)}Englische Grammatik
+Dialogue: 0,0:18:48.32,0:18:50.32,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\fsp3\pos(1008,67.5)\blur3\c&HF8FFFF&\3c&HECDDB4&}Ein Briefvogel von {\fnImpact\b0\fs+2\c&HB3980D&\3c&HFCFBEC&}Saiga-100\N{\fnVerdana bold\fs\c&HF8FFFF&\3c&HECDDB4&}ist eingetroffen.
+Dialogue: 0,0:18:50.32,0:18:52.82,TypePlaceholder,,0,0,0,,{\fnVerdana\fsp6\fs-1\c&HFFFEF8&\bord4.2\3c&H878034&\fad(0,462)\pos(982.5,841.5)}Gasthaus Sekundir
+Dialogue: 0,0:18:55.32,0:18:56.74,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\fsp3\blur3\c&HF8FFFF&\3c&HECDDB4&\pos(1390.5,57)}Ein Briefvogel von {\fnImpact\b0\fs+2\c&HB3980D&\3c&HFCFBEC&}Saiga-100\N{\fnVerdana bold\fs\c&HF8FFFF&\3c&HECDDB4&}ist eingetroffen.
+Dialogue: 1,0:18:58.16,0:19:01.12,TypePlaceholder,,0,0,0,,{\p1\c&HE2EEEC&\3c&H3B4642&\pos(1491,30)}m 0 0 l 810 0 l 810 600 l 0 600
+Dialogue: 2,0:18:58.16,0:19:01.12,TypePlaceholder,,0,0,0,,{\an7\fnTahoma\fs-1\bord0\c&H4D5854&\pos(1113,45)}Von: {\c&H969D38&}Saiga-100\N\N{\fnTahoma\b0\fs-1\c&H4D5854&}An Saiga-0:\N\NTut mir leid, aber du musst deine private\NSuche bitte unterbrechen.\NEs gibt da einen Spieler, mit dem ich\Nunbedingt sprechen will, daher möchte ich,\Ndass du ihn findest.\N\NEr ist in der Nähe von Sekundir und soll\Nein Kleidung tragendes, sprechendes\NKillerkaninchen bei sich haben.
+Dialogue: 0,0:19:39.45,0:19:47.29,TypePlaceholder,,0,0,0,,{\p1\c&HE9E3E1&\3c&H686C6E&\pos(1491,30)}m 0 0 l 810 0 l 810 405 l 0 405
+Dialogue: 0,0:19:39.45,0:19:47.29,TypePlaceholder,,0,0,0,,{\fnTahoma\fs-3\c&H5D5137&\bord0\an7\pos(1101,40.5)}75: {\c&H44B631&}Alinoiyu (Anfängerin)\N{\c&H5D5137&}Ich habe eine Frage an die erfahreneren\NPioniere.\NBeim Besorgen von Ausrüstung in Sekundir\Nbin ich diesem Spieler begegnet.\NEr hatte ein total süßes, sprechendes\NHäschen bei sich.\NWie kann man dieses Monster zu einem\NGefährten machen?
+Dialogue: 0,0:20:16.45,0:20:21.45,TypePlaceholder,,0,0,0,,{\fnVerdana\an2\bord6\b0\c&H000000&\3c&HFFFFFF&\fs+2\fad(0,0)\pos(960,894)}PvP = Ein Kampf unter Spielern
+Dialogue: 0,0:22:25.16,0:22:28.45,TypePlaceholder,,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\pos(960,45)}Übersetzung: Markus Lange
+Dialogue: 0,0:22:25.16,0:22:28.45,TypePlaceholder,,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\an2\pos(960,1035)}Spotting: Michael Gohl
+Dialogue: 0,0:22:28.45,0:22:31.79,TypePlaceholder,,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\pos(960,45)}Revision & Typesetting: Jacqueline Philippi
+Dialogue: 0,0:22:28.45,0:22:31.79,TypePlaceholder,,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\an2\pos(960,1035)}Qualitätskontrolle: Konrad Walter
+Dialogue: 0,0:22:31.79,0:22:34.67,TypePlaceholder,,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\pos(960,45)}Projektleitung: Tobias Philippi
+Dialogue: 0,0:23:42.94,0:23:50.20,TypePlaceholder,,0,0,0,,{\fnComic Sans MS Bold\fs+4\bord0\shad6\fs+6\c&H7CEDEF&\4c&H51CBDA&\pos(960,9)}Sh{\c&HC297F0&\4c&H966CD6&}a{\c&H679FF8&\4c&H3171D7&}n{\c&HDE72BD&\4c&HB64897&}F{\c&H5B63E6&\4c&H484FC2&}ro
+Dialogue: 0,0:23:46.74,0:23:50.20,TypePlaceholder,,0,0,0,,{\fnComic Sans MS Bold\fad(493,0)\fs+5\fax-0.15\an3\c&HFAFFFE&\3c&H376777&\4c&H1C3F4D&\shad3.9\bord3.9\pos(1831.5,859.5)}#9 Das Essen in ShanFro ist widerlich?
+Dialogue: 0,0:23:47.32,0:23:50.20,TypePlaceholder,,0,0,0,,{\c&H515655&\fnComic Sans MS Bold\fad(333,0)\fs+2\bord0\frz43.99\pos(1447.5,118.5)}Mini
+Dialogue: 0,0:23:47.32,0:23:50.20,TypePlaceholder,,0,0,0,,{\c&H515655&\fnComic Sans MS Bold\fad(333,0)\fs+2\bord0\frz43.99\pos(1447.5,118.5)}Mini
+Dialogue: 0,0:23:50.20,0:25:17.29,Default,,0,0,0,,{\fnComic Sans MS Bold\fad(0,0)\fs+2\fax-0.15\an9\c&HFAFFFE&\3c&H376777&\4c&H1C3F4D&\alpha&H30&\shad3.9\bord3.9\pos(1824,112.5)}ShanFro-Theater
+Dialogue: 0,0:25:07.07,0:25:08.69,TypePlaceholder,,0,0,0,,{\an7\pos(1453.5,612)\org(1453.5,612)\fscx100\fscy96.977\frz0\fry-180\frx5.104\fax0.15\fnTahoma\b0\xbord0\ybord0\c&HF4DFDB&\fad(246,0)}Die Geschmacksbegrenzung\Nwurde um eine Stufe angehoben.
+Dialogue: 0,0:25:08.69,0:25:11.36,TypePlaceholder,,0,0,0,,{\fnTahoma\b0\bord0\c&HF4DFDB&\fad(0,0)\an7\pos(435,204)}Die Geschmacksbegrenzung\Nwurde um eine Stufe angehoben.
+Dialogue: 0,0:25:12.66,0:25:17.29,TypePlaceholder,,0,0,0,,{\fnTimes New Roman Bold\bord0\fsp3\fad(536,0)\fs+3\an7\c&H000000&\pos(144,715.5)}Die Aufhebung der Geschmacksbegrenzung\Nerfolgt durch den Verzehr hochwertiger Nahrung.

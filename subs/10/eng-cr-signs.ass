@@ -1,0 +1,48 @@
+﻿[Script Info]
+Title: English (US)
+ScaledBorderAndShadow: yes
+Original Script: kodansha  [http://www.crunchyroll.com/user/kodansha]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+LayoutResX: 1920
+LayoutResY: 1080
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+Style: Sign_Basic,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,6,3,2,30,30,54,1
+Style: Ep_Title,Arial,60,&H00FFFFFF,&H000000FF,&H00000000,&H00BE9829,-1,0,0,0,100,100,0,0,1,0,6,1,132,30,12,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:02:58.37,0:03:04.00,Ep_Title,sign,0,0,0,,{\fad(575,550)}Let's Go Tomb Raiding!!
+Dialogue: 0,0:03:24.06,0:03:25.64,Sign_Basic,sign,0,0,0,,{\pos(960,414)\c&H86837A&\3c&H150000&\bord12\shad0}Other players are\Nfighting this area boss.
+Dialogue: 0,0:05:00.95,0:05:04.87,Sign_Basic,sign,0,0,0,,{\fad(75,0)\pos(1172.001,98.001)\an7\c&HC3C589&\3c&H1B1107&\shad0}Rush Slash\NQuick Spin\NLoop Slash Lv. 5\N Accel Lv. 6\N One-Boat Leap
+Dialogue: 0,0:05:11.42,0:05:13.38,Default,sign,0,0,0,,{\fad(100,0)\pos(1386,750)\c&HFAF5A5&\fnArial\b1\shad0\3c&H2A1B11&}One-Boat Leap
+Dialogue: 0,0:06:17.06,0:06:20.19,Sign_Basic,sign,0,0,0,,{\fad(125,450)\an2\b1\c&H2C2AEC&\bord9\3a&H60&\shad0\3c&H000050&\pos(612,720)}Area Boss\N{\fnArial\c&H2C2AEC&\bord9\3a&H60&\shad0\3c&H000050&}Clown Spider
+Dialogue: 0,0:06:34.08,0:06:35.58,Sign_Basic,sign,0,0,0,,{\fad(450,0)\an8\fnImpact\b1\i1\fs90\shad6\c&HF9C130&\3c&HFFFFFF&\bord9\fscy140\fsp3\pos(930,60)}Loop Slash
+Dialogue: 0,0:07:00.82,0:07:02.15,Sign_Basic,sign,0,0,0,,{\fad(225,0)\c&HE8E997&\an8\b1\fs60\3c&H1A0100&\shad0\bord9\pos(374.001,63.999)}Throwing Knife\N{\c&H7F726B&\b0\fs36}equipped.
+Dialogue: 0,0:09:12.91,0:09:14.74,Sign_Basic,sign,0,0,0,,{\an8\b1\fnArial\c&H2C2AEC&\bord9\fs78\b0\3a&H60&\shad0\3c&H000050&\pos(1242,300)}Area Boss\N{\b1}Clown Spider
+Dialogue: 0,0:09:13.37,0:09:14.74,Sign_Basic,sign,0,0,0,,{\fad(250,0)\fnArial\b1\fs60\3c&H181839&\shad0\frz10.07\pos(1260,402)}Dispatch Complete
+Dialogue: 0,0:09:38.89,0:09:42.14,Sign_Basic,sign,0,0,0,,{\pos(1182,468)\an7\fs30\frz349.5\fax-.2\c&HA1A09C&\bord0\shad0}Let's get up to some mischief!\N\NFrom: Pencil Knight\N To: Modor Katzo
+Dialogue: 0,0:10:03.71,0:10:09.09,Sign_Basic,sign,0,0,0,,{\an5\pos(929.903,168)\org(930,168)\fscx99.784\fscy99.946\frz0\fry-1.335\frx-0.668\fax0.002\fnImpact\fs90\fsp3\b1\i1\xbord5.99\ybord6\xshad1.496753\yshad1.499188\c&HA59014&\3c&HFFFFFF&\fad(1375,0)}Oikatzo
+Dialogue: 0,0:10:15.59,0:10:17.60,Sign_Basic,sign,0,0,0,,{\an8\fs48\3c&H6A3836&\4c&H5D443B&\bord3\fnArial\b1\frx46\fry338\fay-.34\frz1.855\move(852,354,852,441)}Major Summer Update!!
+Dialogue: 0,0:10:15.59,0:10:17.60,Sign_Basic,sign,0,0,0,,{\an8\fs48\3c&HBABBBF&\bord6\shad0\fnArial\b1\frx46\fry338\fay-.32\frz1.855\move(1170,366,1170,453)\c&H99633E&}The Severed Sea
+Dialogue: 0,0:10:15.59,0:10:17.60,Sign_Basic,sign,0,0,0,,{\an8\fs48\3c&HBABBBF&\bord6\shad0\fnArial\b1\frx46\fry338\fay-.2\frz1.855\c&H99633E&\move(1044,624,1044,711)}The Frontier Fleet
+Dialogue: 0,0:10:15.59,0:10:17.60,Sign_Basic,sign,0,0,0,,{\an8\fs48\3c&HBABBBF&\bord6\shad0\fnArial\b1\frx46\fry338\fay-.15\frz1.855\c&H99633E&\move(648,780,648,867)}The New Land
+Dialogue: 0,0:11:48.02,0:11:55.24,Sign_Basic,sign,0,0,0,,{\move(732,36,732,384)\an8\fnArial\b1\c&H5F82F3&\3c&HE7EAE7&\shad0\frz339.4}Kei Uomi\N{\c&H698CE0&\fs54\b0}Pro Gamer
+Dialogue: 0,0:12:18.22,0:12:23.47,Sign_Basic,sign,0,0,0,,{\shad0\fs36\3c&H375727&\move(969.999,272.001,969.999,374.001)}Pencil Knight
+Dialogue: 0,0:12:31.19,0:12:43.58,Sign_Basic,sign,0,0,0,,{\shad0\fs36\3c&H375727&\pos(363.999,126)}Sunraku
+Dialogue: 0,0:12:31.19,0:12:43.58,Sign_Basic,sign,0,0,0,,{\shad0\fs36\3c&H375727&\pos(970.002,159.999)}Pencil Knight
+Dialogue: 0,0:12:31.19,0:12:43.58,Sign_Basic,sign,0,0,0,,{\shad0\fs36\3c&H375727&\pos(1536,135.999)}Katzo Tataki
+Dialogue: 0,0:15:42.34,0:15:46.34,Sign_Basic,sign,0,0,0,,{\shad0\fs36\3c&H375727&\b1\pos(975,180)}Pencil Knight
+Dialogue: 0,0:15:46.34,0:15:50.89,Sign_Basic,sign,0,0,0,,{\fad(1,500)\shad0\fs48\b1\bord3\blur3\3c&H375727&\pos(330,150)}Sunraku
+Dialogue: 0,0:15:46.34,0:15:50.89,Sign_Basic,sign,0,0,0,,{\fad(1,500)\shad0\fs48\b1\bord3\blur3\3c&H375727&\pos(1524,165)}Katzo Tataki
+Dialogue: 0,0:16:25.63,0:16:28.51,Sign_Basic,sign,0,0,0,,{\fad(375,0)\c&H754B20&\bord0\shad0\b1\fs42\pos(969.999,636)\fay-.1}Weekly
+Dialogue: 0,0:16:25.63,0:16:28.51,Sign_Basic,sign,0,0,0,,{\fad(375,0)\fs90\fnImpact\an7\c&H754223&\3c&HF5EFD8&\fay-.1\pos(912,630)}VR Full Diver
+Dialogue: 0,0:16:25.63,0:16:28.51,Sign_Basic,sign,0,0,0,,{\c&HD4D7CD&\3c&H463CCD&\shad0\b1\fnArial\fs42\frz16.82\pos(681.999,906)}Comes with \N{\c&H4A3ED4&\3c&HCFDCD1&}B3 Poster\N{\c&HD4D7CD&\3c&H463CCD&}of the cover page
+Dialogue: 0,0:17:32.74,0:17:41.00,Sign_Basic,sign,0,0,0,,{\pos(1584,960)\fnTimes New Roman\c&H221E19&\bord0\shad0\b1}Judo
+Dialogue: 0,0:18:22.71,0:18:26.71,Sign_Basic,sign,0,0,0,,{\c&H5F615C&\3c&HEDF0ED&\shad0\an7\fs48\pos(705,60)}From: {\c&HB7D87F&}Pencil Knight\N{\c&H5F615C&\3c&HEDF0ED&}To: {\c&HB7D87F&}Sunraku\N{\c&H5F615C&\3c&HEDF0ED&}Get over here\N Are you dying of remorse over keeping me waiting?\NAre you okay? Should I call an ambulance?

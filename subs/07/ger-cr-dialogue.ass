@@ -1,0 +1,307 @@
+﻿[Script Info]
+Title: Deutsch
+ScaledBorderAndShadow: yes
+Original Script: cr_de  [http://www.crunchyroll.com/user/cr_de]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+LayoutResX: 1920
+LayoutResY: 1080
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+Style: Alt,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00743E15,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+Style: Flashback,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00013E12,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.94,0:00:07.03,Default,Erzählerin,0,0,0,,Auf dieser Welt gibt es\Nunzählige Videospiele.
+Dialogue: 0,0:00:07.99,0:00:12.49,Default,Erzählerin,0,0,0,,Doch die meisten davon gehen unter,\Nohne je bekannt gewesen zu sein.
+Dialogue: 0,0:00:13.62,0:00:16.41,Default,Erzählerin,0,0,0,,An der Spitze dieser Spiele steht
+Dialogue: 0,0:00:16.41,0:00:21.75,Default,Erzählerin,0,0,0,,das Full-Dive-VR-Game mit einer\Nweltweiten Spielerzahl von über 30 Millionen,
+Dialogue: 0,0:00:21.75,0:00:26.46,Default,Erzählerin,0,0,0,,das es absolut verdient, als Meisterwerk\Nbezeichnet zu werden: Shangri-La Frontier.
+Dialogue: 0,0:00:28.17,0:00:32.01,Default,Erzählerin,0,0,0,,Rakuro Hizutome, ein Junge,\Nder Trash-Games über alles liebt,
+Dialogue: 0,0:00:32.01,0:00:35.93,Default,Erzählerin,0,0,0,,wagt sich an das Meisterwerk\NShangri-La Frontier.
+Dialogue: 0,0:00:35.93,0:00:40.77,Default,Erzählerin,0,0,0,,Welche Abenteuer werden ihn\Nauf seinem Weg wohl erwarten?
+Dialogue: 0,0:02:23.50,0:02:27.21,Default,Rakuro,0,0,0,,Das Spiel war voller Bugs,\Ngegen die man nichts machen konnte,
+Dialogue: 0,0:02:27.21,0:02:29.92,Default,Rakuro,0,0,0,,und es hatte nur eine Autosave-Funktion.
+Dialogue: 0,0:02:29.92,0:02:32.22,Default,Rakuros Freund,0,0,0,,Ich check’s nicht so ganz,\Naber klingt spaßig.
+Dialogue: 0,0:02:32.22,0:02:35.47,Default,Rakuro,0,0,0,,Nein, ist es nicht. Game-breaking Bugs
+Dialogue: 0,0:02:36.01,0:02:37.51,Default,Rakuro,0,0,0,,sind echt scheiße.
+Dialogue: 0,0:02:37.51,0:02:39.68,Default,Rakuros Freund,0,0,0,,Warum spielst du es dann?
+Dialogue: 0,0:02:39.68,0:02:40.60,Default,Rakuro,0,0,0,,Weil’s Spaß macht.
+Dialogue: 0,0:02:40.60,0:02:41.47,Default,Rakuros Freund,0,0,0,,Hey.
+Dialogue: 0,0:02:41.89,0:02:44.19,Default,Rei,0,0,0,,{\i1}Er lachte immerzu.
+Dialogue: 0,0:02:54.53,0:02:57.32,Default,Freund B,0,0,0,,Oh, Rakuro, ist das\Ndie neueste Ausgabe?
+Dialogue: 0,0:02:58.20,0:03:01.41,Default,Freund B,0,0,0,,Was?
+Dialogue: 0,0:02:59.33,0:03:01.41,Default,Rei,0,0,0,,{\i1}Er schien stets Spaß zu haben.
+Dialogue: 0,0:03:15.55,0:03:17.30,Default,Rei,0,0,0,,{\i1}Dadurch begann ich, …
+Dialogue: 0,0:03:17.89,0:03:19.80,Default,Rei,0,0,0,,{\i1}mich für ihn zu interessieren.
+Dialogue: 0,0:03:28.40,0:03:32.02,Default,Rei,0,0,0,,{\i1}So kam es, dass ich\Nüberall nach ihm Ausschau hielt.
+Dialogue: 0,0:03:51.13,0:03:52.84,Default,Rakuro,0,0,0,,Hi, Rakuro!
+Dialogue: 0,0:03:52.84,0:03:53.42,Default,Rakuros Freund,0,0,0,,Hey.
+Dialogue: 0,0:03:53.42,0:03:55.51,Default,Rakuro,0,0,0,,{\an8}Wieder die Nacht durchgezockt?
+Dialogue: 0,0:03:53.42,0:03:55.51,Default,Rei,0,0,0,,{\i1}Immer wieder wollte\Nich ihn ansprechen, doch …
+Dialogue: 0,0:03:55.51,0:03:59.55,Default,Rakuro,0,0,0,,{\an8}Tja, also, hör’s dir an:\NEs war wirklich grauenvoll!
+Dialogue: 0,0:03:56.92,0:03:58.93,Default,Rei,0,0,0,,{\i1}Wenn ich eines Tages …
+Dialogue: 0,0:03:59.55,0:04:02.56,Default,Rakuro,0,0,0,,{\an8}Echt der absolute Obermüll!
+Dialogue: 0,0:03:59.55,0:04:02.56,Default,Rei,0,0,0,,{\i1}mit ihm, mit Rakuro, sprechen könnte …
+Dialogue: 0,0:04:02.93,0:04:06.31,Default,Rei,0,0,0,,{\i1}Selbst wenn es\Nnur in einem Spiel wäre …
+Dialogue: 0,0:04:09.35,0:04:13.44,Default,Sunraku,0,0,0,,Verdammt! Macht mir mein Meisterwerk\Nbloß nicht zum Trash-Game!
+Dialogue: 0,0:04:17.99,0:04:21.70,Default,Kethum,0,0,0,,Gib endlich auf\Nund spuck die Infos aus!
+Dialogue: 0,0:04:25.12,0:04:28.25,Default,Saiga-0,0,0,0,,Zerreißender Angriff:\N„Festungsspalter“!
+Dialogue: 0,0:04:32.79,0:04:35.00,Default,Emul,0,0,0,,W-Was ist das?!
+Dialogue: 0,0:04:38.13,0:04:40.30,Default,Sunraku,0,0,0,,{\i1}Saiga-0?!
+Dialogue: 0,0:04:40.80,0:04:43.01,Default,Sunraku,0,0,0,,{\i1}Er scheint nicht\Nmit den PKern im Bunde zu sein, …
+Dialogue: 0,0:04:44.18,0:04:46.81,Default,Sunraku,0,0,0,,{\i1}aber sicher ist auch er wegen\Ndes einzigartigen Szenarios hier.
+Dialogue: 0,0:04:46.81,0:04:49.31,Default,Sunraku,0,0,0,,{\i1}So wird das kein Ende nehmen.
+Dialogue: 0,0:04:49.31,0:04:52.31,Default,Sunraku,0,0,0,,{\i1}Überleg dir irgendeinen Weg,\Num durchzubrechen!
+Dialogue: 0,0:04:55.86,0:04:59.24,Default,Animalia,0,0,0,,Kannst du dich vor\Nmeiner Trumpfkarte schützen?
+Dialogue: 0,0:05:00.91,0:05:06.04,Default,Animalia,0,0,0,,Voraussetzungen sind der Skill\N„Arien Auswendiglernen“ und einstellige LP.
+Dialogue: 0,0:05:06.04,0:05:09.08,Default,Animalia,0,0,0,,Dieser Fluch vernichtet\Nmich selbst und meinen Gegner.
+Dialogue: 0,0:05:09.79,0:05:12.46,Default,Pencilgon,0,0,0,,{\i1}Ich hab meine Strohpuppe\Nder Vergeltung aufgebraucht.
+Dialogue: 0,0:05:12.46,0:05:14.63,Default,Pencilgon,0,0,0,,{\i1}Ich kann keine\Nweiteren Flüche reflektieren!
+Dialogue: 0,0:05:15.21,0:05:17.55,Default,Animalia,0,0,0,,Im Austausch für das eigene Leben
+Dialogue: 0,0:05:17.55,0:05:21.93,Default,Animalia,0,0,0,,wendet er den Debuff „sofortiger Tod“ an.\N„Arien Auswendiglernen“!
+Dialogue: 0,0:05:24.01,0:05:25.30,Default,Pencilgon,0,0,0,,Ich hab’s vergeigt.
+Dialogue: 0,0:05:28.39,0:05:29.35,Default,Branch,0,0,0,,Was ist das?!
+Dialogue: 0,0:05:29.35,0:05:30.35,Default,Wrath,0,0,0,,Pencilgon?!
+Dialogue: 0,0:05:35.86,0:05:37.98,Default,Sunraku,0,0,0,,Emul, bereite ein Portal vor.
+Dialogue: 0,0:05:45.62,0:05:46.78,Default,Sunraku,0,0,0,,Sorry.
+Dialogue: 0,0:05:55.79,0:05:56.63,Default,Lemmy,0,0,0,,Wa…!
+Dialogue: 0,0:05:56.63,0:05:58.25,Default,Branch,0,0,0,,M-Mist!
+Dialogue: 0,0:05:58.25,0:06:01.13,Default,Sunraku,0,0,0,,Ihr gebt euch\Neine Menge Blöße, ihr Trottel!
+Dialogue: 0,0:06:06.60,0:06:10.43,Default,Branch,0,0,0,,Lasst ihn nicht in die Stadt!\NDa wimmelt es von Kopfgeldjägern!
+Dialogue: 0,0:06:11.60,0:06:14.35,Default,Branch,0,0,0,,Shiiit!
+Dialogue: 0,0:06:16.40,0:06:18.48,Default,Sunraku,0,0,0,,{\i1}Den Namen sollte ich mir merken.
+Dialogue: 0,0:06:19.23,0:06:20.65,Default,Sunraku,0,0,0,,{\i1}Saiga-0.
+Dialogue: 0,0:06:27.58,0:06:32.33,Default,Branch,0,0,0,,Scheiße! Angriffs-Ass!\NStändig kommst du uns in die Quere!
+Dialogue: 0,0:06:32.33,0:06:34.17,Default,Branch,0,0,0,,Unterschätze das Asura-Bündnis nicht!
+Dialogue: 0,0:06:38.54,0:06:40.17,Flashback,Sunraku,0,0,0,,Sorry.
+Dialogue: 0,0:06:40.17,0:06:41.46,Flashback,Sunraku,0,0,0,,Sorry.
+Dialogue: 0,0:06:41.46,0:06:43.05,Flashback,Sunraku,0,0,0,,Sorry.
+Dialogue: 0,0:06:43.67,0:06:44.76,Flashback,Sunraku,0,0,0,,Sorry.
+Dialogue: 0,0:06:47.35,0:06:52.22,Default,Saiga-0,0,0,0,,{\i1}E-Er hat mich angesprochen!
+Dialogue: 0,0:06:52.22,0:06:54.73,Default,Wrath,0,0,0,,Stimmt mit dem was nicht?
+Dialogue: 0,0:06:54.73,0:06:56.19,Default,Lemmy,0,0,0,,Was hat er?
+Dialogue: 0,0:06:56.52,0:07:00.44,Default,Branch,0,0,0,,Keine Ahnung, aber er bewegt sich nicht mehr!\NDas ist unsere Chance!
+Dialogue: 0,0:07:01.03,0:07:05.45,Default,Branch,0,0,0,,Wenn ich dich hier töte,\Nsteige ich bei den Asura im Rang!
+Dialogue: 0,0:07:05.45,0:07:09.12,Default,Saiga-0,0,0,0,,{\i1}Aber wären diese Leute nicht gewesen,
+Dialogue: 0,0:07:09.12,0:07:11.41,Default,Saiga-0,0,0,0,,{\i1}hätte er noch mehr mit mir geredet!
+Dialogue: 0,0:07:14.79,0:07:15.67,Default,Lemmy,0,0,0,,Hauen wir ab?
+Dialogue: 0,0:07:17.58,0:07:20.00,Default,Saiga-0,0,0,0,,Ab jetzt mache ich meinem Ärger Luft.
+Dialogue: 0,0:07:20.00,0:07:21.67,Default,Saiga-0,0,0,0,,Äh, ich meine, …
+Dialogue: 0,0:07:22.51,0:07:24.01,Default,Saiga-0,0,0,0,,ich lass meinen Frust an euch raus!
+Dialogue: 0,0:07:33.10,0:07:35.06,Default,Sunraku,0,0,0,,Geschafft, wir sind entkommen!
+Dialogue: 0,0:07:36.19,0:07:39.31,Default,Sunraku,0,0,0,,Na, habt ihr gesehen, ihr Suchtis?
+Dialogue: 0,0:07:39.73,0:07:42.32,Default,Sunraku,0,0,0,,Nach Hasingen könnt ihr\Nmir wohl kaum folgen!
+Dialogue: 0,0:07:45.86,0:07:48.03,Default,Sunraku,0,0,0,,Aber du hast mich echt erschreckt.
+Dialogue: 0,0:07:48.03,0:07:52.03,Default,Sunraku,0,0,0,,Hätte nicht erwartet,\Ndass du kein Mana für ein Portal hast.
+Dialogue: 0,0:07:53.95,0:07:56.58,Default,Emul,0,0,0,,Ich hatte alles für\Ndie Verwandlung aufgebraucht.
+Dialogue: 0,0:07:56.58,0:07:59.96,Default,Sunraku,0,0,0,,Wären wir aus Drittlema nicht\Nweggekommen, hätte es übel ausgesehen.
+Dialogue: 0,0:08:00.38,0:08:02.42,Default,Emul,0,0,0,,Lecker.
+Dialogue: 0,0:08:02.42,0:08:05.92,Default,Sunraku,0,0,0,,{\i1}Vorab Manatränke zu kaufen,\Nwar die richtige Entscheidung.
+Dialogue: 0,0:08:05.92,0:08:09.14,Default,Sunraku,0,0,0,,{\i1}Na ja, jedenfalls haben wir\Nunser Ziel sicher erreicht.
+Dialogue: 0,0:08:11.01,0:08:15.14,Default,Sunraku,0,0,0,,{\i1}Eine Mail von Pencil Warrior,\Nnein, Pencilgon.
+Dialogue: 0,0:08:15.14,0:08:16.98,Default,Sunraku,0,0,0,,{\i1}Will sie ihre Niederlage schönreden?
+Dialogue: 0,0:08:17.35,0:08:20.52,Default,Pencilgon,0,0,0,,{\i1}„Ich bin letztendlich durch\Neine Selbstzerstörung gestorben,
+Dialogue: 0,0:08:20.52,0:08:22.36,Default,Pencilgon,0,0,0,,{\i1}ist also nicht so, dass ich verloren hätte.
+Dialogue: 0,0:08:22.36,0:08:27.78,Default,Pencilgon,0,0,0,,{\i1}Kaum zu glauben, dass das Angriffs-Ass\Ndir zu Hilfe geeilt ist. Kennst du ihn?“
+Dialogue: 0,0:08:27.78,0:08:29.99,Default,Pencilgon,0,0,0,,Angriffs-Ass …
+Dialogue: 0,0:08:29.99,0:08:32.49,Default,Pencilgon,0,0,0,,Meint sie diesen Saiga-0?
+Dialogue: 0,0:08:33.12,0:08:35.33,Default,Pencilgon,0,0,0,,{\i1}„Na ja, wie auch immer.
+Dialogue: 0,0:08:35.33,0:08:40.33,Default,Pencilgon,0,0,0,,{\i1}Ich will was besprechen, also lass uns in Unite\NRounds treffen. Ich sag auch Katso Bescheid.
+Dialogue: 0,0:08:40.33,0:08:41.96,Default,Pencilgon,0,0,0,,{\i1}Die Zeit machen wir später aus.“
+Dialogue: 0,0:08:42.50,0:08:44.67,Default,Sunraku,0,0,0,,{\i1}Sie will was besprechen?
+Dialogue: 0,0:08:44.67,0:08:47.97,Default,Sunraku,0,0,0,,{\i1}Sich extra außerhalb\Nvon ShanFro zu treffen, …
+Dialogue: 0,0:08:48.26,0:08:49.88,Default,Sunraku,0,0,0,,{\i1}hat ein Geschmäckle.
+Dialogue: 0,0:08:51.22,0:08:52.97,Default,Sunraku,0,0,0,,{\i1}Wenn man vom Teufel spricht.
+Dialogue: 0,0:08:53.51,0:08:57.18,Default,Katso Tataki,0,0,0,,{\i1}„Ich hab gerade eine Einladung\Nvon Pencil bekommen,
+Dialogue: 0,0:08:57.18,0:09:00.06,Default,Katso Tataki,0,0,0,,{\i1}die eindeutig nach Intrige riecht.
+Dialogue: 0,0:09:00.06,0:09:01.85,Default,Katso Tataki,0,0,0,,{\i1}Was hast du angestellt?“
+Dialogue: 0,0:09:02.27,0:09:04.73,Default,Sunraku,0,0,0,,{\i1}Das ist maximal verdächtig,
+Dialogue: 0,0:09:04.73,0:09:07.86,Default,Sunraku,0,0,0,,{\i1}aber ehrlich gesagt,\Nbin ich ebenso neugierig.
+Dialogue: 0,0:09:07.86,0:09:12.32,Default,Katso Tataki,0,0,0,,{\i1}„Klingt aber irgendwie interessant. Man kann\Nsich ja mal anhören, was sie zu sagen hat.
+Dialogue: 0,0:09:12.32,0:09:14.83,Default,Katso Tataki,0,0,0,,{\i1}Du kneifst doch sicher nicht, oder?“
+Dialogue: 0,0:09:14.83,0:09:18.87,Default,Sunraku,0,0,0,,{\i1}Wenn sogar Katso nachbohrt,\Nkann ich mich unmöglich drücken.
+Dialogue: 0,0:09:18.87,0:09:21.58,Default,Sunraku,0,0,0,,{\i1}Aber jetzt gibt es Wichtigeres.
+Dialogue: 0,0:09:23.00,0:09:24.96,Default,Emul,0,0,0,,Das hat gutgetan.
+Dialogue: 0,0:09:24.96,0:09:26.63,Default,Sunraku,0,0,0,,Ich hab dich lange warten lassen, Emul.
+Dialogue: 0,0:09:27.59,0:09:30.76,Default,Sunraku,0,0,0,,Es ist Zeit, das einzigartige Szenario\Nernsthaft anzugehen!
+Dialogue: 0,0:09:30.76,0:09:34.93,Default,Emul,0,0,0,,Endlich! Hurra, hurra!
+Dialogue: 0,0:09:36.93,0:09:39.48,Default,Sunraku,0,0,0,,Also, was soll ich tun?
+Dialogue: 0,0:09:40.02,0:09:41.56,Default,Sunraku,0,0,0,,Dieser Vash …
+Dialogue: 0,0:09:41.56,0:09:45.98,Default,Sunraku,0,0,0,,Nein, der Chef der Hasen sagte,\Nich könne trainieren oder so was.
+Dialogue: 0,0:09:47.44,0:09:51.45,Default,Emul,0,0,0,,Nun denn, dann führe ich dich\Nin die Arena, die wir
+Dialogue: 0,0:09:51.45,0:09:53.74,Default,Emul,0,0,0,,für praktisches Kampftraining benutzen.
+Dialogue: 0,0:09:54.20,0:09:55.62,Default,Sunraku,0,0,0,,Arena?
+Dialogue: 0,0:10:04.92,0:10:07.38,Default,Emul,0,0,0,,Dies ist das Killerkolosseum!
+Dialogue: 0,0:10:08.71,0:10:10.63,Default,Sunraku,0,0,0,,Ziemlich groß.
+Dialogue: 0,0:10:10.63,0:10:13.55,Default,Emul,0,0,0,,Pap… ähem, der Chef sagt,
+Dialogue: 0,0:10:13.55,0:10:17.72,Default,Emul,0,0,0,,dass du hier gegen\Nzehn Monster kämpfen sollst.
+Dialogue: 0,0:10:17.72,0:10:21.64,Default,Sunraku,0,0,0,,Okay, ich muss also mehrere Kämpfe\Nhintereinander gewinnen.
+Dialogue: 0,0:10:22.02,0:10:26.31,Default,Emul,0,0,0,,Ach! Du darfst übrigens\Nnur „Killer“-Waffen verwenden.
+Dialogue: 0,0:10:26.31,0:10:27.52,Default,Sunraku,0,0,0,,Alles klar.
+Dialogue: 0,0:10:27.52,0:10:28.98,Default,Sunraku,0,0,0,,Okay!
+Dialogue: 0,0:10:29.40,0:10:33.86,Default,Sunraku,0,0,0,,Ich werde schnell hochleveln,\Ndamit Pencilgon
+Dialogue: 0,0:10:33.86,0:10:37.20,Default,Sunraku,0,0,0,,mich nie mehr\Nherablassend behandeln kann!
+Dialogue: 0,0:10:40.49,0:10:41.95,Default,Sunraku,0,0,0,,Also gut.
+Dialogue: 0,0:10:46.00,0:10:47.67,Default,Sunraku,0,0,0,,Lass das erste Monster raus!
+Dialogue: 0,0:10:47.67,0:10:48.75,Default,Emul,0,0,0,,Jawohl!
+Dialogue: 0,0:10:48.75,0:10:51.96,Default,Emul,0,0,0,,Dann geht’s jetzt los!
+Dialogue: 0,0:10:53.47,0:10:57.47,Default,Sunraku,0,0,0,,{\i1}Ich glaube nicht, dass ich beim\Nersten Versuch alle zehn schlagen kann.
+Dialogue: 0,0:10:57.47,0:11:01.77,Default,Sunraku,0,0,0,,{\i1}Ich werde die Bewegungsmuster\Nder Monster durch Ausprobieren lernen
+Dialogue: 0,0:11:01.77,0:11:03.10,Default,Sunraku,0,0,0,,{\i1}und sie dann sicher …
+Dialogue: 0,0:11:03.56,0:11:04.60,Default,Sunraku,0,0,0,,Hä?
+Dialogue: 0,0:11:07.40,0:11:11.40,Default,Spielstimme,0,0,0,,{\an8}Praktisches Kampftraining, 1. Monster.\NÜberzahl-Jagdhunde.
+Dialogue: 0,0:11:11.40,0:11:13.78,Default,Spielstimme,0,0,0,,{\an8}Erscheinen immer in Rudeln\Nvon mehr als fünf.
+Dialogue: 0,0:11:13.78,0:11:16.03,Default,Spielstimme,0,0,0,,{\an8}Durchschnittliches Level: 65.
+Dialogue: 0,0:11:16.66,0:11:18.78,Default,Sunraku,0,0,0,,{\i1}Die sehen irgendwie stark aus, oder?
+Dialogue: 0,0:11:19.16,0:11:23.04,Default,Sunraku,0,0,0,,Halt, halt, halt!\NLevel 65 und dann gleich mehrere?!
+Dialogue: 0,0:11:23.91,0:11:27.88,Default,Emul,0,0,0,,Natürlich, so ist eben\Ndie erste Monsterart.
+Dialogue: 0,0:11:29.29,0:11:33.01,Default,Sunraku,0,0,0,,D-Dann nennt es wenigstens „1. Kampf“!
+Dialogue: 0,0:11:45.35,0:11:48.52,Default,Rei,0,0,0,,Ich hab mit Rakuro gesprochen!
+Dialogue: 0,0:11:54.74,0:11:55.99,Flashback,Sunraku,0,0,0,,Sorry.
+Dialogue: 0,0:12:01.20,0:12:03.95,Default,Rei,0,0,0,,W-Wenn ich ihn das nächste Mal treffe,
+Dialogue: 0,0:12:03.95,0:12:08.08,Default,Rei,0,0,0,,sollte ich vielleicht versuchen,\Nihm eine Freundschaftsanfrage zu schicken.
+Dialogue: 0,0:12:08.62,0:12:11.46,Default,Rei,0,0,0,,Ob er sie annehmen würde?
+Dialogue: 0,0:12:13.38,0:12:15.21,Alt,Sunraku,0,0,0,,Eine Freundschaftsanfrage?
+Dialogue: 0,0:12:17.76,0:12:20.09,Alt,Sunraku,0,0,0,,Natürlich! Okay!
+Dialogue: 0,0:12:21.14,0:12:26.10,Alt,Rakuro,0,0,0,,Saiga-0, danke, dass du\Nmir neulich geholfen hast!
+Dialogue: 0,0:12:26.10,0:12:29.27,Alt,Rakuro,0,0,0,,Lass uns jeden Morgen\Nzusammen zur Schule gehen!
+Dialogue: 0,0:12:30.73,0:12:32.36,Default,Rei,0,0,0,,Oje!
+Dialogue: 0,0:12:41.74,0:12:47.16,Default,Rei,0,0,0,,Aber danach hab ich\NRakuro in Drittlema gesucht,
+Dialogue: 0,0:12:47.16,0:12:49.79,Default,Rei,0,0,0,,ihn jedoch nirgends gefunden.
+Dialogue: 0,0:12:49.79,0:12:52.63,Default,Rei,0,0,0,,Ob er sich ausgeloggt hatte?
+Dialogue: 0,0:12:54.75,0:12:58.09,Default,Rei,0,0,0,,{\i1}Was er wohl gerade macht?
+Dialogue: 0,0:12:59.80,0:13:05.26,Default,Sunraku,0,0,0,,Mistviecher. Die sehen mich\Nganz und gar als gefundenes Fressen!
+Dialogue: 0,0:13:05.26,0:13:08.81,Default,Emul,0,0,0,,Sunraku! Dein siebter Versuch!
+Dialogue: 0,0:13:08.81,0:13:11.52,Default,Emul,0,0,0,,Dieses Mal schaffst du es!
+Dialogue: 0,0:13:12.15,0:13:16.19,Default,Sunraku,0,0,0,,{\i1}Das einzig Gute ist, dass es in der Arena\Nkeine Strafe fürs Sterben gibt.
+Dialogue: 0,0:13:16.19,0:13:18.28,Default,Sunraku,0,0,0,,{\i1}Das Lästige an ihnen
+Dialogue: 0,0:13:18.28,0:13:20.40,Default,Sunraku,0,0,0,,{\i1}ist nicht etwa ihre Anzahl oder ihr Level,
+Dialogue: 0,0:13:20.40,0:13:22.95,Default,Sunraku,0,0,0,,{\i1}sondern ihre\Nperfekt koordinierten Angriffe!
+Dialogue: 0,0:13:22.95,0:13:24.74,Default,Sunraku,0,0,0,,„Abwehrkonter“!
+Dialogue: 0,0:13:24.74,0:13:28.79,Default,Sunraku,0,0,0,,{\i1}Und für diese Zusammenarbeit\Nbraucht es einen Anführer, der Befehle gibt!
+Dialogue: 0,0:13:28.79,0:13:30.16,Default,Sunraku,0,0,0,,„Gleitschritt“!
+Dialogue: 0,0:13:33.42,0:13:37.21,Default,Sunraku,0,0,0,,{\i1}Nach so vielen Kämpfen sehe ich es jetzt.
+Dialogue: 0,0:13:37.59,0:13:42.72,Default,Sunraku,0,0,0,,{\i1}Ein Monster bellt aus sicherer Entfernung\Nund greift überhaupt nicht an.
+Dialogue: 0,0:13:44.39,0:13:46.35,Default,Sunraku,0,0,0,,Du bist also der Anführer!
+Dialogue: 0,0:13:48.02,0:13:50.02,Default,Sunraku,0,0,0,,„Spiralschneide“!
+Dialogue: 0,0:13:59.03,0:14:00.94,Default,Sunraku,0,0,0,,Ich hatte anscheinend recht!
+Dialogue: 0,0:14:00.94,0:14:02.78,Default,Sunraku,0,0,0,,Ihre Kombinationen sind fahrig!
+Dialogue: 0,0:14:03.24,0:14:06.62,Default,Sunraku,0,0,0,,Da ich das nun weiß,\Nwerd ich die hier alle ignorieren!
+Dialogue: 0,0:14:06.62,0:14:10.50,Default,Sunraku,0,0,0,,Ich konzentriere mich auf den Anführer\Nund töte ihn, bevor er weitere Befehle gibt!
+Dialogue: 0,0:14:10.50,0:14:11.50,Default,Sunraku,0,0,0,,Du entkommst nicht!
+Dialogue: 0,0:14:14.29,0:14:15.17,Default,Sunraku,0,0,0,,Hab ich dich!
+Dialogue: 0,0:14:20.51,0:14:22.93,Default,Emul,0,0,0,,Klasse, Sunraku!
+Dialogue: 0,0:14:23.43,0:14:27.39,Default,Sunraku,0,0,0,,Vor Monstern, die ihren Anführer verloren\Nhaben und isoliert auf Befehle warten,
+Dialogue: 0,0:14:27.39,0:14:29.56,Default,Sunraku,0,0,0,,muss man keine Angst haben!
+Dialogue: 0,0:14:34.27,0:14:37.40,Default,Sunraku,0,0,0,,Wenn man sie durchschaut hat,\Nsind sie bloß zähe Hunde.
+Dialogue: 0,0:14:37.40,0:14:40.11,Default,Emul,0,0,0,,Fantastisch, Sunraku!
+Dialogue: 0,0:14:40.11,0:14:44.99,Default,Spielstimme,0,0,0,,Praktisches Kampftraining, 1. Monster:\NÜberzahl-Jagdhunde, abgeschlossen.
+Dialogue: 0,0:14:46.57,0:14:49.41,Default,Emul,0,0,0,,Gut gekämpft, Sunraku!
+Dialogue: 0,0:14:49.41,0:14:51.95,Default,Sunraku,0,0,0,,Als Nächstes kommen\Nnicht wieder mehrere, oder?
+Dialogue: 0,0:14:51.95,0:14:54.96,Default,Emul,0,0,0,,Das Nächste ist wirklich ein einzelnes.
+Dialogue: 0,0:14:55.29,0:14:57.29,Default,Sunraku,0,0,0,,Das will ich doch hoffen.
+Dialogue: 0,0:15:03.38,0:15:07.85,Default,Spielstimme,0,0,0,,{\an8}Praktisches Kampftraining, 2. Monster:\NParasitententakel.
+Dialogue: 0,0:15:09.85,0:15:12.64,Default,Sunraku,0,0,0,,Gefühlt sind das aber mehrere!
+Dialogue: 0,0:15:15.31,0:15:19.57,Default,Sunraku,0,0,0,,{\i1}Wie der Name schon sagt, waren die Tentakel\Nder Körper des Monsters, nicht der Bär.
+Dialogue: 0,0:15:19.57,0:15:22.99,Default,Sunraku,0,0,0,,{\i1}Ich griff sie immer wieder an,\Nwich ihren Attacken aus,
+Dialogue: 0,0:15:22.99,0:15:26.95,Default,Sunraku,0,0,0,,{\i1}und als ich die siebte abschnitt,\Nhörte auch der Bär auf, sich zu bewegen.
+Dialogue: 0,0:15:28.78,0:15:30.70,Default,Sunraku,0,0,0,,{\i1}Ein unfassbar starker Goblin.
+Dialogue: 0,0:15:30.70,0:15:35.66,Default,Sunraku,0,0,0,,{\i1}Anders konnte man ihn nicht beschreiben.\NTrotz seiner Stärke aber letztlich ein Goblin
+Dialogue: 0,0:15:35.66,0:15:38.38,Default,Sunraku,0,0,0,,{\i1}und damit leichter\Nals Hunde oder Tentakel.
+Dialogue: 0,0:15:39.42,0:15:41.50,Default,Sunraku,0,0,0,,Eine beschissene Wildsau.
+Dialogue: 0,0:15:41.50,0:15:46.22,Default,Sunraku,0,0,0,,{\i1}Prallt man während seines Ansturms gegen\Ndie Schnauze, explodiert er. Das geht ja noch,
+Dialogue: 0,0:15:46.22,0:15:49.09,Default,Sunraku,0,0,0,,{\i1}aber seine Ausdauer ist lächerlich.
+Dialogue: 0,0:15:49.09,0:15:54.02,Default,Sunraku,0,0,0,,{\i1}Ich hab’s gemessen und ein Ansturm\Ndauerte etwa 20 Sekunden.
+Dialogue: 0,0:15:54.02,0:15:58.19,Default,Sunraku,0,0,0,,{\i1}Ohne meine Rodeo-Erfahrung\Nhätte es wohl länger gedauert.
+Dialogue: 0,0:15:59.27,0:16:01.52,Default,Sunraku,0,0,0,,{\i1}Na ja, ist allerdings\Nreine Ingame-Erfahrung.
+Dialogue: 0,0:16:03.53,0:16:07.32,Default,Sunraku,0,0,0,,Dir werde ich wirklich\Nabsolut niemals verzeihen.
+Dialogue: 0,0:16:07.32,0:16:09.99,Default,Emul,0,0,0,,Sunraku!
+Dialogue: 0,0:16:11.58,0:16:15.00,Default,Sunraku,0,0,0,,{\i1}Verglichen mit dem Monster zuvor,\Neinem Kackvogel, der aus unerreichbarer Höhe
+Dialogue: 0,0:16:15.00,0:16:19.04,Default,Sunraku,0,0,0,,{\i1}eifrig Giftbomben abwirft,\Nwar das hier ein regelrechter Furz!
+Dialogue: 0,0:16:19.04,0:16:22.09,Default,Sunraku,0,0,0,,{\i1}Kriech dein Leben lang\Nflügellos über den Boden!
+Dialogue: 0,0:16:23.67,0:16:26.59,Default,Sunraku,0,0,0,,{\i1}Schnell und stark, aber nicht zäh.
+Dialogue: 0,0:16:26.59,0:16:30.64,Default,Sunraku,0,0,0,,{\i1}Er zielt darauf ab, den Spieler\Nvon außerhalb dessen Sichtfelds anzugreifen.
+Dialogue: 0,0:16:30.64,0:16:34.14,Default,Sunraku,0,0,0,,{\i1}Sobald man das weiß,\Nist er viel zu leicht zu erledigen.
+Dialogue: 0,0:16:35.97,0:16:40.35,Default,Sunraku,0,0,0,,{\i1}Nicht allzu bemerkenswert.\NWar recht stark.
+Dialogue: 0,0:16:40.35,0:16:41.52,Default,Sunraku,0,0,0,,{\i1}Das ist alles.
+Dialogue: 0,0:16:43.48,0:16:46.69,Default,Sunraku,0,0,0,,{\i1}Nennen wir einen Angriff\Nmit dem rechten Arm „A“
+Dialogue: 0,0:16:46.69,0:16:49.20,Default,Sunraku,0,0,0,,{\i1}und einen mit dem linken „B“.
+Dialogue: 0,0:16:49.20,0:16:53.37,Default,Sunraku,0,0,0,,{\i1}Verknüpft er zwei A-Attacken miteinander,\Nkann er fast ohne Zeitverzögerung zuschlagen.
+Dialogue: 0,0:16:53.37,0:16:56.95,Default,Sunraku,0,0,0,,{\i1}Bei A zu B oder umgekehrt aber leuchtet\Nder Kern in seiner Brust einen Moment lang auf.
+Dialogue: 0,0:16:56.95,0:17:00.29,Default,Sunraku,0,0,0,,{\i1}So kann man seine Angriffe halbwegs lesen\Nund wenn man den Größenunterschied
+Dialogue: 0,0:17:00.29,0:17:03.92,Default,Sunraku,0,0,0,,{\i1}zwischen dem Golem und sich bedenkt,\Nentsteht eine Regelmäßigkeit der Attacken A/B.
+Dialogue: 0,0:17:03.92,0:17:07.13,Default,Sunraku,0,0,0,,{\i1}Daher vermutete ich, dass ich seinen Arm\Nhochrennen und mich dem Kern nähern könnte,
+Dialogue: 0,0:17:07.13,0:17:10.55,Default,Sunraku,0,0,0,,{\i1}sobald ich seinem Angriff ausgewichen war\Nund dieser mich nicht mehr treffen konnte.
+Dialogue: 0,0:17:10.55,0:17:13.35,Default,Sunraku,0,0,0,,{\i1}Als ich das umsetzen wollte, wurde ich\Nvon einem unsichtbaren Kraftfeld weggestoßen
+Dialogue: 0,0:17:13.35,0:17:15.81,Default,Sunraku,0,0,0,,{\i1}und verlor 70 % meiner LP,\Nwas mich dazu zwang, meinen Plan zu ändern.
+Dialogue: 0,0:17:15.81,0:17:18.68,Default,Sunraku,0,0,0,,{\i1}Letztlich legte ich seinen Schwachpunkt frei,\Nindem ich seinen Panzer direkt abriss und …
+Dialogue: 0,0:17:18.68,0:17:22.19,Default,Sunraku,0,0,0,,{\i1}Ach, das nervt! Bin ausgewichen, hab den\NKern abgerissen, ihn verprügelt und gewonnen.
+Dialogue: 0,0:17:26.23,0:17:30.15,Default,Sunraku,0,0,0,,Jaaa! Nur noch eins übrig!
+Dialogue: 0,0:17:32.74,0:17:35.91,Default,Sunraku,0,0,0,,Praktisches Kampftraining,\N9. Monster, abgeschlossen.
+Dialogue: 0,0:17:38.45,0:17:40.79,Default,Sunraku,0,0,0,,{\i1}Moooment.
+Dialogue: 0,0:17:40.79,0:17:45.29,Default,Sunraku,0,0,0,,{\i1}Ich hab so viel gekämpft und bin\Nnur zwei Level aufgestiegen? Ernsthaft?!
+Dialogue: 0,0:17:45.29,0:17:50.84,Default,Sunraku,0,0,0,,{\i1}Schönen Dank auch, Killergeist-Halsband,\Ndass du meine EP-Rate halbierst!
+Dialogue: 0,0:17:52.88,0:17:55.97,Default,Emul,0,0,0,,Sunraku,\Ndu solltest dich lieber ausruhen.
+Dialogue: 0,0:17:55.97,0:17:58.52,Default,Emul,0,0,0,,Deine Augen machen mir Angst.
+Dialogue: 0,0:17:58.52,0:18:00.60,Default,Sunraku,0,0,0,,Was redest du da?
+Dialogue: 0,0:18:00.60,0:18:03.98,Default,Sunraku,0,0,0,,Sie wurden vielmehr optimiert\Nund sind in Höchstform.
+Dialogue: 0,0:18:04.81,0:18:08.28,Default,Sunraku,0,0,0,,Komm, lass schnell\Ndas letzte Monster raus!
+Dialogue: 0,0:18:08.94,0:18:10.86,Default,Vice Ash,0,0,0,,Was?
+Dialogue: 0,0:18:10.86,0:18:11.70,Default,Sunraku,0,0,0,,Hä?
+Dialogue: 0,0:18:12.82,0:18:16.03,Default,Vice Ash,0,0,0,,Du hast das neunte schon besiegt?
+Dialogue: 0,0:18:16.03,0:18:18.41,Default,Vice Ash,0,0,0,,Na, da komme ich ja genau richtig.
+Dialogue: 0,0:18:18.95,0:18:20.04,Default,Sunraku,0,0,0,,Vash …?!
+Dialogue: 0,0:18:20.04,0:18:22.58,Default,Emul,0,0,0,,Pap… ähem, Chef!
+Dialogue: 0,0:18:25.54,0:18:27.25,Default,Sunraku,0,0,0,,{\i1}„Genau richtig“?
+Dialogue: 0,0:18:27.25,0:18:31.05,Default,Sunraku,0,0,0,,{\i1}Mit dem Besiegen des neunten Monsters\Ntriggert man doch eh ein Event, oder?
+Dialogue: 0,0:18:31.38,0:18:36.05,Default,Sunraku,0,0,0,,Ähm, Boss,\Nwas das letzte Monster betrifft …
+Dialogue: 0,0:18:36.05,0:18:41.81,Default,Vice Ash,0,0,0,,Im zehnten Kampf wirst du gegen\Ndiesen Kerl antreten, den ich gefangen habe.
+Dialogue: 0,0:18:41.81,0:18:43.56,Default,Vice Ash,0,0,0,,War ’n ziemlich langer Ausflug.
+Dialogue: 0,0:19:00.54,0:19:04.62,Default,Sunraku,0,0,0,,{\i1}D-Das ist … kein Mensch, oder?
+Dialogue: 0,0:19:05.58,0:19:07.04,Default,Sunraku,0,0,0,,{\i1}Irgendwas Magisches?
+Dialogue: 0,0:19:07.58,0:19:10.59,Default,Vice Ash,0,0,0,,Vor sehr, sehr,\Nsehr langer Zeit gab es Narren,
+Dialogue: 0,0:19:10.59,0:19:16.05,Default,Vice Ash,0,0,0,,die ihr Leben verlängern wollten, indem sie\Nmit Bäumen verschmolzen. Er ist einer davon.
+Dialogue: 0,0:19:16.97,0:19:20.72,Default,Vice Ash,0,0,0,,So wie du jetzt bist, wirst du\Nihn wohl nicht schlagen können.
+Dialogue: 0,0:19:20.72,0:19:23.56,Default,Vice Ash,0,0,0,,Darum lege ich eine Bedingung fest:
+Dialogue: 0,0:19:24.60,0:19:26.06,Default,Sunraku,0,0,0,,Und die wäre?
+Dialogue: 0,0:19:29.06,0:19:31.53,Default,Vice Ash,0,0,0,,Überlebe fünf Minuten.
+Dialogue: 0,0:19:31.53,0:19:35.32,Default,Spielstimme,0,0,0,,{\an8}Einzigartiges Szenario:\N„Eine Einladung aus dem Hasenland“.
+Dialogue: 0,0:19:35.32,0:19:39.07,Default,Spielstimme,0,0,0,,{\an8}Praktisches Kampftraining, 10. Monster:\NWahnsinniger Baummagier.
+Dialogue: 0,0:19:39.70,0:19:43.83,Default,Spielstimme,0,0,0,,{\an8}Siegbedingung aktualisiert:\NÜberlebe 5 Minuten.
+Dialogue: 0,0:19:44.50,0:19:46.54,Default,Sunraku,0,0,0,,{\i1}Ein Ausdauerkampf also?
+Dialogue: 0,0:19:46.92,0:19:50.79,Default,Sunraku,0,0,0,,Wirklich nur fünf Minuten?\NIch muss also bloß wegrennen und …
+Dialogue: 0,0:19:56.38,0:19:58.89,Default,Sunraku,0,0,0,,{\i1}Gab es gerade überhaupt\Neine Angriffsanimation?
+Dialogue: 0,0:20:07.52,0:20:10.02,Default,Vice Ash,0,0,0,,Eine große Klappe ist schön und gut,
+Dialogue: 0,0:20:10.02,0:20:12.90,Default,Vice Ash,0,0,0,,aber lass auch Taten folgen!
+Dialogue: 0,0:20:18.36,0:20:21.37,Default,Sunraku,0,0,0,,Verstehe. Fünf Minuten könnten\Ndoch ein wenig lang sein!
+Dialogue: 0,0:20:23.08,0:20:26.58,Default,Erzählerin,0,0,0,,Unter den\Nüber 30 Millionen ShanFro-Spielern
+Dialogue: 0,0:20:26.58,0:20:30.96,Default,Erzählerin,0,0,0,,war Sunraku der erste,\Nder gegen dieses Monster kämpfte.
+Dialogue: 0,0:20:31.84,0:20:36.01,Default,Erzählerin,0,0,0,,Das sollte Sunraku\Nerst sehr viel später erfahren.
+Dialogue: 0,0:22:10.89,0:22:14.65,Default,Kinder,0,0,0,,ShanFro-Theater!
+Dialogue: 0,0:22:14.65,0:22:16.19,Default,Emul,0,0,0,,Mini!
+Dialogue: 0,0:22:25.62,0:22:28.41,Default,Sunraku,0,0,0,,Vom Boden aus\Nerreichen ihn meine Angriffe nicht.
+Dialogue: 0,0:22:29.16,0:22:30.29,Default,Sunraku,0,0,0,,In dem Fall …
+Dialogue: 0,0:22:32.54,0:22:33.96,Default,Sunraku,0,0,0,,Hab ich dich!
+Dialogue: 0,0:22:39.42,0:22:40.88,Default,Sunraku,0,0,0,,Dir werde ich …
+Dialogue: 0,0:22:41.67,0:22:43.76,Default,Emul,0,0,0,,Sunraku!
+Dialogue: 0,0:22:45.80,0:22:48.64,Default,Sunraku,0,0,0,,… wirklich absolut niemals verzeihen.
+Dialogue: 0,0:22:48.93,0:22:51.10,Default,Emul,0,0,0,,Sunraku!
+Dialogue: 0,0:22:52.35,0:22:55.35,Default,Emul,0,0,0,,Sunrakuuu!
+Dialogue: 0,0:22:56.15,0:22:59.90,Default,Kinder,0,0,0,,ShanFro-Theater!
+Dialogue: 0,0:22:59.90,0:23:01.40,Default,Emul,0,0,0,,Mini!
+Dialogue: 0,0:23:03.82,0:23:06.87,Default,Sunraku,0,0,0,,Ja, ich bin Rakuro Hizutome.
+Dialogue: 0,0:23:07.66,0:23:11.12,Default,Sunraku,0,0,0,,Ja, so ist es. Ich bin Trash-Game-Hunter.
+Dialogue: 0,0:23:11.54,0:23:14.83,Default,Sunraku,0,0,0,,Warum ich gerne Trash-Games spiele?
+Dialogue: 0,0:23:14.83,0:23:19.21,Default,Sunraku,0,0,0,,Ein Sprichwort besagt:\N„Scheue in deiner Jugend keine Mühen.“
+Dialogue: 0,0:23:19.21,0:23:21.46,Default,Sunraku,0,0,0,,Mein Name bedeutet zwar\N„unbeschwertes Kind“,
+Dialogue: 0,0:23:21.46,0:23:25.97,Default,Sunraku,0,0,0,,aber wenn man es sich immer leicht macht,\Nhat man im Leben auch keinen Spaß.
+Dialogue: 0,0:23:25.97,0:23:31.26,Default,Sunraku,0,0,0,,Nur, wenn man den steinigen Weg zu wählen wagt\Nund mit Findigkeit steile Berge überwindet,
+Dialogue: 0,0:23:32.31,0:23:34.56,Default,Sunraku,0,0,0,,kann man die Landschaft,\Ndie sich dahinter erstreckt,
+Dialogue: 0,0:23:34.56,0:23:37.60,Default,Sunraku,0,0,0,,und somit das Leben genießen.

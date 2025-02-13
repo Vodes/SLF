@@ -1,0 +1,48 @@
+﻿[Script Info]
+Title: English (US)
+ScaledBorderAndShadow: yes
+Original Script: kodansha  [http://www.crunchyroll.com/user/kodansha]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+LayoutResX: 1920
+LayoutResY: 1080
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+Style: Flashback,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00013E12,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+Style: Sign_Basic,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,6,3,2,30,30,54,1
+Style: Ep_Title,Arial,60,&H00FFFFFF,&H000000FF,&H00000000,&H00BE9829,-1,0,0,0,100,100,0,0,1,0,6,1,132,30,12,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:23:42.94,0:23:50.20,Sign_Basic,sign,0,0,0,,{\an8\fnArial\b1\fs90\c&H7CEDEF&\shad0\bord0}S{\c&H639FF5&}L{\c&HE171BE&}F {\bord6\c&H4C4F52&\3c&HF0F5F5&}Mini
+Dialogue: 0,0:23:43.65,0:23:47.45,Default,Kids,0,0,0,,{\i1}{\i1}SLF{\i0}{\i0} Theater!
+Dialogue: 0,0:23:46.74,0:23:50.20,Default,sign,0,0,0,,{\fad(450,0)\an1\i1\b1\c&HF1FBFD&\3c&H3D717E&\bord4.5\pos(615,870)}Is the Food Bad in {\i1}SLF{\i0}?
+Dialogue: 0,0:23:47.45,0:23:48.91,Default,Emul,0,0,0,,Mini!
+Dialogue: 0,0:23:50.20,0:25:17.29,Sign_Basic,sign,0,0,0,,{\an9\i1\b1\c&HF1FBFD&\3c&H3D717E&\bord4.5\fs60\pos(1815.999,128.001)}SLF Theater
+Dialogue: 0,0:23:52.70,0:23:54.79,Default,Emul,0,0,0,,Oh, how I love carrots!
+Dialogue: 0,0:23:54.79,0:23:58.50,Default,Emul,0,0,0,,They are truly the greatest of foods!
+Dialogue: 0,0:23:58.50,0:24:01.46,Default,Emul,0,0,0,,The taste, the texture, the shape, the color!
+Dialogue: 0,0:24:01.46,0:24:04.63,Default,Emul,0,0,0,,There has never been a food \Nmore perfect than the carrot!
+Dialogue: 0,0:24:04.63,0:24:06.72,Default,Emul,0,0,0,,Don't you agree, Sunraku-sa—
+Dialogue: 0,0:24:09.22,0:24:10.68,Default,Emul,0,0,0,,S-Sunraku-san?
+Dialogue: 0,0:24:10.68,0:24:12.64,Default,Emul,0,0,0,,Are you eating {\i1}all{\i0} of those?!
+Dialogue: 0,0:24:12.64,0:24:13.47,Default,Sunraku,0,0,0,,Yeah.
+Dialogue: 0,0:24:14.18,0:24:16.89,Default,Sunraku,0,0,0,,Apparently, there're flavor \Nlimiters in this game.
+Dialogue: 0,0:24:16.89,0:24:19.27,Default,Emul,0,0,0,,Flavor limiters?
+Dialogue: 0,0:24:19.60,0:24:23.90,Default,Sunraku,0,0,0,,It might not make sense \Nto an NPC like you, but...
+Dialogue: 0,0:24:23.90,0:24:26.40,Default,Sunraku,0,0,0,,Let's say there're limiters \Non pioneers' tongues,
+Dialogue: 0,0:24:26.40,0:24:30.87,Default,Sunraku,0,0,0,,so anything we eat just tastes \Nvaguely sweet, spicy, or whatever.
+Dialogue: 0,0:24:30.87,0:24:36.04,Default,Sunraku,0,0,0,,But I heard you can remove flavor \Nlimiters if you eat a ton of food.
+Dialogue: 0,0:24:38.12,0:24:39.75,Default,Emul,0,0,0,,I see.
+Dialogue: 0,0:24:39.75,0:24:42.29,Default,Emul,0,0,0,,But I do hope you don't gorge yourself...
+Dialogue: 0,0:24:42.54,0:24:44.00,Default,Sunraku,0,0,0,,{\i1}That's weird.
+Dialogue: 0,0:24:44.00,0:24:46.38,Default,Sunraku,0,0,0,,{\i1}The flavor's doesn't change, \Nno matter how much I eat.
+Dialogue: 0,0:24:47.22,0:24:50.97,Default,Emul,0,0,0,,I brought this one special \Nfrom the Palace of Rabituza!
+Dialogue: 0,0:24:53.80,0:24:57.14,Default,Sunraku,0,0,0,,Boy, I wish I could enjoy food that much...
+Dialogue: 0,0:25:08.69,0:25:11.36,Sign_Basic,sign,0,0,0,,{\an7\bord0\shad0\pos(426,186)\c&HFDE6D9&}One level of flavor\Nlimiter has been removed.
+Dialogue: 0,0:25:12.66,0:25:17.29,Sign_Basic,sign,0,0,0,,{\an7\fnTimes New Roman\c&H030403&\bord0\shad0\b1\pos(150,702)}Flavor limiters are removed\Nthrough consumption of high-quality food items.

@@ -1,0 +1,270 @@
+﻿[Script Info]
+Title: Deutsch
+ScaledBorderAndShadow: yes
+Original Script: cr_de  [http://www.crunchyroll.com/user/cr_de]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+LayoutResX: 1920
+LayoutResY: 1080
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+Style: Flashback,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00013E12,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.90,0:00:06.95,Default,Erzählerin,0,0,0,,Auf dieser Welt gibt es\Nunzählige Videospiele.
+Dialogue: 0,0:00:07.99,0:00:12.41,Default,Erzählerin,0,0,0,,Doch die meisten davon gehen unter,\Nohne je bekannt gewesen zu sein.
+Dialogue: 0,0:00:13.53,0:00:16.50,Default,Erzählerin,0,0,0,,An der Spitze dieser Spiele steht
+Dialogue: 0,0:00:16.50,0:00:21.75,Default,Erzählerin,0,0,0,,das Full-Dive-VR-Game mit einer\Nweltweiten Spielerzahl von über 30 Millionen,
+Dialogue: 0,0:00:21.75,0:00:26.38,Default,Erzählerin,0,0,0,,das es absolut verdient, als Meisterwerk\Nbezeichnet zu werden: Shangri-La Frontier.
+Dialogue: 0,0:00:27.84,0:00:31.97,Default,Erzählerin,0,0,0,,Rakuro Hizutome, ein Junge,\Nder Trash-Games über alles liebt,
+Dialogue: 0,0:00:31.97,0:00:35.18,Default,Erzählerin,0,0,0,,wagt sich an das Meisterwerk\NShangri-La Frontier.
+Dialogue: 0,0:00:35.93,0:00:40.73,Default,Erzählerin,0,0,0,,Welche Abenteuer werden ihn\Nauf seinem Weg wohl erwarten?
+Dialogue: 0,0:02:12.36,0:02:15.70,Default,Vice Ash,0,0,0,,{\an8}Du hast das neunte Monster schon besiegt?
+Dialogue: 0,0:02:16.49,0:02:18.08,Default,Vice Ash,0,0,0,,{\an8}Na, da komme ich ja genau richtig.
+Dialogue: 0,0:02:18.62,0:02:19.87,Default,Sunraku,0,0,0,,Vash …?!
+Dialogue: 0,0:02:19.87,0:02:22.50,Default,Emul,0,0,0,,Pap… ähem, Chef!
+Dialogue: 0,0:02:22.50,0:02:28.21,Default,Vice Ash,0,0,0,,Im zehnten Kampf wirst du gegen\Ndiesen Kerl antreten, den ich gefangen habe.
+Dialogue: 0,0:02:28.21,0:02:29.92,Default,Vice Ash,0,0,0,,War ’n ziemlich langer Ausflug.
+Dialogue: 0,0:02:45.14,0:02:49.15,Default,Sunraku,0,0,0,,D-Das ist … kein Mensch, oder?
+Dialogue: 0,0:02:49.98,0:02:51.32,Default,Sunraku,0,0,0,,Irgendwas Magisches?
+Dialogue: 0,0:02:51.69,0:02:54.86,Default,Vice Ash,0,0,0,,Vor sehr, sehr,\Nsehr langer Zeit gab es Narren,
+Dialogue: 0,0:02:54.86,0:02:59.78,Default,Vice Ash,0,0,0,,die ihr Leben verlängern wollten, indem sie\Nmit Bäumen verschmolzen. Er ist einer davon.
+Dialogue: 0,0:03:01.20,0:03:04.91,Default,Vice Ash,0,0,0,,So wie du jetzt bist, wirst du\Nihn wohl nicht schlagen können.
+Dialogue: 0,0:03:04.91,0:03:07.83,Default,Vice Ash,0,0,0,,Darum lege ich eine Bedingung fest.
+Dialogue: 0,0:03:08.92,0:03:10.34,Default,Sunraku,0,0,0,,Und die wäre?
+Dialogue: 0,0:03:10.34,0:03:12.63,Default,Vice Ash,0,0,0,,Überlebe fünf Minuten.
+Dialogue: 0,0:03:12.63,0:03:16.51,Default,Spielstimme,0,0,0,,{\an8}Einzigartiges Szenario:\N„Eine Einladung aus dem Hasenland“.
+Dialogue: 0,0:03:16.51,0:03:20.35,Default,Spielstimme,0,0,0,,{\an8}Praktisches Kampftraining, 10. Monster:\NWahnsinniger Baummagier.
+Dialogue: 0,0:03:20.97,0:03:25.10,Default,Spielstimme,0,0,0,,{\an8}Siegbedingung aktualisiert:\NÜberlebe 5 Minuten.
+Dialogue: 0,0:03:25.56,0:03:27.31,Default,Sunraku,0,0,0,,{\i1}Ein Ausdauerkampf also?
+Dialogue: 0,0:03:28.52,0:03:30.69,Default,Sunraku,0,0,0,,Wirklich nur fünf Minuten?
+Dialogue: 0,0:03:30.69,0:03:32.19,Default,Sunraku,0,0,0,,Ich muss also bloß wegrennen und …
+Dialogue: 0,0:03:34.15,0:03:34.86,Default,Sunraku,0,0,0,,{\i1}Hä?
+Dialogue: 0,0:03:37.66,0:03:40.28,Default,Sunraku,0,0,0,,{\i1}Gab es gerade überhaupt\Neine Angriffsanimation?
+Dialogue: 0,0:03:47.00,0:03:49.50,Default,Vice Ash,0,0,0,,Eine große Klappe ist schön und gut,
+Dialogue: 0,0:03:49.50,0:03:52.46,Default,Vice Ash,0,0,0,,aber lass auch Taten folgen!
+Dialogue: 0,0:03:57.47,0:04:00.47,Default,Sunraku,0,0,0,,Verstehe. Fünf Minuten könnten\Ndoch ein wenig lang sein!
+Dialogue: 0,0:04:34.50,0:04:36.30,Default,Sunraku,0,0,0,,{\i1}Woraus ist der Typ gemacht?!
+Dialogue: 0,0:04:41.80,0:04:44.43,Default,Sunraku,0,0,0,,{\i1}Physische Attacken sind wirkungslos?!
+Dialogue: 0,0:04:48.18,0:04:50.94,Default,Sunraku,0,0,0,,{\i1}Bleibt mir also nur,\Nständig auszuweichen.
+Dialogue: 0,0:04:56.07,0:05:00.45,Default,Emul,0,0,0,,Eine Minute ist um!\NNoch vier Minuten, Sunraku!
+Dialogue: 0,0:05:00.45,0:05:04.20,Default,Vice Ash,0,0,0,,Also, dann lass ihn mal sehen, …
+Dialogue: 0,0:05:04.58,0:05:07.16,Default,Vice Ash,0,0,0,,deinen Killergeist.
+Dialogue: 0,0:05:12.58,0:05:14.21,Default,Sunraku,0,0,0,,{\i1}Wahnsinniger Baummagier …
+Dialogue: 0,0:05:15.25,0:05:17.42,Default,Sunraku,0,0,0,,{\i1}Gelinde gesagt …
+Dialogue: 0,0:05:19.30,0:05:21.47,Default,Sunraku,0,0,0,,{\i1}ist der Kerl gefährlich!
+Dialogue: 0,0:05:22.09,0:05:25.47,Default,Sunraku,0,0,0,,{\i1}Die speerartigen Wurzeln,\Ndie er fast ohne Bewegung abfeuert …
+Dialogue: 0,0:05:34.98,0:05:37.98,Default,Sunraku,0,0,0,,{\i1}und dieser Kettenangriff, der mich\Nbei einem Treffer bestimmt debufft.
+Dialogue: 0,0:05:44.49,0:05:47.45,Default,Sunraku,0,0,0,,{\i1}Beide Attacken verfolgen mich,\Nals wäre es ihr Geburtsrecht.
+Dialogue: 0,0:05:47.45,0:05:50.45,Default,Sunraku,0,0,0,,{\i1}Das Ausweichen zehrt an meinen Nerven.
+Dialogue: 0,0:06:07.56,0:06:10.73,Default,Sunraku,0,0,0,,{\i1}Aber das Allerlästigste …
+Dialogue: 0,0:06:18.23,0:06:21.65,Default,Sunraku,0,0,0,,{\i1}sind die magischen Angriffe,\Ndie er zwischendrin einbaut!
+Dialogue: 0,0:06:22.19,0:06:23.07,Default,Sunraku,0,0,0,,{\i1}Außerdem …
+Dialogue: 0,0:06:33.50,0:06:37.34,Default,Sunraku,0,0,0,,{\i1}kommen mit der Zeit\Nimmer mehr Zauberarten hinzu!
+Dialogue: 0,0:06:40.42,0:06:43.80,Default,Sunraku,0,0,0,,{\i1}Und die Dichte der Angriffe erhöht sich?!
+Dialogue: 0,0:06:46.30,0:06:50.56,Default,Sunraku,0,0,0,,{\i1}Die Zahl der Ketten und Wurzeln sowie\Ndie Reichweite der Zauber nimmt auch zu!
+Dialogue: 0,0:07:06.82,0:07:09.91,Default,Sunraku,0,0,0,,{\i1}Wenn die Frequenz weiter so steigt, …
+Dialogue: 0,0:07:11.62,0:07:14.96,Default,Sunraku,0,0,0,,{\i1}bin ich vor Ablauf\Nder fünf Minuten garantiert tot!
+Dialogue: 0,0:07:20.34,0:07:22.67,Default,Sunraku,0,0,0,,{\i1}Schon wieder ein neuer Zauber mehr?!
+Dialogue: 0,0:07:28.97,0:07:31.06,Default,Sunraku,0,0,0,,{\i1}Was ist das für ein Typ?!
+Dialogue: 0,0:07:31.06,0:07:34.56,Default,Sunraku,0,0,0,,{\i1}Physische Attacken sind nutzlos\Nund die Angriffe nehmen immer weiter zu?!
+Dialogue: 0,0:07:34.56,0:07:38.60,Default,Sunraku,0,0,0,,{\i1}Ehrlich gesagt hab ich das Gefühl,\Ndass ich gegen Lycaon mehr Chancen hätte!
+Dialogue: 0,0:07:47.78,0:07:50.16,Default,Sunraku,0,0,0,,{\i1}Den ersten Versuch\Nüberleb ich auf keinen Fall.
+Dialogue: 0,0:07:51.16,0:07:52.24,Default,Sunraku,0,0,0,,{\i1}Unmöglich!
+Dialogue: 0,0:07:54.75,0:07:58.25,Default,Sunraku,0,0,0,,{\i1}Ich komm mental nicht mehr mit,\Nbin erschöpft.
+Dialogue: 0,0:07:58.83,0:08:02.75,Default,Sunraku,0,0,0,,{\i1}Ich tank ordentlich Zucker, leg mir\N’nen Plan zurecht und versuch’s noch mal.
+Dialogue: 0,0:08:03.25,0:08:06.26,Default,Sunraku,0,0,0,,{\i1}Gibt ja eh keine Strafe fürs Sterben.
+Dialogue: 0,0:08:07.93,0:08:09.09,Default,Sunraku,0,0,0,,{\i1}Also egal …
+Dialogue: 0,0:08:12.26,0:08:13.60,Default,Sunraku,0,0,0,,{\i1}Halt.
+Dialogue: 0,0:08:14.01,0:08:16.43,Default,Sunraku,0,0,0,,{\i1}Warum gehe ich von einer Niederlage aus?
+Dialogue: 0,0:08:18.81,0:08:19.94,Default,Sunraku,0,0,0,,{\i1}Seit wann …
+Dialogue: 0,0:08:20.56,0:08:22.61,Default,Sunraku,0,0,0,,{\i1}bin ich so zurückhaltend?
+Dialogue: 0,0:08:31.32,0:08:34.99,Flashback,Sunraku,0,0,0,,{\i1}Ich glaube nicht, dass ich beim\Nersten Versuch alle zehn schlagen kann.
+Dialogue: 0,0:08:36.12,0:08:39.37,Flashback,Sunraku,0,0,0,,{\i1}Ach, zwecklos. Das war’s.
+Dialogue: 0,0:08:40.17,0:08:42.29,Default,Sunraku,0,0,0,,{\i1}Beim Kampf gegen\Nden Schlammgräber genauso.
+Dialogue: 0,0:08:43.04,0:08:45.96,Default,Sunraku,0,0,0,,{\i1}Ich hab mich auf Emul verlassen\Nund es einfach hingenommen.
+Dialogue: 0,0:08:49.13,0:08:53.97,Default,Sunraku,0,0,0,,{\i1}Ohne es zu bemerken,\Nhab ich angefangen, nachlässig zu werden.
+Dialogue: 0,0:08:53.97,0:08:57.22,Default,Sunraku,0,0,0,,{\i1}Oh Mann!\NHab zu viele Trash-Games gespielt.
+Dialogue: 0,0:08:57.22,0:08:59.73,Default,Sunraku,0,0,0,,{\i1}Ich war wohl schon dabei,\Nauch mental abzukacken.
+Dialogue: 0,0:09:01.02,0:09:02.23,Default,Vice Ash,0,0,0,,Oh?
+Dialogue: 0,0:09:02.23,0:09:04.15,Default,Emul,0,0,0,,Sunraku!
+Dialogue: 0,0:09:08.40,0:09:11.45,Default,Sunraku,0,0,0,,{\i1}Schätze, eine Überdosis Trashpirin\Nist eben doch nicht gut, was?
+Dialogue: 0,0:09:11.45,0:09:14.33,Default,Sunraku,0,0,0,,{\i1}Man muss es\Nmit Gottpirin neutralisieren!
+Dialogue: 0,0:09:20.29,0:09:22.79,Default,Sunraku,0,0,0,,{\i1}Aufgeben, obwohl die Niederlage\Nnicht vorprogrammiert ist?
+Dialogue: 0,0:09:24.29,0:09:27.05,Default,Sunraku,0,0,0,,{\i1}Bei einem noch nicht gemeisterten\NGame den Gang rauszunehmen …
+Dialogue: 0,0:09:31.97,0:09:33.51,Default,Sunraku,0,0,0,,Ist doch Nonsens!
+Dialogue: 0,0:09:36.26,0:09:40.89,Default,Vice Ash,0,0,0,,Er durchbricht die Woge an Attacken\Nund setzt ihm zu? Nicht schlecht.
+Dialogue: 0,0:09:41.35,0:09:45.90,Default,Vice Ash,0,0,0,,Aber was will einer, der nichts als\NZuschlagen kann, überhaupt ausrichten?
+Dialogue: 0,0:09:46.69,0:09:48.86,Default,Sunraku,0,0,0,,Ich bin total fertig.
+Dialogue: 0,0:09:50.61,0:09:51.53,Default,Sunraku,0,0,0,,Also …
+Dialogue: 0,0:09:54.53,0:09:57.54,Default,Sunraku,0,0,0,,schaff ich das beim\Nersten Versuch und leg mich hin!
+Dialogue: 0,0:09:59.50,0:10:03.79,Default,Sunraku,0,0,0,,Physischer Schaden mag wirkungslos sein,\Naber die Angriffe an sich treffen dich schon.
+Dialogue: 0,0:10:06.42,0:10:10.26,Default,Sunraku,0,0,0,,Obwohl du ein Monster bist, schwingst du\Nden Zauberstab wie ein piekfeiner Herr!
+Dialogue: 0,0:10:10.26,0:10:13.22,Default,Sunraku,0,0,0,,Aber was, wenn du ihn verlierst?!
+Dialogue: 0,0:10:13.76,0:10:18.56,Default,Sunraku,0,0,0,,Deiner Reaktion nach kannst du\Ndann wohl keine Magie mehr wirken.
+Dialogue: 0,0:10:22.18,0:10:24.52,Default,Sunraku,0,0,0,,{\i1}Waffen zu klauen\Nist so was von endzeitmäßig.
+Dialogue: 0,0:10:25.77,0:10:30.48,Default,Sunraku,0,0,0,,{\i1}Unterschätz meine Raubtechnik nicht,\Ndie ich bei Unite Rounds trainiert hab!
+Dialogue: 0,0:10:30.99,0:10:33.99,Default,Vice Ash,0,0,0,,Ha! Ein Langfinger.
+Dialogue: 0,0:10:33.99,0:10:36.99,Default,Vice Ash,0,0,0,,Aber es bleiben noch zwei Minuten.
+Dialogue: 0,0:10:37.49,0:10:40.20,Default,Vice Ash,0,0,0,,Zu früh, um sich in Sicherheit zu wiegen.
+Dialogue: 0,0:10:40.20,0:10:43.87,Default,Vice Ash,0,0,0,,Also, zeig, was du draufhast.
+Dialogue: 0,0:10:47.04,0:10:50.05,Default,Sunraku,0,0,0,,{\i1}Durch den Verlust seines Stabs\Nverfällt er direkt in Raserei?!
+Dialogue: 0,0:10:50.05,0:10:52.88,Default,Sunraku,0,0,0,,{\i1}Die Frequenz seiner Attacken\Nhat sich massiv erhöht!
+Dialogue: 0,0:10:52.88,0:10:55.63,Default,Sunraku,0,0,0,,{\i1}Was ein Witz! Ich versiegle\Nseine Magie und dann das?!
+Dialogue: 0,0:10:55.63,0:10:58.14,Default,Sunraku,0,0,0,,{\i1}Plötzlich geht dieser Bastard\Nab wie Schmidts Katze!
+Dialogue: 0,0:11:05.39,0:11:09.40,Default,Emul,0,0,0,,Sunraku, du schaffst es!\NNoch eine Minute!
+Dialogue: 0,0:11:09.40,0:11:11.90,Default,Emul,0,0,0,,Weich aus, schlag Haken, renn weg!
+Dialogue: 0,0:11:17.57,0:11:21.74,Default,Sunraku,0,0,0,,{\pos(637.5,1020)}Unterschätz meine Mobilität nicht!\NAls ob ich jetzt noch abkratzen würde!
+Dialogue: 0,0:11:24.04,0:11:25.41,Default,Sunraku,0,0,0,,Eine Barriere?!
+Dialogue: 0,0:11:27.46,0:11:28.42,Default,Sunraku,0,0,0,,Mist!
+Dialogue: 0,0:11:29.50,0:11:32.09,Default,Sunraku,0,0,0,,{\i1}{\pos(637.5,1020)}Die Ketten debuffen mich also wirklich!
+Dialogue: 0,0:11:32.09,0:11:35.34,Default,Sunraku,0,0,0,,{\i1}{\pos(637.5,1020)}Dazu noch so stark,\Ndass sie Lycaons Fluchmal umgehen!
+Dialogue: 0,0:11:36.01,0:11:39.18,Default,Sunraku,0,0,0,,{\i1}{\pos(637.5,1020)}Wenn ich nichts unternehme,\Nkann ich nicht richtig ausweichen!
+Dialogue: 0,0:11:39.18,0:11:41.93,Default,Baummagier,0,0,0,,{\fr1}G{\fr-3}i{\fr+4}b {\fr-5}i{\fr2}h{\fr-4}n {\fr-2}z{\fr1}u{\fr5}r{\fr-5}ü{\fr3}c{\fr-2}k{\fr4}!
+Dialogue: 0,0:11:41.93,0:11:46.06,Default,Sunraku,0,0,0,,{\pos(637.5,1020)}Wenn du ihn so dringend\Nzurückhaben willst, dann hol ihn dir!
+Dialogue: 0,0:12:00.03,0:12:02.66,Default,Sunraku,0,0,0,,{\pos(637.5,1020)}Du hast ihn dir wirklich geholt?
+Dialogue: 0,0:12:03.45,0:12:06.96,Default,Sunraku,0,0,0,,{\pos(637.5,1020)}Bist du dämlich.\NSelbst ohne den Stab
+Dialogue: 0,0:12:06.96,0:12:10.21,Default,Sunraku,0,0,0,,hättest du gewonnen, wenn du\Nmich einfach nur geschlagen hättest.
+Dialogue: 0,0:12:12.21,0:12:15.84,Default,Sunraku,0,0,0,,Du bist ein Holzkopf, wie ein Baum eben.
+Dialogue: 0,0:12:19.22,0:12:20.14,Default,Sunraku,0,0,0,,Hä?
+Dialogue: 0,0:12:23.60,0:12:28.02,Default,Sunraku,0,0,0,,Moment mal! Die fünf Minuten\Nsind doch um! Ist es denn nicht vorbei?!
+Dialogue: 0,0:12:28.73,0:12:32.23,Default,Vice Ash,0,0,0,,Na ja, die Bedingung\Nhatte ich ja eigenmächtig festgelegt.
+Dialogue: 0,0:12:32.82,0:12:34.98,Default,Vice Ash,0,0,0,,Es war knapp,\Naber sagen wir, du hast bestanden.
+Dialogue: 0,0:12:45.41,0:12:47.45,Default,Vice Ash,0,0,0,,Du hast ihn mir in der Tat gezeigt, …
+Dialogue: 0,0:12:48.04,0:12:50.96,Default,Vice Ash,0,0,0,,deinen Killergeist.
+Dialogue: 0,0:12:51.96,0:12:54.80,Default,Sunraku,0,0,0,,Nanu? Waren physische Attacken\Nnicht wirkungslos?
+Dialogue: 0,0:12:55.71,0:13:00.47,Default,Emul,0,0,0,,Geschafft! Ich hab immer\Nan dich geglaubt, Sunraku!
+Dialogue: 0,0:13:02.39,0:13:05.56,Default,Vice Ash,0,0,0,,Ja, wenn er seinen Stab hatte.
+Dialogue: 0,0:13:05.56,0:13:08.73,Default,Vice Ash,0,0,0,,Ohne ihn war er letztlich\Nnur ’n wandelnder Baum.
+Dialogue: 0,0:13:08.73,0:13:11.85,Default,Sunraku,0,0,0,,Oh? Darum war er also so außer sich?
+Dialogue: 0,0:13:12.52,0:13:15.86,Default,Sunraku,0,0,0,,Egal, jedenfalls hab ich\Ndeine Bedingung erfüllt, richtig?!
+Dialogue: 0,0:13:15.86,0:13:18.61,Default,Vice Ash,0,0,0,,Jepp. Und dafür gibt’s auch ’ne Belohnung.
+Dialogue: 0,0:13:18.61,0:13:20.61,Default,Sunraku,0,0,0,,Darauf hab ich gewartet!
+Dialogue: 0,0:13:20.95,0:13:24.66,Default,Vice Ash,0,0,0,,Ich ernenne dich\Nzum Ehrenbürger von Hasingen.
+Dialogue: 0,0:13:26.99,0:13:32.17,Default,Emul,0,0,0,,Das ist ja toll, Sunraku! Hurra!
+Dialogue: 0,0:13:32.17,0:13:37.00,Default,Sunraku,0,0,0,,Mh … Ich dachte da eher …\Nan ein seltenes Item oder so was.
+Dialogue: 0,0:13:37.30,0:13:39.76,Default,Vice Ash,0,0,0,,Ach, richtig. Hab ich vergessen.
+Dialogue: 0,0:13:43.14,0:13:45.47,Default,Vice Ash,0,0,0,,Das brauchst du wohl nicht mehr.
+Dialogue: 0,0:13:45.47,0:13:47.56,Default,Vice Ash,0,0,0,,Also dann, bis zum nächsten Mal.
+Dialogue: 0,0:13:48.68,0:13:52.31,Default,Spielstimme,0,0,0,,Einzigartiges Szenario „Eine Einladung\Naus dem Hasenland“ abgeschlossen.
+Dialogue: 0,0:13:52.31,0:13:54.81,Default,Sunraku,0,0,0,,Hä? Wa…?! Du ziehst es wieder ein?!
+Dialogue: 0,0:13:55.81,0:14:00.99,Default,Spielstimme,0,0,0,,Einzigartiges Szenario EX\N„Das Epos der Killerkaninchen“ starten?
+Dialogue: 0,0:14:00.99,0:14:01.95,Default,Sunraku,0,0,0,,K-…
+Dialogue: 0,0:14:02.36,0:14:04.95,Default,Sunraku,0,0,0,,Keine Sachleistungen als Belohnung?!
+Dialogue: 0,0:14:15.29,0:14:17.84,Default,Rakuro,0,0,0,,Alter, es ist schon tiefste Nacht.
+Dialogue: 0,0:14:30.81,0:14:36.90,Default,Sunraku,0,0,0,,„Wenn der Geist des göttlichen Zeitalters\Nerbebt, wird jener Hase das Epos erzählen“?
+Dialogue: 0,0:14:36.90,0:14:39.48,Default,Sunraku,0,0,0,,Keine Ahnung, was das bedeuten soll.
+Dialogue: 0,0:14:39.98,0:14:44.99,Default,Sunraku,0,0,0,,Das neu ausgelöste einzigartige Szenario EX,\N„Das Epos der Killerkaninchen“
+Dialogue: 0,0:14:45.78,0:14:50.66,Default,Sunraku,0,0,0,,Ich hab’s angenommen, schön und gut,\Naber ich weiß nicht, wie man es startet.
+Dialogue: 0,0:14:50.66,0:14:53.50,Default,Sunraku,0,0,0,,Zudem ist es für Level 80 empfohlen.
+Dialogue: 0,0:14:53.50,0:14:55.67,Default,Sunraku,0,0,0,,Göttliches Zeitalter …
+Dialogue: 0,0:14:55.67,0:15:01.26,Default,Sunraku,0,0,0,,Stimmt, im Wiki stand, das wäre eine\NZivilisation, die vor langer Zeit unterging.
+Dialogue: 0,0:15:02.17,0:15:06.76,Default,Sunraku,0,0,0,,Gab ’ne Menge an Hintergrund und Forschung.\NIch hab’s gleich wieder weggeklickt.
+Dialogue: 0,0:15:07.39,0:15:11.77,Default,Sunraku,0,0,0,,Sich da die nötigen Infos rauszusuchen,\Nwäre doch ziemlich viel Arbeit.
+Dialogue: 0,0:15:12.27,0:15:17.77,Default,Sunraku,0,0,0,,Es gibt wohl sogar spezielle Forscher-Clans.\NKlar, dass es da so viele Infos gibt.
+Dialogue: 0,0:15:18.36,0:15:20.82,Default,Sunraku,0,0,0,,Stellen wir das Szenario erst mal zurück.
+Dialogue: 0,0:15:20.82,0:15:23.99,Default,Sunraku,0,0,0,,Ich erkunde die Stadt und\Nfasse dabei das nächste Gebiet ins Auge.
+Dialogue: 0,0:15:23.99,0:15:25.53,Default,Emul,0,0,0,,Brechen wir auf?!
+Dialogue: 0,0:15:25.82,0:15:26.91,Default,Sunraku,0,0,0,,Ja.
+Dialogue: 0,0:15:26.91,0:15:29.03,Default,Sunraku,0,0,0,,Nein, halt, stimmt ja.
+Dialogue: 0,0:15:31.33,0:15:33.33,Default,Sunraku,0,0,0,,Wenn ich in dem Aufzug rausgehe,
+Dialogue: 0,0:15:33.33,0:15:37.12,Default,Sunraku,0,0,0,,werd ich wieder von PKern\Nund anderen belagert, die Infos wollen.
+Dialogue: 0,0:15:37.88,0:15:42.75,Default,Sunraku,0,0,0,,Selbst wenn ich meine Kopfbedeckung ändere,\NLycaons Fluch fällt eben auf.
+Dialogue: 0,0:15:43.38,0:15:47.09,Default,Sunraku,0,0,0,,Dass der immer noch wirkt und ich\Nan Körper und Beinen nichts ausrüsten kann!
+Dialogue: 0,0:15:47.09,0:15:48.89,Default,Sunraku,0,0,0,,Dieses blöde Hündchen!
+Dialogue: 0,0:15:49.26,0:15:51.89,Default,Emul,0,0,0,,Kannst du nicht deinen\Ngesamten Körper verbergen?
+Dialogue: 0,0:15:52.22,0:15:54.35,Default,Sunraku,0,0,0,,Ich überleg ja grade, wie ich das hinkriege.
+Dialogue: 0,0:15:54.35,0:15:57.14,Default,Emul,0,0,0,,Dann kenne ich da jemanden,\Nder was Passendes verkauft!
+Dialogue: 0,0:15:57.14,0:15:58.10,Default,Sunraku,0,0,0,,Was?!
+Dialogue: 0,0:16:01.65,0:16:04.90,Default,Peets,0,0,0,,Oh? Wenn das nicht\Nmeine große Schwester Emul ist.
+Dialogue: 0,0:16:04.90,0:16:07.86,Default,Sunraku,0,0,0,,{\i1}Ist das etwa\Nein Hasenpalast-exklusiver Shop?!
+Dialogue: 0,0:16:07.86,0:16:11.83,Default,Emul,0,0,0,,Sunraku, das ist\Nmein kleiner Bruder Peets!
+Dialogue: 0,0:16:11.83,0:16:14.66,Default,Emul,0,0,0,,Er verkauft hier in Hasingen\Ndie Waren, die er zusammenträgt.
+Dialogue: 0,0:16:15.20,0:16:16.83,Default,Sunraku,0,0,0,,Aha, freut mich.
+Dialogue: 0,0:16:16.83,0:16:19.92,Default,Peets,0,0,0,,Nicht nur in Hasingen,\Nauch in anderen Städten.
+Dialogue: 0,0:16:20.29,0:16:23.30,Default,Peets,0,0,0,,Aber selten, weil ich mich dafür\Nin einen Menschen verwandeln muss.
+Dialogue: 0,0:16:23.30,0:16:25.17,Default,Peets,0,0,0,,Schau doch mal vorbei,\Nwenn du mich siehst, …
+Dialogue: 0,0:16:25.51,0:16:28.76,Default,Peets,0,0,0,,Herr Vogelmensch,\NLiebling des Herrschers der Nacht.
+Dialogue: 0,0:16:28.76,0:16:30.55,Default,Sunraku,0,0,0,,Vogelmensch?
+Dialogue: 0,0:16:30.55,0:16:34.60,Default,Sunraku,0,0,0,,Das hier ist nur eine Maske.\NIch hab darunter auch ein Gesicht.
+Dialogue: 0,0:16:34.60,0:16:35.31,Default,Sunraku,0,0,0,,Schau.
+Dialogue: 0,0:16:38.19,0:16:39.90,Default,Sunraku,0,0,0,,Warum bist du so schockiert?
+Dialogue: 0,0:16:39.90,0:16:42.27,Default,Emul,0,0,0,,D-Du hast sie einfach so abgenommen?!
+Dialogue: 0,0:16:42.27,0:16:45.44,Default,Emul,0,0,0,,Ich war mir sicher, dass du das\Naus tiefgehenden Gründen nicht kannst!
+Dialogue: 0,0:16:45.44,0:16:46.86,Default,Sunraku,0,0,0,,Ich kann sie abnehmen.
+Dialogue: 0,0:16:46.86,0:16:49.45,Default,Emul,0,0,0,,Aber das trifft sich dann ja sehr gut!
+Dialogue: 0,0:16:49.45,0:16:53.37,Default,Emul,0,0,0,,Peets! Sagtest du nicht neulich,\Ndu hättest ein ulkiges Tuch erstanden?
+Dialogue: 0,0:16:53.37,0:16:54.45,Default,Peets,0,0,0,,Ah!
+Dialogue: 0,0:16:55.95,0:16:58.66,Default,Peets,0,0,0,,Ich dachte, das würde\Nsich sicher verkaufen …
+Dialogue: 0,0:16:58.66,0:17:01.83,Default,Peets,0,0,0,,aber trotz des hohen Preises sieht es wie gewöhnliches Tuch aus,
+Dialogue: 0,0:17:01.83,0:17:04.46,Default,Peets,0,0,0,,darum find ich einfach keinen Käufer.
+Dialogue: 0,0:17:04.46,0:17:05.84,Default,Sunraku,0,0,0,,Ein Tuch?
+Dialogue: 0,0:17:07.01,0:17:08.84,Default,Verkäuferin,0,0,0,,Ä-Ähm …
+Dialogue: 0,0:17:08.84,0:17:12.76,Default,Verkäuferin,0,0,0,,Eine Karte der Umgebung von Drittlema.\NWäre das dann alles?
+Dialogue: 0,0:17:13.47,0:17:15.64,Default,Sunraku,0,0,0,,Ja, das wäre alles.
+Dialogue: 0,0:17:16.64,0:17:18.77,Default,Verkäuferin,0,0,0,,Vielen Dank.
+Dialogue: 0,0:17:22.77,0:17:24.90,Default,Sunraku,0,0,0,,Nein, das wäre nicht alles!
+Dialogue: 0,0:17:25.32,0:17:29.40,Default,Sunraku,0,0,0,,Was soll dieses Outfit?! Klar,\NLycaons Fluch kann ich damit verbergen,
+Dialogue: 0,0:17:29.40,0:17:31.78,Default,Sunraku,0,0,0,,aber das ist doch\Neine reine Meme-Ausrüstung!
+Dialogue: 0,0:17:31.78,0:17:34.95,Default,Emul,0,0,0,,Sunraku! Wenn du so laut bist,\Nfallen wir doch auf!
+Dialogue: 0,0:17:34.95,0:17:36.95,Default,Sunraku,0,0,0,,Das tun wir doch sowieso schon!
+Dialogue: 0,0:17:39.33,0:17:43.21,Default,Emul,0,0,0,,Halte durch, bis wir aus der Stadt raus sind!\NDas klappt schon, ganz sicher!
+Dialogue: 0,0:17:44.33,0:17:45.54,Default,Sunraku,0,0,0,,Na, was soll’s.
+Dialogue: 0,0:17:45.54,0:17:49.05,Default,Sunraku,0,0,0,,Die benötigten Regenerations-Items\Nund die Karte hab ich ja bekommen.
+Dialogue: 0,0:17:49.88,0:17:54.55,Default,Sunraku,0,0,0,,Aber deine Menschengestalt\Nverbraucht echt viele MP, was?
+Dialogue: 0,0:17:55.01,0:17:58.81,Default,Sunraku,0,0,0,,Lass uns schnell ins nächste Gebiet,\Nbevor mir die Items ausgehen.
+Dialogue: 0,0:18:00.93,0:18:04.81,Default,Sunraku,0,0,0,,Wenn ich mich nicht irre, kann ich von Drittlema\Naus drei Gebiete erreichen, richtig?
+Dialogue: 0,0:18:04.81,0:18:05.94,Default,Emul,0,0,0,,Jawohl.
+Dialogue: 0,0:18:06.36,0:18:10.61,Default,Emul,0,0,0,,{\an8}Die Bunt schillernde Waldgrotte\Nführt nach Vierfossier.
+Dialogue: 0,0:18:10.61,0:18:15.12,Default,Emul,0,0,0,,{\an8}Eine riesige, labyrinthartige Höhle,\Nin der einem Urwald gleich Pflanzen wuchern.
+Dialogue: 0,0:18:15.12,0:18:18.95,Default,Emul,0,0,0,,{\an8}Auf dem Boden dieses Gebiets\Nblühen überall farbenprächtige Blumen.
+Dialogue: 0,0:18:19.41,0:18:22.71,Default,Emul,0,0,0,,{\an8}Der Kratersee des Niedergangs\Nführt nach Fünvalle.
+Dialogue: 0,0:18:22.71,0:18:26.08,Default,Emul,0,0,0,,{\an8}Hier hat sich im Krater\Neines längst erloschenen Vulkans
+Dialogue: 0,0:18:26.08,0:18:28.21,Default,Emul,0,0,0,,{\an8}Wasser gesammelt und einen See gebildet.
+Dialogue: 0,0:18:28.21,0:18:32.84,Default,Emul,0,0,0,,{\an8}Die Eisenruinen des göttlichen Zeitalters\Nschließlich führen nach Sechsenveldt.
+Dialogue: 0,0:18:32.84,0:18:37.22,Default,Emul,0,0,0,,{\an8}Überreste aus der Zeit der Götter.\NDort schweben Eisentafeln herum,
+Dialogue: 0,0:18:37.22,0:18:39.22,Default,Emul,0,0,0,,{\an8}woher der Name\Ndes Gebiets stammen soll.
+Dialogue: 0,0:18:39.77,0:18:43.56,Default,Sunraku,0,0,0,,Verstehe. In welches Gebiet\Nsollte ich als Erstes gehen?
+Dialogue: 0,0:18:43.56,0:18:46.90,Default,Sunraku,0,0,0,,Das ist wie in einem Strategiespiel:\NWelche Seite spielt man,
+Dialogue: 0,0:18:46.90,0:18:50.44,Default,Sunraku,0,0,0,,welche beutet man aus und welcher\Nbiedert man sich an, um sie zu vernichten?
+Dialogue: 0,0:18:50.44,0:18:53.53,Default,Sunraku,0,0,0,,Eine hochkomplexe Überlegung\Nund äußerst schwierige …
+Dialogue: 0,0:18:53.53,0:18:57.16,Default,Emul,0,0,0,,Ich würde dir den Kratersee\Ndes Niedergangs empfehlen.
+Dialogue: 0,0:18:57.16,0:18:58.74,Default,Sunraku,0,0,0,,Sei mal kurz still, Emul.
+Dialogue: 0,0:19:02.79,0:19:06.88,Default,Sunraku,0,0,0,,Gut, ich hab mich entschieden!\NZuerst zur Bunt schillernden Waldgrotte!
+Dialogue: 0,0:19:07.17,0:19:09.38,Default,Sunraku,0,0,0,,Du willst sicher wissen, warum, Emul.
+Dialogue: 0,0:19:10.80,0:19:14.38,Default,Sunraku,0,0,0,,Zunächst, würde man mich fragen,\Nwelches Gebiet ich am ehesten vermeiden würde,
+Dialogue: 0,0:19:14.38,0:19:18.10,Default,Sunraku,0,0,0,,wären das zweifellos die Eisenruinen\Ndes göttlichen Zeitalters.
+Dialogue: 0,0:19:18.10,0:19:22.39,Default,Sunraku,0,0,0,,Der Name mag vielleicht starken\Nwissenschaftlichen Charme versprühen,
+Dialogue: 0,0:19:22.39,0:19:26.77,Default,Sunraku,0,0,0,,aber das ist eine Falle. Wissenschaft,\Ndas ist Zivilisation, ja, Jahrhunderte …
+Dialogue: 0,0:19:24.27,0:19:27.65,Default,Emul,0,0,0,,{\an8}Haben wir die Person da drüben\Nnicht schon mal irgendwo gesehen?
+Dialogue: 0,0:19:27.65,0:19:29.06,Default,Sunraku,0,0,0,,Gäbe es in den Eisenruinen Gewehre,
+Dialogue: 0,0:19:29.06,0:19:33.40,Default,Sunraku,0,0,0,,könnte ich mit meinen aktuellen Statuswerten\Nkaum etwas dagegen ausrichten, also passe ich.
+Dialogue: 0,0:19:33.40,0:19:35.07,Default,Sunraku,0,0,0,,Hm? Wen?
+Dialogue: 0,0:21:16.67,0:21:20.34,Default,Kinder,0,0,0,,ShanFro-Theater!
+Dialogue: 0,0:21:20.34,0:21:22.05,Default,Emul,0,0,0,,Mini!
+Dialogue: 0,0:21:45.74,0:21:50.25,Default,Sunraku,0,0,0,,{\i1}Diese prachtvolle Kiste …\NEin Tribut an Vash?
+Dialogue: 0,0:21:50.25,0:21:55.00,Default,Sunraku,0,0,0,,{\i1}Welche Art seltenes Item dem Oberhaupt\Nvon Hasingen wohl dargeboten wird?
+Dialogue: 0,0:22:00.01,0:22:02.84,Default,Sunraku,0,0,0,,{\i1}Was ist da bloß drin?!
+Dialogue: 0,0:22:10.56,0:22:12.02,Default,Sunraku,0,0,0,,{\i1}E-Eine Karotte …
+Dialogue: 0,0:22:20.28,0:22:24.36,Default,Sunraku,0,0,0,,{\i1}Auch Vash ist eben\Nnur ein Kaninchen.
+Dialogue: 0,0:22:30.04,0:22:33.67,Default,Kinder,0,0,0,,ShanFro-Theater!
+Dialogue: 0,0:22:33.67,0:22:35.29,Default,Emul,0,0,0,,Mini!
+Dialogue: 0,0:22:37.54,0:22:38.80,Default,Sunraku,0,0,0,,Also dann.
+Dialogue: 0,0:22:39.21,0:22:42.51,Default,Sunraku,0,0,0,,Die neuen Great Max Tantan-Men.
+Dialogue: 0,0:22:42.51,0:22:45.55,Default,Sunraku,0,0,0,,Ohne Getränk wäre das wohl doch hart.
+Dialogue: 0,0:22:50.81,0:22:54.27,Default,Sunraku,0,0,0,,Oh. Wenn ich nicht irre,\Nverstärkt Wasser die Schärfe noch.
+Dialogue: 0,0:22:59.94,0:23:02.07,Default,Sunraku,0,0,0,,Hab ich einen Durst.
+Dialogue: 0,0:23:08.83,0:23:11.08,Default,Sunraku,0,0,0,,Mist! Macht der Gewohnheit.
+Dialogue: 0,0:23:11.08,0:23:13.71,Default,Sunraku,0,0,0,,Scheiße! Dabei ist erst\Netwa eine Minute rum.
+Dialogue: 0,0:23:14.50,0:23:16.29,Default,Sunraku,0,0,0,,Immer noch zwei Minuten Zeit.
+Dialogue: 0,0:23:20.67,0:23:24.30,Default,Sunraku,0,0,0,,Ach, stimmt, das Spiel\Nhat ja einen Login-Bonus.
+Dialogue: 0,0:23:24.30,0:23:26.30,Default,Sunraku,0,0,0,,Den hole ich mir schnell.
+Dialogue: 0,0:23:38.81,0:23:41.23,Default,Sunraku,0,0,0,,Ich hab sie vergessen!
+Dialogue: 0,0:23:42.57,0:23:46.74,Default,Sunraku,0,0,0,,Sie sind ganz labbrig.\NJetzt sind’s Tantan-Men ohne Brühe.
+Dialogue: 0,0:23:49.91,0:23:50.95,Default,Sunraku,0,0,0,,Ich ess die trotzdem.

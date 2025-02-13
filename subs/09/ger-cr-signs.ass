@@ -1,0 +1,71 @@
+﻿[Script Info]
+Title: Deutsch
+ScaledBorderAndShadow: yes
+Original Script: cr_de  [http://www.crunchyroll.com/user/cr_de]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+LayoutResX: 1920
+LayoutResY: 1080
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: TypePlaceholder,Arial,60,&H00FFFFFF,&H000000FF,&H00000000,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,6,0,8,30,30,60,1
+Style: TypePlaceholderBox,Arial Bold,66,&H00200960,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,3,6,0,8,30,30,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:23.63,0:00:26.51,TypePlaceholder,,0,0,0,,{\fnVerdana\b0\c&H825619&\fs-2\an2\fad(250,0)\3c&HD1CB15&\bord9\pos(378,717)}Asura-Bündnis, Clanleader\N{\fnImpact\c&HD1CB15&\3c&HFFFFFF&\fs+10\bord3\fax-0.3}Orcelot
+Dialogue: 1,0:00:58.83,0:01:01.12,TypePlaceholder,,0,0,0,,{\p1\c&HB5BBC6&\3c&H454158&\fad(0,500)\pos(1491,30)}m 0 0 l 810 0 l 810 825 l 0 825
+Dialogue: 2,0:00:58.83,0:01:01.12,TypePlaceholder,,0,0,0,,{\fnVerdana\fscx90\fs-3\c&H3F1EBA&\bord0\fad(0,478)\an7\pos(1101,40.5)}[Die Heilige] Fortgeschrittene bringen\NAnfängern die Grundlagen bei, Teil 81 [süß]\N\N{\c&H403D36&}74: {\c&H61A459&}Addo (Fortgeschrittener)\N{\c&H403D36&}Noch mal, für einen höheren Beruf musst du\Nmindestens Sechsburg erreicht haben.\NIch weiß nicht, wie oft ich das schon gesagt\Nhabe.\NIch sollte mir langsam eine Vorlage\Nschreiben.\N\N75: {\c&H61A459&}Alinoiyu (Anfängerin)\N{\c&H403D36&}Ich habe eine Frage an die erfahreneren\NPioniere.\NBeim Besorgen von Ausrüstung in Sekundir\Nbin ich diesem Spieler begegnet.\NEr hatte ein total süßes, sprechendes\NHäschen bei sich.\NWie kann man dieses Monster zu einem\NGefährten machen?
+Dialogue: 1,0:01:00.67,0:01:07.42,TypePlaceholder,,0,0,0,,{\p1\c&HB5BBC6&\3c&H454158&\pos(1491,30)\fad(500,0)}m 0 0 l 810 0 l 810 390 l 0 390
+Dialogue: 2,0:01:00.67,0:01:07.42,TypePlaceholder,,0,0,0,,{\fnVerdana\fscx90\fs-3\fad(576,0)\c&H403D36&\bord0\an7\pos(1101,40.5)}76: {\c&H61A459&}Curry Jones (Fortgeschrittener)\N{\c&H403D36&}Hä? Was ist das? Ein Fake?\NAlso ich hab noch nie ein sprechendes\NKillerkaninchen gesehen.\N\N77: {\c&H61A459&}Exceed (Anfänger)\N{\c&H403D36&}Was ist denn mit dem, lol.\NHalbnackt mit Maske.\NDen sollte man melden, lol.
+Dialogue: 0,0:03:28.98,0:03:33.99,TypePlaceholder,,0,0,0,,{\fnGeorgia Bold\bord0\c&H000000&\pos(960,681)}Neues Kapitel\N{\fs+2}„Ein Blumenstrauß mit Liebe aus dem Diesseits“
+Dialogue: 0,0:05:04.28,0:05:09.46,TypePlaceholder,,0,0,0,,{\an1\fnVerdana bold\fscx90\fad(0,258)\shad6\fs+1\b1\fsp3\c&HF9FFFB&\4c&HC69434&\bord0\fad(189,0)\3c&HFFFFFE&\pos(291.78,905.82)}Ein Meer{\alpha&HFF&\t(398,481,\alpha&H00&)} aus prächtigen {\fnGeorgia Bold\bord3\c&HC69434&\3c&HF9FFFB&\4c&HF9FFFB&\alpha&HFF&\t(732,1024,\alpha&H00&)\fscx100}Bäumen
+Dialogue: 0,0:06:05.85,0:06:08.35,TypePlaceholder,,0,0,0,,{\fnImpact\c&HC2B12B&\bord3\shad3\3c&HFFFFE6&\fs+2\fax-0.3\4c&HB1B9B0&\pos(439.5,34.5)}Sunraku
+Dialogue: 0,0:06:11.35,0:06:13.44,TypePlaceholder,,0,0,0,,{\fnImpact\c&HC49E12&\bord3\shad3\3c&HFFFFF8&\fs+6\fax-0.3\4c&HBFC9CD&\pos(241.5,51)}Sunraku
+Dialogue: 0,0:08:22.61,0:08:26.49,TypePlaceholder,,0,0,0,,{\fnImpact\fax-0.3\fs+1\b0\fad(244,0)\c&HD7D526&\3c&HFAF6EF&\pos(987,75)}Saiga-0 {\fnVerdana\fax0\fs-1\bord0\c&HF8F1E5&}hat dir eine Freundschaftsanfrage geschickt.
+Dialogue: 0,0:08:22.61,0:08:26.49,TypePlaceholder,,0,0,0,,{\fnVerdana\b0\bord0\fad(244,0)\pos(765,474)\c&HF8F1E5&}Nimmst du sie an?
+Dialogue: 0,0:08:22.61,0:08:26.49,TypePlaceholderBox,,0,0,0,,{\fnVerdana bold\fs-2\pos(966,648)\fad(244,0)\c&HFFFDF8&\3c&H82584D&}„Ich bin ein Freund, bitte nehme er an.“
+Dialogue: 0,0:08:22.61,0:08:26.49,TypePlaceholderBox,,0,0,0,,{\fnTahoma\b0\fs-2\pos(778.5,816)\c&HD9D8FF&\fad(244,0)\3c&H1B00B2&}\h\h\hNein\h\h\h
+Dialogue: 0,0:08:22.61,0:08:26.49,TypePlaceholderBox,,0,0,0,,{\fnTahoma\b0\fs-2\c&HFBFDD2&\fad(244,0)\3c&HBBE721&\pos(1152,817.5)}\h\h\h\h\hJa\h\h\h\h\h
+Dialogue: 0,0:09:40.89,0:09:42.39,TypePlaceholderBox,,0,0,0,,{\fnTahoma\b0\fs\c&HE6E9FC&\fad(0,0)\fax-0.1\an2\3c&H1F00B5&\frz15.46\pos(412.5,481.5)}\h\h\hNein\h\h\h
+Dialogue: 0,0:09:40.89,0:09:42.39,TypePlaceholderBox,,0,0,0,,{\fnTahoma\b0\fs\c&HFBFDD2&\frz15.46\fax-0.12\fad(0,0)\3c&HBBE721&\pos(861,291)\t(563,564,\3c&HFAFF73&)}\h\h\h\h\hJa\h\h\h\h\h
+Dialogue: 0,0:09:42.73,0:09:45.40,TypePlaceholder,,0,0,0,,{\fnImpact\b0\an2\frz30.68\fax-0.9\pos(1317,345)\c&HD5D529&\3c&HFFFFE9&\bord3.9}Sunraku {\fax-0.6\bord0\fnVerdana\fs-1\c&HE5D9D1&}wurde\Nals {\c&HC8B67A&}Freund {\c&HE5D9D1&}hinzugefügt.
+Dialogue: 0,0:13:29.33,0:13:34.25,TypePlaceholder,,0,0,0,,{\fnTahoma\b0\an2\fad(498,0)\fsp3\c&HFEFEE0&\3c&H9E921A&\bord4.8\pos(960,873)}Bunt schillernde Waldgrotte
+Dialogue: 0,0:14:02.78,0:14:05.53,TypePlaceholder,,0,0,0,,{\fnVerdana\b0\c&H7A2EF5&\fsp3\blur3\bord3\3c&H332050&\pos(423,900)}Vorratsschmetterling
+Dialogue: 0,0:14:08.79,0:14:11.54,TypePlaceholder,,0,0,0,,{\fnVerdana\b0\c&H7A2EF5&\fsp3\fs-1\blur3\bord3\3c&H332050&\pos(444,918)}Imperiumbienen-Arbeiterin
+Dialogue: 0,0:14:17.92,0:14:20.67,TypePlaceholder,,0,0,0,,{\fnVerdana\b0\c&H7A2EF5&\fsp3\blur3\bord3\3c&H332050&\pos(481.5,918)}Mimikry-Gottesanbeterin
+Dialogue: 0,0:14:23.93,0:14:26.18,TypePlaceholder,,0,0,0,,{\fnVerdana\b0\c&H7A2EF5&\fsp3\blur3\bord3\3c&H332050&\pos(1479,400.5)}Vierhornkäfer
+Dialogue: 0,0:14:42.99,0:14:45.24,TypePlaceholder,,0,0,0,,{\fnVerdana bold\c&HEBEC75&\fad(161,171)\3c&H140200&\fs-2\pos(354,27)}Kurzschwerter der Sümpfe\N{\fnTahoma\b0\c&H575645&}ausgerüstet.
+Dialogue: 0,0:15:20.11,0:15:24.32,TypePlaceholder,,0,0,0,,{\fnTahoma\b0\fad(99,0)\bord9\an7\c&H7F8167&\3c&H231602&\pos(453,418.5)}Ein Bauchbeutel, in dem der Vorratsschmetterling\Nseinen gesammelten Nektar lagert.\NAnfällig für Erschütterungen, weshalb es \Naußerordentlich schwierig ist, ihn in gefülltem\NZustand zu ergattern.\NKann als Nahrung oder als Wurfgeschoss dienen.
+Dialogue: 0,0:15:20.19,0:15:24.32,TypePlaceholder,,0,0,0,,{\fnVerdana bold\an2\c&HFEFD72&\bord0\pos(963,240)}Honigbeutel des Vorratsschmetterlings
+Dialogue: 0,0:15:55.23,0:15:56.85,TypePlaceholder,,0,0,0,,{\fnVerdana bold\bord9\3c&H230607&\fad(160,0)\c&HF4FA84&\an2\pos(1639.5,715.5)}Wurfmesser\N{\fnTahoma\fs-1\b0\c&H746C67&}ausgerüstet.
+Dialogue: 1,0:16:03.73,0:16:07.74,TypePlaceholder,,0,0,0,,{\p1\c&HFFFFFF&\3c&H181818&\bord9\an2\fad(0,0)\pos(960,211.5)}m 0 0 l 675 0 l 675 156 l 0 156
+Dialogue: 2,0:16:03.73,0:16:07.74,TypePlaceholder,,0,0,0,,{\p1\c&H1701BD&\bord0\3c&H000000&\fad(0,0)\an2\pos(960,213)}m 0 0 l 675 0 l 675 84 l 0 84
+Dialogue: 3,0:16:03.73,0:16:07.74,TypePlaceholder,,0,0,0,,{\fnTahoma\bord0\c&H000000&\fs-3.5\pos(960,70.5)}Praktisches Kampftraining, 5. Monster
+Dialogue: 3,0:16:03.73,0:16:07.74,TypePlaceholder,,0,0,0,,{\fnTahoma\bord0\fs+1\c&H000000&\pos(960,133.5)}Giftiger Adler
+Dialogue: 0,0:16:27.01,0:16:28.97,TypePlaceholder,,0,0,0,,{\fnVerdana bold\an2\bord0\fs-4\fax-0.4\c&HBBBE50&\frz25.84\move(1209,187.5,1342.5,114,16,2035)}Spiralschneide
+Dialogue: 1,0:16:43.90,0:16:48.99,TypePlaceholder,,0,0,0,,{\p1\c&H130B06&\fad(247,0)\3c&HCFB53B&\bord9\an9\fad(0,0)\pos(1876.5,64.5)}m 0 0 l 495 0 l 495 555 l 0 555
+Dialogue: 2,0:16:43.90,0:16:48.99,TypePlaceholder,,0,0,0,,{\fad(247,0)\fnVerdana bold\fs-4\an7\bord0\c&HD2D56F&\pos(1401,78)}Honigbeutel des\NVorratsschmetterlings\N\NPollenhaare der\NImperiumbienen-Arbeiterin\N\NStachel der\NImperiumbienen-Jägerin\N\NMandibel der\NImperiumbienen-Jägerin\N\NPseudoblumenflügel der\NMimikry-Gottesanbeterin\N\NSichelarme der\NMimikry-Gottesanbeterin
+Dialogue: 0,0:17:14.76,0:17:16.52,TypePlaceholder,,0,0,0,,{\fnVerdana\b0\c&H7A2EF5&\fsp3\blur3\bord3\3c&H332050&\pos(1449,406.5)}Imperiumbienen-Jägerin
+Dialogue: 0,0:17:23.27,0:17:25.52,TypePlaceholder,,0,0,0,,{\fnVerdana\b0\c&H7A2EF5&\fsp3\blur3\bord3\3c&H332050&\pos(1482,901.5)}Imperiumbienen-Königin
+Dialogue: 0,0:19:42.49,0:19:43.70,TypePlaceholder,,0,0,0,,{\fnVerdana bold\bord0\fs-2\fax-0.55\an2\c&HE1E66C&\frz28.14\pos(319.5,181.5)}Honigbeutel des\NVorratsschmetterlings
+Dialogue: 1,0:20:29.88,0:20:40.14,TypePlaceholder,,0,0,0,,{\p1\c&H1B0608&\fad(247,0)\3c&HCDB737&\1a&20&\bord9\an9\fad(0,0)\pos(1876.5,64.5)}m 0 0 l 495 0 l 495 405 l 0 405
+Dialogue: 2,0:20:29.88,0:20:40.14,TypePlaceholderBox,,0,0,0,,{\fnVerdana bold\fs-4\fad(247,0)\pos(1632,85.5)\c&H810065&\3c&HD129CD&}Gefundene Gegenstände
+Dialogue: 2,0:20:29.88,0:20:40.14,TypePlaceholder,,0,0,0,,{\fnVerdana bold\fs-4\bord0\an7\fad(247,0)\pos(1404,147)\c&HF0EC81&}Horn des Vierhornkäfers\N\NEntsetzliche Mandibel des\NVierhornkäfers\N\NSchwerer Panzer des\NVierhornkäfers\N\NFächerflügel des\NVierhornkäfers
+Dialogue: 0,0:21:37.15,0:21:40.45,TypePlaceholder,,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\pos(960,45)}Übersetzung: Markus Lange
+Dialogue: 0,0:21:37.15,0:21:40.45,TypePlaceholder,,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\an2\pos(960,1035)}Spotting: Michael Gohl
+Dialogue: 0,0:21:40.45,0:21:43.78,TypePlaceholder,,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\pos(960,45)}Revision & Typesetting: Jacqueline Philippi
+Dialogue: 0,0:21:40.45,0:21:43.78,TypePlaceholder,,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\an2\pos(960,1035)}Qualitätskontrolle: Konrad Walter
+Dialogue: 0,0:21:43.78,0:21:46.66,TypePlaceholder,,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\pos(960,45)}Projektleitung: Tobias Philippi
+Dialogue: 0,0:22:54.94,0:23:02.19,TypePlaceholder,,0,0,0,,{\fnComic Sans MS Bold\fs+4\bord0\shad6\fs+6\c&H7CEDEF&\4c&H51CBDA&\pos(960,9)}Sh{\c&HC297F0&\4c&H966CD6&}a{\c&H679FF8&\4c&H3171D7&}n{\c&HDE72BD&\4c&HB64897&}F{\c&H5B63E6&\4c&H484FC2&}ro
+Dialogue: 0,0:22:58.69,0:23:02.19,TypePlaceholder,,0,0,0,,{\fnComic Sans MS BOLD\fad(493,0)\fs+4\fax-0.15\an3\c&HFAFFFE&\3c&H376777&\4c&H1C3F4D&\shad3.9\bord3.9\pos(1831.5,859.5)}#14 Was für ein Mensch ist Towa Amane?
+Dialogue: 0,0:22:59.32,0:23:02.19,TypePlaceholder,,0,0,0,,{\c&H515655&\fnComic Sans MS Bold\fad(333,0)\fs+2\bord0\frz43.99\pos(1447.5,118.5)}Mini
+Dialogue: 0,0:23:02.19,0:23:14.08,TypePlaceholder,,0,0,0,,{\fnArial bold\bord0\fs+2\c&HBD71B8&\frz21.71\move(1633.5,901.5,1554,1030.5,23,11868)}Towa Amane
+Dialogue: 0,0:23:02.19,0:23:14.08,TypePlaceholderBox,,0,0,0,,{\fnTahoma\b0\fs-4\fax0.1\c&HFEF6FB&\3c&HC97EC2&\an1\frz21.54\move(645,651,562.5,781.5,23,11868)}Großer Extrateil
+Dialogue: 0,0:23:02.19,0:23:14.08,TypePlaceholderBox,,0,0,0,,{\fnTahoma\b0\fs-4\fax0.1\c&HFEF6FB&\3c&HC97EC2&\an1\frz21.54\move(712.5,784.5,630,915,23,11868)}Towas Top-Empfehlung ♡\NDie neuesten Sommertrends
+Dialogue: 0,0:23:02.19,0:23:14.08,TypePlaceholderBox,,0,0,0,,{\fnTahoma\b0\fs-4\fax0.1\c&HFEF6FB&\3c&HC97EC2&\an1\frz21.54\move(811.5,951,729,1081.5,23,11868)}Towas TOP 3\Nder neuen Sommerkosmetika
+Dialogue: 0,0:23:02.19,0:23:48.24,TypePlaceholder,,0,0,0,,{\fnComic Sans MS BOLD\fad(0,0)\fs+2\fax-0.15\an9\c&HFDFFFD&\3c&H376777&\4c&H1C3F4D&\shad3.9\bord3.9\pos(1824,112.5)}ShanFro-Theater

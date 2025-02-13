@@ -1,0 +1,46 @@
+﻿[Script Info]
+Title: English (US)
+ScaledBorderAndShadow: yes
+Original Script: kodansha  [http://www.crunchyroll.com/user/kodansha]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+LayoutResX: 1920
+LayoutResY: 1080
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+Style: Sign_Basic,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,6,3,2,30,30,54,1
+Style: Ep_Title,Arial,60,&H00FFFFFF,&H000000FF,&H00000000,&H00BE9829,-1,0,0,0,100,100,0,0,1,0,6,1,132,30,12,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:02:12.32,0:02:18.08,Ep_Title,title,0,0,0,,{\fad(1400,0)}The 300-Limit Pandemonium
+Dialogue: 0,0:03:12.26,0:03:25.10,Default,sign,0,0,0,,{\fade(200,1)}{\3c&H849AF3&\bord12\shad0\1a&HFF&\an8\fnArial\fs60\pos(1452,351)}Unique Scenario\N {\c&H7BA2F8&\b1\bord0\1a&H00&}Invitation From Rabituza\N{\fs48\c&H242625&\3c&HF9FDF5&\shad0\bord9}Practical Training  Opponent 10\N{\fs72\3c&H1908B1&}Aberrant Woodmage
+Dialogue: 0,0:03:20.76,0:03:25.10,Default,sign,0,0,0,,{\pos(1566,144)\3c&H391BC1&\bord9\fs42\shad0}Clear Condition\N {\c&H282821&\3c&HF9F7F5&\b1}Survive for five minutes
+Dialogue: 0,0:03:25.10,0:03:27.94,Default,sign,0,0,0,,{\pos(1566,144)\3c&H391BC1&\bord9\fs42\shad0}Clear Condition\N {\c&H282821&\3c&HF9F7F5&\b1}Survive for five minutes
+Dialogue: 0,0:04:01.22,0:04:04.35,Default,sign,0,0,0,,{\fad(500,0)\fs36\c&H242625&\3c&HDDDAE2&\shad0\bord9\pos(1644,614.001)\frz328.7}Practical Training  Opponent 10\N{\fs60\3c&H1908B1&}Aberrant Woodmage\N{\c&HFAFDFA&\3c&H181B18&\fs36}Level {\b1}120
+Dialogue: 0,0:11:29.08,0:11:35.34,Sign_Basic,sign,0,0,0,,{\an8\pos(645.999,99.999)\org(645.999,99.999)\fscx98.373\fscy78.119\frz31.174\fry-11.766\frx12.526\fax-0.114\fnImpact\fs90\i1\xbord5.9\ybord4.69\xshad2.951199\yshad2.343576\c&H9C880A&\3c&HECEDE1&\4c&H655850&}Sunraku
+Dialogue: 0,0:11:29.08,0:11:35.34,Sign_Basic,sign,0,0,0,,{\an7\pos(636.003,518.001)\org(636.003,518.001)\fscx88.688\fscy90.148\frz27.692\fry-14.597\frx4.973\fax-0.225\fs36\b1\xbord10.64\ybord10.82\xshad0\yshad0\3c&HE24E6C&\1a&HFF&}Drain          {\3c&H700BA4&}Exhaustion         {\3c&H1F9140&}Speed↓
+Dialogue: 0,0:13:24.62,0:13:26.99,Sign_Basic,sign,0,0,0,,{\an8\pos(827.701,124.793)\org(825.999,133.998)\fscx100.736\fscy94.152\frz8.19\fry-2.682\frx6.235\fax-0.173\xbord12.09\ybord11.3\xshad0\yshad0\c&H59CCC3&\3c&HF6FFFF&\fad(150,0)}Title
+Dialogue: 0,0:13:24.62,0:13:26.99,Sign_Basic,sign,0,0,0,,{\an5\pos(840.738,369.542)\org(831.999,405.999)\fscx100.676\fscy99.221\frz6.842\fry-0.667\frx0.667\fax-0.119\fnArial\b1\xbord6.04\ybord5.95\xshad0\yshad0\c&HEDFFFF&\3c&H7FBDC3&\blur6\fad(150,0)}Honorary Rabituzan
+Dialogue: 0,0:13:24.62,0:13:26.99,Sign_Basic,sign,0,0,0,,{\fad(150,0)\fay-.05\3c&HE2E0D8&\shad0\blur6\3a&H60&\pos(840,906)}acquired.
+Dialogue: 0,0:13:43.18,0:13:47.56,Sign_Basic,sign,0,0,0,,{\pos(1484.002,860.001)\org(1484.001,860.001)\fscx99.946\fscy100\frz0.619\fry-0.667\frx0\fax0\fs36\b1\xbord6\ybord6\xshad0\yshad0\c&HF8E89B&\3c&H382110&\fad(225,0)}Vorpal Soul Collar\N{\b0\c&H818390&}lost.
+Dialogue: 0,0:13:43.18,0:13:47.56,Sign_Basic,sign,0,0,0,,{\pos(1483.999,771.999)\org(1483.998,771.999)\fscx99.946\fscy100\frz1.887\fry-0.667\frx0\fax0\fs42\xbord6\ybord6\xshad0\yshad0\c&H312960&\3c&H2081D1&\fad(225,0)}Accessory
+Dialogue: 0,0:13:47.93,0:13:52.31,Sign_Basic,sign,0,0,0,,{\an8\pos(844.62,125.691)\org(837.999,157.998)\fscx98.608\fscy96.045\frz10.498\fry-5.46\frx4.196\fax-0.2\xbord11.83\ybord11.53\xshad0\yshad0\c&H6D6C73&\3c&HF7FCFB&\fad(200,0)}Unique Scenario
+Dialogue: 0,0:13:47.93,0:13:52.31,Sign_Basic,sign,0,0,0,,{\an5\pos(879.744,357.233)\org(870,402)\fscx100.681\fscy99.216\frz9.712\fry-0.667\frx0.667\fax-0.119\fnArial\b1\xbord6.04\ybord5.95\xshad0\yshad0\c&HEDFFFF&\3c&H7FBDC3&\blur6\fad(200,0)}Invitation From Rabituza
+Dialogue: 0,0:13:47.93,0:13:52.31,Sign_Basic,sign,0,0,0,,{\fad(200,0)\fay-.05\3c&HE2E0D8&\shad0\blur6\3a&HB0&\pos(860.001,872.001)\frz1.773}cleared.
+Dialogue: 0,0:13:55.69,0:14:00.57,Sign_Basic,sign,0,0,0,,{\an8\fnArial\fs54\c&H77675C&\3c&HF5FFFE&\shad0\bord12\pos(960,30)}Bonus Unique Scenario\N{\b1\c&HF2FCF8&\3c&H6A4E3C&}Vorpal Epic\N{\b0\fnTrebuchet MS}Begin now?\N{\3c&H1E00A3&}No  {\3c&HB4DF2B&}Yes
+Dialogue: 0,0:14:39.48,0:14:53.50,Sign_Basic,,0,0,0,,{\an7\fnArial\fs54\c&H5F4641&\3c&HD8FBF6&\shad0\bord12\pos(60,30)}Bonus Unique Scenario\N{\b1\c&HF2FCF8&\3c&H1F1B12&}Vorpal Epic\N{\b0\fnTimes New Roman\b1\c&HFDF6EC&}When the souls of the Divinity are shaken,\Na rabbit shall tell an epic tale.\N{\fnTrebuchet MS\c&HE6E095&}Rec. Level: {\fnImpact\b1\c&HC09316&\3c&HF5D76F&\bord3}80
+Dialogue: 0,0:14:53.62,0:15:01.26,Sign_Basic,sign,0,0,0,,{\pos(1556.001,162)\c&HB4A31B&\3c&HF6F7EB&\shad0\frz7.072}Level 31
+Dialogue: 0,0:16:02.15,0:16:04.90,Sign_Basic,sign,0,0,0,,{\pos(1530,480)\fnArial\b1\c&H8F4CCE&\3c&H181225&\bord12\shad0}Peatz
+Dialogue: 0,0:16:38.69,0:16:45.44,Sign_Basic,sign,0,0,0,,{\fad(150,0)\c&HE8E997&\pos(708,278.001)\an8\b1\fs60\3c&H33231D&\shad0\bord9}Staring Bird Mask\N{\c&H7F726B&\b0\fs36}equipped
+Dialogue: 0,0:17:14.81,0:17:16.27,Sign_Basic,sign,0,0,0,,{\an8\i1\fnImpact\fs90\c&H9C880A&\3c&HECEDE1&\shad3\4c&H655850&\move(948,-75,948,153,25,1067)}Sunraku
+Dialogue: 0,0:17:37.54,0:17:38.91,Sign_Basic,sign,0,0,0,,{\an5\pos(1392,465)\org(1392,465)\fry-180\b1\xbord0\ybord0\xshad0\yshad0\c&HF9F6A3&\fad(400,0)}Ritual Medjed Keffiyeh
+Dialogue: 0,0:18:00.39,0:18:05.94,Sign_Basic,sign,0,0,0,,{\an5\pos(882,528)\org(882,528)\fscx100\fscy100\frz-13.3\fry-180\frx0\fax0\fs24\xbord3\ybord3\xshad0\yshad0\c&H8E8183&\3c&HD2CEC4&}Prismatic Forest Grotto
+Dialogue: 0,0:18:05.94,0:18:18.95,Sign_Basic,sign,0,0,0,,{\pos(975,855)\c&H181514&\3c&HE1F3F5&\shad0}Prismatic Forest Grotto
+Dialogue: 0,0:18:18.95,0:18:28.21,Sign_Basic,sign,0,0,0,,{\pos(975,855)\c&H181514&\3c&HE1F3F5&\shad0}Fellfate Caldera
+Dialogue: 0,0:18:28.21,0:18:39.22,Sign_Basic,sign,0,0,0,,{\pos(975,855)\c&H181514&\3c&HE1F3F5&\shad0}Iron Ruins of the Divinity

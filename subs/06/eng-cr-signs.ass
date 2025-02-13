@@ -1,0 +1,60 @@
+﻿[Script Info]
+Title: English (US)
+ScaledBorderAndShadow: yes
+Original Script: kodansha  [http://www.crunchyroll.com/user/kodansha]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+LayoutResX: 1920
+LayoutResY: 1080
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+Style: Sign_Basic,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,6,3,2,30,30,54,1
+Style: Ep_Title,Arial,60,&H00FFFFFF,&H000000FF,&H00000000,&H00BE9829,-1,0,0,0,100,100,0,0,1,0,6,1,132,30,12,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:02:10.82,0:02:13.86,Sign_Basic,sign,0,0,0,,{\an5\fnImpact\b1\fs72\shad1.5\c&HA59014&\3c&HFFFFFF&\bord6\fsp6\frx358\fry356\i1\move(960,120,960,270)}Arthur Pencilgon
+Dialogue: 0,0:02:17.45,0:02:21.62,Ep_Title,sign,0,0,0,,{\fad(825,0)}The Writing Tool Knight-Queen
+Dialogue: 0,0:02:34.76,0:02:39.14,Sign_Basic,sign,0,0,0,,{\pos(760.571,273.999)\org(768,273.999)\fscx82.549\fscy96.167\frz-20.823\fry15.626\frx1.678\fax0.387\fnArial\fs48\b1\xbord4.95\ybord5.77\xshad0\yshad0\c&HCEE9F0&\3c&H23333F&\fad(875,0)}Item Shop
+Dialogue: 0,0:02:39.14,0:02:39.72,Sign_Basic,sign,0,0,0,,{\pos(881.624,354)\org(890.001,354)\fscx98.015\fscy88.295\frz0.252\fry4.053\frx11.104\fax0.295\fnArial\fs90\b1\xbord0\ybord0\xshad0\yshad0\c&HB3BFB8&\3c&HD9FEFF&\fad(0,175)}Sales Counter
+Dialogue: 0,0:02:53.03,0:02:57.53,Sign_Basic,sign,0,0,0,,{\pos(1421.731,109.998)\org(1404,109.998)\fscx84.459\fscy72.387\frz29.714\fry-23.105\frx14.831\fax-0.237\fnArial\fs48\b1\xbord5.07\ybord4.34\xshad0\yshad0\c&HCEE9F0&\3c&H23333F&}Item Shop
+Dialogue: 0,0:03:02.12,0:03:06.92,Sign_Basic,sign,0,0,0,,{\fad(275,0)\shad0\fs60\c&HD9E8D3&\3c&H7D8866&\pos(1005.999,116.001)}Sunraku
+Dialogue: 0,0:03:36.36,0:03:38.99,Sign_Basic,sign,0,0,0,,{\pos(534,51)\an7\b1\bord0\shad0\fs66}This rock's not even suitable\Nfor throwing.
+Dialogue: 0,0:04:34.13,0:04:35.88,Sign_Basic,sign,0,0,0,,{\shad0\fs78\b1\an7\c&HD8E1FD&\3c&H7D8866&\pos(114,105)\blur3}Pencil Knight
+Dialogue: 0,0:04:58.57,0:05:10.58,Sign_Basic,sign,0,0,0,,{\fad(6150,0)\shad0\fs24\an7\c&HC2F4E5&\bord3\3c&H6FA38F&\blur3\pos(930,96)}Katzo Tataki
+Dialogue: 0,0:04:58.57,0:05:10.58,Sign_Basic,sign,0,0,0,,{\fad(6150,0)\shad0\fs27\an7\c&HC2F4E5&\bord3\3c&H6FA38F&\blur3\pos(1390.326,74.64)}Sunraku
+Dialogue: 0,0:05:53.71,0:06:00.09,Sign_Basic,sign,0,0,0,,{\fad(0,1000)\shad0\fs60\an2\c&HF3F5F6&\bord4.5\3c&H76A67C&\blur3\move(510,-141,510,576)}Sunraku
+Dialogue: 0,0:05:53.71,0:06:00.09,Sign_Basic,sign,0,0,0,,{\fad(0,1000)\shad0\fs60\an2\c&HF3F5F6&\bord4.5\3c&H76A67C&\blur3\move(1398,-81,1398,636)}Katzo Tataki
+Dialogue: 0,0:06:02.13,0:06:06.64,Sign_Basic,sign,0,0,0,,{\pos(960,170.001)\c&HF4FCFF&\3c&H222C57&\shad0\fnTimes New Roman}Dystopian Empress
+Dialogue: 0,0:06:33.16,0:06:38.38,Sign_Basic,sign,0,0,0,,{\pos(1188,12)\an8\3c&H7EAF68&\shad0\fs48\bord4.5}Pencil Knight
+Dialogue: 0,0:07:50.83,0:07:55.33,Sign_Basic,sign,0,0,0,,{\an8\fnTimes New Roman\b1\shad0\pos(960,60)\fs90}Ashura Kai
+Dialogue: 0,0:07:53.24,0:07:55.33,Sign_Basic,sign,0,0,0,,{\an8\fnTimes New Roman\b1\shad0\pos(960,150)\fs90}Giant Killer
+Dialogue: 0,0:11:34.01,0:11:36.01,Sign_Basic,sign,0,0,0,,{\fad(450,0)\an2\fnImpact\b1\fs90\shad6\c&HF9C130&\3c&HFFFFFF&\bord9\fscy140\fsp3\pos(960,240)\frz18.63}Repel Counter
+Dialogue: 0,0:13:12.40,0:13:17.40,Sign_Basic,sign,0,0,0,,{\an5\fnImpact\b1\fs36\shad0\c&HC4B02F&\3c&HFFFFFF&\bord3\fsp3\i1\pos(480,282)}Remy
+Dialogue: 0,0:13:12.40,0:13:17.40,Sign_Basic,sign,0,0,0,,{\an5\fnImpact\b1\fs36\shad0\c&HC4B02F&\3c&HFFFFFF&\bord3\fsp3\i1\pos(732,240)}Branch
+Dialogue: 0,0:13:12.40,0:13:17.40,Sign_Basic,sign,0,0,0,,{\an5\fnImpact\b1\fs36\shad0\c&HC4B02F&\3c&HFFFFFF&\bord3\fsp3\i1\pos(1233.999,314.001)}Lass
+Dialogue: 0,0:13:12.40,0:13:17.40,Sign_Basic,sign,0,0,0,,{\an5\fnImpact\b1\fs36\shad0\c&HC4B02F&\3c&HFFFFFF&\bord3\fsp3\i1\pos(1476,273)}Ketchum
+Dialogue: 0,0:13:17.40,0:13:23.78,Sign_Basic,sign,0,0,0,,{\an5\pos(1454.284,91.998)\org(1454.001,91.998)\fscx99.996\fscy74.636\frz-31.201\fry9.234\frx15.96\fax0.194\fnImpact\fs90\fsp3\b1\i1\xbord6\ybord4.48\xshad1.499933\yshad1.119542\c&HC5AB1E&\3c&HFFFFFF&}Ketchum
+Dialogue: 0,0:13:23.78,0:13:26.20,Sign_Basic,sign,0,0,0,,{\an5\pos(1138.797,267.999)\org(1138.002,267.999)\fscx98.849\fscy99.316\frz6.726\fry-3.364\frx2.034\fax0.182\fnImpact\fs90\fsp3\b1\i1\xbord5.93\ybord5.96\xshad1.482729\yshad1.489736\c&HC5AB1E&\3c&HFFFFFF&}Lass
+Dialogue: 0,0:13:26.20,0:13:29.83,Sign_Basic,sign,0,0,0,,{\an5\pos(813.677,207.999)\org(814.002,207.999)\fscx99.899\fscy98.697\frz26.606\fry-0.667\frx3.366\fax0.207\fnImpact\fs90\fsp3\b1\i1\xbord5.99\ybord5.92\xshad1.498489\yshad1.480454\c&HC5AB1E&\3c&HFFFFFF&}Branch
+Dialogue: 0,0:13:29.83,0:13:33.54,Sign_Basic,sign,0,0,0,,{\an5\pos(1076.512,267.999)\org(1074,267.999)\fscx98.535\fscy94.493\frz-11.576\fry-2.007\frx7.707\fax0.143\fnImpact\fs90\fsp3\b1\i1\xbord5.91\ybord5.67\xshad1.478023\yshad1.417389\c&HC5AB1E&\3c&HFFFFFF&}Remy
+Dialogue: 0,0:13:33.54,0:13:36.84,Sign_Basic,sign,0,0,0,,{\an5\pos(991.881,588)\org(984,588)\fscx94.775\fscy83.585\frz10.188\fry-9.234\frx12.884\fax0.015\fnImpact\fs90\fsp3\b1\i1\xbord5.69\ybord5.01\xshad1.421619\yshad1.253774\c&HC5AB1E&\3c&HFFFFFF&}Ketchum
+Dialogue: 0,0:15:01.96,0:15:03.01,Sign_Basic,sign,0,0,0,,{\fs30\an7\pos(450,204)\shad0\3c&HA82083&\1a&HFF&\b1}Poison   {\3c&H35ABAE&}Paralysis      {\3c&HE24E6C&}Drain    {\3c&H700BA4&}Exhaustion    {\3c&H1F9140&}Speed
+Dialogue: 0,0:15:03.01,0:15:09.01,Sign_Basic,sign,0,0,0,,{\fs48\an7\bord12\shad0\3c&HA82083&\1a&HFF&\b1\pos(592.002,466.002)\frz3.901}Poison   {\3c&H35ABAE&}Paralysis      {\3c&HE24E6C&}Drain      {\3c&H700BA4&}Exhaustion      {\3c&H1F9140&}Speed
+Dialogue: 0,0:15:09.01,0:15:11.35,Sign_Basic,sign,0,0,0,,{\pos(960,896.001)\c&H131611&\shad0\fs60\3c&HFFFFFF&}Debuffs = Status Ailments
+Dialogue: 0,0:15:29.28,0:15:31.74,Sign_Basic,sign,0,0,0,,{\fad(225,0)\b1\c&HEFEB85&\3c&H7A6D21&\bord3\an7\shad0\an8\fs54\pos(438,212.001)}Karmic Straw Doll\N{\b0\bord9\c&H918178&\3a&H60&\fs36\3c&H2D180A&}Consumable item.\NCrush it in your hand to send all curses applied\Nto you back at their caster. \NAttempting to expose the "something"\Nat the straw doll's core will kill you instantly.
+Dialogue: 0,0:16:17.66,0:16:20.42,Sign_Basic,sign,0,0,0,,{\an4\pos(136.181,592.002)\org(135.999,592.002)\fscx99.902\fscy139.531\frz16.61\fry1.335\frx-1.338\fax-0.005\fnImpact\fsp3\b1\xbord8.99\ybord8.97\xshad5.994126\yshad5.97991\c&HF9C130&\3c&HFFFFFF&\fad(450,0)}Severing\Nattack,\N"Rook-\Nsmasher"
+Dialogue: 0,0:17:08.42,0:17:12.68,Sign_Basic,sign,0,0,0,,{\fad(0,1525)\an8\fnTimes New Roman\b1\c&H101311&\3c&H444744&\shad0}Constant Progress
+Dialogue: 0,0:18:12.95,0:18:19.95,Sign_Basic,sign,0,0,0,,{\pos(725.64,595.998)\org(728.001,595.998)\fscx99.552\fscy85.397\frz-152.35\fry-4.053\frx11.992\fax0.049\fs48\b1\xbord2.99\ybord2.56\xshad0\yshad0\c&H537949&\3c&HFFFFFF&}Frog Swimmer
+Dialogue: 0,0:18:12.95,0:18:19.95,Sign_Basic,sign,0,0,0,,{\pos(1177.443,517.998)\org(1171.998,517.998)\fscx97.229\fscy87.437\frz-4.012\fry-4.053\frx11.992\fax-0.117\fnArial\fs48\b1\xbord2.92\ybord2.62\xshad5.833767\yshad5.246243\c&H4F50D2&\3c&HFFFFFF&\4c&H252D2D&}Battle Circuit
+Dialogue: 0,0:18:12.95,0:18:19.95,Sign_Basic,sign,0,0,0,,{\pos(893.388,825.999)\org(887.997,825.999)\fscx91.933\fscy92.475\frz-204.884\fry-4.053\frx11.992\fax-0.163\fnArial\fs36\xbord2.76\ybord2.77\xshad5.515998\yshad5.548472\c&H757296&\3c&HFFFFFF&\4c&H252D2D&}Panty Flash Panic
+Dialogue: 0,0:18:48.32,0:18:50.32,Sign_Basic,sign,0,0,0,,{\an7\pos(60,60)\fnArial\b1\fs54\3c&HE7DBA6&\shad0}You've received\Na mailbird from\N{\fnImpact\fs66\c&HA89314&\3c&HF7F7F4&}Psyger-100
+Dialogue: 0,0:18:50.32,0:18:52.82,Sign_Basic,sign,0,0,0,,{\fad(0,450)\pos(960,885)\3c&HA28924&\shad0}Secondale  Inn
+Dialogue: 0,0:18:58.16,0:19:01.12,Default,sign,0,0,0,,{\c&H39433F&\3c&HE2EEEC&\an7\pos(60,60)\fs42\shad0}From: {\c&HA08D11&}Psyger-100\N{\c&H3C4642&}Dear Psyger-0,\N Sorry, but I need you to pause\Nyour private player hunt.\NThere's a player I really need to talk to.\NCan you find him for me?\N\N He was last sighted near Secondale.\NHe seems to have a talking,\Nclothed Vorpal Bunny with him.
+Dialogue: 0,0:19:39.45,0:19:47.29,Sign_Basic,sign,0,0,0,,{\an7\fs36\c&H4CB831&\3c&HE7EAE7&\shad0}75: Alinoiyu {\c&H393931&}(Beginner)\NI have a question for our esteemed elders. I was picking up equipment\Nin Secondale when I ran into this player. He had the cutest talking bunny\Nwith him. How can I befriend this monster?
+Dialogue: 0,0:20:16.45,0:20:21.45,Sign_Basic,sign,0,0,0,,{\pos(960,896.001)\c&H131611&\shad0\fs60\3c&HFFFFFF&}PvP = Battle between players

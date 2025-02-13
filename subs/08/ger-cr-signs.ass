@@ -1,0 +1,78 @@
+﻿[Script Info]
+Title: Deutsch
+ScaledBorderAndShadow: yes
+Original Script: cr_de  [http://www.crunchyroll.com/user/cr_de]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+LayoutResX: 1920
+LayoutResY: 1080
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: TypePlaceholder,Arial,60,&H00FFFFFF,&H000000FF,&H00000000,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,6,0,8,30,30,60,1
+Style: TypePlaceholderBox,Arial Bold,66,&H00200960,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,3,6,0,8,30,30,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:02:12.32,0:02:18.08,TypePlaceholder,,0,0,0,,{\an1\fnVerdana Bold\fscx90\shad6\fs+1\b1\fsp3\c&HF6FFFB&\4c&HC7961F&\bord0\fad(144,0)\3c&HFFFFFE&\pos(893.28,1003.32)}Das 300-{\alpha&HFF&\t(228,1020,\alpha&H00&)}Sekunden-{\fnGeorgia Bold\fscx100\c&HC7951D&\bord3\3c&HFFFFFF&\4c&HFFFFFF&\alpha&HFF&\t(1145,1437,\alpha&H00&)}Spektakel
+Dialogue: 1,0:03:12.26,0:03:25.10,TypePlaceholder,,0,0,0,,{\p1\c&HE6E6E6&\3c&H181818&\fad(240,0)\an2\pos(1453.5,1039.5)}m 0 0 l 825 0 l 825 234 l 0 234
+Dialogue: 2,0:03:12.26,0:03:25.10,TypePlaceholder,,0,0,0,,{\p1\c&H1701BD&\bord0\fad(240,0)\3c&H000000&\an2\pos(1453.5,993)}m 0 0 l 825 0 l 825 105 l 0 105
+Dialogue: 3,0:03:12.26,0:03:25.10,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\fscx90\bord0\fad(240,0)\c&H000000&\fs-2\pos(1453.5,823.5)}Praktisches Kampftraining, 10. Monster
+Dialogue: 3,0:03:12.26,0:03:25.10,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\fscx90\bord0\fs+1.2\fad(240,0)\c&H000000&\pos(1452,904.5)}Wahnsinniger Baummagier
+Dialogue: 0,0:03:12.26,0:03:25.10,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\fscx90\bord3\blur3\c&H80A3F7&\3c&H393E3B&\fad(240,0)\fs-2\pos(1456.5,529.5)}Eine Einladung aus dem Hasenland
+Dialogue: 0,0:03:12.26,0:03:25.10,TypePlaceholderBox,,0,0,0,,{\fnTahoma\b0\\c&H3B3D48&\3c&H80A3F7&\fs-2\fad(240,0)\pos(1453.5,469.5)}\hEinzigartiges Szenario\h
+Dialogue: 1,0:03:20.76,0:03:25.10,TypePlaceholder,,0,0,0,,{\p1\c&HFCFCF7&\3c&H5E514E&\fad(249,0)\an2\pos(1572,348)}m 0 0 l 615 0 l 615 201 l 0 201
+Dialogue: 2,0:03:20.76,0:03:25.10,TypePlaceholder,,0,0,0,,{\fnTahoma\b0\c&H5E514E&\bord0\fs+2\fad(249,0)\pos(1572,255)}Überlebe 5 Minuten.
+Dialogue: 2,0:03:20.76,0:03:25.10,TypePlaceholderBox,,0,0,0,,{\c&HFCFCF7&\3c&H1701BD&\fs-3\fad(249,0)\fnVerdana Bold\fscx90\pos(1572,186)}\hSiegbedingung aktualisiert\h
+Dialogue: 1,0:03:25.10,0:03:27.94,TypePlaceholder,,0,0,0,,{\p1\c&HFCFCF7&\3c&H5E514E&\fad(0,0)\an2\pos(1564.5,343.5)}m 0 0 l 615 0 l 615 201 l 0 201
+Dialogue: 2,0:03:25.10,0:03:27.94,TypePlaceholder,,0,0,0,,{\fnTahoma\b0\c&H5E514E&\bord0\fs+2\fad(0,0)\pos(1564.5,250.5)}Überlebe 5 Minuten.
+Dialogue: 2,0:03:25.10,0:03:27.94,TypePlaceholderBox,,0,0,0,,{\c&HFCFCF7&\3c&H1701BD&\fs-3\fad(0,0)\fnVerdana Bold\fscx90\pos(1564.5,181.5)}\hSiegbedingung aktualisiert\h
+Dialogue: 1,0:04:01.22,0:04:04.35,TypePlaceholder,,0,0,0,,{\p1\c&HE6E7EB&\fad(494,0)\3c&H181818&\fscx80\fscy75\an2\pos(1525.5,211.5)}m 0 0 l 825 0 l 825 225 l 0 225
+Dialogue: 2,0:04:01.22,0:04:04.35,TypePlaceholder,,0,0,0,,{\fad(494,0)\p1\c&H1701BD&\bord0\fscx80\fscy80\3c&H000000&\an2\pos(1525.5,178.5)}m 0 0 l 825 0 l 825 105 l 0 105
+Dialogue: 3,0:04:01.22,0:04:04.35,TypePlaceholder,,0,0,0,,{\fad(494,0)\fscx70\fscy80\fnVerdana Bold\bord0\c&H000000&\fs-2\pos(1525.5,49.5)}Praktisches Kampftraining, 10. Monster
+Dialogue: 3,0:04:01.22,0:04:04.35,TypePlaceholder,,0,0,0,,{\fad(494,0)\fscx76\fscy80\fnVerdana Bold\bord0\fs+1\c&H000000&\pos(1525.5,108)}Wahnsinniger Baummagier
+Dialogue: 0,0:04:01.22,0:04:04.35,TypePlaceholder,,0,0,0,,{\p1\c&H181818&\3c&H181818&\an2\fscx80\fscy80\pos(1525.5,262.5)}m 0 0 l 825 0 l 825 225 l 0 225
+Dialogue: 0,0:04:01.22,0:04:04.35,TypePlaceholder,,0,0,0,,{\fnTahoma\b0\bord0\fscx80\fscy80\pos(1525.5,213)}Level: {\fnImpact\fsp6}120
+Dialogue: 0,0:11:29.08,0:11:35.34,TypePlaceholderBox,,0,0,0,,{\fnVerdana Bold\fs-4\c&HE4DBCB&\3c&H13A02B&\fax-0.3\frz27.63\pos(1101,264)}Agilität↓
+Dialogue: 0,0:11:29.08,0:11:35.34,TypePlaceholder,,0,0,0,,{\fnImpact\b0\fax-0.6\fs+8\an2\frz27.61\pos(618,210)\c&HA28C09&\3c&H787356&\bord9}Sunraku
+Dialogue: 1,0:11:29.08,0:11:35.34,TypePlaceholder,,0,0,0,,{\fnImpact\b0\fax-0.6\fs+8\an2\frz27.61\pos(618,210)\c&HA28C09&\3c&HF4EFEF&}Sunraku
+Dialogue: 0,0:11:29.08,0:11:35.34,TypePlaceholderBox,,0,0,0,,{\fnVerdana Bold\fs-4\c&HE4DBCB&\3c&HDE3C62&\fax-0.3\frz27.63\pos(660,504)}\hEntkräftung\h
+Dialogue: 0,0:11:29.08,0:11:35.34,TypePlaceholderBox,,0,0,0,,{\fnVerdana Bold\fs-4\c&HE4DBCB&\3c&H760099&\fax-0.3\frz27.63\pos(883.5,387)}Erschöpfung
+Dialogue: 0,0:13:24.58,0:13:26.99,TypePlaceholderBox,,0,0,0,,{\fnTahoma\b0\fad(243,0)\c&H6CCEC9&\fs-2\3c&HF0FFFF&\pos(1269,82.5)}\hTitel\h
+Dialogue: 0,0:13:24.58,0:13:26.99,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\fad(243,0)\fs-2\pos(1267.5,156)\c&HEFFFFF&\3c&H3A979F&\bord3\blur6}Ehrenbürger von Hasingen\N{\fnTahoma\b0\c&HFEFAF9&\3c&H737772&}erlangt.
+Dialogue: 0,0:13:31.50,0:13:37.00,TypePlaceholderBox,,0,0,0,,{\fnTahoma\b0\fad(243,0)\c&H6CCEC9&\fs-2\3c&HF0FFFF&\pos(1389,132)}\hTitel\h
+Dialogue: 0,0:13:31.50,0:13:37.00,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\fad(243,0)\fs-2\c&HEFFFFF&\3c&H3A979F&\bord3\blur6\pos(1387.5,205.5)}Ehrenbürger von Hasingen\N{\fnTahoma\b0\c&HFEFAF9&\3c&H737772&}erlangt.
+Dialogue: 0,0:13:43.18,0:13:47.56,TypePlaceholderBox,,0,0,0,,{\fnVerdana Bold\fs-4\fad(161,0)\c&H312D5B&\3c&H1C80D2&\pos(1476,796.5)}Accessoire
+Dialogue: 0,0:13:43.18,0:13:47.56,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\fad(161,0)\fs-3\pos(1477.5,855)\c&HEDDE97&\3c&H392312&}Killergeist-Halsband\N{\fnTahoma\b0\c&H857268&}verloren.
+Dialogue: 0,0:13:47.93,0:13:52.31,TypePlaceholderBox,,0,0,0,,{\c&H7A9BBA&\fad(150,0)\3c&HE4FFFD&\fnVerdana Bold\fs-1\pos(535.5,45)}Einzigartiges Szenario
+Dialogue: 0,0:13:47.93,0:13:52.31,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\fad(150,0)\3c&H4E291A&\bord9\c&HEDFAFF&\pos(535.5,136.5)}Eine Einladung aus dem Hasenland\N{\fnTahoma\b0\c&HFEFEFC&}abgeschlossen.
+Dialogue: 0,0:13:55.69,0:14:00.61,TypePlaceholderBox,,0,0,0,,{\fad(200,200)\c&H797775&\3c&HFCFFFF&\fnVerdana Bold\fs-1}Einzigartiges Szenario EX
+Dialogue: 0,0:13:55.69,0:14:00.61,TypePlaceholder,,0,0,0,,{\fad(200,200)\pos(960,144)\fnVerdana Bold\fs+1\c&HF2FEFD&\bord9\3c&H6A4E3C&}Das Epos der Killerkaninchen\N{\fnTahoma\b0\c&HFDF6FD&}starten?
+Dialogue: 0,0:13:55.69,0:14:00.61,TypePlaceholderBox,,0,0,0,,{\fad(200,200)\fnTahoma\b0\fs-2\pos(865.5,304.5)\c&HDFDDFD&\3c&H2400B8&}\h\h\hNein\h\h\h
+Dialogue: 0,0:13:55.69,0:14:00.61,TypePlaceholderBox,,0,0,0,,{\fad(200,200)\fnTahoma\b0\fs-2\c&HFEFFE7&\3c&HC2E924&\pos(1048.5,304.5)}\h\h\hJa\h\h\h
+Dialogue: 0,0:14:39.48,0:14:53.50,TypePlaceholderBox,,0,0,0,,{\fnVerdana Bold\fs-1\c&H2C160E&\3c&HF0FEF9&}Einzigartiges Szenario EX
+Dialogue: 0,0:14:39.48,0:14:53.50,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\bord9\fs+1\c&HF0FEF9&\3c&H2C160E&}Das Epos der Killerkaninchen\N{\fnTimes New Roman Bold\fs-2\c&HF2E4DD&}Wenn der Geist des göttlichen Zeitalters erbebt,\Nwird jener Hase das Epos erzählen.\N{\fs+1\fnTahoma\b0\c&HFAEE96&}Empfohlenes Level: {\fnImpact\b0\c&HBF9014&\3c&HFEE371&\bord4.5\fsp9}80
+Dialogue: 0,0:14:53.62,0:15:01.26,TypePlaceholder,,0,0,0,,{\fnComic Sans MS Bold\fs+5\an2\frz7.452\pos(1557,162)\c&HC1A51F&\3c&HF3F3EA&\bord5.4}Level 31
+Dialogue: 0,0:16:02.07,0:16:04.90,TypePlaceholder,,0,0,0,,{\fnImpact\b0\fsp9\fs+3\bord9\c&H9658D8&\3c&H241332&\fad(201,0)\pos(1534.5,657)}Peets
+Dialogue: 0,0:16:38.81,0:16:45.44,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\bord0\c&HE6E69A&\fs-4\pos(705,54)}Starrende Vogelmaske\N{\fnTahoma\b0\c&H756763&}ausgerüstet.
+Dialogue: 0,0:17:15.18,0:17:16.27,TypePlaceholder,,0,0,0,,{\fnImpact\b0\fax-0.3\bord4.5\fad(200,0)\shad4.5\c&HB39016&\3c&HFCFBE9&\4c&H282828&\fs+3\pos(1252.5,66)}Sunraku
+Dialogue: 0,0:17:37.54,0:17:38.91,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\fsp3\fs-1\c&HFDF6A2&\3c&HFDF6A2&\bord0.36\blur3\move(2242.5,186,1408.5,186,35,394)}Medjeds festliche Robe
+Dialogue: 0,0:18:05.94,0:18:18.95,TypePlaceholder,,0,0,0,,{\fnTahoma\b0\an2\fsp3\c&H000000&\3c&HFFFFFF&\pos(960,841.5)\bord4.8}Bunt schillernde Waldgrotte
+Dialogue: 0,0:18:18.95,0:18:28.21,TypePlaceholder,,0,0,0,,{\fnTahoma\b0\an2\fsp3\c&H000000&\3c&HFFFFFF&\pos(960,841.5)\bord4.8}Kratersee des Niedergangs
+Dialogue: 0,0:18:28.21,0:18:39.22,TypePlaceholder,,0,0,0,,{\fnTahoma\b0\an2\fsp3\c&H000000&\3c&HFFFFFF&\pos(960,841.5)\bord4.8}Eisenruinen des göttlichen Zeitalters
+Dialogue: 0,0:19:58.14,0:20:01.43,TypePlaceholder,,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\pos(960,45)}Übersetzung: Markus Lange
+Dialogue: 0,0:19:58.14,0:20:01.43,TypePlaceholder,,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\an2\pos(960,1035)}Spotting: Michael Gohl
+Dialogue: 0,0:20:01.43,0:20:04.77,TypePlaceholder,,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\pos(960,45)}Revision & Typesetting: Jacqueline Philippi
+Dialogue: 0,0:20:01.43,0:20:04.77,TypePlaceholder,,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\an2\pos(960,1035)}Qualitätskontrolle: Konrad Walter
+Dialogue: 0,0:20:04.77,0:20:07.64,TypePlaceholder,,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\pos(960,45)}Projektleitung: Tobias Philippi
+Dialogue: 0,0:21:15.96,0:21:23.22,TypePlaceholder,,0,0,0,,{\fnComic Sans MS Bold\fs+4\bord0\shad6\fs+6\c&H7CEDEF&\4c&H51CBDA&\pos(960,9)}Sh{\c&HC297F0&\4c&H966CD6&}a{\c&H679FF8&\4c&H3171D7&}n{\c&HDE72BD&\4c&HB64897&}F{\c&H5B63E6&\4c&H484FC2&}ro
+Dialogue: 0,0:21:19.76,0:21:23.22,TypePlaceholder,,0,0,0,,{\fnComic Sans MS Bold\fad(493,0)\fs+4\fax-0.15\an3\c&HFAFFFE&\3c&H376777&\4c&H1C3F4D&\shad3.9\bord3.9\pos(1831.5,859.5)}#12 Sunraku hat’s gesehen!
+Dialogue: 0,0:21:20.34,0:21:23.22,TypePlaceholder,,0,0,0,,{\c&H515655&\fnComic Sans MS Bold\fad(333,0)\fs+2\bord0\frz43.99\pos(1447.5,118.5)}Mini
+Dialogue: 0,0:21:23.22,0:22:29.29,TypePlaceholder,,0,0,0,,{\fnComic Sans MS Bold\fad(0,0)\fs+2\fax-0.15\an9\c&HFFFFFF&\3c&H376777&\4c&H1C3F4D&\shad3.9\bord3.9\pos(1824,112.5)}ShanFro-Theater
+Dialogue: 0,0:22:29.29,0:22:36.54,TypePlaceholder,,0,0,0,,{\fnComic Sans MS Bold\fs+4\bord0\shad6\fs+6\c&H7CEDEF&\4c&H51CBDA&\pos(960,9)}Sh{\c&HC297F0&\4c&H966CD6&}a{\c&H679FF8&\4c&H3171D7&}n{\c&HDE72BD&\4c&HB64897&}F{\c&H5B63E6&\4c&H484FC2&}ro
+Dialogue: 0,0:22:33.08,0:22:36.54,TypePlaceholder,,0,0,0,,{\fnComic Sans MS Bold\fad(493,0)\fs+4\fax-0.15\an3\c&HFAFFFE&\3c&H376777&\4c&H1C3F4D&\shad3.9\bord3.9\pos(1831.5,859.5)}#13 Rekord: xx Sekunden
+Dialogue: 0,0:22:33.67,0:22:36.54,TypePlaceholder,,0,0,0,,{\c&H515655&\fnComic Sans MS Bold\fad(333,0)\fs+2\bord0\frz43.99\pos(1447.5,118.5)}Mini
+Dialogue: 0,0:22:36.54,0:23:51.62,TypePlaceholder,,0,0,0,,{\fnComic Sans MS Bold\fad(0,0)\fs+2\fax-0.15\an9\c&HFFFFFF&\3c&H376777&\4c&H1C3F4D&\shad3.9\bord3.9\pos(1824,112.5)}ShanFro-Theater

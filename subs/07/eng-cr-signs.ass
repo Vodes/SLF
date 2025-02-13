@@ -1,0 +1,58 @@
+﻿[Script Info]
+Title: English (US)
+ScaledBorderAndShadow: yes
+Original Script: kodansha  [http://www.crunchyroll.com/user/kodansha]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+LayoutResX: 1920
+LayoutResY: 1080
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+Style: Sign_Basic,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,6,3,2,30,30,54,1
+Style: Ep_Title,Arial,60,&H00FFFFFF,&H000000FF,&H00000000,&H00BE9829,-1,0,0,0,100,100,0,0,1,0,6,1,132,30,12,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:02:12.32,0:02:17.99,Ep_Title,title,0,0,0,,{\fad(825,0)}Remnant of the Divinity: The Aberrant Loser
+Dialogue: 0,0:04:37.67,0:04:40.30,Sign_Basic,sign,0,0,0,,{\an8\i1\fnImpact\c&HBAB11F&\3c&HECEDE1&\shad0\move(1170,75,1218,156)\t(\fs84)}Psyger-0
+Dialogue: 0,0:05:04.58,0:05:09.08,Sign_Basic,sign,0,0,0,,{\fs36\an7\bord12\shad0\3c&HA82083&\1a&HFF&\b1\pos(412.002,328.002)}Poison      {\3c&H35ABAE&}Paralysis          {\3c&HE24E6C&}Drain          {\3c&H700BA4&}Exhaustion         {\3c&H1F9140&}Speed
+Dialogue: 0,0:05:19.51,0:05:22.93,Sign_Basic,sign,0,0,0,,{\an8\pos(979.833,27.47)\org(960,120)\fscx102.049\fscy136.596\frz11.849\fry1.335\frx-1.338\fax-0.287\fnImpact\fsp3\b1\xbord9.18\ybord8.78\xshad6.122932\yshad5.854112\c&HF9C130&\3c&HFFFFFF&\fad(450,0)}See you in Hell,\NFellow Traveler!
+Dialogue: 0,0:06:15.98,0:06:18.48,Sign_Basic,sign,0,0,0,,{\an8\i1\fnImpact\c&HBAB11F&\3c&HECEDE1&\shad0\pos(630,240)\frz1.929}Psyger-0
+Dialogue: 0,0:07:31.06,0:07:32.18,Sign_Basic,sign,0,0,0,,{\fad(0,450)\pos(960,885)\3c&HA28924&\shad0}Rabituza Inn
+Dialogue: 0,0:08:10.47,0:08:16.98,Sign_Basic,sign,0,0,0,,{\an7\fs36\c&H7A8283&\3c&HF8FFFC&\shad0}Okay, You Got Me\N From: Pencil Knight\N To: Sunraku\N Nice job escaping those scrubs. \N FYI, my death was my own fault,\Nso I don't consider this losing to you. \N Can't believe the Attack Master came\Nto bail you out. Friend of yours?\N Anyway, I really do want to talk to you,\Nso call Katzo-kun for a meeting in {\i1}Unite Rounds{\i0}.\NWe'll talk scheduling later.
+Dialogue: 0,0:08:52.97,0:09:01.85,Sign_Basic,sign,0,0,0,,{\an7\fs36\c&H7A8283&\3c&HF8FFFC&\shad0}Hey\N From: Modor Katzo\N To: Sunraku\N Just got a total "evil mastermind"\Ninvite from the pencil. What'd you do, man?\N Can't say I'm not intrigued, so I figure\Nwe might as well hear her out.\NYou're not gonna back out, right?
+Dialogue: 0,0:09:55.66,0:09:59.62,Sign_Basic,sign,0,0,0,,{\fade(300,1)}{\3c&HA28924&\shad0\pos(960,480)}Vorpal Colosseum
+Dialogue: 0,0:11:06.65,0:11:16.03,Sign_Basic,sign,0,0,0,,{\fad(450,0)\pos(960,720)\fs48\c&H242625&\3c&HB6B6B4&\shad0\bord9}Practical Training  Opponent 1\N{\fs72\3c&H1908B1&}Packhound\N{\fs36\c&H483A76&\3c&HB7BAB9&}Always spawns in groups of 5 or more\N\N{\c&HFAFDFA&\3c&H181B18&\alpha&HFF&\t(6429,6803,1 \alpha&H00&)}Average Level {\b1}65
+Dialogue: 0,0:11:40.01,0:11:43.52,Sign_Basic,sign,0,0,0,,{\an8\fnTimes New Roman\b1\c&H101311&\3c&H68726E&\shad0}Constant Progress
+Dialogue: 0,0:13:50.02,0:13:52.39,Default,sign,0,0,0,,{\pos(999.122,864.962)\org(960,900)\fscx103.738\fscy142.434\frz15.624\fry1.335\frx-1.338\fax-0.09\fnImpact\fsp3\b1\xbord9.34\ybord9.16\xshad6.224269\yshad6.10433\c&HF9C130&\3c&HFFFFFF&\fad(450,0)}Spiral Edge
+Dialogue: 0,0:14:40.48,0:14:46.24,Default,sign,0,0,0,,{\fs48\c&H242625&\3c&HDDDAE2&\shad0\bord9\pos(474,684)}Practical Training  Opponent 1\N{\fs72\3c&H1908B1&}Packhound\N{\fs36\c&H483A76&\3c&HDCD9E2&}Always spawns in groups of 5 or more\N\N{\c&HFAFDFA&\3c&H181B18&}Average Level {\b1}65
+Dialogue: 0,0:14:44.99,0:14:46.24,Sign_Basic,sign,0,0,0,,{\fad(250,0)\pos(530.001,1028.001)\fnArial\b1\3c&H7864C4&\bord3\shad0\frz9.667}Complete
+Dialogue: 0,0:15:03.30,0:15:07.85,Sign_Basic,sign,0,0,0,,{\fs48\c&H242625&\3c&HDDDAE2&\shad0\bord9\pos(1452,834)}Practical Training  Opponent 2\N{\fs72\3c&H1908B1&}Parasite Tentacle
+Dialogue: 0,0:15:26.86,0:15:28.45,Sign_Basic,sign,0,0,0,,{\fad(0,650)\fnArial\b1\c&H0D00CA&\bord0\shad6\4c&H223642&\fs54\frz10.61\pos(1156.002,656.001)}Defeated on\N4th try
+Dialogue: 0,0:15:27.82,0:15:39.46,Sign_Basic,sign,0,0,0,,{\fad(600,325)\fs48\c&H242625&\3c&HFCFFFB&\shad0\bord9\frz355.8\move(804,504,870,438,1546,10137)}Practical Training  Opponent 3\N{\fs72\3c&H0C00BF&}Goblin Berserker
+Dialogue: 0,0:15:37.75,0:15:39.79,Sign_Basic,sign,0,0,0,,{\fad(0,675)\fnArial\b1\c&H0D00CA&\bord0\shad6\4c&H223642&\fs54\frz10.61\pos(783.999,666)}Defeated on\N2nd try
+Dialogue: 0,0:15:39.38,0:16:02.61,Sign_Basic,sign,0,0,0,,{\fad(450,0)\move(1104,360,1044,300,465,23028)\frz1.724}{\fs48\c&H242625&\3c&HF9FDF5&\shad0\bord9}Practical Training  Opponent 4\N{\fs72\3c&H1908B1&}Dinoboar
+Dialogue: 0,0:16:01.36,0:16:03.03,Sign_Basic,sign,0,0,0,,{\fad(0,650)\fnArial\b1\c&H0D00CA&\bord0\shad6\4c&H223642&\fs54\frz10.61\pos(1038,666)}Defeated on\N1st try
+Dialogue: 0,0:16:02.82,0:16:11.07,Sign_Basic,sign,0,0,0,,{\fad(375,200)\frz3.01\move(842.001,396,846,319.998,442,6991)}{\fs48\c&H242625&\3c&HF9FDF5&\shad0\bord9}Practical Training  Opponent 5\N{\fs72\3c&H1908B1&}Toxic Eagle
+Dialogue: 0,0:16:09.82,0:16:11.49,Sign_Basic,sign,0,0,0,,{\fad(0,650)\fnArial\b1\c&H0D00CA&\bord0\shad6\4c&H223642&\fs54\frz10.61\pos(843.999,642)}Defeated on\N112th try
+Dialogue: 0,0:16:10.82,0:16:23.21,Sign_Basic,sign,0,0,0,,{\fad(375,250)\frz351\move(870,392.001,925.998,321.999,754,10597)}{\fs48\c&H242625&\3c&HF9FDF5&\shad0\bord9}Practical Training  Opponent 6\N{\fs72\3c&H1908B1&}Armored Larva
+Dialogue: 0,0:16:21.46,0:16:23.50,Sign_Basic,sign,0,0,0,,{\fad(0,600)\fnArial\b1\c&H0D00CA&\bord0\shad6\4c&H223642&\fs54\frz10.61\pos(828,558)}Defeated on\N1st try
+Dialogue: 0,0:16:22.88,0:16:35.31,Sign_Basic,sign,0,0,0,,{\fad(700,250)\frz1.813\move(1022.001,492,966,433.998,716,10726)}{\fs48\c&H242625&\3c&HF9FDF5&\shad0\bord9}Practical Training  Opponent 7\N{\fs72\3c&H1908B1&}Execu-panther
+Dialogue: 0,0:16:33.64,0:16:35.60,Sign_Basic,sign,0,0,0,,{\fad(0,600)\fnArial\b1\c&H0D00CA&\bord0\shad6\4c&H223642&\fs54\frz10.61\pos(1080,668.001)}Defeated on\N1st try
+Dialogue: 0,0:16:35.35,0:16:42.48,Sign_Basic,sign,0,0,0,,{\fad(350,225)\frz9.661\pos(834,363.999)}{\fs48\c&H242625&\3c&HF9FDF5&\shad0\bord9}Practical Training  Opponent 8\N{\fs72\3c&H1908B1&}Twinhead Tiger
+Dialogue: 0,0:16:41.23,0:16:42.77,Sign_Basic,sign,0,0,0,,{\fad(0,600)\fnArial\b1\c&H0D00CA&\bord0\shad6\4c&H223642&\fs54\frz10.61\pos(849.999,640.002)}Defeated on\N2nd try
+Dialogue: 0,0:16:42.56,0:16:44.07,Sign_Basic,sign,0,0,0,,{\fad(325,225)\frz1.273\pos(885.999,409.998)}{\fs48\c&H242625&\3c&HF9FDF5&\shad0\bord9}Practical Training  Opponent 9\N{\fs72\3c&H1908B1&}Beta Unit Golem S2
+Dialogue: 0,0:17:18.39,0:17:23.23,Sign_Basic,sign,0,0,0,,{\frz1.273\pos(918,279.999)}{\fs48\c&H242625&\3c&HF9FDF5&\shad0\bord9}Practical Training  Opponent 9\N{\fs72\3c&H1908B1&}Beta Unit Golem S2
+Dialogue: 0,0:17:22.06,0:17:23.23,Default,sign,0,0,0,,{\fnArial\b1\c&H0D00CA&\bord0\shad6\4c&H223642&\fs54\frz10.61\pos(924,494.001)}Defeated on\N7th try
+Dialogue: 0,0:17:32.53,0:17:36.99,Sign_Basic,sign,0,0,0,,{\pos(1410,457.998)\frz359.7}{\fs48\c&H242625&\3c&HF9FDF5&\shad0\bord9}Practical Training  Opponent 9\N{\fs72\3c&H1908B1&}Beta Unit Golem S2
+Dialogue: 0,0:17:35.74,0:17:36.99,Sign_Basic,sign,0,0,0,,{\fad(500,0)\fnArial\b1\3c&H7864C4&\bord3\shad0\frz9.667\pos(1418.001,150)}Complete
+Dialogue: 0,0:17:55.26,0:17:58.52,Sign_Basic,sign,0,0,0,,{\c&HAC2C4F&\shad0\b1\bord3\fnArial\fs42\pos(350.001,8.001)\an8}Menacing
+Dialogue: 0,0:19:30.98,0:19:43.83,Sign_Basic,sign,0,0,0,,{\3c&H849AF3&\bord12\shad0\1a&HFF&\an8\fnArial\fs60\pos(1452,351)}Unique Scenario\N {\c&H7BA2F8&\b1\bord0\1a&H00&}Invitation From Rabituza\N{\fs48\c&H242625&\3c&HF9FDF5&\shad0\bord9}Practical Training  Opponent 10\N{\fs72\3c&H1908B1&}Aberrant Woodmage
+Dialogue: 0,0:19:39.49,0:19:46.54,Sign_Basic,sign,0,0,0,,{\pos(1566,144)\3c&H391BC1&\bord9\fs42\shad0}Clear Condition\N {\c&H282821&\3c&HF9F7F5&\b1}Survive for five minutes
+Dialogue: 0,0:20:32.59,0:20:36.01,Sign_Basic,sign,0,0,0,,{\fad(500,0)\fs36\c&H242625&\3c&HDDDAE2&\shad0\bord9\pos(1644,614.001)\frz328.7}Practical Training  Opponent 10\N{\fs60\3c&H1908B1&}Aberrant Woodsman\N{\c&HFAFDFA&\3c&H181B18&\fs36}Average Level {\b1}120
+Dialogue: 0,0:20:36.01,0:20:40.01,Sign_Basic,sign,0,0,0,,{\fs48\c&H242625&\3c&HE8EDEC&\shad0\bord9\an8\pos(915,60)}Practical Training  Opponent 10\N{\fs72\3c&H1908B1&}Aberrant Woodsman\N{\c&HFAFDFA&\3c&H181B18&\fs48}Average Level {\b1}120

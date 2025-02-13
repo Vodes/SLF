@@ -1,0 +1,45 @@
+﻿[Script Info]
+Title: English (US)
+ScaledBorderAndShadow: yes
+Original Script: kodansha  [http://www.crunchyroll.com/user/kodansha]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+LayoutResX: 1920
+LayoutResY: 1080
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+Style: Sign_Basic,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,6,3,2,30,30,54,1
+Style: Ep_Title,Arial,60,&H00FFFFFF,&H000000FF,&H00000000,&H00BE9829,-1,0,0,0,100,100,0,0,1,0,6,1,132,30,12,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:23.63,0:00:26.51,Sign_Basic,sign,0,0,0,,{\pos(360,726)\c&H8A6904&\3c&HCFCD10&\fs48\bord9\shad0}Clan Leader, Ashura Kai\N{\fnImpact\c&HCCC911&\3c&HFDF9DE&\bord3\fs78\i1}Orcelott
+Dialogue: 0,0:00:58.79,0:01:00.96,Sign_Basic,sign,0,0,0,,{\fad(250,0)\pos(90,60)\an7\fs36\c&H2921AD&\3c&H838295&\bord9\shad0}[The Saint] Advanced Players Teach Beginners the Ropes  #81 [Cute]\N\N{\c&H383B4D&}74: {\c&H368E4F&}Add (Advanced)\N{\c&H2D2D3F&}Seriously, to unlock the elite jobs you've got to at least make it to Sixburg.\NHow many times do I have to tell people this?\NMaybe we should put it on the FAQ.\N\N75: {\c&H368E4F&}Alinoiyu (Beginner)\N{\c&H2D2D3F&}I have a question for our esteemed elders. I was picking up equipment\Nin Secondale when I ran into this player. He had the cutest talking bunny\Nwith him. How can I befriend this monster?
+Dialogue: 0,0:03:28.98,0:03:33.99,Sign_Basic,sign,0,0,0,,{\pos(960,840)\an2\fnTimes New Roman\b1\c&H000000&\shad0\bord0}New Chapter\N{\fs72}"A Bouquet Thrown With Love From the River's Edge"
+Dialogue: 0,0:05:04.28,0:05:09.46,Ep_Title,sign,0,0,0,,{\fade(1,300)}A Dazzling Sea of Trees
+Dialogue: 0,0:06:05.85,0:06:08.35,Sign_Basic,sign,0,0,0,,{\pos(712.572,174)\org(691.998,174)\fscx91.534\fscy70.459\frz21.533\fry16.706\frx-18.554\fax-0.312\fnImpact\xbord4.12\ybord3.17\xshad0\yshad0\c&HC7B02A&\3c&HFEFCEB&}Sunraku
+Dialogue: 0,0:06:11.35,0:06:13.44,Sign_Basic,sign,0,0,0,,{\pos(715.764,158.001)\org(703.998,158.001)\fscx97.601\fscy66.079\frz26.131\fry14.597\frx-20.233\fax-0.167\fnImpact\xbord4.39\ybord2.97\xshad0\yshad0\c&HB59C11&\3c&HFEFCEB&}Sunraku
+Dialogue: 0,0:08:22.61,0:08:26.49,Sign_Basic,sign,0,0,0,,{\fad(150,0)\an8\bord6\shad0\3c&H5C4132&\pos(960,15)}You've received a friend request from\N{\fnImpact\b1\c&HD7D326&\3c&HFFFFFF&\i1}Psyger-0{\fnTrebuchet MS\b0\c&HFFFFFF&\3c&H5C4132&\i0}. Accept?
+Dialogue: 0,0:08:22.61,0:08:26.49,Sign_Basic,sign,0,0,0,,{\fad(150,0)\pos(788.001,738)\shad0\fs60\3c&H1A00B7&}No
+Dialogue: 0,0:08:22.61,0:08:26.49,Sign_Basic,sign,0,0,0,,{\fad(150,0)\shad0\fs60\3c&HBDE31F&\pos(1152,738)}Yes
+Dialogue: 0,0:09:42.65,0:09:45.40,Sign_Basic,sign,0,0,0,,{\an1\pos(1052.91,494.001)\org(1044,494.001)\fscx87.169\fscy95.298\frz26.384\fry-13.614\frx1.604\fax-0.17\fnImpact\fs45\b1\i1\xbord3.92\ybord4.29\xshad0\yshad0\c&HDDD52B&\3c&HFFFFFF&\fad(100,0)}Sunraku {\fnTrebuchet MS\b0\c&HFFFFFF&\3c&H372E12&}has been added to your\N{\c&HC6B96D&}friend {\c&HFFFFFF&}list.
+Dialogue: 0,0:13:29.33,0:13:34.25,Sign_Basic,sign,0,0,0,,{\fad(450,0)\pos(990,870)\fs60\b1\shad0\3c&HA5A438&}Prismatic Forest Grotto
+Dialogue: 0,0:14:02.74,0:14:05.53,Sign_Basic,sign,0,0,0,,{\pos(414,654)\c&H772EF8&\3c&H232039&\shad0\b1}Storage Papillon
+Dialogue: 0,0:14:08.74,0:14:11.54,Sign_Basic,sign,0,0,0,,{\pos(426,654)\c&H772EF8&\3c&H232039&\shad0\b1}Empire Worker Bee
+Dialogue: 0,0:14:17.88,0:14:20.67,Sign_Basic,sign,0,0,0,,{\c&H772EF8&\3c&H232039&\shad0\b1\pos(470.001,651.999)}Mimic Mantis
+Dialogue: 0,0:14:23.88,0:14:26.18,Sign_Basic,sign,0,0,0,,{\c&H772EF8&\3c&H232039&\shad0\b1\pos(1482,126)}Quad Beetle
+Dialogue: 0,0:14:42.99,0:14:45.24,Sign_Basic,sign,0,0,0,,{\an8\pos(196.002,208.002)\org(196.002,208.002)\fscx81.134\fscy90.919\frz19.318\fry17.843\frx-6.276\fax-0.3\fs36\b1\xbord7.3\ybord8.18\xshad0\yshad0\c&HE8E997&\3c&H1A0100&\fad(150,200)}Marsh Daggers\N{\b0\c&H7F726B&}equipped
+Dialogue: 0,0:15:20.07,0:15:24.32,Sign_Basic,sign,0,0,0,,{\pos(972,240)\c&HEEF475&\b1\3c&H181000&\shad0}Storage Papillon Nectar Pouch \N{\fs42\c&H80816A&}Used by the Storage Papillon to store its nectar. It's very fragile, so it's difficult to obtain with the nectar intact. The nectar is fun to eat and fun to throw.
+Dialogue: 0,0:15:55.23,0:15:56.85,Default,Sign,0,0,0,,{\fad(200,0)\c&HEEF475&\b1\3c&H181000&\shad0\pos(1635.999,729.999)}Throwing Knife \N{\fs42\c&H80816A&\b0}equipped.
+Dialogue: 0,0:16:03.73,0:16:07.74,Sign_Basic,sign,0,0,0,,{\fad(375,0)\frz3.01\move(842.001,396,831.999,349.998,442,3985)}{\fs48\c&H242625&\3c&HF9FDF5&\shad0\bord9}Practical Training  Opponent 5\N{\fs72\3c&H1908B1&}Toxic Eagle
+Dialogue: 0,0:16:26.92,0:16:28.97,Sign_Basic,sign,0,0,0,,{\pos(1227.82,290.001)\org(1221.999,290.001)\fscx96.504\fscy84.877\frz21.996\fry-10.051\frx10.276\fax-0.144\fs42\xbord5.79\ybord5.09\xshad0\yshad0\c&HDFE485&\3c&H33220F&\fad(100,0)}Spiral Edge
+Dialogue: 0,0:16:43.90,0:16:48.99,Sign_Basic,sign,0,0,0,,{\an7\pos(314.001,488.001)\org(314.001,488.001)\fscx95.289\fscy99.285\frz-6.021\fry6.918\frx0.705\fax0.121\fs30\b1\xbord5.72\ybord5.96\xshad0\yshad0\c&HC6CC72&\3c&H140A0A&\fad(125,0)}Storage Papillon Nectar Pouch\N Empire Worker Bee Pollen Hair\N Empire Hunter Bee Stinger\N Empire Hunter Bee Mandible\N Mimic Mantis Stealth Wing\N Mimic Mantis Scythe Arm
+Dialogue: 0,0:17:14.72,0:17:16.52,Sign_Basic,sign,0,0,0,,{\c&H551CC3&\3c&H232039&\shad0\b1\pos(1442.001,129.999)}Empire Hunter Bee
+Dialogue: 0,0:17:23.23,0:17:25.52,Sign_Basic,sign,0,0,0,,{\c&H551CC3&\3c&H232039&\shad0\b1\pos(1476,630)}Empire Queen Bee
+Dialogue: 0,0:19:42.41,0:19:43.79,Sign_Basic,sign,0,0,0,,{\pos(343.033,135.999)\org(332.001,135.999)\fscx87.555\fscy87.96\frz25.125\fry15.626\frx-6.852\fax-0.263\fs48\xbord5.25\ybord5.28\xshad0\yshad0\c&HEEF475&\3c&H181000&\fad(200,225)}Storage Papillon Nectar Pouch
+Dialogue: 0,0:20:33.38,0:20:40.14,Sign_Basic,sign,0,0,0,,{\an7\c&H7F005B&\3c&HD527CE&\shad0\fs54}Dropped Items\N{\c&HF8FA78&\3c&H231803&} Quad Beetle Horn\N Quad Beetle Mandible\N Quad Beetle Shell\N Quad Beetle Elytron
