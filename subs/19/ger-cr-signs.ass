@@ -1,0 +1,74 @@
+﻿[Script Info]
+Title: Deutsch
+ScaledBorderAndShadow: yes
+Original Script: cr_de  [http://www.crunchyroll.com/user/cr_de]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+LayoutResX: 1920
+LayoutResY: 1080
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: TypePlaceholder,Arial Bold,57,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,0,0,8,30,30,60,1
+Style: TypePlaceholderBox,Arial Bold,66,&H00200960,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,3,6,0,8,30,30,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:54.47,0:01:56.97,TypePlaceholder,Types,0,0,0,,{\fnImpact\b0\bord18\fsp6\fad(121,217)\an1\fs+5\fax-0.3\c&HFCC630&\3c&H232626&\t(203,204,\3c&HA69424&\shad2.1)\t(444,445,\c&HFCC630&\3c&H232626&\shad0)\4c&H232626&\frz15.19\pos(918,969)}Killer-Mondsichel
+Dialogue: 0,0:01:54.47,0:01:56.97,TypePlaceholder,Types,0,0,0,,{\fnImpact\b0\bord7.5\fsp6\fad(121,217)\an1\fs+5\fax-0.3\c&HFCC630&\3c&HFDFEF6&\t(203,204,\c&HFFFFB9&\3c&HFFFFF8&)\t(444,445,\c&HFCC630&\3cHFDFEF6&)\frz15.19\pos(918,969)}Killer-Mondsichel
+Dialogue: 0,0:01:54.47,0:01:56.97,TypePlaceholder,Types,0,0,0,,{\fnGeorgia Bold\fad(166,217)\fs+2\bord3\blur9\c&H030502&\3c&H745AD9&\pos(379.5,60)}Himmelblau
+Dialogue: 0,0:03:02.25,0:03:06.92,TypePlaceholder,Types,0,0,0,,{\an1\fnVerdana Bold\fscx90\shad6\fs+1\b1\fsp3\c&HF6FFFB&\4c&HC7961F&\bord0\fad(201,0)\3c&HFFFFFE&\pos(417.78,895.32)}Fortschreitende {\fnGeorgia Bold\fscx100\c&HC7951D&\bord3\3c&HF6FFFB&\4c&HF6FFFB&\alpha&HFF&\t(284,576,\alpha&H00&)}Welt, {\fnVerdana Bold\c&HF6FFFB&\4c&HC7961F&\bord0\fscx90\alpha&HFF&\t(618,785,\alpha&H00&)}offenbarte {\fnGeorgia Bold\fscx100\c&HC7951D&\bord3\3c&HF6FFFB&\4c&HF6FFFB&\alpha&HFF&\t(910,1160,\alpha&H00&)}Helden
+Dialogue: 0,0:03:08.21,0:03:11.05,TypePlaceholder,Types,0,0,0,,{\fnImpact\b0\fsp9\bord3.6\fs+10\fad(122,0)\pos(960,417)\c&H7C50E1&\3c&H6C5390&}Himmelblau = brillant
+Dialogue: 0,0:05:22.22,0:05:23.64,TypePlaceholderBox,Types,0,0,0,,{\fnVerdana bold\fs-2.5\c&H2C2019&\3c&HF2F9F4&\pos(366,54)}Einzigartiges Szenario EX
+Dialogue: 0,0:05:22.22,0:05:23.64,TypePlaceholder,Types,0,0,0,,{\fnVerdana bold\bord9\fs-1\pos(369,126)\c&HF2F9F4&\3c&H2C2019&}Vom Diesseits ans Jenseits,\Nmit Liebe\N{\fnTahoma\b0\c&HF2ECE7&\fs-1}ist im Gange.
+Dialogue: 0,0:09:16.45,0:09:19.46,TypePlaceholder,Types,0,0,0,,{\fnTahoma\an1\fs-1\c&HF1EBEC&\fax-0.1\frz358.2\pos(679.5,163.5)}\hSetsunas Überbleibsel wurde\Nder Wunsch ferner Tage erfüllt.
+Dialogue: 0,0:09:16.45,0:09:19.46,TypePlaceholder,Types,0,0,0,,{\fnTahoma\an1\c&HF1EBEC&\fs-1\fax-0.05\frz354.2\pos(618,721.5)}Grabwächter Wezaemon hat\Ndie ewige Ruhe gefunden.
+Dialogue: 0,0:09:42.31,0:09:43.60,TypePlaceholderBox,Types,0,0,0,,{\fnVerdana bold\fs-2.5\c&H2D1A16&\3c&HD4F5FD&\pos(366,54)}Einzigartiges Szenario EX
+Dialogue: 0,0:09:42.31,0:09:43.60,TypePlaceholder,Types,0,0,0,,{\fnVerdana bold\bord9\fs-1\pos(369,126)\c&HD4F5FD&\3c&H2D1A16&}Vom Diesseits ans Jenseits,\Nmit Liebe\N{\fnTahoma\b0\c&HF2ECE7&\fs-1}abgeschlossen.
+Dialogue: 0,0:09:43.60,0:09:46.36,TypePlaceholderBox,Types,0,0,0,,{\fnVerdana bold\fs-2.5\c&H50343A&\3c&HD4F5FD&\pos(975,82.5)}Einzigartiges Szenario EX
+Dialogue: 0,0:09:43.60,0:09:46.36,TypePlaceholder,Types,0,0,0,,{\fnVerdana bold\bord9\fs-1\c&HD4F5FD&\3c&H50343A&\pos(978,154.5)}Vom Diesseits ans Jenseits,\Nmit Liebe\N{\fnTahoma\b0\c&HF2ECE7&\fs-1}abgeschlossen.
+Dialogue: 0,0:11:17.99,0:11:25.00,TypePlaceholder,Types,0,0,0,,{\fnTahoma\fsp6\fs+2\c&H9B8B7D&\t(0,0,\fscx110\fscy110)\move(972,208.5,972,177,29,6994)}Weltstory
+Dialogue: 0,0:11:17.99,0:11:25.00,TypePlaceholderBox,Types,0,0,0,,{\fnTahoma\b0\fsp6\fs+2\c&H67634B&\t(0,0,\fscx110\fscy110)\3c&HFEF9E1&\move(874.5,900,862.5,937.5,29,6994)}Fortschritt
+Dialogue: 0,0:11:25.54,0:11:30.42,TypePlaceholder,Types,0,0,0,,{\fnVerdana bold\fs-1\fad(247,0)\bord4.5\c&HFBFFF9&\3c&HB6B13C&\pos(960,393)}Königliche Bibliothek, zweiter Büchersammlungsbereich
+Dialogue: 0,0:11:30.42,0:11:32.63,TypePlaceholderBox,Types,0,0,0,,{\fnVerdana Bold\fs-1\c&HAD7E0C&\3c&HFBFF99&}Weltstory
+Dialogue: 0,0:11:30.42,0:11:32.63,TypePlaceholder,Types,0,0,0,,{\fnVerdana bold\bord9\fs+2\pos(960,145.5)\c&HFDFFFA&\3c&HBEC131&}Shangri-La Frontier\N{\fnTahoma\fs-1\c&HFFFEE8&\3c&H713A1A&}ist vorangeschritten.
+Dialogue: 0,0:11:32.63,0:11:36.63,TypePlaceholder,Types,0,0,0,,{\fnVerdana bold\blur3\fad(0,509)\bord6\fs+4\pos(582,264)\c&HF1EB87&\3c&H710404&}Clan „Bibliothek“\N{\fs-4\c&HF0E5E9&\3c&H8A000D&}Ein auf die Erforschung ShanFros\Nspezialisierter Clan
+Dialogue: 0,0:13:07.47,0:13:10.39,TypePlaceholderBox,Types,0,0,0,,{\fs-3\fnVerdana bold\c&H785311&\fad(232,0)\3c&HCCC613&\pos(463.5,535.5)}Schwarzer Wolf, Clanleader
+Dialogue: 0,0:13:07.47,0:13:10.39,TypePlaceholder,Types,0,0,0,,{\fnImpact\fsp9\fs+4\fax-0.3\fad(232,0)\bord6\c&HE1D015&\3c&HF8EFEE&\pos(459,606)}Saiga-100
+Dialogue: 0,0:16:29.22,0:16:32.10,TypePlaceholder,Types,0,0,0,,{\fnVerdana bold\fad(287,0)\bord4.8\an2\pos(964.5,834)}Freunde-Warp
+Dialogue: 0,0:17:08.05,0:17:11.30,TypePlaceholder,Types,0,0,0,,{\fnVerdana bold\fs+3\fad(287,0)\bord4.8\an2\pos(960,436.5)}– 50 Sekunden später –
+Dialogue: 0,0:17:36.58,0:17:41.58,TypePlaceholder,Types,0,0,0,,{\fnTahoma\c&H7E7B6A&\fs-1.5\t(0,0,\fscx90\fscy90)\move(957,72,955.5,117,26,4989)}Besitzrechte der Gegenstände übertragen.
+Dialogue: 1,0:19:43.41,0:19:45.33,TypePlaceholder,Types,0,0,0,,{\fnGeorgia bold\bord18\fad(146,0)\fs+4\fax-0.2\pos(1278,126)\c&H000800&\3c&H000800&\t(188,189,\c&HFBFEEF&\3c&HB6FAEE&)\t(354,480,\c&H000800&\3c&H000800&)}Satan
+Dialogue: 2,0:19:43.41,0:19:45.33,TypePlaceholder,Types,0,0,0,,{\fnGeorgia bold\bord9\fad(146,0)\fs+4\fax-0.2\pos(1278,126)\c&H000800&\3c&H1DBEE1&\t(188,189,\c&HFBFEEF&\3c&HB6FAEE&)\t(354,480,\c&H000800&\3c&H1DBEE1&)}Satan
+Dialogue: 1,0:19:51.13,0:19:53.59,TypePlaceholder,Types,0,0,0,,{\fnTrebuchet MS bold\fs+5\bord6\blur9\fsp9\c&H4F55D7&\3c&H000000&\an2\pos(960,678)\fad(277,0)}Antinomie
+Dialogue: 2,0:19:51.13,0:19:53.59,TypePlaceholder,Types,0,0,0,,{\fnTrebuchet MS bold\fs+5\bord3.6\fsp9\c&H4F55D7&\3c&H000000&\an2\pos(960,678)\fad(277,0)}Antinomie
+Dialogue: 0,0:20:23.20,0:20:27.25,TypePlaceholder,Types,0,0,0,,{\fnVerdana bold\fs-3\bord9\fax-0.1\c&HF8F772&\3c&H1B0406&\frz20.18\move(207,190.5,283.5,195,41,4045)}Karmische Umarmung
+Dialogue: 0,0:20:23.20,0:20:27.25,TypePlaceholder,Types,0,0,0,,{\fnVerdana bold\fs-3\bord9\fax-0.3\c&HF8F772&\3c&H1B0406&\frz35.34\move(112.5,475.5,184.5,460.5,41,4045)}Gleißender Blitz
+Dialogue: 0,0:20:23.20,0:20:27.25,TypePlaceholder,Types,0,0,0,,{\fnVerdana bold\fs-3\bord9\fax0.1\c&HF8F772&\3c&H1B0406&\frz331.9\move(1768.5,214.5,1737,207,41,4045)}Katastrophe
+Dialogue: 0,0:20:23.20,0:20:27.25,TypePlaceholder,Types,0,0,0,,{\fnVerdana bold\fs-3\bord9\fax0.4\c&HF8F772&\3c&H1B0406&\frz315.3\move(1504.5,417,1488,399,41,4045)}Höchste Stärke
+Dialogue: 0,0:20:23.20,0:20:27.25,TypePlaceholder,Types,0,0,0,,{\fnVerdana bold\fs-3\bord9\fax0.3\c&HF8F772&\3c&H1B0406&\frz320.3\move(1782,549,1756.5,526.5,41,4045)}Verzauberung:\NZinnoberrot
+Dialogue: 0,0:20:42.60,0:20:46.64,TypePlaceholder,Types,0,0,0,,{\fnVerdana bold\fs-3\bord9\fax-0.1\c&HEBEF82&\3c&H311012&\frz6.758\move(634.5,156,682.5,172.5,35,4039)}Serienmörder
+Dialogue: 0,0:20:42.97,0:20:46.64,TypePlaceholder,Types,0,0,0,,{\fnVerdana bold\fs-3\bord9\fax-0.3\c&HEBEF82&\3c&H311012&\frz19.39\move(471,435,529.5,436.5,40,3669)}Hohn der Silhouette
+Dialogue: 0,0:20:43.35,0:20:46.64,TypePlaceholder,Types,0,0,0,,{\fnVerdana bold\fs-3\bord9\fax-0\c&HEBEF82&\3c&H311012&\frz357.7\move(1491,348,1501.5,364.5,36,3289)}Verzauberung: Killer
+Dialogue: 0,0:21:11.08,0:21:12.38,TypePlaceholder,Types,0,0,0,,{\fnVerdana bold\bord9\an2\c&HFCF680&\3c&H251906&\pos(366,856.5)}Massakerbiss
+Dialogue: 0,0:22:14.85,0:22:18.86,TypePlaceholder,Credits,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\pos(960,45)}Übersetzung: Markus Lange
+Dialogue: 0,0:22:14.85,0:22:18.86,TypePlaceholder,Credits,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\an2\pos(960,1035)}Spotting: Michael Gohl
+Dialogue: 0,0:22:19.36,0:22:23.32,TypePlaceholder,Credits,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\pos(960,45)}Revision & Typesetting: Jacqueline Philippi
+Dialogue: 0,0:22:19.36,0:22:23.32,TypePlaceholder,Credits,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\an2\pos(960,1035)}Qualitätskontrolle: Konrad Walter
+Dialogue: 0,0:22:23.86,0:22:27.83,TypePlaceholder,Credits,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\pos(960,45)}Projektleitung: Tobias Philippi
+Dialogue: 0,0:23:42.98,0:23:50.24,TypePlaceholder,Types,0,0,0,,{\fnComic Sans MS Bold\fs+4\bord0\shad6\fs+6\c&H7CEDEF&\4c&H51CBDA&\pos(960,9)}Sh{\c&HC297F0&\4c&H966CD6&}a{\c&H679FF8&\4c&H3171D7&}n{\c&HDE72BD&\4c&HB64897&}F{\c&H5B63E6&\4c&H484FC2&}ro
+Dialogue: 0,0:23:46.78,0:23:50.24,TypePlaceholder,Types,0,0,0,,{\fnComic Sans MS Bold\fad(493,0)\fs+4\fax-0.15\an3\c&HFAFFFE&\3c&H376777&\4c&H1C3F4D&\shad3.9\bord3.9\pos(1831.5,859.5)}#24 Nachrichten: Es ist Morgen!
+Dialogue: 0,0:23:47.36,0:23:50.24,TypePlaceholder,Types,0,0,0,,{\c&H515655&\fnComic Sans MS Bold\fad(333,0)\fs+2\bord0\frz43.99\pos(1447.5,118.5)}Mini
+Dialogue: 0,0:23:50.24,0:26:43.41,TypePlaceholder,Types,0,0,0,,{\fnComic Sans MS BOLD\fad(0,0)\fs+2\fax-0.15\an9\c&HFFFEFF&\3c&H285A75&\4c&H0B1C25&\shad3.9\bord3.9\pos(537,117)}ShanFro-Theater
+Dialogue: 0,0:24:01.17,0:24:02.96,TypePlaceholder,Types,0,0,0,,{\an1\c&H4016AE&\bord3.6\fad(400,0)\fnTrebuchet MS bold\fs+3\frz6.604\pos(835.5,375)\3c&H401144&}\h\h\h\hMysteriös!\NDas {\c&HFAF5F1&\bord0}Weißtuch{\c&H4016AE&\bord3.6}gespenst geht um!!
+Dialogue: 0,0:24:27.07,0:24:47.17,TypePlaceholder,Types,0,0,0,,{\an1\c&H090D0F&\bord3.6\fad(0,0)\fnTrebuchet MS bold\fs-3\frz6.604\3c&HFFFFFF&\pos(1344,408)}\h\h\h\hMysteriös!\NDas {\c&HFFFFFF&\3c&H090D0F&}Weißtuch{\c&H090D0F&\3c&HFFFFFF&}gespenst geht um!!
+Dialogue: 0,0:24:27.57,0:24:31.32,TypePlaceholder,Peets,0,0,0,,{\fnTimes New Roman bold\an2\fs69\c&H000000&\3c&HFFFFFF&\bord3\pos(960,846)}Also, das ist das Teil, das ich neulich\Ndem Vogelmensch verkauft hab.
+Dialogue: 0,0:24:31.70,0:24:34.79,TypePlaceholder,Peets,0,0,0,,{\fnTimes New Roman bold\an2\fs69\c&H000000&\3c&HFFFFFF&\bord3\pos(960,793.5)}Das heißt also,\Ndieses Ding ist der Vogelmensch.
+Dialogue: 0,0:24:34.79,0:24:38.33,TypePlaceholder,Peets,0,0,0,,{\fnTimes New Roman bold\an2\fs69\c&H000000&\3c&HFFFFFF&\bord3\pos(960,793.5)}Und das wiederum bedeutet,\Ndass auch du dabei warst, Emul.
+Dialogue: 0,0:24:38.83,0:24:41.75,TypePlaceholder,Peets,0,0,0,,{\fnTimes New Roman bold\an2\fs69\c&H000000&\3c&HFFFFFF&\bord3\pos(960,793.5)}Hm? Dann kamen diese Beulen also daher,
+Dialogue: 0,0:24:41.75,0:24:47.17,TypePlaceholder,Peets,0,0,0,,{\fnTimes New Roman bold\an2\fs69\c&H000000&\3c&HFFFFFF&\bord3\pos(960,793.5)}dass du durch das Rumspringen des Vogelmenschs\Nunter dem Tuch in Panik geraten …
+Dialogue: 0,0:24:47.17,0:25:07.82,TypePlaceholder,Types,0,0,0,,{\fnTimes New Roman bold\fs+4\pos(960,514.5)\fsp6}Einen Moment Geduld, bitte.
+Dialogue: 0,0:25:16.83,0:25:18.75,TypePlaceholder,Types,0,0,0,,{\fnComic Sans MS bold\fs+3\pos(1591.5,64.5)}Hasinger Spezialität:\N{\c&H4CF1F5&\bord6\3c&H2D79CE&}Killerkarotten\N{\c&H503AC8&\3c&H362588&}Rekordernte

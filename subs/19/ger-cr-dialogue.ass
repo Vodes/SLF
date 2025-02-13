@@ -1,0 +1,355 @@
+﻿[Script Info]
+Title: Deutsch
+ScaledBorderAndShadow: yes
+Original Script: cr_de  [http://www.crunchyroll.com/user/cr_de]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+LayoutResX: 1920
+LayoutResY: 1080
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+Style: Alt,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00743E15,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:37.54,0:01:39.95,Default,Sunraku,0,0,0,,Sowohl Unterjochung des blauen Himmels
+Dialogue: 0,0:01:39.95,0:01:42.58,Default,Sunraku,0,0,0,,als auch deinem langen,\Nlangen Grabwächterschwur …
+Dialogue: 0,0:01:43.42,0:01:47.13,Default,Sunraku,0,0,0,,werde ich an Vashs Stelle ein Ende setzen!
+Dialogue: 0,0:01:47.13,0:01:49.17,Default,Wezaemon,0,0,0,,„Himmelblau“.
+Dialogue: 0,0:01:49.17,0:01:51.80,Default,Sunraku,0,0,0,,„Killer-Mondsichel“!
+Dialogue: 0,0:01:58.18,0:02:03.19,Default,Sunraku,0,0,0,,Zeit zu schlafen, Grabwächter Wezaemon!
+Dialogue: 0,0:02:08.19,0:02:10.40,Default,Sunraku,0,0,0,,Du warst stark!
+Dialogue: 0,0:02:10.40,0:02:13.82,Default,Sunraku,0,0,0,,Aber ich hab deine Tricks\Nbis zum Umfallen gesehen.
+Dialogue: 0,0:02:13.82,0:02:16.87,Default,Sunraku,0,0,0,,Deine Klinge erreicht mich nicht mehr.
+Dialogue: 0,0:02:19.08,0:02:23.08,Default,Sunraku,0,0,0,,Dein ultimativer Schwertstreich\Nist bezwungen.
+Dialogue: 0,0:02:26.00,0:02:27.34,Default,Wezaemon,0,0,0,,Bravo.
+Dialogue: 0,0:02:30.13,0:02:34.34,Default,Wezaemon,0,0,0,,Du hast meine\Nultimative Technik besiegt.
+Dialogue: 0,0:02:36.55,0:02:41.06,Default,Wezaemon,0,0,0,,„Blauer Himmel“ wandelt sich in\Nmeinen ultimativen Streich „Himmelblau“.
+Dialogue: 0,0:02:42.93,0:02:46.81,Default,Wezaemon,0,0,0,,Und nun wandeln sich die Worte in Lob.
+Dialogue: 0,0:02:58.24,0:03:00.16,Default,Wezaemon,0,0,0,,Du bist brillant.
+Dialogue: 0,0:03:09.00,0:03:10.42,Default,Sunraku,0,0,0,,Ein schlechter Wortwitz?
+Dialogue: 0,0:03:13.30,0:03:14.92,Default,Sunraku,0,0,0,,Oh! Ich hab laut gedacht …
+Dialogue: 0,0:03:22.77,0:03:26.73,Default,Wezaemon,0,0,0,,Das hat Setsuna auch oft gesagt.
+Dialogue: 0,0:03:32.94,0:03:35.03,Default,Wezaemon,0,0,0,,Noch mal: Das war brillant, …
+Dialogue: 0,0:03:35.65,0:03:38.03,Default,Wezaemon,0,0,0,,Nachkomme der Wegbereiter.
+Dialogue: 0,0:03:39.32,0:03:42.95,Default,Sunraku,0,0,0,,{\i1}Ich dachte, man könnte überhaupt\Nnicht vernünftig mit ihm reden.
+Dialogue: 0,0:03:43.54,0:03:45.87,Default,Sunraku,0,0,0,,{\i1}Hätte nicht erwartet,\Ndass er darauf reagiert.
+Dialogue: 0,0:03:50.38,0:03:51.84,Default,Oikatso,0,0,0,,War’s das etwa immer noch nicht?!
+Dialogue: 0,0:03:51.84,0:03:52.84,Default,Pencilgon,0,0,0,,Doch.
+Dialogue: 0,0:03:54.46,0:03:56.13,Default,Pencilgon,0,0,0,,Er ist am Ende.
+Dialogue: 0,0:04:37.47,0:04:38.84,Default,Wezaemon,0,0,0,,Mein Körper …
+Dialogue: 0,0:04:39.97,0:04:41.34,Default,Wezaemon,0,0,0,,zerfällt …
+Dialogue: 0,0:04:46.02,0:04:47.60,Default,Wezaemon,0,0,0,,Ich werde schlafen.
+Dialogue: 0,0:04:51.27,0:04:53.23,Default,Wezaemon,0,0,0,,Setsu…na …
+Dialogue: 0,0:04:56.98,0:05:00.20,Default,Wezaemon,0,0,0,,Ich … komme … zu dir …
+Dialogue: 0,0:05:19.47,0:05:21.88,Default,Oikatso,0,0,0,,I-Ist es vorbei?
+Dialogue: 0,0:05:23.64,0:05:26.26,Default,Pencilgon,0,0,0,,Anscheinend kommt\Nnoch keine Abschlussanzeige.
+Dialogue: 0,0:05:29.18,0:05:32.52,Default,Sunraku,0,0,0,,Der Kirschbaum … verdorrt.
+Dialogue: 0,0:05:35.44,0:05:38.15,Default,Oikatso,0,0,0,,Wird das Gebiet wieder wie vorher?
+Dialogue: 0,0:05:52.29,0:05:53.92,Default,Pencilgon,0,0,0,,Set …
+Dialogue: 0,0:05:53.92,0:05:59.09,Default,Setsuna,0,0,0,,Arthur, Sunraku und Oikatso.
+Dialogue: 0,0:06:00.09,0:06:04.30,Default,Setsuna,0,0,0,,Ihr habt es vollbracht. Herzlichen Dank.
+Dialogue: 0,0:06:05.47,0:06:06.51,Default,Setsuna,0,0,0,,Mein Wunsch …
+Dialogue: 0,0:06:07.35,0:06:11.56,Default,Setsuna,0,0,0,,Nein. Der Wunsch, den Setsuna\Nin ferner Vergangenheit hegte, …
+Dialogue: 0,0:06:12.06,0:06:13.89,Default,Setsuna,0,0,0,,ist damit erfüllt.
+Dialogue: 0,0:06:14.56,0:06:17.44,Default,Sunraku,0,0,0,,Hm? Verfängliche Ausdrucksweise.
+Dialogue: 0,0:06:17.44,0:06:21.19,Default,Oikatso,0,0,0,,Klingt, als würde sie sagen:\N„Ich bin nicht Setsuna“.
+Dialogue: 0,0:06:21.19,0:06:22.82,Default,Pencilgon,0,0,0,,Set …?
+Dialogue: 0,0:06:23.32,0:06:26.95,Default,Pencilgon,0,0,0,,Mit „Setsuna“ bist doch du gemeint, oder?
+Dialogue: 0,0:06:29.54,0:06:33.96,Default,Setsuna,0,0,0,,Nein, Arthur. Ich bin schon Setsuna, …
+Dialogue: 0,0:06:34.42,0:06:38.46,Default,Setsuna,0,0,0,,aber nicht die eigentliche Setsuna,\Ndie damals starb.
+Dialogue: 0,0:06:40.13,0:06:41.71,Default,Setsuna,0,0,0,,Setsunas Wunsch lautete:
+Dialogue: 0,0:06:42.51,0:06:47.22,Default,Setsuna,0,0,0,,„Wenn mein Geliebter auf ewig\Nmeinem Tod verhaftet sein sollte,
+Dialogue: 0,0:06:47.22,0:06:48.97,Default,Setsuna,0,0,0,,setzt dem bitte ein Ende.“
+Dialogue: 0,0:06:50.01,0:06:51.97,Default,Setsuna,0,0,0,,Ich bin ein Überbleibsel von ihr, …
+Dialogue: 0,0:06:52.60,0:06:54.06,Default,Setsuna,0,0,0,,erschaffen aus diesem Wunsch.
+Dialogue: 0,0:06:55.52,0:07:00.44,Default,Setsuna,0,0,0,,Ich bin so etwas wie eine perfekte Kopie\Neines Manuskripts, bis hin zur Handschrift.
+Dialogue: 0,0:07:02.94,0:07:04.70,Default,Sunraku,0,0,0,,{\i1}Ein Relikt der Vergangenheit,
+Dialogue: 0,0:07:04.70,0:07:08.91,Default,Sunraku,0,0,0,,{\i1}der Gestalt gewordene Wunsch\Nder wahren Setsuna von einst.
+Dialogue: 0,0:07:08.91,0:07:13.95,Default,Sunraku,0,0,0,,{\i1}Kurzum, sie ist eine durch Kopieren\Nund Einfügen entstandene Existenz?
+Dialogue: 0,0:07:14.87,0:07:17.58,Default,Sunraku,0,0,0,,{\i1}Darum also Setsuna „ferner Tage“.
+Dialogue: 0,0:07:20.17,0:07:25.09,Default,Setsuna,0,0,0,,Ich bin Setsunas Überbleibsel. Eine Existenz,\Ndie verschwindet, wenn ihre Aufgabe erfüllt ist.
+Dialogue: 0,0:07:25.09,0:07:26.84,Default,Pencilgon,0,0,0,,Warte, Set!
+Dialogue: 0,0:07:26.84,0:07:28.93,Default,Setsuna,0,0,0,,Sei nicht traurig, Arthur.
+Dialogue: 0,0:07:30.10,0:07:33.43,Default,Setsuna,0,0,0,,Es war vorherbestimmt, dass es so kommt,
+Dialogue: 0,0:07:33.43,0:07:36.06,Default,Setsuna,0,0,0,,sobald die Welt ihrem Wunsch\Neines Tages entspricht.
+Dialogue: 0,0:07:37.23,0:07:41.82,Default,Setsuna,0,0,0,,Ihr seid Pioniere.\NDie Nachkommen des Zweiten Plans.
+Dialogue: 0,0:07:41.82,0:07:43.82,Default,Setsuna,0,0,0,,Jene, die die Welt erschließen.
+Dialogue: 0,0:07:44.90,0:07:48.49,Default,Setsuna,0,0,0,,Wenn ihr eure eigenen Wurzeln finden
+Dialogue: 0,0:07:48.49,0:07:51.83,Default,Setsuna,0,0,0,,und die Wahrheit\Nüber die Welt erfahren wollt, …
+Dialogue: 0,0:07:53.62,0:07:55.58,Default,Setsuna,0,0,0,,dann sucht nach Bahamut.
+Dialogue: 0,0:07:57.12,0:07:58.92,Default,Oikatso,0,0,0,,Bahamut?
+Dialogue: 0,0:07:58.92,0:08:00.67,Default,Sunraku,0,0,0,,Kennst du den nicht, Katso?
+Dialogue: 0,0:08:00.67,0:08:03.55,Default,Sunraku,0,0,0,,Ist im Grunde ein Fisch,\Nder wie ein Drache behandelt wird.
+Dialogue: 0,0:08:03.55,0:08:05.92,Default,Oikatso,0,0,0,,Das weiß ich auch.
+Dialogue: 0,0:08:05.92,0:08:09.01,Default,Oikatso,0,0,0,,Aber sie redet doch\Nvon dem Bahamut in diesem Spiel.
+Dialogue: 0,0:08:09.01,0:08:12.56,Default,Pencilgon,0,0,0,,Meines Wissens nach gibt es in ShanFro\Nkein Monster namens Bahamut.
+Dialogue: 0,0:08:12.56,0:08:13.47,Default,Pencilgon,0,0,0,,Set,
+Dialogue: 0,0:08:13.47,0:08:17.23,Default,Pencilgon,0,0,0,,was hat das zu bedeu…
+Dialogue: 0,0:08:17.64,0:08:20.19,Default,Setsuna,0,0,0,,Findet das bitte selbst heraus.
+Dialogue: 0,0:08:20.19,0:08:24.53,Default,Setsuna,0,0,0,,Denn das bedeutet es doch,\Nsich die Zukunft zu erschließen, oder?
+Dialogue: 0,0:08:25.99,0:08:29.74,Default,Setsuna,0,0,0,,Arthur, die folgenden Worte widme ich dir
+Dialogue: 0,0:08:30.41,0:08:33.49,Default,Setsuna,0,0,0,,nicht als Setsuna,\Nsondern als ich selbst.
+Dialogue: 0,0:08:34.33,0:08:38.33,Default,Setsuna,0,0,0,,Danke, dass du immer gekommen bist,\Num mich zu besuchen.
+Dialogue: 0,0:08:38.33,0:08:40.62,Default,Setsuna,0,0,0,,Ich habe dich sehr gern, Arthur.
+Dialogue: 0,0:08:50.51,0:08:51.93,Default,Pencilgon,0,0,0,,Ich dich auch!
+Dialogue: 0,0:09:13.41,0:09:14.83,Default,Sunraku,0,0,0,,Pencilgon …
+Dialogue: 0,0:09:14.83,0:09:16.45,Default,Pencilgon,0,0,0,,Ich weine nicht!
+Dialogue: 0,0:09:17.33,0:09:19.46,Default,Sunraku,0,0,0,,Ich hab ja noch gar nichts gesagt.
+Dialogue: 0,0:09:20.41,0:09:24.79,Default,Sunraku,0,0,0,,Wer hätte gedacht, dass du überhaupt dazu\Nfähig bist, warmherzige Tränen zu vergießen.
+Dialogue: 0,0:09:24.79,0:09:28.21,Default,Oikatso,0,0,0,,„Dieses Gefühl … Ist das mein Herz?“
+Dialogue: 0,0:09:28.21,0:09:30.47,Default,Pencilgon,0,0,0,,Den hast du schon mal gebracht!
+Dialogue: 0,0:09:30.47,0:09:33.05,Default,Pencilgon,0,0,0,,Es reicht, ich mach euch\Nhier und jetzt kalt!
+Dialogue: 0,0:09:34.35,0:09:37.22,Default,Oikatso,0,0,0,,Ich will nach all dem\Nauf keinen Fall gekillt werden!
+Dialogue: 0,0:09:37.22,0:09:39.98,Default,Oikatso,0,0,0,,Sunraku, stirb du für mich!
+Dialogue: 0,0:09:39.98,0:09:43.60,Default,Oikatso,0,0,0,,Komm, komm, tritt vor, tritt vor!
+Dialogue: 0,0:09:39.98,0:09:43.60,Alt,Sunraku,0,0,0,,Ey, mach keine Witze! Stopp! Was soll das?!
+Dialogue: 0,0:09:43.60,0:09:46.36,Default,Oikatso,0,0,0,,Komm schon, nein, halt!\NIch sag doch, geh du!
+Dialogue: 0,0:09:44.31,0:09:45.06,Alt,Sunraku,0,0,0,,Hör auf!
+Dialogue: 0,0:09:48.32,0:09:50.69,Default,Pencilgon,0,0,0,,Wir haben es wirklich geschafft, was?
+Dialogue: 0,0:09:52.07,0:09:56.20,Default,Pencilgon,0,0,0,,Ihr zwei habt bei meiner\Neigensinnigen Aktion mitgezogen.
+Dialogue: 0,0:09:56.78,0:09:57.91,Default,Pencilgon,0,0,0,,Danke.
+Dialogue: 0,0:10:00.79,0:10:04.83,Default,Oikatso,0,0,0,,Wir haben nur mitgemacht,\Nweil wir es wollten. Richtig?
+Dialogue: 0,0:10:04.83,0:10:05.92,Default,Sunraku,0,0,0,,Hm?
+Dialogue: 0,0:10:09.30,0:10:13.05,Default,Sunraku,0,0,0,,Das ist also das erste Mal\Nseit dem Serverstart von Shangri-La Frontier,
+Dialogue: 0,0:10:13.05,0:10:15.30,Default,Sunraku,0,0,0,,dass ein einzigartiges Monster\Nbezwungen wurde.
+Dialogue: 0,0:10:15.93,0:10:18.43,Default,Sunraku,0,0,0,,Oh, Junge! Bin gespannt,\Nwelche Belohnungen es gibt!
+Dialogue: 0,0:10:19.72,0:10:22.43,Default,Pencilgon,0,0,0,,Okay! Dann schauen wir direkt mal,
+Dialogue: 0,0:10:22.43,0:10:24.94,Default,Pencilgon,0,0,0,,welches Loot wir uns gönnen dürfen!
+Dialogue: 0,0:10:26.81,0:10:29.69,Default,Ansasgerin,0,0,0,,Dies ist eine Mitteilung an alle Spieler,
+Dialogue: 0,0:10:29.69,0:10:32.82,Default,Ansasgerin,0,0,0,,die die Welt von\NShangri-La Frontier bevölkern.
+Dialogue: 0,0:10:33.57,0:10:37.20,Default,Ansasgerin,0,0,0,,In diesem Moment wurde bestätigt,\Ndass das einzigartige Monster …
+Dialogue: 0,0:10:37.70,0:10:41.45,Default,Ansasgerin,0,0,0,,„Grabwächter Wezaemon“\Nbezwungen wurde.
+Dialogue: 0,0:10:42.20,0:10:44.42,Default,Ansasgerin,0,0,0,,Die Spielernamen\Nseiner Bezwinger lauten
+Dialogue: 0,0:10:44.42,0:10:50.96,Default,Ansasgerin,0,0,0,,Sunraku, Oikatso und Arthur Pencilgon,\Ninsgesamt drei Spieler.
+Dialogue: 0,0:10:51.34,0:10:54.97,Default,Ansasgerin,0,0,0,,Zudem ist durch den Sieg\Nüber ein einzigartiges Monster …
+Dialogue: 0,0:10:55.30,0:11:00.22,Default,Ansasgerin,0,0,0,,die Weltstory von Shangri-La\NFrontier vorangeschritten.
+Dialogue: 0,0:11:00.22,0:11:03.18,Default,Sunraku,0,0,0,,Welt…story?
+Dialogue: 0,0:11:30.42,0:11:32.63,Default,Bibliothek A (m),0,0,0,,Hey, wir haben einen Notfall!
+Dialogue: 0,0:11:32.63,0:11:35.93,Default,Bibliothek A (m),0,0,0,,Ist hier jemand, der den Professor\Nim Real Life erreichen kann?
+Dialogue: 0,0:11:35.93,0:11:38.76,Default,Bibliothek B (m),0,0,0,,Seine Frau ist doch\Nbei Schwarzer Wolf, oder?
+Dialogue: 0,0:11:38.76,0:11:40.51,Default,Bibliothek B (m),0,0,0,,Bittet sie, ihn herzurufen!
+Dialogue: 0,0:11:40.51,0:11:42.56,Default,Bibliothek C (m),0,0,0,,Wir reden hier vom Professor.
+Dialogue: 0,0:11:42.56,0:11:46.52,Default,Bibliothek C (m),0,0,0,,Wenn er hört, dass ein einzigartiges\NMonster besiegt wurde, ist er im Nu hier.
+Dialogue: 0,0:11:46.52,0:11:48.90,Default,Bibliothek A (m),0,0,0,,Ich hoffe, seine Frau ist online.
+Dialogue: 0,0:11:48.90,0:11:53.78,Default,Bibliothek D (w),0,0,0,,Übrigens, was da in der Spielmitteilung\Ngesagt wurde, die „Weltstory“, was ist das?
+Dialogue: 0,0:11:54.23,0:11:55.99,Default,Bibliothek C (m),0,0,0,,Höre ich zum ersten Mal.
+Dialogue: 0,0:11:55.99,0:11:59.74,Default,Bibliothek E (w),0,0,0,,Die sollten wir wohl getrennt\Nvon der normalen Story behandeln.
+Dialogue: 0,0:12:00.16,0:12:05.04,Default,Bibliothek E (w),0,0,0,,Wenn man in der allgemeinen Story mit NPCs\Nzusammenarbeitet und die Welt erschließt,
+Dialogue: 0,0:12:05.04,0:12:09.50,Default,Bibliothek E (w),0,0,0,,geht es in der Weltstory darum, die Welt selbst\Nauf die nächste Stufe zu bringen … oder so?
+Dialogue: 0,0:12:10.08,0:12:14.21,Default,Bibliothek C (m),0,0,0,,Wenn ja, dann besteht die Möglichkeit,\Ndass irgendeine Veränderung auftritt!
+Dialogue: 0,0:12:14.21,0:12:17.17,Default,Bibliothek C (m),0,0,0,,Sollen wir Schwarzer Wolf bitten,\Ndas zu untersuchen?
+Dialogue: 0,0:12:17.17,0:12:20.89,Default,Bibliothek A (m),0,0,0,,Na ja, wollen wir nicht lieber über\NGrabwächter Wezaemon nachforschen?
+Dialogue: 0,0:12:20.89,0:12:22.10,Default,Bibliothek D (w),0,0,0,,Find ich auch!
+Dialogue: 0,0:12:22.10,0:12:26.18,Default,Bibliothek D (w),0,0,0,,Immerhin war er bisher ein völlig\Nunbekanntes einzigartiges Monster!
+Dialogue: 0,0:12:27.06,0:12:32.82,Default,Bibliothek D (w),0,0,0,,Siegwurm, Lycaon, Kthanid,\Ndas Orchester und Wezaemon.
+Dialogue: 0,0:12:33.19,0:12:37.40,Default,Bibliothek B (m),0,0,0,,Ich hätte nicht gedacht, dass eines der\Nunbekannten Stärksten Sieben enthüllt wird.
+Dialogue: 0,0:12:37.40,0:12:39.36,Default,Bibliothek E (w),0,0,0,,Bleiben noch zwei unbekannte.
+Dialogue: 0,0:12:39.36,0:12:43.28,Default,Bibliothek A (m),0,0,0,,Okay, versuchen wir erst mal,\NKontakt zu den Spielern herzustellen,
+Dialogue: 0,0:12:43.28,0:12:45.37,Default,Bibliothek A (m),0,0,0,,die ihn besiegt … Oh!
+Dialogue: 0,0:12:45.37,0:12:49.04,Default,Bibliothek A (m),0,0,0,,Seine Frau sagt, sie schmeißt\Nden Professor sofort aus dem Bett!
+Dialogue: 0,0:12:49.04,0:12:50.04,Default,Bibliothek B (m),0,0,0,,Jawoll!
+Dialogue: 0,0:12:50.04,0:12:52.58,Default,Bibliothek E (w),0,0,0,,Tut mir leid für ihn,\Ndass er unsanft geweckt wird.
+Dialogue: 0,0:12:55.30,0:12:59.88,Default,Saiga-100,0,0,0,,Sunraku, Oikatso, Arthur Pencilgon.
+Dialogue: 0,0:13:00.34,0:13:04.05,Default,Saiga-100,0,0,0,,Mann, hätte nicht gedacht,\Ndass es Spieler gibt,
+Dialogue: 0,0:13:04.05,0:13:06.89,Default,Saiga-100,0,0,0,,die uns zuvorkommen\Nund ein einzigartiges Monster besiegen.
+Dialogue: 0,0:13:08.10,0:13:10.39,Default,Saiga-100,0,0,0,,Ein schöner Topclan sind wir.
+Dialogue: 0,0:13:14.15,0:13:17.36,Default,Schwarzer Wolf A,0,0,0,,Arthur Pencilgon\Nvom Asura-Bündnis also.
+Dialogue: 0,0:13:17.36,0:13:21.57,Default,Schwarzer Wolf A,0,0,0,,Ich fand es schon seltsam, dass sie\Nbei unserem Angriff nicht dabei war.
+Dialogue: 0,0:13:21.57,0:13:25.33,Default,Schwarzer Wolf A,0,0,0,,Aber dass sie derweil\Nein einzigartiges Monster bezwingt …
+Dialogue: 0,0:13:26.16,0:13:27.49,Default,Saiga-100,0,0,0,,Falsche Schlange.
+Dialogue: 0,0:13:27.49,0:13:32.12,Default,Saiga-100,0,0,0,,Für ein einzigartiges Monster hat sie über\Neinen Informanten ihren Clan verkauft.
+Dialogue: 0,0:13:32.12,0:13:34.67,Default,Saiga-100,0,0,0,,Wir wurden geschickt benutzt.
+Dialogue: 0,0:13:35.09,0:13:38.38,Default,Schwarzer Wolf B,0,0,0,,Sie ist wohl noch lästiger\Nals der geflüchtete Orcelot.
+Dialogue: 0,0:13:38.38,0:13:41.18,Default,Schwarzer Wolf C,0,0,0,,Die anderen zwei gehören\Nnicht zum Asura-Bündnis, richtig?
+Dialogue: 0,0:13:42.22,0:13:46.10,Default,Saiga-100,0,0,0,,Es ist unbekannt, wer dieser Oikatso ist,
+Dialogue: 0,0:13:46.10,0:13:48.56,Default,Saiga-100,0,0,0,,aber der Spieler namens Sunraku
+Dialogue: 0,0:13:48.56,0:13:51.89,Default,Saiga-100,0,0,0,,dürfte mit Sicherheit der sein,\Nder mit Lycaon zu tun hat.
+Dialogue: 0,0:13:52.69,0:13:57.36,Default,Saiga-0,0,0,0,,{\i1}Pencilgon und Rakuro …\NOb sie sich nahestehen?
+Dialogue: 0,0:13:58.61,0:14:03.07,Default,Schwarzer Wolf C,0,0,0,,Was machen wir jetzt, Chefin? Da ist\Nauch noch die Sache mit der Neuen Welt.
+Dialogue: 0,0:14:03.95,0:14:06.66,Default,Saiga-100,0,0,0,,Wir gehen nach wie vor in die Neue Welt.
+Dialogue: 0,0:14:06.66,0:14:10.33,Default,Saiga-100,0,0,0,,Aber ein paar werden hierbleiben,\Nmich eingeschlossen.
+Dialogue: 0,0:14:12.83,0:14:16.42,Default,Saiga-100,0,0,0,,Der Anfänger, der bis vor Kurzem\Nin Drittlema gewesen sein soll,
+Dialogue: 0,0:14:16.42,0:14:21.17,Default,Saiga-100,0,0,0,,hat also etwas noch nie Dagewesenes geschafft\Nund ein einzigartiges Monster bezwungen.
+Dialogue: 0,0:14:22.34,0:14:25.47,Default,Saiga-100,0,0,0,,Plötzlich bist du\Nnoch interessanter, Sunraku.
+Dialogue: 0,0:14:27.10,0:14:29.72,Default,Saiga-100,0,0,0,,Ich muss um jeden Preis\Nmit ihnen in Kontakt treten!
+Dialogue: 0,0:14:29.72,0:14:33.14,Default,Saiga-100,0,0,0,,Unter Umständen würde ich auch\Nmittels „Itemwäsche“ verhandeln!
+Dialogue: 0,0:14:33.14,0:14:35.60,Default,Schwarzer Wolf A,0,0,0,,Du bist unerwartet fröhlich, Chefin.
+Dialogue: 0,0:14:35.98,0:14:37.94,Default,Schwarzer Wolf A,0,0,0,,Ich war sicher,\Ndu hättest schlechte Laune.
+Dialogue: 0,0:14:37.94,0:14:41.57,Default,Schwarzer Wolf D,0,0,0,,Nanu? Saiga-0 ist weg? Wo ist sie hin?
+Dialogue: 0,0:14:41.57,0:14:45.07,Default,Schwarzer Wolf A,0,0,0,,Ja, sie meinte, ein Freund wäre\Nin Schwierigkeiten oder so und ist los.
+Dialogue: 0,0:14:45.49,0:14:47.99,Default,Saiga-100,0,0,0,,Ein Freund? Ach ja …
+Dialogue: 0,0:14:47.99,0:14:51.66,Default,Saiga-100,0,0,0,,{\i1}Sie erwähnte, dass sie jemanden, in den sie\Nsich verguckt hat, als Freund hinzugefügt hat.
+Dialogue: 0,0:14:54.50,0:14:58.04,Default,Saiga-100,0,0,0,,{\i1}Na ja, ich werd sie\Nnach Kräften unterstützen.
+Dialogue: 0,0:15:02.01,0:15:02.71,Default,Sunraku,0,0,0,,Oh!
+Dialogue: 0,0:15:02.71,0:15:04.26,Default,Pencilgon,0,0,0,,Ich wusste, dass ihr kommt.
+Dialogue: 0,0:15:04.26,0:15:06.22,Default,Oikatso,0,0,0,,Ah, ist er das?
+Dialogue: 0,0:15:06.22,0:15:09.56,Default,Orcelot,0,0,0,,I-I-Ihr miesen …!
+Dialogue: 0,0:15:09.56,0:15:13.10,Default,Oikatso,0,0,0,,Wie hieß er noch mal?\N„Sitzenbleiber Orcelot“?
+Dialogue: 0,0:15:13.10,0:15:16.19,Default,Sunraku,0,0,0,,Was soll der erbärmliche Spitzname?\NBist du Wezaemon?
+Dialogue: 0,0:15:17.52,0:15:21.11,Default,Pencilgon,0,0,0,,Mein dummer kleiner Bruder\Nbraucht so einen pompösen Namen nicht.
+Dialogue: 0,0:15:21.11,0:15:21.86,Default,Orcelot,0,0,0,,Was?!
+Dialogue: 0,0:15:21.86,0:15:25.24,Default,Pencilgon,0,0,0,,Dieser Haufen versteht die Eleganz\Ndes Player-Killings nicht.
+Dialogue: 0,0:15:25.24,0:15:27.41,Default,Pencilgon,0,0,0,,Sie sind nur drittklassige Angeber.
+Dialogue: 0,0:15:27.87,0:15:32.70,Default,Orcelot,0,0,0,,Ich wusste es! Du warst diejenige,\Ndie den Standort unserer Basis verraten hat!
+Dialogue: 0,0:15:32.70,0:15:35.04,Default,Pencilgon,0,0,0,,Man erntet, was man sät.
+Dialogue: 0,0:15:35.04,0:15:37.62,Default,Pencilgon,0,0,0,,Du bist fett und hast Angst,\Ndeinen Speck zu verlieren.
+Dialogue: 0,0:15:37.62,0:15:39.71,Default,Pencilgon,0,0,0,,Deshalb bist du\Nso ein feiges Huhn geworden.
+Dialogue: 0,0:15:39.71,0:15:44.88,Default,Pencilgon,0,0,0,,Also hab ich dir auf den Bauch gehauen,\Ndamit du alles darin ausspuckst.
+Dialogue: 0,0:15:44.88,0:15:46.38,Default,Pencilgon,0,0,0,,Das ist alles.
+Dialogue: 0,0:15:46.38,0:15:47.55,Default,Oikatso,0,0,0,,Woah …
+Dialogue: 0,0:15:47.55,0:15:51.10,Default,Sunraku,0,0,0,,Eine große Schwester mit solchen\NAnsichten zum PK ist beängstigend.
+Dialogue: 0,0:15:51.10,0:15:54.10,Default,Orcelot,0,0,0,,Du klopfst ganz schön große Sprüche!
+Dialogue: 0,0:15:54.52,0:15:57.44,Default,Orcelot,0,0,0,,Ihr seid vom Kampf gegen Wezaemon\Ndoch sicher erschöpft!
+Dialogue: 0,0:15:57.44,0:16:01.65,Default,Orcelot,0,0,0,,Wir machen euch alle kalt\Nund reißen eure Item-Drops an uns!
+Dialogue: 0,0:16:06.24,0:16:08.66,Default,Pencilgon,0,0,0,,Darum ist es hoffnungslos mit dir.
+Dialogue: 0,0:16:08.66,0:16:11.87,Default,Pencilgon,0,0,0,,Ich sage dir immer, du sollst\Ndas große Ganze im Auge behalten,
+Dialogue: 0,0:16:11.87,0:16:13.95,Default,Pencilgon,0,0,0,,aber du bist nur auf schnellen Profit aus.
+Dialogue: 0,0:16:14.41,0:16:17.79,Default,Erzählerin,0,0,0,,Eine der Maßnahmen gegen PKs:\N„Notsignal“.
+Dialogue: 0,0:16:17.79,0:16:20.42,Default,Erzählerin,0,0,0,,Begegnet man PKern und wird angegriffen,
+Dialogue: 0,0:16:20.42,0:16:23.59,Default,Erzählerin,0,0,0,,kann man ein Notsignal\Nan Freunde absetzen.
+Dialogue: 0,0:16:23.59,0:16:25.84,Default,Wrath,0,0,0,,Orcelot! Das ist …
+Dialogue: 0,0:16:25.84,0:16:26.59,Default,Orcelot,0,0,0,,Wa…
+Dialogue: 0,0:16:27.30,0:16:32.10,Default,Erzählerin,0,0,0,,{\an8}Ist unter den Empfängern ein Freund,\Nder „Freunde-Warp“ erlernt hat, …
+Dialogue: 0,0:16:32.72,0:16:35.47,Default,Erzählerin,0,0,0,,kann man ihn direkt zu sich rufen.
+Dialogue: 0,0:16:39.27,0:16:41.77,Default,Orcelot,0,0,0,,Du schon wieder, Saiga-0?!
+Dialogue: 0,0:16:42.19,0:16:45.36,Default,Sunraku,0,0,0,,Hey! Sorry, dass das\Nso plötzlich kam, Saiga-0.
+Dialogue: 0,0:16:45.36,0:16:46.36,Default,Saiga-0,0,0,0,,Schon gut.
+Dialogue: 0,0:16:46.36,0:16:49.74,Default,Rei,0,0,0,,{\i1}Vielen Dank, dass du mich gerufen hast!
+Dialogue: 0,0:16:50.61,0:16:52.99,Default,Saiga-0,0,0,0,,Überreste des Asura-Bündnisses.
+Dialogue: 0,0:16:52.99,0:16:55.66,Default,Saiga-0,0,0,0,,Wenn ihr wie vorhin wieder fliehen wollt, …
+Dialogue: 0,0:16:56.12,0:16:58.66,Default,Saiga-0,0,0,0,,würde ich ein Auge zudrücken.\NWas sagt ihr?
+Dialogue: 0,0:16:59.41,0:17:03.42,Default,Orcelot,0,0,0,,Jeder Einzelne von euch\Nist arrogant ohne Ende!
+Dialogue: 0,0:17:03.42,0:17:07.17,Default,Orcelot,0,0,0,,Ihr verdammten Scheißkerle!
+Dialogue: 0,0:17:11.76,0:17:14.18,Default,Orcelot,0,0,0,,I-Ihr Arschlöcher!
+Dialogue: 0,0:17:14.18,0:17:18.93,Default,Orcelot,0,0,0,,Alles, was ich aufgebaut habe,\Nhabt ihr miesen …
+Dialogue: 0,0:17:22.44,0:17:26.65,Default,Pencilgon,0,0,0,,In einem MMO läuft es eben\Nnicht immer wie gewünscht.
+Dialogue: 0,0:17:26.65,0:17:30.07,Default,Pencilgon,0,0,0,,Ein Offline-Einzelspielerspiel\Nwürde besser zu dir passen.
+Dialogue: 0,0:17:30.07,0:17:34.41,Default,Sunraku,0,0,0,,Da würde ich ihm Faeria\NChronicles Online empfehlen.
+Dialogue: 0,0:17:34.41,0:17:36.58,Default,Oikatso,0,0,0,,Bist du … ein Monster?!
+Dialogue: 0,0:17:37.62,0:17:39.04,Default,Pencilgon,0,0,0,,Na sieh einer an!
+Dialogue: 0,0:17:39.04,0:17:43.42,Default,Pencilgon,0,0,0,,Er hatte lauter seltene Items aus\Nder Reserve des Asura-Bündnisses dabei.
+Dialogue: 0,0:17:43.42,0:17:45.09,Default,Pencilgon,0,0,0,,Wollte sich wohl davonmachen.
+Dialogue: 0,0:17:45.75,0:17:48.21,Default,Sunraku,0,0,0,,Ich hätte nicht gedacht,\Ndass du so schnell kommst.
+Dialogue: 0,0:17:48.71,0:17:50.30,Default,Sunraku,0,0,0,,Danke, Saiga-0.
+Dialogue: 0,0:17:50.30,0:17:55.22,Default,Saiga-0,0,0,0,,N-Nicht doch! Du brauchst\Ndich nicht zu bedanken.
+Dialogue: 0,0:17:55.85,0:18:01.18,Default,Saiga-0,0,0,0,,Davon abgesehen, herzlichen Glückwunsch\Nzum Sieg über ein einzigartiges Monster.
+Dialogue: 0,0:18:01.18,0:18:03.60,Default,Sunraku,0,0,0,,Oh, danke.
+Dialogue: 0,0:18:03.60,0:18:07.90,Default,Sunraku,0,0,0,,{\i1}Stimmt ja, durch die Bekanntmachung\Nkennt mich nun alle Welt.
+Dialogue: 0,0:18:07.90,0:18:10.69,Default,Sunraku,0,0,0,,{\i1}Mich auf den Hauptstraßen zu bewegen,\Nwird wohl noch schwieriger.
+Dialogue: 0,0:18:11.45,0:18:16.20,Default,Sunraku,0,0,0,,{\i1}Aber was nun? „Das war’s, kannst wieder gehen“,\Nnachdem ich sie so plötzlich gerufen hab?
+Dialogue: 0,0:18:16.20,0:18:17.83,Default,Sunraku,0,0,0,,{\i1}Kann ich ja auch schlecht sagen.
+Dialogue: 0,0:18:18.20,0:18:22.83,Default,Saiga-0,0,0,0,,{\i1}W-Was hat er? Er starrt mich so an … Kyah!
+Dialogue: 0,0:18:22.83,0:18:25.29,Default,Pencilgon,0,0,0,,Ach ja, Saiga-0.
+Dialogue: 0,0:18:26.34,0:18:30.84,Default,Pencilgon,0,0,0,,Entschuldige, aber würdest du mich\Nbei der Gelegenheit auch gleich töten?
+Dialogue: 0,0:18:32.47,0:18:33.38,Default,Sunraku,0,0,0,,Hä?
+Dialogue: 0,0:18:33.38,0:18:36.76,Default,Pencilgon,0,0,0,,Als Lohn winken alle Items,\Ndie ich bei mir trage, …
+Dialogue: 0,0:18:37.10,0:18:39.56,Default,Pencilgon,0,0,0,,einschließlich zweier\NTränenperlen der Wiedergeburt
+Dialogue: 0,0:18:39.56,0:18:43.27,Default,Pencilgon,0,0,0,,sowie alle seltenen Items, die Asura\Nauf Lager hatte. Wie klingt das?
+Dialogue: 0,0:18:43.27,0:18:45.44,Default,Oikatso,0,0,0,,Hey, bist du sicher?
+Dialogue: 0,0:18:45.44,0:18:49.57,Default,Oikatso,0,0,0,,Wenn ich mich nicht irre, werden bei\Neinem PKK all deine Items beschlagnahmt,
+Dialogue: 0,0:18:49.57,0:18:53.78,Default,Oikatso,0,0,0,,und du musst zudem je nach Schwere deiner Schuld\Neine riesige Geldstrafe zahlen, richtig?
+Dialogue: 0,0:18:53.78,0:18:57.28,Default,Sunraku,0,0,0,,Und da wir hier von Pencilgon reden,\Nist das bestimmt eine unfassbare Summe.
+Dialogue: 0,0:18:57.57,0:19:01.79,Default,Pencilgon,0,0,0,,Würde ich nie Risiken eingehen,\Nwäre ich feiger als mein kleiner Bruder, oder?
+Dialogue: 0,0:19:02.20,0:19:04.62,Default,Pencilgon,0,0,0,,Außerdem hab ich\Ndas Player-Killing ziemlich satt.
+Dialogue: 0,0:19:04.62,0:19:08.54,Default,Pencilgon,0,0,0,,Da dachte ich, ich zahle gleich hier\Nund jetzt die Rechnung für meine Taten.
+Dialogue: 0,0:19:08.54,0:19:12.92,Default,Pencilgon,0,0,0,,Allerdings hab auch ich\Nmeinen Stolz als Player-Killerin.
+Dialogue: 0,0:19:13.63,0:19:17.43,Default,Pencilgon,0,0,0,,Ich halte nicht brav still und warte,\Nbis du mir den Kopf abschlägst.
+Dialogue: 0,0:19:17.80,0:19:19.43,Default,Pencilgon,0,0,0,,Saiga-0 …
+Dialogue: 0,0:19:19.43,0:19:23.14,Default,Pencilgon,0,0,0,,Nein, Träger des Titels „Angriffs-Ass“.
+Dialogue: 0,0:19:23.14,0:19:26.31,Default,Pencilgon,0,0,0,,Ich wollte schon lange einmal\Nrichtig gegen dich kämpfen!
+Dialogue: 0,0:19:37.07,0:19:39.32,Default,Saiga-0,0,0,0,,Okay. Ich nehme an.
+Dialogue: 0,0:19:40.12,0:19:42.08,Default,Saiga-0,0,0,0,,Satanael, Umkehrung:
+Dialogue: 0,0:19:44.12,0:19:45.33,Default,Saiga-0,0,0,0,,„Satan“.
+Dialogue: 0,0:19:47.50,0:19:51.09,Default,Pencilgon,0,0,0,,Das ist also die berüchtigte\Neinzigartige Waffe des Angriffs-Asses,
+Dialogue: 0,0:19:51.09,0:19:52.92,Default,Pencilgon,0,0,0,,Antinomie.
+Dialogue: 0,0:19:59.22,0:20:02.10,Default,Pencilgon,0,0,0,,Dass du mir sogar die Umkehrung zeigst.
+Dialogue: 0,0:20:02.68,0:20:04.47,Default,Pencilgon,0,0,0,,Wie großzügig.
+Dialogue: 0,0:20:05.10,0:20:09.23,Default,Saiga-0,0,0,0,,Meine Schwes… ähem,\Nmeine Chefin hat mir von dir erzählt.
+Dialogue: 0,0:20:09.77,0:20:11.31,Default,Saiga-0,0,0,0,,Weil du sofort wegrennst,
+Dialogue: 0,0:20:11.31,0:20:15.24,Default,Saiga-0,0,0,0,,soll ich auf der Hut sein und dich, sobald\Nich dich entdecke, mit einem Schlag töten.
+Dialogue: 0,0:20:15.24,0:20:17.24,Default,Sunraku,0,0,0,,Redet sie von einer Kakerlake?
+Dialogue: 0,0:20:17.24,0:20:20.24,Default,Pencilgon,0,0,0,,Was? Euch kille ich sowieso noch.
+Dialogue: 0,0:20:20.24,0:20:22.24,Default,Oikatso,0,0,0,,Ich hab doch noch gar nichts gesagt!
+Dialogue: 0,0:20:23.08,0:20:27.25,Default,Saiga-0,0,0,0,,Wenn die Riesentöterin meine Gegnerin ist,\Nziehe auch ich alle Register.
+Dialogue: 0,0:20:27.25,0:20:29.25,Default,Sunraku,0,0,0,,Oooh, Kontrahentin Saiga-0!
+Dialogue: 0,0:20:29.25,0:20:32.92,Default,Sunraku,0,0,0,,Ich kenn zwar keinen der Buffs,\Ndie sie stapelt, aber die klingen stark!
+Dialogue: 0,0:20:32.92,0:20:34.38,Default,Oikatso,0,0,0,,Sie ist schon eher ein Dämon.
+Dialogue: 0,0:20:34.84,0:20:38.38,Default,Pencilgon,0,0,0,,„Sauge das Blut aus, reiße das Fleisch ab,
+Dialogue: 0,0:20:38.38,0:20:41.64,Default,Pencilgon,0,0,0,,kaue den Tod durch\Nund spucke das Leben aus.
+Dialogue: 0,0:20:42.10,0:20:46.64,Default,Pencilgon,0,0,0,,Du bist ein Schlächter. Singe lauthals\Nauf einem Berg aus Leichen.“
+Dialogue: 0,0:20:46.64,0:20:50.40,Default,Sunraku,0,0,0,,Woah! Die andere Kontrahentin\Nsieht aber auch ziemlich fies aus!
+Dialogue: 0,0:20:50.40,0:20:52.40,Default,Oikatso,0,0,0,,Was ist das für ’ne Waffe? Widerlich …
+Dialogue: 0,0:20:54.52,0:20:56.69,Default,Pencilgon,0,0,0,,Also dann! Legen wir los?
+Dialogue: 0,0:20:56.69,0:20:59.03,Default,Saiga-0,0,0,0,,Auf die Plätze, fertig, …
+Dialogue: 0,0:20:59.03,0:21:00.03,Default,Pencilgon; Saiga-0,0,0,0,,… los!
+Dialogue: 0,0:21:01.28,0:21:05.74,Default,Sunraku,0,0,0,,Ring frei! Zwei voll gebuffte Gegner\Nprallen aufeinander!
+Dialogue: 0,0:21:05.74,0:21:09.21,Default,Oikatso,0,0,0,,Wie kannst du nach unserem harten Kampf\Nnoch so energiegeladen sein?
+Dialogue: 0,0:21:11.37,0:21:13.75,Default,Pencilgon,0,0,0,,„Massakerbiss“. Hab ich dich!
+Dialogue: 0,0:21:17.84,0:21:19.01,Default,Pencilgon,0,0,0,,{\i1}Mein Schwert haftet an ihr?!
+Dialogue: 0,0:21:21.76,0:21:25.26,Default,Sunraku,0,0,0,,Oooha! Ein direkter Treffer?!
+Dialogue: 0,0:21:31.90,0:21:34.31,Default,Pencilgon,0,0,0,,Das war echt knapp.
+Dialogue: 0,0:21:34.31,0:21:36.90,Default,Pencilgon,0,0,0,,Ich war unvorsichtig\Nund wär beinahe zweigeteilt worden.
+Dialogue: 0,0:21:37.53,0:21:41.78,Default,Pencilgon,0,0,0,,Vor den Augen Setsunas kann\Nich doch nicht schludern.
+Dialogue: 0,0:21:44.74,0:21:46.79,Default,Saiga-0,0,0,0,,Wenn das so ist, kommt jetzt mein Trumpf.
+Dialogue: 0,0:21:46.79,0:21:50.96,Default,Saiga-0,0,0,0,,„Widersprüchliche Vorsehung.\NLicht und Dunkelheit, die einander abstoßen.
+Dialogue: 0,0:21:50.96,0:21:54.83,Default,Saiga-0,0,0,0,,Sie leugnen den Gegensatz und nähen\Ngetrennte Schicksale wieder zusammen.“
+Dialogue: 0,0:21:56.80,0:22:00.80,Default,Saiga-0,0,0,0,,„Mein Körper ist von Licht durchtränkt\Nund in Dunkelheit getaucht.
+Dialogue: 0,0:22:00.80,0:22:03.55,Default,Saiga-0,0,0,0,,O Chaos, verschlinge die Welt.“
+Dialogue: 0,0:22:04.05,0:22:05.35,Default,Saiga-0,0,0,0,,„Chaosleere“!
+Dialogue: 0,0:23:43.69,0:23:47.36,Default,Kinder,0,0,0,,ShanFro-Theater!
+Dialogue: 0,0:23:47.36,0:23:48.95,Default,Emul,0,0,0,,Mini!
+Dialogue: 0,0:23:50.74,0:23:52.79,Default,Emul,0,0,0,,Schönen guten Morgen!
+Dialogue: 0,0:23:52.79,0:23:56.66,Default,Emul,0,0,0,,Ich bin Emul, das elegante\NKillerkaninchen aus Hasingen!
+Dialogue: 0,0:23:56.66,0:24:00.50,Default,Emul,0,0,0,,Ich berichte euch heute die Neugkeiten,\Ndie ich gesehen und gehört habe!
+Dialogue: 0,0:24:02.96,0:24:06.22,Default,Emul,0,0,0,,So früh morgens eine Gruselgeschichte?!
+Dialogue: 0,0:24:06.22,0:24:10.47,Default,Emul,0,0,0,,Die urbane Legende Drittlemas,\Ndas Weißtuchgespenst, wurde gesichtet!
+Dialogue: 0,0:24:10.47,0:24:15.68,Default,Emul,0,0,0,,Es soll auf Gebäuden herumgehüpft sein und\Ndabei seinen ganzen Körper aufgebläht haben.
+Dialogue: 0,0:24:15.98,0:24:17.81,Default,Emul,0,0,0,,Eine furchteinflößende Geschichte!
+Dialogue: 0,0:24:17.81,0:24:20.73,Default,Emul,0,0,0,,Es ist so unheimlich,\Ndass niemand seine wahre Gestalt kennt.
+Dialogue: 0,0:24:20.73,0:24:24.90,Default,Emul,0,0,0,,Nun, es gibt ein Killerkaninchen, das das\NWeißtuchgespent beobachtet haben will.
+Dialogue: 0,0:24:24.90,0:24:27.07,Default,Emul,0,0,0,,Ich habe nachgefragt.
+Dialogue: 0,0:24:47.17,0:24:50.09,Default,Emul,0,0,0,,Kein weiteres Wort mehr!
+Dialogue: 0,0:24:50.09,0:24:52.55,Default,Peets,0,0,0,,Du hast mir auf den Kopf gehauen!
+Dialogue: 0,0:24:52.55,0:24:54.76,Default,Emul,0,0,0,,Ich war da nicht in Panik!
+Dialogue: 0,0:24:54.76,0:24:58.35,Default,Emul,0,0,0,,Sunraku meinte plötzlich,\Ndass es obenrum kürzer wäre,
+Dialogue: 0,0:24:58.35,0:25:01.77,Default,Emul,0,0,0,,hat dann einen Salto gemacht und ich\Nmusste mich einfach wieder neu ausrichten.
+Dialogue: 0,0:25:01.77,0:25:03.48,Default,Peets,0,0,0,,Das warst also wirklich du!
+Dialogue: 0,0:25:03.48,0:25:06.53,Default,Emul,0,0,0,,Killer-Große-Schwester-Schlag!
+Dialogue: 0,0:25:08.19,0:25:10.03,Default,Emul,0,0,0,,Wir hatten da eine Störung.
+Dialogue: 0,0:25:10.03,0:25:13.87,Default,Emul,0,0,0,,Zudem ist das befragte Kaninchen\Nnicht mehr vorzeigbar.
+Dialogue: 0,0:25:13.87,0:25:15.03,Default,Peets,0,0,0,,Warum?!
+Dialogue: 0,0:25:15.03,0:25:16.83,Default,Emul,0,0,0,,Nun zur nächsten Meldung!
+Dialogue: 0,0:25:18.66,0:25:21.54,Default,Emul,0,0,0,,D-Das ist ja fantastisch!
+Dialogue: 0,0:25:21.54,0:25:23.29,Default,Emul,0,0,0,,Eine Killerkarotten-Rekordernte!
+Dialogue: 0,0:25:23.29,0:25:26.09,Default,Emul,0,0,0,,Das ist absolut fantastisch!
+Dialogue: 0,0:25:26.09,0:25:30.59,Default,Emul,0,0,0,,Sunraku ist gerade vor Ort.\NWir schalten umgehend rüber!
+Dialogue: 0,0:25:30.59,0:25:33.64,Default,Emul,0,0,0,,Sunraku! Sunraku!
+Dialogue: 0,0:25:33.64,0:25:35.93,Default,Emul,0,0,0,,Wie ist die Lage bei dir?
+Dialogue: 0,0:25:35.93,0:25:38.18,Default,Emul,0,0,0,,Ich bin ganz aus dem Häuschen!
+Dialogue: 0,0:25:39.02,0:25:41.19,Default,Sunraku,0,0,0,,Ich bin hier am Ort des Geschehens.
+Dialogue: 0,0:25:41.19,0:25:43.77,Default,Emul,0,0,0,,H-Halt, was geht da vor sich?!
+Dialogue: 0,0:25:43.77,0:25:45.94,Default,Sunraku,0,0,0,,Was? Wie bitte?
+Dialogue: 0,0:25:45.94,0:25:48.53,Default,Emul,0,0,0,,Was geht da vor sich?!
+Dialogue: 0,0:25:48.53,0:25:50.45,Default,Sunraku,0,0,0,,Ähm, also, gerade
+Dialogue: 0,0:25:50.45,0:25:53.41,Default,Sunraku,0,0,0,,wütet hier ein Giga-gepanzerter\NTodes-Karottenfresser.
+Dialogue: 0,0:25:53.41,0:25:56.62,Default,Emul,0,0,0,,Ein Giga-gepanzerter\NTodes-Karottenfresser?!
+Dialogue: 0,0:25:56.62,0:26:01.37,Default,Sunraku,0,0,0,,Der Giga-gepanzerte Todes-Karottenfresser\Ngreift die Karottenfelder an!
+Dialogue: 0,0:26:01.37,0:26:06.21,Default,Emul,0,0,0,,M-M-Moment, was passiert\Nmit meinen Karotten?!
+Dialogue: 0,0:26:06.21,0:26:07.17,Default,Sunraku,0,0,0,,Bitte?!
+Dialogue: 0,0:26:07.17,0:26:10.30,Default,Emul,0,0,0,,Meine! Karotten!
+Dialogue: 0,0:26:10.30,0:26:11.55,Default,Sunraku,0,0,0,,Mir doch Latte!
+Dialogue: 0,0:26:11.55,0:26:15.18,Default,Sunraku,0,0,0,,Ich werd jetzt diesen Giga-gepanzerten\NTodes-Karottenfresser besiegen!
+Dialogue: 0,0:26:16.22,0:26:18.81,Default,Sunraku,0,0,0,,Sieht wie ein\NMongolischer Todeswurm aus!
+Dialogue: 0,0:26:18.81,0:26:22.52,Default,Sunraku,0,0,0,,Ich schlitz dich auf und mach\Ngebratenen Aal aus dir!
+Dialogue: 0,0:26:22.52,0:26:25.73,Default,Emul,0,0,0,,I-Ich kann nicht tatenlos zusehen!
+Dialogue: 0,0:26:25.73,0:26:27.69,Default,Emul,0,0,0,,Für meine Karotten, nein,
+Dialogue: 0,0:26:27.69,0:26:30.86,Default,Emul,0,0,0,,für alle Kaninchen in Hasingen,\Ndie auf die Killerkarotten warten!
+Dialogue: 0,0:26:30.86,0:26:33.28,Default,Emul,0,0,0,,Ich eile sofort\Nzum Ort des Geschehens!
+Dialogue: 0,0:26:33.28,0:26:36.49,Default,Emul,0,0,0,,Das war’s für heute! Bis morgen!
+Dialogue: 0,0:26:37.78,0:26:43.41,Default,Emul,0,0,0,,Was ist überhaupt ein Giga-gepanzerter\NTodes-Karottenfresser?!

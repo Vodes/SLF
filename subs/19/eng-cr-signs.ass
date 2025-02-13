@@ -1,0 +1,50 @@
+﻿[Script Info]
+Title: English (US)
+ScaledBorderAndShadow: yes
+Original Script: kodansha  [http://www.crunchyroll.com/user/kodansha]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+LayoutResX: 1920
+LayoutResY: 1080
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sign_Basic,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,6,3,2,30,30,54,1
+Style: Ep_Title,Arial,60,&H00FFFFFF,&H000000FF,&H00000000,&H00BE9829,-1,0,0,0,100,100,0,0,1,0,6,1,132,30,12,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:54.43,0:01:56.93,Sign_Basic,sign,0,0,0,,{\fad(125,250)\an8\fnImpact\fs72\c&HF8CA3C&\3c&H000000&\bord12\shad0\pos(1638,15)}Crescent Vorpal
+Dialogue: 0,0:01:54.43,0:01:56.93,Sign_Basic,sign,0,0,0,,{\fad(125,250)\an8\fnImpact\fs72\c&HF8CA3C&\3c&HFFFFFF&\bord6\shad0\pos(1638,15)}Crescent Vorpal
+Dialogue: 0,0:01:54.47,0:01:56.93,Sign_Basic,sign,0,0,0,,{\fad(125,250)\pos(366,15)\an8\fnTimes New Roman\b1\c&H020908&\3c&H8372E8&\shad0\blur6}Sky Clear
+Dialogue: 0,0:03:02.25,0:03:06.92,Ep_Title,sign,0,0,0,,{\fad(1100,0)}The World Progresses, the Heroes Are Revealed
+Dialogue: 0,0:03:08.21,0:03:11.05,Sign_Basic,sign,0,0,0,,{\fad(75,0)\pos(960,411.999)\an8\fnArial\b1\shad0\bord3\c&H7A50E1&\3c&H5D429F&}Sky clear = Clear as the sky
+Dialogue: 0,0:05:22.09,0:05:23.64,Sign_Basic,sign,0,0,0,,{\fad(100,0)\an9\c&H444641&\3c&HEAFBF4&\shad0\b1\fs60}Unique Scenario EX\N{\fnArial\c&HECF6ED&\3c&H291E17&}From the Living World, With Love\N{\b0}in progress
+Dialogue: 0,0:09:16.45,0:09:19.46,Sign_Basic,sign,0,0,0,,{\an7\pos(60,60)\fs54\c&HF7F1EC&\3c&H462822&\bord9\shad0}Setsuna's remnant has kept\Nthe promise of bygone days.
+Dialogue: 0,0:09:16.45,0:09:19.46,Sign_Basic,sign,0,0,0,,{\an7\pos(60,240)\fs54\c&HF7F1EC&\3c&H462822&\bord9\shad0}Wethermon the Tombguard\Nhas found eternal rest.
+Dialogue: 0,0:09:43.60,0:09:46.36,Sign_Basic,sign,0,0,0,,{\an8\c&H61636C&\3c&HEAFBF4&\shad0\b1\fs60}Unique Scenario EX\N{\fnArial\c&HECF6ED&\3c&H3A2845&}From the Living World, With Love\N{\b0}cleared
+Dialogue: 0,0:11:17.99,0:11:20.12,Sign_Basic,sign,0,0,0,,{\c&H94897C&\3c&HFDFCD9&\shad0\pos(960,975)}Progress: {\3c&HFCFFFB&}11%
+Dialogue: 0,0:11:17.99,0:11:25.00,Sign_Basic,sign,0,0,0,,{\c&H94897C&\3c&HFAFEF8&\shad0\an8\bord9}World Story
+Dialogue: 0,0:11:20.12,0:11:20.20,Sign_Basic,sign,0,0,0,,{\c&H94897C&\3c&HFDFCD9&\shad0\pos(960,975)}Progress:
+Dialogue: 0,0:11:20.20,0:11:25.00,Sign_Basic,sign,0,0,0,,{\c&H94897C&\3c&HFDFCD9&\shad0}Progress: {\3c&HFCFFFB&}12%
+Dialogue: 0,0:11:30.42,0:11:32.63,Sign_Basic,sign,0,0,0,,{\an8\c&HAC9918&\3c&HF9FF9A&\shad0}World Story\N{\c&HFAFFFE&\b1}{\i1}Shangri-La Frontier{\i0}\N{\fs54\3c&H935219&}has progressed.
+Dialogue: 0,0:11:32.63,0:11:36.34,Sign_Basic,sign,0,0,0,,{\pos(576,450)\c&HF3EC82&\3c&H650714&\blur6}Clan: "The Library"\N{\fs48\shad0\c&HFFFFFF&}{\i1}SLF{\i0} game lore specialist clan
+Dialogue: 0,0:13:07.52,0:13:10.39,Sign_Basic,sign,0,0,0,,{\fad(100,0)\pos(444,756)\3c&HD9CC14&\shad0\c&H886502&\fs54}Schwarz Vulf Leader\N{\fnImpact\fs72\b1\i1\c&HD5CB1B&\3c&HEDEFEF&}Psyger-100
+Dialogue: 0,0:14:10.33,0:14:12.83,Sign_Basic,sign,0,0,0,,{\an7\fs36\c&H4CB831&\3c&HE7EAE7&\shad0}75: Alinoiyu {\c&H393931&}(Beginner)\NI have a question for our esteemed elders. I was picking up equipment\Nin Secondale when I ran into this player. He had the cutest talking bunny\Nwith him. How can I befriend this monster?
+Dialogue: 0,0:16:29.22,0:16:32.10,Sign_Basic,sign,0,0,0,,{\fad(225,0)\pos(960,825)\c&H000000&\3c&HFFFFFF&\shad0}Friend Warp
+Dialogue: 0,0:17:08.05,0:17:11.30,Sign_Basic,sign,0,0,0,,{\fad(225,0)\pos(960,735)\c&H000000&\3c&HFFFFFF&\shad0\fnArial\b1}50 Seconds Later
+Dialogue: 0,0:17:36.58,0:17:41.58,Sign_Basic,sign,0,0,0,,{\an7\fs36\c&H928E7E&\pos(30,30)}Receiving Items\N{\c&HE5F382&}Highest Potion\N Highest Magi-Potion\N Highest Magi-Potion\N Highest Magi-Potion\N Highest Magi-Potion\N Highest Magi-Potion\NHighest Mixing Potion\NHighest Mixing Potion\NHighest Mixing Potion\NHighest Mixing Potion\NHighest Mixing Potion\N Saint's Holy Water\N Saint's Holy Water\N Sticky Honey Ointment\N Rebirth Tearjewel\N Rebirth Tearjewel\N Pirate's Wishjewel\N Assassin's Black Hood\N Assassin's Black Cloak\N Assassin's Black Gauntlets\N Assassin's Black Belt\N Assassin's Black Trousers\N Vital Piercing Blade\N Demon Sword Vordigol\N Demon Sword of the Butcher\N Darkness-Shrouded Armor\N Darkness-Shrouded Gauntlets
+Dialogue: 0,0:19:43.41,0:19:45.33,Sign_Basic,sign,0,0,0,,{\fad(125,0)\an8\fnTimes New Roman\b1\c&H000000&\3c&H1EE9E8&\shad0}Emperor of Evil\NSatan
+Dialogue: 0,0:19:51.09,0:19:53.59,Sign_Basic,sign,0,0,0,,{\fad(300,0)\pos(960,690)\c&H4A53DD&\shad0\fnGeorgia\bord3\blur3\b1}Antinomy\N God and Devil Greatsword
+Dialogue: 0,0:20:23.12,0:20:27.25,Sign_Basic,sign,0,0,0,,{\pos(213.611,116.001)\org(210,116.001)\fscx94.394\fscy96.549\frz16.086\fry8.442\frx-3.641\fax-0.091\fs42\b1\xbord5.66\ybord5.79\xshad0\yshad0\c&HEFF673&\fad(100,0)}Karmic Embrace
+Dialogue: 0,0:20:23.12,0:20:27.25,Sign_Basic,sign,0,0,0,,{\pos(137.365,372.003)\org(127.998,372.003)\fscx91.402\fscy83.531\frz32.602\fry15.626\frx-7.754\fax-0.244\fs42\b1\xbord5.48\ybord5.01\xshad0\yshad0\c&HEFF673&\fad(100,0)}Lightning Grace
+Dialogue: 0,0:20:23.12,0:20:27.25,Sign_Basic,sign,0,0,0,,{\pos(1781.505,139.998)\org(1788,139.998)\fscx94.019\fscy89.104\frz-28.461\fry-11.766\frx-6.297\fax0.164\fs42\b1\xbord5.64\ybord5.35\xshad0\yshad0\c&HEFF673&\fad(100,0)}Catastrophe
+Dialogue: 0,0:20:23.12,0:20:27.25,Sign_Basic,sign,0,0,0,,{\pos(1511.628,338.001)\org(1524,338.001)\fscx84.722\fscy83.219\frz-38.931\fry-20.315\frx-4.709\fax0.348\fs42\b1\xbord5.08\ybord4.99\xshad0\yshad0\c&HEFF673&\fad(100,0)}Highest Strength
+Dialogue: 0,0:20:23.12,0:20:27.25,Sign_Basic,sign,0,0,0,,{\pos(1791.188,462)\org(1795.998,462)\fscx96.248\fscy87.04\frz-36.603\fry-11.766\frx-6.297\fax0.139\fs36\b1\xbord5.78\ybord5.22\xshad0\yshad0\c&HEFF673&\fad(100,0)}Enchant Vermillion
+Dialogue: 0,0:20:42.51,0:20:46.64,Sign_Basic,sign,0,0,0,,{\pos(683.667,111.999)\org(684,111.999)\fscx99.094\fscy99.825\frz2.85\fry2.682\frx1.347\fax0.008\fs42\b1\xbord5.95\ybord5.99\xshad0\yshad0\c&HEFF673&\fad(100,0)}Serial Killer
+Dialogue: 0,0:20:42.89,0:20:46.64,Sign_Basic,sign,0,0,0,,{\pos(515.818,372)\org(516,372)\fscx98.984\fscy99.937\frz12.623\fry2.682\frx1.347\fax0.005\fs36\b1\xbord5.94\ybord6\xshad0\yshad0\c&HEFF673&\fad(100,0)}Silhouette's Sneer
+Dialogue: 0,0:20:43.26,0:20:46.64,Sign_Basic,sign,0,0,0,,{\pos(1509.621,302.001)\org(1509.999,302.001)\fscx99.162\fscy99.758\frz-1.711\fry2.682\frx1.347\fax0.009\fs42\b1\xbord5.95\ybord5.99\xshad0\yshad0\c&HEFF673&\fad(100,0)}Enchant Vorpal
+Dialogue: 0,0:21:10.96,0:21:12.38,Sign_Basic,sign,0,0,0,,{\fad(100,0)\pos(360,870)\c&HE4ED87&\3c&H261B0B&\shad0}Massacre Bite

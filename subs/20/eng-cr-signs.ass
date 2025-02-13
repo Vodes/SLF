@@ -1,0 +1,54 @@
+﻿[Script Info]
+Title: English (US)
+ScaledBorderAndShadow: yes
+Original Script: kodansha  [http://www.crunchyroll.com/user/kodansha]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+LayoutResX: 1920
+LayoutResY: 1080
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sign_Basic,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,6,3,2,30,30,54,1
+Style: Ep_Title,Arial,60,&H00FFFFFF,&H000000FF,&H00000000,&H00BE9829,-1,0,0,0,100,100,0,0,1,0,6,1,132,30,12,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:33.57,0:01:37.37,Ep_Title,sign,0,0,0,,{\fad(1025,0)}Current Situations and Next Steps
+Dialogue: 0,0:02:09.98,0:02:11.61,Sign_Basic,sign,0,0,0,,{\pos(960,690)\c&H838A72\bord0\shad0\fsp6}Item ownership has been transferred.
+Dialogue: 0,0:04:23.49,0:04:27.50,Sign_Basic,sign,0,0,0,,{\an8\pos(960,315)\b1\3c&HB7B137&\shad0\bord9}Thirdrema
+Dialogue: 0,0:05:37.61,0:05:42.28,Sign_Basic,sign,0,0,0,,{\bord4.5\blur3}{\pos(392.001,783.999)\an1\fnTimes New Roman\b1\fs42\c&H000000&\3c&HA3AA47&\shad0}Developer of {\i1}Shangri-La Frontier{\i0}\N{\fs66}Utopia Entertainment Software
+Dialogue: 0,0:05:58.71,0:06:01.72,Sign_Basic,sign,0,0,0,,{\fad(125,0)\pos(366,375)\c&H000000&\3c&H6F7471&\fs48\bord4.5}Utopia  Head of PR Division\N{\fnTimes New Roman\b1\c&HFBF4F2&\3c&H6A4448&\fs66}Sakai Tsukuyogi
+Dialogue: 0,0:06:48.26,0:06:49.76,Sign_Basic,sign,0,0,0,,{\pos(962.001,546)\fs36\b1\fnTimes New Roman\c&H090509&\3c&H92EFF1&\shad0}Chinese Herbal\NDigestive Medicine
+Dialogue: 0,0:07:13.58,0:07:16.58,Sign_Basic,sign,0,0,0,,{\fad(125,0)\c&H000000&\3c&H6F7471&\fs48\bord4.5\an9\pos(1800,210)\shad0}Shangri-La Frontier\NExecutive Producer\N{\fnTimes New Roman\b1\c&HFBF4F2&\3c&H94829C&\fs66\shad3}Ritsu Amachi
+Dialogue: 0,0:07:39.77,0:07:41.65,Sign_Basic,sign,0,0,0,,{\pos(1043.304,206.201)\org(1044,140.001)\fscx100.765\fscy98.812\frz-8.256\fry-1.335\frx1.338\fax0.138\fnArial\b1\xbord6.05\ybord5.93\xshad0\yshad0\c&H7B7672&\3c&HECEEE9&}Original Text Reference Room
+Dialogue: 0,0:08:00.00,0:08:03.00,Sign_Basic,sign,0,0,0,,{\fad(125,0)\an7\c&H000000&\3c&H6F7471&\fs48\bord4.5\pos(108,180)\shad0}Utopia Founder\N World Creative Administrator\N{\fnTimes New Roman\b1\c&HFBF4F2&\3c&H574C3D&\fs66\shad3}Tsukuyo Tsukuri
+Dialogue: 0,0:08:20.44,0:08:24.23,Sign_Basic,sign,0,0,0,,{\pos(960,810)\c&H000000&\3c&HFFFFFF&\shad0\fs60\b1}Glitch\N= A move that exploits a bug in the game's design
+Dialogue: 0,0:10:41.87,0:10:43.04,Sign_Basic,sign,0,0,0,,{\pos(534,684)\frz15.34\fnArial\b1\shad0\c&H392DBB&\3c&HFAFAFD&\bord4.5}Damage 1
+Dialogue: 0,0:10:46.54,0:10:49.55,Sign_Basic,sign,0,0,0,,{\pos(678.654,512.001)\org(680.001,512.001)\fscx97.246\fscy97.06\frz-17.256\fry6.181\frx3.516\fax0.058\fnTimes New Roman\fs24\b1\xbord5.83\ybord5.82\xshad0\yshad0\3c&H332A1A&}Hizutome
+Dialogue: 0,0:10:54.55,0:10:56.68,Sign_Basic,sign,0,0,0,,{\c&H110D05&\3c&H352E14&\shad0\fs30\bord12\frz329.1\pos(853.998,306)}Saiga
+Dialogue: 0,0:11:15.36,0:11:19.37,Sign_Basic,sign,0,0,0,,{\pos(960,810)\c&H000000&\3c&HFFFFFF&\shad0\fs60\b1}She means items left behind by the Ashura Kai \N(Not actually presents)
+Dialogue: 0,0:11:31.00,0:11:35.01,Sign_Basic,sign,0,0,0,,{\pos(678.654,512.001)\org(680.001,512.001)\fscx97.246\fscy97.06\frz-17.256\fry6.181\frx3.516\fax0.058\fnTimes New Roman\fs24\b1\xbord5.83\ybord5.82\xshad0\yshad0\3c&H686763&}Hizutome
+Dialogue: 0,0:11:35.01,0:11:37.80,Sign_Basic,sign,0,0,0,,{\pos(960,150)\fs42\b1\c&H151C12&\3c&HDDE2DF&\shad0}Important business until\Ntomorrow morning
+Dialogue: 0,0:11:35.01,0:11:37.80,Sign_Basic,sign,0,0,0,,{\c&H4A44C0&\3c&HD2D9D3&\b1\fnArial\shad0}Stay out!
+Dialogue: 0,0:14:11.25,0:14:20.26,Sign_Basic,sign,0,0,0,,{\an7\c&H473E49&\3c&HC0ECF0&\shad0\b1\fs54\b0}Bonus Unique Scenario\N{\c&HE2F2F9&\3c&H2F2525&\fnArial\b1}Vorpal Epic\N{\b0\c&HAF4DD4&}Items Needed\N{\c&HE7EB9A&}Receiver Delta\N Positioner Delta\N Transmitter Delta
+Dialogue: 0,0:14:37.82,0:14:41.53,Sign_Basic,sign,0,0,0,,{\fs30\shad0\c&H5B6262&\3c&HDEE6EB&\frz9.143\pos(402,408)}Iron Ruins of the Divinity
+Dialogue: 0,0:14:37.82,0:14:41.53,Sign_Basic,sign,0,0,0,,{\fs30\shad0\c&H5B6262&\3c&HDEE6EB&\frz9.143\pos(840,458.001)}Thirdrema
+Dialogue: 0,0:14:37.82,0:14:41.53,Sign_Basic,sign,0,0,0,,{\fs30\shad0\c&H5B6262&\3c&HDEE6EB&\frz9.143\pos(1448.001,294)}Prismatic Forest Grotto
+Dialogue: 0,0:14:37.82,0:14:41.53,Sign_Basic,sign,0,0,0,,{\fs30\shad0\c&H5B6262&\3c&HDEE6EB&\frz9.143\pos(1292.001,696)}Diremarsh Waste
+Dialogue: 0,0:14:37.82,0:14:41.53,Sign_Basic,sign,0,0,0,,{\fs30\shad0\c&H5B6262&\3c&HDEE6EB&\frz9.143\pos(1098,882)}Secondale
+Dialogue: 0,0:14:37.82,0:14:41.53,Sign_Basic,sign,0,0,0,,{\fs30\shad0\c&H5B6262&\3c&HDEE6EB&\frz9.143\pos(876,1035.999)}The Rampant Forest
+Dialogue: 0,0:15:39.33,0:15:48.59,Sign_Basic,sign,0,0,0,,{\an7\pos(60,60)\fs36\b1\c&HDEE3A4&\3c&H181812&\bord12\shad0}Evolved  Drill Piercer → Glowing Pierce\N Evolved  Skate Foot → Drift Step\N Evolved  Parry Protect → Split-Second React\N Evolved  Best Step → Moon Jumper\N Evolved  Hunger Wolf → Transient\N Evolved  Five-Boat Leap → Six-Boat Leap\N Evolved  Vorpal Blade Tech [Moon's Reflection]\N→ Vorpal Blade Tech [Moon's Reflection] v3\N Sharp Turn → Choice of skill\N Ignition Lv. 1\N Overheat Lv. 1\N Great Climb\N Duelism\N Nitro Gain Lv. 1\N Boundless Slash\N Assassin Pierce Lv. MAX\N Infight Lv. MAX
+Dialogue: 0,0:16:06.61,0:16:07.15,Sign_Basic,sign,0,0,0,,{\an7\pos(60,60)\fs36\b1\c&H9552B4&\3c&H181812&\bord12\shad0\u1}Use Items{\u0}\N{\c&HEBEAA2&}Tome of Truth: The Tombguard\N Clear Sky Skillbook\N Inventoria Key
+Dialogue: 0,0:16:07.15,0:16:09.03,Sign_Basic,sign,0,0,0,,{\fad(200,0)\an7\fnTimes New Roman\b1\fs48\c&HEDDF9F&\3c&H431D0F&\shad0}Tome of Truth: The Tombguard
+Dialogue: 0,0:16:13.99,0:16:21.25,Sign_Basic,sign,0,0,0,,{\an7\pos(60,60)\fs36\b1\c&HDEE3A4&\3c&H23221D&\bord12\shad0\fnTimes New Roman}Tome of Truth: The Tombguard\N{\b0\c&H76787A&}Chapter 1: The Birth of Wethermon the Tombguard\N Long, long ago, during the age called the Divinity, a trivial misunderstanding led Wethermon to tell a small lie in a moment of weakness that resulted in Setsuna's death. This is what caused Wethermon to pledge himself to eternal protection of her grave. Setsuna knew Wethermon all too well, and so in her moment of death, she made a wish: "As not even death will stop him from guarding my grave, I pray that someone will stop him."
+Dialogue: 0,0:16:26.97,0:16:31.97,Sign_Basic,sign,0,0,0,,{\an7\pos(60,60)\fs36\b1\c&HDEE3A4&\3c&H181812&\bord12\shad0}Clear Sky Skillbook\N{\b0\c&H80848D&}A digital record of sword techniques\Nleft by a Divinity-era swordsmaster.
+Dialogue: 0,0:17:38.58,0:17:42.42,Sign_Basic,sign,0,0,0,,{\fad(100,0)\an9\pos(1860,60)\fs36\b1\c&HDEE3A4&\3c&H181812&\bord12\shad0}Inventoria Key
+Dialogue: 0,0:17:46.13,0:17:59.77,Sign_Basic,sign,0,0,0,,{\an2\fs72\b1\c&HDEE3A4&\3c&H181812&\bord0\shad0\move(960,690,960,1038)}Inventoria Key
+Dialogue: 0,0:19:18.30,0:19:19.89,Sign_Basic,sign,0,0,0,,{\fad(0,275)\c&HD0A69A&\3c&HFFF7EB&\shad0\fs42}Non-Standard Specialized Armor\N {\c&HFFFFFF&\3c&HF9A9E4&\fs\b1}Adebane
+Dialogue: 0,0:19:26.31,0:19:29.31,Sign_Basic,sign,0,0,0,,{\c&HA79574&\3c&HFFF9E0&\shad0\fs42\move(582,561,732,561)\frz353.9\frx10\fry12}Non-Standard Armament: Wire\N{\fs60\c&HFFFFFF&\3c&HFFA6C9&}Keep-Out Wire
+Dialogue: 0,0:19:26.31,0:19:29.31,Sign_Basic,sign,0,0,0,,{\c&HA79574&\3c&HFFF9E0&\shad0\fs42\move(1452,654,1602,654)\frx18\fry20\frz355.1}Non-Standard Armament: Blade \N{\fs60\c&HFFFFFF&\3c&HFFA6C9&}Harbinger
+Dialogue: 0,0:21:52.00,0:21:58.00,Sign_Basic,sign,0,0,0,,{\pos(960,900)\bord0\shad0\fnTimes New Roman\b1\c&H000000&}New Chapter\N "Venturing Wolves, Be Ambitious."

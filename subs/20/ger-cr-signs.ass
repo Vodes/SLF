@@ -1,0 +1,100 @@
+﻿[Script Info]
+Title: Deutsch
+ScaledBorderAndShadow: yes
+Original Script: cr_de  [http://www.crunchyroll.com/user/cr_de]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+LayoutResX: 1920
+LayoutResY: 1080
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: TypePlaceholder,Arial Bold,57,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,0,0,8,30,30,60,1
+Style: TypePlaceholderBox,Arial Bold,66,&H00200960,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,3,6,0,8,30,30,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:33.57,0:01:37.37,TypePlaceholder,,0,0,0,,{\an1\fnVerdana bold\fscx90\shad6\fs+1\b1\fsp3\c&HF6FFFB&\4c&HC7961F&\bord0\fad(199,0)\3c&HFFFFFE&\pos(803.28,1000.32)}Eines jeden {\fnGeorgia bold\fscx100\alpha&HFF&\t(407,491,\alpha&H00&)\c&HC9951F&\4c&HFFFFFF&\bord3\3c&HFFFFFF&}Gegenwart {\fnVerdana bold\fscx90\alpha&HFF&\t(616,783,\alpha&H00&)\c&HF6FFFB&\4c&HC7961F&\bord0}und {\fnGeorgia bold\fscx100\alpha&HFF&\t(991,1075,\alpha&H00&)\c&HC9951F&\4c&HFFFFFF&\bord3\3c&HFFFFFF&}Zukunft
+Dialogue: 0,0:02:09.98,0:02:11.61,TypePlaceholder,,0,0,0,,{\fnTahoma\b0\fs+5\pos(960,601.5)\c&H878476&}Besitzrechte der Gegenstände übertragen.
+Dialogue: 0,0:04:23.49,0:04:27.50,TypePlaceholder,,0,0,0,,{\fnVerdana bold\bord6\pos(963,589.5)\c&HFFFFF8&\3c&H968606&}Drittlema
+Dialogue: 0,0:05:37.61,0:05:42.28,TypePlaceholder,,0,0,0,,{\fnGeorgia bold\an7\bord4.5\blur3\fs-3\pos(390,937.5)\c&H1B1414&\3c&HD4D86C&}Shangri-La-Frontier-Entwicklerstudio\N{\fs+2}Utopia Entertainment Software
+Dialogue: 0,0:05:58.71,0:06:01.72,TypePlaceholder,,0,0,0,,{\fnVerdana bold\an1\blur2.4\fad(157,0)\bord4.5\c&H020300&\3c&H797D7D&\fs-2\pos(120,372)}Chef der PR-Abteilung\N{\fnTimes New Roman bold\fs+6\c&HCCD0CC&\3c&H57141E&}Sakai Tsukuyogi
+Dialogue: 0,0:06:48.26,0:06:49.76,TypePlaceholder,,0,0,0,,{\fnImpact\fsp3\bord9\fs+2\c&H06090A&\3c&H8FE8EF&}Traditionelle chinesische Magenmedizin
+Dialogue: 0,0:07:13.58,0:07:16.58,TypePlaceholder,,0,0,0,,{\fnVerdana bold\an3\blur2.4\fad(163,0)\bord4.5\c&H000000&\3c&HA09C94&\fs-2\pos(1798.5,394.5)}Shangri-La Frontier\NExecutive Producer\N{\fnTimes New Roman bold\fs+6\c&HC9BFC3&\3c&H604D66&}Ritsu Amachi
+Dialogue: 0,0:07:16.58,0:07:17.79,TypePlaceholder,,0,0,0,,{\fnVerdana bold\an2\bord0.3\blur3\fs-4\c&HF5F4F2&\pos(964.5,294)\t(355,356,\c&H50FA83&\3c&H50FA83&\blur9)\frz13.84}Bitte Firmenausweis auflegen
+Dialogue: 0,0:07:39.77,0:07:41.65,TypePlaceholder,,0,0,0,,{\fnVerdana bold\fax0.05\fscx90\fsp6\fs+3\c&H878180&\pos(1053,537)\frz356}Lesesaal für Originaltexte {Ich wusste vor eineinhalb Jahren nicht, warum der so heißt und weiß es heute immer noch nicht ^^}
+Dialogue: 0,0:08:00.00,0:08:03.00,TypePlaceholder,,0,0,0,,{\fnVerdana bold\an1\blur2.4\fad(157,0)\bord4.5\c&H020300&\3c&H8B8380&\fs-2\pos(114,357)}Gründerin von Utopia\NWorld Creative Administrator\N{\fnTimes New Roman bold\fs+6\c&HB9B2B2&\3c&H2A2513&}Tsukuyo Tsukuri
+Dialogue: 0,0:08:20.44,0:08:24.23,TypePlaceholder,,0,0,0,,{\fnVerdana\bord6\fs+0.5\fad(287,0)\pos(964.5,687)}Glitch\N= Trick, der Bugs oder Schlupflöcher in der Spielmechanik ausnutzt.
+Dialogue: 0,0:10:41.83,0:10:43.04,TypePlaceholder,,0,0,0,,{\fnImpact\bord4.5\fad(163,0)\fs+3\fsp3\frz11.84\pos(246,324)\c&H4C36CE&\3c&HF0FAFF&}Schaden: 1
+Dialogue: 0,0:10:46.54,0:10:49.55,TypePlaceholderBox,,0,0,0,,{\fnGeorgia bold\fs-5\fax0.2\c&HCACABB&\3c&H312D1B&\frz339.2\t(0,0,\fscx115\fscy115)\move(699,387,661.5,469.5,21,2982)}Hizutome
+Dialogue: 0,0:10:54.55,0:10:56.68,TypePlaceholder,,0,0,0,,{\fnTimes New Roman bold\bord9\c&H22190C&\3c&H33271B&\frz328.2\pos(774,525)}Saiga
+Dialogue: 0,0:11:15.36,0:11:19.37,TypePlaceholder,,0,0,0,,{\fnVerdana\bord6\fs+0.5\fad(0,0)\pos(960,712.5)}Die Items, die das Ashura-Bündnis zurückgelassen hat.\N{\fs-1}(Keine Geschenke)
+Dialogue: 0,0:11:31.00,0:11:35.01,TypePlaceholderBox,,0,0,0,,{\fnGeorgia bold\fs-5\fax0.2\c&HB3B9B0&\3c&H6C6869&\frz339.4\pos(699,387)}Hizutome
+Dialogue: 0,0:11:35.01,0:11:37.89,TypePlaceholder,,0,0,0,,{\fnImpact\b0\fsp9\fs+6\bord12\c&H1A1A18&\3c&HDEE3E0&}Wegen wichtiger Angelegenheit\Nbis morgen Früh\N{\c&H3A36B7&}keine Besucher erlaubt!
+Dialogue: 0,0:14:11.25,0:14:20.26,TypePlaceholderBox,,0,0,0,,{\p1\c&H252525&\3c&HD9DC65&\blur3\bord9}m 0 0 l 1050 0 l 1050 555 l 0 555
+Dialogue: 1,0:14:11.25,0:14:20.26,TypePlaceholderBox,,0,0,0,,{\p1\c&H1A1922&\3c&HD9DC65&\bord0\pos(960,379.5)}m 0 0 l 570 0 l 570 210 l 0 210
+Dialogue: 1,0:14:11.25,0:14:20.26,TypePlaceholderBox,,0,0,0,,{\fnVerdana bold\c&H252323&\3c&HC4F4F5&\pos(960,84)}Einzigartiges Szenario EX
+Dialogue: 2,0:14:11.25,0:14:20.26,TypePlaceholder,,0,0,0,,{\pos(960,180)\fnImpact\b0\fsp6\fs+4\c&HC4F4F5&}Das Epos der Killerkaninchen\N\N{\fnVerdana bold\fsp0\fs-2\c&HB64BDE&}Benötigte Gegenstände\N\N{\fs-1\c&HDADAA0&}Empfangsgerät Δ\NKoordinatengerät Δ\NSendegerät Δ
+Dialogue: 0,0:14:37.82,0:14:41.53,TypePlaceholder,,0,0,0,,{\fnVerdana bold\fs-3\bord6\an2\frz9.086\c&H66676C&\3c&HDCE1E5&\pos(1454.67,289.17)}Bunt schillernde Waldgrotte
+Dialogue: 0,0:14:37.82,0:14:41.53,TypePlaceholder,,0,0,0,,{\fnVerdana bold\fs-3\bord6\an2\frz9.086\c&H66676C&\3c&HDCE1E5&\pos(1278,681)}Sumpfödnis der Qualen
+Dialogue: 0,0:14:37.82,0:14:41.53,TypePlaceholder,,0,0,0,,{\fnVerdana bold\fs-3\bord6\an2\frz9.086\c&H66676C&\3c&HDCE1E5&\pos(1086,880.5)}Sekundir
+Dialogue: 0,0:14:37.82,0:14:41.53,TypePlaceholder,,0,0,0,,{\fnVerdana bold\fs-3\bord6\an2\c&H66676C&\3c&HDCE1E5&\frz11.51\pos(864,1035)}Wild Wuchernder Wald
+Dialogue: 0,0:14:37.82,0:14:41.53,TypePlaceholder,,0,0,0,,{\fnVerdana bold\fs-3\bord6\an2\frz9.086\c&H66676C&\3c&HDCE1E5&\pos(838.5,462)}Drittlema
+Dialogue: 0,0:14:37.82,0:14:41.53,TypePlaceholder,,0,0,0,,{\fnVerdana bold\fs-3\bord6\an2\frz9.086\c&H66676C&\3c&HDCE1E5&\pos(456,397.5)}Eisenruinen des\NGöttlichen Zeitalters
+Dialogue: 0,0:15:39.33,0:15:48.59,TypePlaceholder,,0,0,0,,{\fnImpact\fax-0.3\fs+4\bord5.1\an2\c&HC2C242&\3c&HE8EBF1&\move(1336.5,357,1336.5,-252,24,9241)}Sunraku
+Dialogue: 0,0:15:39.33,0:15:48.59,TypePlaceholder,,0,0,0,,{\fnVerdana\c&HDBDBD5&\fs-1\move(1350,580.5,1350,-49.5,24,9241)}Söldner (beidhändig)
+Dialogue: 0,0:15:39.33,0:15:48.59,TypePlaceholder,,0,0,0,,{\fnTahoma\c&HA1A09C&\fs-3\move(1701,577.5,1701,-48,24,9241)}Verbleibende\NFähigkeiten-Pkt.
+Dialogue: 0,0:15:39.33,0:15:48.59,TypePlaceholder,,0,0,0,,{\fnTahoma\fs-2\c&HEFF299&\move(1464,630,1464,1.5,24,9241)}Geld
+Dialogue: 0,0:15:39.33,0:15:48.59,TypePlaceholderBox,,0,0,0,,{\p1\c&H1A191A&\3c&HE7E23D&\blur3\bord9\pos(498,39)}m 0 0 l 900 0 l 900 870 l 0 870
+Dialogue: 1,0:15:39.33,0:15:48.59,TypePlaceholderBox,,0,0,0,,{\an7\fnTahoma\b0\fs-5\bord9\c&H1A191A&\3c&H89EFFA&\pos(66,61.5)}Evolution
+Dialogue: 1,0:15:39.33,0:15:48.59,TypePlaceholderBox,,0,0,0,,{\an7\fnTahoma\b0\fs-5\bord9\c&H1A191A&\3c&H89EFFA&\pos(66,124.5)}Evolution
+Dialogue: 1,0:15:39.33,0:15:48.59,TypePlaceholderBox,,0,0,0,,{\an7\fnTahoma\b0\fs-5\bord9\c&H1A191A&\3c&H89EFFA&\pos(66,187.5)}Evolution
+Dialogue: 1,0:15:39.33,0:15:48.59,TypePlaceholderBox,,0,0,0,,{\an7\fnTahoma\b0\fs-5\bord9\c&H1A191A&\3c&H89EFFA&\pos(66,249)}Evolution
+Dialogue: 1,0:15:39.33,0:15:48.59,TypePlaceholderBox,,0,0,0,,{\an7\fnTahoma\b0\fs-5\bord9\c&H1A191A&\3c&H89EFFA&\pos(66,309)}Evolution
+Dialogue: 1,0:15:39.33,0:15:48.59,TypePlaceholderBox,,0,0,0,,{\an7\fnTahoma\b0\fs-5\bord9\c&H1A191A&\3c&H89EFFA&\pos(66,370.5)}Evolution
+Dialogue: 1,0:15:39.33,0:15:48.59,TypePlaceholderBox,,0,0,0,,{\an7\fnTahoma\b0\fs-5\bord9\c&H1A191A&\3c&H89EFFA&\pos(66,430.5)}Evolution
+Dialogue: 1,0:15:39.33,0:15:48.59,TypePlaceholderBox,,0,0,0,,{\an7\fnTahoma\b0\fs-5\bord9\c&H1A191A&\3c&H89EFFA&\pos(66,490.5)}Evolution
+Dialogue: 1,0:15:39.33,0:15:48.59,TypePlaceholderBox,,0,0,0,,{\an7\fnTahoma\b0\fs-5\bord9\c&H1A191A&\3c&H89EFFA&\pos(66,550.5)}\h\h\hNEU\h\h\h
+Dialogue: 1,0:15:39.33,0:15:48.59,TypePlaceholderBox,,0,0,0,,{\an7\fnTahoma\b0\fs-5\bord9\c&H1A191A&\3c&H89EFFA&\pos(66,613.5)}\h\h\hNEU\h\h\h
+Dialogue: 1,0:15:39.33,0:15:48.59,TypePlaceholderBox,,0,0,0,,{\an7\fnTahoma\b0\fs-5\bord9\c&H1A191A&\3c&H89EFFA&\pos(66,673.5)}\h\h\hNEU\h\h\h
+Dialogue: 1,0:15:39.33,0:15:48.59,TypePlaceholderBox,,0,0,0,,{\an7\fnTahoma\b0\fs-5\bord9\c&H1A191A&\3c&H89EFFA&\pos(66,735)}\h\h\hNEU\h\h\h
+Dialogue: 1,0:15:39.33,0:15:48.59,TypePlaceholderBox,,0,0,0,,{\an7\fnTahoma\b0\fs-5\bord9\c&H1A191A&\3c&H89EFFA&\pos(66,795)}\h\h\hNEU\h\h\h
+Dialogue: 1,0:15:39.33,0:15:48.59,TypePlaceholderBox,,0,0,0,,{\an7\fnTahoma\b0\fs-5\bord9\c&H1A191A&\3c&H89EFFA&\pos(66,855)}\h\h\hNEU\h\h\h
+Dialogue: 1,0:15:39.33,0:15:48.59,TypePlaceholder,,0,0,0,,{\an7\fs-1\fnTahoma\c&HE0EA9C&\pos(195,54)}Bohrstecher → Glühender Dorn
+Dialogue: 1,0:15:39.33,0:15:48.59,TypePlaceholder,,0,0,0,,{\an7\fs-1\fnTahoma\c&HE0EA9C&\pos(195,117)}Schlittschuhfüße → Driftschritt
+Dialogue: 1,0:15:39.33,0:15:48.59,TypePlaceholder,,0,0,0,,{\an7\fs-1\fnTahoma\c&HE0EA9C&\pos(195,177)}Parierschutz → Momentaner Mikiri
+Dialogue: 1,0:15:39.33,0:15:48.59,TypePlaceholder,,0,0,0,,{\an7\fs-1\fnTahoma\c&HE0EA9C&\pos(195,238.5)}Sicherer Tritt → Mondspringer
+Dialogue: 1,0:15:39.33,0:15:48.59,TypePlaceholder,,0,0,0,,{\an7\fs-1\fnTahoma\c&HE0EA9C&\pos(195,300)}Hungernder Wolf → Einsamer Wolf
+Dialogue: 1,0:15:39.33,0:15:48.59,TypePlaceholder,,0,0,0,,{\an7\fs-1\fnTahoma\c&HE0EA9C&\fscx88\pos(195,363)}Fünf-Schiffe-Sprung → Sechs-Schiffe-Sprung
+Dialogue: 1,0:15:39.33,0:15:48.59,TypePlaceholder,,0,0,0,,{\an7\fs-1\fnTahoma\c&HE0EA9C&\fscx64\pos(195,421.5)}Mondspiegelung im Wasser → Mondspiegelung im Wasser v3
+Dialogue: 1,0:15:39.33,0:15:48.59,TypePlaceholder,,0,0,0,,{\an7\fs-1\fnTahoma\c&HE0EA9C&\pos(195,483)}Scharfe Wende → wählbar
+Dialogue: 1,0:15:39.33,0:15:48.59,TypePlaceholder,,0,0,0,,{\an7\fs-1\fnTahoma\c&HE0EA9C&\pos(195,543)}Zündung Lv. 1
+Dialogue: 1,0:15:39.33,0:15:48.59,TypePlaceholder,,0,0,0,,{\an7\fs-1\fnTahoma\c&HE0EA9C&\pos(195,607.5)}Überhitzen Lv. 1
+Dialogue: 1,0:15:39.33,0:15:48.59,TypePlaceholder,,0,0,0,,{\an7\fs-1\fnTahoma\c&HE0EA9C&\pos(195,664.5)}Großer Kletterer
+Dialogue: 1,0:15:39.33,0:15:48.59,TypePlaceholder,,0,0,0,,{\an7\fs-1\fnTahoma\c&HE0EA9C&\pos(195,724.5)}Dualismus
+Dialogue: 1,0:15:39.33,0:15:48.59,TypePlaceholder,,0,0,0,,{\an7\fs-1\fnTahoma\c&HE0EA9C&\pos(195,784.5)}Nitro-Anstieg Lv. 1
+Dialogue: 1,0:15:39.33,0:15:48.59,TypePlaceholder,,0,0,0,,{\an7\fs-1\fnTahoma\c&HE0EA9C&\pos(195,849)}Endloser Schlitzer
+Dialogue: 0,0:16:07.15,0:16:09.03,TypePlaceholder,,0,0,0,,{\fnTimes New Roman Bold\fad(200,0)\bord9\c&HD2CD8E&\3c&H301D19&}Buch der Weltwahrheiten: Der Grabwächter
+Dialogue: 0,0:16:13.99,0:16:21.25,TypePlaceholderBox,,0,0,0,,{\p1\c&H303339&\3c&HE3E180&\blur3\bord9\pos(960,75)}m 0 0 l 1200 0 l 1200 780 l 0 780
+Dialogue: 1,0:16:13.99,0:16:21.25,TypePlaceholder,,0,0,0,,{\an7\fnTimes New Roman bold\c&HE3E180&\fs+1\pos(379.5,87)}Buch der Weltwahrheiten: Der Grabwächter\N{\fnTimes New Roman\fs-1.5\c&H74777D&}Kapitel 1: Hintergrund der Geburt von Grabwächter\NWezaemon\NVor langer Zeit, in einer Epoche, die als Göttliches Zeitalter\Nbezeichnet wird, starb Setsuna aufgrund einer\Nunbedeutenden Meinungsverschiedenheit und einer kleinen\NLüge, die Wezaemon aus geistiger Verwirrung erzählt hatte.\NDadurch entschloss er sich, für sehr lange Zeit ein Dasein\Nals Grabwächter zu fristen.\NDa Setsuna Wezaemons Wesen gut kannte, wusste sie, dass\Ner sich nicht mal durch den Tod davon abbringen lassen\Nwürde. Also wünschte sie sich, als sie starb, dass jemand ihn\Naufhalten möge, und so wurde „Setsuna ferner Tage“\Ngeboren.
+Dialogue: 0,0:16:26.97,0:16:31.97,TypePlaceholder,,0,0,0,,{\fnVerdana bold\fs-2\bord9\c&HE2E4A5&\3c&H2E353D&\pos(313.5,729)}Geheimnisse des\NBlauer-Himmel-Stils\N{\fnTahoma\c&H7C8189&}Ein Speichermedium mit den\NGeheimnissen einer himmlischen\NSchwertkunst von einem Meister\Naus dem Göttlichen Zeitalter.
+Dialogue: 0,0:17:38.62,0:17:42.42,TypePlaceholder,,0,0,0,,{\fnVerdana bold\bord9\fs-3\fax-0.15\c&HCCCA94&\3c&H2A1C0F&\frz2.649\pos(1518,379.5)}Speicherschlüssel Inventoria
+Dialogue: 0,0:17:46.13,0:17:59.77,TypePlaceholder,,0,0,0,,{\fnVerdana bold\fs+2\c&HF5F4A1&\move(960,595.5,960,937.5,27,13624)}Speicherschlüssel Inventoria
+Dialogue: 0,0:18:15.53,0:18:22.16,TypePlaceholder,,0,0,0,,{\fnVerdana bold\bord9\fs-3\fax-0.05\c&HCCCA94&\3c&H2A1C0F&\frz0.5636\pos(1317,499.5)}Speicherschlüssel Inventoria
+Dialogue: 0,0:19:26.31,0:19:29.31,TypePlaceholderBox,,0,0,0,,{\fnVerdana bold\fs-3\pos(454.5,43.5)\c&HAC987A&\3c&HFBFEE6&}Nicht genormte Waffe: Stacheldraht
+Dialogue: 0,0:19:26.31,0:19:29.31,TypePlaceholder,,0,0,0,,{\fnVerdana bold\bord9\fs+4\pos(454.5,102)\c&HFDFAF1&\3c&HFB99C8&}Keepout
+Dialogue: 0,0:19:26.31,0:19:29.31,TypePlaceholderBox,,0,0,0,,{\fnVerdana bold\fs-3\c&HAC987A&\3c&HFBFEE6&\pos(1482,42)}Nicht genormte Waffe: Langschwert
+Dialogue: 0,0:19:26.31,0:19:29.31,TypePlaceholder,,0,0,0,,{\fnVerdana bold\bord9\fs+4\c&HFDFAF1&\3c&HFB99C8&\pos(1480.5,97.5)}Herold
+Dialogue: 0,0:21:52.00,0:21:58.00,TypePlaceholder,,0,0,0,,{\fnTimes New Roman bold\fs+2\pos(960,684)}Neues Kapitel:\N{\fs+2}„Wandernde Wölfe, seid ehrgeizig“
+Dialogue: 0,0:21:59.84,0:22:03.84,TypePlaceholder,Credits,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\pos(960,45)}Übersetzung: Markus Lange
+Dialogue: 0,0:21:59.84,0:22:03.84,TypePlaceholder,Credits,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\an2\pos(960,1035)}Spotting: Michael Gohl
+Dialogue: 0,0:22:04.34,0:22:08.31,TypePlaceholder,Credits,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\pos(960,45)}Revision & Typesetting: Jacqueline Philippi
+Dialogue: 0,0:22:04.34,0:22:08.31,TypePlaceholder,Credits,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\an2\pos(960,1035)}Qualitätskontrolle: Konrad Walter
+Dialogue: 0,0:22:08.85,0:22:12.81,TypePlaceholder,Credits,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\pos(960,45)}Projektleitung: Tobias Philippi
+Dialogue: 0,0:23:27.97,0:23:35.23,TypePlaceholder,Types,0,0,0,,{\fnComic Sans MS Bold\fs+4\bord0\shad6\fs+6\c&H7CEDEF&\4c&H51CBDA&\pos(960,9)}Sh{\c&HC297F0&\4c&H966CD6&}a{\c&H679FF8&\4c&H3171D7&}n{\c&HDE72BD&\4c&HB64897&}F{\c&H5B63E6&\4c&H484FC2&}ro
+Dialogue: 0,0:23:31.76,0:23:35.23,TypePlaceholder,Types,0,0,0,,{\fnComic Sans MS BOld\fad(493,0)\fs+4\fax-0.15\an3\c&HFAFFFE&\3c&H376777&\4c&H1C3F4D&\shad3.9\bord3.9\pos(1831.5,859.5)}#25 „Grabbesuch im Verborgenen Blumengarten“-Speedrun
+Dialogue: 0,0:23:32.35,0:23:35.23,TypePlaceholder,Types,0,0,0,,{\c&H515655&\fnComic Sans MS Bold\fad(333,0)\fs+2\bord0\frz43.99\pos(1447.5,118.5)}Mini
+Dialogue: 0,0:23:35.23,0:25:10.32,TypePlaceholder,Types,0,0,0,,{\fnComic Sans MS BOLD\fad(0,0)\fs+2\fax-0.15\an9\c&HFFFEFF&\3c&H285A75&\4c&H0B1C25&\shad3.9\bord3.9\pos(1831.5,117)}ShanFro-Theater

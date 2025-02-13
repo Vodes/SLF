@@ -1,0 +1,85 @@
+﻿[Script Info]
+Title: English (US)
+ScaledBorderAndShadow: yes
+Original Script: kodansha  [http://www.crunchyroll.com/user/kodansha]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+LayoutResX: 1920
+LayoutResY: 1080
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+Style: Sign_Basic,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,6,3,2,30,30,54,1
+Style: Ep_Title,Arial,60,&H00FFFFFF,&H000000FF,&H00000000,&H00BE9829,-1,0,0,0,100,100,0,0,1,0,6,1,132,30,12,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:23:42.98,0:23:50.24,Sign_Basic,sign,0,0,0,,{\an8\fnArial\b1\fs90\c&H7CEDEF&\shad0\bord0}S{\c&H639FF5&}L{\c&HE171BE&}F {\bord6\c&H4C4F52&\3c&HF0F5F5&}Mini
+Dialogue: 0,0:23:43.78,0:23:46.78,Default,Kids,0,0,0,,{\an8}{\i1}SLF{\i0} Theater!
+Dialogue: 0,0:23:46.78,0:23:50.24,Sign_Basic,sign,0,0,0,,{\fad(475,0)\an1\i1\b1\c&HF1FBFD&\3c&H3D717E&\bord4.5\pos(522,870)}News: It's Morning, Indeed!
+Dialogue: 0,0:23:47.57,0:23:48.99,Default,Emul,0,0,0,,{\an8}{\an8}Mini!
+Dialogue: 0,0:23:50.24,0:26:43.41,Sign_Basic,sign,0,0,0,,{\an7\i1\b1\c&HF1FBFD&\3c&H3D717E&\bord4.5\fs60\pos(90,120)}SLF Theater
+Dialogue: 0,0:23:50.74,0:23:52.91,Default,Emul,0,0,0,,Well, good morning, all!
+Dialogue: 0,0:23:52.91,0:23:56.37,Default,Emul,0,0,0,,I'm the peerless vorpal \Nbunny of Rabituza, Emul!
+Dialogue: 0,0:23:56.62,0:24:00.50,Default,Emul,0,0,0,,I'm going to tell you about all \Nthe news I've seen and heard!
+Dialogue: 0,0:24:01.17,0:24:02.96,Sign_Basic,sign,0,0,0,,{\c&H49159C&\bord0\shad0\b1}Horror! Undulating {\c&HFFFFFF&}White {\c&H49159C&}Cloth Ghost!!
+Dialogue: 0,0:24:02.96,0:24:06.09,Default,Emul,0,0,0,,A ghost story so early in the morning?!
+Dialogue: 0,0:24:06.09,0:24:10.47,Default,Emul,0,0,0,,The Thirdrema urban legend, \Nthe White Cloth Ghost, has been sighted!
+Dialogue: 0,0:24:10.47,0:24:15.77,Default,Emul,0,0,0,,It was seen jumping about on the \Nrooftops, its body undulating all over!
+Dialogue: 0,0:24:15.77,0:24:17.81,Default,Emul,0,0,0,,What a terrifying story!
+Dialogue: 0,0:24:17.81,0:24:20.52,Default,Emul,0,0,0,,It's so awful that we don't \Nknow what it could be!
+Dialogue: 0,0:24:20.52,0:24:24.94,Default,Emul,0,0,0,,But there was a vorpal bunny who \Nspotted the White Cloth Ghost!
+Dialogue: 0,0:24:24.94,0:24:27.07,Default,Emul,0,0,0,,I got his story!
+Dialogue: 0,0:24:27.07,0:24:47.17,Sign_Basic,sign,0,0,0,,{\pos(1605.999,314.001)\an8\fs36\b1\c&H000000&\bord0\shad0}Horror! Undulating {\c&HFFFFFF&\bord3}White {\bord0\c&H000000&}Cloth Ghost!!
+Dialogue: 0,0:24:27.57,0:24:31.32,Default,Peatz,0,0,0,,Oh, that was the thing I sold to that bird-man.
+Dialogue: 0,0:24:31.66,0:24:34.79,Default,Peatz,0,0,0,,{\pos(960,795)}So I guess it had to be that bird-man...
+Dialogue: 0,0:24:34.79,0:24:38.83,Default,Peatz,0,0,0,,{\pos(960,795)}Which means you had to be \Nthere with him, right, Sis?
+Dialogue: 0,0:24:38.83,0:24:42.09,Default,Peatz,0,0,0,,{\pos(960,795)}Oh? Well, I'd bet the bubbling \Npart would've been because
+Dialogue: 0,0:24:42.09,0:24:47.17,Default,Peatz,0,0,0,,{\pos(960,795)}the bird-man was jumping and you \Nwere under the cloth panicking—
+Dialogue: 0,0:24:47.17,0:24:50.13,Default,Emul,0,0,0,,There's no need to tell them all that!
+Dialogue: 0,0:24:47.17,0:25:07.82,Sign_Basic,sign,0,0,0,,{\pos(960,639.999)\fnTimes New Roman\c&H000000&\bord0\shad0\b1}We are experiencing technical difficulties
+Dialogue: 0,0:24:50.13,0:24:52.47,Default,Peatz,0,0,0,,Hey! Sis, you hit me in the head!
+Dialogue: 0,0:24:52.47,0:24:54.64,Default,Emul,0,0,0,,Besides, I wasn't panicking!
+Dialogue: 0,0:24:54.64,0:24:57.18,Default,Emul,0,0,0,,Sunraku-san just said "It would be \Nfaster to run along the rooftops"
+Dialogue: 0,0:24:57.39,0:25:01.77,Default,Emul,0,0,0,,and then he did a somersault, so I \Nwas just trying to get my balance!
+Dialogue: 0,0:25:01.77,0:25:03.36,Default,Peatz,0,0,0,,So it {\i1}was{\i0} you, Sis!
+Dialogue: 0,0:25:03.36,0:25:06.57,Default,Emul,0,0,0,,Vorpal Sister Punch! Indeed!
+Dialogue: 0,0:25:08.24,0:25:10.07,Default,Emul,0,0,0,,We had a little bit of white noise there.
+Dialogue: 0,0:25:10.07,0:25:13.87,Default,Emul,0,0,0,,The rabbit we spoke to is \Nno longer fit to be shown.
+Dialogue: 0,0:25:13.87,0:25:15.03,Default,Peatz,0,0,0,,How come?!
+Dialogue: 0,0:25:15.24,0:25:16.83,Default,Emul,0,0,0,,Now, our next news item!
+Dialogue: 0,0:25:16.83,0:25:18.71,Sign_Basic,sign,0,0,0,,{\c&H000000&\shad0\bord0\b1\pos(945.999,405.999)\frz6.918}The Rabituza famed {\bord6\c&H49F0F8&\3c&H3283D0&}Vorpal Carrot {\c&H4938CF&\3c&H453274&}Bumper Crop
+Dialogue: 0,0:25:18.75,0:25:21.50,Default,Emul,0,0,0,,Th-This is incredible!
+Dialogue: 0,0:25:21.50,0:25:23.84,Default,Emul,0,0,0,,We have a vorpal carrot bumper crop!
+Dialogue: 0,0:25:23.84,0:25:26.25,Default,Emul,0,0,0,,This is absolutely fabulous!
+Dialogue: 0,0:25:26.25,0:25:28.80,Default,Emul,0,0,0,,We have Sunraku-san on the scene right now!
+Dialogue: 0,0:25:28.80,0:25:30.93,Default,Emul,0,0,0,,We'll put you right through to him!
+Dialogue: 0,0:25:30.93,0:25:33.76,Default,Emul,0,0,0,,Sunraku-san! Sunraku-san!
+Dialogue: 0,0:25:33.76,0:25:35.89,Default,Emul,0,0,0,,How are things going over there?
+Dialogue: 0,0:25:35.89,0:25:38.18,Default,Emul,0,0,0,,Are the carrots looking wonderful?!
+Dialogue: 0,0:25:39.10,0:25:41.19,Default,Sunraku,0,0,0,,This is Sunraku on the scene.
+Dialogue: 0,0:25:41.19,0:25:43.81,Default,Emul,0,0,0,,Wh-What's going on over there?!
+Dialogue: 0,0:25:43.81,0:25:45.94,Default,Sunraku,0,0,0,,What? What was that?
+Dialogue: 0,0:25:45.94,0:25:48.57,Default,Emul,0,0,0,,What's going on over there?!
+Dialogue: 0,0:25:48.57,0:25:53.70,Default,Sunraku,0,0,0,,Well, as it happens, this Giga Armored \NDeath Carrot-Eater showed up...
+Dialogue: 0,0:25:53.70,0:25:56.62,Default,Emul,0,0,0,,Giga Armored Death Carrot-Eater?!
+Dialogue: 0,0:25:56.62,0:26:01.21,Default,Sunraku,0,0,0,,A Giga Armored Death Carrot-Eater \Nis attacking the carrot patch!
+Dialogue: 0,0:26:01.21,0:26:03.75,Default,Emul,0,0,0,,M-My carrots!
+Dialogue: 0,0:26:03.75,0:26:06.21,Default,Emul,0,0,0,,What's happening to my carrots?!
+Dialogue: 0,0:26:06.21,0:26:07.25,Default,Sunraku,0,0,0,,What's that?!
+Dialogue: 0,0:26:07.25,0:26:10.30,Default,Emul,0,0,0,,My carrots!
+Dialogue: 0,0:26:10.30,0:26:11.42,Default,Sunraku,0,0,0,,I don't give a crap!
+Dialogue: 0,0:26:11.42,0:26:15.18,Default,Sunraku,0,0,0,,I'm fighting the damn Giga Armored \NDeath Carrot-Eater right now!
+Dialogue: 0,0:26:16.26,0:26:18.64,Default,Sunraku,0,0,0,,Sounds like a Mongolian Death Worm to me!
+Dialogue: 0,0:26:18.64,0:26:21.52,Default,Sunraku,0,0,0,,I'll split you down the back \Nand make braised eel outta you!
+Dialogue: 0,0:26:22.73,0:26:25.56,Default,Emul,0,0,0,,I-I must take action!
+Dialogue: 0,0:26:25.56,0:26:26.73,Default,Emul,0,0,0,,My carrots...
+Dialogue: 0,0:26:26.73,0:26:30.86,Default,Emul,0,0,0,,I mean, the vorpal carrots must be \Nprotected for the sake of all Rabituzans!
+Dialogue: 0,0:26:30.86,0:26:33.28,Default,Emul,0,0,0,,I must rush to the scene at once!
+Dialogue: 0,0:26:33.65,0:26:35.20,Default,Emul,0,0,0,,That's all for today!
+Dialogue: 0,0:26:35.20,0:26:36.53,Default,Emul,0,0,0,,Let us even meet again tomorrow!
+Dialogue: 0,0:26:37.74,0:26:43.00,Default,Emul,0,0,0,,What even is a Giga Armored \NDeath Carrot-Eater?!

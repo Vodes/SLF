@@ -13,7 +13,7 @@ STRIP_TAGS_REGEX = r'\{[^}]*\}'
 
 REMOVE_HEADERS = [("Original Translation", None), ("Original Editing", None), ("Original Timing", None), ("Synch Point", None), ("Script Updated By", None), ("Update Details", None), ("Timer", None)]
 
-episode = "18"
+episode = "20"
 
 Setup(episode, None, clean_work_dirs=True, debug=False)
 
