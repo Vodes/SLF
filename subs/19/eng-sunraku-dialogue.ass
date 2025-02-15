@@ -1,0 +1,318 @@
+﻿[Script Info]
+Title: English (US)
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+LayoutResX: 1920
+LayoutResY: 1080
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Corinthian Medium,78,&H00FAFAFA,&H000019FF,&H00000000,&HC4000000,-1,0,0,0,100,100,0,0,1,3.75,1.8,2,150,150,63,1
+Style: Default Alt,Corinthian Medium,78,&H00FAFAFA,&H000019FF,&H0081393C,&HC40D0D0D,-1,0,0,0,100,100,0,0,1,3.75,1.8,2,150,150,63,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.98,0:00:00.98,Default,chptr,0,0,0,,{OP}
+Dialogue: 0,0:01:30.99,0:01:30.99,Default,chptr,0,0,0,,{Part A}
+Dialogue: 0,0:11:25.00,0:11:25.00,Default,chptr,0,0,0,,{Part B}
+Dialogue: 0,0:22:12.98,0:22:12.98,Default,chptr,0,0,0,,{ED}
+Dialogue: 100,0:01:37.54,0:01:40.08,Default,Sunraku,0,0,0,,Either on the Clear Sky Conquest action
+Dialogue: 100,0:01:40.08,0:01:42.58,Default,Sunraku,0,0,0,,or your oath to guard that grave forever and ever!
+Dialogue: 100,0:01:43.54,0:01:47.13,Default,Sunraku,0,0,0,,On behalf of Vash, I'm putting you down!
+Dialogue: 100,0:01:47.34,0:01:48.59,Default,Wethermon,0,0,0,,Sky Clear!
+Dialogue: 100,0:01:49.38,0:01:51.80,Default,Sunraku,0,0,0,,Crescent Vorpal!
+Dialogue: 100,0:01:58.18,0:02:00.43,Default,Sunraku,0,0,0,,Go to sleep already...
+Dialogue: 100,0:02:00.43,0:02:03.19,Default,Sunraku,0,0,0,,Wethermon the Tombguard!
+Dialogue: 100,0:02:08.48,0:02:10.49,Default,Sunraku,0,0,0,,You were obscenely strong,{You were really strong...}
+Dialogue: 100,0:02:10.49,0:02:13.82,Default,Sunraku,0,0,0,,but I've seen enough of your attacks to last a lifetime...{But I've seen enough of your attacks for a lifetime...}
+Dialogue: 100,0:02:14.03,0:02:16.99,Default,Sunraku,0,0,0,,And your blade won't reach me ever again.
+Dialogue: 100,0:02:19.08,0:02:23.08,Default,Sunraku,0,0,0,,I've figured out your ultimate strike.{The ultimate strike has been solved.}
+Dialogue: 100,0:02:26.08,0:02:27.34,Default,Wethermon,0,0,0,,Brilliant.
+Dialogue: 100,0:02:30.25,0:02:34.34,Default,Wethermon,0,0,0,,You have indeed surpassed it.{You have broken through my ultimate strike.}
+Dialogue: 100,0:02:36.68,0:02:41.06,Default,Wethermon,0,0,0,,As "Clear Sky" transformed into my ultimate, "Sky Clear"...
+Dialogue: 100,0:02:43.06,0:02:46.81,Default,Wethermon,0,0,0,,So, again, do the words transform... to describe your talent.
+Dialogue: 100,0:02:58.28,0:03:00.24,Default,Wethermon,0,0,0,,"It is as clear as a cloudless sky."
+Dialogue: 100,0:03:07.17,0:03:10.42,Default,Sunraku,0,0,0,,Wait, was that a stupid pun?
+Dialogue: 100,0:03:13.34,0:03:14.92,Default,Sunraku,0,0,0,,Er, that just slipped out.
+Dialogue: 100,0:03:22.89,0:03:26.64,Default,Wethermon,0,0,0,,Setsuna often said the same thing, as well.{Setsuna said that to me often, as well.}
+Dialogue: 100,0:03:32.94,0:03:34.99,Default,Wethermon,0,0,0,,I say it again. Your talent is clear.
+Dialogue: 100,0:03:35.74,0:03:38.03,Default,Wethermon,0,0,0,,Well done, descendant of the first pioneers.
+Dialogue: 100,0:03:39.53,0:03:42.95,Default,Sunraku,0,0,0,,{\i1}I thought he was just a lifeless robot...{I thought he was totally insensate,}
+Dialogue: 100,0:03:43.66,0:03:45.87,Default,Sunraku,0,0,0,,{\i1}but he actually reacted to me.{but he actually reacted to me...}
+Dialogue: 100,0:03:50.38,0:03:51.96,Default,Oikatzo,0,0,0,,What, it's not over yet?!
+Dialogue: 100,0:03:51.96,0:03:52.84,Default,Pencilgon,0,0,0,,It is.{No.}
+Dialogue: 100,0:03:52.84,0:04:10.15,Default,song,0,0,0,,{\i1\an8}Into the gap between moments spills a single wish
+Dialogue: 100,0:03:54.59,0:03:56.13,Default,Pencilgon,0,0,0,,He's reached his limit.
+Dialogue: 100,0:04:11.15,0:04:27.04,Default,song,0,0,0,,{\i1\an8}Distant days, so blurred by tears they can't be seen
+Dialogue: 100,0:04:30.54,0:04:48.73,Default,song,0,0,0,,{\i1\an8}I carry the light of your love in my heart
+Dialogue: 100,0:04:37.59,0:04:41.47,Default,Wethermon,0,0,0,,My body... fails.
+Dialogue: 100,0:04:46.14,0:04:47.60,Default,Wethermon,0,0,0,,I will sleep.
+Dialogue: 100,0:04:48.73,0:05:09.25,Default,song,0,0,0,,{\i1\an8}I'll remember it for eternity
+Dialogue: 100,0:04:51.35,0:04:53.19,Default,Wethermon,0,0,0,,Setsuna...
+Dialogue: 100,0:04:57.36,0:05:00.24,Default,Wethermon,0,0,0,,I'll be with you soon.
+Dialogue: 100,0:05:09.66,0:05:21.43,Default,song,0,0,0,,{\i1\an8}Hear me, my love, so far away
+Dialogue: 100,0:05:19.59,0:05:21.88,Default,Oikatzo,0,0,0,,I-Is it over?
+Dialogue: 100,0:05:23.85,0:05:26.31,Default,Pencilgon,0,0,0,,Looks like we haven't met the clear conditions yet.
+Dialogue: 100,0:05:29.35,0:05:32.52,Default,Sunraku,0,0,0,,The cherry tree's dying?
+Dialogue: 100,0:05:35.52,0:05:38.15,Default,Oikatzo,0,0,0,,The area's going back to normal, I guess?
+Dialogue: 100,0:05:52.58,0:05:54.13,Default,Pencilgon,0,0,0,,Set?
+Dialogue: 100,0:05:54.13,0:05:55.29,Default,Setsuna,0,0,0,,Arthur.
+Dialogue: 100,0:05:55.63,0:05:56.75,Default,Setsuna,0,0,0,,Sunraku.
+Dialogue: 100,0:05:57.30,0:05:59.01,Default,Setsuna,0,0,0,,Oikatzo.
+Dialogue: 100,0:06:00.21,0:06:01.88,Default,Setsuna,0,0,0,,You've done it, haven't you?
+Dialogue: 100,0:06:02.47,0:06:04.05,Default,Setsuna,0,0,0,,I can't thank you enough.
+Dialogue: 100,0:06:05.51,0:06:06.55,Default,Setsuna,0,0,0,,My wish...
+Dialogue: 100,0:06:07.39,0:06:11.56,Default,Setsuna,0,0,0,,No, the wish of Setsuna of the bygone days...{No, the wish of the Setsuna of the long-distant past}
+Dialogue: 100,0:06:12.14,0:06:13.90,Default,Setsuna,0,0,0,,has been granted at long last.
+Dialogue: 100,0:06:15.52,0:06:17.57,Default,Sunraku,0,0,0,,That's a weird way of putting it.{That's a weird way of putting it...}
+Dialogue: 100,0:06:17.57,0:06:21.19,Default,Oikatzo,0,0,0,,You're making it sound like you're not really Setsuna.
+Dialogue: 100,0:06:21.49,0:06:22.82,Default,Pencilgon,0,0,0,,Set?
+Dialogue: 100,0:06:23.40,0:06:26.62,Default,Pencilgon,0,0,0,,You {\i1}are{\i0} Setsuna, aren't you?
+Dialogue: 100,0:06:29.66,0:06:31.12,Default,Setsuna,0,0,0,,Well, Arthur...
+Dialogue: 100,0:06:31.62,0:06:33.96,Default,Setsuna,0,0,0,,It's true that I am Setsuna.
+Dialogue: 100,0:06:34.50,0:06:38.46,Default,Setsuna,0,0,0,,But I'm not quite the Setsuna who died that day.
+Dialogue: 100,0:06:40.30,0:06:41.71,Default,Setsuna,0,0,0,,Her wish was...{Setsuna's wish...}
+Dialogue: 100,0:06:42.63,0:06:47.39,Default,Setsuna,0,0,0,,"If my dearest love becomes tied down by my death,
+Dialogue: 100,0:06:47.39,0:06:48.97,Default,Setsuna,0,0,0,,find a way to free him."{find a way to stop him."}
+Dialogue: 100,0:06:50.14,0:06:54.48,Default,Setsuna,0,0,0,,I'm a remnant of her, produced by those feelings.
+Dialogue: 100,0:06:55.60,0:07:00.44,Default,Setsuna,0,0,0,,{\q2}Like a manuscript, perfectly replicated, \Nright down to the handwriting.
+Dialogue: 100,0:07:02.94,0:07:08.53,Default,Sunraku,0,0,0,,{\q2}A remnant of the past, embodying \Nthe real Setsuna's wish from long ago?
+Dialogue: 100,0:07:09.08,0:07:13.96,Default,Sunraku,0,0,0,,Like a copy-paste of herself or something?
+Dialogue: 100,0:07:14.91,0:07:17.58,Default,Sunraku,0,0,0,,That explains the whole "Setsuna of Bygone Days," I guess.{That explains the whole "Setsuna of Bygone Days," I guess...}
+Dialogue: 100,0:07:20.29,0:07:22.38,Default,Setsuna,0,0,0,,I am a remnant of Setsuna.
+Dialogue: 100,0:07:22.80,0:07:25.09,Default,Setsuna,0,0,0,,I'm meant to disappear once my role is fulfilled.
+Dialogue: 100,0:07:25.47,0:07:26.84,Default,Pencilgon,0,0,0,,Wait! Set!
+Dialogue: 100,0:07:27.13,0:07:28.93,Default,Setsuna,0,0,0,,Don't be sad, Arthur.
+Dialogue: 100,0:07:30.22,0:07:36.06,Default,Setsuna,0,0,0,,{\q2}This was always going to happen, \Nonce the world granted her wish.
+Dialogue: 100,0:07:37.35,0:07:39.31,Default,Setsuna,0,0,0,,You are pioneers,
+Dialogue: 100,0:07:39.31,0:07:41.36,Default,Setsuna,0,0,0,,the descendants of the Second Plan.
+Dialogue: 100,0:07:41.82,0:07:43.73,Default,Setsuna,0,0,0,,You exist to throw open this world.
+Dialogue: 100,0:07:44.99,0:07:51.83,Default,Setsuna,0,0,0,,{\q2}If you wish to know of your roots, \Nof the truth of this world...{If you wish to know of your roots... of the truth of this world...}
+Dialogue: 100,0:07:53.66,0:07:55.58,Default,Setsuna,0,0,0,,seek out "Bahamut."{Seek out "Bahamut."}
+Dialogue: 100,0:07:57.29,0:07:59.04,Default,Oikatzo,0,0,0,,Bahamut?
+Dialogue: 100,0:07:59.04,0:08:00.88,Default,Sunraku,0,0,0,,Never heard of it, Katzo?
+Dialogue: 100,0:08:00.88,0:08:03.55,Default,Sunraku,0,0,0,,It's basically a big fish that people treat like a dragon.
+Dialogue: 100,0:08:03.80,0:08:05.92,Default,Oikatzo,0,0,0,,Yeah, I know what a freaking Bahamut is!
+Dialogue: 100,0:08:05.92,0:08:08.72,Default,Oikatzo,0,0,0,,But what's it mean in the context of {\i1}this game{\i0}?
+Dialogue: 100,0:08:09.14,0:08:12.51,Default,Pencilgon,0,0,0,,There's no monster in SLF called Bahamut that I know of.{There's no monster in SLF called Bahamut, that I know of.}
+Dialogue: 100,0:08:13.68,0:08:16.77,Default,Pencilgon,0,0,0,,Set, could you explain...{Set, could you explain—}
+Dialogue: 100,0:08:17.73,0:08:19.85,Default,Setsuna,0,0,0,,You should find that answer on your own.
+Dialogue: 100,0:08:20.48,0:08:24.44,Default,Setsuna,0,0,0,,That's what it means to throw open the future, after all.
+Dialogue: 100,0:08:25.99,0:08:27.24,Default,Setsuna,0,0,0,,Arthur.
+Dialogue: 100,0:08:27.74,0:08:29.74,Default,Setsuna,0,0,0,,Let me speak to you now, not as Setsuna...{Let me speak to you now, not as Setsuna,}
+Dialogue: 100,0:08:30.57,0:08:32.91,Default,Setsuna,0,0,0,,but as myself.
+Dialogue: 100,0:08:34.49,0:08:37.91,Default,Setsuna,0,0,0,,Thank you for always coming to see me!{Thank you for always coming to see me.}
+Dialogue: 100,0:08:38.54,0:08:40.62,Default,Setsuna,0,0,0,,I love you, Arthur.
+Dialogue: 100,0:08:50.63,0:08:51.84,Default,Pencilgon,0,0,0,,Right back atcha!{Hey, likewise!}
+Dialogue: 100,0:09:13.49,0:09:14.62,Default,Sunraku,0,0,0,,Pencilgon...
+Dialogue: 100,0:09:15.08,0:09:16.45,Default,Pencilgon,0,0,0,,I'm not crying.
+Dialogue: 100,0:09:17.33,0:09:19.46,Default,Sunraku,0,0,0,,I didn't say anything yet.
+Dialogue: 100,0:09:20.50,0:09:24.75,Default,Sunraku,0,0,0,,Still, never knew you had a "tears" function built in.{Still, never knew you had a "tears" function built in...}
+Dialogue: 100,0:09:24.75,0:09:28.21,Default,Oikatzo,0,0,0,,What is this feeling? Is this... a soul?
+Dialogue: 100,0:09:28.46,0:09:30.51,Default,Pencilgon,0,0,0,,That's the second time you've made that joke!
+Dialogue: 100,0:09:30.51,0:09:33.26,Default,Pencilgon,0,0,0,,Okay, I'm seriously gonna murder you two!
+Dialogue: 100,0:09:34.35,0:09:37.22,Default,Oikatzo,0,0,0,,You can't PK me after all I've been through!
+Dialogue: 100,0:09:37.22,0:09:39.10,Default,Oikatzo,0,0,0,,Take this one for the team, Sunraku!
+Dialogue: 100,0:09:39.93,0:09:41.98,Default,Sunraku,0,0,0,,{\an8}Knock it off!
+Dialogue: 100,0:09:39.93,0:09:42.44,Default,Oikatzo,0,0,0,,Just walk on up and take it!
+Dialogue: 100,0:09:42.44,0:09:43.60,Default,Sunraku,0,0,0,,Get off of me, loser!
+Dialogue: 100,0:09:43.60,0:09:44.98,Default,Oikatzo,0,0,0,,Go on, get 'im!
+Dialogue: 100,0:09:44.23,0:09:44.98,Default Alt,Sunraku,0,0,0,,Knock it off!
+Dialogue: 100,0:09:44.98,0:09:46.36,Default,Oikatzo,0,0,0,,No! Go! You go!
+Dialogue: 100,0:09:48.44,0:09:50.65,Default,Pencilgon,0,0,0,,We really managed to finish it.
+Dialogue: 100,0:09:52.11,0:09:57.91,Default,Pencilgon,0,0,0,,Thanks for indulging me on this, you guys.
+Dialogue: 100,0:10:00.87,0:10:04.29,Default,Oikatzo,0,0,0,,Hey, we just did it 'cause we wanted to.
+Dialogue: 100,0:10:04.29,0:10:05.00,Default,Oikatzo,0,0,0,,Right?
+Dialogue: 100,0:10:09.92,0:10:15.72,Default,Sunraku,0,0,0,,{\q2}The first dispatch of a unique monster \Nsince Shangri-La Frontier started...
+Dialogue: 100,0:10:15.72,0:10:18.43,Default,Sunraku,0,0,0,,I can't wait to see what kind of loot we've got waiting for us!
+Dialogue: 100,0:10:18.81,0:10:19.72,Default,Oikatzo,0,0,0,,Yeah, yeah!
+Dialogue: 100,0:10:19.72,0:10:25.10,Default,Pencilgon,0,0,0,,Okay, let's treat ourselves to a loot review!
+Dialogue: 100,0:10:27.15,0:10:32.19,Default,Announcer,0,0,0,,{\q2}{\i1\an8}This is an announcement \Nto all players of Shangri-La Frontier.
+Dialogue: 100,0:10:33.65,0:10:37.20,Default,Announcer,0,0,0,,{\i1\an8}We have just confirmed that the unique monster...{We have just confirmed that the unique monster,}
+Dialogue: 100,0:10:37.66,0:10:41.37,Default,Announcer,0,0,0,,{\i1\an8}Wethermon the Tombguard, has been defeated.{Wethermon the Tombguard, has been dispatched.}
+Dialogue: 100,0:10:42.20,0:10:44.46,Default,Announcer,0,0,0,,{\i1\an8}The players responsible for dispatching it
+Dialogue: 100,0:10:44.46,0:10:45.21,Default,Announcer,0,0,0,,{\i1\an8}are Sunraku...{are Sunraku,}
+Dialogue: 100,0:10:46.00,0:10:46.96,Default,Announcer,0,0,0,,{\i1\an8}Oikatzo...{Oikatzo,}
+Dialogue: 100,0:10:47.71,0:10:50.09,Default,Announcer,0,0,0,,{\i1\an8}and Arthur Pencilgon.
+Dialogue: 100,0:10:51.34,0:10:54.97,Default,Announcer,0,0,0,,{\i1\an8}Furthermore, with the dispatch of this unique monster...{Furthermore, with the dispatch of this unique monster,}
+Dialogue: 100,0:10:55.38,0:10:59.76,Default,Announcer,0,0,0,,{\i1\an8}the world story of Shangri-La Frontier has progressed.
+Dialogue: 100,0:11:00.56,0:11:03.10,Default,Sunraku,0,0,0,,World... story?
+Dialogue: 100,0:11:30.79,0:11:32.63,Default,Library A,0,0,0,,Hey! Big news!
+Dialogue: 100,0:11:32.92,0:11:36.09,Default,Library A,0,0,0,,Anyone got the professor's IRL contact info?
+Dialogue: 100,0:11:36.09,0:11:38.89,Default,Library B,0,0,0,,I'm pretty sure his wife is in Schwarz Vulf.
+Dialogue: 100,0:11:38.89,0:11:40.51,Default,Library B,0,0,0,,Ask her to fetch him!
+Dialogue: 100,0:11:40.51,0:11:42.47,Default,Library C,0,0,0,,You know the professor.
+Dialogue: 100,0:11:42.47,0:11:45.14,Default,Library C,0,0,0,,The minute he hears a unique monster's been beaten,
+Dialogue: 100,0:11:45.14,0:11:46.52,Default,Library C,0,0,0,,he'll be here on the double.
+Dialogue: 100,0:11:46.52,0:11:48.90,Default,Library A,0,0,0,,I just hope his wife's logged in.
+Dialogue: 100,0:11:49.10,0:11:53.78,Default,Library D,0,0,0,,{\q2}But what's the "world story" they mentioned \Nin the GM announcement?
+Dialogue: 100,0:11:54.19,0:11:55.99,Default,Library C,0,0,0,,Yeah, never heard that term before.{Yeah, never heard that term before...}
+Dialogue: 100,0:11:55.99,0:11:59.74,Default,Library E,0,0,0,,{\q2}It's safe to assume it's different from \Nthe regular story, right?
+Dialogue: 100,0:12:00.12,0:12:04.41,Default,Library E,0,0,0,,{\q2}Those usually involve working with NPCs \Nto explore the world.{If the regular story usually involves working with NPCs to explore the world,}
+Dialogue: 100,0:12:04.41,0:12:09.50,Default,Library E,0,0,0,,{\q2}The "world story" must mean the world itself \Nproceeding to a new stage, right?{the "world story" must mean the world itself proceeding to a new stage, right?}
+Dialogue: 100,0:12:10.29,0:12:14.34,Default,Library C,0,0,0,,If that's the case, we could have some big changes in store!
+Dialogue: 100,0:12:14.34,0:12:17.17,Default,Library C,0,0,0,,{\q2}You think we should ask Schwarz Vulf \Nto sniff around for us?
+Dialogue: 100,0:12:17.38,0:12:20.93,Default,Library A,0,0,0,,{\q2}I think we should look into \NWethermon the Tombguard first.
+Dialogue: 100,0:12:20.93,0:12:22.14,Default,Library D,0,0,0,,I'm for that!
+Dialogue: 100,0:12:22.14,0:12:26.18,Default,Library D,0,0,0,,He's a unique monster nobody even knew existed until now!{That's a unique monster that's been totally unsubstantiated until now!}
+Dialogue: 100,0:12:27.18,0:12:32.82,Default,Library D,0,0,0,,{\q2}Siegwurm, Lycagon, Ctarnidd, \Nthe Orchestra, and now Wethermon.{Siegwurm, Lycagon, Ctarnidd, the Orchestra, and now Wethermon...}
+Dialogue: 100,0:12:33.15,0:12:37.49,Default,Library B,0,0,0,,{\q2}To think we'd get to fill in \Nan unknown Colossus after all this time.{To think we'd get to fill in an unknown Colossus after all this time...}
+Dialogue: 100,0:12:37.49,0:12:39.36,Default,Library E,0,0,0,,That leaves just two unknowns left.
+Dialogue: 100,0:12:39.66,0:12:44.79,Default,Library A,0,0,0,,{\q2}Okay, let's get in contact with the players \Nwho took out Wethermon the Tombguard.{Okay, let's get in contact with the players who took out Wethermon the Tombguard...}
+Dialogue: 100,0:12:44.79,0:12:48.91,Default,Library A,0,0,0,,{\q2}Hey, the professor's wife says \Nshe'll wake him up and get him logged on!
+Dialogue: 100,0:12:48.91,0:12:49.96,Default,Library B,0,0,0,,Yes!
+Dialogue: 100,0:12:49.96,0:12:52.58,Default,Library E,0,0,0,,I feel bad that he had to be woken up.{I feel bad that he had to be woken up...}
+Dialogue: 100,0:12:55.34,0:12:59.88,Default,Psyger-100,0,0,0,,Sunraku. Oikatzo. Arthur Pencilgon.
+Dialogue: 100,0:13:00.38,0:13:01.72,Default,Psyger-100,0,0,0,,Good grief.
+Dialogue: 100,0:13:01.72,0:13:06.89,Default,Psyger-100,0,0,0,,{\q2}To think another set of players \Nwould beat a unique monster before us...
+Dialogue: 100,0:13:08.23,0:13:10.39,Default,Psyger-100,0,0,0,,{\an8}And we call ourselves a top clan?
+Dialogue: 100,0:13:14.27,0:13:17.28,Default,Wolf A,0,0,0,,Arthur Pencilgon of the Ashura Kai, huh?
+Dialogue: 100,0:13:17.57,0:13:21.66,Default,Wolf A,0,0,0,,I thought it was odd that we didn't see her during the raid.
+Dialogue: 100,0:13:21.66,0:13:25.20,Default,Wolf A,0,0,0,,I never dreamed she'd be off slaying a unique monster.
+Dialogue: 100,0:13:26.16,0:13:27.62,Default,Psyger-100,0,0,0,,Disgusting.
+Dialogue: 100,0:13:27.62,0:13:32.21,Default,Psyger-100,0,0,0,,{\q2}She funneled info on Ashura Kai to us through a mediator \Nwhile she went after the unique monster.{She funneled info on Ashura Kai to us through a mediator while she went after the unique monster...}
+Dialogue: 100,0:13:32.21,0:13:34.67,Default,Psyger-100,0,0,0,,She completely used us!
+Dialogue: 100,0:13:35.17,0:13:38.09,Default,Wolf B,0,0,0,,{\q2}She might be even more troublesome \Nthan Orcelott, who got away.
+Dialogue: 100,0:13:38.55,0:13:41.18,Default,Wolf C,0,0,0,,The other two aren't part of Ashura Kai, are they?
+Dialogue: 100,0:13:42.30,0:13:46.22,Default,Psyger-100,0,0,0,,I've never heard of this "Oikatzo" person,
+Dialogue: 100,0:13:46.22,0:13:48.31,Default,Psyger-100,0,0,0,,but this player, Sunraku...
+Dialogue: 100,0:13:48.72,0:13:52.02,Default,Psyger-100,0,0,0,,I believe he's the one who tangled with Lycagon.
+Dialogue: 100,0:13:52.90,0:13:57.15,Default,Psyger-0,0,0,0,,{\i1}Pencilgon and Hizutome... are they close?
+Dialogue: 100,0:13:58.90,0:14:00.61,Default,Wolf C,0,0,0,,What should we do, Chief?
+Dialogue: 100,0:14:00.61,0:14:03.07,Default,Wolf C,0,0,0,,We've still got the journey to the new land coming up.{We've still got the journey to the new land coming up...}
+Dialogue: 100,0:14:04.11,0:14:06.74,Default,Psyger-100,0,0,0,,Our plan hasn't changed.{We'll still be heading to the new land.}
+Dialogue: 100,0:14:06.74,0:14:10.33,Default,Psyger-100,0,0,0,,But I and a few others will remain here.
+Dialogue: 100,0:14:13.08,0:14:21.17,Default,Psyger-100,0,0,0,,{\q2}A beginner last seen in Thirdrema \Ndid the unthinkable and beat a unique monster?
+Dialogue: 100,0:14:22.38,0:14:25.47,Default,Psyger-100,0,0,0,,You're getting more and more intriguing, Sunraku!{I'm very interested in you all of a sudden, Sunraku-kun!}
+Dialogue: 100,0:14:27.10,0:14:29.77,Default,Psyger-100,0,0,0,,I've gotta find a way to get in contact with these guys!
+Dialogue: 100,0:14:29.77,0:14:33.10,Default,Psyger-100,0,0,0,,Maybe we can even do some laundering negotiations!
+Dialogue: 100,0:14:33.10,0:14:35.48,Default,Wolf A,0,0,0,,The chief seems to be enjoying this.
+Dialogue: 100,0:14:35.98,0:14:37.98,Default,Wolf A,0,0,0,,I was so sure she'd be upset.
+Dialogue: 100,0:14:37.98,0:14:40.48,Default,Wolf D,0,0,0,,Huh? Psyger-0's missing.
+Dialogue: 100,0:14:40.48,0:14:41.65,Default,Wolf D,0,0,0,,What happened there?
+Dialogue: 100,0:14:41.65,0:14:45.07,Default,Wolf A,0,0,0,,Said something about helping a friend in trouble.
+Dialogue: 100,0:14:45.45,0:14:46.57,Default,Psyger-100,0,0,0,,A friend?
+Dialogue: 100,0:14:46.57,0:14:47.83,Default,Psyger-100,0,0,0,,Oh...
+Dialogue: 100,0:14:47.83,0:14:51.58,Default,Psyger-100,0,0,0,,{\q2}{\i1}I do remember her saying \Nshe managed to friend a guy she liked.{I do remember her saying she managed to friend a guy she liked...}
+Dialogue: 100,0:14:54.50,0:14:57.50,Default,Psyger-100,0,0,0,,{\i1}Well, I should probably support that.
+Dialogue: 100,0:15:02.13,0:15:04.26,Default,Pencilgon,0,0,0,,Thought we'd run into you here.
+Dialogue: 100,0:15:04.26,0:15:06.22,Default,Oikatzo,0,0,0,,Oh, is this the guy?
+Dialogue: 100,0:15:07.05,0:15:09.56,Default,Orcelott,0,0,0,,Y-Y-You bastards...{Y-Y-You people...}
+Dialogue: 100,0:15:09.56,0:15:13.14,Default,Oikatzo,0,0,0,,What was the name again? Orcelott the Failhard?
+Dialogue: 100,0:15:13.14,0:15:16.19,Default,Sunraku,0,0,0,,Wow, what a wussy title. Does he think he's Wethermon?{Who's he think he is, Wethermon?}
+Dialogue: 100,0:15:17.44,0:15:21.40,Default,Pencilgon,0,0,0,,{\q2}Oh, please! My loser little bro \Ndoesn't need a fancy nickname like that.
+Dialogue: 100,0:15:22.07,0:15:25.36,Default,Pencilgon,0,0,0,,He has no concept of the noble art of PKing.
+Dialogue: 100,0:15:25.36,0:15:27.41,Default,Pencilgon,0,0,0,,He's an absolute hack with delusions of grandeur.
+Dialogue: 100,0:15:27.82,0:15:29.12,Default,Orcelott,0,0,0,,I knew it...
+Dialogue: 100,0:15:29.12,0:15:32.70,Default,Orcelott,0,0,0,,You're the one who leaked the location of our base!
+Dialogue: 100,0:15:32.91,0:15:35.12,Default,Pencilgon,0,0,0,,Well, you reap what you sow.
+Dialogue: 100,0:15:35.12,0:15:39.71,Default,Pencilgon,0,0,0,,{\q2}You'd turned chicken, all fat and comfortable, \Nand afraid of losing it all.{You'd turned chicken, all fat and comfortable and afraid of losing it all...}
+Dialogue: 100,0:15:39.71,0:15:44.92,Default,Pencilgon,0,0,0,,So I gave you a punch to the gut to cough up the goods.{So I gave you a punch to the gut to make you cough up the goods.}
+Dialogue: 100,0:15:44.92,0:15:46.34,Default,Pencilgon,0,0,0,,That's all.
+Dialogue: 100,0:15:46.34,0:15:47.34,Default,Oikatzo,0,0,0,,Whoa!
+Dialogue: 100,0:15:47.34,0:15:51.10,Default,Sunraku,0,0,0,,The PK-talking lady is scawy!{The PK-talking lady is scary!}
+Dialogue: 100,0:15:51.10,0:15:54.10,Default,Orcelott,0,0,0,,You think you know it all, huh?!
+Dialogue: 100,0:15:54.48,0:15:57.39,Default,Orcelott,0,0,0,,I bet you're tired out from that Wethermon fight, huh?!
+Dialogue: 100,0:15:57.39,0:16:01.65,Default,Orcelott,0,0,0,,We're gonna murder you and take all the loot you scored!
+Dialogue: 100,0:16:05.40,0:16:08.82,Default,Pencilgon,0,0,0,,See? This is your big problem.
+Dialogue: 100,0:16:08.82,0:16:11.91,Default,Pencilgon,0,0,0,,I keep telling you to focus on the big picture,{I'm always telling you to focus on the big picture,}
+Dialogue: 100,0:16:11.91,0:16:13.95,Default,Pencilgon,0,0,0,,but you're always thinking short-term.{but you can't take your eyes off immediate gains.}
+Dialogue: 100,0:16:14.33,0:16:17.83,Default,Narrator,0,0,0,,{\i1}An anti-PK measure: the distress signal.
+Dialogue: 100,0:16:17.83,0:16:23.59,Default,Narrator,0,0,0,,{\q2}{\i1}When attacked by a PKer, \Nyou can send a call for aid to your friends.
+Dialogue: 100,0:16:23.59,0:16:26.05,Default,Lass,0,0,0,,Orcelott! That's...{That's—}
+Dialogue: 100,0:16:27.38,0:16:32.10,Default,Narrator,0,0,0,,{\an8\i1}And if one of those friends has the "Friend Warp" skill...
+Dialogue: 100,0:16:32.64,0:16:35.47,Default,Narrator,0,0,0,,{\i1}you can summon them right to the spot!{You can summon them right to the spot!}
+Dialogue: 100,0:16:39.52,0:16:41.77,Default,Orcelott,0,0,0,,You again, Psyger-0?!
+Dialogue: 100,0:16:42.27,0:16:45.36,Default,Sunraku,0,0,0,,Sorry to be a big ol' bother, Psyger-0.
+Dialogue: 100,0:16:45.36,0:16:46.40,Default,Psyger-0,0,0,0,,It's nothing.
+Dialogue: 100,0:16:46.40,0:16:49.74,Default,Rei,0,0,0,,{\i1}Thank {\i0}you{\i1} so much for calling me!
+Dialogue: 100,0:16:50.74,0:16:52.62,Default,Psyger-0,0,0,0,,The remnants of the Ashura Kai...
+Dialogue: 100,0:16:53.16,0:16:55.66,Default,Psyger-0,0,0,0,,If you intend to run away, as you've done once already...
+Dialogue: 100,0:16:56.12,0:16:58.04,Default,Psyger-0,0,0,0,,I'll gladly let you go.
+Dialogue: 100,0:16:58.04,0:16:58.66,Default,Psyger-0,0,0,0,,What will it be?{Will you accept?}
+Dialogue: 100,0:16:59.41,0:17:03.04,Default,Orcelott,0,0,0,,You guys had better start showing me respect...
+Dialogue: 100,0:17:03.42,0:17:07.17,Default,Orcelott,0,0,0,,you stupid pieces of shit!{You stupid pieces of shit!}
+Dialogue: 100,0:17:11.76,0:17:14.22,Default,Orcelott,0,0,0,,D-Dammit...{D-Damn it...}
+Dialogue: 100,0:17:14.22,0:17:15.81,Default,Orcelott,0,0,0,,Everything I built...
+Dialogue: 100,0:17:16.43,0:17:17.68,Default,Orcelott,0,0,0,,destroyed by you people...
+Dialogue: 100,0:17:22.69,0:17:26.44,Default,Pencilgon,0,0,0,,You can't expect an MMO to always go the way you want.
+Dialogue: 100,0:17:26.78,0:17:30.07,Default,Pencilgon,0,0,0,,You'd be better off sticking to offline single-player.
+Dialogue: 100,0:17:30.32,0:17:34.37,Default,Sunraku,0,0,0,,Personally, I recommend Faeria Chronicle Online!
+Dialogue: 100,0:17:34.37,0:17:36.58,Default,Oikatzo,0,0,0,,Jeez! What kind of monster are you?!
+Dialogue: 100,0:17:37.66,0:17:43.29,Default,Pencilgon,0,0,0,,{\q2}Hey, look at all these rare items \Nthe Ashura Kai was packing!
+Dialogue: 100,0:17:43.63,0:17:45.09,Default,Pencilgon,0,0,0,,Skipping town with the goods, I guess.{Like they were trying to skip town with the goods.}
+Dialogue: 100,0:17:45.92,0:17:48.21,Default,Sunraku,0,0,0,,I didn't think you'd show up so quickly!
+Dialogue: 100,0:17:48.80,0:17:50.47,Default,Sunraku,0,0,0,,Thanks so much, Psyger-0!
+Dialogue: 100,0:17:50.47,0:17:55.22,Default,Psyger-0,0,0,0,,R-Really, i-it was... nothing.
+Dialogue: 100,0:17:55.51,0:18:01.18,Default,Psyger-0,0,0,0,,{\q2}More importantly,{More importantly...} congratulations... \Non defeating that unique monster!{Congratulations... on dispatching that unique monster!}
+Dialogue: 100,0:18:01.39,0:18:03.06,Default,Sunraku,0,0,0,,Hey, thanks.
+Dialogue: 100,0:18:03.73,0:18:07.98,Default,Sunraku,0,0,0,,{\q2}{\i1}That's right. I guess that announcement \Ngot the word out everywhere.{That's right. I guess that announcement got the word out everywhere...}
+Dialogue: 100,0:18:07.98,0:18:10.69,Default,Sunraku,0,0,0,,{\i1}It's gonna be even harder to walk around in public.
+Dialogue: 100,0:18:11.57,0:18:12.65,Default,Sunraku,0,0,0,,{\i1}But what now?
+Dialogue: 100,0:18:12.65,0:18:17.83,Default,Sunraku,0,0,0,,{\q2}{\i1}After I called her out like this, \NI can't just say, "Thanks a bunch, you can go now."
+Dialogue: 100,0:18:18.29,0:18:21.75,Default,Psyger-0,0,0,0,,{\i1}Wh-What's going on? He's staring at me so intently...
+Dialogue: 100,0:18:21.75,0:18:22.83,Default,Rei,0,0,0,,{\i1}Squee!
+Dialogue: 100,0:18:23.12,0:18:25.29,Default,Pencilgon,0,0,0,,So, hey, Psyger-0.{Hey, right, Psyger-0.}
+Dialogue: 100,0:18:26.34,0:18:30.84,Default,Pencilgon,0,0,0,,Since you're already here,{You mind if I ask...} mind if I ask you to kill me?{While you're here, would you mind killing me?}
+Dialogue: 100,0:18:33.68,0:18:36.76,Default,Pencilgon,0,0,0,,In exchange, how about all the items I've got...{In exchange, how about all the items I've got,}
+Dialogue: 100,0:18:37.05,0:18:43.27,Default,Pencilgon,0,0,0,,{\q2}including two Rebirth Tearjewels \Nand all the rare items the Ashura Kai was packing?
+Dialogue: 100,0:18:43.56,0:18:45.52,Default,Oikatzo,0,0,0,,Hey, you sure about this?
+Dialogue: 100,0:18:45.52,0:18:49.57,Default,Oikatzo,0,0,0,,{\q2}Pretty sure the PKK penalty is having \Nall your items confiscated
+Dialogue: 100,0:18:49.57,0:18:53.82,Default,Oikatzo,0,0,0,,{\q2}and a big fine you gotta pay \Nin proportion to your crimes, right?
+Dialogue: 100,0:18:53.82,0:18:57.28,Default,Sunraku,0,0,0,,Knowing Pencilgon, that'll probably be a pretty hefty fee.
+Dialogue: 100,0:18:57.66,0:19:01.79,Default,Pencilgon,0,0,0,,{\q2}I'd be an even bigger chicken \Nthan my little bro if I never took any risks.
+Dialogue: 100,0:19:02.37,0:19:08.13,Default,Pencilgon,0,0,0,,{\q2}I'm pretty sick of PKing, anyway, \Nand this seemed like a good time to wipe my slate clean.
+Dialogue: 100,0:19:08.84,0:19:12.92,Default,Pencilgon,0,0,0,,Although... for now, I'm still a player killer.
+Dialogue: 100,0:19:13.59,0:19:17.43,Default,Pencilgon,0,0,0,,I'm not about to offer my head up on a silver platter.
+Dialogue: 100,0:19:17.80,0:19:19.39,Default,Pencilgon,0,0,0,,Psyger-0...
+Dialogue: 100,0:19:19.39,0:19:23.14,Default,Pencilgon,0,0,0,,Rather, Attack Master, holder of unparalleled firepower...
+Dialogue: 100,0:19:23.14,0:19:26.31,Default,Pencilgon,0,0,0,,I've always wanted to go all-out against you!
+Dialogue: 100,0:19:37.16,0:19:39.32,Default,Psyger-0,0,0,0,,Very well. I'll take you on.
+Dialogue: 100,0:19:40.08,0:19:42.08,Default,Psyger-0,0,0,0,,Satanael, reversal...
+Dialogue: 100,0:19:44.08,0:19:45.00,Default,Psyger-0,0,0,0,,Satan!
+Dialogue: 100,0:19:47.54,0:19:51.09,Default,Pencilgon,0,0,0,,The oft-spoken-of unique weapon of the Attack Master,
+Dialogue: 100,0:19:51.09,0:19:52.67,Default,Pencilgon,0,0,0,,{\an8}Antinomy.
+Dialogue: 100,0:19:59.34,0:20:02.10,Default,Pencilgon,0,0,0,,And you're even showing off the reversal...
+Dialogue: 100,0:20:02.76,0:20:04.47,Default,Pencilgon,0,0,0,,How generous of you.
+Dialogue: 100,0:20:05.18,0:20:06.27,Default,Psyger-0,0,0,0,,My siste—
+Dialogue: 100,0:20:06.94,0:20:09.23,Default,Psyger-0,0,0,0,,Our chief told me about you.
+Dialogue: 100,0:20:09.73,0:20:13.32,Default,Psyger-0,0,0,0,,You'll run at the drop of a hat, so the moment I see you,
+Dialogue: 100,0:20:13.32,0:20:15.24,Default,Psyger-0,0,0,0,,I should slay you swiftly, with a decisive hit.{I should slay you swiftly, with one decisive hit.}
+Dialogue: 100,0:20:15.24,0:20:17.28,Default,Sunraku,0,0,0,,That's how people talk about cockroaches.
+Dialogue: 100,0:20:17.28,0:20:18.41,Default,Pencilgon,0,0,0,,Huh?!
+Dialogue: 100,0:20:18.41,0:20:20.16,Default,Pencilgon,0,0,0,,You guys are dead for sure.
+Dialogue: 100,0:20:20.16,0:20:22.24,Default,Oikatzo,0,0,0,,I didn't even say anything yet!
+Dialogue: 100,0:20:23.24,0:20:25.54,Default,Psyger-0,0,0,0,,If I'm fighting the Giant Killer,
+Dialogue: 100,0:20:25.54,0:20:27.25,Default,Psyger-0,0,0,0,,I'm giving it everything I have!
+Dialogue: 100,0:20:27.25,0:20:32.92,Default,Sunraku,0,0,0,,{\q2}In this corner, Psyger-0 just stacked a bunch \Nof scary-looking buffs I know nothing about!{In this corner, Psyger-0 just stacked a bunch of scary-looking buffs I don't know anything about!}
+Dialogue: 100,0:20:32.92,0:20:34.38,Default,Oikatzo,0,0,0,,Total demon king vibes.
+Dialogue: 100,0:20:34.80,0:20:38.13,Default,Pencilgon,0,0,0,,Sup upon blood, tear away flesh.
+Dialogue: 100,0:20:38.51,0:20:41.22,Default,Pencilgon,0,0,0,,Sink your teeth into death and reject life...
+Dialogue: 100,0:20:42.14,0:20:44.06,Default,Pencilgon,0,0,0,,Thou art the butcher.
+Dialogue: 100,0:20:44.06,0:20:46.64,Default,Pencilgon,0,0,0,,Let your song ring out from atop a mountain of corpses!
+Dialogue: 100,0:20:47.60,0:20:50.40,Default,Sunraku,0,0,0,,And in this corner, things are looking pretty grody!
+Dialogue: 100,0:20:50.40,0:20:52.40,Default,Oikatzo,0,0,0,,Sheesh, her weapon's creeping me out.
+Dialogue: 100,0:20:54.57,0:20:56.86,Default,Pencilgon,0,0,0,,Now, shall we begin?
+Dialogue: 100,0:20:56.86,0:20:58.61,Default,Psyger-0,0,0,0,,Yes, let us...
+Dialogue: 100,0:20:59.28,0:21:00.03,Default,Both,0,0,0,,battle!{Battle!}
+Dialogue: 100,0:21:01.28,0:21:05.87,Default,Sunraku,0,0,0,,And they're off! It's a clash between serious buff stacks!
+Dialogue: 100,0:21:05.87,0:21:09.21,Default,Oikatzo,0,0,0,,How can you have so much energy after that huge fight?
+Dialogue: 100,0:21:10.96,0:21:12.38,Default,Pencilgon,0,0,0,,Massacre Bite!
+Dialogue: 100,0:21:12.58,0:21:13.75,Default,Pencilgon,0,0,0,,Got you now!
+Dialogue: 100,0:21:17.88,0:21:19.01,Default,Pencilgon,0,0,0,,{\i1}My sword is stuck?!
+Dialogue: 100,0:21:22.01,0:21:25.26,Default,Sunraku,0,0,0,,Holy crap! Was that a direct hit?!
+Dialogue: 100,0:21:31.90,0:21:34.36,Default,Pencilgon,0,0,0,,That was a close one.{That was a close one...}
+Dialogue: 100,0:21:34.36,0:21:36.90,Default,Pencilgon,0,0,0,,I almost got myself cleaved in half.
+Dialogue: 100,0:21:37.53,0:21:39.03,Default,Pencilgon,0,0,0,,After all that with Set...
+Dialogue: 100,0:21:39.53,0:21:41.78,Default,Pencilgon,0,0,0,,I've gotta put my whole heart into this!
+Dialogue: 100,0:21:44.87,0:21:46.79,Default,Psyger-0,0,0,0,,In that case, just for you...
+Dialogue: 100,0:21:47.08,0:21:51.04,Default,Psyger-0,0,0,0,,Light and darkness, opposites in constant conflict
+Dialogue: 100,0:21:51.04,0:21:54.84,Default,Psyger-0,0,0,0,,{\q2}deny their mutual rejection \Nand weave together a severed destiny...
+Dialogue: 100,0:21:57.13,0:21:59.30,Default,Psyger-0,0,0,0,,My body is bathed in light
+Dialogue: 100,0:21:59.30,0:22:00.80,Default,Psyger-0,0,0,0,,and cloaked in darkness.
+Dialogue: 100,0:22:01.05,0:22:03.55,Default,Psyger-0,0,0,0,,Let disorder devour this world!
+Dialogue: 100,0:22:03.93,0:22:05.55,Default,Psyger-0,0,0,0,,Chaos Void!

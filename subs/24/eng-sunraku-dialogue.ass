@@ -1,0 +1,271 @@
+﻿[Script Info]
+Title: English (US)
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+LayoutResX: 1920
+LayoutResY: 1080
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Corinthian Medium,78,&H00FAFAFA,&H000019FF,&H00000000,&HC4000000,-1,0,0,0,100,100,0,0,1,3.75,1.8,2,150,150,63,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:42.02,0:00:42.02,Default,chptr,0,0,0,,{OP}
+Dialogue: 0,0:02:11.99,0:02:11.99,Default,chptr,0,0,0,,{Part A}
+Dialogue: 0,0:11:25.00,0:11:25.00,Default,chptr,0,0,0,,{Part B}
+Dialogue: 0,0:21:55.00,0:21:55.00,Default,chptr,0,0,0,,{ED}
+Dialogue: 100,0:00:02.90,0:00:06.78,Default,Narrator,0,0,0,,{\i1}We live in a world filled with countless games...{This world is filled with too many games to count,}
+Dialogue: 100,0:00:07.99,0:00:12.24,Default,Narrator,0,0,0,,{\i1}though the vast majority simply come and go in obscurity.
+Dialogue: 100,0:00:13.54,0:00:16.37,Default,Narrator,0,0,0,,{\i1}What's considered the best of the best{The greatest of all games}
+Dialogue: 100,0:00:16.37,0:00:21.67,Default,Narrator,0,0,0,,{\q2}{\i1}is the fully immersive VR game \Nboasting over 30 million players worldwide.{is the fully immersive VR game boasting over 30 million players worldwide—}
+Dialogue: 100,0:00:21.67,0:00:26.30,Default,Narrator,0,0,0,,{\i1}It's earned the status of "god-tier," Shangri-La Frontier!{Shangri-La Frontier, which rightly earns the title of "god-tier game"!}
+Dialogue: 100,0:00:28.01,0:00:31.93,Default,Narrator,0,0,0,,{\i1}One lover of trash games, Hizutome Rakurou,{One lover of trash games, Rakuro Hizutome,}
+Dialogue: 100,0:00:31.93,0:00:35.10,Default,Narrator,0,0,0,,{\i1}is trying out this very Triple-A!{is trying out the god-tier game, Shangri-La Frontier!}
+Dialogue: 100,0:00:35.93,0:00:40.65,Default,Narrator,0,0,0,,{\i1}What adventures await him there?
+Dialogue: 100,0:02:19.20,0:02:23.00,Default,Sunraku,0,0,0,,Okay, let's get climbing!
+Dialogue: 100,0:02:24.17,0:02:27.92,Default,Sunraku,0,0,0,,{\an8}Wait for me, Crystal Scorpions!
+Dialogue: 100,0:02:29.05,0:02:32.97,Default,Sunraku,0,0,0,,First, I'll use Moon Jumper to boost my jumping ability.{First, I'll use Moon Jumper to boost my vertical jumping power.}
+Dialogue: 100,0:02:33.72,0:02:35.76,Default,Sunraku,0,0,0,,Then... Six-Boat Leap!
+Dialogue: 100,0:02:43.39,0:02:47.06,Default,Sunraku,0,0,0,,{\i1}Over-level-100 monsters, the Crystal Scorpions...
+Dialogue: 100,0:02:47.36,0:02:49.57,Default,Sunraku,0,0,0,,{\i1}I gotta find out what they are!
+Dialogue: 100,0:02:49.57,0:02:53.15,Default,Sunraku,0,0,0,,{\q2}{\i1}It'd be pretty rude not to say hi \Nwhile I'm in the neighborhood!{It'd be pretty rude not to say hi while I'm in the area!}
+Dialogue: 100,0:02:53.44,0:02:56.66,Default,Sunraku,0,0,0,,{\q2}{\i1}What, you expect me to find out about \Nan unexplored area filled with unknown monsters
+Dialogue: 100,0:02:56.66,0:02:58.70,Default,Sunraku,0,0,0,,{\i1}and just forget about it?!
+Dialogue: 100,0:02:58.70,0:03:01.45,Default,Sunraku,0,0,0,,{\q2}{\i1}What's the point of playing games \Nif you can't go buck wild?!
+Dialogue: 100,0:03:14.22,0:03:17.22,Default,Sunraku,0,0,0,,Hey, would you look at that?
+Dialogue: 100,0:03:17.55,0:03:21.51,Default,Sunraku,0,0,0,,It's way more fantastical than the area down below!{It's way more fantastical than the area down below...}
+Dialogue: 100,0:03:27.23,0:03:29.56,Default,Sunraku,0,0,0,,Really hard to make progress...
+Dialogue: 100,0:03:29.56,0:03:32.23,Default,Sunraku,0,0,0,,The footing's just terrible.
+Dialogue: 100,0:03:32.69,0:03:38.74,Default,Sunraku,0,0,0,,{\q2}Okay, let's find those Crystal Scorpions \NI've heard so much a—
+Dialogue: 100,0:03:48.67,0:03:50.63,Default,Sunraku,0,0,0,,They're the type to blend in their surroundings, huh?{So they're the type to camouflage into the field, huh?}
+Dialogue: 100,0:03:51.54,0:03:54.63,Default,Sunraku,0,0,0,,You're the one I'm here to see, Crystal Scorpion!
+Dialogue: 100,0:04:00.18,0:04:01.18,Default,Sunraku,0,0,0,,Too damn close!
+Dialogue: 100,0:04:11.19,0:04:13.27,Default,Sunraku,0,0,0,,This thing's like a runaway train!
+Dialogue: 100,0:04:13.27,0:04:18.95,Default,Sunraku,0,0,0,,{\q2}Guess it utilizes the environment's awful footing \Nto drive the players into a dead end, huh?{Guess it utilizes the field's awful footing to drive the players into a dead end, huh?}
+Dialogue: 100,0:04:22.16,0:04:23.45,Default,Sunraku,0,0,0,,Well, what's the matter?
+Dialogue: 100,0:04:23.45,0:04:25.75,Default,Sunraku,0,0,0,,Is a straight-up charge the only trick you know?
+Dialogue: 100,0:04:28.21,0:04:30.54,Default,Sunraku,0,0,0,,{\i1}My first time around, I'm just here to say hi.
+Dialogue: 100,0:04:30.54,0:04:33.54,Default,Sunraku,0,0,0,,{\i1}I don't expect to beat the thing in my current state.
+Dialogue: 100,0:04:34.92,0:04:38.55,Default,Sunraku,0,0,0,,{\i1}Scout out the area, take back any rare materials I find...{Scout out the area, take back any rare materials I find—}
+Dialogue: 100,0:04:38.55,0:04:40.43,Default,Sunraku,0,0,0,,{\i1}That's my mission today!
+Dialogue: 100,0:04:43.68,0:04:46.43,Default,Sunraku,0,0,0,,If I can do that, I'll take it as a win.{If I can do that, I'll take it as a win...}
+Dialogue: 100,0:04:49.44,0:04:50.19,Default,Sunraku,0,0,0,,Huh?
+Dialogue: 100,0:05:04.83,0:05:07.79,Default,Bilac,0,0,0,,They're a bunch of tough nuts not even I could crack.
+Dialogue: 100,0:05:07.79,0:05:12.46,Default,Bilac,0,0,0,,{\q2}Crystal Scorpions attack as a swarm, \Nso if one sees you, you're dead.
+Dialogue: 100,0:05:25.68,0:05:27.01,Default,Sunraku,0,0,0,,{\i1}Yeah...
+Dialogue: 100,0:05:27.97,0:05:29.81,Default,Sunraku,0,0,0,,{\i1}Okay, I'm dead.
+Dialogue: 100,0:05:38.78,0:05:42.36,Default,Emul,0,0,0,,I wonder when Sunraku might come back...{I wonder when Sunraku might finally return...}
+Dialogue: 100,0:05:42.36,0:05:48.08,Default,Emul,0,0,0,,Oh, what if he's unable to return to Rabituza?!
+Dialogue: 100,0:05:48.08,0:05:52.12,Default,Emul,0,0,0,,Perhaps I should have waited for him in Eighthold after all?!
+Dialogue: 100,0:05:52.12,0:05:53.88,Default,Sunraku,0,0,0,,Freaking dammit!{Freaking damn it!}
+Dialogue: 100,0:05:53.88,0:05:57.50,Default,Sunraku,0,0,0,,That's too many of those stupid scorpion jerks!
+Dialogue: 100,0:05:58.09,0:05:59.55,Default,Sunraku,0,0,0,,Hey, Emul!
+Dialogue: 100,0:05:59.55,0:06:00.92,Default,Sunraku,0,0,0,,Gate me back to Eighthold.{Can I get a gate back to Eighthold?}
+Dialogue: 100,0:06:01.97,0:06:03.59,Default,Emul,0,0,0,,Sunraku...
+Dialogue: 100,0:06:03.93,0:06:07.56,Default,Emul,0,0,0,,You {\i1}have{\i0} been fighting the Crystal Scorpions, haven't you?!
+Dialogue: 100,0:06:07.56,0:06:08.72,Default,Sunraku,0,0,0,,Ah, crud.
+Dialogue: 100,0:06:08.72,0:06:12.35,Default,Emul,0,0,0,,We told you those monsters were dangerous!{We told you the Crystal Scorpions were dangerous!}
+Dialogue: 100,0:06:12.35,0:06:13.35,Default,Sunraku,0,0,0,,Man, this sucks.
+Dialogue: 100,0:06:13.35,0:06:15.19,Default,Emul,0,0,0,,What did you just say?!
+Dialogue: 100,0:06:15.52,0:06:18.36,Default,Sunraku,0,0,0,,Here you are! The carrot I promised you!
+Dialogue: 100,0:06:18.36,0:06:19.86,Default,Emul,0,0,0,,Hooray!
+Dialogue: 100,0:06:23.20,0:06:25.82,Default,Emul,0,0,0,,Truly delicious!
+Dialogue: 100,0:06:25.82,0:06:29.20,Default,Sunraku,0,0,0,,You're so predictable, it's kind of scary.
+Dialogue: 100,0:06:41.38,0:06:44.47,Default,Sunraku,0,0,0,,Okay, I'm gonna give it another go.
+Dialogue: 100,0:06:45.05,0:06:47.22,Default,Emul,0,0,0,,Really, must you go?
+Dialogue: 100,0:06:47.22,0:06:50.64,Default,Sunraku,0,0,0,,I can't hang it up until I get something out of it.
+Dialogue: 100,0:06:50.64,0:06:52.73,Default,Sunraku,0,0,0,,And I'm not going in blind this time.{And this won't be my first visit.}
+Dialogue: 100,0:06:53.39,0:06:55.27,Default,Sunraku,0,0,0,,I won't die empty-handed.
+Dialogue: 100,0:07:04.82,0:07:08.70,Default,Sunraku,0,0,0,,Okay... let's move slow and keep hidden.
+Dialogue: 100,0:07:10.12,0:07:13.91,Default,Sunraku,0,0,0,,I noticed a pretty interesting spot last time.
+Dialogue: 100,0:07:18.29,0:07:20.25,Default,Sunraku,0,0,0,,Hey, there it is.
+Dialogue: 100,0:07:27.72,0:07:30.76,Default,Sunraku,0,0,0,,I got a glimpse at it just before they got me.
+Dialogue: 100,0:07:31.43,0:07:36.77,Default,Sunraku,0,0,0,,A shiny li'l number that's just begging for my pickax.
+Dialogue: 100,0:07:39.94,0:07:43.99,Default,Sunraku,0,0,0,,I bet it gives up items unique to this area!
+Dialogue: 100,0:08:07.51,0:08:10.93,Default,Sunraku,0,0,0,,Dammit! I'm not giving up!{Damn it! I'm not giving up!}
+Dialogue: 100,0:08:17.85,0:08:20.31,Default,Sunraku,0,0,0,,I'm gonna get me some loot, no matter what!
+Dialogue: 100,0:08:30.95,0:08:34.29,Default,Emul,0,0,0,,That one went by rather quick.{That one went by fast.}
+Dialogue: 100,0:08:37.00,0:08:38.08,Default,Sunraku,0,0,0,,It's no use.
+Dialogue: 100,0:08:38.54,0:08:40.21,Default,Sunraku,0,0,0,,They're so big, and so fast...
+Dialogue: 100,0:08:40.67,0:08:44.30,Default,Sunraku,0,0,0,,{\q2}And they overwhelm you with numbers in an area \Nthat's already hard to maneuver in.
+Dialogue: 100,0:08:44.71,0:08:46.67,Default,Sunraku,0,0,0,,How am I supposed to survive that?
+Dialogue: 100,0:08:46.67,0:08:49.68,Default,Emul,0,0,0,,It's just as we told you, yes!
+Dialogue: 100,0:08:49.97,0:08:53.97,Default,Sunraku,0,0,0,,Yeah... but I also told {\i1}you{\i0} something, Emul.
+Dialogue: 100,0:08:55.47,0:08:58.18,Default,Sunraku,0,0,0,,I won't die empty-handed.
+Dialogue: 100,0:09:00.44,0:09:01.73,Default,Sunraku,0,0,0,,Let's have a look.
+Dialogue: 100,0:09:01.73,0:09:02.52,Default,Emul,0,0,0,,Let's have a look!
+Dialogue: 100,0:09:03.40,0:09:05.57,Default,Sunraku,0,0,0,,"Aroncaleth Hard Lapis"
+Dialogue: 100,0:09:05.90,0:09:11.86,Default,Sunraku,0,0,0,,{\q2}"Produced via repeated compression and refinement \Nthrough ingestion by geophagic monsters,
+Dialogue: 100,0:09:11.86,0:09:15.24,Default,Sunraku,0,0,0,,this crystal possesses an extremely dense magic content.
+Dialogue: 100,0:09:15.74,0:09:19.58,Default,Sunraku,0,0,0,,Its beautiful blue color recalls the land itself."
+Dialogue: 100,0:09:20.87,0:09:22.96,Default,Sunraku,0,0,0,,{\an8}I dunno what I'd use it for,
+Dialogue: 100,0:09:22.96,0:09:25.21,Default,Sunraku,0,0,0,,{\an8}but it's gotta be worth more than what I spent to get it.
+Dialogue: 100,0:09:25.21,0:09:27.46,Default,Sunraku,0,0,0,,{\an8}I'm gonna check the game wiki later!{I'm gonna check the game guide site later!}
+Dialogue: 100,0:09:27.46,0:09:29.05,Default,Emul,0,0,0,,{\an8}Are you satisfied now?
+Dialogue: 100,0:09:29.38,0:09:30.88,Default,Sunraku,0,0,0,,Maybe.
+Dialogue: 100,0:09:30.88,0:09:35.26,Default,Sunraku,0,0,0,,{\q2}I hate to give up here, but I should \Nprobably take a break for the day.
+Dialogue: 100,0:09:38.10,0:09:40.06,Default,Emul,0,0,0,,Yes, you should have a nice sleep!
+Dialogue: 100,0:09:41.52,0:09:43.81,Default,Sunraku,0,0,0,,{\i1}The Crystal Scorpions...
+Dialogue: 100,0:09:44.23,0:09:48.94,Default,Sunraku,0,0,0,,{\q2}{\i1}The slightest vibration on the crystals \Ngets them swarming you.
+Dialogue: 100,0:09:48.94,0:09:51.70,Default,Sunraku,0,0,0,,{\i1}Though the AI's not particularly clever...
+Dialogue: 100,0:09:51.70,0:09:56.20,Default,Emul,0,0,0,,{\an8}Go to sleep, go to sleep,
+Dialogue: 100,0:09:56.20,0:09:59.83,Default,Sunraku,0,0,0,,{\i1}They just charge at me mindlessly, so...
+Dialogue: 100,0:09:56.20,0:10:00.20,Default,Emul,0,0,0,,{\an8}beneath your bunny's ears...
+Dialogue: 100,0:10:00.79,0:10:06.25,Default,Sunraku,0,0,0,,{\i1}When they collided, they tore off each other's carapace...
+Dialogue: 100,0:10:07.75,0:10:09.88,Default,Sunraku,0,0,0,,Hang on a freaking minute here!
+Dialogue: 100,0:10:09.88,0:10:13.51,Default,Sunraku,0,0,0,,Could I get the torn-off carapace bits as an item?!
+Dialogue: 100,0:10:13.84,0:10:15.97,Default,Sunraku,0,0,0,,Man, I wanna find out!
+Dialogue: 100,0:10:15.97,0:10:18.76,Default,Sunraku,0,0,0,,Now that I got the idea, I {\i1}have{\i0} to try it!{Now that I got the idea, I wanna find out!}
+Dialogue: 100,0:10:19.14,0:10:20.98,Default,Sunraku,0,0,0,,Emul, open the gate!
+Dialogue: 100,0:10:20.98,0:10:21.98,Default,Sunraku,0,0,0,,I'm going back!
+Dialogue: 100,0:10:21.98,0:10:25.27,Default,Emul,0,0,0,,What? You still haven't given up?
+Dialogue: 100,0:10:25.27,0:10:26.77,Default,Emul,0,0,0,,They're just going to kill you again!
+Dialogue: 100,0:10:27.06,0:10:31.11,Default,Sunraku,0,0,0,,{\q2}As long as there's unknowns out there, \Na pioneer must never fear death!
+Dialogue: 100,0:10:31.11,0:10:33.65,Default,Emul,0,0,0,,You're clearly fueled by greed.
+Dialogue: 100,0:10:34.53,0:10:40.74,Default,Sunraku,0,0,0,,{\q2}But... even if I {\i1}could{\i0} pick it up, \Nhow would I go about doing it?
+Dialogue: 100,0:10:41.54,0:10:46.42,Default,Sunraku,0,0,0,,It was pretty much luck that let me recover that mineral...
+Dialogue: 100,0:10:46.92,0:10:48.38,Default,Emul,0,0,0,,Honestly.
+Dialogue: 100,0:10:50.88,0:10:53.92,Default,Emul,0,0,0,,The mana used to open gates isn't free, you know!
+Dialogue: 100,0:10:56.39,0:10:58.68,Default,Sunraku,0,0,0,,That's it!
+Dialogue: 100,0:10:59.39,0:11:01.89,Default,Sunraku,0,0,0,,You just gave me a great idea, Emul!
+Dialogue: 100,0:11:01.89,0:11:04.10,Default,Sunraku,0,0,0,,That'll work just fine!
+Dialogue: 100,0:11:04.10,0:11:07.61,Default,Emul,0,0,0,,Wh-What are you going to do?!
+Dialogue: 100,0:11:09.69,0:11:11.07,Default,Sunraku,0,0,0,,Just you wait!
+Dialogue: 100,0:11:11.07,0:11:14.82,Default,Sunraku,0,0,0,,{\q2}I'm gonna take that Crystal Scorpion minefield \Nswarming with elite monsters{minefield swarming with level-100-plus monsters...}
+Dialogue: 100,0:11:14.82,0:11:17.62,Default,Sunraku,0,0,0,,and turn it into a walk in the park!
+Dialogue: 100,0:11:18.49,0:11:22.24,Default,Emul,0,0,0,,Please put me down now!
+Dialogue: 100,0:11:34.13,0:11:37.26,Default,Sunraku,0,0,0,,What's wrong, buddy? I'm right here!
+Dialogue: 100,0:11:39.26,0:11:41.01,Default,Sunraku,0,0,0,,So scary!
+Dialogue: 100,0:11:50.31,0:11:52.98,Default,Sunraku,0,0,0,,Oh, gosh, I'm surrounded!
+Dialogue: 100,0:11:52.98,0:11:56.53,Default,Sunraku,0,0,0,,What do I do? I'm in so much trouble!
+Dialogue: 100,0:12:02.49,0:12:04.04,Default,Sunraku,0,0,0,,Just kidding.
+Dialogue: 100,0:12:04.70,0:12:06.37,Default,Sunraku,0,0,0,,Six-Boat Leap!
+Dialogue: 100,0:12:12.21,0:12:13.55,Default,Sunraku,0,0,0,,Okay, great!
+Dialogue: 100,0:12:13.96,0:12:16.05,Default,Sunraku,0,0,0,,Carapace breakage confirmed!
+Dialogue: 100,0:12:20.05,0:12:23.14,Default,Sunraku,0,0,0,,You wanna run me through the scorpion blender, huh?
+Dialogue: 100,0:12:23.14,0:12:26.23,Default,Sunraku,0,0,0,,Part of me would like to find out what that feels like,
+Dialogue: 100,0:12:26.23,0:12:30.15,Default,Sunraku,0,0,0,,but it might be kinda traumatic, so I'll pass this time.
+Dialogue: 100,0:12:31.27,0:12:32.94,Default,Sunraku,0,0,0,,{\an8}Enter Travel!
+Dialogue: 100,0:12:50.17,0:12:53.42,Default,Sunraku,0,0,0,,{\an8}Three cheers for civilization! Inventoria!
+Dialogue: 100,0:12:53.42,0:12:56.30,Default,Sunraku,0,0,0,,{\an8}Technology always gets the last laugh!
+Dialogue: 100,0:12:59.38,0:13:02.76,Default,Sunraku,0,0,0,,{\i1}I got the idea from watching Emul use that item.
+Dialogue: 100,0:13:02.76,0:13:08.06,Default,Sunraku,0,0,0,,{\q2}{\i1}I can move myself instantly to the Inventoria, \Nlike I'd transmit an item or a weapon.
+Dialogue: 100,0:13:08.06,0:13:11.44,Default,Sunraku,0,0,0,,{\q2}{\i1}That means I can create myself \Na safe space wherever I need it!
+Dialogue: 100,0:13:12.23,0:13:17.94,Default,Sunraku,0,0,0,,This Inventoria thing is seriously OP if you use it right!
+Dialogue: 100,0:13:18.65,0:13:22.36,Default,Sunraku,0,0,0,,Now... guess it's time to head back.
+Dialogue: 100,0:13:23.49,0:13:25.12,Default,Sunraku,0,0,0,,{\an8}Exit Travel!
+Dialogue: 100,0:13:42.72,0:13:44.43,Default,Sunraku,0,0,0,,Hell yeah!
+Dialogue: 100,0:13:44.43,0:13:48.39,Default,Sunraku,0,0,0,,Just like I thought, the Crystal Scorpions cleared out!
+Dialogue: 100,0:13:48.39,0:13:50.23,Default,Sunraku,0,0,0,,Time to loot all the spoils!
+Dialogue: 100,0:13:56.94,0:14:01.32,Default,Sunraku,0,0,0,,{\q2}Materials from monsters that tough \Nhave gotta be pretty rare!
+Dialogue: 100,0:14:01.32,0:14:04.37,Default,Sunraku,0,0,0,,Bet you Bilac could make something awesome out of them!
+Dialogue: 100,0:14:04.37,0:14:07.24,Default,Sunraku,0,0,0,,I'm so awesome! I'm a genius!
+Dialogue: 100,0:14:20.63,0:14:23.22,Default,Sunraku,0,0,0,,I'm gonna make materials out of every one of you!
+Dialogue: 100,0:14:23.22,0:14:26.51,Default,Sunraku,0,0,0,,Come at me in the tens or the hundreds!
+Dialogue: 100,0:14:29.56,0:14:33.85,Default,Sunraku,0,0,0,,{\q2}Just you wait, Bilac! \NI'm gonna have a huge collection for you!
+Dialogue: 100,0:14:38.36,0:14:41.32,Default,Sunraku,0,0,0,,{\i1}Players have a hard limit on inventory capacity.
+Dialogue: 100,0:14:38.90,0:14:45.28,Default,Sunraku,0,0,0,,{\an8}Heave-ho! Heave-ho!{bg}
+Dialogue: 100,0:14:41.32,0:14:45.28,Default,Sunraku,0,0,0,,{\q2}{\i1}If you carry too much, \Nit gets too heavy and slows you down.{If you carry too much, it gets too heavy, and slows you down.}
+Dialogue: 100,0:14:45.66,0:14:46.57,Default,Sunraku,0,0,0,,{\i1}But...
+Dialogue: 100,0:14:47.12,0:14:53.21,Default,Sunraku,0,0,0,,{\q2}{\i1}The Inventoria lets you store \Nunlimited objects with no penalty at all!
+Dialogue: 100,0:14:50.70,0:14:53.54,Default,Sunraku,0,0,0,,{\an8}Yay! Yay! Unlimited!{bg}
+Dialogue: 100,0:14:53.96,0:14:56.04,Default,Sunraku,0,0,0,,{\an8\i1}So if you use it just right...
+Dialogue: 100,0:15:02.92,0:15:08.72,Default,Sunraku,0,0,0,,{\q2}I can get unlimited materials from \Nthe absurdly high-level Crystal Scorpions!{I can get unlimited materials from the over-level-100 Crystal Scorpions!}
+Dialogue: 100,0:15:08.72,0:15:10.93,Default,Sunraku,0,0,0,,You rock, Inventoria!
+Dialogue: 100,0:15:11.31,0:15:16.44,Default,Sunraku,0,0,0,,{\q2}{\i1}I just hide out in there until \Nthe Crystal Scorpions' aggro dies down...{I just hide out in the Inventoria until the Crystal Scorpions' aggro dies down...}
+Dialogue: 100,0:15:18.81,0:15:23.32,Default,Sunraku,0,0,0,,{\q2}{\i1}Then I return to the real world \Nwhen the heat's off, and would you look at that?
+Dialogue: 100,0:15:23.74,0:15:27.74,Default,Sunraku,0,0,0,,{\q2}{\i1}The Crystal Scorpions are gone, \Nback to hiding in the scenery...{The Crystal Scorpions are gone, back to hiding in the scenery,}
+Dialogue: 100,0:15:27.99,0:15:32.74,Default,Sunraku,0,0,0,,{\q2}{\i1}and the ground is littered with items \Ngenerated from their infighting!
+Dialogue: 100,0:15:33.12,0:15:36.33,Default,Sunraku,0,0,0,,Figuring out these little tricks is what I love about gaming!
+Dialogue: 100,0:15:36.33,0:15:39.25,Default,Sunraku,0,0,0,,I'm gonna get so many valuable materials!
+Dialogue: 100,0:15:39.96,0:15:41.34,Default,Sunraku,0,0,0,,Although...
+Dialogue: 100,0:15:41.67,0:15:44.51,Default,Sunraku,0,0,0,,looks like I'm pretty low on MP.{Looks like I'm pretty low on MP.}
+Dialogue: 100,0:15:44.51,0:15:48.51,Default,Sunraku,0,0,0,,I'm down to my last use of the Inventoria.
+Dialogue: 100,0:15:48.89,0:15:52.60,Default,Sunraku,0,0,0,,But I still got tons of sweet item drops!
+Dialogue: 100,0:15:52.60,0:15:55.02,Default,Sunraku,0,0,0,,I'll do one last run, then head back.
+Dialogue: 100,0:15:56.02,0:16:01.02,Default,Sunraku,0,0,0,,{\q2}Still, there's something so satisfying \Njust looking through rare items.{Still, there's something so satisfying just looking through rare items...}
+Dialogue: 100,0:16:02.23,0:16:04.11,Default,Sunraku,0,0,0,,Eh? What's this?
+Dialogue: 100,0:16:04.49,0:16:06.15,Default,Sunraku,0,0,0,,Wait a minute!
+Dialogue: 100,0:16:06.61,0:16:08.78,Default,Sunraku,0,0,0,,I still don't have a stinger?
+Dialogue: 100,0:16:09.41,0:16:13.66,Default,Sunraku,0,0,0,,You can't fight a scorpion and not get a stinger, can you?
+Dialogue: 100,0:16:13.66,0:16:15.91,Default,Sunraku,0,0,0,,It's kind of their most defining feature!{It's kind of the most defining feature!}
+Dialogue: 100,0:16:16.87,0:16:22.42,Default,Sunraku,0,0,0,,Maybe it's too sturdy to tear off just from basic infighting?{Maybe the stinger's too sturdy to tear off just from basic infighting?}
+Dialogue: 100,0:16:23.30,0:16:26.42,Default,Sunraku,0,0,0,,Seems pretty plausible, which means...
+Dialogue: 100,0:16:26.76,0:16:31.18,Default,Sunraku,0,0,0,,The Crystal Scorpion's stinger could be the rare drop!
+Dialogue: 100,0:16:31.60,0:16:33.14,Default,Sunraku,0,0,0,,Okay, I get it.
+Dialogue: 100,0:16:33.14,0:16:35.89,Default,Sunraku,0,0,0,,I definitely wanna get me one of those.
+Dialogue: 100,0:16:36.23,0:16:36.93,Default,Sunraku,0,0,0,,But...
+Dialogue: 100,0:16:37.89,0:16:42.98,Default,Sunraku,0,0,0,,{\q2}in order to get that rare drop,{In order to get that rare drop,} I'm gonna have to face \Na horde of level-100-plus monsters,
+Dialogue: 100,0:16:42.98,0:16:46.94,Default,Sunraku,0,0,0,,{\q2}in a place with awful footing, \Nand pinpoint target the stinger.
+Dialogue: 100,0:16:48.57,0:16:56.12,Default,Sunraku,0,0,0,,{\q2}And the part I'm after is super tough \Nthat normal attacks won't break it off.{And the part I'm after is so super-tough that normal attacks won't break it off.}
+Dialogue: 100,0:17:07.51,0:17:08.88,Default,Sunraku,0,0,0,,C'mon, guys.
+Dialogue: 100,0:17:08.88,0:17:11.97,Default,Sunraku,0,0,0,,This is some trash game-tier stuff, y'know?
+Dialogue: 100,0:17:14.76,0:17:17.31,Default,Sunraku,0,0,0,,But that's what's gonna make it fun!
+Dialogue: 100,0:17:17.64,0:17:19.27,Default,Sunraku,0,0,0,,Let's get it done!
+Dialogue: 100,0:17:20.02,0:17:23.69,Default,Sunraku,0,0,0,,{\q2}I'm gonna tear off your precious stinger, \Nno matter what it takes!
+Dialogue: 100,0:17:24.23,0:17:26.69,Default,Sunraku,0,0,0,,On my honor as a trash gamer!
+Dialogue: 100,0:17:40.25,0:17:42.42,Default,Sunraku,0,0,0,,Even with my buff stack, it's a no-go?!
+Dialogue: 100,0:17:42.42,0:17:44.63,Default,Sunraku,0,0,0,,Figured it'd be that tough!{Figures it'd be that tough!}
+Dialogue: 100,0:17:44.63,0:17:46.21,Default,Sunraku,0,0,0,,Didn't even leave a crack!
+Dialogue: 100,0:17:51.76,0:17:54.85,Default,Sunraku,0,0,0,,{\i1}I had a feeling I might need some help on this.
+Dialogue: 100,0:17:57.85,0:18:02.31,Default,Sunraku,0,0,0,,{\i1}I'll have to get their attacks to focus on a single stinger!
+Dialogue: 100,0:18:03.77,0:18:06.94,Default,Sunraku,0,0,0,,{\i1}I can't fully control my enemies' attacks.
+Dialogue: 100,0:18:07.65,0:18:11.86,Default,Sunraku,0,0,0,,{\i1}Getting the best possible pull out of RNG...{Getting the best possible pull out of the random number generator...}
+Dialogue: 100,0:18:12.49,0:18:15.12,Default,Sunraku,0,0,0,,{\i1}That's what being a gamer is about!
+Dialogue: 100,0:18:19.04,0:18:21.04,Default,Sunraku,0,0,0,,{\i1}Dodge the stingers' attacks.
+Dialogue: 100,0:18:21.04,0:18:22.00,Default,Sunraku,0,0,0,,{\i1}Land.
+Dialogue: 100,0:18:24.21,0:18:27.50,Default,Sunraku,0,0,0,,{\q2}{\i1}Stay at the very last second \Nto lure the other scorpions' attack...{Stay to the very last second to lure the other scorpions' attack...}
+Dialogue: 100,0:18:28.50,0:18:30.92,Default,Sunraku,0,0,0,,{\i1}Yes, this should do the trick!{Yes, that could do it!}
+Dialogue: 100,0:18:31.42,0:18:33.93,Default,Sunraku,0,0,0,,{\i1}I only get one chance at this.
+Dialogue: 100,0:18:34.93,0:18:36.93,Default,Sunraku,0,0,0,,Enter Travel!
+Dialogue: 100,0:18:42.73,0:18:45.44,Default,Sunraku,0,0,0,,Then right back to reality!
+Dialogue: 100,0:18:49.07,0:18:51.11,Default,Sunraku,0,0,0,,Perfect placement!
+Dialogue: 100,0:18:51.49,0:18:54.11,Default,Sunraku,0,0,0,,You rock, Goddess of RNG!
+Dialogue: 100,0:18:54.57,0:18:57.53,Default,Sunraku,0,0,0,,Now that the stinger's pretty busted...
+Dialogue: 100,0:18:58.03,0:19:00.41,Default,Sunraku,0,0,0,,Glowing Pierce!
+Dialogue: 100,0:19:04.41,0:19:07.04,Default,Sunraku,0,0,0,,Just break already!
+Dialogue: 100,0:19:10.25,0:19:12.59,Default,Sunraku,0,0,0,,Yeah! How you like that?!
+Dialogue: 100,0:19:12.88,0:19:16.09,Default,Sunraku,0,0,0,,That's what I can do when I put my mind to it!
+Dialogue: 100,0:19:16.64,0:19:19.60,Default,Sunraku,0,0,0,,Got me a rare drop!
+Dialogue: 100,0:19:19.93,0:19:22.31,Default,Sunraku,0,0,0,,{\i1}The second I claim it,
+Dialogue: 100,0:19:22.31,0:19:25.60,Default,Sunraku,0,0,0,,{\i1}even if I'm insta-killed, I'll still get to keep the...
+Dialogue: 100,0:19:26.60,0:19:28.56,Default,Sunraku,0,0,0,,{\i1}Hey. Hang on.
+Dialogue: 100,0:19:28.56,0:19:29.61,Default,Sunraku,0,0,0,,{\i1}Huh?
+Dialogue: 100,0:19:29.82,0:19:32.57,Default,Sunraku,0,0,0,,{\i1}I'm not as close as I thought I was.
+Dialogue: 100,0:19:33.44,0:19:35.78,Default,Sunraku,0,0,0,,{\i1}Huh? You're kidding me, right?
+Dialogue: 100,0:19:35.78,0:19:36.86,Default,Sunraku,0,0,0,,{\i1}I almost had it.
+Dialogue: 100,0:19:37.41,0:19:40.37,Default,Sunraku,0,0,0,,{\i1}If my trajectory had been just a little different...{If my trajectory had been just a little different,}
+Dialogue: 100,0:19:40.87,0:19:42.12,Default,Sunraku,0,0,0,,{\i1}I could've had it.
+Dialogue: 100,0:19:43.87,0:19:49.13,Default,Sunraku,0,0,0,,{\i1}Hey, you listening? Goddess of RNG?
+Dialogue: 100,0:19:49.13,0:19:54.13,Default,Sunraku,0,0,0,,{\i1}Why you gotta be so cruel?
+Dialogue: 100,0:20:00.05,0:20:03.93,Default,Emul,0,0,0,,A-Are you all right, Sunraku?!
+Dialogue: 100,0:20:07.73,0:20:11.94,Default,Emul,0,0,0,,{\q2}You haven't moved this whole time, \Nand you seem to be trembling...
+Dialogue: 100,0:20:13.61,0:20:14.36,Default,Sunraku,0,0,0,,Yeah...
+Dialogue: 100,0:20:14.90,0:20:19.20,Default,Sunraku,0,0,0,,{\q2}I can break off the scorpion's stinger, \Nand it's possible to retrieve it.
+Dialogue: 100,0:20:19.78,0:20:23.95,Default,Sunraku,0,0,0,,I know that now, so... I guess that's enough.
+Dialogue: 100,0:20:24.62,0:20:26.00,Default,Sunraku,0,0,0,,It's enough, yeah.{It's enough. Yeah, it is.}
+Dialogue: 100,0:20:29.17,0:20:31.67,Default,Sunraku,0,0,0,,Like hell it is!
+Dialogue: 100,0:20:31.67,0:20:33.46,Default,Sunraku,0,0,0,,It doesn't mean jack if I don't get the thing!
+Dialogue: 100,0:20:36.51,0:20:40.30,Default,Sunraku,0,0,0,,Screw you, Goddess of RNG! You totally suck!
+Dialogue: 100,0:20:40.30,0:20:44.35,Default,Sunraku,0,0,0,,{\q2}Missing it when you almost had it \Nis the biggest psychological blow you can take!
+Dialogue: 100,0:20:44.35,0:20:47.27,Default,Sunraku,0,0,0,,And despite getting stuck in the scorpion blender,
+Dialogue: 100,0:20:47.27,0:20:50.35,Default,Sunraku,0,0,0,,why didn't it tear up the Staring Bird Mask?!
+Dialogue: 100,0:20:50.35,0:20:54.07,Default,Sunraku,0,0,0,,{\q2}Was it a miracle? Why is {\i1}that {\i0}\Nwhere I pull the miracle RNG?!
+Dialogue: 100,0:20:54.07,0:20:57.49,Default,Sunraku,0,0,0,,It actually kinda makes me more pissed!
+Dialogue: 100,0:20:58.07,0:21:01.99,Default,Emul,0,0,0,,Sunraku has grown rather unstable.
+Dialogue: 100,0:21:04.83,0:21:06.87,Default,Sunraku,0,0,0,,That pissed me off way too much.
+Dialogue: 100,0:21:06.87,0:21:10.46,Default,Sunraku,0,0,0,,I don't wanna look at any more scorpions for a while.
+Dialogue: 100,0:21:16.34,0:21:20.47,Default,Sunraku,0,0,0,,There's only one way to bounce back from this.
+Dialogue: 100,0:21:21.22,0:21:22.97,Default,Emul,0,0,0,,What is it?{Wh-What is is?}
+Dialogue: 100,0:21:23.39,0:21:27.56,Default,Sunraku,0,0,0,,{\q2}I'm gonna brag to Bilac about \Nthe materials I got and bathe in her praise!
+Dialogue: 100,0:21:28.35,0:21:33.19,Default,Sunraku,0,0,0,,{\q2}I just know she'll appreciate \Nhow valuable these materials are!
+Dialogue: 100,0:21:33.19,0:21:35.48,Default,Sunraku,0,0,0,,Time is money! Let's go, Emul!
+Dialogue: 100,0:21:35.98,0:21:39.24,Default,Emul,0,0,0,,R-Righty-o...
+Dialogue: 100,0:21:39.24,0:21:44.45,Default,Sunraku,0,0,0,,{\q2}Nothing beats the moment when you brag \Nto someone about your accomplishments!
+Dialogue: 100,0:21:44.45,0:21:46.95,Default,Emul,0,0,0,,That's rather perverse thinking!
+Dialogue: 100,0:21:46.95,0:21:50.41,Default,Sunraku,0,0,0,,Sorry, but I take that as a compliment!

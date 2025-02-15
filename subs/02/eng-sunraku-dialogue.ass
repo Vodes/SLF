@@ -1,0 +1,313 @@
+﻿[Script Info]
+Title: English (US)
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+LayoutResX: 1920
+LayoutResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Corinthian Medium,78,&H00FAFAFA,&H000019FF,&H00000000,&HC4000000,-1,0,0,0,100,100,0,0,1,3.75,1.8,2,150,150,63,1
+Style: Default Alt,Corinthian Medium,78,&H00FAFAFA,&H000019FF,&H0081393C,&HC40D0D0D,-1,0,0,0,100,100,0,0,1,3.75,1.8,2,150,150,63,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:58.96,0:00:58.96,Default,chptr,0,0,0,,{OP}
+Dialogue: 0,0:02:29.00,0:02:29.00,Default,chptr,0,0,0,,{Part A}
+Dialogue: 0,0:11:30.00,0:11:30.00,Default,chptr,0,0,0,,{Part B}
+Dialogue: 0,0:22:09.98,0:22:09.98,Default,chptr,0,0,0,,{ED}
+Dialogue: 0,0:00:08.53,0:00:10.07,Default,Mob A,0,0,0,,Awesome...
+Dialogue: 0,0:00:10.07,0:00:13.49,Default,Mob A,0,0,0,,That's gotta be high-level equipment... right?
+Dialogue: 0,0:00:13.49,0:00:15.20,Default,Mob B,0,0,0,,And that crest...
+Dialogue: 0,0:00:15.20,0:00:17.25,Default,Mob B,0,0,0,,Isn't it from that achievement-hunting clan?{It's from that achievement-focused clan, right?}
+Dialogue: 0,0:00:18.04,0:00:21.25,Default,Mob A,0,0,0,,What's someone like that doing here in the starting town?
+Dialogue: 0,0:00:26.46,0:00:30.59,Default,Psyger-0,0,0,0,,{\i1}I'd heard Hizutome gives all his characters the same name,{I'd heard Hizutome-kun gives all his characters the same name,}
+Dialogue: 0,0:00:30.59,0:00:32.60,Default,Psyger-0,0,0,0,,{\i1}so I thought I'd be able to find him.{so I thought I'd be able to find him...}
+Dialogue: 0,0:00:33.01,0:00:37.93,Default,Psyger-0,0,0,0,,{\q2}{\i1}Since there's no way a new player \Nwouldn't come to this town...{Since there's no way a starting player wouldn't come to this town...}
+Dialogue: 0,0:00:54.45,0:00:57.08,Default,Rei,0,0,0,,Maybe I just missed him.
+Dialogue: 0,0:02:40.72,0:02:42.81,Default,Sunraku,0,0,0,,Show me what you're really made of...{Give me something to enjoy here,}
+Dialogue: 0,0:02:45.81,0:02:49.69,Default,Sunraku,0,0,0,,SLF!
+Dialogue: 0,0:02:58.49,0:03:00.49,Default,Sunraku,0,0,0,,Let's start by figuring out your patterns.{First, let's watch your patterns.}
+Dialogue: 0,0:03:15.55,0:03:17.84,Default,Sunraku,0,0,0,,It's still a boss for beginners,{It's still a boss for beginners.}
+Dialogue: 0,0:03:17.84,0:03:20.14,Default,Sunraku,0,0,0,,so its movements are easy to read, and it won't have any...
+Dialogue: 0,0:03:21.56,0:03:23.52,Default,Sunraku,0,0,0,,insta-kill moves!
+Dialogue: 0,0:03:25.69,0:03:28.15,Default,Sunraku,0,0,0,,I can beat this thing without taking a hit.
+Dialogue: 0,0:03:28.15,0:03:31.19,Default,Sunraku,0,0,0,,Since even one hit would kill me anyway!
+Dialogue: 0,0:03:38.07,0:03:38.66,Default,Sunraku,0,0,0,,Huh?!
+Dialogue: 0,0:03:39.62,0:03:42.91,Default,Sunraku,0,0,0,,{\q2}I knew your durability was getting low, \Nbut did you just break on your first attack?!{but did you just break on your first hit?!}
+Dialogue: 0,0:03:45.83,0:03:48.37,Default,Sunraku,0,0,0,,And I was starting to like these little guys, too!{I was getting attached to these little guys, too!}
+Dialogue: 0,0:03:49.79,0:03:51.63,Default,Sunraku,0,0,0,,A tough hide, eh?
+Dialogue: 0,0:03:51.63,0:03:53.25,Default,Sunraku,0,0,0,,In that case...
+Dialogue: 0,0:03:56.30,0:03:58.09,Default,Sunraku,0,0,0,,I've got something I'd like to try out.
+Dialogue: 0,0:04:02.43,0:04:04.27,Default,Sunraku,0,0,0,,I'll turn you into snake fillets!{I'll make you into snake fillets!}
+Dialogue: 0,0:04:06.39,0:04:08.06,Default,Sunraku,0,0,0,,Screw Pi—
+Dialogue: 0,0:04:17.74,0:04:19.28,Default,Sunraku,0,0,0,,What the heck is this?{Wh-What the heck is this?}
+Dialogue: 0,0:04:19.61,0:04:20.62,Default,Sunraku,0,0,0,,Poop?!
+Dialogue: 0,0:04:24.08,0:04:25.41,Default,Sunraku,0,0,0,,Well, hmm.
+Dialogue: 0,0:04:26.12,0:04:27.91,Default,Sunraku,0,0,0,,I might've underestimated this thing.
+Dialogue: 0,0:04:31.67,0:04:34.88,Default,Sunraku,0,0,0,,Well, don't you look proud of yourself?
+Dialogue: 0,0:04:35.42,0:04:37.13,Default,Sunraku,0,0,0,,I'll have you know,
+Dialogue: 0,0:04:37.13,0:04:41.93,Default,Sunraku,0,0,0,,{\q2}I've beaten trash games \Nwith mechanics {\i1}way{\i0} cheaper than this.
+Dialogue: 0,0:04:42.89,0:04:45.77,Default,Sunraku,0,0,0,,A little poop-flinging won't be enough to keep me down!{A little poop-flinging won't be enough to get me down!}
+Dialogue: 0,0:04:49.10,0:04:51.40,Default,Sunraku,0,0,0,,{\i1}The poison deals 1 damage every 10 seconds.{The poison deals me one damage every ten seconds.}
+Dialogue: 0,0:04:51.73,0:04:54.52,Default,Sunraku,0,0,0,,{\i1}Which means I've got about 4 minutes left to live.{Which means I've got about four minutes left.}
+Dialogue: 0,0:04:56.32,0:05:00.57,Default,Sunraku,0,0,0,,{\q2}{\i1}I'll need a reliable way to land crits \Nif I wanna make it in time!{I'll need a reliable way to land criticals if I wanna make it in time!}
+Dialogue: 0,0:05:01.66,0:05:04.62,Default,Sunraku,0,0,0,,{\i1}Criticals in this game don't trigger at random.
+Dialogue: 0,0:05:05.16,0:05:08.00,Default,Sunraku,0,0,0,,{\q2}{\i1}They seem to happen when you land \Nan attack in an ideal way,{They seem to trigger when you land an attack in an ideal way,}
+Dialogue: 0,0:05:08.00,0:05:11.67,Default,Sunraku,0,0,0,,{\i1}or hit an enemy in their weak point.
+Dialogue: 0,0:05:11.67,0:05:14.34,Default,Sunraku,0,0,0,,{\i1}This thing's covered in tough scales.{This thing's covered in tough scales...}
+Dialogue: 0,0:05:14.34,0:05:17.00,Default,Sunraku,0,0,0,,{\i1}In other words, the only weak point has gotta be the head!
+Dialogue: 0,0:05:24.10,0:05:26.43,Default,Sunraku,0,0,0,,Still, it won't be that easy to land a hit!{Still, it's hard to land a hit there!}
+Dialogue: 0,0:05:26.76,0:05:27.85,Default,Sunraku,0,0,0,,In that case,{In that case...}
+Dialogue: 0,0:05:27.85,0:05:29.02,Default,Sunraku,0,0,0,,I'll just have to make one!{I'll have to make my own weak point!}
+Dialogue: 0,0:05:34.02,0:05:35.23,Default,Sunraku,0,0,0,,Screw Pierce!
+Dialogue: 0,0:05:42.61,0:05:43.45,Default,Sunraku,0,0,0,,{\i1}Yes!
+Dialogue: 0,0:05:43.82,0:05:46.74,Default,Sunraku,0,0,0,,{\i1}Now, stack more hits on the wound!
+Dialogue: 0,0:05:48.24,0:05:52.62,Default,Sunraku,0,0,0,,{\q2}{\i1}The defensive properties of a wounded section \Nchange, triggering all crit hits!{The defensive properties of a wounded section change, allowing criticals to trigger there!}
+Dialogue: 0,0:05:55.08,0:05:59.09,Default,Sunraku,0,0,0,,{\i1}I'll just hack away until my stamina gives out!{Now, just hack away until my stamina gives out!}
+Dialogue: 0,0:06:02.72,0:06:06.30,Default,Sunraku,0,0,0,,Crud! I don't even know how much HP this thing has!
+Dialogue: 0,0:06:06.30,0:06:07.56,Default,Sunraku,0,0,0,,Am I even gonna make it?!
+Dialogue: 0,0:06:12.77,0:06:13.90,Default,Sunraku,0,0,0,,Yeah...
+Dialogue: 0,0:06:14.69,0:06:18.40,Default,Sunraku,0,0,0,,Beating {\i1}Failia Chronicle{\i0} made me pretty cocky.
+Dialogue: 0,0:06:19.23,0:06:21.90,Default,Sunraku,0,0,0,,"It's just a mainstream game for casuals..."{"It's just a mass-appeal game for casuals..."}
+Dialogue: 0,0:06:22.24,0:06:25.03,Default,Sunraku,0,0,0,,"I can no-hit this thing easy, no need for potions..."{"I can no-hit this thing easy, no need for recovery items..."}
+Dialogue: 0,0:06:25.36,0:06:26.41,Default,Sunraku,0,0,0,,That's what I thought.
+Dialogue: 0,0:06:29.20,0:06:31.25,Default,Sunraku,0,0,0,,I was arrogant.
+Dialogue: 0,0:06:36.13,0:06:37.63,Default,Sunraku,0,0,0,,But...
+Dialogue: 0,0:06:42.21,0:06:43.47,Default,Sunraku,0,0,0,,Flash Counter!
+Dialogue: 0,0:06:50.35,0:06:52.89,Default,Sunraku,0,0,0,,You're not gonna eat me that easily!
+Dialogue: 0,0:06:53.31,0:06:56.06,Default,Sunraku,0,0,0,,You'll regret covering me with your gunk!{You're gonna regret covering me with your poop!}
+Dialogue: 0,0:06:56.06,0:06:57.40,Default,Sunraku,0,0,0,,Screw Pierce!
+Dialogue: 0,0:07:18.63,0:07:20.25,Default,Sunraku,0,0,0,,Heck yeah!
+Dialogue: 0,0:07:20.25,0:07:21.96,Default,Sunraku,0,0,0,,I freaking did it!
+Dialogue: 0,0:07:22.30,0:07:24.34,Default,Sunraku,0,0,0,,You see that, poopsnake?!
+Dialogue: 0,0:07:30.05,0:07:33.43,Default,Sunraku,0,0,0,,I bet these dropped items could fetch some major dough!
+Dialogue: 0,0:07:35.85,0:07:38.06,Default,Sunraku,0,0,0,,Oh, crap! I'm still running out of time!
+Dialogue: 0,0:07:38.73,0:07:40.48,Default,Sunraku,0,0,0,,Is that all the loot it dropped?
+Dialogue: 0,0:07:40.48,0:07:42.32,Default,Sunraku,0,0,0,,I didn't miss anything, did I?{I didn't miss anything?}
+Dialogue: 0,0:07:43.44,0:07:45.57,Default,Sunraku,0,0,0,,I gotta distribute my new skillpoints.{I gotta distribute my level-up points...}
+Dialogue: 0,0:07:45.57,0:07:46.95,Default,Sunraku,0,0,0,,No, there's no time!
+Dialogue: 0,0:07:47.57,0:07:51.16,Default,Sunraku,0,0,0,,Just dump it all into stamina and agility!
+Dialogue: 0,0:07:51.16,0:07:53.91,Default,Sunraku,0,0,0,,The minute I get to town, I'll buy an antidote...
+Dialogue: 0,0:07:53.91,0:07:56.71,Default,Sunraku,0,0,0,,Wait, I dunno where the shops are! I won't make it!
+Dialogue: 0,0:07:56.71,0:07:59.54,Default,Sunraku,0,0,0,,I'd better register my respawn point first!
+Dialogue: 0,0:07:59.54,0:08:01.63,Default,Sunraku,0,0,0,,That'd be an inn, right?
+Dialogue: 0,0:08:01.63,0:08:04.30,Default,Sunraku,0,0,0,,But I don't know where that is either, damn it!
+Dialogue: 0,0:08:12.18,0:08:15.64,Default,Reiji,0,0,0,,You want to tame a dog-type monster, right, Mia?
+Dialogue: 1,0:08:15.93,0:08:16.89,Default,Mia,0,0,0,,{\pos(960,865)}Yeah.
+Dialogue: 1,0:08:16.89,0:08:19.81,Default,Mia,0,0,0,,{\pos(960,865)}I'm not allowed to have pets in my apartment,
+Dialogue: 1,0:08:19.81,0:08:22.31,Default,Mia,0,0,0,,{\pos(960,865)}but I know you can have monsters as pets in this game.{but I know you can have monsters as pets in this game...}
+Dialogue: 0,0:08:22.77,0:08:26.44,Default,Mia,0,0,0,,So I hope you'll help me out today, Yamamoto!{So I hope you'll help me out today, Yamamoto-kun!}
+Dialogue: 0,0:08:26.78,0:08:28.90,Default,Reiji,0,0,0,,{\i1}After 3 months of trying,{After three months of trying,}
+Dialogue: 0,0:08:28.90,0:08:33.45,Default,Reiji,0,0,0,,{\q2}{\i1}I finally got the girl I'm crushing on \Nto start playing SLF with me!
+Dialogue: 0,0:08:33.99,0:08:39.46,Default,Reiji,0,0,0,,{\q2}{\i1\an8}And I've maneuvered myself into \Nthe role of the advice-giving veteran!
+Dialogue: 0,0:08:39.46,0:08:42.38,Default,Reiji,0,0,0,,{\i1}I can't let this chance pass me by!
+Dialogue: 0,0:08:42.38,0:08:44.75,Default,Mia,0,0,0,,Um, Yamamoto?{Um... Yamamoto-kun?}
+Dialogue: 0,0:08:45.30,0:08:47.42,Default,Reiji,0,0,0,,S-Sorry, it's nothing!
+Dialogue: 0,0:08:49.55,0:08:53.01,Default,Reiji,0,0,0,,{\q2}Mia, game etiquette dictates \Nthat we don't use real-life names here.
+Dialogue: 0,0:08:53.01,0:08:55.26,Default,Reiji,0,0,0,,We use character names.
+Dialogue: 0,0:08:55.26,0:08:57.14,Default,Mia,0,0,0,,Oh, really?
+Dialogue: 0,0:08:57.14,0:08:59.31,Default,Mia,0,0,0,,Reiji, then, right?{Reiji-kun, then, right?}
+Dialogue: 0,0:08:59.64,0:09:00.85,Default,Reiji,0,0,0,,{\i1}Yes!
+Dialogue: 0,0:09:00.85,0:09:03.36,Default,Reiji,0,0,0,,{\i1}I even got her calling me by my first name!{I even got her calling me by my given name!}
+Dialogue: 0,0:09:03.36,0:09:05.27,Default,Reiji,0,0,0,,{\i1}I owe you big, SLF!
+Dialogue: 0,0:09:06.78,0:09:07.94,Default,Mia,0,0,0,,What's that?
+Dialogue: 0,0:09:09.32,0:09:11.32,Default,Mia,0,0,0,,A-A monster?!{A monster?!}
+Dialogue: 0,0:09:13.24,0:09:15.70,Default,Reiji,0,0,0,,Wait! It's got a character name!{Wait, wait! It's got a character name!}
+Dialogue: 0,0:09:15.70,0:09:17.83,Default,Reiji,0,0,0,,That means it's not a monster, it's a player!{It's not a monster, it's a player!}
+Dialogue: 0,0:09:18.66,0:09:20.50,Default,Mia,0,0,0,,{\an8}So I shouldn't attack?
+Dialogue: 0,0:09:20.50,0:09:24.17,Default,Reiji,0,0,0,,{\an8}If you PK, you'll end up with a skull in front of your name!
+Dialogue: 0,0:09:26.59,0:09:28.17,Default,Mia,0,0,0,,I wouldn't want that.{I wouldn't want that...}
+Dialogue: 0,0:09:28.17,0:09:31.51,Default,Mia,0,0,0,,But what's he running like that for, then?
+Dialogue: 0,0:09:32.59,0:09:34.97,Default,Reiji,0,0,0,,I bet he got hit with that poison poop.
+Dialogue: 0,0:09:34.97,0:09:35.55,Default,Reiji,0,0,0,,Hey!
+Dialogue: 0,0:09:36.18,0:09:38.43,Default,Reiji,0,0,0,,You, over there! Sunraku!
+Dialogue: 0,0:09:39.14,0:09:42.52,Default,Reiji,0,0,0,,Keep going straight! That white building there is the inn!
+Dialogue: 0,0:09:42.52,0:09:45.98,Default,Reiji,0,0,0,,{\q2}But your respawn point won't register \Nuntil you get into the bed,
+Dialogue: 0,0:09:45.98,0:09:47.02,Default,Reiji,0,0,0,,so be careful!
+Dialogue: 0,0:09:48.78,0:09:50.61,Default,Sunraku,0,0,0,,Thanks, man!
+Dialogue: 0,0:09:51.95,0:09:54.12,Default,Reiji,0,0,0,,You'd see this a lot back when the game started,{You saw this a lot back when the game started,}
+Dialogue: 0,0:09:54.12,0:09:56.28,Default,Reiji,0,0,0,,before there was a whole lot of fan documentation.{before there was a whole lot of fan documentation...}
+Dialogue: 0,0:09:56.66,0:10:01.37,Default,Reiji,0,0,0,,{\q2}Players who got poisoned by that snake \Nand had to full sprint into town.{Players who got poisoned by that snake and had to run full-tilt into town.}
+Dialogue: 0,0:10:02.75,0:10:04.00,Default,Reiji,0,0,0,,Looking at the guy,
+Dialogue: 0,0:10:04.00,0:10:06.75,Default,Reiji,0,0,0,,{\q2}I bet he's going for an agility build \Nand sold off his starting gear.{I'm betting he's going for an agility build and sold off his armor at the start.}
+Dialogue: 0,0:10:07.09,0:10:11.26,Default,Mia,0,0,0,,Reiji, you sounded like a real veteran just now! I love it.{Reiji-kun, you sounded like a real veteran just now! I love it.}
+Dialogue: 0,0:10:12.55,0:10:14.01,Default,Reiji,0,0,0,,You think?
+Dialogue: 0,0:10:15.55,0:10:18.31,Default,Reiji,0,0,0,,{\i1}Thanks, Mr. Bluebird!
+Dialogue: 0,0:10:19.72,0:10:21.60,Default,NPC Receptionist,0,0,0,,You want to stay the night, then?
+Dialogue: 0,0:10:21.60,0:10:28.23,Default,NPC Receptionist,0,0,0,,{\q2}We provide places of sanctuary \Nwhere pioneers can rest easy.
+Dialogue: 0,0:10:28.23,0:10:29.02,Default,NPC Receptionist,0,0,0,,For instance—
+Dialogue: 0,0:10:29.02,0:10:31.78,Default,Sunraku,0,0,0,,Skip the explanation and rent me a dang bed already!{Skip the explanation and rent me a dang bed!}
+Dialogue: 0,0:10:32.11,0:10:33.32,Default,NPC Receptionist,0,0,0,,Understood.
+Dialogue: 0,0:10:33.32,0:10:35.45,Default,NPC Receptionist,0,0,0,,I'll see if I can find you a free roo—{I'll see if I can find you an free roo—}
+Dialogue: 0,0:10:34.78,0:10:35.45,Default Alt,Sunraku,0,0,0,,Hurry up!
+Dialogue: 0,0:10:35.45,0:10:37.32,Default,Sunraku,0,0,0,,Hurry it up!{Hur! Ry! Up!}
+Dialogue: 0,0:10:37.32,0:10:39.95,Default,Sunraku,0,0,0,,I'm down to my last HP here!{I'm down to my last HP, here!}
+Dialogue: 0,0:10:40.66,0:10:43.71,Default,NPC Receptionist,0,0,0,,Please proceed to room 102, then.
+Dialogue: 0,0:10:41.58,0:10:43.71,Default Alt,Sunraku,0,0,0,,Right, thanks!
+Dialogue: 0,0:10:49.75,0:10:52.67,Default,Window Voice,0,0,0,,{\i1}Respawn point registered.
+Dialogue: 0,0:10:52.67,0:10:53.88,Default,Sunraku,0,0,0,,Heck yeah!
+Dialogue: 0,0:10:54.38,0:10:55.26,Default,Sunraku,0,0,0,,I made i—
+Dialogue: 0,0:11:06.40,0:11:07.77,Default,Rakuro,0,0,0,,That was close!
+Dialogue: 0,0:11:07.77,0:11:09.94,Default,Rakuro,0,0,0,,I made it just in time.
+Dialogue: 0,0:11:10.52,0:11:12.65,Default,Rakuro,0,0,0,,Still, I ended up dead.
+Dialogue: 0,0:11:13.40,0:11:16.41,Default,Rakuro,0,0,0,,I'm just glad I didn't lose my items.
+Dialogue: 0,0:11:16.99,0:11:19.62,Default,Rakuro,0,0,0,,That player who told me where the inn was...
+Dialogue: 0,0:11:19.62,0:11:22.04,Default,Rakuro,0,0,0,,I'm gonna have to thank him the next time we meet.{I'm gonna have to thank him the next time I see him.}
+Dialogue: 0,0:11:22.91,0:11:25.87,Default,Rakuro,0,0,0,,{\an8\i1}Still... SLF, the god-tier game.{Still... SLF, the god-tier game.}
+Dialogue: 0,0:11:25.87,0:11:27.54,Default,Rakuro,0,0,0,,{\an8\i1}It's pretty darn cool!
+Dialogue: 0,0:11:38.51,0:11:39.60,Default,Sunraku,0,0,0,,All righty...
+Dialogue: 0,0:11:39.89,0:11:44.18,Default,Sunraku,0,0,0,,Secondale here is my first SLF town experience.{Secondia here is my first SLF town experience.}
+Dialogue: 0,0:11:44.48,0:11:47.90,Default,Sunraku,0,0,0,,I'll need a map, some recovery items, and new equipment.
+Dialogue: 0,0:11:48.27,0:11:52.65,Default,Sunraku,0,0,0,,{\q2}I'll need a powerful main weapon \Nto replace my Mercenary Twinblade!
+Dialogue: 0,0:11:53.11,0:11:55.95,Default,Sunraku,0,0,0,,I wanna give this thing all I've got, after all!
+Dialogue: 0,0:11:55.95,0:11:58.28,Default,Sunraku,0,0,0,,I'm gonna hit the top player ranks!
+Dialogue: 0,0:11:59.62,0:12:02.16,Default,Mob A,0,0,0,,Who is that half-naked bird-man?
+Dialogue: 0,0:12:02.16,0:12:03.33,Default,Mob B,0,0,0,,A player?
+Dialogue: 0,0:12:03.33,0:12:05.54,Default,Mob C,0,0,0,,Looks like a meme build or something.
+Dialogue: 0,0:12:05.54,0:12:06.58,Default,Mob D,0,0,0,,Scary!
+Dialogue: 0,0:12:06.58,0:12:09.67,Default,Sunraku,0,0,0,,Yeah, maybe I'll buy clothes first.
+Dialogue: 0,0:12:11.63,0:12:13.63,Default,Sunraku,0,0,0,,I'll take the cheapest thing you've got.
+Dialogue: 0,0:12:13.63,0:12:15.67,Default,Shopkeep,0,0,0,,Thank you for your patronage!
+Dialogue: 0,0:12:16.55,0:12:18.05,Default,Sunraku,0,0,0,,I'm not in this for the stat.{I'm not in this for the DEF.}
+Dialogue: 0,0:12:18.05,0:12:21.18,Default,Sunraku,0,0,0,,{\q2}{\pos(594.67,1017)}I just want the other players \Nto stop treating me like a weirdo.
+Dialogue: 0,0:12:21.18,0:12:23.06,Default,Sunraku,0,0,0,,{\pos(594.67,1017)}Now, the matching headpiece...
+Dialogue: 0,0:12:25.35,0:12:26.81,Default,Sunraku,0,0,0,,{\an8}Maybe I'll pass.
+Dialogue: 0,0:12:27.10,0:12:29.85,Default,NPC Shopkeep,0,0,0,,{\an8}Oh? A Goblin Hand Axe?
+Dialogue: 0,0:12:29.85,0:12:31.77,Default,NPC Shopkeep,0,0,0,,{\an8}You expect me to buy this garbage?
+Dialogue: 0,0:12:32.73,0:12:34.65,Default,Sunraku,0,0,0,,Yeah, I guess that figures.
+Dialogue: 0,0:12:34.65,0:12:36.86,Default,Sunraku,0,0,0,,Show me your lineup of weapons, then.
+Dialogue: 0,0:12:36.86,0:12:37.78,Default,NPC Shopkeep,0,0,0,,Sure thing.
+Dialogue: 1,0:12:41.37,0:12:42.53,Default,Sunraku,0,0,0,,Nothing too hot here.
+Dialogue: 0,0:12:43.49,0:12:47.12,Default,Sunraku,0,0,0,,My Vorpal Choppers are way better.
+Dialogue: 0,0:12:47.12,0:12:51.04,Default,NPC Shopkeep,0,0,0,,Well, of course, those are pretty rare weapons.{Well, the Vorpal Chopper is a pretty rare weapon.}
+Dialogue: 0,0:12:51.04,0:12:52.92,Default,Sunraku,0,0,0,,Oh, I was wondering about that.
+Dialogue: 0,0:12:52.92,0:12:56.67,Default,NPC Shopkeep,0,0,0,,If you want something to top that, I'd have to make it.
+Dialogue: 0,0:12:56.67,0:12:57.92,Default,Sunraku,0,0,0,,You can make me stuff?
+Dialogue: 0,0:12:57.92,0:12:59.63,Default,NPC Shopkeep,0,0,0,,If you bring me materials.
+Dialogue: 0,0:12:59.97,0:13:04.81,Default,Narrator,0,0,0,,{\i1}The path from Secondale to the third city, Thirdrema,
+Dialogue: 0,0:13:04.81,0:13:08.60,Default,Narrator,0,0,0,,{\i1}passes through the Diremarsh Waste.
+Dialogue: 0,0:13:09.14,0:13:12.65,Default,Narrator,0,0,0,,{\i1}There's a location within it where ores can be mined.
+Dialogue: 0,0:13:12.65,0:13:17.78,Default,Sunraku,0,0,0,,{\q2}So if I bring him some ore from here, \Nhe'll craft me a weapon.{So if I bring him some ore from here, he'll make me a weapon.}
+Dialogue: 0,0:13:17.78,0:13:18.90,Default,Sunraku,0,0,0,,One, two...
+Dialogue: 0,0:13:23.78,0:13:25.41,Default,Sunraku,0,0,0,,Another stone?!{Another Stone?!}
+Dialogue: 0,0:13:25.41,0:13:28.20,Default,Sunraku,0,0,0,,Where's all the stupid ore?!
+Dialogue: 0,0:13:29.46,0:13:33.71,Default,Sunraku,0,0,0,,He said I'd need 5 or 6 pieces to make a good weapon...{He said I'd need five or six pieces to make a good weapon...}
+Dialogue: 0,0:13:34.21,0:13:37.92,Default,Sunraku,0,0,0,,{\q2}But I've been swinging this pickax \Nfor half an hour and I've only got 2!{But I've been swinging this pickax for thirty minutes and I've only got two!}
+Dialogue: 0,0:13:38.34,0:13:41.26,Default,Sunraku,0,0,0,,Plus the marsh mud makes it hard to move.{Plus the marsh mud makes it hard to move...}
+Dialogue: 0,0:13:41.93,0:13:46.01,Default,Sunraku,0,0,0,,And this pickax I bought to do the mining...
+Dialogue: 0,0:13:46.51,0:13:48.52,Default,Sunraku,0,0,0,,is too freaking heavy!{is too darn heavy!}
+Dialogue: 0,0:13:56.61,0:13:58.07,Default,Sunraku,0,0,0,,What do you want?
+Dialogue: 0,0:13:58.07,0:14:00.49,Default,Sunraku,0,0,0,,Buzz off already. I've got stuff to do!
+Dialogue: 0,0:14:10.08,0:14:13.29,Default,Sunraku,0,0,0,,Okay. I get the picture.
+Dialogue: 0,0:14:13.29,0:14:17.21,Default,Sunraku,0,0,0,,{\q2}Since you weren't being aggressive, \NI thought we could coexist...
+Dialogue: 0,0:14:17.50,0:14:20.21,Default,Sunraku,0,0,0,,But if you wanna be turned into materials that bad,
+Dialogue: 0,0:14:20.21,0:14:21.67,Default,Sunraku,0,0,0,,be my guest!{I'll oblige!}
+Dialogue: 0,0:14:26.60,0:14:28.43,Default,Sunraku,0,0,0,,How do you like that, dumb frog?!{How do you like that, dummy frog?!}
+Dialogue: 0,0:14:28.43,0:14:31.64,Default,Sunraku,0,0,0,,Now I'll finish you off!
+Dialogue: 0,0:14:32.10,0:14:38.73,Default,Sunraku,0,0,0,,{\q2}{\i1}The Splitblade Leather armor I'm wearing is made from \NMud Frog Skin and has slash resistance.
+Dialogue: 0,0:14:38.73,0:14:43.53,Default,Sunraku,0,0,0,,{\q2}{\i1}So it's pretty likely slash attacks \Nwon't work on froggy here, either.
+Dialogue: 0,0:14:43.53,0:14:46.62,Default,Sunraku,0,0,0,,{\q2}{\i1}Which means my only options \Nare bludgeon and pierce attacks!
+Dialogue: 0,0:14:47.07,0:14:50.16,Default,Sunraku,0,0,0,,{\i1}And so, it's time for this to shine!{And so... It's time for my Goblin Hand Axe,}
+Dialogue: 0,0:14:50.16,0:14:54.16,Default,Sunraku,0,0,0,,{\q2}{\i1}This Goblin Hand Axe is so blunt, \Nit actually deals bludgeon damage!{whose edge is so blunt it actually deals bludgeon damage, to shine!}
+Dialogue: 0,0:14:58.63,0:14:59.88,Default,Sunraku,0,0,0,,This is taking forever!
+Dialogue: 0,0:15:00.25,0:15:02.59,Default,Sunraku,0,0,0,,Why can't I run in this stupid marsh?!
+Dialogue: 0,0:15:02.59,0:15:09.14,Default,Narrator,0,0,0,,{\q2}{\i1}The marsh slows down player movement significantly, \Nforcing them into a walking state.
+Dialogue: 0,0:15:10.06,0:15:16.15,Default,Sunraku,0,0,0,,{\q2}With a body shape like that, \NI bet it can't get off its back so easily!{With a body shape like that, I bet it can't get off its back very easily!}
+Dialogue: 0,0:15:23.24,0:15:26.16,Default,Sunraku,0,0,0,,That was so easy, it didn't even cheer me up.
+Dialogue: 0,0:15:26.91,0:15:28.99,Default,Sunraku,0,0,0,,Back to mining, I guess.
+Dialogue: 0,0:15:28.99,0:15:30.74,Default,Sunraku,0,0,0,,It's a pain, but...
+Dialogue: 0,0:15:32.04,0:15:33.95,Default,Mob Girl B,0,0,0,,{\an8}It'll be fine.
+Dialogue: 0,0:15:32.79,0:15:35.91,Default,Sunraku,0,0,0,,{\i1}I'm seeing more new players around.{I'm seeing more new players around...}
+Dialogue: 0,0:15:33.95,0:15:35.91,Default,Mob Girl A,0,0,0,,{\an8}There's no way we can do it at night.
+Dialogue: 0,0:15:35.91,0:15:36.87,Default,Mob Girl B,0,0,0,,{\an8}Sure we can!
+Dialogue: 0,0:15:36.87,0:15:37.67,Default,Mob Girl A,0,0,0,,{\an8}No way, no way!
+Dialogue: 0,0:15:38.04,0:15:41.25,Default,Mob Girl B,0,0,0,,{\an8}We totally can! You can't be afraid to try!
+Dialogue: 0,0:15:38.21,0:15:41.25,Default,Sunraku,0,0,0,,{\q2}{\i1}I'll probably be seeing more soon, \Nwith summer break starting.
+Dialogue: 0,0:15:41.71,0:15:45.92,Default,Sunraku,0,0,0,,{\q2}{\i1}Which means it's only a matter of time \Nbefore the race for materials begins.
+Dialogue: 0,0:15:46.34,0:15:48.14,Default,Sunraku,0,0,0,,{\i1}If I don't wanna get caught up in that,
+Dialogue: 0,0:15:48.14,0:15:51.64,Default,Sunraku,0,0,0,,{\i1}I'd better grab as much as I can, while I can!{I'd better collect as much as I can, while I can!}
+Dialogue: 0,0:15:54.56,0:15:55.93,Default,NPC Shopkeep,0,0,0,,W-Wow.
+Dialogue: 0,0:15:55.93,0:15:58.94,Default,NPC Shopkeep,0,0,0,,You got quite a lot in just 3 hours!{You got quite a lot in just three hours!}
+Dialogue: 0,0:16:00.11,0:16:03.32,Default,Sunraku,0,0,0,,It's gotta be enough to make something pretty good, huh?
+Dialogue: 0,0:16:03.32,0:16:05.78,Default,NPC Shopkeep,0,0,0,,Hold on. I'll bring up the list.
+Dialogue: 0,0:16:07.82,0:16:09.53,Default,NPC Shopkeep,0,0,0,,Hey, hey...
+Dialogue: 0,0:16:09.74,0:16:12.66,Default,NPC Shopkeep,0,0,0,,You've got a Marshcoffin Fossil!
+Dialogue: 0,0:16:12.66,0:16:15.50,Default,Sunraku,0,0,0,,Yeah, I remember picking up that weird thing.
+Dialogue: 0,0:16:15.50,0:16:17.50,Default,NPC Shopkeep,0,0,0,,I can use that to make this!
+Dialogue: 0,0:16:19.54,0:16:21.54,Default,Sunraku,0,0,0,,Hey, nice.
+Dialogue: 0,0:16:21.54,0:16:23.25,Default,Sunraku,0,0,0,,I'll take it, then.
+Dialogue: 0,0:16:23.67,0:16:24.59,Default,Sunraku,0,0,0,,And make it a double!
+Dialogue: 0,0:16:24.59,0:16:27.59,Default,NPC Shopkeep,0,0,0,,Sure thing. I'll have them made right away.
+Dialogue: 0,0:16:34.68,0:16:37.89,Default,NPC Shopkeep,0,0,0,,{\an8}There you are. A pair of Marsh Daggers!
+Dialogue: 0,0:16:39.48,0:16:42.56,Default,Sunraku,0,0,0,,Wow, god-tier weapons!
+Dialogue: 0,0:16:42.56,0:16:50.28,Default,Sunraku,0,0,0,,{\q2}And halving durability reduction for a time \Nafter a crit{And halving durability reduction for a time after a critical} makes them perfect for my playstyle!
+Dialogue: 0,0:16:50.74,0:16:53.87,Default,NPC Shopkeep,0,0,0,,Make sure to find and bring back even more materials.
+Dialogue: 0,0:16:53.87,0:16:56.25,Default,NPC Shopkeep,0,0,0,,Raising your weapons is part of our job, too.
+Dialogue: 0,0:16:56.79,0:16:57.87,Default,Sunraku,0,0,0,,"Raising" them?{"Raising" my weapons?}
+Dialogue: 0,0:16:58.41,0:17:03.17,Default,NPC Shopkeep,0,0,0,,{\q2}Users of forging magic like me \Ncan do more than just make weapons.
+Dialogue: 0,0:17:03.17,0:17:06.26,Default,NPC Shopkeep,0,0,0,,We can also upgrade them.
+Dialogue: 0,0:17:07.51,0:17:11.13,Default,NPC Shopkeep,0,0,0,,But see, weapons are like children to a blacksmith,
+Dialogue: 0,0:17:11.64,0:17:16.10,Default,NPC Shopkeep,0,0,0,,{\q2}so we prefer to say we "raise" them \Nto barbaric terms like "upgrade."{so we prefer to say we "raise" them to uncouth concepts like "upgrade."}
+Dialogue: 0,0:17:16.10,0:17:17.60,Default,Sunraku,0,0,0,,I get it!
+Dialogue: 0,0:17:17.89,0:17:19.35,Default,Sunraku,0,0,0,,{\an8\i1}By the way, I gotta say,
+Dialogue: 0,0:17:19.35,0:17:22.44,Default,Sunraku,0,0,0,,{\an8\i1}the NPC speech and mannerisms here are something else.
+Dialogue: 0,0:17:22.44,0:17:25.27,Default,Sunraku,0,0,0,,{\an8\i1}He's having a properly responsive conversation with me.
+Dialogue: 0,0:17:25.90,0:17:27.61,Default,Sunraku,0,0,0,,{\an8\i1}What kind of AI does this thing use?
+Dialogue: 0,0:17:28.07,0:17:30.11,Default,NPC Shopkeep,0,0,0,,Oh, hey, it's getting dark.
+Dialogue: 0,0:17:30.70,0:17:35.41,Default,NPC Shopkeep,0,0,0,,Make sure you don't leave town in armor like that.
+Dialogue: 0,0:17:35.41,0:17:36.58,Default,Sunraku,0,0,0,,How come?
+Dialogue: 0,0:17:36.58,0:17:40.50,Default,NPC Shopkeep,0,0,0,,Because nocturnal monsters are dangerous, of course.
+Dialogue: 0,0:17:40.50,0:17:43.38,Default,Sunraku,0,0,0,,Oh, the game's got that going on, huh?
+Dialogue: 0,0:17:43.38,0:17:44.96,Default,Sunraku,0,0,0,,Got it. I'll be careful.
+Dialogue: 0,0:17:44.96,0:17:46.84,Default,NPC Shopkeep,0,0,0,,Sure, see you later!
+Dialogue: 0,0:17:47.75,0:17:49.59,Default,Sunraku,0,0,0,,That's what I told him...
+Dialogue: 0,0:17:49.59,0:17:51.88,Default,Sunraku,0,0,0,,But my death debuff's already passed.{But my penalty for dying's already passed.}
+Dialogue: 0,0:17:52.76,0:17:54.80,Default,Sunraku,0,0,0,,And I got some quality info!{And I got some good info!}
+Dialogue: 0,0:17:54.80,0:17:56.31,Default,Sunraku,0,0,0,,Heck yeah!
+Dialogue: 0,0:17:56.31,0:18:03.31,Default,Sunraku,0,0,0,,{\q2}Time to use those "dangerous nocturnal monsters" \Nto break in my new weapons and pile on some levels!
+Dialogue: 0,0:18:05.73,0:18:07.32,Default,Psyger-0,0,0,0,,{\i1}Curious.
+Dialogue: 0,0:18:07.32,0:18:10.32,Default,Psyger-0,0,0,0,,{\i1}I've searched the entire beginners' area.
+Dialogue: 0,0:18:11.57,0:18:14.91,Default,Psyger-0,0,0,0,,Highest Strength Enchant Hell Flame...
+Dialogue: 0,0:18:15.28,0:18:16.24,Default,Psyger-0,0,0,0,,Apocalypse!
+Dialogue: 0,0:18:20.41,0:18:22.25,Default,Psyger-0,0,0,0,,{\i1}The only remaining possibility
+Dialogue: 0,0:18:22.25,0:18:25.79,Default,Psyger-0,0,0,0,,{\q2}{\i1}is that he managed to defeat this snake \Nwithout stopping by town or dying
+Dialogue: 0,0:18:25.79,0:18:27.59,Default,Psyger-0,0,0,0,,{\i1}and headed for Secondale...
+Dialogue: 0,0:18:31.21,0:18:34.30,Default,Psyger-0,0,0,0,,Could a brand-new player really accomplish such a thing?
+Dialogue: 0,0:18:36.05,0:18:39.39,Default,Psyger-0,0,0,0,,Well, Hizutome... probably could.{Well, Hizutome-kun... probably could.}
+Dialogue: 0,0:19:03.46,0:19:04.71,Default,Sunraku,0,0,0,,Not bad at all!
+Dialogue: 0,0:19:05.33,0:19:08.96,Default,Sunraku,0,0,0,,{\i1}Okay... let's lay out what I've learned.
+Dialogue: 0,0:19:09.50,0:19:13.72,Default,Sunraku,0,0,0,,{\i1}First, monster spawns change based on the time of day.{First, monster spawns change based on if it's day or night.}
+Dialogue: 0,0:19:14.59,0:19:20.76,Default,Sunraku,0,0,0,,{\q2}{\i1}Most nocturnal monsters are as aggressive \Nand dangerous as the weapons seller said.
+Dialogue: 0,0:19:20.76,0:19:22.60,Default,Sunraku,0,0,0,,{\i1}I got to level up faster,{That's helped me to make progress leveling up,}
+Dialogue: 0,0:19:22.93,0:19:25.69,Default,Sunraku,0,0,0,,{\i1}and learned some new skills, too.{and to learn some new skills, too.}
+Dialogue: 0,0:19:26.35,0:19:27.31,Default,Sunraku,0,0,0,,{\i1}But...
+Dialogue: 0,0:19:27.85,0:19:30.11,Default,Sunraku,0,0,0,,{\i1}doesn't this little guy seem too OP?!{this particular guy seems a little too powerful, doesn't he?!}
+Dialogue: 0,0:19:30.86,0:19:32.61,Default,Sunraku,0,0,0,,{\i1}It's totally broken!
+Dialogue: 0,0:19:33.86,0:19:37.86,Default,Sunraku,0,0,0,,{\q2}{\i1}This thing's movement and attacks \Nare on a whole other level from the Forest Goblins!{This thing's movement and attacks are on a whole other level from the forest Goblins!}
+Dialogue: 0,0:19:38.99,0:19:42.87,Default,Sunraku,0,0,0,,{\q2}{\i1}It's got lots of HP and incorporates feints \Ninto its fighting style{It's got lots of HP, and incorporates feints into its fighting style}
+Dialogue: 0,0:19:42.87,0:19:45.08,Default,Sunraku,0,0,0,,{\i1}like it's been doing it all its life!
+Dialogue: 0,0:19:45.75,0:19:48.54,Default,Sunraku,0,0,0,,{\i1}But the worst part of all...
+Dialogue: 0,0:19:56.01,0:19:57.05,Default,Sunraku,0,0,0,,Oh, come on!
+Dialogue: 0,0:19:57.59,0:20:01.30,Default,Sunraku,0,0,0,,Call Allies is supposed to be a weak monster ability!
+Dialogue: 0,0:20:01.89,0:20:03.97,Default,Sunraku,0,0,0,,{\i1}I had enough trouble with one, but look at all these!
+Dialogue: 0,0:20:05.73,0:20:08.44,Default,Sunraku,0,0,0,,{\i1}Even running away at full tilt, I might not survive...
+Dialogue: 0,0:20:10.31,0:20:11.19,Default,Sunraku,0,0,0,,{\i1}Running away?
+Dialogue: 0,0:20:12.40,0:20:14.65,Default,Sunraku,0,0,0,,{\i1}Hey, man, are you losing it?
+Dialogue: 0,0:20:14.90,0:20:18.16,Default,Sunraku,0,0,0,,{\i1}Are you enjoying this, or aren't you?!
+Dialogue: 0,0:20:28.96,0:20:30.17,Default,Sunraku,0,0,0,,Is that all you got?!
+Dialogue: 0,0:20:32.13,0:20:34.88,Default,Sunraku,0,0,0,,Gimme even more stuff to play with!{Give me even more to enjoy!}
+Dialogue: 0,0:20:37.92,0:20:41.01,Default,Sunraku,0,0,0,,{\i1}I've been underestimating this game.
+Dialogue: 0,0:20:43.22,0:20:45.56,Default,Sunraku,0,0,0,,{\i1}I've been having a lot of fun.
+Dialogue: 0,0:20:46.27,0:20:48.31,Default,Sunraku,0,0,0,,{\i1}I told myself that Triple-A games are pretty neat.{I've been telling myself, "god-tier games are pretty neat."}
+Dialogue: 0,0:20:49.56,0:20:52.90,Default,Sunraku,0,0,0,,{\i1}You could even say I was getting addicted.{You could even say I was getting into it.}
+Dialogue: 0,0:20:53.82,0:20:56.69,Default,Sunraku,0,0,0,,{\i1}But this game...
+Dialogue: 0,0:20:57.24,0:21:00.16,Default,Sunraku,0,0,0,,{\i1}SLF has way more to offer!
+Dialogue: 0,0:21:02.07,0:21:05.16,Default,Sunraku,0,0,0,,{\i1}On this day, in this instant...
+Dialogue: 0,0:21:06.12,0:21:09.54,Default,Sunraku,0,0,0,,{\i1}I encountered the true Shangri-La Frontier.
+Dialogue: 0,0:21:14.29,0:21:18.09,Default,Voice,0,0,0,,{\q2}{\i1}Unique monster, Lycagon the Nightslayer, \Nhas been encountered.{Unique monster, Lycagon the Nightslayer, encountered.}
+Dialogue: 0,0:21:18.63,0:21:21.84,Default,Sunraku,0,0,0,,{\i1}Unique{\i0}... monster?

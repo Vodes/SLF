@@ -1,0 +1,308 @@
+﻿[Script Info]
+Title: English (US)
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+LayoutResX: 1920
+LayoutResY: 1080
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Corinthian Medium,78,&H00FAFAFA,&H000019FF,&H00000000,&HC4000000,-1,0,0,0,100,100,0,0,1,3.75,1.8,2,150,150,63,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:42.02,0:00:42.02,Default,chptr,0,0,0,,{OP}
+Dialogue: 0,0:02:11.99,0:02:11.99,Default,chptr,0,0,0,,{Part A}
+Dialogue: 0,0:11:23.00,0:11:23.00,Default,chptr,0,0,0,,{Part B}
+Dialogue: 0,0:21:58.00,0:21:58.00,Default,chptr,0,0,0,,{ED}
+Dialogue: 100,0:00:02.90,0:00:06.74,Default,Narrator,0,0,0,,{\i1}We live in a world filled with countless games...{This world is filled with too many games to count,}
+Dialogue: 100,0:00:07.99,0:00:12.24,Default,Narrator,0,0,0,,{\i1}though the vast majority simply come and go in obscurity.
+Dialogue: 100,0:00:13.58,0:00:16.37,Default,Narrator,0,0,0,,{\i1}What's considered the best of the best{The greatest of all games}
+Dialogue: 100,0:00:16.37,0:00:21.71,Default,Narrator,0,0,0,,{\q2}{\i1}is the fully immersive VR game boasting \Nover 30 million players worldwide.{is the fully immersive VR game boasting over 30 million players worldwide—}
+Dialogue: 100,0:00:21.71,0:00:26.34,Default,Narrator,0,0,0,,{\i1}It rightly earns the status of "god-tier," Shangri-La Frontier!{Shangri-La Frontier, which rightly earns the title of "god-tier game"!}
+Dialogue: 100,0:00:28.01,0:00:31.93,Default,Narrator,0,0,0,,{\i1}One lover of trash games, Hizutome Rakurou,{One lover of trash games, Rakuro Hizutome,}
+Dialogue: 100,0:00:31.93,0:00:35.14,Default,Narrator,0,0,0,,{\i1}is trying out this very Triple-A!{is trying out the god-tier game, Shangri-La Frontier!}
+Dialogue: 100,0:00:35.93,0:00:40.60,Default,Narrator,0,0,0,,{\i1}What adventures await him there?
+Dialogue: 100,0:02:13.36,0:02:14.49,Default,Sunraku,0,0,0,,{\an8}Raising?
+Dialogue: 100,0:02:15.53,0:02:16.62,Default,Sunraku,0,0,0,,{\an8}Growth?
+Dialogue: 100,0:02:17.37,0:02:18.87,Default,Sunraku,0,0,0,,That's it!
+Dialogue: 100,0:02:18.87,0:02:21.20,Default,Sunraku,0,0,0,,I just need to do some "raising"!{I just need to do some raising!}
+Dialogue: 100,0:02:22.08,0:02:24.21,Default,Sunraku,0,0,0,,If there's no Ancient Craftsman around,
+Dialogue: 100,0:02:24.21,0:02:26.96,Default,Sunraku,0,0,0,,I just need to turn Bilac into one!{I just need to turn Bilac into an Ancient Craftsman!}
+Dialogue: 100,0:02:27.25,0:02:29.67,Default,Bilac,0,0,0,,{\an8}Me, an Ancient Craftsman?
+Dialogue: 100,0:02:31.55,0:02:33.59,Default,Bilac,0,0,0,,You got it, bird-man.
+Dialogue: 100,0:02:34.18,0:02:35.89,Default,Bilac,0,0,0,,I'll play along.
+Dialogue: 100,0:02:36.26,0:02:38.55,Default,Bilac,0,0,0,,I'm gonna become an Ancient Craftsman!
+Dialogue: 100,0:02:38.55,0:02:41.31,Default,Emul,0,0,0,,Yay, that's my big sis!{Yay, Big Sis Bee!}
+Dialogue: 100,0:02:41.31,0:02:42.89,Default,Sunraku,0,0,0,,Hell yeah!
+Dialogue: 100,0:02:42.89,0:02:45.98,Default,Sunraku,0,0,0,,Let's start the plan to level up Bilac!{Let's start the plan to cultivate Bilac!}
+Dialogue: 100,0:02:45.98,0:02:47.40,Default,Emul,0,0,0,,Yes, indeed!
+Dialogue: 100,0:02:47.40,0:02:49.82,Default,Bilac,0,0,0,,Y-Yeah!
+Dialogue: 100,0:02:51.65,0:02:52.57,Default,Emul,0,0,0,,So...
+Dialogue: 100,0:02:53.03,0:02:56.57,Default,Emul,0,0,0,,what exactly is the plan to help Big Sis Bee level up?{What exactly is the plan to cultivate Big Sis Bee?}
+Dialogue: 100,0:02:56.57,0:02:58.32,Default,Sunraku,0,0,0,,Huh? No clue.
+Dialogue: 100,0:02:58.32,0:02:59.45,Default,Bilac,0,0,0,,Dumbass.
+Dialogue: 100,0:02:59.74,0:03:01.33,Default,Sunraku,0,0,0,,Well, what do you expect?
+Dialogue: 100,0:03:01.54,0:03:02.83,Default,Bilac,0,0,0,,{\an8}Listen up.
+Dialogue: 100,0:03:02.83,0:03:06.75,Default,Bilac,0,0,0,,{\an8}To be an Ancient Craftsman, you gotta get two things.
+Dialogue: 100,0:03:07.17,0:03:08.50,Default,Sunraku,0,0,0,,And those are?{And what are those?}
+Dialogue: 100,0:03:09.04,0:03:13.21,Default,Bilac,0,0,0,,{\an8}The first is a remnant from the Divinity, a Legacy Weapon.
+Dialogue: 100,0:03:13.21,0:03:17.26,Default,Bilac,0,0,0,,{\q2}{\an8}A weapons craftsman can't forge crap \Nwith just speculation and theory.
+Dialogue: 100,0:03:18.80,0:03:21.51,Default,Bilac,0,0,0,,And the other, according to Pops...
+Dialogue: 100,0:03:22.56,0:03:28.02,Default,Bilac,0,0,0,,is a marjik oppleration zoonit.
+Dialogue: 100,0:03:28.77,0:03:32.28,Default,Sunraku,0,0,0,,A "marjik oppleration zoonit"?
+Dialogue: 100,0:03:35.70,0:03:38.91,Default,Sunraku,0,0,0,,{\an8}Are you trying to say a "magic operations unit"?{Are you trying to say "magic operations unit"?}
+Dialogue: 100,0:03:41.58,0:03:44.20,Default,Bilac,0,0,0,,Yeah, maybe that's one way to say it.
+Dialogue: 100,0:03:44.20,0:03:45.91,Default,Sunraku,0,0,0,,Pretty sure it's the only way to say it!{Pretty sure that's the only way to say it!}
+Dialogue: 100,0:03:47.83,0:03:49.75,Default,Bilac,0,0,0,,Point is!
+Dialogue: 100,0:03:49.75,0:03:53.71,Default,Bilac,0,0,0,,{\q2}If I'm gonna be an Ancient Craftsman, \NI gotta have a working Legacy Weapon
+Dialogue: 100,0:03:53.71,0:03:56.67,Default,Bilac,0,0,0,,and a marjik oppleration zoonit!
+Dialogue: 100,0:03:56.67,0:03:57.84,Default,Bilac,0,0,0,,Get it now?!{Get it?!}
+Dialogue: 100,0:03:57.84,0:04:01.97,Default,Bilac,0,0,0,,Neither one's gonna be easy to find!{Neither is gonna be easy to find!}
+Dialogue: 100,0:04:03.60,0:04:05.93,Default,Sunraku,0,0,0,,A Legacy Weapon, huh?
+Dialogue: 100,0:04:05.93,0:04:08.19,Default,Sunraku,0,0,0,,That'd be from the Divinity era, right?{That'd be a weapon from the Divinity era, right?}
+Dialogue: 100,0:04:08.60,0:04:10.19,Default,Emul,0,0,0,,Sunraku?
+Dialogue: 100,0:04:10.56,0:04:12.19,Default,Sunraku,0,0,0,,'Scuse me a minute.
+Dialogue: 100,0:04:17.36,0:04:18.70,Default,Emul,0,0,0,,Sunraku?!
+Dialogue: 100,0:04:18.95,0:04:20.82,Default,Bilac,0,0,0,,Where'd the guy go?{Where'd that guy get off to?}
+Dialogue: 100,0:04:26.33,0:04:27.83,Default,Sunraku,0,0,0,,Here we go.
+Dialogue: 100,0:04:29.37,0:04:32.17,Default,Sunraku,0,0,0,,A "Legacy Weapon" would be something like this, right?
+Dialogue: 100,0:04:35.38,0:04:40.05,Default,Bilac,0,0,0,,H-How'd you get your hands on this thing?!
+Dialogue: 100,0:04:40.47,0:04:43.18,Default,Sunraku,0,0,0,,Just a little something I got for beating Wethermon.
+Dialogue: 100,0:04:45.72,0:04:49.31,Default,Bilac,0,0,0,,That's a Legacy Weapon, all right.{That's a Legacy Weapon, all right...}
+Dialogue: 100,0:04:50.06,0:04:53.11,Default,Sunraku,0,0,0,,But didn't you say you needed a working one?{But you need a working one, right?}
+Dialogue: 100,0:04:53.11,0:04:56.03,Default,Sunraku,0,0,0,,I'm betting it won't gain "working" status...{I'm betting it won't gain "working" status}
+Dialogue: 100,0:04:56.53,0:05:01.61,Default,Sunraku,0,0,0,,until I fix this Ether Reactor thing.
+Dialogue: 100,0:05:01.99,0:05:06.83,Default,Bilac,0,0,0,,{\q2}The reason I need a working Legacy Weapon \Nto make myself an Ancient Craftsman...{The reason I need a working Legacy Weapon to make myself an Ancient Craftsman,}
+Dialogue: 100,0:05:07.87,0:05:10.54,Default,Bilac,0,0,0,,is so I can learn Divinity-era techniques.{is so I can learn techniques from the Divinity.}
+Dialogue: 100,0:05:12.79,0:05:16.88,Default,Bilac,0,0,0,,{\q2}I just need something in good enough shape \Nfor me to figure out how it works.
+Dialogue: 100,0:05:18.26,0:05:20.88,Default,Bilac,0,0,0,,And this one right here oughta do me just fine!{One in this good o' shape oughta do me just fine!}
+Dialogue: 100,0:05:20.88,0:05:22.39,Default,Sunraku,0,0,0,,Oh, great!
+Dialogue: 100,0:05:25.60,0:05:27.64,Default,Bilac,0,0,0,,Okay, then...
+Dialogue: 100,0:05:27.93,0:05:29.56,Default,Bilac,0,0,0,,Time to strip it down!
+Dialogue: 100,0:05:29.56,0:05:31.52,Default,Sunraku,0,0,0,,Hey, wait a second!
+Dialogue: 100,0:05:31.77,0:05:35.27,Default,Bilac,0,0,0,,What now? I'm all ready to go, here!
+Dialogue: 100,0:05:35.27,0:05:36.82,Default,Sunraku,0,0,0,,Sorry...
+Dialogue: 100,0:05:36.82,0:05:40.61,Default,Sunraku,0,0,0,,{\q2}I can't let you break it down \Nwithout consent from a few other people.
+Dialogue: 100,0:05:40.61,0:05:41.53,Default,Bilac,0,0,0,,Yeah?
+Dialogue: 100,0:05:42.28,0:05:48.49,Default,Sunraku,0,0,0,,Yeah... this Legacy Weapon came from the Inventoria.
+Dialogue: 100,0:05:48.95,0:05:55.21,Default,Sunraku,0,0,0,,{\q2}Katzo and Pencilgon made it sound like \Nall the weapons and armaments I saw{Katzo and Pencilgon made it sound like the weapons and armaments in the Inventoria}
+Dialogue: 100,0:05:55.21,0:05:58.46,Default,Sunraku,0,0,0,,were shared between the three of us.{are shared between the three of us.}
+Dialogue: 100,0:05:59.13,0:06:03.30,Default,Sunraku,0,0,0,,Which means {\i1}we{\i0} all own it.{Which means we all share possession of it.}
+Dialogue: 100,0:06:03.30,0:06:04.89,Default,Bilac,0,0,0,,Fine.
+Dialogue: 100,0:06:05.47,0:06:10.06,Default,Bilac,0,0,0,,{\q2}Then I guess you better find the other thing I need, \Nthe marjik oppleration zoonit.
+Dialogue: 100,0:06:10.39,0:06:12.06,Default,Bilac,0,0,0,,Let's see...
+Dialogue: 100,0:06:12.06,0:06:16.48,Default,Bilac,0,0,0,,Pops says you can find one in the Ruins of Past Glories.
+Dialogue: 100,0:06:16.48,0:06:19.36,Default,Sunraku,0,0,0,,Hey, that's a pretty detailed map!
+Dialogue: 100,0:06:19.65,0:06:20.86,Default,Sunraku,0,0,0,,Lemme see!
+Dialogue: 100,0:06:20.86,0:06:21.74,Default,Bilac,0,0,0,,Hey.
+Dialogue: 100,0:06:22.53,0:06:26.41,Default,Sunraku,0,0,0,,Okay... I'm starting from Thirdrema, so...{Okay... I'm departing out of Thirdrema, so...}
+Dialogue: 100,0:06:27.16,0:06:32.87,Default,Sunraku,0,0,0,,{\q2}I'll pass through the Prismatic Forest Grotto \Nto the fourth city, Fourfolkshire.
+Dialogue: 100,0:06:33.29,0:06:38.38,Default,Sunraku,0,0,0,,{\q2}Then I'll pass through the Canyon of Ancient Souls \Nto the eighth city, Eighthold.
+Dialogue: 100,0:06:38.38,0:06:43.05,Default,Sunraku,0,0,0,,From there, halfway to the eleventh city, Eleventar,{From there, halfway to the 11th city, Eleventar,}
+Dialogue: 100,0:06:43.05,0:06:46.76,Default,Sunraku,0,0,0,,is our destination, the Ruins of Past Glories.
+Dialogue: 100,0:06:47.35,0:06:51.14,Default,Sunraku,0,0,0,,Looks like there's a lot of split paths after Thirdrema.{Looks like there's a lot of path splits after Thirdrema.}
+Dialogue: 100,0:06:51.14,0:06:56.06,Default,Sunraku,0,0,0,,It'll be a pretty straightforward route, but it'll be a long way.
+Dialogue: 100,0:06:57.90,0:06:59.98,Default,Sunraku,0,0,0,,Wait, just past Eleventar...
+Dialogue: 100,0:06:59.98,0:07:02.19,Default,Sunraku,0,0,0,,The Lightless Barrens?!
+Dialogue: 100,0:07:02.57,0:07:05.57,Default,Sunraku,0,0,0,,Let's see... Items needed...
+Dialogue: 100,0:07:05.57,0:07:11.33,Default,Sunraku,0,0,0,,Receiver Delta, Positioner Delta, Transmitter Delta...
+Dialogue: 100,0:07:11.91,0:07:15.83,Default,Sunraku,0,0,0,,{\q2}I think I get the gist, but where do I even start \Nlooking for these things?
+Dialogue: 100,0:07:15.83,0:07:18.67,Default,Sunraku,0,0,0,,Surely you're not going to send me out blind...
+Dialogue: 100,0:07:19.00,0:07:19.88,Default,Vysache,0,0,0,,Right.
+Dialogue: 100,0:07:20.42,0:07:24.17,Default,Vysache,0,0,0,,Check out a place called the Lightless Barrens.
+Dialogue: 100,0:07:24.76,0:07:30.68,Default,Sunraku,0,0,0,,{\q2}That's the place Don Vash said{That's the place Aniki Vash said} would have the items \NI need for my bonus unique scenario!
+Dialogue: 100,0:07:31.14,0:07:33.72,Default,Sunraku,0,0,0,,Is this fate conspiring to send me right to it?!
+Dialogue: 100,0:07:33.72,0:07:35.10,Default,Sunraku,0,0,0,,Hell yeah!
+Dialogue: 100,0:07:35.10,0:07:37.65,Default,Sunraku,0,0,0,,I'm super hype for this now!
+Dialogue: 100,0:07:37.65,0:07:40.23,Default,Sunraku,0,0,0,,Let's get moving!
+Dialogue: 100,0:07:40.23,0:07:41.69,Default,Bilac,0,0,0,,Hang on a sec.
+Dialogue: 100,0:07:41.69,0:07:43.61,Default,Bilac,0,0,0,,I gotta pack for the trip.
+Dialogue: 100,0:07:45.49,0:07:49.12,Default,Sunraku,0,0,0,,Oh, cool! Bilac's coming, too?
+Dialogue: 100,0:07:49.12,0:07:51.08,Default,Sunraku,0,0,0,,Though that does raise the question...
+Dialogue: 100,0:07:51.08,0:07:55.12,Default,Sunraku,0,0,0,,How do I get out of the city, carting two rabbits around?
+Dialogue: 100,0:07:55.50,0:07:58.58,Default,Sunraku,0,0,0,,I can sort of hide Emul by wearing her around my neck.{I can sort of hide Emul by wearing her around my neck, but...}
+Dialogue: 100,0:07:59.21,0:08:03.46,Default,Sunraku,0,0,0,,{\q2}Maybe Bilac's gonna have to chug \NMP recovery items to maintain human form?{Maybe Bilac's gonna have to chug MP recovery items to maintain a human form?}
+Dialogue: 100,0:08:03.46,0:08:05.63,Default,Bilac,0,0,0,,Oh, I can't do any of that.{Oh, I can't transform into a human.}
+Dialogue: 100,0:08:05.63,0:08:07.97,Default,Sunraku,0,0,0,,What, really? What do we do, then?
+Dialogue: 100,0:08:07.97,0:08:11.35,Default,Bilac,0,0,0,,Well, I can't turn into human, but...{Well, I can't become a human, but...}
+Dialogue: 100,0:08:20.94,0:08:22.90,Default,Bilac,0,0,0,,Let's do this, Emul!
+Dialogue: 100,0:08:22.90,0:08:24.53,Default,Emul,0,0,0,,Righty-o!
+Dialogue: 100,0:08:25.78,0:08:28.70,Default,Bilac,0,0,0,,Behold our powers of camouflage!
+Dialogue: 100,0:08:28.70,0:08:30.03,Default,Emul,0,0,0,,Yes, indeed!
+Dialogue: 100,0:08:38.04,0:08:40.25,Default,Bilac,0,0,0,,You got yourself a perfect fur coat...
+Dialogue: 100,0:08:40.25,0:08:42.33,Default,Emul,0,0,0,,...and a fashionable scarf.{...and fashionable scarf.}
+Dialogue: 100,0:08:43.50,0:08:44.92,Default,Sunraku,0,0,0,,Fine, whatever.{Okay, whatever.}
+Dialogue: 100,0:08:44.92,0:08:49.22,Default,Bilac,0,0,0,,{\q2}Okay! Let's head through Fourfolkshire \Nand on to the Canyon of Ancient Souls!
+Dialogue: 100,0:08:49.22,0:08:50.93,Default,Bilac,0,0,0,,Get moving, bird-man!
+Dialogue: 100,0:08:50.93,0:08:52.76,Default,Sunraku,0,0,0,,You do know I have a name, right?{Could you at least learn my name?}
+Dialogue: 100,0:08:52.76,0:08:54.72,Default,Emul,0,0,0,,Yes, let us away!
+Dialogue: 100,0:08:55.14,0:08:57.06,Default,Sunraku,0,0,0,,First, though...
+Dialogue: 100,0:09:00.23,0:09:05.69,Default,Sunraku,0,0,0,,Gotta set my respawn point in the Rabituza Palace.{Gotta set my respawn point in the Palace of Rabituza...}
+Dialogue: 100,0:09:05.69,0:09:08.44,Default,Voice,0,0,0,,{\i1}Respawn point has been registered.{Respawn point registered.}
+Dialogue: 100,0:09:09.15,0:09:11.28,Default,Sunraku,0,0,0,,Okay, let's move!
+Dialogue: 100,0:09:19.91,0:09:22.04,Default,Narrator,0,0,0,,{\i1}The Canyon of Ancient Souls.
+Dialogue: 100,0:09:22.46,0:09:29.13,Default,Narrator,0,0,0,,{\q2}{\i1}The site of the last battle in a war that occurred \Nbefore humanity was as advanced as it is now.
+Dialogue: 100,0:09:29.97,0:09:36.22,Default,Narrator,0,0,0,,{\q2}{\i1}Ironically, the fighting had to be called off \Ndue to the arrival of monsters,
+Dialogue: 100,0:09:36.97,0:09:41.27,Default,Narrator,0,0,0,,{\q2}{\i1}but the large number of dead it produced \Ncaused miasma to cover the land,
+Dialogue: 100,0:09:41.56,0:09:45.40,Default,Narrator,0,0,0,,{\q2}{\i1}turning it into a nesting ground \Nfor undead creatures who despise the living.
+Dialogue: 100,0:09:45.98,0:09:50.07,Default,Emul,0,0,0,,Even now, it remains a grave danger to pioneers,
+Dialogue: 100,0:09:50.07,0:09:53.28,Default,Emul,0,0,0,,infested with undead and curses... so they say.
+Dialogue: 100,0:09:53.28,0:09:55.07,Default,Sunraku,0,0,0,,I never asked for the lore!{Don't tell me what they say!}
+Dialogue: 100,0:09:55.57,0:09:58.79,Default,Sunraku,0,0,0,,{\q2}I told you to keep talk \Nto a bare minimum while we're in town.{I told you to keep talk to a bare minimum in town.}
+Dialogue: 100,0:10:17.81,0:10:24.56,Default,Bilac,0,0,0,,{\q2}You'll be in it deep without a cleric \Nor holy items to fend off that miasma.{You'll be in it deep, without a cleric or holy items to fend off that miasma.}
+Dialogue: 100,0:10:24.56,0:10:26.56,Default,Sunraku,0,0,0,,{\an8}Yeah, I know.
+Dialogue: 100,0:10:26.56,0:10:31.07,Default,Sunraku,0,0,0,,{\q2}{\an8}If you spend too much time in that stuff, \Nyou end up with a "Hexed" status, right?{If you spend too much time in miasma you end up with "Hexed" status, right?}
+Dialogue: 100,0:10:31.07,0:10:33.82,Default,Sunraku,0,0,0,,That's why we ducked into this item shop.
+Dialogue: 100,0:10:34.20,0:10:37.12,Default,Sunraku,0,0,0,,I'm gonna get the things I need, then blow this town.{I'm gonna get the items I need, then blow this town.}
+Dialogue: 100,0:10:40.45,0:10:41.75,Default,Sunraku,0,0,0,,Holy Water's pricey!
+Dialogue: 100,0:10:44.50,0:10:49.80,Default,Sunraku,0,0,0,,{\q2}Although,{Although...} I might only need to buy \Nanti-miasma stuff for the two of you.{I might only need to buy anti-miasma stuff for you two guys.}
+Dialogue: 100,0:11:05.81,0:11:10.27,Default,Sunraku,0,0,0,,You can really tell, this is the Canyon of Ancient Souls.{Okay, got it. So this is the Canyon of Ancient Souls...}
+Dialogue: 100,0:11:14.99,0:11:17.11,Default,Sunraku,0,0,0,,Just like how you described it,{Just like you described it...}
+Dialogue: 100,0:11:17.11,0:11:19.49,Default,Sunraku,0,0,0,,the air quality looks awful.{The air quality looks awful.}
+Dialogue: 100,0:11:40.85,0:11:42.06,Default,Bilac,0,0,0,,Hang on a sec.
+Dialogue: 100,0:11:42.39,0:11:45.02,Default,Bilac,0,0,0,,How'd you get that aura of clean air around you?
+Dialogue: 100,0:11:46.73,0:11:48.23,Default,Sunraku,0,0,0,,Noticed, did you?
+Dialogue: 100,0:11:48.23,0:11:51.27,Default,Sunraku,0,0,0,,It's the effect of the mark Lycagon put on me!
+Dialogue: 100,0:11:52.40,0:11:57.53,Default,Sunraku,0,0,0,,{\q2}Any spell or curse from a source weaker than \Nthat dog gets canceled out!
+Dialogue: 100,0:11:57.53,0:11:59.66,Default,Bilac,0,0,0,,It can even nullify miasma?!
+Dialogue: 100,0:12:00.37,0:12:01.78,Default,Sunraku,0,0,0,,That said...
+Dialogue: 100,0:12:01.78,0:12:02.83,Default,Bilac,0,0,0,,What?{That said...?}
+Dialogue: 100,0:12:16.63,0:12:19.43,Default,Emul,0,0,0,,Sunraku! It's a Wyvern Zombie!
+Dialogue: 100,0:12:19.43,0:12:21.39,Default,Sunraku,0,0,0,,Dang, looks stinky.
+Dialogue: 100,0:12:37.36,0:12:40.57,Default,Bilac,0,0,0,,D-Did that happen because of the mark, too?
+Dialogue: 100,0:12:40.57,0:12:44.79,Default,Sunraku,0,0,0,,Yep. Anything lower level than me just runs away.
+Dialogue: 100,0:12:45.33,0:12:49.67,Default,Sunraku,0,0,0,,Too bad. I've got plenty of new skills I'd love to test out.{Too bad. I've got plenty of new skills I'd love to test out...}
+Dialogue: 100,0:13:01.59,0:13:02.97,Default,Sunraku,0,0,0,,Hey, Emul.
+Dialogue: 100,0:13:03.30,0:13:09.85,Default,Sunraku,0,0,0,,{\q2}I think that major level-up after the Wethermon fight\N{I think that major level-up Wethermon handed me} might have left me a tad overpowered.
+Dialogue: 100,0:13:09.85,0:13:11.44,Default,Emul,0,0,0,,It does appear that way!
+Dialogue: 100,0:13:11.73,0:13:15.73,Default,Bilac,0,0,0,,"Keep your hands off the Night Emperor's prey," huh?
+Dialogue: 100,0:13:15.73,0:13:18.57,Default,Bilac,0,0,0,,They're a buncha cowards, if you ask me.
+Dialogue: 100,0:13:19.15,0:13:23.41,Default,Bilac,0,0,0,,{\q2}Those Wyvern Zombies are so damn scared, \Nthey even forgot they could fly.
+Dialogue: 100,0:13:23.41,0:13:26.66,Default,Sunraku,0,0,0,,Guess this might just be a short stroll to the area boss.
+Dialogue: 100,0:13:26.66,0:13:28.83,Default,Emul,0,0,0,,Impressive as ever, Sunraku!
+Dialogue: 100,0:13:29.04,0:13:31.08,Default,Bilac,0,0,0,,Still, it's kinda too bad.
+Dialogue: 100,0:13:31.08,0:13:34.08,Default,Bilac,0,0,0,,I was hoping for a chance to flex my skills, here.
+Dialogue: 100,0:13:34.08,0:13:38.01,Default,Sunraku,0,0,0,,Y'know, I forgot to check out your stats, Bilac.
+Dialogue: 100,0:13:38.01,0:13:39.59,Default,Sunraku,0,0,0,,Are you even any good in a fight?
+Dialogue: 100,0:13:39.59,0:13:41.09,Default,Bilac,0,0,0,,What'd you say?!
+Dialogue: 100,0:13:41.09,0:13:43.26,Default,Bilac,0,0,0,,You saying I'm no good? Huh?!
+Dialogue: 100,0:13:43.26,0:13:45.80,Default,Sunraku,0,0,0,,I was kidding, I swear.
+Dialogue: 100,0:13:54.69,0:13:57.23,Default,Emul,0,0,0,,It didn't run from Sunraku on sight!
+Dialogue: 100,0:13:57.23,0:13:58.69,Default,Emul,0,0,0,,It must be a powerful foe!
+Dialogue: 100,0:13:58.94,0:14:00.90,Default,Sunraku,0,0,0,,That could be the case,{That could be the case...}
+Dialogue: 100,0:14:00.90,0:14:02.70,Default,Sunraku,0,0,0,,or maybe he just can't see me.{Or maybe he just can't see me.}
+Dialogue: 100,0:14:03.53,0:14:06.08,Default,Sunraku,0,0,0,,Since his head's gone.{He's got no head, see?}
+Dialogue: 100,0:14:13.67,0:14:16.21,Default,Emul,0,0,0,,H-He's letting us attack first.{H-He's letting us attack first!}
+Dialogue: 100,0:14:16.21,0:14:18.42,Default,Sunraku,0,0,0,,Maybe we can talk things out with the guy!
+Dialogue: 100,0:14:18.42,0:14:21.38,Default,Bilac,0,0,0,,Yeah, right! A dullahan don't even got a mouth!
+Dialogue: 100,0:14:22.09,0:14:23.88,Default,Sunraku,0,0,0,,Yeah, fair point.
+Dialogue: 100,0:14:27.64,0:14:29.31,Default,Emul,0,0,0,,He's readied his sword!
+Dialogue: 100,0:14:29.31,0:14:30.97,Default,Sunraku,0,0,0,,Okay...
+Dialogue: 100,0:14:30.97,0:14:32.81,Default,Sunraku,0,0,0,,Let's hunt a dullahan!
+Dialogue: 100,0:14:36.52,0:14:38.11,Default,Bilac,0,0,0,,Sounds good to me.
+Dialogue: 100,0:14:41.24,0:14:43.32,Default,Bilac,0,0,0,,Time to show off what I got!
+Dialogue: 100,0:14:43.32,0:14:46.07,Default,Sunraku,0,0,0,,Yeah! Looking forward to it, Bilac!
+Dialogue: 100,0:14:46.07,0:14:47.74,Default,Emul,0,0,0,,Yeah, Big Sis Bee!
+Dialogue: 100,0:14:47.74,0:14:49.33,Default,Emul,0,0,0,,I'm greatly looking forward to it!
+Dialogue: 100,0:14:49.33,0:14:50.66,Default,Sunraku,0,0,0,,{\an8}Mimicking me now?{Mimicking me!}
+Dialogue: 100,0:14:50.66,0:14:52.75,Default,Emul,0,0,0,,{\an8}Y-You just said what I was going to, that's all!
+Dialogue: 100,0:14:52.75,0:14:54.58,Default,Bilac,0,0,0,,Quit messing around. We've got incoming!
+Dialogue: 100,0:15:05.63,0:15:06.64,Default,Bilac,0,0,0,,Here it comes!
+Dialogue: 100,0:15:06.64,0:15:08.01,Default,Sunraku,0,0,0,,Got it!
+Dialogue: 100,0:15:08.64,0:15:09.85,Default,Sunraku,0,0,0,,Ignition!
+Dialogue: 100,0:15:10.51,0:15:14.06,Default,Sunraku,0,0,0,,Time to try out my new skills!
+Dialogue: 100,0:15:14.06,0:15:16.35,Default,Sunraku,0,0,0,,You better handle your own miasma countermeasures!
+Dialogue: 100,0:15:16.35,0:15:18.02,Default,Bilac,0,0,0,,No worries there!
+Dialogue: 100,0:15:25.03,0:15:27.16,Default,Emul,0,0,0,,I-It isn't safe!
+Dialogue: 100,0:15:27.16,0:15:28.82,Default,Sunraku,0,0,0,,Keep your ears tucked, Emul!
+Dialogue: 100,0:15:44.30,0:15:47.34,Default,Sunraku,0,0,0,,{\i1}If Lycagon's Mark didn't chase it off,
+Dialogue: 100,0:15:47.34,0:15:50.35,Default,Sunraku,0,0,0,,{\i1}it must be a powerful opponent with a higher level than me.
+Dialogue: 100,0:15:52.60,0:15:56.19,Default,Sunraku,0,0,0,,{\i1}But somehow, I don't feel threatened at all.
+Dialogue: 100,0:15:57.77,0:16:02.77,Default,Sunraku,0,0,0,,{\q2}{\i1}Maybe it's because I already fought \Nthe ultimate mounted warrior.
+Dialogue: 100,0:16:03.82,0:16:06.20,Default,Sunraku,0,0,0,,{\i1}First, let's get you off that horse!
+Dialogue: 100,0:16:15.79,0:16:17.41,Default,Sunraku,0,0,0,,Okay, now!
+Dialogue: 100,0:16:17.92,0:16:19.71,Default,Sunraku,0,0,0,,Vorpal Blade Tech!
+Dialogue: 100,0:16:25.30,0:16:28.18,Default,Sunraku,0,0,0,,Moon's Reflection, Version 3!{Moon's Reflection! Version 3!}
+Dialogue: 100,0:16:31.64,0:16:33.51,Default,Sunraku,0,0,0,,Watch yourself, buddy!
+Dialogue: 100,0:16:33.51,0:16:35.77,Default,Sunraku,0,0,0,,If you try to turn around when you're off-balance...
+Dialogue: 100,0:16:43.90,0:16:46.65,Default,Bilac,0,0,0,,A dead body's bound to be light.
+Dialogue: 100,0:16:46.65,0:16:48.78,Default,Bilac,0,0,0,,Bet I can send you flying...
+Dialogue: 100,0:16:49.32,0:16:51.49,Default,Bilac,0,0,0,,so get going, pal!{So get going, pal!}
+Dialogue: 100,0:16:51.49,0:16:53.91,Default,Bilac,0,0,0,,Megaton Swing!
+Dialogue: 100,0:16:59.62,0:17:02.83,Default,Sunraku,0,0,0,,Hey, nice hang time!
+Dialogue: 100,0:17:02.83,0:17:04.92,Default,Emul,0,0,0,,Impressive as ever, Big Sis Bee!
+Dialogue: 100,0:17:05.17,0:17:07.55,Default,Sunraku,0,0,0,,Don't let her show you up, Emul!
+Dialogue: 100,0:17:07.55,0:17:10.51,Default,Sunraku,0,0,0,,We need a follow-up! Get a spell ready!
+Dialogue: 100,0:17:10.51,0:17:12.64,Default,Emul,0,0,0,,I'll have Add Spell ready to go!
+Dialogue: 100,0:17:12.64,0:17:14.05,Default,Sunraku,0,0,0,,Moon Jumper...
+Dialogue: 100,0:17:14.85,0:17:15.81,Default,Sunraku,0,0,0,,into...{Into...}
+Dialogue: 100,0:17:16.39,0:17:18.27,Default,Sunraku,0,0,0,,Six-Boat Leap!
+Dialogue: 100,0:17:25.32,0:17:27.48,Default,Sunraku,0,0,0,,You wanna handle it yourself, eh?
+Dialogue: 100,0:17:36.99,0:17:39.75,Default,Sunraku,0,0,0,,Playing second fiddle to an NPC...
+Dialogue: 100,0:17:39.75,0:17:42.08,Default,Sunraku,0,0,0,,Any trash gamer needs to know when to do it.
+Dialogue: 100,0:17:42.08,0:17:43.50,Default,Sunraku,0,0,0,,Sounds good to me!
+Dialogue: 100,0:17:44.50,0:17:46.00,Default,Sunraku,0,0,0,,It's been thirty seconds.
+Dialogue: 100,0:17:46.38,0:17:48.88,Default,Sunraku,0,0,0,,Ignition oughta be primed and ready.{Ignition oughta be warmed up by now.}
+Dialogue: 100,0:17:49.72,0:17:50.88,Default,Sunraku,0,0,0,,Time to turn on the gas!
+Dialogue: 100,0:17:51.68,0:17:52.88,Default,Sunraku,0,0,0,,{\an8}Ignition!
+Dialogue: 100,0:17:54.64,0:17:57.89,Default,Sunraku,0,0,0,,And with my luck in the triple digits at last...
+Dialogue: 100,0:17:57.89,0:18:00.89,Default,Sunraku,0,0,0,,I'll pull out my luck-based attack skill...
+Dialogue: 100,0:18:01.44,0:18:03.52,Default,Sunraku,0,0,0,,Hand of Fortune!
+Dialogue: 100,0:18:09.15,0:18:10.28,Default,Sunraku,0,0,0,,And then...
+Dialogue: 100,0:18:10.78,0:18:12.86,Default,Sunraku,0,0,0,,I equip Emul to my arm!
+Dialogue: 100,0:18:14.28,0:18:15.49,Default,Sunraku,0,0,0,,{\an8}I call this...
+Dialogue: 100,0:18:15.49,0:18:16.95,Default,Sunraku,0,0,0,,{\an8}The Rabbit Gun!
+Dialogue: 100,0:18:16.95,0:18:20.08,Default,Emul,0,0,0,,Th-This is hardly appropriate treatment!
+Dialogue: 100,0:18:20.08,0:18:21.25,Default,Sunraku,0,0,0,,Fire, Emul!
+Dialogue: 100,0:18:21.50,0:18:23.50,Default,Emul,0,0,0,,Magic Edge!
+Dialogue: 100,0:18:28.59,0:18:29.59,Default,Sunraku,0,0,0,,Right on target!
+Dialogue: 100,0:18:30.42,0:18:32.09,Default,Bilac,0,0,0,,Pretty weird way to fight...{Pretty weird way to fight,}
+Dialogue: 100,0:18:32.34,0:18:34.09,Default,Bilac,0,0,0,,but you put him right where I want him!
+Dialogue: 100,0:18:36.72,0:18:38.26,Default,Bilac,0,0,0,,Hold your horses there, buddy!
+Dialogue: 100,0:18:39.77,0:18:42.39,Default,Bilac,0,0,0,,I'm gonna give your master back to ya.{I'm gonna return your master to ya.}
+Dialogue: 100,0:18:52.86,0:18:56.37,Default,Bilac,0,0,0,,Gotcha!
+Dialogue: 100,0:18:58.58,0:19:02.12,Default,Bilac,0,0,0,,Titan Blast!
+Dialogue: 100,0:19:15.13,0:19:18.30,Default,Sunraku,0,0,0,,Now that was a big boom!
+Dialogue: 100,0:19:18.30,0:19:21.01,Default,Emul,0,0,0,,Big Sis Bee! You're so awesome!
+Dialogue: 100,0:19:26.06,0:19:27.40,Default,Bilac,0,0,0,,Heck yeah!
+Dialogue: 100,0:19:29.56,0:19:31.73,Default,Bilac,0,0,0,,Yeah, that's about right.
+Dialogue: 100,0:19:35.53,0:19:38.99,Default,Sunraku,0,0,0,,"Dullahan General's Decapitator," huh?
+Dialogue: 100,0:19:39.66,0:19:41.03,Default,Sunraku,0,0,0,,{\an8}Let's see...
+Dialogue: 100,0:19:41.03,0:19:45.25,Default,Sunraku,0,0,0,,{\an8}"Attacks to the head deal bonus damage."
+Dialogue: 100,0:19:45.25,0:19:50.17,Default,Sunraku,0,0,0,,{\q2}{\an8}"A longsword that likely once held \Ngreat power, now rusted badly.
+Dialogue: 100,0:19:50.17,0:19:53.00,Default,Sunraku,0,0,0,,{\an8}It can only cleave flesh through brute force alone."
+Dialogue: 100,0:19:53.55,0:19:57.26,Default,Sunraku,0,0,0,,Aw, it's all rusty. The edge looks lousy, too.
+Dialogue: 100,0:19:57.72,0:20:03.27,Default,Sunraku,0,0,0,,{\q2}"The corpse which had already lost its memories, \Nits pride, and its love, even lost its head."
+Dialogue: 100,0:20:03.52,0:20:09.77,Default,Sunraku,0,0,0,,{\q2}"This is why the remaining torso targets the heads \Nof not just the living, but also the dead."
+Dialogue: 100,0:20:10.11,0:20:13.98,Default,Sunraku,0,0,0,,{\q2}An "If I can't have my head, \Nneither can any of you" sort of deal?
+Dialogue: 100,0:20:13.98,0:20:16.11,Default,Sunraku,0,0,0,,Misery really does love company, I guess.{Misery really does love company, I guess...}
+Dialogue: 100,0:20:17.57,0:20:18.78,Default,Sunraku,0,0,0,,I'll probably sell it off.{Guess I'll sell it off.}
+Dialogue: 100,0:20:18.78,0:20:20.66,Default,Bilac,0,0,0,,Mind if I take a look at it?
+Dialogue: 100,0:20:20.66,0:20:22.28,Default,Sunraku,0,0,0,,Oh, sure.
+Dialogue: 100,0:20:26.62,0:20:29.46,Default,Bilac,0,0,0,,This sword's still got some life in it.
+Dialogue: 100,0:20:29.46,0:20:32.29,Default,Bilac,0,0,0,,I'll restore it to its former glory later.
+Dialogue: 100,0:20:32.75,0:20:36.67,Default,Sunraku,0,0,0,,Hey, right. You're a blacksmith and all.
+Dialogue: 100,0:20:36.67,0:20:38.05,Default,Sunraku,0,0,0,,I forgot for a second there.
+Dialogue: 100,0:20:38.05,0:20:40.55,Default,Bilac,0,0,0,,Hey, what's that supposed to mean?!
+Dialogue: 100,0:20:50.23,0:20:52.81,Default,Sunraku,0,0,0,,Level... 98?
+Dialogue: 100,0:20:52.81,0:20:54.23,Default,Sunraku,0,0,0,,Pretty strong...
+Dialogue: 100,0:20:54.98,0:20:58.20,Default,Sunraku,0,0,0,,And right after I finally outleveled Emul...{And right after I finally outlevel Emul...}
+Dialogue: 100,0:20:58.20,0:21:01.53,Default,Bilac,0,0,0,,That's experience I earned from smithing.
+Dialogue: 100,0:21:01.53,0:21:03.91,Default,Bilac,0,0,0,,You've got more from fighting, for sure.{You've got more experience fighting, for sure.}
+Dialogue: 100,0:21:04.58,0:21:08.21,Default,Sunraku,0,0,0,,If you socked me in the face, you'd probably break my neck.
+Dialogue: 100,0:21:08.21,0:21:11.42,Default,Bilac,0,0,0,,Hey! Just what's that supposed to mean?!
+Dialogue: 100,0:21:11.71,0:21:14.63,Default,Sunraku,0,0,0,,Silence is golden, as they say.
+Dialogue: 100,0:21:14.63,0:21:16.17,Default,Emul,0,0,0,,As they say.
+Dialogue: 100,0:21:17.38,0:21:18.67,Default,Bilac,0,0,0,,Emul.
+Dialogue: 100,0:21:19.17,0:21:21.55,Default,Bilac,0,0,0,,You're starting to take after bird-man here.
+Dialogue: 100,0:21:23.18,0:21:24.60,Default,Sunraku,0,0,0,,Okay, let's go!
+Dialogue: 100,0:21:24.60,0:21:27.22,Default,Sunraku,0,0,0,,We gotta get to that boss, lickety-split!
+Dialogue: 100,0:21:33.69,0:21:38.74,Default,Sunraku,0,0,0,,{\q2}We'll need that magic operations unit to make you \Nan Ancient Craftsman, right, Bilac?
+Dialogue: 100,0:21:39.24,0:21:44.99,Default,Sunraku,0,0,0,,{\q2}Though I gotta say, the map here seems \Nway more simple than the other areas I've been to.{Though I gotta say, the map here seems way more simple than the other areas I've been to...}
+Dialogue: 100,0:21:45.24,0:21:49.00,Default,Emul,0,0,0,,Nevertheless, we need only to proceed in a straight line!
+Dialogue: 100,0:21:49.45,0:21:52.54,Default,Sunraku,0,0,0,,Yeah, it's easy-peasy!

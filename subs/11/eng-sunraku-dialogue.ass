@@ -1,0 +1,288 @@
+﻿[Script Info]
+Title: English (US)
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+LayoutResX: 1920
+LayoutResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Corinthian Medium,78,&H00FAFAFA,&H000019FF,&H00000000,&HC4000000,-1,0,0,0,100,100,0,0,1,3.75,1.8,2,150,150,63,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:42.02,0:00:42.02,Default,chptr,0,0,0,,{OP}
+Dialogue: 0,0:02:11.99,0:02:11.99,Default,chptr,0,0,0,,{Part A}
+Dialogue: 0,0:15:16.98,0:15:16.98,Default,chptr,0,0,0,,{Part B}
+Dialogue: 0,0:22:13.02,0:22:13.02,Default,chptr,0,0,0,,{ED}
+Dialogue: 100,0:00:02.90,0:00:06.78,Default,Narrator,0,0,0,,{\i1}This world is filled with countless games...{This world is filled with too many games to count,}
+Dialogue: 100,0:00:07.99,0:00:12.24,Default,Narrator,0,0,0,,{\i1}though the vast majority simply come and go in obscurity.
+Dialogue: 100,0:00:13.62,0:00:16.41,Default,Narrator,0,0,0,,{\i1}The greatest of them all{The greatest of all games}
+Dialogue: 100,0:00:16.41,0:00:21.75,Default,Narrator,0,0,0,,{\q2}{\i1}is the fully immersive VR game boasting over \N30 million players worldwide.{is the fully immersive VR game boasting over 30 million players worldwide—}
+Dialogue: 100,0:00:21.75,0:00:26.34,Default,Narrator,0,0,0,,{\i1}It rightly earns the status of "god-tier," Shangri-La Frontier!{Shangri-La Frontier, which rightly earns the title of "god-tier game"!}
+Dialogue: 100,0:00:27.80,0:00:31.93,Default,Narrator,0,0,0,,{\i1}One lover of trash games, Hizutome Rakurou,{One lover of trash games, Rakuro Hizutome,}
+Dialogue: 100,0:00:31.93,0:00:35.18,Default,Narrator,0,0,0,,{\i1}is trying out this very Triple-A!{is trying out the god-tier game, Shangri-La Frontier!}
+Dialogue: 100,0:00:35.93,0:00:40.60,Default,Narrator,0,0,0,,{\i1}What adventures await him there?
+Dialogue: 100,0:02:12.95,0:02:18.74,Default,Pencil Knight,0,0,0,,{\q2}Want to take out the unique monster, \NWethermon the Tombguard, with just the three of us?
+Dialogue: 100,0:02:19.24,0:02:21.70,Default,Sunraku,0,0,0,,It looks like in two weeks,{It looks like, in two weeks,}
+Dialogue: 100,0:02:21.70,0:02:25.46,Default,Sunraku,0,0,0,,I'll be picking a fight with "Wethermon the Tombguard."
+Dialogue: 100,0:02:25.79,0:02:29.80,Default,Sunraku,0,0,0,,Seems I'll have to leave you out of the party while I do...{It's looking like I'll have to leave you out of the party while I do...}
+Dialogue: 100,0:02:30.59,0:02:31.46,Default,Sunraku,0,0,0,,What's wrong?
+Dialogue: 100,0:02:31.46,0:02:36.22,Default,Emul,0,0,0,,Picking a fight with {\i1}Wethermon{\i0}?!
+Dialogue: 100,0:02:37.97,0:02:39.64,Default,Emul,0,0,0,,D-Da... Bo...
+Dialogue: 100,0:02:39.64,0:02:44.23,Default,Emul,0,0,0,,Daboo... Bodadd...
+Dialogue: 100,0:02:44.23,0:02:50.48,Default,Emul,0,0,0,,{\t(5314,5773,\c&H000000&\3c&H000000&\4c&H000000&)}I-I've got to tell my daddy!{I've got to tell my daddy!}
+Dialogue: 100,0:03:00.45,0:03:03.79,Default,Vysache,0,0,0,,Emul filled me in,
+Dialogue: 100,0:03:03.79,0:03:06.71,Default,Vysache,0,0,0,,but I'd like to hear it directly from you.
+Dialogue: 100,0:03:08.46,0:03:13.38,Default,Vysache,0,0,0,,You're picking a fight with that fool who's outlived his time?
+Dialogue: 100,0:03:15.38,0:03:18.59,Default,Sunraku,0,0,0,,{\i1}"Outlived his time"? Wethermon?
+Dialogue: 100,0:03:19.10,0:03:20.22,Default,Sunraku,0,0,0,,{\i1}What does that mean?
+Dialogue: 100,0:03:21.01,0:03:22.22,Default,Sunraku,0,0,0,,{\i1}But for now...
+Dialogue: 100,0:03:22.72,0:03:25.14,Default,Sunraku,0,0,0,,{\i1}This event got sprung on me out of nowhere.{This event got sprung on me out of nowhere,}
+Dialogue: 100,0:03:25.64,0:03:27.73,Default,Sunraku,0,0,0,,{\i1}So it's gotta be an important one.{and it's gotta be an important one.}
+Dialogue: 100,0:03:28.52,0:03:35.24,Default,Sunraku,0,0,0,,{\q2}{\an8\i1}Roleplaying based on the world and its characters \Nis{Roleplaying based on the world and its characters—} my best choice in this situation.
+Dialogue: 100,0:03:35.78,0:03:36.70,Default,Sunraku,0,0,0,,{\i1}Stay calm.
+Dialogue: 100,0:03:37.28,0:03:41.87,Default,Sunraku,0,0,0,,{\q2}{\i1}If you play your cards right, \Nyou could get valuable info on Wethermon.
+Dialogue: 100,0:03:42.29,0:03:45.29,Default,Sunraku,0,0,0,,{\i1}You beat Failia, right?
+Dialogue: 100,0:03:45.29,0:03:46.37,Default,Sunraku,0,0,0,,{\i1}You can do this!
+Dialogue: 100,0:03:47.75,0:03:49.17,Default,Sunraku,0,0,0,,{\i1}Get Vash on your side.{Get Vash on your side, here.}
+Dialogue: 100,0:03:49.71,0:03:52.30,Default,Sunraku,0,0,0,,{\i1}The keyword is "vorpal soul."
+Dialogue: 100,0:03:52.50,0:03:58.47,Default,Vysache,0,0,0,,I don't think I need to tell you how weak you still are.
+Dialogue: 100,0:04:00.64,0:04:02.05,Default,Sunraku,0,0,0,,You're right.{You're right, of course.}
+Dialogue: 100,0:04:03.26,0:04:08.06,Default,Sunraku,0,0,0,,I'm not doing this because I know I can win, Don Vysache.{I'm not doing this because I know I can win, Aniki.}
+Dialogue: 100,0:04:09.02,0:04:10.19,Default,Vysache,0,0,0,,What's that?
+Dialogue: 100,0:04:11.52,0:04:14.82,Default,Sunraku,0,0,0,,I'll actually be playing a support role.
+Dialogue: 100,0:04:14.82,0:04:17.32,Default,Sunraku,0,0,0,,A friend of mine will do most of the fighting.
+Dialogue: 100,0:04:21.16,0:04:26.66,Default,Sunraku,0,0,0,,{\q2}Have you heard anything recently about \NWethermon the Tombguard?{Are you aware, Aniki, what's happening with Wethermon the Tombguard now?}
+Dialogue: 100,0:04:27.29,0:04:28.46,Default,Vysache,0,0,0,,Nah.
+Dialogue: 100,0:04:28.46,0:04:32.17,Default,Vysache,0,0,0,,Last I saw him was some time ago.{Last I saw of him was some time ago.}
+Dialogue: 100,0:04:32.50,0:04:37.55,Default,Sunraku,0,0,0,,This friend of mine says a group of PKers—rather...
+Dialogue: 100,0:04:38.13,0:04:42.39,Default,Sunraku,0,0,0,,{\q2}a no-good band of killers is exploiting him \Nto make themselves stronger.{a no-good band of killers is exploiting Wethermon to make themselves stronger.}
+Dialogue: 100,0:04:42.39,0:04:44.93,Default,Sunraku,0,0,0,,They're using him as a tool,{They're using him as a tool.}
+Dialogue: 100,0:04:44.93,0:04:49.81,Default,Sunraku,0,0,0,,{\q2}since... well, you get lots of experience \Njust for encountering him.{Since... well, you get lots of experience just for encountering him.}
+Dialogue: 100,0:04:53.90,0:04:58.15,Default,Sunraku,0,0,0,,{\q2}The mastermind of our upcoming raid \Nis technically a part of that band,{The mastermind of our upcoming raid is technically part of that band,}
+Dialogue: 100,0:04:58.69,0:05:02.82,Default,Sunraku,0,0,0,,but she truly wants to defeat Wethermon the Tombguard.
+Dialogue: 100,0:05:02.99,0:05:05.91,Default,Sunraku,0,0,0,,She's gone to unthinkable lengths to do it.
+Dialogue: 100,0:05:05.91,0:05:08.54,Default,Vysache,0,0,0,,None of that really matters.{No matter what lengths you go to,}
+Dialogue: 100,0:05:08.54,0:05:12.96,Default,Vysache,0,0,0,,{\q2}No amount of planning can prepare you \Nfor something so impossible.{if there's no chance of victory, it's still a reckless move.}
+Dialogue: 100,0:05:13.67,0:05:19.72,Default,Vysache,0,0,0,,{\q2}When did I say a "vorpal soul" meant \Nwalking straight into the jaws of death?{When did I say "vorpal soul" meant walking straight into the mouth of death?}
+Dialogue: 100,0:05:20.34,0:05:25.72,Default,Sunraku,0,0,0,,{\q2}Not one of us would go into \Na fight with the intention to lose.
+Dialogue: 100,0:05:26.76,0:05:29.48,Default,Sunraku,0,0,0,,But my friend is determined to beat Wethermon.
+Dialogue: 100,0:05:30.02,0:05:33.23,Default,Sunraku,0,0,0,,I and our other companion believe in her cause.{and I and our other companion believe in her cause.}
+Dialogue: 100,0:05:35.98,0:05:37.65,Default,Sunraku,0,0,0,,"We only get one chance at this."
+Dialogue: 100,0:05:38.28,0:05:40.49,Default,Sunraku,0,0,0,,"Win or lose, this is our last shot."
+Dialogue: 100,0:05:41.07,0:05:44.37,Default,Sunraku,0,0,0,,Those are the words my friend came to me with, and so...
+Dialogue: 100,0:05:45.16,0:05:48.49,Default,Sunraku,0,0,0,,I feel honor-bound to offer my aid.
+Dialogue: 100,0:05:51.25,0:05:54.17,Default,Sunraku,0,0,0,,I realize I'm still weak and inexperienced,
+Dialogue: 100,0:05:54.17,0:05:57.13,Default,Sunraku,0,0,0,,but I have two weeks to do what I can.{but I have two weeks to do what I can—}
+Dialogue: 100,0:05:57.75,0:06:04.26,Default,Sunraku,0,0,0,,{\q2}To transform the brash arrogance of a cocky greenhorn \Ninto the grit of a contender who's challenging a champion.
+Dialogue: 100,0:06:16.90,0:06:19.40,Default,Vysache,0,0,0,,Honor-bound, eh?
+Dialogue: 100,0:06:21.61,0:06:25.16,Default,Vysache,0,0,0,,He's an awkward one, you see.
+Dialogue: 100,0:06:25.62,0:06:27.41,Default,Sunraku,0,0,0,,{\i1}Is he talking about Wethermon?{He's talking about Wethermon?}
+Dialogue: 100,0:06:27.83,0:06:31.62,Default,Vysache,0,0,0,,Serious to a fault, never knows when to let up...
+Dialogue: 100,0:06:31.62,0:06:35.42,Default,Vysache,0,0,0,,He lost his wife to a lousy little lie{He lost his wife to a lousy little lie,}
+Dialogue: 100,0:06:35.42,0:06:38.92,Default,Vysache,0,0,0,,and ended up with that undying body of his.
+Dialogue: 100,0:06:41.13,0:06:45.93,Default,Vysache,0,0,0,,He's a living corpse, unable to even put himself to rest.
+Dialogue: 100,0:06:46.72,0:06:47.85,Default,Vysache,0,0,0,,And so...
+Dialogue: 100,0:06:49.14,0:06:53.81,Default,Vysache,0,0,0,,{\q2}someone has to take him down \Nand bring him his well-deserved slumber.{Someone has to take him down and bring him that well-earned slumber.}
+Dialogue: 100,0:06:57.02,0:07:01.32,Default,Vysache,0,0,0,,I made up my mind not to interfere with {\i1}them{\i0}...{I made up my mind not to interfere with "them"...}
+Dialogue: 100,0:07:02.61,0:07:06.32,Default,Vysache,0,0,0,,but if you insist on doing this, I won't stop you.{But if you insist on doing this, I won't stop you.}
+Dialogue: 100,0:07:09.24,0:07:11.95,Default,Vysache,0,0,0,,My sweet daughter's made a request, as well.
+Dialogue: 100,0:07:13.87,0:07:15.33,Default,Vysache,0,0,0,,Come along.
+Dialogue: 100,0:07:15.75,0:07:21.00,Default,Vysache,0,0,0,,I'll lend you a bit of a hand, after all.{I'll lend you a bit of a hand after all.}
+Dialogue: 100,0:07:32.85,0:07:34.10,Default,Sunraku,0,0,0,,{\i1}A forge?
+Dialogue: 100,0:07:34.77,0:07:37.73,Default,Sunraku,0,0,0,,{\i1}I moved on to the next stage of the event!
+Dialogue: 100,0:07:37.73,0:07:39.73,Default,Sunraku,0,0,0,,{\i1}So far, so good, man!
+Dialogue: 100,0:07:40.06,0:07:42.73,Default,Vysache,0,0,0,,Hey, Bilac! You here?
+Dialogue: 100,0:07:43.65,0:07:44.65,Default,Bilac,0,0,0,,Yeah?
+Dialogue: 100,0:07:44.65,0:07:46.28,Default,Bilac,0,0,0,,Hey, Pops.
+Dialogue: 100,0:07:46.28,0:07:47.74,Default,Bilac,0,0,0,,How about that, eh?
+Dialogue: 100,0:07:48.45,0:07:50.45,Default,Bilac,950,0,0,,Ain't seen you here in a while.
+Dialogue: 100,0:07:51.24,0:07:52.91,Default,Emul,0,0,0,,Bee! Big Sis!
+Dialogue: 100,0:07:52.91,0:07:53.91,Default,Bilac,0,0,0,,Heya, Emul.
+Dialogue: 100,0:07:54.41,0:07:57.00,Default,Sunraku,0,0,0,,{\i1}Another of Emul's siblings?
+Dialogue: 100,0:07:57.37,0:08:00.67,Default,Sunraku,0,0,0,,{\i1}Did Vash father the entire population of Rabituza?
+Dialogue: 100,0:08:01.00,0:08:02.92,Default,Sunraku,0,0,0,,{\i1}Probably not... right?
+Dialogue: 100,0:08:04.76,0:08:07.68,Default,Bilac,0,0,0,,You the guy Pops and Emul told me about?
+Dialogue: 100,0:08:07.68,0:08:08.80,Default,Sunraku,0,0,0,,'Sup.{Hey.}
+Dialogue: 100,0:08:08.80,0:08:10.43,Default,Emul,0,0,0,,His name is Sunraku!{Sunraku-san is his name!}
+Dialogue: 100,0:08:11.47,0:08:14.93,Default,Bilac,0,0,0,,Gotcha. You got an air about you kinda like Evelle.
+Dialogue: 100,0:08:15.18,0:08:16.52,Default,Sunraku,0,0,0,,{\i1}"Evelle"?
+Dialogue: 100,0:08:16.52,0:08:18.56,Default,Sunraku,0,0,0,,{\i1}Another rabbit name drop?
+Dialogue: 100,0:08:18.56,0:08:20.44,Default,Sunraku,0,0,0,,{\i1}Please, don't spring any more on me!
+Dialogue: 100,0:08:20.44,0:08:24.82,Default,Vysache,0,0,0,,Well, take out your vorpal weapons already.
+Dialogue: 100,0:08:27.24,0:08:28.82,Default,Vysache,0,0,0,,Aha.
+Dialogue: 100,0:08:29.11,0:08:32.32,Default,Vysache,0,0,0,,These blades recognize you as a good master, for sure.{These blades see you as a good master, for sure.}
+Dialogue: 100,0:08:33.16,0:08:36.37,Default,Vysache,0,0,0,,They've got a fine countenance, too.
+Dialogue: 100,0:08:36.87,0:08:39.33,Default,Vysache,0,0,0,,They'll do us just fine.
+Dialogue: 100,0:08:41.46,0:08:44.21,Default,Vysache,0,0,0,,Bilac. I'm gonna ascend these.
+Dialogue: 100,0:08:45.59,0:08:47.97,Default,Sunraku,0,0,0,,{\an8}"Ascend"? Make them better?
+Dialogue: 100,0:08:47.97,0:08:49.63,Default,Emul,0,0,0,,{\an8}The best they can be!
+Dialogue: 100,0:08:50.84,0:08:52.26,Default,Bilac,0,0,0,,Hang on...
+Dialogue: 100,0:08:52.26,0:08:54.10,Default,Bilac,0,0,0,,You're gonna wield the hammer, Pops?
+Dialogue: 100,0:08:57.85,0:09:04.57,Default,Vysache,0,0,0,,{\q2}It'd be boring to just sit back and watch \Nwhile he challenges the defier of time.{while he challenges that fool who's outlived his time.}
+Dialogue: 100,0:09:06.69,0:09:09.78,Default,Bilac,0,0,0,,Hey, there we go! I'll get the forge lit!
+Dialogue: 100,0:09:10.11,0:09:13.78,Default,Vysache,0,0,0,,Got any decent materials on you?
+Dialogue: 100,0:09:13.78,0:09:19.04,Default,Vysache,0,0,0,,Ah, you know... from opponents you had trouble beating?{Ah, you know... from opponents you struggled to beat?}
+Dialogue: 100,0:09:19.04,0:09:20.54,Default,Sunraku,0,0,0,,Trouble?{Struggled to beat?}
+Dialogue: 100,0:09:21.04,0:09:23.92,Default,Sunraku,0,0,0,,{\i1}{M}Lycagon's the toughest I've faced...
+Dialogue: 100,0:09:23.92,0:09:25.88,Default,Sunraku,0,0,0,,{\i1}But I didn't beat it per se...{Though that was "struggled, got beat"...}
+Dialogue: 100,0:09:26.25,0:09:29.38,Default,Sunraku,0,0,0,,{\i1}And I sold the stuff I got from the Mud Digger...
+Dialogue: 100,0:09:31.05,0:09:33.76,Default,Sunraku,0,0,0,,I didn't exactly defeat it by myself,{I didn't exactly get it through my own efforts,}
+Dialogue: 100,0:09:33.76,0:09:36.39,Default,Sunraku,0,0,0,,{\q2}but I've got material from a monster \Nthat was pretty darn tough.{but I've got a material from a monster that was pretty darn tough.}
+Dialogue: 100,0:09:36.81,0:09:38.06,Default,Vysache,0,0,0,,Hand it over.
+Dialogue: 100,0:09:47.57,0:09:50.07,Default,Vysache,0,0,0,,The shell of a Quad Beetle, eh?
+Dialogue: 100,0:09:50.07,0:09:54.28,Default,Sunraku,0,0,0,,It fended off against Empire Bee attacks for ages.{It held up against Empire Bee attacks for ages.}
+Dialogue: 100,0:09:54.28,0:09:56.95,Default,Sunraku,0,0,0,,I figured it had to be a pretty excellent material.
+Dialogue: 100,0:09:58.45,0:09:59.41,Default,Vysache,0,0,0,,It'll do.
+Dialogue: 100,0:10:00.87,0:10:03.50,Default,Vysache,0,0,0,,Now, let's get started.
+Dialogue: 100,0:10:18.64,0:10:21.60,Default,Bilac,0,0,0,,You're one lucky guy, y'know that?{You're a lucky guy, y'know that?}
+Dialogue: 100,0:10:22.35,0:10:27.02,Default,Bilac,0,0,0,,Pops hasn't wielded the hammer for years.
+Dialogue: 100,0:10:27.02,0:10:30.44,Default,Sunraku,0,0,0,,Is that true? Um... Bilac?
+Dialogue: 100,0:10:30.44,0:10:34.86,Default,Bilac,0,0,0,,{\q2}My brother inherited the... kingship, \Nyou'd say? Of Rabituza.
+Dialogue: 100,0:10:35.28,0:10:37.53,Default,Bilac,0,0,0,,And I inherited the forge.{And I inherited his forge.}
+Dialogue: 100,0:10:38.03,0:10:40.41,Default,Emul,0,0,0,,I suppose I never told you, Sunraku!{I suppose I never told you, Sunraku-san!}
+Dialogue: 100,0:10:40.41,0:10:42.41,Default,Emul,0,0,0,,Dadd—er...
+Dialogue: 100,0:10:42.96,0:10:45.17,Default,Emul,0,0,0,,The boss is a blacksmith!
+Dialogue: 100,0:10:45.17,0:10:46.54,Default,Sunraku,0,0,0,,A blacksmith?
+Dialogue: 100,0:10:47.04,0:10:49.92,Default,Bilac,0,0,0,,And not just any blacksmith.
+Dialogue: 100,0:10:52.21,0:10:55.51,Default,Bilac,0,0,0,,{\q2}He's a Master Craftsman, a label given to those \Nwho master the blacksmith's art,{He's a Master Craftsman—a label given to those who master the blacksmith's art—}
+Dialogue: 100,0:10:55.51,0:11:00.81,Default,Bilac,0,0,0,,{\q2}and an Ancient Craftsman, one who can forge \Nthe lost weapons of the Divinity.{and an Ancient Craftsman—one who can forge the lost weapons of the Divinity.}
+Dialogue: 100,0:11:01.47,0:11:03.56,Default,Bilac,0,0,0,,{\an8}The two masteries make him a Divine Craftsman.{Combining the two masteries makes him a Divine Craftsman.}
+Dialogue: 100,0:11:04.60,0:11:08.19,Default,Bilac,0,0,0,,{\an8}The incomparable forger, peerless in the world of smithery.{The superlative forger, peerless in the world of smithery—}
+Dialogue: 100,0:11:08.19,0:11:11.32,Default,Bilac,0,0,0,,{\an8}That's our Pops.
+Dialogue: 100,0:11:17.32,0:11:19.33,Default,Emul,0,0,0,,It's about to start, Sunraku!{It's about to begin, Sunraku-san!}
+Dialogue: 100,0:11:36.38,0:11:37.47,Default,Sunraku,0,0,0,,{\i1}{M}The heck was that?
+Dialogue: 100,0:11:39.43,0:11:40.60,Default,Sunraku,0,0,0,,{\i1}Magic circles?
+Dialogue: 100,0:11:40.97,0:11:44.31,Default,Sunraku,0,0,0,,{\q2}{\i1}With each strike, they pop out, \Nthen draw back into the weapon...{With each strike, they rise, then draw back into the weapon...}
+Dialogue: 100,0:11:44.31,0:11:50.56,Default,Bilac,0,0,0,,{\q2}To "ascend" a weapon means reading the memories \Nand experiences it's acquired in its battles...{To "ascend" a weapon means reading the memories and experiences it's acquired in its battles}
+Dialogue: 100,0:11:51.19,0:11:53.69,Default,Bilac,0,0,0,,and coaxing it into a more appropriate form.
+Dialogue: 100,0:11:53.69,0:11:58.99,Default,Bilac,0,0,0,,{\q2}In other words, his transcendent skill \Ngrants it its "true" form.
+Dialogue: 100,0:11:58.99,0:12:00.74,Default,Sunraku,0,0,0,,It's "true" form?
+Dialogue: 100,0:12:00.74,0:12:05.16,Default,Bilac,0,0,0,,{\q2}Weapons that bear the name "vorpal" \Nremember the battles they've fought against strong foes.
+Dialogue: 100,0:12:05.50,0:12:08.21,Default,Bilac,0,0,0,,The memories you've forged with 'em...{The memories you've forged with 'em}
+Dialogue: 100,0:12:08.21,0:12:11.42,Default,Bilac,0,0,0,,and the power of the strong foe you handed Pops earlier...
+Dialogue: 100,0:12:11.42,0:12:15.46,Default,Bilac,0,0,0,,{\q2}He mixes 'em together in the forging process \Nand changes the weapon's shape.
+Dialogue: 100,0:12:16.26,0:12:18.93,Default,Bilac,0,0,0,,And since you managed to mix it up with Lycagon,
+Dialogue: 100,0:12:18.93,0:12:22.47,Default,Bilac,0,0,0,,I'm {\i1}real{\i0} curious to see what they'll turn into.{I'm real curious to see what your weapons will turn into.}
+Dialogue: 100,0:12:27.18,0:12:36.11,Default,Vysache,0,0,0,,{\i1}The fire of the forge against the sleeping sky...
+Dialogue: 100,0:12:37.03,0:12:38.53,Default,Sunraku,0,0,0,,Is he singing—
+Dialogue: 100,0:15:26.32,0:15:27.70,Default,Vysache,0,0,0,,All right.
+Dialogue: 100,0:15:28.45,0:15:33.20,Default,Vysache,0,0,0,,The Vorpal Chopper has taken its true name and form.
+Dialogue: 100,0:15:33.20,0:15:34.71,Default,Vysache,0,0,0,,They will be known as...{It's name...}
+Dialogue: 100,0:15:35.25,0:15:39.46,Default,Vysache,0,0,0,,{\an8}the Twinblades of the Waxing and Waning Moon.{Moonblade (Waxing) and Moonblade (Waning).}
+Dialogue: 100,0:15:39.46,0:15:40.96,Default,Sunraku,0,0,0,,A twin weapon?!
+Dialogue: 100,0:15:41.34,0:15:43.34,Default,Vysache,0,0,0,,One blade in the form of two.
+Dialogue: 100,0:15:43.63,0:15:48.22,Default,Vysache,0,0,0,,Each needs the other to fulfill their purpose.{Each needs the other to have meaning.}
+Dialogue: 100,0:15:48.89,0:15:52.35,Default,Vysache,0,0,0,,It's been a while since I saw one change form, you know?
+Dialogue: 100,0:15:53.56,0:15:55.85,Default,Sunraku,0,0,0,,Let's check this baby out!
+Dialogue: 100,0:15:56.27,0:15:57.94,Default,Sunraku,0,0,0,,"Waxing.{"Waxing—}
+Dialogue: 100,0:15:57.94,0:16:01.06,Default,Sunraku,0,0,0,,When fighting an opponent of higher level,{when fighting an opponent of higher level,}
+Dialogue: 100,0:16:01.06,0:16:07.74,Default,Sunraku,0,0,0,,{\q2}successful crits reduce your HP, \Nbut a power bonus is added to your next attack."{successful criticals reduce your HP, but a power bonus is added to your next attack."}
+Dialogue: 100,0:16:08.11,0:16:13.29,Default,Sunraku,0,0,0,,"Waning{"Waning—} restores HP under the same circumstances."{restores HP under the same circumstances."}
+Dialogue: 100,0:16:13.29,0:16:16.62,Default,Sunraku,0,0,0,,Hey, I get it. They really do complement each other!{Hey, I get it. They really do compliment each other!}
+Dialogue: 100,0:16:17.04,0:16:22.09,Default,Sunraku,0,0,0,,{\q2}Eh? "A certain number of successful crit \Nadds to the fusion gauge"?{Eh? "A certain number of successful criticals adds to the fusion gauge"?}
+Dialogue: 100,0:16:22.38,0:16:24.51,Default,Sunraku,0,0,0,,These weapons freaking combine?!
+Dialogue: 100,0:16:24.51,0:16:26.38,Default,Sunraku,0,0,0,,Gracious, how splendid!
+Dialogue: 100,0:16:26.59,0:16:28.72,Default,Emul,0,0,0,,I said don't mock me!{Don't mimic me!}
+Dialogue: 100,0:16:30.39,0:16:32.72,Default,Sunraku,0,0,0,,Let's equip these babies and give 'em a whirl!
+Dialogue: 100,0:16:35.10,0:16:36.85,Default,Sunraku,0,0,0,,{\an8}Stat requirements?
+Dialogue: 100,0:16:39.27,0:16:41.36,Default,Sunraku,0,0,0,,C-Calm down, dude.
+Dialogue: 100,0:16:41.61,0:16:43.94,Default,Sunraku,0,0,0,,It's a simple math problem.
+Dialogue: 100,0:16:43.94,0:16:47.11,Default,Sunraku,0,0,0,,I need 150 stat points in total.
+Dialogue: 100,0:16:47.11,0:16:50.82,Default,Sunraku,0,0,0,,And I'm currently sitting on 57 on those stats.{My current total in the relevant stats is 57.}
+Dialogue: 100,0:16:51.37,0:16:54.37,Default,Sunraku,0,0,0,,I get five points per level raised, so...
+Dialogue: 100,0:16:54.37,0:16:57.20,Default,Sunraku,0,0,0,,I need to be level 50 to use 'em?!
+Dialogue: 100,0:16:58.62,0:17:02.83,Default,Vysache,0,0,0,,{\q2}Guess that means you need to toughen up \Na bit more before you can try 'em.{Well, guess you need to toughen up a bit more to use 'em.}
+Dialogue: 100,0:17:08.26,0:17:10.26,Default,Emul,0,0,0,,S-Sunraku?{S-Sunraku-san?}
+Dialogue: 100,0:17:10.47,0:17:12.51,Default,Emul,0,0,0,,Sunraku?!{Sunraku-san?!}
+Dialogue: 100,0:17:13.51,0:17:18.27,Default,Sunraku,0,0,0,,But I wanna use them {\i1}now{\i0}!
+Dialogue: 100,0:17:29.24,0:17:31.78,Default,Sunraku,0,0,0,,So, in conclusion...
+Dialogue: 100,0:17:31.78,0:17:33.62,Default,Sunraku,0,0,0,,I'm late. Sorry!
+Dialogue: 100,0:17:33.99,0:17:35.78,Default,Sunraku,0,0,0,,I really mean it, kinda.
+Dialogue: 100,0:17:39.62,0:17:42.50,Default,Pencilgon,0,0,0,,I hope you've said your last goodbyes!{I hope you figured out your last words!}
+Dialogue: 100,0:17:42.50,0:17:45.46,Default,Oikatzo,0,0,0,,We were supposed to meet three damn hours ago!
+Dialogue: 100,0:17:45.46,0:17:48.42,Default,Oikatzo,0,0,0,,You can't just get away with it and say you're sorry!{That's too late to just "sorry" away!}
+Dialogue: 100,0:17:48.42,0:17:52.38,Default,Sunraku,0,0,0,,The truth is, I was plugging along on a unique scenario,
+Dialogue: 100,0:17:52.38,0:17:55.18,Default,Sunraku,0,0,0,,and Wethermon's name came up.{and Wethermon's name came up...}
+Dialogue: 100,0:17:55.39,0:17:58.27,Default,Sunraku,0,0,0,,So I thought it might be worth pursuing.
+Dialogue: 100,0:17:59.56,0:18:02.23,Default,Pencilgon,0,0,0,,All right. Spill and I'll call us even.{All right. Spill, and I'll call us even.}
+Dialogue: 100,0:18:02.23,0:18:04.56,Default,Oikatzo,0,0,0,,Huh? Just scot-free, like that?!{Huh? Just scot-free like that?!}
+Dialogue: 100,0:18:05.48,0:18:09.32,Default,Sunraku,0,0,0,,Though... that's a bold little avatar you got, Katzo.
+Dialogue: 100,0:18:10.19,0:18:13.70,Default,Sunraku,0,0,0,,Actually, I guess you're... Oikatzo here?
+Dialogue: 100,0:18:13.70,0:18:15.45,Default,Sunraku,0,0,0,,Like the soup base, Oigatsuo?
+Dialogue: 100,0:18:15.82,0:18:17.99,Default,Sunraku,0,0,0,,{\i1}He always picks names like that.
+Dialogue: 100,0:18:18.66,0:18:20.95,Default,Sunraku,0,0,0,,{\i1}His real name combines into the character "Katsuo,"
+Dialogue: 100,0:18:20.95,0:18:23.71,Default,Sunraku,0,0,0,,{\i1}so he always sticks "Katzo" in there.
+Dialogue: 100,0:18:23.71,0:18:30.55,Default,Oikatzo,0,0,0,,{\q2}I don't need pointers on character design \Nfrom a criminal exhibitionist like you, Sunraku.{I don't need pointers on character design from you, criminal exhibitionist Sunraku-kun.}
+Dialogue: 100,0:18:31.51,0:18:35.39,Default,Sunraku,0,0,0,,{\q2}I'm sure you don't appreciate \Nhow hard it was for me to get here.
+Dialogue: 100,0:18:35.39,0:18:39.77,Default,Pencilgon,0,0,0,,I chose a back alley place with especially low traffic,{I chose a back-alley place with especially low traffic,}
+Dialogue: 100,0:18:39.77,0:18:41.39,Default,Pencilgon,0,0,0,,so you can relax while you're here.
+Dialogue: 100,0:18:41.77,0:18:44.31,Default,Sunraku,0,0,0,,No wonder it was so hard to find.
+Dialogue: 100,0:18:44.77,0:18:46.69,Default,Pencilgon,0,0,0,,Anyway, let's get to brass tacks.
+Dialogue: 100,0:18:46.98,0:18:48.82,Default,Pencilgon,0,0,0,,Mind telling me what you learned?
+Dialogue: 100,0:18:50.03,0:18:50.82,Default,Sunraku,0,0,0,,Sure.
+Dialogue: 100,0:18:52.49,0:18:53.82,Default,Pencilgon,0,0,0,,I see.
+Dialogue: 100,0:18:53.82,0:19:00.08,Default,Pencilgon,0,0,0,,{\q2}He called Wethermon the Tombguard \N"a living corpse" who'd "outlived his time"?
+Dialogue: 100,0:19:00.91,0:19:03.21,Default,Oikatzo,0,0,0,,Are we talking about an undead monster here?
+Dialogue: 100,0:19:03.46,0:19:08.42,Default,Pencilgon,0,0,0,,{\q2}His movements did seem a bit janky \Nwhen the fight first started.
+Dialogue: 100,0:19:09.04,0:19:10.42,Default,Pencilgon,0,0,0,,So that's how it was.{I see.}
+Dialogue: 100,0:19:10.42,0:19:13.09,Default,Pencilgon,0,0,0,,I'd assumed he was a cyborg-type.{I'd assumed he was a cyborg-type, but...}
+Dialogue: 100,0:19:13.30,0:19:16.05,Default,Pencilgon,0,0,0,,But being undead would explain a lot.{Being undead would explain a lot.}
+Dialogue: 100,0:19:16.05,0:19:17.97,Default,Sunraku,0,0,0,,Anything there that can help with our strats?
+Dialogue: 100,0:19:21.47,0:19:24.27,Default,Pencilgon,0,0,0,,I've got some things to take care of.
+Dialogue: 100,0:19:24.27,0:19:26.02,Default,Pencilgon,0,0,0,,Let's split up until nightfall.
+Dialogue: 100,0:19:26.02,0:19:28.77,Default,Sunraku,0,0,0,,Sure, but... what should we do next?
+Dialogue: 100,0:19:29.31,0:19:31.53,Default,Pencilgon,0,0,0,,I'll give you guys these for now.
+Dialogue: 100,0:19:31.53,0:19:35.28,Default,Pencilgon,0,0,0,,Go grind in the Iron Ruins in the meantime.
+Dialogue: 100,0:19:35.28,0:19:36.86,Default,Sunraku,0,0,0,,Grind levels, huh?
+Dialogue: 100,0:19:36.86,0:19:39.83,Default,Sunraku,0,0,0,,I'm all for it, but...
+Dialogue: 100,0:19:40.78,0:19:42.04,Default,Oikatzo,0,0,0,,A map, and...
+Dialogue: 100,0:19:42.62,0:19:43.79,Default,Sunraku,0,0,0,,...a fishing rod?
+Dialogue: 100,0:19:44.37,0:19:45.91,Default,Pencilgon,0,0,0,,It'll make sense when you get there.
+Dialogue: 100,0:19:58.14,0:20:01.01,Default,Pencilgon,0,0,0,,I've been wondering ever since you got here.{I've been wondering since you first arrived...}
+Dialogue: 100,0:20:01.01,0:20:05.06,Default,Pencilgon,0,0,0,,{\q2}But honestly, Sunraku, \Ndo you think that disguise is working?{Sunraku-kun, do you actually think that disguise is working?}
+Dialogue: 100,0:20:05.60,0:20:09.02,Default,Sunraku,0,0,0,,Pray tell? This is merely the latest fashion trend.{Pray tell? This is merely the latest fashion trend...}
+Dialogue: 100,0:20:09.56,0:20:11.82,Default,Oikatzo,0,0,0,,Huh? What is it?
+Dialogue: 100,0:20:12.40,0:20:14.61,Default,Pencilgon,0,0,0,,{\i1}I guess he fooled one of us?
+Dialogue: 100,0:20:14.61,0:20:17.53,Default,Pencilgon,0,0,0,,{\i1}Maybe if you haven't seen the rabbit, it doesn't seem off?{Maybe if you haven't seen her, it doesn't seem off?}
+Dialogue: 100,0:20:17.53,0:20:18.82,Default,Pencilgon,0,0,0,,{\i1}Well, whatever.
+Dialogue: 100,0:20:18.82,0:20:21.66,Default,Pencilgon,0,0,0,,See you back here tonight.
+Dialogue: 100,0:20:21.66,0:20:22.41,Default,Sunraku,0,0,0,,Sure.
+Dialogue: 100,0:20:22.74,0:20:24.20,Default,Oikatzo,0,0,0,,Later.
+Dialogue: 100,0:20:25.08,0:20:28.21,Default,Oikatzo,0,0,0,,Okay, let's get down to business!
+Dialogue: 100,0:20:28.21,0:20:31.21,Default,Sunraku,0,0,0,,The Iron Ruins of the Divinity, right?
+Dialogue: 100,0:20:31.21,0:20:34.42,Default,Sunraku,0,0,0,,Hold on while I plan a safe route to the gate.
+Dialogue: 100,0:20:36.17,0:20:37.51,Default,Oikatzo,0,0,0,,What a pain.
+Dialogue: 100,0:20:37.51,0:20:39.97,Default,Oikatzo,0,0,0,,I gotta sneak around now, too, huh?
+Dialogue: 100,0:20:39.97,0:20:41.97,Default,Emul,0,0,0,,Sunraku! Sunraku!{Sunraku-san! Sunraku-san!}
+Dialogue: 100,0:20:41.97,0:20:44.01,Default,Emul,0,0,0,,I'm getting a terrible earache!
+Dialogue: 100,0:20:45.35,0:20:47.48,Default,Emul,0,0,0,,Might I please move around a bit?
+Dialogue: 100,0:20:58.61,0:20:59.99,Default,Oikatzo,0,0,0,,Sunraku!
+Dialogue: 100,0:20:59.99,0:21:01.78,Default,Oikatzo,0,0,0,,Your equipment's talking!
+Dialogue: 100,0:21:01.78,0:21:02.87,Default,Oikatzo,0,0,0,,It is, isn't it?!
+Dialogue: 100,0:21:03.07,0:21:04.70,Default,Sunraku,0,0,0,,Okay, go on.
+Dialogue: 100,0:21:04.70,0:21:07.79,Default,Sunraku,0,0,0,,I thought it'd be fun to see how long it took him to notice.
+Dialogue: 100,0:21:07.79,0:21:09.21,Default,Emul,0,0,0,,Indeed...
+Dialogue: 100,0:21:09.21,0:21:13.17,Default,Oikatzo,0,0,0,,Is this NPC that unique one?
+Dialogue: 100,0:21:13.17,0:21:15.05,Default,Oikatzo,0,0,0,,Can I have a closer look?
+Dialogue: 100,0:21:15.42,0:21:16.92,Default,Emul,0,0,0,,What are you doing?!
+Dialogue: 100,0:21:17.21,0:21:18.59,Default,Emul,0,0,0,,Unhand me!
+Dialogue: 100,0:21:18.59,0:21:21.43,Default,Oikatzo,0,0,0,,Man, I want unique stuff, too!
+Dialogue: 100,0:21:22.68,0:21:24.93,Default,Emul,0,0,0,,{\an8}Let me go, I say!
+Dialogue: 100,0:21:22.93,0:21:24.93,Default,Sunraku,0,0,0,,Get your own, then.
+Dialogue: 100,0:21:27.47,0:21:30.98,Default,Sunraku,0,0,0,,Here we are. The entrance at last!
+Dialogue: 100,0:21:30.98,0:21:34.44,Default,Oikatzo,0,0,0,,I want unique stuff too. You lucky dog!
+Dialogue: 100,0:21:34.44,0:21:37.11,Default,Sunraku,0,0,0,,That's all you've been saying this whole time.
+Dialogue: 100,0:21:37.11,0:21:38.65,Default,Sunraku,0,0,0,,Let's get going.
+Dialogue: 100,0:21:38.65,0:21:41.57,Default,Sunraku,0,0,0,,I wanna get to level 50 ASAP.
+Dialogue: 100,0:21:41.57,0:21:42.91,Default,Oikatzo,0,0,0,,Fine, fine.
+Dialogue: 100,0:21:42.91,0:21:46.58,Default,Oikatzo,0,0,0,,But this is my first time in a party in SLF.
+Dialogue: 100,0:21:46.83,0:21:49.00,Default,Sunraku,0,0,0,,My first time with another player, too.
+Dialogue: 100,0:21:51.62,0:21:54.42,Default,Oikatzo,0,0,0,,{\q2}It's got a pretty different vibe \Nfrom the rest of the world so far.{It's got a pretty different vibe from the rest of the world so far...}
+Dialogue: 100,0:21:54.42,0:21:56.17,Default,Oikatzo,0,0,0,,Seems like it could be fun.
+Dialogue: 100,0:21:56.17,0:21:59.97,Default,Sunraku,0,0,0,,Yeah. The Iron Ruins of the Divinity, huh?

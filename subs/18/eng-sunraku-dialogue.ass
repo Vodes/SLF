@@ -1,0 +1,313 @@
+﻿[Script Info]
+Title: English (US)
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+LayoutResX: 1920
+LayoutResY: 1080
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Corinthian Medium,78,&H00FAFAFA,&H000019FF,&H00000000,&HC4000000,-1,0,0,0,100,100,0,0,1,3.75,1.8,2,150,150,63,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:26.01,0:00:26.01,Default,chptr,0,0,0,,{OP}
+Dialogue: 0,0:01:56.01,0:01:56.01,Default,chptr,0,0,0,,{Part A}
+Dialogue: 0,0:08:48.97,0:08:48.97,Default,chptr,0,0,0,,{Part B}
+Dialogue: 0,0:22:10.23,0:22:10.23,Default,chptr,0,0,0,,{ED}
+Dialogue: 100,0:00:06.74,0:00:10.37,Default,Emul,0,0,0,,Sunraku... still hasn't returned.
+Dialogue: 100,0:00:17.33,0:00:21.54,Default,Emul,0,0,0,,Which means... he's still fighting.
+Dialogue: 100,0:00:23.71,0:00:25.26,Default,Emul,0,0,0,,Sunraku!
+Dialogue: 100,0:02:00.10,0:02:04.98,Default,Oikatzo,0,0,0,,{\q2}I guess we'll need more than stat boosts \Nto make a breakthrough here.
+Dialogue: 100,0:02:05.48,0:02:08.23,Default,Oikatzo,0,0,0,,Its armor seems thickest around the waist.
+Dialogue: 100,0:02:08.69,0:02:11.49,Default,Oikatzo,0,0,0,,That's probably where all the important bits are stored.{That's probably where all the important bits are stored...}
+Dialogue: 100,0:02:11.94,0:02:16.74,Default,Oikatzo,0,0,0,,But how the heck do we pry it open?{But how the heck do we go about prying it open?}
+Dialogue: 100,0:02:18.20,0:02:20.83,Default,Pencilgon,0,0,0,,{\an8}I've got an idea.
+Dialogue: 100,0:02:20.83,0:02:21.87,Default,Pencilgon,0,0,0,,{\an8}You in?{Are you in?}
+Dialogue: 100,0:02:21.87,0:02:22.75,Default,Oikatzo,0,0,0,,{\an8}You do?{An idea?}
+Dialogue: 100,0:02:23.41,0:02:26.17,Default,Pencilgon,0,0,0,,A sure-fire plan to break through Kirin Armor's outer shell.
+Dialogue: 100,0:02:26.92,0:02:27.88,Default,Pencilgon,0,0,0,,I call it...
+Dialogue: 100,0:02:28.38,0:02:31.13,Default,Wethermon,0,0,0,,Clear Sky Conquest.
+Dialogue: 100,0:02:31.76,0:02:34.68,Default,Wethermon,0,0,0,,That which can cleave even dragons...
+Dialogue: 100,0:02:37.72,0:02:39.68,Default,Wethermon,0,0,0,,Sky Clear!
+Dialogue: 100,0:02:50.44,0:02:51.73,Default,Sunraku,0,0,0,,{\i1}What the heck was that?
+Dialogue: 100,0:02:52.94,0:02:55.24,Default,Sunraku,0,0,0,,{\i1}"Sky Clear," he called it, I guess...
+Dialogue: 100,0:02:56.24,0:02:57.24,Default,Sunraku,0,0,0,,{\i1}But this move is...
+Dialogue: 100,0:02:59.74,0:03:01.54,Default,Sunraku,0,0,0,,{\i1}way too nasty.
+Dialogue: 100,0:03:06.96,0:03:08.13,Default,Oikatzo,0,0,0,,Will it reach?!
+Dialogue: 100,0:03:08.13,0:03:08.88,Default,Pencilgon,0,0,0,,Wait!
+Dialogue: 100,0:03:17.55,0:03:19.22,Default,Sunraku,0,0,0,,{\i1}But it's like I told you...
+Dialogue: 100,0:03:21.76,0:03:25.18,Default,Sunraku,0,0,0,,{\i1}It's gonna take more than that to beat me!
+Dialogue: 100,0:03:32.94,0:03:36.15,Default,Sunraku,0,0,0,,My ultimate technique, the self-revive!
+Dialogue: 100,0:03:36.15,0:03:39.57,Default,Sunraku,0,0,0,,{\q2}{\i1}It was a huge gamble, but I managed to time it \Njust right to bring myself back!{It was a huge gamble, but I managed to time it just right to revive myself!}
+Dialogue: 100,0:03:40.07,0:03:41.83,Default,Sunraku,0,0,0,,{\i1}Still, my equipment's not so lucky.{Still, my equipment's not so lucky...}
+Dialogue: 100,0:03:42.20,0:03:44.12,Default,Sunraku,0,0,0,,{\i1}My Spiked Battlehelm is half trashed.
+Dialogue: 100,0:03:44.12,0:03:47.12,Default,Sunraku,0,0,0,,{\i1}My Lifestide Sash is totally kaput.
+Dialogue: 100,0:03:47.96,0:03:50.21,Default,Sunraku,0,0,0,,{\i1}That "Clear Sky" move?{That "Clear Sky" move}
+Dialogue: 100,0:03:50.67,0:03:51.63,Default,Sunraku,0,0,0,,{\i1}It's downright vicious.{is nasty.}
+Dialogue: 100,0:03:56.26,0:03:59.14,Default,Sunraku,0,0,0,,{\q2}{\i1}So it's got equipment-destroying \Nand armor-piercing effects.{So it's got equipment-destroying and armor-piercing effects...}
+Dialogue: 100,0:03:59.97,0:04:01.97,Default,Sunraku,0,0,0,,{\i1}Maybe the Insta-Death effect, too?
+Dialogue: 100,0:04:03.06,0:04:04.35,Default,Wethermon,0,0,0,,Be that as it may...{But...}
+Dialogue: 100,0:04:06.02,0:04:11.23,Default,Wethermon,0,0,0,,Until you surpass my ultimate, I shall not fall.
+Dialogue: 100,0:04:12.40,0:04:14.03,Default,Sunraku,0,0,0,,{\i1}That stance again!
+Dialogue: 100,0:04:14.57,0:04:16.32,Default,Wethermon,0,0,0,,Clear Sky Conquest...
+Dialogue: 100,0:04:16.94,0:04:18.03,Default,Wethermon,0,0,0,,Thunderclap!
+Dialogue: 100,0:04:19.78,0:04:21.03,Default,Sunraku,0,0,0,,{\i1}Hang on a damn minute!
+Dialogue: 100,0:04:21.03,0:04:23.33,Default,Sunraku,0,0,0,,{\i1}We're back to the attack spam?!
+Dialogue: 100,0:04:26.70,0:04:27.71,Default,Wethermon,0,0,0,,Wind Slash.
+Dialogue: 100,0:04:28.96,0:04:30.12,Default,Wethermon,0,0,0,,Wind Slash.
+Dialogue: 100,0:04:30.96,0:04:32.04,Default,Wethermon,0,0,0,,Wind Slash.
+Dialogue: 100,0:04:32.54,0:04:33.71,Default,Sunraku,0,0,0,,{\i1}Too damn close!
+Dialogue: 100,0:04:35.09,0:04:36.30,Default,Sunraku,0,0,0,,I get it now.{I get it.}
+Dialogue: 100,0:04:36.30,0:04:39.01,Default,Sunraku,0,0,0,,{\i1}That chain of attacks and the final Sky Clear move...
+Dialogue: 100,0:04:39.72,0:04:42.60,Default,Sunraku,0,0,0,,{\i1}All of it together makes up the "Clear Sky Conquest."{All of it together makes up "Clear Sky Conquest."}
+Dialogue: 100,0:04:43.01,0:04:46.31,Default,Sunraku,0,0,0,,{\i1}So... how do I solve it?
+Dialogue: 100,0:04:46.72,0:04:51.48,Default,Sunraku,0,0,0,,{\q2}{\i1}Last time, it took about thirty seconds \Nbefore the Sky Clear hit me.
+Dialogue: 100,0:04:51.48,0:04:52.31,Default,Wethermon,0,0,0,,Pyroclastic Wyrm.
+Dialogue: 100,0:04:54.44,0:04:56.73,Default,Sunraku,0,0,0,,{\i1}There's lag before this skill activates.{There's lag time before Pyroclastic Wyrm activates.}
+Dialogue: 100,0:04:56.94,0:04:58.24,Default,Sunraku,0,0,0,,{\i1}It's not a huge threat.{That one's not a huge threat.}
+Dialogue: 100,0:04:59.78,0:05:00.74,Default,Wethermon,0,0,0,,Ash Blizzard.
+Dialogue: 100,0:05:03.83,0:05:05.58,Default,Sunraku,0,0,0,,{\i1}Same with Ash Blizzard.
+Dialogue: 100,0:05:05.58,0:05:08.00,Default,Sunraku,0,0,0,,{\i1}It's easy to dodge when I know it's coming!
+Dialogue: 100,0:05:09.29,0:05:10.50,Default,Wethermon,0,0,0,,Tidal Rush.
+Dialogue: 100,0:05:11.37,0:05:14.79,Default,Sunraku,0,0,0,,{\q2}{\i1}The moves he uses in the Clear Sky Conquest \Nmight be chosen at random...{The moves he uses in Clear Sky Conquest might be chosen at random,}
+Dialogue: 100,0:05:15.42,0:05:17.55,Default,Sunraku,0,0,0,,{\i1}but the actual dodging is a memorization game!
+Dialogue: 100,0:05:17.88,0:05:18.97,Default,Wethermon,0,0,0,,Wind Slash.
+Dialogue: 100,0:05:19.88,0:05:22.09,Default,Sunraku,0,0,0,,{\i1}Given all the moves in his arsenal,
+Dialogue: 100,0:05:22.09,0:05:26.93,Default,Sunraku,0,0,0,,{\q2}{\i1}the go-to strategy is to preserve stamina \Nand keep about three meters from him at all times.
+Dialogue: 100,0:05:27.22,0:05:28.64,Default,Wethermon,0,0,0,,Thunderclap.
+Dialogue: 100,0:05:29.64,0:05:31.64,Default,Sunraku,0,0,0,,{\i1}Keep your movements to the bare minimum.
+Dialogue: 100,0:05:32.23,0:05:34.56,Default,Sunraku,0,0,0,,{\i1}This isn't so scary once you get used to it.
+Dialogue: 100,0:05:36.69,0:05:37.57,Default,Sunraku,0,0,0,,{\i1}He got my leg again!
+Dialogue: 100,0:05:39.86,0:05:41.15,Default,Sunraku,0,0,0,,{\i1}It's thirty seconds, for sure.
+Dialogue: 100,0:05:43.16,0:05:44.66,Default,Sunraku,0,0,0,,{\i1}Now, here's the real challenge...
+Dialogue: 100,0:05:44.99,0:05:46.08,Default,Wethermon,0,0,0,,Sky Clear!
+Dialogue: 100,0:05:47.33,0:05:50.50,Default,Sunraku,0,0,0,,{\q2}{\i1}He's killed me plenty of times before, \Nbut this one feels different.
+Dialogue: 100,0:05:50.83,0:05:52.25,Default,Sunraku,0,0,0,,{\i1}It's more like...{It's more fundamentally...}
+Dialogue: 100,0:05:53.00,0:05:57.71,Default,Sunraku,0,0,0,,{\q2}{\i1}an insta-kill attack, meant to slaughter the player \Nwithout the means to fight back.{an insta-kill attack, meant to slaughter the player without you getting a say.}
+Dialogue: 100,0:06:05.85,0:06:06.64,Default,Sunraku,0,0,0,,{\i1}I'll bet...
+Dialogue: 100,0:06:07.60,0:06:12.64,Default,Sunraku,0,0,0,,{\q2}{\i1}even a level 99 player buffed their defenses \Nwith full armor and a shield at the ready...{Even if a level 99 player buffed their defenses with full armor and a shield at the ready,}
+Dialogue: 100,0:06:13.23,0:06:16.90,Default,Sunraku,0,0,0,,{\i1}they'll get split in half like a block of tofu.{he'd still split them in half like a block of tofu.}
+Dialogue: 100,0:06:17.19,0:06:19.82,Default,Wethermon,0,0,0,,Until you surpass my ultimate...{Until you surpass my ultimate,}
+Dialogue: 100,0:06:20.61,0:06:23.28,Default,Wethermon,0,0,0,,I shall not fall.
+Dialogue: 100,0:06:23.86,0:06:25.91,Default,Wethermon,0,0,0,,Clear Sky Conquest!
+Dialogue: 100,0:06:32.20,0:06:35.75,Default,Sunraku,0,0,0,,{\i1}And the worst part of all is that he keeps you from dodging!
+Dialogue: 100,0:06:36.42,0:06:39.05,Default,Sunraku,0,0,0,,{\i1}Once you're rooted to the spot like that,
+Dialogue: 100,0:06:39.05,0:06:41.55,Default,Sunraku,0,0,0,,{\i1}you don't have a choice but to soak his Sky Clear attack.
+Dialogue: 100,0:06:43.55,0:06:44.84,Default,Wethermon,0,0,0,,Sky Clear!
+Dialogue: 100,0:06:46.01,0:06:47.72,Default,Sunraku,0,0,0,,{\i1}Should I go for his sword?{Destroy his sword?}
+Dialogue: 100,0:06:47.72,0:06:52.64,Default,Sunraku,0,0,0,,{\q2}{\i1}No, that's not a realistic option \Nwhen you're dodging the attack spam.{No, that's not a realistic option when you're dodging the attack spam...}
+Dialogue: 100,0:06:52.64,0:06:54.44,Default,Sunraku,0,0,0,,{\i1}Same with taking down the guy himself.
+Dialogue: 100,0:06:59.40,0:07:01.98,Default,Sunraku,0,0,0,,{\i1}That was my last Rebirth Tearjewel.
+Dialogue: 100,0:07:02.23,0:07:04.74,Default,Sunraku,0,0,0,,{\i1}All I've got left are five Divine Lifesalves.
+Dialogue: 100,0:07:05.11,0:07:07.87,Default,Sunraku,0,0,0,,{\i1}If the Sky Clear comes every thirty seconds,
+Dialogue: 100,0:07:07.87,0:07:10.41,Default,Sunraku,0,0,0,,{\i1}that means I've got three minutes left to live.
+Dialogue: 100,0:07:10.83,0:07:13.75,Default,Sunraku,0,0,0,,{\i1}It's been less than five minutes since the third phase started.{It's been less than five minutes since Phase 3 started.}
+Dialogue: 100,0:07:13.75,0:07:15.00,Default,Sunraku,0,0,0,,{\i1}I won't make it to ten.
+Dialogue: 100,0:07:15.33,0:07:18.04,Default,Wethermon,0,0,0,,Until you surpass my ultimate,
+Dialogue: 100,0:07:18.04,0:07:20.50,Default,Wethermon,0,0,0,,I shall not fall.
+Dialogue: 100,0:07:21.46,0:07:24.76,Default,Sunraku,0,0,0,,{\i1}Until I "surpass" it... he won't fall?
+Dialogue: 100,0:07:26.80,0:07:29.51,Default,Wethermon,0,0,0,,Clear Sky Conquest, Wind Slash!{Clear Sky Conquest. Wind Slash!}
+Dialogue: 100,0:07:33.31,0:07:34.27,Default,Wethermon,0,0,0,,Thunderclap!
+Dialogue: 100,0:07:36.19,0:07:40.27,Default,Sunraku,0,0,0,,{\q2}{\i1}But then, the whole surviving thing \Nwas just a theory from the start.{But then, the "survive ten minutes" thing was just a theory from the start.}
+Dialogue: 100,0:07:40.65,0:07:46.11,Default,Sunraku,0,0,0,,{\q2}{\i1}Right now, I'm thinking "beating the \NClear Sky Conquest" is a more likely scenario.{Right now, I'm thinking "survive the Clear Sky Conquest" is a more likely scenario.}
+Dialogue: 100,0:07:50.49,0:07:51.24,Default,Wethermon,0,0,0,,Sky Clear!
+Dialogue: 100,0:07:53.58,0:07:58.54,Default,Sunraku,0,0,0,,{\q2}{\i1}Solving the Sky Clear must be \Nthe win condition against Wethermon!{Solving the Sky Clear must be the victory condition against Wethermon!}
+Dialogue: 100,0:07:59.54,0:08:03.30,Default,Sunraku,0,0,0,,{\i1}And the key to doing that has gotta be to parry.
+Dialogue: 100,0:08:04.01,0:08:06.09,Default,Sunraku,0,0,0,,{\i1}Against an opponent of Wethermon's caliber,
+Dialogue: 100,0:08:06.09,0:08:09.05,Default,Sunraku,0,0,0,,{\i1}you'd need to deflect with absolutely perfect timing.{you'd need to deflect with the timing of a critical...}
+Dialogue: 100,0:08:09.05,0:08:11.26,Default,Sunraku,0,0,0,,{\i1}You've gotta do it while rooted to one spot,
+Dialogue: 100,0:08:11.26,0:08:15.06,Default,Sunraku,0,0,0,,{\i1}in a state where you can't make any stance adjustments.
+Dialogue: 100,0:08:15.47,0:08:19.31,Default,Sunraku,0,0,0,,{\q2}{\i1}If you get the timing off by even a millisecond, \Nhe'll shatter your weapon.{If you get the timing off by a millisecond, he'll shatter your weapon.}
+Dialogue: 100,0:08:19.31,0:08:23.07,Default,Sunraku,0,0,0,,{\i1}Still, it's the only way to win.
+Dialogue: 100,0:08:23.48,0:08:26.86,Default,Sunraku,0,0,0,,{\q2}{\i1}My job right now is to work out \Nwhat I need in that final moment,
+Dialogue: 100,0:08:26.86,0:08:30.07,Default,Sunraku,0,0,0,,{\i1}and make sure I have it at my disposal.
+Dialogue: 100,0:08:33.41,0:08:36.58,Default,Sunraku,0,0,0,,{\i1}Soon, I'll have everything I need.{Soon. Soon, I'll have everything I need...}
+Dialogue: 100,0:08:37.04,0:08:39.08,Default,Sunraku,0,0,0,,{\i1}Wait just a little while longer...
+Dialogue: 100,0:08:39.67,0:08:41.33,Default,Sunraku,0,0,0,,{\i1}Wethermon.
+Dialogue: 100,0:08:41.33,0:08:44.21,Default,Wethermon,0,0,0,,Until you surpass my ultimate,
+Dialogue: 100,0:08:44.21,0:08:46.80,Default,Wethermon,0,0,0,,I shall not fall.
+Dialogue: 100,0:08:59.39,0:09:02.23,Default,Pencilgon,0,0,0,,Let Sunraku handle Wethermon.{Let Sunraku handle all that.}
+Dialogue: 100,0:09:02.23,0:09:05.90,Default,Oikatzo,0,0,0,,Yeah, we've got our own problems to worry about.{Yeah, we've got our own job to focus on.}
+Dialogue: 100,0:09:06.69,0:09:12.36,Default,Oikatzo,0,0,0,,{\q2}Now, as far as your sure-fire way \Nto take down Kirin Armor goes...
+Dialogue: 100,0:09:12.62,0:09:16.12,Default,Oikatzo,0,0,0,,It's not gonna be easy to get him where we need him.
+Dialogue: 100,0:09:16.12,0:09:17.62,Default,Pencilgon,0,0,0,,Can't do it, hmm?
+Dialogue: 100,0:09:17.62,0:09:19.08,Default,Oikatzo,0,0,0,,Oh, please.
+Dialogue: 100,0:09:19.08,0:09:21.62,Default,Oikatzo,0,0,0,,Don't you underestimate a fighting game pro.{Don't go underestimating a fighting game pro.}
+Dialogue: 100,0:09:21.83,0:09:23.00,Default,Pencilgon,0,0,0,,In that case...
+Dialogue: 100,0:09:23.63,0:09:24.92,Default,Pencilgon,0,0,0,,get to it.{Get on that.}
+Dialogue: 100,0:09:28.92,0:09:31.13,Default,Oikatzo,0,0,0,,Wh-Why'd you just kill yourself?!
+Dialogue: 100,0:09:46.32,0:09:48.36,Default,Pencilgon,0,0,0,,That took forever!
+Dialogue: 100,0:09:48.36,0:09:49.65,Default,Pencilgon,0,0,0,,What's wrong with you?
+Dialogue: 100,0:09:49.65,0:09:51.57,Default,Oikatzo,0,0,0,,H-Hey, that's my line!
+Dialogue: 100,0:09:52.03,0:09:55.99,Default,Pencilgon,0,0,0,,A spear-wielder can't fight with just one hand.
+Dialogue: 100,0:09:55.99,0:09:58.12,Default,Pencilgon,0,0,0,,But resurrection sets me back to normal.
+Dialogue: 100,0:09:58.12,0:10:00.33,Default,Oikatzo,0,0,0,,At least warn me first!
+Dialogue: 100,0:10:00.70,0:10:03.83,Default,Pencilgon,0,0,0,,Now, let's do this one more time!{Now, let's start again fresh!}
+Dialogue: 100,0:10:04.63,0:10:06.75,Default,Pencilgon,0,0,0,,{\i1}First, gotta find its weak spot.{First, gotta find its weak spot...}
+Dialogue: 100,0:10:09.34,0:10:12.01,Default,Pencilgon,0,0,0,,{\i1}The backbone linking the top and bottom portions!
+Dialogue: 100,0:10:12.01,0:10:14.22,Default,Pencilgon,0,0,0,,{\i1}It feels just like the other parts!
+Dialogue: 100,0:10:14.64,0:10:16.18,Default,Pencilgon,0,0,0,,Hey, hey! I'm right over here!
+Dialogue: 100,0:10:18.14,0:10:20.89,Default,Oikatzo,0,0,0,,Not as easy to shake off this time, am I?
+Dialogue: 100,0:10:21.14,0:10:23.60,Default,Oikatzo,0,0,0,,I've drugged myself into a major buff stack...{I've drugged myself into a major buff stack,}
+Dialogue: 100,0:10:23.98,0:10:26.23,Default,Oikatzo,0,0,0,,{\i1}and{\i0} I'm using two whips!
+Dialogue: 100,0:10:29.19,0:10:32.86,Default,Oikatzo,0,0,0,,The second you lift up the leg, the body falls!
+Dialogue: 100,0:10:33.45,0:10:36.41,Default,Pencilgon,0,0,0,,Well done, Katzo!{Katzo-kun, well done!}
+Dialogue: 100,0:10:36.41,0:10:39.08,Default,Oikatzo,0,0,0,,If you wanna be a fighting game pro in the VR game age,
+Dialogue: 100,0:10:39.08,0:10:45.92,Default,Oikatzo,0,0,0,,{\q2}you'd better know how the human body moves \Nunder any set of circumstances!
+Dialogue: 100,0:10:45.92,0:10:47.59,Default,Pencilgon,0,0,0,,This thing ain't really human, though!{This thing isn't really human!}
+Dialogue: 100,0:10:47.59,0:10:50.88,Default,Oikatzo,0,0,0,,It's humanoid! Basically the same thing!
+Dialogue: 100,0:10:52.38,0:10:54.59,Default,Oikatzo,0,0,0,,Okay, and that's when...
+Dialogue: 100,0:10:58.10,0:10:59.85,Default,Oikatzo,0,0,0,,I add more!{I add more whips!}
+Dialogue: 100,0:10:59.85,0:11:03.10,Default,Oikatzo,0,0,0,,I've got you wrapped up in every whip I've got!
+Dialogue: 100,0:11:04.85,0:11:06.81,Default,Pencilgon,0,0,0,,{\i1}That's that for this weapon, I guess.{I suppose that's the end of this weapon.}
+Dialogue: 100,0:11:07.19,0:11:13.07,Default,Pencilgon,0,0,0,,{\q2}{\i1}Adding armor-piercing buffs to your weapons \Nwears down their durability very quickly.
+Dialogue: 100,0:11:13.65,0:11:18.82,Default,Pencilgon,0,0,0,,{\q2}{\i1}I've hit its back, arms, and legs \Nmultiple times over the course of the fight,
+Dialogue: 100,0:11:18.82,0:11:21.29,Default,Pencilgon,0,0,0,,{\i1}but it's just as tough all over.
+Dialogue: 100,0:11:21.70,0:11:26.21,Default,Pencilgon,0,0,0,,{\q2}{\i1}Still... there's one place \Nwhere it's particularly thicker than the rest.{Still... there's one place where the armor is tougher than the others.}
+Dialogue: 100,0:11:26.75,0:11:29.71,Default,Pencilgon,0,0,0,,That waist of yours is just too suspicious!
+Dialogue: 100,0:11:29.96,0:11:31.71,Default,Pencilgon,0,0,0,,Katzo! Move it forward!
+Dialogue: 100,0:11:31.92,0:11:32.71,Default,Oikatzo,0,0,0,,Got it!
+Dialogue: 100,0:11:34.51,0:11:36.22,Default,Oikatzo,0,0,0,,I won't be able to hold it for long!
+Dialogue: 100,0:11:36.22,0:11:37.47,Default,Pencilgon,0,0,0,,Okay!
+Dialogue: 100,0:11:37.97,0:11:41.22,Default,Pencilgon,0,0,0,,It's time to spill your guts, you big oaf!{It's time to spill your guts, giant!}
+Dialogue: 100,0:11:42.14,0:11:43.97,Default,Pencilgon,0,0,0,,{\an8}Spear of Sunlight!
+Dialogue: 100,0:11:47.56,0:11:49.56,Default,Pencilgon,0,0,0,,Come on, hang in there a little longer!{Come on, you can hang in there a little longer!}
+Dialogue: 100,0:11:49.81,0:11:52.07,Default,Oikatzo,0,0,0,,My buffs are about to run out, y'know!
+Dialogue: 100,0:11:59.20,0:12:00.45,Default,Pencilgon,0,0,0,,I got it off!
+Dialogue: 100,0:12:00.45,0:12:02.33,Default,Oikatzo,0,0,0,,Great! Then, let's finish the job!
+Dialogue: 100,0:12:09.88,0:12:11.00,Default,Oikatzo,0,0,0,,It shredded all my whips!
+Dialogue: 100,0:12:20.30,0:12:22.97,Default,Oikatzo,0,0,0,,The hell is this? A berserker mode?!
+Dialogue: 100,0:12:22.97,0:12:26.52,Default,Pencilgon,0,0,0,,Looks like breaking the waist armor set it off!
+Dialogue: 100,0:12:26.52,0:12:28.23,Default,Oikatzo,0,0,0,,What's the plan? Fall back for a bit?
+Dialogue: 100,0:12:28.23,0:12:30.73,Default,Pencilgon,0,0,0,,No, we press the attack.
+Dialogue: 100,0:12:30.73,0:12:32.40,Default,Pencilgon,0,0,0,,If we just let it rampage,
+Dialogue: 100,0:12:32.40,0:12:37.24,Default,Pencilgon,0,0,0,,{\q2}any one of those beams and missiles \Nwill probably hit Sunraku.{one of those indiscriminate beams or missiles might hit Sunraku-kun.}
+Dialogue: 100,0:12:37.82,0:12:40.49,Default,Pencilgon,0,0,0,,I think you've got a good idea what'll happen next.{I think you can imagine what that would lead to.}
+Dialogue: 100,0:12:42.03,0:12:44.08,Default,Sunraku,0,0,0,,Huh? What was that?
+Dialogue: 100,0:12:44.08,0:12:46.54,Default,Sunraku,0,0,0,,While I was going toe-to-toe with a unique monster,
+Dialogue: 100,0:12:46.54,0:12:50.92,Default,Sunraku,0,0,0,,{\i1}someone{\i0} couldn't even handle distracting his pet horse?!
+Dialogue: 100,0:12:50.92,0:12:54.13,Default,Sunraku,0,0,0,,I'd sure love to hear {\i1}all{\i0} about that!
+Dialogue: 100,0:12:56.67,0:12:59.93,Default,Pencilgon,0,0,0,,We'll be in for six months of {\i1}that{\i0}.
+Dialogue: 100,0:12:59.93,0:13:02.18,Default,Oikatzo,0,0,0,,No doubt. I'd do the same thing.
+Dialogue: 100,0:13:02.18,0:13:03.39,Default,Pencilgon,0,0,0,,Yeah, so would I.
+Dialogue: 100,0:13:04.05,0:13:05.06,Default,Oikatzo,0,0,0,,Okay!
+Dialogue: 100,0:13:05.06,0:13:08.77,Default,Oikatzo,0,0,0,,In that case, we've done all the prep work.{In that case, we've done all our prep...}
+Dialogue: 100,0:13:08.98,0:13:11.40,Default,Oikatzo,0,0,0,,So let's seal the deal on that plan of yours!{So let's seal the deal on your sure-fire plan!}
+Dialogue: 100,0:13:11.40,0:13:12.77,Default,Pencilgon,0,0,0,,You said it.
+Dialogue: 100,0:13:12.77,0:13:15.73,Default,Pencilgon/Oikatzo,0,0,0,,Time to thrash this tin can!{Time for Giant Killing!}
+Dialogue: 100,0:13:24.91,0:13:27.54,Default,Pencilgon,0,0,0,,{\i1}I only have two spears left.
+Dialogue: 100,0:13:27.54,0:13:30.25,Default,Pencilgon,0,0,0,,Boy, what a waste.
+Dialogue: 100,0:13:30.25,0:13:33.42,Default,Pencilgon,0,0,0,,Do you know how much it costs to make one of these?
+Dialogue: 100,0:13:33.42,0:13:36.09,Default,Oikatzo,0,0,0,,Now's not the time to get stingy!
+Dialogue: 100,0:13:37.30,0:13:40.05,Default,Pencilgon,0,0,0,,Must be nice to only be using fists as weapons.{Must be nice to just use your fists...}
+Dialogue: 100,0:13:41.72,0:13:42.55,Default,Pencilgon,0,0,0,,Okay...
+Dialogue: 100,0:13:44.39,0:13:46.06,Default,Pencilgon,0,0,0,,Thou art that which binds.
+Dialogue: 100,0:13:46.47,0:13:48.31,Default,Pencilgon,0,0,0,,I am that which holds fast.
+Dialogue: 100,0:13:48.56,0:13:50.06,Default,Pencilgon,0,0,0,,{\i1}I merge with all of creation.
+Dialogue: 100,0:13:50.60,0:13:53.23,Default,Pencilgon,0,0,0,,{\i1}I find the incompatible darkness...
+Dialogue: 100,0:13:53.94,0:13:55.06,Default,Pencilgon,0,0,0,,{\i1}and strike!
+Dialogue: 100,0:14:02.82,0:14:04.74,Default,Pencilgon,0,0,0,,Shadow Wedge!
+Dialogue: 100,0:14:09.20,0:14:10.58,Default,Pencilgon,0,0,0,,Shadow Wedge.{Shadow Wedge...}
+Dialogue: 100,0:14:11.50,0:14:17.25,Default,Pencilgon,0,0,0,,{\q2}It's a spell that lets you seal a target in place \Nby stabbing your weapon into its shadow.
+Dialogue: 100,0:14:18.21,0:14:21.30,Default,Pencilgon,0,0,0,,It lasts until the weapon breaks.
+Dialogue: 100,0:14:22.13,0:14:25.55,Default,Pencilgon,0,0,0,,{\q2}Given Kirin's size, that'll probably be \Nabout five seconds from now.
+Dialogue: 100,0:14:26.35,0:14:28.10,Default,Pencilgon,0,0,0,,We only get one chance at this!
+Dialogue: 100,0:14:28.43,0:14:31.31,Default,Pencilgon,0,0,0,,I'll use... my last spear!{Let's go... my last spear!}
+Dialogue: 100,0:14:32.39,0:14:36.06,Default,Pencilgon,0,0,0,,Giant Killing Skewer!
+Dialogue: 100,0:14:39.57,0:14:42.32,Default,Pencilgon,0,0,0,,Perfect for a mammoth like this, don't you think?!
+Dialogue: 100,0:14:42.86,0:14:44.57,Default,Pencilgon,0,0,0,,It's time, Katzo!
+Dialogue: 100,0:14:44.57,0:14:46.91,Default,Oikatzo,0,0,0,,Okay! Hold it tight!
+Dialogue: 100,0:14:50.04,0:14:51.04,Default,Oikatzo,0,0,0,,Pencilgon!
+Dialogue: 100,0:14:52.04,0:14:52.79,Default,Pencilgon,0,0,0,,{\i1}Drat.
+Dialogue: 100,0:14:53.21,0:14:55.79,Default,Pencilgon,0,0,0,,{\i1}It fired a missile before I locked it down?
+Dialogue: 100,0:15:00.46,0:15:02.30,Default,Oikatzo,0,0,0,,Dammit...{Damn it...}
+Dialogue: 100,0:15:01.05,0:15:03.67,Default,Pencilgon,0,0,0,,{\an8}Katzo, don't!{That's no problem!}
+Dialogue: 100,0:15:08.22,0:15:12.77,Default,Pencilgon,0,0,0,,I said that a spear-wielder can't fight with only one arm.{I said that a spear-wielder can't fight with only one arm...}
+Dialogue: 100,0:15:13.23,0:15:15.19,Default,Pencilgon,0,0,0,,I take that back.{but I take that back.}
+Dialogue: 100,0:15:16.40,0:15:18.44,Default,Pencilgon,0,0,0,,Kirin Armor...
+Dialogue: 100,0:15:18.94,0:15:21.69,Default,Pencilgon,0,0,0,,one arm is all I need to take you on!{I only need one arm for you!}
+Dialogue: 100,0:15:22.48,0:15:26.49,Default,Pencilgon,0,0,0,,Go! Giant Killing!
+Dialogue: 100,0:15:29.91,0:15:32.08,Default,Pencilgon,0,0,0,,All or Nothing!
+Dialogue: 100,0:15:35.79,0:15:38.25,Default,Pencilgon,0,0,0,,It's all yours, Katzo.
+Dialogue: 100,0:15:41.71,0:15:44.09,Default,Oikatzo,0,0,0,,Red, Blue, Yellow.
+Dialogue: 100,0:15:44.09,0:15:45.88,Default,Oikatzo,0,0,0,,Three colors, merge.{Three colors merge.}
+Dialogue: 100,0:15:46.72,0:15:49.47,Default,Oikatzo,0,0,0,,Spirit Fist: Dark Overstrike!
+Dialogue: 100,0:15:50.39,0:15:54.27,Default,Oikatzo,0,0,0,,Just go down already, you hunk of scrap!{Just go down already, you empty shell!}
+Dialogue: 100,0:15:54.85,0:15:59.61,Default,Oikatzo,0,0,0,,Human Pile Bunker!
+Dialogue: 100,0:16:04.23,0:16:05.03,Default,Pencilgon,0,0,0,,Katzo!
+Dialogue: 100,0:16:26.72,0:16:28.01,Default,Oikatzo,0,0,0,,I'm 'kay.
+Dialogue: 100,0:16:41.02,0:16:45.48,Default,Oikatzo,0,0,0,,Boy, I'm tired!
+Dialogue: 100,0:16:45.48,0:16:47.78,Default,Oikatzo,0,0,0,,We were so screwed if that hadn't clinched it!
+Dialogue: 100,0:16:49.36,0:16:52.53,Default,Oikatzo,0,0,0,,{\q2}I'm so drained from Dark Overstrike \Nthat I can't move a muscle.
+Dialogue: 100,0:16:52.53,0:16:54.16,Default,Pencilgon,0,0,0,,You're out of stamina.
+Dialogue: 100,0:16:54.16,0:16:55.79,Default,Pencilgon,0,0,0,,Rest for a while and you'll—
+Dialogue: 100,0:16:56.79,0:16:57.91,Default,Pencilgon,0,0,0,,How's Sunraku?!
+Dialogue: 100,0:17:08.42,0:17:11.34,Default,Sunraku,0,0,0,,That was my last resurrection item.
+Dialogue: 100,0:17:11.76,0:17:14.05,Default,Sunraku,0,0,0,,I made it in time, Wethermon.
+Dialogue: 100,0:17:14.05,0:17:15.68,Default,Sunraku,0,0,0,,I've got everything I need now.
+Dialogue: 100,0:17:15.97,0:17:17.47,Default,Sunraku,0,0,0,,Hunger Wolf.{Hungry Wolf.}
+Dialogue: 100,0:17:18.48,0:17:20.06,Default,Sunraku,0,0,0,,Climax Boost.
+Dialogue: 100,0:17:21.10,0:17:23.56,Default,Sunraku,0,0,0,,Their recast time is over.
+Dialogue: 100,0:17:24.65,0:17:27.44,Default,Sunraku,0,0,0,,And my Moonblades' fusion gauge is filled up.
+Dialogue: 100,0:17:29.86,0:17:32.03,Default,Wethermon,0,0,0,,Clear Sky Conquest!
+Dialogue: 100,0:17:33.57,0:17:35.45,Default,Sunraku,0,0,0,,In thirty seconds...{In thirty seconds}
+Dialogue: 100,0:17:35.74,0:17:38.00,Default,Sunraku,0,0,0,,you'll dish out your last Sky Clear.
+Dialogue: 100,0:17:38.45,0:17:40.08,Default,Sunraku,0,0,0,,Wethermon the Tombguard...
+Dialogue: 100,0:17:40.71,0:17:42.83,Default,Sunraku,0,0,0,,I'm gonna surpass your ultimate strike{I'm gonna solve your ultimate strike}
+Dialogue: 100,0:17:42.83,0:17:46.84,Default,Sunraku,0,0,0,,and end this phase once and for all!{and bring on the finale!}
+Dialogue: 100,0:17:48.46,0:17:49.46,Default,Wethermon,0,0,0,,Wind Slash!
+Dialogue: 100,0:17:53.43,0:17:54.51,Default,Wethermon,0,0,0,,Tidal Rush!
+Dialogue: 100,0:17:56.56,0:17:57.64,Default,Wethermon,0,0,0,,Nimbus Fist!
+Dialogue: 100,0:18:04.27,0:18:09.65,Default,Sunraku,0,0,0,,{\q2}{\i1}I'm using my recast time to keep tabs on exactly how long \Nhis Clear Sky Conquest has been going.{I'm using my recast time identify exactly how long his Clear Sky Conquest has been going.}
+Dialogue: 100,0:18:10.07,0:18:11.82,Default,Sunraku,0,0,0,,{\i1}The Sky Clear is coming in two seconds.
+Dialogue: 100,0:18:12.40,0:18:14.16,Default,Sunraku,0,0,0,,And it'll be your last.{It'll be your last Sky Clear...}
+Dialogue: 100,0:18:14.16,0:18:15.57,Default,Sunraku,0,0,0,,Bring it on, Wethermon!
+Dialogue: 100,0:18:15.99,0:18:18.87,Default,Sunraku,0,0,0,,{\i1}The key to beating it is the Moonblade...
+Dialogue: 100,0:18:24.04,0:18:25.67,Default,Sunraku,0,0,0,,{\i1}Twin Moon!
+Dialogue: 100,0:18:26.59,0:18:29.00,Default,Narrator,0,0,0,,{\i1}The fusion of the blades "Waxing" and "Waning."
+Dialogue: 100,0:18:29.42,0:18:30.92,Default,Narrator,0,0,0,,{\i1}It comes with a special effect.{It comes with a special effect:}
+Dialogue: 100,0:18:30.92,0:18:38.81,Default,Narrator,0,0,0,,{\q2}{\i1}The lower your stats are relative to your enemy's, \Nthe greater the power and likelihood of your crits.{the lower your stats are, relative to your enemy's, the greater the power and likelihood of your criticals.}
+Dialogue: 100,0:18:39.18,0:18:41.89,Default,Sunraku,0,0,0,,{\i1}It's the best weapon possible for these circumstances.
+Dialogue: 100,0:18:42.52,0:18:45.15,Default,Sunraku,0,0,0,,{\i1}It raises the likelihood that my parry will go through!{It raises the likelihood that my parry will work!}
+Dialogue: 100,0:18:45.52,0:18:50.03,Default,Sunraku,0,0,0,,{\q2}{\i1}And with the stacked effects \Nof Climax Boost and Hunger Wolf,{And... With the stacked effects of Climax Boost and Hunger Wolf,}
+Dialogue: 100,0:18:50.03,0:18:51.86,Default,Sunraku,0,0,0,,{\i1}I'll raise my agility!{I'll raise my action speed!}
+Dialogue: 100,0:18:52.32,0:18:55.45,Default,Sunraku,0,0,0,,{\i1}With all this, I can block his Sky Clear for sure!
+Dialogue: 100,0:18:58.62,0:18:59.99,Default,Sunraku,0,0,0,,I can't activate it?
+Dialogue: 100,0:19:02.12,0:19:06.25,Default,Sunraku,0,0,0,,{\q2}{\i1}I've got a skill I can only activate \Nwhen my HP falls below one-third.{I've got a skill I can only activate when my HP fall below one-third—}
+Dialogue: 100,0:19:07.04,0:19:09.25,Default,Sunraku,0,0,0,,{\i1}I screwed up!
+Dialogue: 100,0:19:09.25,0:19:12.76,Default,Sunraku,0,0,0,,{\i1}How'd I manage to blow my prep like this?!
+Dialogue: 100,0:19:13.01,0:19:14.01,Default,Sunraku,0,0,0,,{\i1}I'm doomed!
+Dialogue: 100,0:19:14.01,0:19:16.01,Default,Sunraku,0,0,0,,{\i1}I've soaked that attack enough times to know.{I've soaked that attack enough times to know...}
+Dialogue: 100,0:19:16.01,0:19:19.14,Default,Sunraku,0,0,0,,{\q2}{\i1}Hunger Wolf alone ain't fast enough \Nto match his attack speed!{Hunger Wolf alone won't let me match the attack speed!}
+Dialogue: 100,0:19:19.14,0:19:21.01,Default,Sunraku,0,0,0,,{\i1}Think, man! There's gotta be a way!
+Dialogue: 100,0:19:21.01,0:19:23.14,Default,Sunraku,0,0,0,,{\i1}Sunraku, think!
+Dialogue: 100,0:19:23.14,0:19:25.10,Default,Sunraku,0,0,0,,{\i1}Something, anything!{Think up a way!}
+Dialogue: 100,0:19:25.10,0:19:25.77,Default,Wethermon,0,0,0,,Sky—
+Dialogue: 100,0:19:39.16,0:19:42.91,Default,Sunraku,0,0,0,,{\i1}You guys are all so obsessed with that Setsuna lady.{You guys are all so obsessed with that Setsuna lady...}
+Dialogue: 100,0:19:46.08,0:19:51.38,Default,Sunraku,0,0,0,,{\q2}{\i1}Today's major update changed the trigger conditions{Today's major update changed the activation conditions} \Nfor the luck-based "Endure" status.{for the luck-based "Endure" status...}
+Dialogue: 100,0:19:52.05,0:19:54.38,Default,Sunraku,0,0,0,,{\i1}If your luck stat is over fifty,
+Dialogue: 100,0:19:54.38,0:19:59.09,Default,Sunraku,0,0,0,,{\q2}{\i1}and your HP reaches zero \Ndue to self-inflicted or recoil damage,
+Dialogue: 100,0:19:59.09,0:20:03.43,Default,Sunraku,0,0,0,,{\i1}just once, you can hang in there with a single HP!{Just once, you can hang in there with a single HP!}
+Dialogue: 100,0:20:10.94,0:20:14.82,Default,Sunraku,0,0,0,,{\q2}Clear Sky Conquest is a chain of actions \Nthat concludes with Sky Clear.
+Dialogue: 100,0:20:15.32,0:20:20.53,Default,Sunraku,0,0,0,,{\q2}In other words, until you release that attack, \Nyou'll never give up.{In other words, until you release your Sky Clear, you'll never give up...}
+Dialogue: 100,0:20:21.95,0:20:24.20,Default,Sunraku,0,0,0,,Either on the Clear Sky Conquest action
+Dialogue: 100,0:20:24.20,0:20:26.79,Default,Sunraku,0,0,0,,or your oath to guard that grave forever and ever!
+Dialogue: 100,0:20:27.79,0:20:31.33,Default,Sunraku,0,0,0,,On behalf of Vash, I'm putting you down!
+Dialogue: 100,0:20:31.59,0:20:32.84,Default,Wethermon,0,0,0,,Sky Clear!
+Dialogue: 100,0:20:33.59,0:20:36.01,Default,Sunraku,0,0,0,,Crescent Vorpal!
+Dialogue: 100,0:20:44.64,0:20:46.35,Default,Sunraku,0,0,0,,Go to sleep already...
+Dialogue: 100,0:20:46.68,0:20:49.60,Default,Sunraku,0,0,0,,Wethermon the Tombguard!
+Dialogue: 100,0:20:57.32,0:20:59.45,Default,Sunraku,0,0,0,,You were really strong,{You were really strong...}
+Dialogue: 100,0:20:59.45,0:21:02.91,Default,Sunraku,0,0,0,,but I've seen enough of your attacks to last me a lifetime...{But I've seen enough of your attacks for a lifetime...}
+Dialogue: 100,0:21:04.70,0:21:07.33,Default,Sunraku,0,0,0,,And your blade won't reach me ever again.
+Dialogue: 100,0:21:10.67,0:21:14.42,Default,Sunraku,0,0,0,,I've broken through your ultimate strike.{The ultimate strike has been solved.}
+Dialogue: 100,0:21:23.68,0:21:24.93,Default,Wethermon,0,0,0,,Brilliant.
+Dialogue: 100,0:21:27.81,0:21:31.94,Default,Wethermon,0,0,0,,You have indeed surpassed it.{You have broken through my ultimate strike.}
+Dialogue: 100,0:21:34.27,0:21:39.19,Default,Wethermon,0,0,0,,As "Clear Sky" transformed into my ultimate, "Sky Clear"...
+Dialogue: 100,0:21:41.15,0:21:44.91,Default,Wethermon,0,0,0,,So, again, do the words transform... to describe your talent.
+Dialogue: 100,0:21:57.63,0:21:59.55,Default,Wethermon,0,0,0,,"It is as clear as a cloudless sky."

@@ -1,0 +1,267 @@
+﻿[Script Info]
+Title: English (US)
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+LayoutResX: 1920
+LayoutResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Corinthian Medium,78,&H00FAFAFA,&H000019FF,&H00000000,&HC4000000,-1,0,0,0,100,100,0,0,1,3.75,1.8,2,150,150,63,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.98,0:00:00.98,Default,chptr,0,0,0,,{OP}
+Dialogue: 0,0:01:30.99,0:01:30.99,Default,chptr,0,0,0,,{Part A}
+Dialogue: 0,0:12:44.99,0:12:44.99,Default,chptr,0,0,0,,{Part B}
+Dialogue: 0,0:22:11.73,0:22:11.73,Default,chptr,0,0,0,,{ED}
+Dialogue: 100,0:01:53.26,0:01:54.26,Default,Psyger-0,0,0,0,,And...
+Dialogue: 100,0:01:55.51,0:01:59.52,Default,Psyger-0,0,0,0,,You're certain that Sunraku was his name?
+Dialogue: 100,0:01:59.52,0:02:04.10,Default,Reiji,0,0,0,,Y-Yeah... I'm pretty sure that was his character name.{Y-Yeah... I'm pretty sure that was his character name...}
+Dialogue: 100,0:02:06.86,0:02:08.86,Default,Reiji,0,0,0,,Mia! Don't do that!
+Dialogue: 100,0:02:08.86,0:02:11.11,Default,Reiji,0,0,0,,That's not a monster, it's a player!
+Dialogue: 100,0:02:11.11,0:02:12.90,Default,Mia,0,0,0,,A-Are you sure?{R-Really?}
+Dialogue: 100,0:02:12.90,0:02:15.07,Default,Mia,0,0,0,,It's really scary-looking, though.{But it's really scary-looking...}
+Dialogue: 100,0:02:16.37,0:02:18.74,Default,Reiji,0,0,0,,Scary-looking players are still players!
+Dialogue: 100,0:02:19.95,0:02:24.58,Default,Psyger-0,0,0,0,,{\q2}So, this person named "Sunraku," \Ndo you know where he ha—{So, this player named "Sunraku." Do you know where he ha—}
+Dialogue: 100,0:02:24.58,0:02:25.92,Default,Psyger-0,0,0,0,,Er, where did he go?
+Dialogue: 100,0:02:25.92,0:02:26.79,Default,Reiji,0,0,0,,R-Right!
+Dialogue: 100,0:02:26.79,0:02:29.46,Default,Reiji,0,0,0,,I think he'd gotten a face full of poison from the Python.
+Dialogue: 100,0:02:29.46,0:02:31.17,Default,Reiji,0,0,0,,He ran off into Secondale!
+Dialogue: 100,0:02:32.13,0:02:35.22,Default,Psyger-0,0,0,0,,And he was half-naked, with a bird mask?{And he was half-naked, with a bird's head?}
+Dialogue: 100,0:02:35.22,0:02:38.51,Default,Reiji,0,0,0,,Yeah, but he could've changed his equipment by now.{Yeah, but he could've changed his equipment by now...}
+Dialogue: 100,0:02:38.51,0:02:41.56,Default,Mia,0,0,0,,The mask had such a creepy expression.{The mask had such a scary expression.}
+Dialogue: 100,0:02:41.56,0:02:42.98,Default,Mia,0,0,0,,I thought it was a monster!
+Dialogue: 100,0:02:44.02,0:02:46.19,Default,Psyger-0,0,0,0,,{\i1}I almost didn't believe it,
+Dialogue: 100,0:02:46.19,0:02:50.73,Default,Psyger-0,0,0,0,,{\q2}{\i1}but he really beat the Ravenous Python \Nwithout visiting the first town.{but he really beat the Ravenous Python without visiting the first town...}
+Dialogue: 100,0:02:51.11,0:02:52.94,Default,Psyger-0,0,0,0,,Thank you for the information.
+Dialogue: 100,0:02:52.94,0:02:55.03,Default,Psyger-0,0,0,0,,As a token of my gratitude...{As an expression of my gratitude...}
+Dialogue: 100,0:02:57.28,0:02:58.16,Default,Psyger-0,0,0,0,,Take it.
+Dialogue: 100,0:03:01.16,0:03:03.75,Default,Mia,0,0,0,,Th-Thanks.
+Dialogue: 100,0:03:03.75,0:03:04.75,Default,Psyger-0,0,0,0,,Now...
+Dialogue: 100,0:03:05.62,0:03:06.50,Default,Psyger-0,0,0,0,,I'll be off.{I'm in a hurry. Goodbye.}
+Dialogue: 100,0:03:15.30,0:03:16.63,Default,Mia,0,0,0,,So fast!
+Dialogue: 100,0:03:16.63,0:03:18.39,Default,Mia,0,0,0,,Who was that?
+Dialogue: 100,0:03:18.39,0:03:21.85,Default,Reiji,0,0,0,,Not sure, but I remember the emblem on the cape.{Not sure, but the emblem on the cape...}
+Dialogue: 100,0:03:22.39,0:03:26.35,Default,Reiji,0,0,0,,{\q2}I think it's from a clan focused on that \Nunique monster, Lycagon the Nightslayer.
+Dialogue: 100,0:03:26.60,0:03:28.40,Default,Mia,0,0,0,,Unique monster?
+Dialogue: 100,0:03:28.77,0:03:29.98,Default,Mia,0,0,0,,Lycagon?
+Dialogue: 100,0:03:29.98,0:03:36.07,Default,Reiji,0,0,0,,{\q2}Unique monsters are a special class of monsters \Nwith both an individual name and a title.
+Dialogue: 100,0:03:37.07,0:03:40.74,Default,Reiji,0,0,0,,When you beat basic mobs or capture them or whatever,{Most monsters, when you beat them or capture them or whatever,}
+Dialogue: 100,0:03:40.74,0:03:43.87,Default,Reiji,0,0,0,,{\q2}they respawn as a new individual \Nafter a set period of time passes.{respawn as a new individual after a set period of time passes.}
+Dialogue: 100,0:03:44.37,0:03:48.88,Default,Reiji,0,0,0,,{\q2}But for the unique monsters, \Nthere's only one of each in the game world.{But for the unique monsters, there's only one of each in the whole world.}
+Dialogue: 100,0:03:50.46,0:03:54.88,Default,Reiji,0,0,0,,{\an8}Rumor says there's seven of them in SLF,
+Dialogue: 100,0:03:54.88,0:03:58.43,Default,Reiji,0,0,0,,{\q2}{\an8}but we don't even know \Nthe spawn criteria for most of them.
+Dialogue: 100,0:03:58.84,0:04:01.76,Default,Reiji,0,0,0,,{\an8}For each of these unique monsters, called "Colossi,"
+Dialogue: 100,0:04:01.97,0:04:07.02,Default,Reiji,0,0,0,,{\q2}{\an8}lots of top players have formed clans \Nfocused on taking them out.
+Dialogue: 100,0:04:09.10,0:04:10.02,Default,Mia,0,0,0,,Wow...
+Dialogue: 100,0:04:10.27,0:04:12.77,Default,Mia,0,0,0,,So they're just super rare monsters?{So they're just really rare monsters?}
+Dialogue: 100,0:04:12.77,0:04:15.49,Default,Reiji,0,0,0,,That's about what it boils down to, yeah.
+Dialogue: 100,0:04:15.49,0:04:19.03,Default,Reiji,0,0,0,,{\q2}The issue is they're a lot stronger than \Nyou can possibly imagine.{The issue is how abnormally strong they are.}
+Dialogue: 100,0:04:19.32,0:04:22.41,Default,Reiji,0,0,0,,See, it's been a year since the game started,
+Dialogue: 100,0:04:22.41,0:04:25.45,Default,Reiji,0,0,0,,but even with a playerbase of over 30 million,
+Dialogue: 100,0:04:25.45,0:04:29.50,Default,Reiji,0,0,0,,not one person has defeated a single unique monster.
+Dialogue: 100,0:04:37.72,0:04:41.93,Default,Voice,0,0,0,,{\q2}{\i1}Unique monster, Lycagon the Nightslayer, \Nhas been encountered.{Unique monster, Lycagon the Nightslayer, encountered.}
+Dialogue: 100,0:04:42.51,0:04:45.68,Default,Sunraku,0,0,0,,{\i1}Unique{\i0}... monster?
+Dialogue: 100,0:05:01.07,0:05:03.66,Default,Sunraku,0,0,0,,{\i1}As damn tough as those Redcaps were...
+Dialogue: 100,0:05:05.66,0:05:07.75,Default,Sunraku,0,0,0,,{\i1}this one blew 'em away in a second.{it blew 'em away in a second.}
+Dialogue: 100,0:05:08.79,0:05:11.21,Default,Sunraku,0,0,0,,{\i1}A single hit from that and I'm a goner, I'll bet.{One hit from that and I'm a goner, I'll bet.}
+Dialogue: 100,0:05:33.02,0:05:33.90,Default,Sunraku,0,0,0,,You...
+Dialogue: 100,0:05:54.42,0:05:57.09,Default,Sunraku,0,0,0,,{\q2}You unique monsters \Ndon't have much going for you, do you?!
+Dialogue: 100,0:05:58.00,0:06:00.92,Default,Sunraku,0,0,0,,{\i1}Th-That was freaking close!
+Dialogue: 100,0:06:02.93,0:06:06.76,Default,Sunraku,0,0,0,,{\i1}I'm so glad I spent all night grinding levels!{I'm so glad I spent all night grinding!}
+Dialogue: 100,0:06:07.22,0:06:10.73,Default,Sunraku,0,0,0,,{\q2}{\i1\an8}If I hadn't learned Perfect Parry, \NI'd be totally dead right now!
+Dialogue: 100,0:06:15.35,0:06:18.11,Default,Sunraku,0,0,0,,{\i1}One wrong move and I'm done for!{One second's lapse and I'm done for!}
+Dialogue: 100,0:06:19.03,0:06:20.61,Default,Sunraku,0,0,0,,Better go all out!{Better go all-out!}
+Dialogue: 100,0:06:35.58,0:06:37.08,Default,Sunraku,0,0,0,,How'd you like that, huh?!
+Dialogue: 100,0:07:17.75,0:07:18.75,Default,Sunraku,0,0,0,,It disappeared again?
+Dialogue: 100,0:07:20.63,0:07:21.71,Default,Sunraku,0,0,0,,Where'll it come from next?
+Dialogue: 100,0:07:45.86,0:07:47.28,Default,Sunraku,0,0,0,,It's teleporting?!
+Dialogue: 100,0:08:28.36,0:08:32.41,Default,Sunraku,0,0,0,,{\q2}{\i1}Dammit, {Damn it... }the thing's pelt is tougher than \Nthe Ravenous Python's scales!
+Dialogue: 100,0:08:33.33,0:08:36.91,Default,Sunraku,0,0,0,,{\q2}{\i1}I've been whaling on the thing \Nfor over five minutes without taking a hit,{I've been whaling on the thing for over five minutes without taking a hit...}
+Dialogue: 100,0:08:36.91,0:08:37.91,Default,Sunraku,0,0,0,,{\i1}but...{But...}
+Dialogue: 100,0:08:38.21,0:08:41.38,Default,Sunraku,0,0,0,,{\q2}{\i1}the thing's so tough, I don't think \NI'm actually doing any damage!{The thing's so tough, I don't think I'm actually doing any damage!}
+Dialogue: 100,0:08:41.38,0:08:45.42,Default,Sunraku,0,0,0,,{\i1}Pretty sure I've landed a hundred... no, two hundred crits!
+Dialogue: 100,0:08:46.09,0:08:49.43,Default,Sunraku,0,0,0,,{\i1}My new Vorpal Choppers are already falling apart.{My Vorpal Choppers, which started out close to mint, are already falling apart...}
+Dialogue: 100,0:08:50.22,0:08:52.34,Default,Sunraku,0,0,0,,{\i1}If I don't find a softer spot to land a hit on...{If I don't find a softer spot to land a hit on,}
+Dialogue: 100,0:08:53.30,0:08:55.47,Default,Sunraku,0,0,0,,{\i1}my weapons are gonna crap out before I do!
+Dialogue: 100,0:08:55.47,0:08:57.18,Default,Sunraku,0,0,0,,{\i1}Actually, I'd say...
+Dialogue: 100,0:08:57.18,0:09:00.69,Default,Sunraku,0,0,0,,{\i1}taking this thing on, I'm batting way out of my league!{this thing's way out of the league of what I can fight right now!}
+Dialogue: 100,0:09:02.10,0:09:04.19,Default,Sunraku,0,0,0,,{\i1}But that's the way I like it!
+Dialogue: 100,0:09:04.44,0:09:05.69,Default,Sunraku,0,0,0,,{\i1}This is it!{That's the way!}
+Dialogue: 100,0:09:06.07,0:09:09.20,Default,Sunraku,0,0,0,,{\i1}This is what makes Shangri-La a god-tier game!{That's what makes it the god-tier game, Shangri-La Frontier!}
+Dialogue: 100,0:09:09.53,0:09:13.20,Default,Sunraku,0,0,0,,{\q2}{\i1}This spine-tingling intensity \Nthat makes me feel like I'm on fire...
+Dialogue: 100,0:09:15.62,0:09:18.95,Default,Sunraku,0,0,0,,{\i1}It's impossible to enjoy a game more than this!{It's not possible to enjoy a game more than this!}
+Dialogue: 100,0:09:19.25,0:09:22.75,Default,Sunraku,0,0,0,,{\i1}Bugs! Garbage balance! Absurd spawn rates!
+Dialogue: 100,0:09:22.75,0:09:26.25,Default,Sunraku,0,0,0,,{\i1}I'm a gamer who's made it through all those trash games!
+Dialogue: 100,0:09:29.17,0:09:31.84,Default,Sunraku,0,0,0,,{\i1}And since I know you don't have a bugged-out hitbox...
+Dialogue: 100,0:09:32.30,0:09:36.22,Default,Sunraku,0,0,0,,{\i1}there's no way in hell I'm gonna throw in the towel!{There's no way in hell I'm gonna throw in the towel!}
+Dialogue: 100,0:09:43.02,0:09:45.69,Default,Sunraku,0,0,0,,{\i1}I'm too far for its attack to hit me.
+Dialogue: 100,0:09:53.86,0:09:54.70,Default,Sunraku,0,0,0,,{\i1}It's howling?!{It's roaring?!}
+Dialogue: 100,0:09:55.49,0:09:56.99,Default,Sunraku,0,0,0,,{\i1}I can't move!
+Dialogue: 100,0:10:12.93,0:10:14.89,Default,Sunraku,0,0,0,,{\i1}What'd it do to me?
+Dialogue: 100,0:10:15.85,0:10:17.39,Default,Sunraku,0,0,0,,{\i1}What'd it hit me with?
+Dialogue: 100,0:10:24.06,0:10:26.65,Default,Sunraku,0,0,0,,{\i1}Reality's a harsh mistress, huh?
+Dialogue: 100,0:10:27.19,0:10:30.28,Default,Sunraku,0,0,0,,{\i1}I'm not gonna suddenly learn an awesome new skill
+Dialogue: 100,0:10:30.28,0:10:34.16,Default,Sunraku,0,0,0,,{\q2}{\i1}or get saved by a run-in \Nfrom some mysterious high-level player.{or get saved by a run-in from some mysterious high-level player...}
+Dialogue: 100,0:10:34.16,0:10:37.78,Default,Sunraku,0,0,0,,{\i1}None of that cinematic stuff for me.
+Dialogue: 100,0:10:38.70,0:10:41.75,Default,Sunraku,0,0,0,,{\i1}Actually... I did get one break.
+Dialogue: 100,0:10:41.75,0:10:44.92,Default,Sunraku,0,0,0,,{\i1}Somehow, after a hit like that, I've got one HP remaining.{Somehow, after a hit like that, I've got an HP remaining...}
+Dialogue: 100,0:10:45.54,0:10:46.92,Default,Sunraku,0,0,0,,{\i1}It's gotta be a miracle.
+Dialogue: 100,0:10:52.17,0:10:55.18,Default,Sunraku,0,0,0,,You're absurdly strong, you know that?
+Dialogue: 100,0:10:55.97,0:11:00.60,Default,Sunraku,0,0,0,,But that was intentionally coded into you.{But that absurdity was intentionally coded into you.}
+Dialogue: 100,0:11:00.60,0:11:04.48,Default,Sunraku,0,0,0,,You're exactly as strong as the devs wanted you to be.{You're exactly as strong as your creators wanted you to be.}
+Dialogue: 100,0:11:04.48,0:11:06.15,Default,Sunraku,0,0,0,,Which means...{In other words...}
+Dialogue: 100,0:11:07.06,0:11:08.69,Default,Sunraku,0,0,0,,You {\i1}can{\i0} be beaten.{It's a beatable absurdity.}
+Dialogue: 100,0:11:12.94,0:11:13.99,Default,Sunraku,0,0,0,,I've made up my mind.
+Dialogue: 100,0:11:14.53,0:11:17.24,Default,Sunraku,0,0,0,,I don't give a damn about the final boss or the story.
+Dialogue: 100,0:11:17.82,0:11:19.91,Default,Sunraku,0,0,0,,It might not be now, but someday...
+Dialogue: 100,0:11:20.45,0:11:22.79,Default,Sunraku,0,0,0,,I'm gonna defeat you, for sure.{I'm gonna beat you, for sure.}
+Dialogue: 100,0:11:24.54,0:11:27.79,Default,Sunraku,0,0,0,,You better not let anyone beat you before then...
+Dialogue: 100,0:11:27.79,0:11:31.55,Default,Sunraku,0,0,0,,Lycagon the Nightslayer!
+Dialogue: 100,0:12:06.46,0:12:07.12,Default,Sunraku,0,0,0,,Huh?
+Dialogue: 100,0:12:13.59,0:12:14.55,Default,Sunraku,0,0,0,,A curse?
+Dialogue: 100,0:12:17.22,0:12:20.22,Default,Sunraku,0,0,0,,"Lycagon's Mark (Curse)."
+Dialogue: 100,0:12:20.59,0:12:25.47,Default,Sunraku,0,0,0,,{\q2}"Equipment cannot be equipped to the body part \Nafflicted with Lycagon's Mark."
+Dialogue: 100,0:12:36.74,0:12:37.99,Default,Sunraku,0,0,0,,Hang on.
+Dialogue: 100,0:12:39.07,0:12:41.82,Default,Sunraku,0,0,0,,Am I... screwed?
+Dialogue: 100,0:12:45.74,0:12:47.75,Default,Sunraku,0,0,0,,{\an8}Lycagon's Mark?!
+Dialogue: 100,0:12:48.33,0:12:50.37,Default,Sunraku,0,0,0,,{\an8}What the heck is this crap?!
+Dialogue: 100,0:12:50.62,0:12:53.63,Default,Sunraku,0,0,0,,I can't equip stuff to my torso or legs!
+Dialogue: 100,0:12:54.00,0:12:55.80,Default,Sunraku,0,0,0,,That piece of crap wolf!
+Dialogue: 100,0:12:55.80,0:12:59.17,Default,Sunraku,0,0,0,,{\q2}It shows up out of nowhere, chomps me, \Nand marks me with a curse?!{It shows up out of nowhere, chomps me, and marks me?! With a curse?!}
+Dialogue: 100,0:12:59.63,0:13:02.64,Default,Sunraku,0,0,0,,You can't just destroy a guy's equipment like that!
+Dialogue: 100,0:13:03.30,0:13:07.39,Default,Sunraku,0,0,0,,{\q2}"Equipment cannot be equipped to the body part \Nafflicted with Lycagon's Mark."
+Dialogue: 100,0:13:07.39,0:13:11.40,Default,Sunraku,0,0,0,,{\q2}"Monsters of lower level than \Nthe afflicted character will flee."
+Dialogue: 100,0:13:11.40,0:13:13.56,Default,Sunraku,0,0,0,,"Lycagon's Mark will affect conversations with NPCs."{"Conversations with NPCs will be affected by the presence of Lycagon's Mark."}
+Dialogue: 100,0:13:13.56,0:13:15.94,Default,Sunraku,0,0,0,,"The afflicted body part gains resistance to magic effects."
+Dialogue: 100,0:13:15.94,0:13:23.91,Default,Sunraku,0,0,0,,{\q2}"The curse can be removed through the prayers of a Saint \Nor the defeat of the curse's caster"...
+Dialogue: 100,0:13:28.62,0:13:33.17,Default,Sunraku,0,0,0,,{\q2}The kind of curse where you gotta destroy \Nthe root to be rid of it, huh?
+Dialogue: 100,0:13:38.71,0:13:40.51,Default,Sunraku,0,0,0,,Nice weather today.
+Dialogue: 100,0:13:42.34,0:13:43.55,Default,Sunraku,0,0,0,,This...
+Dialogue: 100,0:13:43.55,0:13:44.97,Default,Sunraku,0,0,0,,This is...
+Dialogue: 100,0:13:50.85,0:13:54.40,Default,Sunraku,0,0,0,,some trash game bullshit!{This is trash game bullshit!}
+Dialogue: 100,0:13:54.40,0:13:55.94,Default,Mobs,0,0,0,,Going around half-naked?
+Dialogue: 100,0:13:55.94,0:13:56.44,Default,Mobs,0,0,0,,So lame!
+Dialogue: 100,0:13:56.44,0:13:57.44,Default,Mobs,0,0,0,,Couldn't be me.
+Dialogue: 100,0:13:57.65,0:13:58.57,Default,Mobs,0,0,0,,What a freak!
+Dialogue: 100,0:13:58.57,0:13:59.94,Default,Mobs,0,0,0,,Is it a reference to something?
+Dialogue: 100,0:14:01.53,0:14:03.24,Default,Sunraku,0,0,0,,Calm down, Sunraku.
+Dialogue: 100,0:14:03.24,0:14:06.08,Default,Sunraku,0,0,0,,{\q2}Remember the three principles \Nyou learned from trash games.{Remember the three principles you learned from trash games:}
+Dialogue: 100,0:14:07.58,0:14:08.91,Default,Sunraku,0,0,0,,{\pos(1464,1017)}An open mind.{Patient mind.}
+Dialogue: 100,0:14:10.12,0:14:11.71,Default,Sunraku,0,0,0,,{\pos(454,1017)}Unbreakable spirit.
+Dialogue: 100,0:14:13.25,0:14:16.50,Default,Sunraku,0,0,0,,And cool-headed judgment.
+Dialogue: 100,0:14:18.92,0:14:24.39,Default,Sunraku,0,0,0,,{\q2}Looks like you rack up a lot of experience \Nfrom just fighting a unique monster.{Looks like you rack up a lot of experience from just fighting a unique monster...}
+Dialogue: 100,0:14:25.14,0:14:29.89,Default,Sunraku,0,0,0,,{\q2}Which means I leveled up quite a bit, \Nbuffed up my skills, and got lots of stat points to allocate!
+Dialogue: 100,0:14:30.27,0:14:33.89,Default,Sunraku,0,0,0,,This might be a good time to define my build.
+Dialogue: 100,0:14:33.89,0:14:37.90,Default,Sunraku,0,0,0,,I'd better distribute all of these points carefully.{I'd better distribute these fifty points carefully.}
+Dialogue: 100,0:14:41.74,0:14:43.74,Default,Sunraku,0,0,0,,Vitality, 6.
+Dialogue: 100,0:14:44.11,0:14:47.53,Default,Sunraku,0,0,0,,I made myself a glass cannon that can die in one hit!{I made myself a glass cannon who can die in one hit!}
+Dialogue: 100,0:14:47.53,0:14:48.74,Default,Sunraku,0,0,0,,But what else could I do?!
+Dialogue: 100,0:14:48.74,0:14:51.37,Default,Sunraku,0,0,0,,I'm locked out of 2 out of 4 of my armor slots!{I'm locked out of two out of four of my armor slots!}
+Dialogue: 100,0:14:51.37,0:14:54.00,Default,Sunraku,0,0,0,,Spending points on vitality is like pissing in the ocean!
+Dialogue: 100,0:14:54.00,0:14:55.33,Default,Sunraku,0,0,0,,Same with my HP!
+Dialogue: 100,0:14:55.33,0:14:58.00,Default,Sunraku,0,0,0,,I'm just gonna have to cover with speed and stamina!
+Dialogue: 100,0:14:58.42,0:15:01.63,Default,Sunraku,0,0,0,,And my best stat is a 65 in luck.{And my best stat is a 65 in luck...}
+Dialogue: 100,0:15:02.92,0:15:05.18,Default,Sunraku,0,0,0,,The reason I got off then with one HP remaining...
+Dialogue: 100,0:15:05.80,0:15:09.68,Default,Sunraku,0,0,0,,That's gotta be my luck at play... right?
+Dialogue: 100,0:15:11.10,0:15:12.72,Default,Sunraku,0,0,0,,It's gotta do something, right?
+Dialogue: 100,0:15:13.60,0:15:17.69,Default,Sunraku,0,0,0,,Yeah, I mean... I've been through enough hell already, right?
+Dialogue: 100,0:15:17.94,0:15:21.69,Default,Sunraku,0,0,0,,It's okay to turn to luck for help, right?!
+Dialogue: 100,0:15:22.99,0:15:23.65,Default,Sunraku,0,0,0,,Ow!
+Dialogue: 100,0:15:25.45,0:15:27.32,Default,Sunraku,0,0,0,,Wh-What now?!{What now?!}
+Dialogue: 100,0:15:28.74,0:15:30.45,Default,Sunraku,0,0,0,,Huh? What's a rabbit doing...{What's a rabbit doing...}
+Dialogue: 100,0:15:30.91,0:15:32.33,Default,Sunraku,0,0,0,,I-Is that...
+Dialogue: 100,0:15:32.70,0:15:34.12,Default,Sunraku,0,0,0,,a Vorpal Bunny?!
+Dialogue: 100,0:15:35.04,0:15:36.29,Default,Sunraku,0,0,0,,It is, right?
+Dialogue: 100,0:15:36.29,0:15:38.04,Default,Sunraku,0,0,0,,Though, it doesn't look quite the same.{Though, it doesn't look quite the same...}
+Dialogue: 100,0:15:38.58,0:15:41.88,Default,Sunraku,0,0,0,,Hang on, does this game let monsters spawn in towns?!
+Dialogue: 100,0:15:45.34,0:15:47.01,Default,Sunraku,0,0,0,,Get back here, you!
+Dialogue: 100,0:15:52.93,0:15:54.89,Default,Sunraku,0,0,0,,No, that outfit it's wearing...
+Dialogue: 100,0:15:54.89,0:15:56.98,Default,Sunraku,0,0,0,,That's not just some Vorpal Bunny!
+Dialogue: 100,0:15:59.98,0:16:02.90,Default,Sunraku,0,0,0,,I bet if I catch it, I'll get a rare item!
+Dialogue: 100,0:16:03.28,0:16:05.15,Default,Sunraku,0,0,0,,It's gotta be some kind of special event!{It's gotta be that kind of thing!}
+Dialogue: 100,0:16:10.37,0:16:12.58,Default,Sunraku,0,0,0,,Yes! I got you!
+Dialogue: 100,0:16:16.41,0:16:17.46,Default,Sunraku,0,0,0,,A door?
+Dialogue: 100,0:16:30.97,0:16:32.10,Default,Sunraku,0,0,0,,What the...
+Dialogue: 100,0:16:32.64,0:16:35.43,Default,Sunraku,0,0,0,,"Unique Scenario: Invitation from Rabituza"?
+Dialogue: 100,0:16:35.81,0:16:38.77,Default,Sunraku,0,0,0,,I get it. I saw this on the game guide site.{I get it. I saw this on the game guide site...}
+Dialogue: 100,0:16:38.77,0:16:39.60,Default,Sunraku,0,0,0,,I think it was...{I think...}
+Dialogue: 100,0:16:40.23,0:16:44.82,Default,Rakuro,0,0,0,,{\q2}{\i1}"SLF has a sweeping main story \Nabout the exploration of the world,
+Dialogue: 100,0:16:44.82,0:16:48.65,Default,Rakuro,0,0,0,,{\i1}but it's also got a huge number of side quests.
+Dialogue: 100,0:16:48.65,0:16:51.49,Default,Rakuro,0,0,0,,{\i1}One subset of these is called 'unique scenarios'{One subset of these is called 'unique scenarios,'}
+Dialogue: 100,0:16:51.49,0:16:59.25,Default,Rakuro,0,0,0,,{\q2}{\i1}which are mystery scenarios whose unlock times, \Nlocations, contents, and flags aren't publicly known."{mystery scenarios whose unlock times, locations, contents, and flags aren't publicly known."}
+Dialogue: 100,0:16:59.83,0:17:04.75,Default,Rakuro,0,0,0,,{\q2}{\i1}"So the equipment, skills, and spells \Nyou can acquire in these events{"So the equipment, skills, and spells you can acquire in these unique scenarios...}
+Dialogue: 100,0:17:03.42,0:17:04.75,Default,Sunraku,0,0,0,,{\an8}What the heck is this?
+Dialogue: 100,0:17:04.75,0:17:08.26,Default,Rakuro,0,0,0,,{\i1}are said to all be top-class."{...are said to all be top-class."}
+Dialogue: 100,0:17:08.67,0:17:15.68,Default,Rakuro,0,0,0,,{\q2}{\i1}So it's not unusual to see clans searching desperately \Nto find {\i1}these unique scenarios, huh?
+Dialogue: 100,0:17:17.72,0:17:20.56,Default,Sunraku,0,0,0,,To encounter one this early in my playthrough...
+Dialogue: 100,0:17:20.56,0:17:23.27,Default,Sunraku,0,0,0,,Is this the result of dumping my stat points into luck?!
+Dialogue: 100,0:17:23.69,0:17:25.27,Default,Sunraku,0,0,0,,I won't let this chance slip away!
+Dialogue: 100,0:17:51.68,0:17:57.10,Default,Sunraku,0,0,0,,What... What is this place?!{Wh-What is this place?!}
+Dialogue: 100,0:18:03.56,0:18:05.11,Default,Sunraku,0,0,0,,Everywhere I look...
+Dialogue: 100,0:18:05.86,0:18:07.69,Default,Sunraku,0,0,0,,It's Vorpal Bunnies?!
+Dialogue: 100,0:18:09.11,0:18:11.53,Default,Sunraku,0,0,0,,Did I end up in a monsters' lair?
+Dialogue: 100,0:18:12.36,0:18:14.70,Default,Emul,0,0,0,,My fondest welcomes to you, Sunraku!{My fondest welcomes to you, Sunraku-san!}
+Dialogue: 100,0:18:15.07,0:18:17.28,Default,Emul,0,0,0,,I've {\i1}dearly{\i0} wanted to meet you!
+Dialogue: 100,0:18:19.66,0:18:21.96,Default,Sunraku,0,0,0,,What?! Hello?!
+Dialogue: 100,0:18:22.91,0:18:25.71,Default,Emul,0,0,0,,All of Rabituza is abuzz about you, you know!
+Dialogue: 100,0:18:26.21,0:18:28.21,Default,Emul,0,0,0,,Despite your great personal weakness,
+Dialogue: 100,0:18:28.21,0:18:30.46,Default,Emul,0,0,0,,{\q2}you had the courage to attempt \Nthe Nightslayer on your own!{you had the courage to attempt the Nightslayer all on your own!}
+Dialogue: 100,0:18:30.92,0:18:36.22,Default,Emul,0,0,0,,{\q2}And the skills to continue striking perfect \Ndeadly blows without taking a single hit...{And the skills to continue striking perfect deadly blows without taking a single hit...!}
+Dialogue: 100,0:18:36.22,0:18:39.72,Default,Emul,0,0,0,,You are the embodiment of the vorpal soul!
+Dialogue: 100,0:18:39.97,0:18:41.60,Default,Sunraku,0,0,0,,V-Vorpal soul?
+Dialogue: 100,0:18:41.89,0:18:43.81,Default,Emul,0,0,0,,If only I could be like you!
+Dialogue: 100,0:18:43.81,0:18:47.02,Default,Sunraku,0,0,0,,B-But I barely left a scratch on the thing.{B-But I barely left a scratch on the thing...}
+Dialogue: 100,0:18:47.02,0:18:48.98,Default,Emul,0,0,0,,Only because it's so very, very powerful!
+Dialogue: 100,0:18:49.52,0:18:53.74,Default,Emul,0,0,0,,{\q2}The Night Emperor is a Colossus, \Ncapable of gobbling down wyverns like a midday snack!
+Dialogue: 100,0:18:54.07,0:18:56.99,Default,Emul,0,0,0,,You being here speaking to me now suggests{That you are even here speaking to me now suggests}
+Dialogue: 100,0:18:56.99,0:19:00.37,Default,Emul,0,0,0,,you are one of the pioneers under the Divinity's protection!
+Dialogue: 100,0:18:58.74,0:19:00.37,Default,Sunraku,0,0,0,,{\an8\i1}Boy, this bunny loves to talk.{Boy, this bunny loves to talk...}
+Dialogue: 100,0:19:00.37,0:19:03.04,Default,Emul,0,0,0,,And those marks upon your body prove that
+Dialogue: 100,0:19:03.04,0:19:08.21,Default,Emul,0,0,0,,{\q2}the Night Emperor regards you \Nnot as mere prey, but as a fellow being!
+Dialogue: 100,0:19:08.21,0:19:09.96,Default,Emul,0,0,0,,How amazing!
+Dialogue: 100,0:19:09.96,0:19:13.01,Default,Sunraku,0,0,0,,{\i1}It's not the first game I've played where the monsters talk.{It's not the first game I've played where the monsters talk...}
+Dialogue: 100,0:19:13.01,0:19:15.09,Default,Sunraku,0,0,0,,{\i1}Is this thing an NPC?
+Dialogue: 100,0:19:15.09,0:19:17.64,Default,Sunraku,0,0,0,,{\i1}It seems pretty focused on Lycagon.{It seems pretty focused on Lycagon...}
+Dialogue: 100,0:19:17.84,0:19:20.14,Default,Sunraku,0,0,0,,{\i1}Actually, that one trait of the Mark...
+Dialogue: 100,0:19:23.39,0:19:25.77,Default,Sunraku,0,0,0,,{\i1}Is this what it was talking about?
+Dialogue: 100,0:19:25.77,0:19:28.69,Default,Emul,0,0,0,,And in light of your great deeds, my Da—{And in light of your great deeds, my Da— ahem—}
+Dialogue: 100,0:19:28.69,0:19:33.28,Default,Emul,0,0,0,,{\q2}I mean, our boss, would very much \Nlike to speak with you,{our boss would very much like to speak with you,} hence why I was sent to fetch you!
+Dialogue: 100,0:19:33.86,0:19:35.70,Default,Sunraku,0,0,0,,M-Meet {\i1}me{\i0}?
+Dialogue: 100,0:19:36.03,0:19:40.58,Default,Sunraku,0,0,0,,{\q2}I hope this isn't revenge for all \Nthe Vorpal Bunnies I killed, Miss, um...
+Dialogue: 100,0:19:40.58,0:19:41.33,Default,Emul,0,0,0,,Oh!
+Dialogue: 100,0:19:41.91,0:19:44.58,Default,Emul,0,0,0,,You may call me Emul!
+Dialogue: 100,0:19:49.13,0:19:51.63,Default,Sunraku,0,0,0,,{\i1}Is this thing really AI?
+Dialogue: 100,0:19:51.63,0:19:53.92,Default,Sunraku,0,0,0,,{\i1}It can even guess what I was gonna ask.{It can even guess what I was gonna ask...}
+Dialogue: 100,0:19:53.92,0:19:55.92,Default,Emul,0,0,0,,You may rest easy, I assure you.
+Dialogue: 100,0:19:55.92,0:19:59.18,Default,Emul,0,0,0,,Our boss is {\i1}far{\i0} above petty matters like revenge.
+Dialogue: 100,0:20:15.24,0:20:17.24,Default,Sunraku,0,0,0,,Look at that craftsmanship!
+Dialogue: 100,0:20:17.24,0:20:20.74,Default,Emul,0,0,0,,Quite a number of humans visit Rabituza,
+Dialogue: 100,0:20:20.74,0:20:24.95,Default,Emul,0,0,0,,but you'll be the first one to visit the palace!
+Dialogue: 100,0:20:24.95,0:20:26.20,Default,Sunraku,0,0,0,,For real?!{The first one?!}
+Dialogue: 100,0:20:26.87,0:20:28.50,Default,Sunraku,0,0,0,,Does that mean...
+Dialogue: 100,0:20:28.96,0:20:32.38,Default,Sunraku,0,0,0,,Is this a unique scenario only {\i1}I{\i0} know about?!
+Dialogue: 100,0:20:32.88,0:20:36.80,Default,Sunraku,0,0,0,,{\q2}When that piece of crap dog \Ngave me this Mark, I was pretty worried.{When that piece of crap dog gave me this Mark, I was pretty worried...}
+Dialogue: 100,0:20:37.51,0:20:40.22,Default,Sunraku,0,0,0,,But it looks like my luck's finally turned around!
+Dialogue: 100,0:20:40.22,0:20:42.80,Default,Emul,0,0,0,,Come, come! Right this way!
+Dialogue: 100,0:20:47.14,0:20:48.56,Default,Emul,0,0,0,,Daddy—
+Dialogue: 100,0:20:48.56,0:20:50.02,Default,Emul,0,0,0,,I mean, Boss!
+Dialogue: 100,0:20:50.23,0:20:54.19,Default,Emul,0,0,0,,I brought the human bearer of the vorpal soul to see you!
+Dialogue: 100,0:20:54.94,0:20:56.99,Default,Sunraku,0,0,0,,What kind of show of gratitude—
+Dialogue: 100,0:21:12.29,0:21:13.42,Default,Vysache,0,0,0,,Oh?
+Dialogue: 100,0:21:14.34,0:21:15.67,Default,Vysache,0,0,0,,Took you long enough.
+Dialogue: 100,0:21:17.05,0:21:22.55,Default,Vysache,0,0,0,,So, you're the one that pup beat up and took a piss on?
+Dialogue: 100,0:21:22.55,0:21:24.05,Default,Sunraku,0,0,0,,Y-Yeah...
+Dialogue: 100,0:21:24.05,0:21:24.93,Default,Emul,0,0,0,,Go on!
+Dialogue: 100,0:21:24.93,0:21:28.93,Default,Vysache,0,0,0,,You people lose your vorpal soul so quickly.
+Dialogue: 100,0:21:29.18,0:21:33.15,Default,Vysache,0,0,0,,I'd assumed you were all hopeless, but...{I'd assumed you were all hopeless, but...}
+Dialogue: 100,0:21:33.15,0:21:35.32,Default,Vysache,0,0,0,,Looks like at least one of you's got some promise.
+Dialogue: 100,0:21:42.61,0:21:43.99,Default,Vysache,0,0,0,,Well?
+Dialogue: 100,0:21:43.99,0:21:47.83,Default,Vysache,0,0,0,,Mind giving me a bit of your time?
+Dialogue: 100,0:21:55.42,0:21:58.59,Default,Vysache,0,0,0,,I'm the boss here in Rabituza.
+Dialogue: 100,0:21:58.59,0:22:01.17,Default,Vysache,0,0,0,,The name's Vysache.
