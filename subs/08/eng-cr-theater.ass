@@ -23,7 +23,6 @@ Dialogue: 0,0:21:15.96,0:21:23.22,Sign_Basic,sign,0,0,0,,{\an8\fnArial\b1\fs90\c
 Dialogue: 0,0:21:16.67,0:21:20.47,Default,Kids,0,0,0,,{\i1}SLF{\i0} Theater!
 Dialogue: 0,0:21:19.76,0:21:23.22,Default,sign,0,0,0,,{\fad(450,0)\an1\i1\b1\c&HF1FBFD&\3c&H3D717E&\bord4.5\pos(1038,868.002)}What Sunraku Saw!
 Dialogue: 0,0:21:20.47,0:21:22.01,Default,Emul,0,0,0,,Mini!
-Dialogue: 0,0:21:23.22,0:22:29.29,Sign_Basic,sign,0,0,0,,{\an9\i1\b1\c&HF1FBFD&\3c&H3D717E&\bord4.5\fs60\pos(1815.999,128.001)}SLF Theater
 Dialogue: 0,0:21:45.74,0:21:47.83,Default,Sunraku,0,0,0,,{\i1}Look at that fancy box.
 Dialogue: 0,0:21:47.83,0:21:50.04,Default,Sunraku,0,0,0,,{\i1}Is that Vash's secret stash?
 Dialogue: 0,0:21:50.37,0:21:55.00,Default,Sunraku,0,0,0,,{\i1}What rare treasures could the \Nboss of Rabituza have to offer?
@@ -34,7 +33,6 @@ Dialogue: 0,0:22:29.29,0:22:36.54,Sign_Basic,sign,0,0,0,,{\an8\fnArial\b1\fs90\c
 Dialogue: 0,0:22:29.95,0:22:33.75,Default,Kids,0,0,0,,{\i1}SLF{\i0} Theater!
 Dialogue: 0,0:22:33.08,0:22:36.54,Default,sign,0,0,0,,{\fad(450,0)\an1\i1\b1\c&HF1FBFD&\3c&H3D717E&\bord4.5\pos(1221.999,868.002)}Memory: XX Seconds
 Dialogue: 0,0:22:33.75,0:22:35.33,Default,Emul,0,0,0,,Mini!
-Dialogue: 0,0:22:36.54,0:23:51.62,Default,sign,0,0,0,,{\an9\i1\b1\c&HF1FBFD&\3c&H3D717E&\bord4.5\fs60\pos(1815.999,128.001)}SLF Theater
 Dialogue: 0,0:22:37.59,0:22:38.80,Default,Sunraku,0,0,0,,Now, then...
 Dialogue: 0,0:22:39.21,0:22:42.34,Default,Sunraku,0,0,0,,The newly released Great Max Tan-Tan Noodles.
 Dialogue: 0,0:22:42.88,0:22:45.51,Default,Sunraku,0,0,0,,I'm gonna want something \Nto wash it down with.

@@ -23,7 +23,6 @@ Dialogue: 0,0:23:42.94,0:23:50.20,Sign_Basic,sign,0,0,0,,{\an8\fnArial\b1\fs90\c
 Dialogue: 0,0:23:43.65,0:23:47.45,Default,Kids,0,0,0,,{\i1}{\i1}SLF{\i0}{\i0} Theater!
 Dialogue: 0,0:23:46.74,0:23:50.20,Default,sign,0,0,0,,{\fad(450,0)\an1\i1\b1\c&HF1FBFD&\3c&H3D717E&\bord4.5\pos(615,870)}Is the Food Bad in {\i1}SLF{\i0}?
 Dialogue: 0,0:23:47.45,0:23:48.91,Default,Emul,0,0,0,,Mini!
-Dialogue: 0,0:23:50.20,0:25:17.29,Sign_Basic,sign,0,0,0,,{\an9\i1\b1\c&HF1FBFD&\3c&H3D717E&\bord4.5\fs60\pos(1815.999,128.001)}SLF Theater
 Dialogue: 0,0:23:52.70,0:23:54.79,Default,Emul,0,0,0,,Oh, how I love carrots!
 Dialogue: 0,0:23:54.79,0:23:58.50,Default,Emul,0,0,0,,They are truly the greatest of foods!
 Dialogue: 0,0:23:58.50,0:24:01.46,Default,Emul,0,0,0,,The taste, the texture, the shape, the color!

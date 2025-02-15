@@ -22,7 +22,6 @@ Dialogue: 0,0:23:42.90,0:23:50.16,Sign_Basic,sign,0,0,0,,{\an8\fnArial\b1\fs90\c
 Dialogue: 0,0:23:43.65,0:23:46.70,Default,Kids,0,0,0,,{\i1}SLF{\i0} Theater!
 Dialogue: 0,0:23:46.70,0:23:50.16,Sign_Basic,sign,0,0,0,,{\fad(475,0)\an1\i1\b1\c&HF1FBFD&\3c&H3D717E&\bord4.5\pos(606,855)}The Saiga Family Valentine
 Dialogue: 0,0:23:47.49,0:23:48.91,Default,Emul,0,0,0,,{\an8}Mini!
-Dialogue: 0,0:23:50.16,0:25:23.25,Sign_Basic,sign,0,0,0,,{\an7\i1\b1\c&HF1FBFD&\3c&H3D717E&\bord4.5\fs60\pos(1434,120)}SLF Theater
 Dialogue: 0,0:23:51.03,0:23:53.54,Default,Rei,0,0,0,,First, I got some chocolate bars.
 Dialogue: 0,0:23:53.91,0:23:56.54,Default,Rei,0,0,0,,Then I chopped it up.
 Dialogue: 0,0:23:56.96,0:24:00.04,Default,Rei,0,0,0,,Then I melted it with a water bath.

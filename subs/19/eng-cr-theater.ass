@@ -22,7 +22,6 @@ Dialogue: 0,0:23:42.98,0:23:50.24,Sign_Basic,sign,0,0,0,,{\an8\fnArial\b1\fs90\c
 Dialogue: 0,0:23:43.78,0:23:46.78,Default,Kids,0,0,0,,{\an8}{\i1}SLF{\i0} Theater!
 Dialogue: 0,0:23:46.78,0:23:50.24,Sign_Basic,sign,0,0,0,,{\fad(475,0)\an1\i1\b1\c&HF1FBFD&\3c&H3D717E&\bord4.5\pos(522,870)}News: It's Morning, Indeed!
 Dialogue: 0,0:23:47.57,0:23:48.99,Default,Emul,0,0,0,,{\an8}{\an8}Mini!
-Dialogue: 0,0:23:50.24,0:26:43.41,Sign_Basic,sign,0,0,0,,{\an7\i1\b1\c&HF1FBFD&\3c&H3D717E&\bord4.5\fs60\pos(90,120)}SLF Theater
 Dialogue: 0,0:23:50.74,0:23:52.91,Default,Emul,0,0,0,,Well, good morning, all!
 Dialogue: 0,0:23:52.91,0:23:56.37,Default,Emul,0,0,0,,I'm the peerless vorpal \Nbunny of Rabituza, Emul!
 Dialogue: 0,0:23:56.62,0:24:00.50,Default,Emul,0,0,0,,I'm going to tell you about all \Nthe news I've seen and heard!

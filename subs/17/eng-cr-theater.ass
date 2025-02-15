@@ -23,7 +23,6 @@ Dialogue: 0,0:23:42.98,0:23:50.24,Sign_Basic,sign,0,0,0,,{\an8\fnArial\b1\fs90\c
 Dialogue: 0,0:23:43.78,0:23:46.78,Default,Kids,0,0,0,,{\i1}SLF{\i0} Theater!
 Dialogue: 0,0:23:46.78,0:23:50.24,Sign_Basic,sign,0,0,0,,{\fad(475,0)\an1\i1\b1\c&HF1FBFD&\3c&H3D717E&\bord4.5\fscx90\pos(807.999,864)}The Day Starts Early for a Girl in Love
 Dialogue: 0,0:23:47.57,0:23:48.99,Default,Emul,0,0,0,,{\an8}Mini!
-Dialogue: 0,0:23:50.24,0:26:47.42,Sign_Basic,sign,0,0,0,,{\an7\i1\b1\c&HF1FBFD&\3c&H3D717E&\bord4.5\fs60\pos(1434,120)}SLF Theater
 Dialogue: 0,0:23:51.49,0:23:53.87,Default,Narrator,0,0,0,,The day starts early for a girl in love.
 Dialogue: 0,0:23:55.00,0:23:56.75,Sign_Basic,sign,0,0,0,,{\pos(960,900)\fnTimes New Roman\c&H000000&\3c&HFFFFFF&\shad0\b1\bord3.75}Why are you up so early?
 Dialogue: 0,0:23:56.12,0:23:58.63,Default,Rei,0,0,0,,{\an8}W-Well, it's just... er...

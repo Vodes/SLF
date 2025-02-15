@@ -23,7 +23,6 @@ Dialogue: 0,0:23:43.03,0:23:50.28,Sign_Basic,sign,0,0,0,,{\an8\fnArial\b1\fs90\c
 Dialogue: 0,0:23:43.74,0:23:47.53,Default,Kids,0,0,0,,{\i1}{\i1}SLF{\i0}{\i0} Theater!
 Dialogue: 0,0:23:46.82,0:23:50.28,Sign_Basic,sign,0,0,0,,{\fad(450,0)\an1\i1\b1\c&HF1FBFD&\3c&H3D717E&\bord4.5\pos(906,870)}Fifteenth Night in SLF
 Dialogue: 0,0:23:47.53,0:23:49.07,Default,Emul,0,0,0,,Mini!
-Dialogue: 0,0:23:50.28,0:24:51.34,Sign_Basic,sign,0,0,0,,{\an9\i1\b1\c&HF1FBFD&\3c&H3D717E&\bord4.5\fs60\pos(1815.999,128.001)}SLF Theater
 Dialogue: 0,0:24:04.71,0:24:07.30,Default,Sunraku,0,0,0,,{\i1}Why's it so tense?
 Dialogue: 0,0:24:07.51,0:24:09.55,Default,Emul,0,0,0,,Dadd—Boss.
 Dialogue: 0,0:24:09.55,0:24:11.97,Default,Emul,0,0,0,,Thank you for all you've done for me.
@@ -41,7 +40,6 @@ Dialogue: 0,0:24:51.34,0:24:58.60,Sign_Basic,sign,0,0,0,,{\an8\fnArial\b1\fs90\c
 Dialogue: 0,0:24:52.10,0:24:55.85,Default,Kids,0,0,0,,{\i1}{\i1}SLF{\i0}{\i0} Theater!
 Dialogue: 0,0:24:55.14,0:24:58.56,Sign_Basic,sign,0,0,0,,{\fad(450,0)\an1\i1\b1\c&HF1FBFD&\3c&H3D717E&\bord4.5\pos(906,870)}Emul's Talks With Frogs
 Dialogue: 0,0:24:55.85,0:24:57.39,Default,Emul,0,0,0,,Mini!
-Dialogue: 0,0:24:58.60,0:26:38.70,Sign_Basic,sign,0,0,0,,{\an9\i1\b1\c&HF1FBFD&\3c&H3D717E&\bord4.5\fs60\pos(1815.999,128.001)}SLF Theater
 Dialogue: 0,0:25:04.86,0:25:05.90,Default,Frog,0,0,0,,Ribbit.
 Dialogue: 0,0:25:06.48,0:25:09.20,Default,Emul,0,0,0,,Oh, I truly do empathize!
 Dialogue: 0,0:25:09.20,0:25:12.62,Default,Emul,0,0,0,,I have so many siblings myself, \Nboth older and younger!

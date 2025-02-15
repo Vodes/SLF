@@ -23,7 +23,6 @@ Dialogue: 0,0:22:10.06,0:22:17.32,Sign_Basic,sign,0,0,0,,{\an8\fnArial\b1\fs90\c
 Dialogue: 0,0:22:10.77,0:22:14.56,Default,Kids,0,0,0,,{\i1}{\i1}SLF{\i0}{\i0} Theater!
 Dialogue: 0,0:22:13.85,0:22:17.32,Default,sign,0,0,0,,{\fad(450,0)\an1\i1\b1\c&HF1FBFD&\3c&H3D717E&\bord4.5\pos(938.001,740.001)}You'll Pay. Oh, You Will Pay...
 Dialogue: 0,0:22:14.56,0:22:16.11,Default,Emul,0,0,0,,Mini!
-Dialogue: 0,0:22:17.32,0:22:55.35,Sign_Basic,sign,0,0,0,,{\an9\i1\b1\c&HF1FBFD&\3c&H3D717E&\bord4.5\fs60\pos(1815.999,128.001)}SLF Theater
 Dialogue: 0,0:22:21.11,0:22:23.11,Sign_Basic,sign,0,0,0,,{\an5\c&H000000&\3c&HFFFFFF&\shad0\b1\fnTimes New Roman\fs48}Unique Scenario,\N"Invitation From Rabituza"\NPractical Training Opponent 5\N"Toxic Eagle"
 Dialogue: 0,0:22:23.11,0:22:25.16,Sign_Basic,sign,0,0,0,,{\an5\c&H000000&\3c&HFFFFFF&\shad0\b1\fnTimes New Roman\fs90\pos(960,690)}45th Try
 Dialogue: 0,0:22:25.53,0:22:28.54,Default,Sunraku,0,0,0,,I can't reach it with \Nattacks from the ground!
@@ -38,7 +37,6 @@ Dialogue: 0,0:22:55.35,0:23:02.61,Sign_Basic,sign,0,0,0,,{\an8\fnArial\b1\fs90\c
 Dialogue: 0,0:22:56.02,0:22:59.86,Default,Kids,0,0,0,,{\i1}SLF{\i0} Theater!
 Dialogue: 0,0:22:59.15,0:23:02.61,Default,sign,0,0,0,,{\fad(450,0)\an1\i1\b1\c&HF1FBFD&\3c&H3D717E&\bord4.5\pos(800.001,860.001)\fscx90}What Kind of Man Is Rakuro Hizutome?
 Dialogue: 0,0:22:59.86,0:23:01.40,Default,Emul,0,0,0,,Mini!
-Dialogue: 0,0:23:02.61,0:23:51.66,Sign_Basic,sign,0,0,0,,{\an9\i1\b1\c&HF1FBFD&\3c&H3D717E&\bord4.5\fs60\pos(1815.999,128.001)}SLF Theater
 Dialogue: 0,0:23:03.82,0:23:06.82,Default,Rakuro,0,0,0,,Hey. I'm Rakuro Hizutome.
 Dialogue: 0,0:23:07.62,0:23:09.28,Default,Rakuro,0,0,0,,Yes, that's right.
 Dialogue: 0,0:23:09.28,0:23:11.12,Default,Rakuro,0,0,0,,I'm a trash game hunter.

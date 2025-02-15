@@ -24,7 +24,6 @@ Dialogue: 0,0:22:55.65,0:22:59.44,Default,Kids,0,0,0,,{\i1}{\i1}SLF{\i0}{\i0} Th
 Dialogue: 0,0:22:58.73,0:23:02.19,Default,sign,0,0,0,,{\fad(375,0)\an1\i1\b1\c&HF1FBFD&\3c&H3D717E&\bord4.5\pos(800.001,860.001)\fscx90}What Kind of Person Is Towa Amane?
 Dialogue: 0,0:22:59.44,0:23:00.94,Default,Emul,0,0,0,,Mini!
 Dialogue: 0,0:23:02.19,0:23:14.08,Sign_Basic,sign,0,0,0,,{\an7\fnArial\b1\frz22.31\move(492,414,408,540)\c&HC47DC7&\bord0\shad0}Towa Amane \N{\c&H9A80CF&\fs36}The Celebrity Model\Non Fashion's Bleeding Edge
-Dialogue: 0,0:23:02.19,0:23:48.24,Sign_Basic,sign,0,0,0,,{\an9\i1\b1\c&HF1FBFD&\3c&H3D717E&\bord4.5\fs60\pos(1815.999,128.001)}SLF Theater
 Dialogue: 0,0:23:02.82,0:23:05.36,Default,Narrator,0,0,0,,Towa Amane is 24 years old.
 Dialogue: 0,0:23:05.36,0:23:06.61,Default,Narrator,0,0,0,,She's a celebrity model,
 Dialogue: 0,0:23:06.95,0:23:08.99,Default,Narrator,0,0,0,,and a source of inspiration \Nto teens everywhere.

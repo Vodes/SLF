@@ -22,7 +22,6 @@ Dialogue: 0,0:22:34.87,0:22:42.13,Sign_Basic,sign,0,0,0,,{\an8\fnArial\b1\fs90\c
 Dialogue: 0,0:22:35.58,0:22:39.38,Default,Kids,0,0,0,,{\i1}SLF{\i0} Theater!
 Dialogue: 0,0:22:38.67,0:22:42.09,Sign_Basic,sign,0,0,0,,{\fad(475,0)\an1\i1\b1\c&HF1FBFD&\3c&H3D717E&\bord4.5\fscx90\pos(1110,870)}Various New Years
 Dialogue: 0,0:22:39.38,0:22:40.88,Default,Emul,0,0,0,,Mini!
-Dialogue: 0,0:22:42.13,0:23:48.20,Sign_Basic,sign,0,0,0,,{\an7\i1\b1\c&HF1FBFD&\3c&H3D717E&\bord4.5\fs60\pos(1434,120)}SLF Theater
 Dialogue: 0,0:22:45.68,0:22:48.05,Default,Sunraku,0,0,0,,A most blessed New Year to you.
 Dialogue: 0,0:22:48.05,0:22:51.06,Default,Oikatzo,0,0,0,,I am indebted for all your \Nhelp in the previous year.
 Dialogue: 0,0:22:51.06,0:22:53.64,Default,Pencilgon,0,0,0,,I hope to continue our amicable relationship.

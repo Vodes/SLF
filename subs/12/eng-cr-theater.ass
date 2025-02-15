@@ -23,7 +23,6 @@ Dialogue: 0,0:21:36.94,0:21:44.20,Sign_Basic,sign,0,0,0,,{\an8\fnArial\b1\fs90\c
 Dialogue: 0,0:21:37.65,0:21:41.45,Default,Kids,0,0,0,,{\i1}SLF{\i0} Theater!
 Dialogue: 0,0:21:40.74,0:21:44.20,Sign_Basic,sign,0,0,0,,{\fad(375,0)\an1\i1\b1\c&HF1FBFD&\3c&H3D717E&\bord4.5\fscx90\pos(492,648)}Animalia Expedition ~ Monster-Bird of\Nthe Forest Grotto\N The "Rabbit-Eared Shoebill" Really Exists!
 Dialogue: 0,0:21:41.45,0:21:42.99,Default,Emul,0,0,0,,Mini!
-Dialogue: 0,0:21:44.20,0:23:04.28,Sign_Basic,sign,0,0,0,,{\an9\i1\b1\c&HF1FBFD&\3c&H3D717E&\bord4.5\fs60\pos(1815.999,128.001)}SLF Theater
 Dialogue: 0,0:21:45.16,0:21:47.66,Default,Narrator,0,0,0,,The Prismatic Forest Grotto—
 Dialogue: 0,0:21:47.66,0:21:52.21,Default,Narrator,0,0,0,,Within it is a legend, \Nspoken of only in whispers.
 Dialogue: 0,0:21:54.33,0:21:56.17,Default,Narrator,0,0,0,,The mysterious monster-bird,

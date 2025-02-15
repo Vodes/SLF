@@ -23,7 +23,6 @@ Dialogue: 0,0:23:42.98,0:23:50.24,Sign_Basic,sign,0,0,0,,{\an8\fnArial\b1\fs90\c
 Dialogue: 0,0:23:43.69,0:23:47.49,Default,Kids,0,0,0,,{\i1}SLF{\i0} Theater!
 Dialogue: 0,0:23:46.78,0:23:50.24,Sign_Basic,sign,0,0,0,,{\fad(375,0)\an1\i1\b1\c&HF1FBFD&\3c&H3D717E&\bord4.5\fscx90\pos(694.002,866.001)}Sunraku's Theme Song
 Dialogue: 0,0:23:47.49,0:23:49.07,Default,Emul,0,0,0,,Mini!
-Dialogue: 0,0:23:50.24,0:25:10.32,Sign_Basic,sign,0,0,0,,{\an9\i1\b1\c&HF1FBFD&\3c&H3D717E&\bord4.5\fs60\pos(1815.999,128.001)}SLF Theater
 Dialogue: 0,0:23:50.95,0:23:55.16,Default,Vysache,0,0,0,,{\i1}Off fly the sparks
 Dialogue: 0,0:23:55.16,0:24:00.04,Default,Vysache,0,0,0,,{\i1}Engulfed by the night
 Dialogue: 0,0:24:00.04,0:24:04.05,Default,Vysache,0,0,0,,{\i1}The hammer dances

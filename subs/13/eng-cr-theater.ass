@@ -24,7 +24,6 @@ Dialogue: 0,0:22:57.98,0:23:05.24,Sign_Basic,sign,0,0,0,,{\an8\fnArial\b1\fs90\c
 Dialogue: 0,0:22:58.65,0:23:01.78,Default,Kids,0,0,0,,{\i1}SLF{\i0} Theater!
 Dialogue: 0,0:23:01.78,0:23:05.24,Sign_Basic,sign,0,0,0,,{\fad(375,0)\an1\i1\b1\c&HF1FBFD&\3c&H3D717E&\bord4.5\fscx90\pos(816,870)}Various Christmases
 Dialogue: 0,0:23:02.49,0:23:03.90,Default,Emul,0,0,0,,{\an8}Mini!
-Dialogue: 0,0:23:05.24,0:23:48.28,Sign_Basic,sign,0,0,0,,{\an9\i1\b1\c&HF1FBFD&\3c&H3D717E&\bord4.5\fs60\pos(1815.999,128.001)}SLF Theater
 Dialogue: 0,0:23:08.16,0:23:09.37,Default,Sunraku,0,0,0,,Merry Christmas!
 Dialogue: 0,0:23:09.53,0:23:11.66,Default,Sunraku,0,0,0,,It's a great day to spend \Nwith your loved ones!
 Dialogue: 0,0:23:12.62,0:23:13.91,Default,Oikatzo,0,0,0,,Merry Christmas!

@@ -23,7 +23,6 @@ Dialogue: 0,0:23:27.97,0:23:35.23,Sign_Basic,sign,0,0,0,,{\an8\fnArial\b1\fs90\c
 Dialogue: 0,0:23:28.72,0:23:31.76,Default,Kids,0,0,0,,{\an8}{\i1}SLF{\i0} Theater!
 Dialogue: 0,0:23:31.76,0:23:35.23,Sign_Basic,sign,0,0,0,,{\fad(475,0)\an1\i1\b1\c&HF1FBFD&\3c&H3D717E&\bord4.5\pos(828,870)}The Speedrunner's Visit\Nto the Hidden Flower Grave
 Dialogue: 0,0:23:32.56,0:23:33.98,Default,Emul,0,0,0,,{\an8}{\an8}Mini!
-Dialogue: 0,0:23:35.23,0:25:10.32,Sign_Basic,sign,0,0,0,,{\an7\i1\b1\c&HF1FBFD&\3c&H3D717E&\bord4.5\fs60\pos(1428,120)}SLF Theater
 Dialogue: 0,0:23:36.23,0:23:39.23,Default,Pencilgon,0,0,0,,They live for a moment, \Nthen remain for eternity...
 Dialogue: 0,0:23:39.90,0:23:42.11,Default,Pencilgon,0,0,0,,The flower's name reflects \Nthat— "Setsunatowa."
 Dialogue: 0,0:23:42.44,0:23:44.24,Default,Pencilgon,0,0,0,,Perfect for you and me, right?

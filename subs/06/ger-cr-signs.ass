@@ -102,7 +102,6 @@ Dialogue: 0,0:23:42.94,0:23:50.20,TypePlaceholder,,0,0,0,,{\fnComic Sans MS Bold
 Dialogue: 0,0:23:46.74,0:23:50.20,TypePlaceholder,,0,0,0,,{\fnComic Sans MS Bold\fad(493,0)\fs+5\fax-0.15\an3\c&HFAFFFE&\3c&H376777&\4c&H1C3F4D&\shad3.9\bord3.9\pos(1831.5,859.5)}#9 Das Essen in ShanFro ist widerlich?
 Dialogue: 0,0:23:47.32,0:23:50.20,TypePlaceholder,,0,0,0,,{\c&H515655&\fnComic Sans MS Bold\fad(333,0)\fs+2\bord0\frz43.99\pos(1447.5,118.5)}Mini
 Dialogue: 0,0:23:47.32,0:23:50.20,TypePlaceholder,,0,0,0,,{\c&H515655&\fnComic Sans MS Bold\fad(333,0)\fs+2\bord0\frz43.99\pos(1447.5,118.5)}Mini
-Dialogue: 0,0:23:50.20,0:25:17.29,Default,,0,0,0,,{\fnComic Sans MS Bold\fad(0,0)\fs+2\fax-0.15\an9\c&HFAFFFE&\3c&H376777&\4c&H1C3F4D&\alpha&H30&\shad3.9\bord3.9\pos(1824,112.5)}ShanFro-Theater
 Dialogue: 0,0:25:07.07,0:25:08.69,TypePlaceholder,,0,0,0,,{\an7\pos(1453.5,612)\org(1453.5,612)\fscx100\fscy96.977\frz0\fry-180\frx5.104\fax0.15\fnTahoma\b0\xbord0\ybord0\c&HF4DFDB&\fad(246,0)}Die Geschmacksbegrenzung\Nwurde um eine Stufe angehoben.
 Dialogue: 0,0:25:08.69,0:25:11.36,TypePlaceholder,,0,0,0,,{\fnTahoma\b0\bord0\c&HF4DFDB&\fad(0,0)\an7\pos(435,204)}Die Geschmacksbegrenzung\Nwurde um eine Stufe angehoben.
 Dialogue: 0,0:25:12.66,0:25:17.29,TypePlaceholder,,0,0,0,,{\fnTimes New Roman Bold\bord0\fsp3\fad(536,0)\fs+3\an7\c&H000000&\pos(144,715.5)}Die Aufhebung der Geschmacksbegrenzung\Nerfolgt durch den Verzehr hochwertiger Nahrung.

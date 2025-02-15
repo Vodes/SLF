@@ -22,7 +22,6 @@ Dialogue: 0,0:22:48.05,0:22:55.31,Sign_Basic,sign,0,0,0,,{\an8\fnArial\b1\fs90\c
 Dialogue: 0,0:22:48.72,0:22:52.56,Default,Kids,0,0,0,,{\i1}SLF{\i0} Theater!
 Dialogue: 0,0:22:51.85,0:22:55.31,Sign_Basic,sign,0,0,0,,{\fad(375,0)\an1\i1\b1\c&HF1FBFD&\3c&H3D717E&\bord4.5\fscx90\pos(1160.001,754.002)}Pencilgon's\NFive-Second Answers
 Dialogue: 0,0:22:52.56,0:22:54.06,Default,Emul,0,0,0,,Mini!
-Dialogue: 0,0:22:55.31,0:23:41.36,Sign_Basic,sign,0,0,0,,{\an1\i1\b1\c&HF1FBFD&\3c&H3D717E&\bord4.5\fs60\pos(96,960)}SLF Theater
 Dialogue: 0,0:22:58.82,0:23:05.82,Sign_Basic,sign,0,0,0,,{\pos(132,174)\an7\fnTimes New Roman\b1\c&H000000&\3c&HFFFFFF&\shad0\bord4.5}Likes?
 Dialogue: 0,0:23:00.86,0:23:01.90,Default,Pencilgon,0,0,0,,Fireworks.
 Dialogue: 0,0:23:02.61,0:23:05.07,Default,Pencilgon,0,0,0,,They're beautiful and pure.
