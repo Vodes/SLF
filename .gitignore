@@ -4,3 +4,4 @@ _workdir/
 *.aac
 *.m4a
 premux/
+muxed/
