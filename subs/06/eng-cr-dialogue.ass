@@ -18,9 +18,9 @@ Video File: ../../../Shangri-La Frontier - S01E06 (BD 1080p HEVC) [Vodes].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
-Scroll Position: 100
-Active Line: 112
-Video Position: 13182
+Scroll Position: 208
+Active Line: 247
+Video Position: 29286
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -233,8 +233,8 @@ Dialogue: 0,0:16:43.57,0:16:46.19,Default,Sunraku,0,0,0,,As if I didn't have eno
 Dialogue: 0,0:16:47.49,0:16:49.28,Default,Psyger-0,0,0,0,,A bird head mask.
 Dialogue: 0,0:16:49.28,0:16:51.74,Default,Psyger-0,0,0,0,,Character name: Sunraku.
 Dialogue: 0,0:16:53.53,0:16:54.83,Default,Psyger-0,0,0,0,,At last...
-Dialogue: 0,0:16:56.04,0:16:58.58,Default,Psyger-0,0,0,0,,At last I've found you,
-Dialogue: 0,0:16:59.04,0:17:00.21,Default,Psyger-0,0,0,0,,Hizutome-kun!
+Dialogue: 0,0:16:56.04,0:16:58.58,Default,Psyger-0,0,0,0,,{\i1}At last I've found you,{\i0}
+Dialogue: 0,0:16:59.04,0:17:00.21,Default,Psyger-0,0,0,0,,{\i1}Hizutome-kun!{\i0}
 Dialogue: 0,0:17:18.43,0:17:20.06,Flashback,Rei,0,0,0,,Hizutome-kun.
 Dialogue: 0,0:17:20.56,0:17:22.60,Flashback,Rei,0,0,0,,Where could he be?
 Dialogue: 0,0:17:23.86,0:17:25.69,Flashback,Mana,0,0,0,,You still haven't found him?
@@ -276,10 +276,10 @@ Dialogue: 0,0:20:08.65,0:20:11.69,Flashback,Psyger-100,0,0,0,,{\i1}Ashura Kai is
 Dialogue: 0,0:20:13.32,0:20:14.48,Flashback,Psyger-0,0,0,0,,I found you.
 Dialogue: 0,0:20:16.11,0:20:19.28,Flashback,Psyger-100,0,0,0,,{\i1\an8}There's a very good chance \Nhe's already engaged in PvP.
 Dialogue: 0,0:20:20.16,0:20:21.45,Flashback,Psyger-100,0,0,0,,{\i1}Be careful.
-Dialogue: 0,0:20:21.45,0:20:24.79,Flashback,Psyger-0,0,0,0,,I won't get a chance like this again!
-Dialogue: 0,0:20:24.79,0:20:30.25,Flashback,Psyger-0,0,0,0,,If I can save him from PKers, \NI'll have a natural "in" to talk to him!
-Dialogue: 0,0:20:31.25,0:20:32.92,Flashback,Psyger-0,0,0,0,,Then some day...
-Dialogue: 0,0:20:33.46,0:20:36.21,Flashback,Psyger-0,0,0,0,,I'll be able to talk to him IRL, too!
+Dialogue: 0,0:20:21.45,0:20:24.79,Flashback,Psyger-0,0,0,0,,{\i1}I won't get a chance like this again!{\i0}
+Dialogue: 0,0:20:24.79,0:20:30.25,Flashback,Psyger-0,0,0,0,,{\i1}If I can save him from PKers, \NI'll have a natural "in" to talk to him!{\i0}
+Dialogue: 0,0:20:31.25,0:20:32.92,Flashback,Psyger-0,0,0,0,,{\i1}Then some day...{\i0}
+Dialogue: 0,0:20:33.46,0:20:36.21,Flashback,Psyger-0,0,0,0,,{\i1}I'll be able to talk to him IRL, too!{\i0}
 Dialogue: 0,0:20:44.56,0:20:47.39,Flashback,Psyger-0,0,0,0,,Severing attack! Rook-smasher!
 Dialogue: 0,0:20:50.35,0:20:52.90,Default,Pencilgon,0,0,0,,{\i1}Things are getting intense over there, too.
 Dialogue: 0,0:20:52.90,0:20:57.28,Default,Pencilgon,0,0,0,,{\i1}Though, those PKers may not \Nbe able to beat Sunraku-kun...

@@ -8,7 +8,7 @@
   - [ ] Tracking (sign is 'fine' without it, just looks real bad.)
 - [x] 10:22 - ~~CR Italics Tag `SLF` fuck up~~
 - [ ] 12:11 - GER Subs might want to pinch the better ENG TS here for all of the character creation sequence.
-- [x] 13:25 - ~~CR Italics Tag `SLF` fuck up~~
+- [x] 13:25 - ~~CR Italics Tag `SLF` fuck up~~ [Fixed](https://github.com/Vodes/SLF/commit/cea925e9df557616801e55de36f7c2f9683d910b#diff-2a33fa3055e3d12730ee5bf3e9609cf6ea426dfb230aba16e1686f0da53f0c7c)
 - [ ] 16:06 - GER Subs pinch ENG TS, for bit more after this point too.  
 
 ## EP2
@@ -16,7 +16,7 @@
 ## EP3
 
 - [x] 06:09 - ~~Perfect Parry sign is not readable due to dialogue placement. Needs `{\an8}`. Signs track is fine~~ [Fixed](https://github.com/Vodes/SLF/commit/ccab0103fcda95569ba185ba448bf65277a10d8c)
-- [x] 16:40 - ~~CR Italics Tag `SLF` fuck up~~
+- [x] 16:40 - ~~CR Italics Tag `SLF` fuck up~~ [Fixed](https://github.com/Vodes/SLF/commit/cea925e9df557616801e55de36f7c2f9683d910b#diff-2a33fa3055e3d12730ee5bf3e9609cf6ea426dfb230aba16e1686f0da53f0c7c)
 
 ## EP4
 
@@ -35,5 +35,7 @@
 
 ## EP6
 
-- [x] 05:55 - ~~CR Italics Tag `Unite Rounds` fuck up~~
-- [x] 21:14 - ~~CR Italics Tag `Shangri-La Frontier` fuck up~~
+- [x] 05:55 - ~~CR Italics Tag `Unite Rounds` fuck up~~ [Fixed](https://github.com/Vodes/SLF/commit/cea925e9df557616801e55de36f7c2f9683d910b#diff-2a33fa3055e3d12730ee5bf3e9609cf6ea426dfb230aba16e1686f0da53f0c7c)
+- [x] 16:56 - ~~Rei's thoughts need italicising, righ before part B~~
+- [x] 20:16 - ~~Rei's thoughts need italicising, 4  lines~~
+- [x] 21:14 - ~~CR Italics Tag `Shangri-La Frontier` fuck up~~ [Fixed](https://github.com/Vodes/SLF/commit/cea925e9df557616801e55de36f7c2f9683d910b#diff-2a33fa3055e3d12730ee5bf3e9609cf6ea426dfb230aba16e1686f0da53f0c7c)
