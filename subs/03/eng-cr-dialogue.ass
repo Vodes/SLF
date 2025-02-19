@@ -18,9 +18,9 @@ Video File: ../../../Shangri-La Frontier - S01E03 (BD 1080p HEVC) [Vodes].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
-Scroll Position: 48
-Active Line: 55
-Video Position: 8898
+Scroll Position: 35
+Active Line: 36
+Video Position: 5526
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -207,7 +207,7 @@ Dialogue: 0,0:16:30.97,0:16:32.10,Default,Sunraku,0,0,0,,What the...
 Dialogue: 0,0:16:32.64,0:16:35.43,Default,Sunraku,0,0,0,,"Unique Scenario: Invitation from Rabituza"?
 Dialogue: 0,0:16:35.81,0:16:38.77,Default,Sunraku,0,0,0,,I get it. I saw this on \Nthe game guide site...
 Dialogue: 0,0:16:38.77,0:16:39.60,Default,Sunraku,0,0,0,,I think...
-Dialogue: 0,0:16:40.23,0:16:44.82,Flashback,Rakuro,0,0,0,,"{\i1}SLF{\i0} has a sweeping main story \Nabout the exploration of the world,
+Dialogue: 0,0:16:40.23,0:16:44.82,Flashback,Rakuro,0,0,0,,{\i1}"{\i0}SLF{\i1} has a sweeping main story \Nabout the exploration of the world,
 Dialogue: 0,0:16:44.82,0:16:48.65,Flashback,Rakuro,0,0,0,,{\i1}but it's also got a huge \Nnumber of side quests.
 Dialogue: 0,0:16:48.65,0:16:51.49,Flashback,Rakuro,0,0,0,,{\i1}One subset of these is \Ncalled 'unique scenarios,'
 Dialogue: 0,0:16:51.49,0:16:54.91,Flashback,Rakuro,0,0,0,,{\i1}mystery scenarios whose \Nunlock times, locations,

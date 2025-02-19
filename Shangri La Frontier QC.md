@@ -6,8 +6,9 @@
   - [ ] Sign thats missing for GER: `Dialogue: 0,0:04:20.87,0:04:26.12,Sign_Basic,sign,0,0,0,,{\fs36\c&HA493CB&\3c&HCFD1CC&\shad0\frz319.5\fscx80\pos(948,690)}The Celebrity Model on Fashion's Bleeding Edge`
   - [x] ~~Half fixed sign for (no tracking) ENG: `Dialogue: 0,0:04:20.87,0:04:26.12,Sign_Basic,sign,0,0,0,,{\c&HC589AA&\fnArial\b1\blur0.5\fax0.616342\fscx102.36\fscy148.12\frz25.9594\frx4.5549\fry3.3439\xbord0.00\ybord0.00\org(495.79,537.5)\pos(471.18,595.27)}Towa Amane`~~ [Fixed](https://github.com/Vodes/SLF/commit/76b8688827afb4cf8d0d10711e9acec4182629d4)
   - [ ] Tracking (sign is 'fine' without it, just looks real bad.)
-
+- [x] 10:22 - ~~CR Italics Tag `SLF` fuck up~~
 - [ ] 12:11 - GER Subs might want to pinch the better ENG TS here for all of the character creation sequence.
+- [x] 13:25 - ~~CR Italics Tag `SLF` fuck up~~
 - [ ] 16:06 - GER Subs pinch ENG TS, for bit more after this point too.  
 
 ## EP2
@@ -15,6 +16,7 @@
 ## EP3
 
 - [x] 06:09 - ~~Perfect Parry sign is not readable due to dialogue placement. Needs `{\an8}`. Signs track is fine~~ [Fixed](https://github.com/Vodes/SLF/commit/ccab0103fcda95569ba185ba448bf65277a10d8c)
+- [x] 16:40 - ~~CR Italics Tag `SLF` fuck up~~
 
 ## EP4
 
@@ -22,10 +24,16 @@
 
 ## EP5
 
-- [x] 00:21 - CR Italics Tag `Shangri-La Frontier` fuck up
-- [x] 00:32 - CR Italics Tag `Shangri-La Frontier` fuck up
+- [x] 00:21 - ~~CR Italics Tag `Shangri-La Frontier` fuck up~~ [Fixed](https://github.com/Vodes/SLF/commit/eba6155840d4fcfec84db00626b7daa6f09578f0)
+- [x] 00:32 - ~~CR Italics Tag `Shangri-La Frontier` fuck up~~ [Fixed](https://github.com/Vodes/SLF/commit/eba6155840d4fcfec84db00626b7daa6f09578f0)
 - [x] 02:41 - ~~CR Italics tag wrong way round, leaving `Shangri-La Frontier` without italics.~~ [Fixed](https://github.com/Vodes/SLF/commit/eba6155840d4fcfec84db00626b7daa6f09578f0)
 - [x] 10:44 - ~~TS and Line mismatch.~~ [Fixed](https://github.com/Vodes/SLF/commit/eba6155840d4fcfec84db00626b7daa6f09578f0)
 - [ ] 11:00 - Animation Error lol, sunraku is poisoned when he can't be. Sunraku TS'd the mistake. The sign also needs more blur regardless. 
   - [x] ~~Comment out the sign.~~ [Fixed](https://github.com/Vodes/SLF/commit/988e21140345fb120cac5c0630a4b7023e109332)
   - [ ] Either softsub the sign out or do it via Vapoursynth. (Might be worth checking CR see if it's BD specifc compositing fuck-up like "The Witch and the Beast" JPBD.)
+- [x] 13:31 - ~~CR Italics Tag `Shangri-La Frontier` fuck up~~ [Fixed](https://github.com/Vodes/SLF/commit/eded73d00d78537a518224348b227a312b77b69f)
+
+## EP6
+
+- [x] 05:55 - ~~CR Italics Tag `Unite Rounds` fuck up~~
+- [x] 21:14 - ~~CR Italics Tag `Shangri-La Frontier` fuck up~~
