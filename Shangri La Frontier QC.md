@@ -18,4 +18,4 @@
 
 ## EP4
 
-- [] 20:52 - CR Italics tag wrong way round, leaving `Shangri-La Frontier` without italics
+- ~~[X] 20:52 - CR Italics tag wrong way round, leaving `Shangri-La Frontier` without italics~~
