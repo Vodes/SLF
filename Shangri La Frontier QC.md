@@ -14,16 +14,18 @@
 
 ## EP3
 
-- [x] ~~06:09 - Perfect Parry sign is not readable due to dialogue placement. Needs `{\an8}`. Signs track is fine~~ [Fixed](https://github.com/Vodes/SLF/commit/ccab0103fcda95569ba185ba448bf65277a10d8c)
+- [x] 06:09 - ~~Perfect Parry sign is not readable due to dialogue placement. Needs `{\an8}`. Signs track is fine~~ [Fixed](https://github.com/Vodes/SLF/commit/ccab0103fcda95569ba185ba448bf65277a10d8c)
 
 ## EP4
 
-- [x] ~~20:52 - CR Italics tag wrong way round, leaving `Shangri-La Frontier` without italics.~~ [Fixed](https://github.com/Vodes/SLF/commit/de32e31340145ff4141fa5e90878f42ad5e76d95)
+- [x] 20:52 - ~~CR Italics tag wrong way round, leaving `Shangri-La Frontier` without italics.~~ [Fixed](https://github.com/Vodes/SLF/commit/de32e31340145ff4141fa5e90878f42ad5e76d95)
 
 ## EP5
 
-- [x] 02:45 - CR Italics tag wrong way round, leaving `Shangri-La Frontier` without italics.
-- [x] 10:44 - TS and Line mismatch.
-- [ ] 11:00 - Animation Error lol, sunraku is poisoned when he can't be. Sunraku TS'd the mistake. The sign also needs more blur regardless.
-  - [x] Comment out the sign.
+- [x] 00:21 - CR Italics Tag `Shangri-La Frontier` fuck up
+- [x] 00:32 - CR Italics Tag `Shangri-La Frontier` fuck up
+- [x] 02:41 - ~~CR Italics tag wrong way round, leaving `Shangri-La Frontier` without italics.~~ [Fixed](https://github.com/Vodes/SLF/commit/eba6155840d4fcfec84db00626b7daa6f09578f0)
+- [x] 10:44 - ~~TS and Line mismatch.~~ [Fixed](https://github.com/Vodes/SLF/commit/eba6155840d4fcfec84db00626b7daa6f09578f0)
+- [ ] 11:00 - Animation Error lol, sunraku is poisoned when he can't be. Sunraku TS'd the mistake. The sign also needs more blur regardless. 
+  - [x] ~~Comment out the sign.~~ [Fixed](https://github.com/Vodes/SLF/commit/988e21140345fb120cac5c0630a4b7023e109332)
   - [ ] Either softsub the sign out or do it via Vapoursynth. (Might be worth checking CR see if it's BD specifc compositing fuck-up like "The Witch and the Beast" JPBD.)

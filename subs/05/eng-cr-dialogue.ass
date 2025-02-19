@@ -18,8 +18,8 @@ Video File: ../../../Shangri-La Frontier - S01E05 (BD 1080p HEVC) [Vodes].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
-Active Line: 15
-Video Position: 3883
+Active Line: 161
+Video Position: 19459
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -189,7 +189,7 @@ Dialogue: 0,0:13:16.07,0:13:19.82,Default,Emul,0,0,0,,This will allow us to \Nin
 Dialogue: 0,0:13:22.82,0:13:24.32,Default,Sunraku,0,0,0,,{\i1}Now, isn't that weird?
 Dialogue: 0,0:13:24.32,0:13:27.08,Default,Sunraku,0,0,0,,{\i1}Here I thought I was playing \NJapan's flagship god-tier game—
 Dialogue: 0,0:13:27.45,0:13:31.58,Default,Sunraku,0,0,0,,{\i1}catchphrase, "Explore the \Nworld, enjoy the world"—
-Dialogue: 0,0:13:31.58,0:13:34.63,Default,Sunraku,0,0,0,,{\i0}Shangri-La Frontier{\i1}.
+Dialogue: 0,0:13:31.58,0:13:34.63,Default,Sunraku,0,0,0,,{\i1}Shangri-La Frontier{\i0}.
 Dialogue: 0,0:13:35.21,0:13:36.59,Default,Emul,0,0,0,,Sunraku-san?
 Dialogue: 0,0:13:36.92,0:13:38.21,Default,Sunraku,0,0,0,,{\i1}But this is...
 Dialogue: 0,0:13:38.55,0:13:39.97,Default,Emul,0,0,0,,Sunraku-san?
