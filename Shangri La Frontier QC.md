@@ -25,5 +25,5 @@
 - [x] 02:45 - CR Italics tag wrong way round, leaving `Shangri-La Frontier` without italics.
 - [x] 10:44 - TS and Line mismatch.
 - [ ] 11:00 - Animation Error lol, sunraku is poisoned when he can't be. Sunraku TS'd the mistake. The sign also needs more blur regardless.
-  - [ ] Delete the sign.
+  - [x] Comment out the sign.
   - [ ] Either softsub the sign out or do it via Vapoursynth. (Might be worth checking CR see if it's BD specifc compositing fuck-up like "The Witch and the Beast" JPBD.)
