@@ -36,6 +36,6 @@
 ## EP6
 
 - [x] 05:55 - ~~CR Italics Tag `Unite Rounds` fuck up~~ [Fixed](https://github.com/Vodes/SLF/commit/cea925e9df557616801e55de36f7c2f9683d910b#diff-2a33fa3055e3d12730ee5bf3e9609cf6ea426dfb230aba16e1686f0da53f0c7c)
-- [x] 16:56 - ~~Rei's thoughts need italicising, righ before part B~~
-- [x] 20:16 - ~~Rei's thoughts need italicising, 4  lines~~
+- [x] 16:56 - ~~Rei's thoughts need italicising, righ before part B~~ [Fixed](https://github.com/Vodes/SLF/commit/792f22fa379dbc08dea7425203b0625f1238fee3)
+- [x] 20:16 - ~~Rei's thoughts need italicising, 4  lines~~ [Fixed](https://github.com/Vodes/SLF/commit/792f22fa379dbc08dea7425203b0625f1238fee3)
 - [x] 21:14 - ~~CR Italics Tag `Shangri-La Frontier` fuck up~~ [Fixed](https://github.com/Vodes/SLF/commit/cea925e9df557616801e55de36f7c2f9683d910b#diff-2a33fa3055e3d12730ee5bf3e9609cf6ea426dfb230aba16e1686f0da53f0c7c)
