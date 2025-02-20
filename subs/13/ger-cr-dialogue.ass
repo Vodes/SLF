@@ -50,15 +50,14 @@ Dialogue: 0,0:04:13.69,0:04:17.78,Default,Pencilgon,0,0,0,,Unique hin oder her,\
 Dialogue: 0,0:04:20.41,0:04:24.54,Default,Oikatso,0,0,0,,Es ist schon schön,\Naber irgendwie unheimlich, oder?
 Dialogue: 0,0:04:24.54,0:04:26.62,Default,Sunraku,0,0,0,,Sind das Spinnenlilien?
 Dialogue: 0,0:04:27.12,0:04:29.87,Default,Sunraku,0,0,0,,Nicht gerade glückverheißende Blumen.
-Dialogue: 0,0:04:30.54,0:04:35.34,Default,Setsuna,0,0,0,,Zwischen zwei Augenblicken
-Dialogue: 0,0:04:35.34,0:04:39.22,Default,Setsuna,0,0,0,,kommt zum Vorschein
-Dialogue: 0,0:04:37.30,0:04:39.22,Alt,Oikatso,0,0,0,,Sunraku, da!
-Dialogue: 0,0:04:40.01,0:04:47.60,Default,Setsuna,0,0,0,,ein frommer Wunsch.
-Dialogue: 0,0:04:49.23,0:04:58.69,Default,Setsuna,0,0,0,,{\an8}Er sickert durch …
+Comment: 0,0:04:30.54,0:04:35.34,Default,Setsuna,0,0,0,,Zwischen zwei Augenblicken
+Comment: 0,0:04:35.34,0:04:39.22,Default,Setsuna,0,0,0,,kommt zum Vorschein
+Dialogue: 0,0:04:37.30,0:04:39.22,Default,Oikatso,0,0,0,,Sunraku, da!
+Comment: 0,0:04:40.01,0:04:47.60,Default,Setsuna,0,0,0,,ein frommer Wunsch.
+Comment: 0,0:04:49.23,0:04:58.69,Default,Setsuna,0,0,0,,{\an8}Er sickert durch …
 Dialogue: 0,0:04:53.23,0:04:54.94,Default,Emul,0,0,0,,Sie ist durchsichtig?!
 Dialogue: 0,0:04:54.94,0:04:55.69,Default,Sunraku,0,0,0,,Ein Bug?!
 Dialogue: 0,0:04:55.69,0:04:59.24,Default,Oikatso,0,0,0,,Du vermutest natürlich\Nals allererstes einen Bug.
-Dialogue: 0,0:04:58.69,0:04:59.70,Default,Setsuna,0,0,0,,{\an8}
 Dialogue: 0,0:04:59.70,0:05:02.24,Default,Pencilgon,0,0,0,,Hey, Set.\NSchon wieder ein Monat rum.
 Dialogue: 0,0:05:02.78,0:05:05.74,Default,Setsuna,0,0,0,,Ah, Arthur. Lange nicht gesehen.
 Dialogue: 0,0:05:09.66,0:05:13.13,Default,Sunraku,0,0,0,,{\i1}Ihre Kleidung …\NSieht nicht nach Fantasy aus.

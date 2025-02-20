@@ -77,9 +77,19 @@ if ep == "01":
         (31472, "Epilogue"),
         (34117, "SLF Theater")
     ]))
+elif ep == "13":
+    fonts.append(Chapters([
+        (0, "Intro"),
+        (1008, "Opening"),
+        (3165, "Part A"),
+        (18390, "Part B"),
+        (28952, "Ending"),
+        (31097, "Epilogue"),
+        (33039, "SLF Theater")
+    ]))
 
 mux(
-    Premux(premux), eng_amzn, ger_amzn,
+    Premux(premux, mkvmerge_args="--no-global-tags" if ep != "13" else "--no-global-tags --no-chapters"), eng_amzn, ger_amzn,
     eng_full.to_track("English [Crunchyroll modified]", "en", True, False),
     eng_full_sunraku.to_track("English [Sunraku]", "en", False, False),
     eng_signs_only.to_track("English Signs/Songs", "en", False, True),
