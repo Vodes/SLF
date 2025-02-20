@@ -48,5 +48,10 @@
 
 ## EP8
 
-- [x] 00:21 - ~~CR Italics Tag `Shangri-La Frontier` fuck up~~ [Fixed]()
-- [x] 00:32 - ~~CR Italics Tag `Shangri-La Frontier` fuck up~~ [Fixed]()
+- [x] 00:21 - ~~CR Italics Tag `Shangri-La Frontier` fuck up~~ [Fixed](https://github.com/Vodes/SLF/commit/98d7f65d630dff43015dfca332f466cf7119442f)
+- [x] 00:32 - ~~CR Italics Tag `Shangri-La Frontier` fuck up~~ [Fixed](https://github.com/Vodes/SLF/commit/98d7f65d630dff43015dfca332f466cf7119442f)
+
+## EP9
+
+- [ ] 01:02 - Missing sign (2 forum comments), missing on CR signs too. GER sub has it.
+- [x] 23:32 - ~~CR Italics Tag `Shangri-La Frontier` fuck up~~ [Fixed]()
