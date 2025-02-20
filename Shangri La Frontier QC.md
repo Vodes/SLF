@@ -42,6 +42,9 @@
 
 ## EP7
 
-- [x] 00:21 - ~~CR Italics Tag `Shangri-La Frontier` fuck up~~ [Fixed]()
-- [x] 00:32 - ~~CR Italics Tag `Shangri-La Frontier` fuck up~~ [Fixed]()
-- [x] 20:23 - ~~CR Italics Tag `SLF` fuck up~~ Fixed
+- [x] 00:21 - ~~CR Italics Tag `Shangri-La Frontier` fuck up~~ [Fixed](https://github.com/Vodes/SLF/commit/88f4b2b391adcfaff1c8198e5eeef86a943fbc7a)
+- [x] 00:32 - ~~CR Italics Tag `Shangri-La Frontier` fuck up~~ [Fixed](https://github.com/Vodes/SLF/commit/88f4b2b391adcfaff1c8198e5eeef86a943fbc7a)
+- [x] 20:23 - ~~CR Italics Tag `SLF` fuck up~~ [Fixed](https://github.com/Vodes/SLF/commit/88f4b2b391adcfaff1c8198e5eeef86a943fbc7a)
+
+## EP8
+
