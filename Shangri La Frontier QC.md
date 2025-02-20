@@ -30,7 +30,7 @@
 - [x] 10:44 - ~~TS and Line mismatch.~~ [Fixed](https://github.com/Vodes/SLF/commit/eba6155840d4fcfec84db00626b7daa6f09578f0)
 - [ ] 11:00 - Animation Error lol, sunraku is poisoned when he can't be. Sunraku TS'd the mistake. The sign also needs more blur regardless. 
   - [x] ~~Comment out the sign.~~ [Fixed](https://github.com/Vodes/SLF/commit/988e21140345fb120cac5c0630a4b7023e109332)
-  - [ ] Either softsub the sign out or do it via Vapoursynth. (Might be worth checking CR see if it's BD specifc compositing fuck-up like "The Witch and the Beast" JPBD.)
+  - [ ] Either softsub the sign out or do it via Vapoursynth. (~~Might be worth checking CR see if it's BD specifc compositing fuck-up like "The Witch and the Beast" JPBD.~~It was not)
 - [x] 13:31 - ~~CR Italics Tag `Shangri-La Frontier` fuck up~~ [Fixed](https://github.com/Vodes/SLF/commit/eded73d00d78537a518224348b227a312b77b69f)
 
 ## EP6
@@ -39,3 +39,9 @@
 - [x] 16:56 - ~~Rei's thoughts need italicising, righ before part B~~ [Fixed](https://github.com/Vodes/SLF/commit/792f22fa379dbc08dea7425203b0625f1238fee3)
 - [x] 20:16 - ~~Rei's thoughts need italicising, 4  lines~~ [Fixed](https://github.com/Vodes/SLF/commit/792f22fa379dbc08dea7425203b0625f1238fee3)
 - [x] 21:14 - ~~CR Italics Tag `Shangri-La Frontier` fuck up~~ [Fixed](https://github.com/Vodes/SLF/commit/cea925e9df557616801e55de36f7c2f9683d910b#diff-2a33fa3055e3d12730ee5bf3e9609cf6ea426dfb230aba16e1686f0da53f0c7c)
+
+## EP7
+
+- [x] 00:21 - ~~CR Italics Tag `Shangri-La Frontier` fuck up~~ [Fixed]()
+- [x] 00:32 - ~~CR Italics Tag `Shangri-La Frontier` fuck up~~ [Fixed]()
+- [x] 20:23 - ~~CR Italics Tag `SLF` fuck up~~ Fixed
