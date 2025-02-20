@@ -7,7 +7,7 @@ def make_default_sign_style(sub: SubFile, style_name = "Default-Sign") -> SubFil
     styles = doc.styles
     for i, style in enumerate(doc.styles):
         if style.name == "Default":
-            style.name == style_name
+            style.name = style_name
             styles[i] = style
 
     doc.styles = styles
