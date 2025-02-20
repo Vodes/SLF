@@ -48,3 +48,5 @@
 
 ## EP8
 
+- [x] 00:21 - ~~CR Italics Tag `Shangri-La Frontier` fuck up~~ [Fixed]()
+- [x] 00:32 - ~~CR Italics Tag `Shangri-La Frontier` fuck up~~ [Fixed]()
