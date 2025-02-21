@@ -17,6 +17,7 @@
 
 - [x] 06:09 - ~~Perfect Parry sign is not readable due to dialogue placement. Needs `{\an8}`. Signs track is fine~~ [Fixed](https://github.com/Vodes/SLF/commit/ccab0103fcda95569ba185ba448bf65277a10d8c)
 - [x] 16:40 - ~~CR Italics Tag `SLF` fuck up~~ [Fixed](https://github.com/Vodes/SLF/commit/cea925e9df557616801e55de36f7c2f9683d910b#diff-2a33fa3055e3d12730ee5bf3e9609cf6ea426dfb230aba16e1686f0da53f0c7c)
+- [x] 25:20 - ~~CR Italics Tag `SLF` fuck up~~ [Fixed]()
 
 ## EP4
 
@@ -54,4 +55,9 @@
 ## EP9
 
 - [ ] 01:02 - Missing sign (2 forum comments), missing on CR signs too. GER sub has it.
-- [x] 23:32 - ~~CR Italics Tag `Shangri-La Frontier` fuck up~~ [Fixed]()
+- [x] 23:32 - ~~CR Italics Tag `Shangri-La Frontier` fuck up~~ [Fixed](https://github.com/Vodes/SLF/commit/0d87616238bf6b9de39b09773a2fba1622fa14f4)
+
+## EP10
+
+- [x] 01:07 - ~~CR Italics Tag `Shangri-La Frontier` fuck up~~ [Fixed]()
+- [x] 01:17 - ~~CR Italics Tag `Shangri-La Frontier` fuck up~~ [Fixed]()
