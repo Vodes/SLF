@@ -17,6 +17,7 @@ Style: Ep_Title,Arial,60,&H00FFFFFF,&H000000FF,&H00000000,&H00BE9829,-1,0,0,0,10
 Style: Jelzés,Franklin Gothic Book,45,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,15,15,15,1
 Style: OP3,Inknut Antiqua,100,&H00FAFAFA,&H000019FF,&H00000000,&HC4000000,0,0,0,0,100,100,0,0,1,0,0,8,0,0,15,1
 Style: Sign_Basic,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,6,3,2,30,30,54,1
+Style: Setsuna,Gupter Medium,69,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0.5,1.5,9,40,40,25,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -7355,3 +7356,5 @@ Dialogue: 0,0:23:20.09,0:23:23.63,ED2,,0,0,0,,{\fad(200,200)}A sweet scent from 
 Dialogue: 0,0:23:23.63,0:23:28.05,ED2,,0,0,0,,{\fad(200,200)}And my memories start to cascade
 Dialogue: 0,0:23:28.85,0:23:31.35,ED2,,0,0,0,,{\fad(200,200)}Making my heart ache
 Dialogue: 0,0:23:32.10,0:23:35.02,ED2,,0,0,0,,{\fad(200,200)}Heaven in the rain
+Dialogue: 0,0:16:31.14,0:16:46.36,Setsuna,Setsuna,0,0,0,,{\blur2.5\fad(300,300)}Into the gap between moments
+Dialogue: 0,0:16:47.69,0:16:57.83,Setsuna,Setsuna,0,0,0,,{\blur2.5\fad(300,300)}spills a single wish

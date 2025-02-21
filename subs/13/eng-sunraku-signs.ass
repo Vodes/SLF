@@ -16,6 +16,7 @@ Style: Ep_Title,Arial,60,&H00FFFFFF,&H000000FF,&H00000000,&H00BE9829,-1,0,0,0,10
 Style: Jelzés,Franklin Gothic Book,45,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,15,15,15,1
 Style: OP,Monomaniac One,78,&H00FAFAFA,&H000019FF,&H00000000,&HC4000000,0,0,0,0,100,100,0,0,1,0,0,8,0,0,20,1
 Style: OP2,Monomaniac One,78,&H00FAFAFA,&H000019FF,&H00000000,&HC4000000,0,0,0,0,100,100,0,0,1,0,0,2,0,0,30,1
+Style: Setsuna,Gupter Medium,69,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0.5,1.5,9,40,40,25,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -3223,3 +3224,6 @@ Dialogue: 0,0:21:16.25,0:21:18.59,ED,,0,0,0,,{\fad(200,0)}I'm here to give it my
 Dialogue: 0,0:21:18.59,0:21:20.26,ED,,0,0,0,,{\fad(0,200)}Just within out of reach
 Dialogue: 0,0:21:20.26,0:21:23.14,ED,,0,0,0,,{\fad(200,200)}Let it dance around my fingertips
 Dialogue: 0,0:21:23.14,0:21:25.97,ED,,0,0,0,,{\fad(200,200)}My next shot will set you alight
+Dialogue: 0,0:04:30.50,0:04:39.22,Setsuna,Setsuna,0,0,0,,{\blur2.5\fad(300,300)}Into the gap between moments
+Dialogue: 0,0:04:40.05,0:04:47.35,Setsuna,Setsuna,0,0,0,,{\blur2.5\fad(300,300)}spills a single wish
+Dialogue: 0,0:04:49.23,0:05:00.57,Setsuna,Setsuna,0,0,0,,{\blur2.5\fad(300,300)}Distant days, so blurred by tears...
