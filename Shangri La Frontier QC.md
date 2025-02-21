@@ -64,6 +64,13 @@
 
 ## EP11
 
+- [x] 00:21 - ~~CR Italics Tag `Shangri-La Frontier` fuck up~~ [Fixed](https://github.com/Vodes/SLF/commit/75019a2438c98884c53a27b971c486a181b65ee2)
+- [x] 00:32 - ~~CR Italics Tag `Shangri-La Frontier` fuck up~~ [Fixed](https://github.com/Vodes/SLF/commit/75019a2438c98884c53a27b971c486a181b65ee2)
+- [x] 09:24 - ~~CR Italics Tag `got` fuck up~~ [Fixed](https://github.com/Vodes/SLF/commit/75019a2438c98884c53a27b971c486a181b65ee2)
+
+## EP12
+
 - [x] 00:21 - ~~CR Italics Tag `Shangri-La Frontier` fuck up~~ [Fixed]()
 - [x] 00:32 - ~~CR Italics Tag `Shangri-La Frontier` fuck up~~ [Fixed]()
-- [x] 09:24 - ~~CR Italics Tag `got` fuck up~~ [Fixed]()
+- [x] 03:00 - ~~Extra `do` removed~~ [Fixed]()
+- [x] 12:25 - ~~Sunraku's thoughts need italicising, CR left a `{\i0}`~~[Fixed]()
