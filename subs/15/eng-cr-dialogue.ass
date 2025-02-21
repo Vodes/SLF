@@ -233,8 +233,8 @@ Dialogue: 0,0:15:40.59,0:15:42.88,Default,Pencilgon,0,0,0,,No, Setsuna.
 Dialogue: 0,0:15:43.38,0:15:45.30,Default,Pencilgon,0,0,0,,I will...
 Dialogue: 0,0:15:45.30,0:15:48.26,Default,Pencilgon,0,0,0,,No, we will make your wish come true.
 Dialogue: 0,0:15:58.65,0:16:01.19,Default,Pencilgon,0,0,0,,Now, let's go see him.
-Dialogue: 0,0:16:31.26,0:16:45.90,Default,Setsuna,0,0,0,,{\i1}Into the gap between moments
-Dialogue: 0,0:16:47.61,0:16:57.33,Default,Setsuna,0,0,0,,{\i1}spills a single wish
+Comment: 0,0:16:31.26,0:16:45.90,Default,Setsuna,0,0,0,,{\i1}Into the gap between moments
+Comment: 0,0:16:47.61,0:16:57.33,Default,Setsuna,0,0,0,,{\i1}spills a single wish
 Dialogue: 0,0:16:59.21,0:17:00.46,Default,Sunraku,0,0,0,,Is that our guy?
 Dialogue: 0,0:17:00.46,0:17:01.83,Default,Oikatzo,0,0,0,,I'll bet.
 Dialogue: 0,0:17:05.55,0:17:08.26,Default,VO,0,0,0,,{\i1\an8}Wethermon the Tombguard encountered.
