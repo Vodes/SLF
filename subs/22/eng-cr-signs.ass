@@ -1,0 +1,59 @@
+﻿[Script Info]
+Title: English (US)
+ScaledBorderAndShadow: yes
+Original Script: kodansha  [http://www.crunchyroll.com/user/kodansha]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+LayoutResX: 1920
+LayoutResY: 1080
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+Style: Sign_Basic,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,6,3,2,30,30,54,1
+Style: Ep_Title,Arial,60,&H00FFFFFF,&H000000FF,&H00000000,&H00BE9829,-1,0,0,0,100,100,0,0,1,0,6,1,132,30,12,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:02:12.32,0:02:17.37,Ep_Title,sign,0,0,0,,{\fad(575,0)}The Walking Air Purifier
+Dialogue: 0,0:03:02.95,0:03:06.75,Sign_Basic,,0,0,0,,{\fad(250,0)\c&H000000&\3c&HFFFFFF&\shad0\b1\fnTimes New Roman\bord3.75\blur3\pos(960,855)}Ancient Craftsman
+Dialogue: 0,0:03:12.13,0:03:17.26,Sign_Basic,sign,0,0,0,,{\fad(250,0)\pos(1044,816)\fs60\b1\shad0\c&HF2EE7F&\3c&H84845A&\blur6\bord4.5}Legacy Weapon
+Dialogue: 0,0:03:37.53,0:03:38.91,Sign_Basic,sign,0,0,0,,{\fs66\b1\shad3\c&HF2EE7F&\3c&H6A5C19&\bord3\pos(960,900)\4c&HFFFFFF&}Magic Operations Unit
+Dialogue: 0,0:04:44.22,0:04:46.97,Sign_Basic,sign,0,0,0,,{\c&H72644C&\3c&HFFF9E0&\shad0\fs54\an8\fnArial\b1}Non-Standard Armament: Blade \N{\fs72\c&HFFFFFF&\3c&HFFA6C9&}Har{\3c&HDE3BB1&}bin{\3c&HBE9B2B&}ger
+Dialogue: 0,0:05:54.29,0:05:57.30,Sign_Basic,sign,0,0,0,,{\c&HA79574&\3c&HFFF9E0&\shad0\fs42\move(582,561,732,561)\frz353.9\frx10\fry12}Non-Standard Armament: Wire\N{\fs60\c&HFFFFFF&\3c&HFFA6C9&}Keep-Out Wire
+Dialogue: 0,0:05:54.29,0:05:57.30,Sign_Basic,sign,0,0,0,,{\c&HA79574&\3c&HFFF9E0&\shad0\fs42\move(1452,654,1602,654)\frx18\fry20\frz355.1}Non-Standard Armament: Blade \N{\fs60\c&HFFFFFF&\3c&HFFA6C9&}Harbinger
+Dialogue: 0,0:06:26.41,0:06:31.66,Sign_Basic,sign,0,0,0,,{\b1\pos(1176,240)\an8\c&H393A38&\3c&HFAF7F9&\shad0}Prismatic Forest Grotto
+Dialogue: 0,0:06:31.66,0:06:34.17,Sign_Basic,sign,0,0,0,,{\b1\an8\c&H393A38&\3c&HFAF7F9&\shad0\pos(630,150)}Fourfolkshire
+Dialogue: 0,0:06:34.17,0:06:37.29,Sign_Basic,sign,0,0,0,,{\b1\an8\c&H393A38&\3c&HFAF7F9&\shad0\pos(822,285)}Canyon of Ancient Souls
+Dialogue: 0,0:06:37.29,0:06:39.63,Sign_Basic,sign,0,0,0,,{\b1\an8\c&H393A38&\3c&HFAF7F9&\shad0\pos(426,300)}Eighthold
+Dialogue: 0,0:06:41.30,0:06:47.35,Sign_Basic,sign,0,0,0,,{\b1\an8\c&H393A38&\3c&HFAF7F9&\shad0\pos(944.001,360)}Eleventar
+Dialogue: 0,0:06:44.43,0:06:47.35,Sign_Basic,sign,0,0,0,,{\b1\an8\c&H393A38&\3c&HFAF7F9&\shad0\pos(740.001,80.001)}Ruins of Past Glories
+Dialogue: 0,0:06:57.31,0:07:02.19,Sign_Basic,sign,0,0,0,,{\b1\an8\c&H393A38&\3c&HFAF7F9&\shad0\pos(825,210)}The Lightless Barrens
+Dialogue: 0,0:07:02.32,0:07:11.33,Sign_Basic,sign,0,0,0,,{\fad(250,0)\an7\c&H473E49&\3c&HC0ECF0&\shad0\b1\fs54\b0}Bonus Unique Scenario\N{\c&HE2F2F9&\3c&H2F2525&\fnArial\b1}Vorpal Epic\N{\b0\c&HAF4DD4&}Items Needed\N{\c&HE7EB9A&}Receiver Delta\N Positioner Delta\N Transmitter Delta
+Dialogue: 0,0:09:05.86,0:09:08.44,Sign_Basic,sign,0,0,0,,{\pos(910.862,275.864)\org(884.001,336)\fscx100.538\fscy97.325\frz12.03\fry-4.053\frx1.362\fax-0.219\fs60\xbord6.03\ybord5.84\xshad0\yshad0\c&H8E8883&\3c&H34211D&\fad(75,0)}Respawn point registered
+Dialogue: 0,0:09:08.44,0:09:10.86,Default,sign,0,0,0,,{\b1\an8\c&H000000&\3c&HFAF7F9&\shad0\move(960,225,2487,225)}Prismatic Forest Grotto
+Dialogue: 0,0:09:13.16,0:09:18.45,Sign_Basic,sign,0,0,0,,{\b1\an8\c&H000000&\3c&HFAF7F9&\shad0\b0\move(-444,300,960,300,7,3259)}Fourfolkshire
+Dialogue: 0,0:10:10.30,0:10:15.30,Sign_Basic,sign,0,0,0,,{\an8\pos(960,255)\fs48\b1\3c&HB7B137&\shad0\bord9}Fourth City\N{\fs72}Fourfolkshire
+Dialogue: 0,0:10:15.30,0:10:17.56,Sign_Basic,sign,0,0,0,,{\fs66\an8\b1\fnArial\c&HA221E9&\3c&HFFFFFF&\bord6\shad0\pos(960,375)}Item Shop
+Dialogue: 0,0:10:28.52,0:10:31.07,Sign_Basic,sign,0,0,0,,{\fad(225,0)\b1\an2\c&H000000&\3c&HFAF7F9&\shad0\b0\pos(960,804)\fs60\bord4.5}Hexed\NReduces max HP and stats by a certain percentage
+Dialogue: 0,0:10:51.67,0:10:54.43,Sign_Basic,sign,0,0,0,,{\b1\an8\c&H000000&\3c&HFAF7F9&\shad0\b0\move(960,300,2487,300)}Fourfolkshire
+Dialogue: 0,0:10:58.35,0:11:01.68,Sign_Basic,sign,0,0,0,,{\b1\an8\c&H373C36&\3c&HFAF7F9&\shad0\move(-444,225,900,225,16,1528)}Canyon of Ancient Souls
+Dialogue: 0,0:11:30.50,0:11:33.01,Sign_Basic,sign,0,0,0,,{\an8\pos(960,345)\b1\3c&HB7B137&\shad0\bord9\fs72}Canyon of Ancient Souls
+Dialogue: 0,0:12:14.80,0:12:16.63,Sign_Basic,sign,0,0,0,,{\fad(100,0)\c&H6124CB&\fs60\3c&H2C1B38&\shad0\b1\pos(1380,699.999)}Wyvern Zombie
+Dialogue: 0,0:14:09.79,0:14:13.42,Sign_Basic,sign,0,0,0,,{\fad(100,0)\c&H170B1C&\fs60\3c&H5201C6&\shad0\b1\pos(1482,738)\fs48}Rare Enemy\N{\fs60\c&H4400BC&\3c&H150717&}Dullahan General
+Dialogue: 0,0:14:34.69,0:14:36.31,Sign_Basic,sign,0,0,0,,{\fad(150,0)\c&HE8E997&\an8\b1\fs60\3c&H33231D&\shad0\bord9\pos(450,585)}Empire Bee Twinblades\N{\c&H7F726B&\b0\fs36}equipped.
+Dialogue: 0,0:16:24.50,0:16:28.76,Sign_Basic,sign,0,0,0,,{\fad(125,0)\an8\fnImpact\fs90\c&HF8CA3C&\3c&HFFFFFF&\shad6}Vorpal Blade Tech\N[Moon's Reflection] V3
+Dialogue: 0,0:16:53.91,0:16:57.04,Sign_Basic,sign,0,0,0,,{\fad(125,0)\an8\fnImpact\fs90\c&HF8CA3C&\3c&HFFFFFF&\shad6}Megaton Swing
+Dialogue: 0,0:17:14.35,0:17:14.55,Sign_Basic,sign,0,0,0,,{\fad(150,0)\c&HE8E997&\an8\fs30\3c&H210B16&\shad0\bord9\pos(1059.999,457.998)}Moon Jumper
+Dialogue: 0,0:17:18.27,0:17:21.27,Default,sign,0,0,0,,{\fad(150,0)\c&HE8E997&\an8\b1\fs60\3c&H33231D&\shad0\bord9\pos(1596,765)}Six-Boat Leap
+Dialogue: 0,0:17:51.88,0:17:53.89,Sign_Basic,sign,0,0,0,,{\fs90\b1\shad3\c&HF2EE7F&\3c&H45280E&\bord4.5\shad0\blur3\pos(960,885)\4c&HFFFFFF&\fsp6}Ignition
+Dialogue: 0,0:18:04.23,0:18:06.65,Sign_Basic,sign,0,0,0,,{\fad(125,0)\an8\fnImpact\fs90\c&HF8CA3C&\3c&HFFFFFF&\shad6}Hand of Fortune
+Dialogue: 0,0:18:15.57,0:18:16.95,Sign_Basic,sign,0,0,0,,{\fad(225,0)\fs60\b1\shad3\c&HF2EE7F&\3c&H6D6136&\bord4.5\shad0\blur3\4c&HFFFFFF&\fsp6\pos(888,855)}Rabbit Gun
+Dialogue: 0,0:18:58.99,0:19:02.12,Sign_Basic,sign,0,0,0,,{\fad(125,0)\an8\fnImpact\fs90\c&HF8CA3C&\3c&HFFFFFF&\shad6}Titan Blast
+Dialogue: 0,0:19:31.73,0:19:34.74,Sign_Basic,sign,0,0,0,,{\\c&H462922&\fs60\3c&HD04FE3&\shad0\b1\fs48\pos(552,390)}Dropped Item\N{\fs60\c&HFBF5A9&\3c&H43251E&}Dullahan General's Decapitator
+Dialogue: 0,0:19:40.49,0:19:53.00,Sign_Basic,sign,0,0,0,,{\fs60\b1\shad3\c&HF2EE7F&\3c&H4F4236&\bord3\shad3\blur3\4c&H534931&\pos(714,824.001)}Dullahan General's Decapitator
+Dialogue: 0,0:20:40.55,0:20:41.64,Sign_Basic,sign,0,0,0,,{\an5\pos(705.289,216)\org(702,216)\fscx96.564\fscy93.616\frz0\fry-5.46\frx7.94\fax-0.095\fnArial\b1\xbord5.79\ybord5.62\xshad0\yshad0\c&HECE07D&\3c&H34211D&}Emul\N Bilac
+Dialogue: 0,0:20:45.47,0:20:48.02,Sign_Basic,sign,0,0,0,,{\an7\fnImpact\b1\c&HBAAE1A&\3c&HE3DDD3&\shad0}Bilac {\3c&HD8C355&\bord3\c&H8B7406&}Lv: 98\N {\c&HCBCCC3&\3c&H3D2214&\bord6\fnArial\fs54}Master Craftsman {\fs42}Sub: Archaeologist\N Vorpal Bunny Master Smith\N{\c&H9F988A&}Skill Points Remaining: 0

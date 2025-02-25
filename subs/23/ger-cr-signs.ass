@@ -1,0 +1,70 @@
+﻿[Script Info]
+Title: Deutsch
+ScaledBorderAndShadow: yes
+Original Script: cr_de  [http://www.crunchyroll.com/user/cr_de]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+LayoutResX: 1920
+LayoutResY: 1080
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: TypePlaceholder,Arial Bold,57,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,0,0,8,30,30,60,1
+Style: TypePlaceholderBox,Arial Bold,66,&H00200960,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,3,6,0,8,30,30,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:53.80,0:01:57.31,TypePlaceholder,,0,0,0,,{\an1\fnGeorgia Bold\shad6\fs+1\b1\fsp3\c&HC7951D&\4c&HFFFFFF&\bord3\fad(416,258)\3c&HFFFFFF&\pos(485.28,895.32)}Vogel mit Hasen {\fnVerdana bold\fscx90\bord0\c&HFFFFFF&\4c&HC7951D&\alpha&HFF&\t(333,499,\alpha&H00&)}vs. {\bord3\fnGeorgia bold\fscx100\c&HC7951D&\4c&HFFFFFF&\alpha&HFF&\t(583,916,\alpha&H00&)}Totenkopfchor
+Dialogue: 0,0:01:57.43,0:02:00.43,TypePlaceholder,,0,0,0,,{\fnVerdana\bord9\fs+2\c&HFFFCFD&\3c&HBC9A1E&\pos(960,595.5)}Klamm der altehrwürdigen Seelen
+Dialogue: 1,0:03:14.05,0:03:17.43,TypePlaceholder,,0,0,0,,{\fnVerdana\an2\bord5.4\fs+4\pos(960,826.5)\c&HF1E494&\3c&HFFFFFF&}Kristallskorpion
+Dialogue: 2,0:03:14.05,0:03:17.43,TypePlaceholder,,0,0,0,,{\fnVerdana\an2\bord2.4\fs+4\pos(960,826.5)\c&HF1E494&\3c&H807B6B&}Kristallskorpion
+Dialogue: 0,0:06:11.48,0:06:14.27,TypePlaceholderBox,,0,0,0,,{\fnVerdana\fad(150,0)\b0\fs-1\c&H1A1620&\3c&H3A20DD&\pos(1453.5,265.5)}Gebietsboss
+Dialogue: 0,0:06:11.48,0:06:14.27,TypePlaceholder,,0,0,0,,{\fad(150,0)\bord9\fnVerdana\fs-1\c&H3A20DD&\3c&H1A1620&\pos(1453.5,346.5)}Summender Lich\N{\fnImpact\fs+4}Singender Miasma-Knochendämon
+Dialogue: 0,0:06:54.06,0:06:55.56,TypePlaceholder,,0,0,0,,{\fnImpact\fax-0.3\bord4.5\fs+3\c&HA1823E&\3c&HF8D7C8&\frz12.29\pos(613.5,103.5)}Sunraku
+Dialogue: 1,0:08:07.17,0:08:11.55,TypePlaceholder,,0,0,0,,{\fnTimes New Roman bold\an2\fs+2\bord5.1\c&HFEEE88&\3c&HFFFFFF&\pos(960,797.67)}Hasengewehr: Handkanone
+Dialogue: 2,0:08:07.17,0:08:11.55,TypePlaceholder,,0,0,0,,{\fnTimes New Roman bold\an2\fs+2\bord3\c&HFEEE88&\3c&H585B2C&\pos(960,797.67)}Hasengewehr: Handkanone
+Dialogue: 0,0:13:32.08,0:13:35.50,TypePlaceholder,,0,0,0,,{\fnVerdana\an2\bord4.5\fs+3\fad(282,0)\pos(960,930)}Buff = Verstärkung
+Dialogue: 1,0:13:50.27,0:13:52.77,TypePlaceholder,,0,0,0,,{\fnVerdana\fs+2\bord5.1\c&HF9E98B&\3c&HFFFFFF&\pos(381,40.5)}Overheat\N{\fnTahoma\fs-3\c&H3C4246&\3c&HFFFFFF&\bord2.1}Kann zehn Minuten nach Beginn\Neines Kampfes aktiviert werden.\N\NGewährt fünf Minuten lang\Neinen Bonus auf alle Statuswerte,\Nhalbiert sie danach jedoch.
+Dialogue: 2,0:13:50.27,0:13:52.77,TypePlaceholder,,0,0,0,,{\fnVerdana\fs+2\bord3\c&HF9E98B&\3c&H3C4246&\pos(381,40.5)}Overheat\N{\fnTahoma\fs-3\c&H3C4246&\3c&HFFFFFF&\bord2.1}Kann zehn Minuten nach Beginn\Neines Kampfes aktiviert werden.\N\NGewährt fünf Minuten lang\Neinen Bonus auf alle Statuswerte,\Nhalbiert sie danach jedoch.
+Dialogue: 1,0:13:54.86,0:13:57.36,TypePlaceholder,,0,0,0,,{\fnVerdana\fs+2\bord5.1\c&HF9E98B&\3c&HFFFFFF&\pos(1525.5,85.5)}Nitro-Anstieg\N{\fnTahoma\fs-3\c&H3C4246&\3c&HFFFFFF&\bord2.1}Abklingzeit: 1 Sekunde.\NFügt dir 20 % deiner maximalen LP\Nals Schaden zu\Nund erhöht Stärke sowie Agilität.
+Dialogue: 2,0:13:54.86,0:13:57.36,TypePlaceholder,,0,0,0,,{\fnVerdana\fs+2\bord3\c&HF9E98B&\3c&H3C4246&\pos(1525.5,85.5)}Nitro-Anstieg\N{\fnTahoma\fs-3\c&H3C4246&\3c&HFFFFFF&\bord2.1}Abklingzeit: 1 Sekunde.\NFügt dir 20 % deiner maximalen LP\Nals Schaden zu\Nund erhöht Stärke sowie Agilität.
+Dialogue: 0,0:14:00.36,0:14:03.36,TypePlaceholder,,0,0,0,,{\fnImpact\fax-0.3\bord4.5\fs+5\c&HAB8839&\3c&HEEE7E0&\pos(940.5,127.5)\frz22.72}Sunraku
+Dialogue: 0,0:14:03.36,0:14:07.37,TypePlaceholder,,0,0,0,,{\fnVerdana bold\fs+3\bord9\pos(313.5,61.5)\c&HF0DDAB&\3c&H8D624D&}Überhitzen\NSpitzenschub\NNitro-Anstieg
+Dialogue: 1,0:16:27.47,0:16:29.97,TypePlaceholder,Types,0,0,0,,{\fnImpact\b0\bord18\fsp6\fad(121,213)\an1\fs+5\fax-0.3\c&HFCC630&\3c&H232626&\t(203,204,\3c&HA69424&\shad2.1)\t(444,445,\c&HFCC630&\3c&H232626&\shad0)\4c&H232626&\frz57.37\pos(121.5,526.5)}Glühender Dorn
+Dialogue: 2,0:16:27.47,0:16:29.97,TypePlaceholder,Types,0,0,0,,{\fnImpact\b0\bord7.5\fsp6\fad(121,213)\an1\fs+5\fax-0.3\c&HFCC630&\3c&HFDFEF6&\t(203,204,\c&HFFFFB9&\3c&HFFFFF8&)\t(445,446,\c&HFCC630&\3cHFDFEF6&)\frz57.37\pos(121.5,526.5)}Glühender Dorn
+Dialogue: 1,0:17:02.33,0:17:04.84,TypePlaceholder,Types,0,0,0,,{\fnImpact\b0\bord18\fsp6\fad(121,213)\an1\fs+5\fax-0.3\c&HFCC630&\3c&H232626&\t(203,204,\3c&HA69424&\shad2.1)\t(444,445,\c&HFCC630&\3c&H232626&\shad0)\4c&H232626&\frz8.297\pos(358.5,205.5)}Festungsbrecher
+Dialogue: 2,0:17:02.33,0:17:04.84,TypePlaceholder,Types,0,0,0,,{\fnImpact\b0\bord7.5\fsp6\fad(121,213)\an1\fs+5\fax-0.3\c&HFCC630&\3c&HFDFEF6&\t(203,204,\c&HFFFFB9&\3c&HFFFFF8&)\t(445,446,\c&HFCC630&\3cHFDFEF6&)\frz8.297\pos(358.5,205.5)}Festungsbrecher
+Dialogue: 1,0:17:17.47,0:17:20.98,TypePlaceholder,,0,0,0,,{\fnTimes New Roman bold\fad(284,0)\an2\fs+2\bord5.1\c&HFEEE88&\3c&HFFFFFF&\pos(960,797.67)}Kaninchenbetriebener Pile Bunker
+Dialogue: 2,0:17:17.47,0:17:20.98,TypePlaceholder,,0,0,0,,{\fnTimes New Roman bold\fad(284,0)\an2\fs+2\bord3\c&HFEEE88&\3c&H585B2C&\pos(960,797.67)}Kaninchenbetriebener Pile Bunker
+Dialogue: 1,0:17:33.66,0:17:36.16,TypePlaceholder,,0,0,0,,{\fnImpact\fax-0.3\an2\bord10.5\fs+8\c&HBC9541&\3c&H5A5755&\frz8.823\pos(1006.5,172.5)}Sunraku
+Dialogue: 2,0:17:33.66,0:17:36.16,TypePlaceholder,,0,0,0,,{\fnImpact\fax-0.3\an2\bord7.5\fs+8\c&HBC9541&\3c&HFEF8E9&\frz8.823\pos(1006.5,172.5)}Sunraku
+Dialogue: 0,0:17:36.37,0:17:42.29,TypePlaceholder,,0,0,0,,{\fnImpact\fax-0.3\bord4.5\an2\fs+5\c&HE1BE4F&\3c&HF7F2FC&\frz0.8379\move(1345.5,909,1120.5,117,37,329)}Sunraku
+Dialogue: 0,0:17:39.41,0:17:39.79,TypePlaceholder,,0,0,0,,{\fnComic Sans MS bold\fs+4\an2\bord1.5\c&H63E8DF&\3c&H4F7382&\pos(159,897)\frz24.01}Sauer
+Dialogue: 0,0:17:40.04,0:17:40.41,TypePlaceholder,,0,0,0,,{\fnComic Sans MS bold\fs+4\an2\bord1.5\c&H63E8DF&\3c&H4F7382&\pos(159,897)\frz24.01}Sauer
+Dialogue: 0,0:17:40.66,0:17:41.04,TypePlaceholder,,0,0,0,,{\fnComic Sans MS bold\fs+4\an2\bord1.5\c&H63E8DF&\3c&H4F7382&\pos(159,897)\frz24.01}Sauer
+Dialogue: 0,0:17:41.29,0:17:41.67,TypePlaceholder,,0,0,0,,{\fnComic Sans MS bold\fs+4\an2\bord1.5\c&H63E8DF&\3c&H4F7382&\pos(159,897)\frz24.01}Sauer
+Dialogue: 0,0:17:41.92,0:17:42.29,TypePlaceholder,,0,0,0,,{\fnComic Sans MS bold\fs+4\an2\bord1.5\c&H63E8DF&\3c&H4F7382&\pos(159,897)\frz24.01}Sauer
+Dialogue: 1,0:18:00.39,0:18:06.32,TypePlaceholder,,0,0,0,,{\p1\bord6\c&H6A412D&\3c&HF7DC67&\pos(441,66)}m 0 0 l 750 0 l 750 495 l 0 495
+Dialogue: 2,0:18:00.39,0:18:06.32,TypePlaceholderBox,,0,0,0,,{\fnVerdana\b0\fs-3\c&H6A412D&\3c&HFE8AE9&\pos(441,93)}Gefundener Gegenstand
+Dialogue: 2,0:18:00.39,0:18:06.32,TypePlaceholder,,0,0,0,,{\fnVerdana bold\c&HF7F6BE&\pos(441,156)}Knochensplitter des Grolls\N{\fnTahoma\fs-2\c&HC5B2A0&}Ein abscheulicher Knochensplitter, der bis\Nins Mark mit Groll erfüllt ist.\NKann für eine Vielzahl von schamanischen\NZwecken verwendet werden.\NDer Groll darin wird nie verfliegen,\Ndenn Hass neigt dazu,\Nan anderen ausgelassen zu werden.
+Dialogue: 0,0:18:29.09,0:18:30.63,TypePlaceholder,,0,0,0,,{\fnAndale Mono\an2\fs+4\bord6\c&H373926&\move(936,309,2428.5,309)}Klamm der altehrwürdigen Seelen
+Dialogue: 0,0:18:34.13,0:18:36.60,TypePlaceholder,,0,0,0,,{\fnAndale Mono\an2\fs+4\bord9\c&H0B0A07&\move(-300,351,949.5,351,0,1451)}Achdolt
+Dialogue: 0,0:18:42.60,0:18:46.61,TypePlaceholder,,0,0,0,,{\fnVerdana\bord9\pos(960,622.5)\c&HFFFCFD&\3c&HBC9A1E&}Achte Stadt\N{\fs+2}Achdolt
+Dialogue: 0,0:18:49.61,0:18:51.11,TypePlaceholder,,0,0,0,,{\fnTahoma\fsp6\an2\fs+4\fax-0.05\c&H937F6E&\frz6.083\pos(889.5,340.5)}Markstein aktualisieren?
+Dialogue: 0,0:18:49.61,0:18:51.15,TypePlaceholderBox,,0,0,0,,{\fnTahoma\b0\fs-1\c&HF9FCB6&\fax-0.1\3c&HC1E823&\frz7.561\pos(1056,658.5)}\h\h\hJa\h\h\h
+Dialogue: 0,0:18:49.61,0:18:51.15,TypePlaceholderBox,,0,0,0,,{\fnTahoma\b0\fs-1\c&HD8DBF9&\fax-0\3c&H2000B6&\frz7.561\pos(733.5,697.5)}\h\hNein\h\h
+Dialogue: 0,0:18:51.19,0:18:56.62,TypePlaceholder,,0,0,0,,{\fnTahoma\fsp6\an2\fs+4\fax-0.05\c&H937F6E&\frz6.083\move(907.5,519,894,405,32,199)}Markstein aktualisiert.
+Dialogue: 0,0:20:00.68,0:20:07.69,TypePlaceholder,,0,0,0,,{\fnComic Sans MS bold\fad(237,0)\fs+10\c&H4001C8&\pos(1090.5,285)}Wa ha ha ha
+Dialogue: 0,0:20:29.46,0:20:30.92,TypePlaceholder,,0,0,0,,{\fnAndale Mono\an2\fs+4\bord9\c&H0B0A07&\move(952.5,357,-300,357,27,1445)}Achdolt
+Dialogue: 0,0:20:34.42,0:20:36.97,TypePlaceholder,,0,0,0,,{\fnAndale Mono\an2\fs+4\bord6\c&H373926&\move(2400,306,925.5,306,40,1542)}Klamm der altehrwürdigen Seelen
+Dialogue: 0,0:21:01.87,0:21:05.87,TypePlaceholder,Credits,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\pos(960,45)}Übersetzung: Markus Lange
+Dialogue: 0,0:21:01.87,0:21:05.87,TypePlaceholder,Credits,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\an2\pos(960,1035)}Spotting: Michael Gohl
+Dialogue: 0,0:21:06.37,0:21:10.33,TypePlaceholder,Credits,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\pos(960,45)}Revision & Typesetting: Jacqueline Philippi
+Dialogue: 0,0:21:06.37,0:21:10.33,TypePlaceholder,Credits,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\an2\pos(960,1035)}Qualitätskontrolle: Konrad Walter
+Dialogue: 0,0:21:10.87,0:21:14.84,TypePlaceholder,Credits,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\pos(960,45)}Projektleitung: Tobias Philippi
+Dialogue: 0,0:22:29.95,0:22:37.21,TypePlaceholder,Types,0,0,0,,{\fnComic Sans MS Bold\fs+4\bord0\shad6\fs+6\c&H7CEDEF&\4c&H51CBDA&\pos(960,9)}Sh{\c&HC297F0&\4c&H966CD6&}a{\c&H679FF8&\4c&H3171D7&}n{\c&HDE72BD&\4c&HB64897&}F{\c&H5B63E6&\4c&H484FC2&}ro
+Dialogue: 0,0:22:33.75,0:22:37.21,TypePlaceholder,Types,0,0,0,,{\fnComic Sans MS Bold\fad(493,0)\fs+4\fax-0.15\an3\c&HFAFFFE&\3c&H376777&\4c&H1C3F4D&\shad3.9\bord3.9\pos(1831.5,859.5)}#28 Was Emul im Schlaf redet
+Dialogue: 0,0:22:34.33,0:22:37.21,TypePlaceholder,Types,0,0,0,,{\c&H515655&\fnComic Sans MS Bold\fad(333,0)\fs+2\bord0\frz43.99\pos(1447.5,118.5)}Mini

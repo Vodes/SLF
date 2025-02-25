@@ -1,0 +1,281 @@
+﻿[Script Info]
+Title: English (US)
+ScaledBorderAndShadow: yes
+Original Script: kodansha  [http://www.crunchyroll.com/user/kodansha]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+LayoutResX: 1920
+LayoutResY: 1080
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+Style: Flashback,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00013E12,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:31.45,0:01:32.86,Flashback,Sunraku,0,0,0,,Hell yeah!
+Dialogue: 0,0:01:32.86,0:01:35.74,Flashback,Sunraku,0,0,0,,Let's start the plan to cultivate Bilac!
+Dialogue: 0,0:01:35.74,0:01:37.12,Flashback,Emul,0,0,0,,Yes, indeed!
+Dialogue: 0,0:01:37.12,0:01:39.29,Flashback,Bilac,0,0,0,,Y-Yeah!
+Dialogue: 0,0:01:39.75,0:01:44.25,Flashback,Bilac,0,0,0,,Okay! Let's head through Fourfolkshire \Nand on to the Canyon of Ancient Souls!
+Dialogue: 0,0:01:44.25,0:01:46.00,Flashback,Bilac,0,0,0,,Get moving, bird-man!
+Dialogue: 0,0:01:46.84,0:01:51.51,Flashback,Sunraku,0,0,0,,We'll need that magic operations unit to \Nmake you an Ancient Craftsman, right, Bilac?
+Dialogue: 0,0:01:59.77,0:02:02.48,Default,Sunraku,0,0,0,,This area's been a real breeze, huh?
+Dialogue: 0,0:02:02.77,0:02:05.06,Default,Bilac,0,0,0,,I'm betting the miasma \Nand the undead and stuff
+Dialogue: 0,0:02:05.06,0:02:06.94,Default,Bilac,0,0,0,,would normally be a pain in the ass...
+Dialogue: 0,0:02:06.94,0:02:11.65,Default,Emul,0,0,0,,But Sunraku-san's mark clears up the \Nmiasma and chases the monsters away,
+Dialogue: 0,0:02:11.65,0:02:13.49,Default,Emul,0,0,0,,so it's truly a walk in the park!
+Dialogue: 0,0:02:16.45,0:02:18.79,Default,Sunraku,0,0,0,,On that note, would you guys...
+Dialogue: 0,0:02:19.33,0:02:23.16,Default,Sunraku,0,0,0,,just walk on your own already?!
+Dialogue: 0,0:02:23.16,0:02:25.38,Default,Emul,0,0,0,,Walking is far too troublesome!
+Dialogue: 0,0:02:25.38,0:02:29.00,Default,Bilac,0,0,0,,You've got the Night Emperor's mark, buddy.
+Dialogue: 0,0:02:29.00,0:02:31.05,Default,Bilac,0,0,0,,Clinging to you lets us conserve Holy Water.
+Dialogue: 0,0:02:31.05,0:02:31.80,Default,Bilac,0,0,0,,So deal with it.
+Dialogue: 0,0:02:32.22,0:02:34.01,Default,Sunraku,0,0,0,,What am I, your personal air purifier?
+Dialogue: 0,0:02:34.01,0:02:35.30,Default,Bilac,0,0,0,,Just get walking.
+Dialogue: 0,0:02:38.97,0:02:44.02,Default,Sunraku,0,0,0,,Half-naked with a bird head, walking through \Nmiasma with rabbits on my shoulders...
+Dialogue: 0,0:02:44.52,0:02:48.31,Default,Sunraku,0,0,0,,Not exactly my personal fantasy.
+Dialogue: 0,0:02:50.32,0:02:53.82,Default,Sunraku,0,0,0,,Hey, what's going on overtop of the mist?
+Dialogue: 0,0:02:54.24,0:02:56.61,Default,Sunraku,0,0,0,,Feels like we could climb up if we wanted...
+Dialogue: 0,0:02:56.61,0:02:59.12,Default,Sunraku,0,0,0,,Would that make it even \Neasier to get to the end?
+Dialogue: 0,0:02:59.66,0:03:03.58,Default,Bilac,0,0,0,,Might work out if you're feeling suicidal,
+Dialogue: 0,0:03:04.04,0:03:05.37,Default,Bilac,0,0,0,,but I'll pass, myself.
+Dialogue: 0,0:03:06.67,0:03:09.09,Default,Emul,0,0,0,,Atop the cliffs of the \NCanyon of Ancient Souls
+Dialogue: 0,0:03:09.09,0:03:14.05,Default,Emul,0,0,0,,lurk terrifying monsters known \Nas the Crystal Scorpions!
+Dialogue: 0,0:03:14.38,0:03:16.55,Default,Sunraku,0,0,0,,{\an8}Crystal Scorpions?
+Dialogue: 0,0:03:17.43,0:03:20.22,Default,Bilac,0,0,0,,They're a bunch of tough \Nnuts not even I could crack.
+Dialogue: 0,0:03:20.22,0:03:22.89,Default,Bilac,0,0,0,,Crystal Scorpions attack as a swarm,
+Dialogue: 0,0:03:22.89,0:03:24.93,Default,Bilac,0,0,0,,so if one sees you, you're dead.
+Dialogue: 0,0:03:25.31,0:03:28.15,Default,Sunraku,0,0,0,,What, they're over level 100 or something?
+Dialogue: 0,0:03:28.48,0:03:31.94,Default,Sunraku,0,0,0,,A shortcut for super-veterans, maybe?
+Dialogue: 0,0:03:40.95,0:03:44.62,Default,Sunraku,0,0,0,,Thought I saw a figure moving just now...
+Dialogue: 0,0:03:44.62,0:03:45.66,Default,Sunraku,0,0,0,,Was it just my imagination?
+Dialogue: 0,0:03:45.66,0:03:48.62,Default,Bilac,0,0,0,,What was it? A Crystal Scorpion?!
+Dialogue: 0,0:03:48.62,0:03:52.63,Default,Emul,0,0,0,,I hear that the sight of one means \Ndozens more are on their way!
+Dialogue: 0,0:03:53.46,0:03:55.84,Default,Bilac,0,0,0,,Just get walking already!
+Dialogue: 0,0:03:55.84,0:03:58.18,Default,Bilac,0,0,0,,We're after the area boss, remember?!
+Dialogue: 0,0:03:58.18,0:04:00.43,Default,Sunraku,0,0,0,,Yeah, yeah, I get it!
+Dialogue: 0,0:04:02.18,0:04:05.39,Default,Sunraku,0,0,0,,Crystal Scorpions, huh?
+Dialogue: 0,0:04:05.77,0:04:07.89,Default,Sunraku,0,0,0,,Maybe I'll pick me a fight later on.
+Dialogue: 0,0:04:07.89,0:04:09.81,Default,Bilac,0,0,0,,Didn't you hear what I just said?!
+Dialogue: 0,0:04:09.81,0:04:12.23,Default,Emul,0,0,0,,Don't even joke about such a thing!
+Dialogue: 0,0:04:53.40,0:04:55.78,Default,Sunraku,0,0,0,,What's this black dome thing?
+Dialogue: 0,0:04:55.78,0:04:57.44,Default,Bilac,0,0,0,,Guess this is our destination.
+Dialogue: 0,0:04:58.61,0:05:01.45,Default,Sunraku,0,0,0,,Looks like an area boss to me, yeah.
+Dialogue: 0,0:05:02.32,0:05:04.87,Default,Sunraku,0,0,0,,There's not someone in there already, right?
+Dialogue: 0,0:05:04.87,0:05:06.99,Default,Sunraku,0,0,0,,We've just gotta fight it in here?
+Dialogue: 0,0:05:07.87,0:05:12.83,Default,Sunraku,0,0,0,,Then let's beat the thing \Nand move right along!
+Dialogue: 0,0:05:12.83,0:05:14.34,Default,Emul,0,0,0,,Yes, let us!
+Dialogue: 0,0:05:14.34,0:05:16.34,Default,Bilac,0,0,0,,Give it your best shot, bird-man!
+Dialogue: 0,0:05:54.04,0:05:55.00,Default,Emul,0,0,0,,Sunraku-san—
+Dialogue: 0,0:05:57.30,0:05:58.88,Default,Sunraku,0,0,0,,Well, well.
+Dialogue: 0,0:05:58.88,0:05:59.76,Default,Bilac,0,0,0,,Yep.
+Dialogue: 0,0:06:04.97,0:06:06.51,Default,Bilac,0,0,0,,That's what we're after.
+Dialogue: 0,0:06:10.35,0:06:14.27,Default,Sunraku,0,0,0,,The kind of skelly jerk a \Ncertain type is {\i1}really{\i0} into...
+Dialogue: 0,0:06:15.10,0:06:16.69,Default,Sunraku,0,0,0,,Humming Lich.
+Dialogue: 0,0:06:17.57,0:06:21.07,Default,Sunraku,0,0,0,,I'm getting "skeleton that \Ndishes out curses" vibes.
+Dialogue: 0,0:06:21.07,0:06:23.20,Default,Sunraku,0,0,0,,So before it throws anything \Ntoo annoying at us...
+Dialogue: 0,0:06:23.78,0:06:25.07,Default,Sunraku,0,0,0,,Strike first!
+Dialogue: 0,0:06:25.32,0:06:26.24,Default,Bilac,0,0,0,,Hang on a minute!
+Dialogue: 0,0:06:26.24,0:06:27.37,Default,Bilac,0,0,0,,That thing's—
+Dialogue: 0,0:06:35.08,0:06:37.63,Default,Sunraku,0,0,0,,Huh? No hitbox?
+Dialogue: 0,0:06:37.63,0:06:38.84,Default,Bilac,0,0,0,,You moron.
+Dialogue: 0,0:06:38.84,0:06:42.30,Default,Bilac,0,0,0,,You need a holy-attribute weapon \Nto deal physical damage!
+Dialogue: 0,0:06:42.30,0:06:45.64,Default,Sunraku,0,0,0,,Huh? But I don't got a holy-attribute weapon!
+Dialogue: 0,0:06:50.97,0:06:53.06,Default,Emul,0,0,0,,What fearsome miasma!
+Dialogue: 0,0:06:53.64,0:06:55.56,Default,Sunraku,0,0,0,,That kinda stings!
+Dialogue: 0,0:06:55.77,0:06:58.11,Default,Bilac,0,0,0,,It's the source of the miasma in the canyon.
+Dialogue: 0,0:06:58.11,0:07:00.65,Default,Bilac,0,0,0,,You're being hit by all the \Nhatred and death around us!
+Dialogue: 0,0:07:00.65,0:07:02.07,Default,Bilac,0,0,0,,It's more potent than ordinary miasma!
+Dialogue: 0,0:07:04.65,0:07:07.37,Default,Bilac,0,0,0,,Hey... we're okay.
+Dialogue: 0,0:07:07.37,0:07:10.33,Default,Emul,0,0,0,,Thanks to Sunraku-san's mark, no doubt!
+Dialogue: 0,0:07:10.66,0:07:14.79,Default,Sunraku,0,0,0,,I did take a bit of damage, but that \Ndebuff resistance is doing its work.
+Dialogue: 0,0:07:14.79,0:07:17.83,Default,Sunraku,0,0,0,,Can't believe it works even \Non an area boss's attacks.
+Dialogue: 0,0:07:18.33,0:07:19.46,Default,Sunraku,0,0,0,,But wait, hang on...
+Dialogue: 0,0:07:19.79,0:07:23.05,Default,Sunraku,0,0,0,,If neither of our attacks \Nworks on the other one...
+Dialogue: 0,0:07:23.59,0:07:26.55,Default,Sunraku,0,0,0,,Does that mean we're locked into a stalemate?
+Dialogue: 0,0:07:26.55,0:07:27.55,Default,Sunraku,0,0,0,,What do we do?
+Dialogue: 0,0:07:27.55,0:07:30.72,Default,Bilac,0,0,0,,I freaking told you to \Nprepare what you needed!
+Dialogue: 0,0:07:30.72,0:07:31.81,Default,Bilac,0,0,0,,Honestly...
+Dialogue: 0,0:07:33.27,0:07:34.98,Default,Bilac,0,0,0,,Guess I gotta do it.
+Dialogue: 0,0:07:35.60,0:07:38.31,Default,Bilac,0,0,0,,Buy me some time, would ya?
+Dialogue: 0,0:07:40.77,0:07:43.23,Default,Bilac,0,0,0,,I'm gonna rig us up a solution.
+Dialogue: 0,0:07:57.87,0:07:59.25,Default,Emul,0,0,0,,S-Sunraku-san?!
+Dialogue: 0,0:07:59.25,0:08:02.09,Default,Emul,0,0,0,,Why did you attach me to your arm?!
+Dialogue: 0,0:08:02.09,0:08:05.30,Default,Sunraku,0,0,0,,You're the only one who can fight \Nthis thing right now, Emul!
+Dialogue: 0,0:08:05.30,0:08:08.47,Default,Sunraku,0,0,0,,{\an8}Let's go with operation, \NRabbit Gun: Turret Palm!
+Dialogue: 0,0:08:09.39,0:08:11.55,Default,Emul,0,0,0,,{\an8}Not again!
+Dialogue: 0,0:08:12.05,0:08:13.93,Default,Sunraku,0,0,0,,I'll get you some carrots later.
+Dialogue: 0,0:08:13.93,0:08:15.06,Default,Emul,0,0,0,,Carrots?!
+Dialogue: 0,0:08:21.27,0:08:24.15,Default,Sunraku,0,0,0,,Don't worry. Our job is just to buy time.
+Dialogue: 0,0:08:24.15,0:08:26.03,Default,Sunraku,0,0,0,,We don't gotta beat the thing.
+Dialogue: 0,0:08:26.03,0:08:29.70,Default,Sunraku,0,0,0,,Still, the best defense is a good offense...
+Dialogue: 0,0:08:29.70,0:08:32.20,Default,Sunraku,0,0,0,,So let's keep those attacks coming! Go, Emul!
+Dialogue: 0,0:08:34.41,0:08:35.20,Default,Emul,0,0,0,,Righty-o!
+Dialogue: 0,0:08:38.50,0:08:40.88,Default,Emul,0,0,0,,I'll do as I must!
+Dialogue: 0,0:08:41.71,0:08:43.63,Default,Emul,0,0,0,,Magic Edge!
+Dialogue: 0,0:08:50.26,0:08:52.39,Default,Sunraku,0,0,0,,Nice! It worked!
+Dialogue: 0,0:08:55.01,0:08:56.31,Default,Sunraku,0,0,0,,Bilac-san!
+Dialogue: 0,0:08:56.31,0:08:58.73,Default,Sunraku,0,0,0,,You maybe got an estimate on \Nhow much longer you need?!
+Dialogue: 0,0:09:00.56,0:09:03.77,Default,Bilac,0,0,0,,It's not like what I'm doing is easy, y'know?
+Dialogue: 0,0:09:03.77,0:09:04.73,Default,Bilac,0,0,0,,Just hold on!
+Dialogue: 0,0:09:04.73,0:09:06.23,Default,Sunraku,0,0,0,,You got it!
+Dialogue: 0,0:09:08.69,0:09:10.61,Default,Bilac,0,0,0,,It's gonna be a rush job,
+Dialogue: 0,0:09:11.11,0:09:15.28,Default,Bilac,0,0,0,,but I'm gonna turn this rusty \NDullahan General's Decapitator
+Dialogue: 0,0:09:15.28,0:09:18.25,Default,Bilac,0,0,0,,into a weapon that can hurt the Humming Lich!
+Dialogue: 0,0:09:18.79,0:09:21.75,Default,Bilac,0,0,0,,You ain't dead yet, buddy.
+Dialogue: 0,0:09:28.92,0:09:31.93,Default,Emul,0,0,0,,Arms are coming out of the ground!
+Dialogue: 0,0:09:31.93,0:09:35.30,Default,Sunraku,0,0,0,,Easy mode compared to \NWethermon's attack spam!
+Dialogue: 0,0:09:39.56,0:09:40.18,Default,Sunraku,0,0,0,,Fire!
+Dialogue: 0,0:09:40.18,0:09:41.27,Default,Emul,0,0,0,,R-Righty-o!
+Dialogue: 0,0:09:41.27,0:09:43.27,Default,Emul,0,0,0,,Magic Edge!
+Dialogue: 0,0:09:45.40,0:09:46.77,Default,Sunraku,0,0,0,,A hit!
+Dialogue: 0,0:10:14.97,0:10:17.68,Default,Emul,0,0,0,,Th-There are seven of them now!
+Dialogue: 0,0:10:18.18,0:10:21.18,Default,Sunraku,0,0,0,,And each one's holding a different weapon...
+Dialogue: 0,0:10:30.19,0:10:32.70,Default,Emul,0,0,0,,G-Goodness gracious!
+Dialogue: 0,0:10:32.70,0:10:36.70,Default,Sunraku,0,0,0,,Okay, avoiding all of them \Nat once is pretty annoying!
+Dialogue: 0,0:10:37.45,0:10:39.20,Default,Emul,0,0,0,,They're coming!
+Dialogue: 0,0:10:40.20,0:10:44.00,Default,Bilac,0,0,0,,Take it, bird-man!
+Dialogue: 0,0:10:59.51,0:11:03.89,Default,Sunraku,0,0,0,,Hey, you really cleaned \Nup that rusty old blade!
+Dialogue: 0,0:11:03.89,0:11:05.94,Default,Bilac,0,0,0,,I didn't have a forge or an anvil,
+Dialogue: 0,0:11:05.94,0:11:10.52,Default,Bilac,0,0,0,,so it's not my best work, \Nbut I polished it with holy water.
+Dialogue: 0,0:11:10.52,0:11:13.15,Default,Bilac,0,0,0,,It'll do the job for \Nslicing up those reapers.
+Dialogue: 0,0:11:13.36,0:11:15.74,Default,Bilac,0,0,0,,But it's also gotten way more fragile.
+Dialogue: 0,0:11:15.74,0:11:19.20,Default,Bilac,0,0,0,,It's got eight swings at \Nmost before it breaks.
+Dialogue: 0,0:11:19.20,0:11:20.66,Default,Bilac,0,0,0,,Keep that in mind, got it?
+Dialogue: 0,0:11:21.45,0:11:26.42,Default,Sunraku,0,0,0,,Translation: "Beat these things \Nin eight hits or less."
+Dialogue: 0,0:11:28.71,0:11:31.00,Default,Sunraku,0,0,0,,Sounds like a challenge run to me.
+Dialogue: 0,0:11:45.52,0:11:47.06,Default,Bilac,0,0,0,,What's that, singing?
+Dialogue: 0,0:11:47.35,0:11:49.69,Default,Emul,0,0,0,,It's rather frightening!
+Dialogue: 0,0:11:51.23,0:11:53.90,Default,Sunraku,0,0,0,,A singing skelly septet...
+Dialogue: 0,0:11:54.49,0:11:56.36,Default,Sunraku,0,0,0,,Hence "Humming Lich."
+Dialogue: 0,0:11:57.15,0:11:59.45,Default,Sunraku,0,0,0,,A pretty fitting name.
+Dialogue: 0,0:12:00.07,0:12:03.16,Default,Sunraku,0,0,0,,It's only been eight minutes \Nsince the battle kicked off.
+Dialogue: 0,0:12:06.75,0:12:08.25,Default,Sunraku,0,0,0,,Bilac, grab on!
+Dialogue: 0,0:12:12.13,0:12:13.67,Default,Bilac,0,0,0,,What's the plan, man?
+Dialogue: 0,0:12:13.67,0:12:16.88,Default,Sunraku,0,0,0,,I gotta find out some things \Nabout the clones first!
+Dialogue: 0,0:12:23.26,0:12:25.64,Default,Sunraku,0,0,0,,Skill... Drift Step!
+Dialogue: 0,0:12:33.86,0:12:35.03,Default,Bilac,0,0,0,,For a second there...
+Dialogue: 0,0:12:35.03,0:12:38.53,Default,Sunraku,0,0,0,,Yeah, the main body didn't take \Nthe damage, but it still reeled.
+Dialogue: 0,0:12:39.03,0:12:40.49,Default,Sunraku,0,0,0,,Which means it's the type of monster
+Dialogue: 0,0:12:40.49,0:12:43.24,Default,Sunraku,0,0,0,,where the original and the \Nclones all share an HP pool.
+Dialogue: 0,0:12:43.24,0:12:46.16,Default,Sunraku,0,0,0,,And the fact that it reeled \Nlike that from one hit
+Dialogue: 0,0:12:46.16,0:12:48.54,Default,Sunraku,0,0,0,,suggests its HP is pretty low.
+Dialogue: 0,0:12:49.29,0:12:50.92,Default,Sunraku,0,0,0,,I've got my plan all worked out.
+Dialogue: 0,0:12:51.17,0:12:52.13,Default,Sunraku,0,0,0,,Emul!
+Dialogue: 0,0:12:52.38,0:12:53.38,Default,Sunraku,0,0,0,,Bilac!
+Dialogue: 0,0:12:54.38,0:12:56.38,Default,Sunraku,0,0,0,,Let me give you a quick rundown.
+Dialogue: 0,0:13:00.80,0:13:02.85,Default,Bilac,0,0,0,,Th-The hell you say?
+Dialogue: 0,0:13:02.85,0:13:04.43,Default,Bilac,0,0,0,,You want me to do {\i1}what{\i0}?
+Dialogue: 0,0:13:04.43,0:13:08.10,Default,Sunraku,0,0,0,,Bilac. A weapon should be \Nwielded in pursuit of victory.
+Dialogue: 0,0:13:08.10,0:13:10.69,Default,Sunraku,0,0,0,,If you can't win, \Nit's rude to the weapon, right?
+Dialogue: 0,0:13:14.15,0:13:16.11,Default,Sunraku,0,0,0,,Now, get to it!
+Dialogue: 0,0:13:30.25,0:13:32.08,Default,Sunraku,0,0,0,,{\an8}It's been ten minutes now.
+Dialogue: 0,0:13:32.21,0:13:33.96,Default,Sunraku,0,0,0,,{\an8}Let's get buffed up and ready to go!
+Dialogue: 0,0:13:33.96,0:13:35.50,Default,Emul,0,0,0,,{\an8}Ready to go!
+Dialogue: 0,0:13:37.59,0:13:40.26,Default,Sunraku,0,0,0,,Emul! Blast the others outta \Nthe way with your Magic Edge!
+Dialogue: 0,0:13:40.26,0:13:41.26,Default,Emul,0,0,0,,Righty-o!
+Dialogue: 0,0:13:41.68,0:13:42.93,Default,Sunraku,0,0,0,,The buff skill's got a limitation—
+Dialogue: 0,0:13:43.18,0:13:46.26,Default,Sunraku,0,0,0,,I can't use it until ten \Nminutes after combat starts,
+Dialogue: 0,0:13:46.26,0:13:49.52,Default,Sunraku,0,0,0,,so I couldn't use it against \Nthe Dullahan General—
+Dialogue: 0,0:13:49.52,0:13:51.06,Default,Sunraku,0,0,0,,"Overheat."
+Dialogue: 0,0:13:52.77,0:13:54.98,Default,Sunraku,0,0,0,,{\an8}Combine it with Nitro Gain!
+Dialogue: 0,0:13:57.36,0:13:59.94,Default,Sunraku,0,0,0,,This skill's real value isn't in its buffs,
+Dialogue: 0,0:13:59.94,0:14:03.36,Default,Sunraku,0,0,0,,but in the damage control it allows \Nwith its 20%-of-max-HP cost.
+Dialogue: 0,0:14:03.99,0:14:09.37,Default,Sunraku,0,0,0,,HP management that lets me \Nuse Climax Boost at will...
+Dialogue: 0,0:14:11.83,0:14:13.58,Default,Emul,0,0,0,,Magic Edge!
+Dialogue: 0,0:14:19.25,0:14:21.13,Default,Sunraku,0,0,0,,Great, you cleared me a path!
+Dialogue: 0,0:14:21.13,0:14:23.38,Default,Sunraku,0,0,0,,Let's start with that annoying archer!
+Dialogue: 0,0:14:25.30,0:14:26.72,Default,Sunraku,0,0,0,,Six-Boat Leap!
+Dialogue: 0,0:14:28.39,0:14:30.60,Default,Sunraku,0,0,0,,And the special attribute \Nof the Decapitator...
+Dialogue: 0,0:14:36.27,0:14:39.11,Default,Sunraku,0,0,0,,Attacks to the head deal extra damage!
+Dialogue: 0,0:14:39.57,0:14:42.11,Default,Sunraku,0,0,0,,That, plus all the buffs and a critical hit
+Dialogue: 0,0:14:42.11,0:14:44.57,Default,Sunraku,0,0,0,,can take each clone in one strike!
+Dialogue: 0,0:14:45.53,0:14:46.41,Default,Sunraku,0,0,0,,Let's go, Emul!
+Dialogue: 0,0:14:46.41,0:14:47.78,Default,Sunraku,0,0,0,,Next up, the axe-wielder!
+Dialogue: 0,0:14:47.78,0:14:49.12,Default,Emul,0,0,0,,Understood!
+Dialogue: 0,0:14:50.04,0:14:52.25,Default,Sunraku,0,0,0,,Five clones and the main body left.
+Dialogue: 0,0:14:52.25,0:14:55.12,Default,Sunraku,0,0,0,,And I've got seven attacks.
+Dialogue: 0,0:14:55.12,0:14:56.63,Default,Emul,0,0,0,,Magic Edge!
+Dialogue: 0,0:15:06.72,0:15:08.55,Default,Sunraku,0,0,0,,I've got one more limitation on me.
+Dialogue: 0,0:15:08.97,0:15:13.10,Default,Sunraku,0,0,0,,After five minutes pass, the effect of \NOverheat will drop my stats way down,
+Dialogue: 0,0:15:14.02,0:15:16.98,Default,Sunraku,0,0,0,,and I won't be able to slay \Nthem in one hit anymore.
+Dialogue: 0,0:15:16.98,0:15:18.11,Default,Sunraku,0,0,0,,That's why...
+Dialogue: 0,0:15:18.11,0:15:21.11,Default,Sunraku,0,0,0,,I'll finish this before that happens!
+Dialogue: 0,0:15:26.82,0:15:29.24,Default,Bilac,0,0,0,,He's got Emul's support and all,
+Dialogue: 0,0:15:29.24,0:15:32.12,Default,Bilac,0,0,0,,but he can dodge all those \Nattacks and even counter?
+Dialogue: 0,0:15:32.62,0:15:36.12,Default,Bilac,0,0,0,,No wonder that guy beat a damn Colossus...
+Dialogue: 0,0:15:36.75,0:15:38.33,Default,Bilac,0,0,0,,Sounds good to me.
+Dialogue: 0,0:15:38.33,0:15:40.63,Default,Bilac,0,0,0,,I'm down for your plan!
+Dialogue: 0,0:15:48.47,0:15:51.05,Default,Sunraku,0,0,0,,I've got two attacks left.
+Dialogue: 0,0:15:52.31,0:15:53.39,Default,Sunraku,0,0,0,,And that just leaves...
+Dialogue: 0,0:15:53.64,0:15:56.06,Default,Sunraku,0,0,0,,The main body with the staff!
+Dialogue: 0,0:16:05.40,0:16:07.15,Default,Sunraku,0,0,0,,Get to work, Emul!
+Dialogue: 0,0:16:07.74,0:16:10.70,Default,Emul,0,0,0,,Doing what?!
+Dialogue: 0,0:16:14.87,0:16:17.29,Default,Sunraku,0,0,0,,Finishing it off, duh!
+Dialogue: 0,0:16:19.04,0:16:21.34,Default,Emul,0,0,0,,Magic Edge!
+Dialogue: 0,0:16:23.38,0:16:24.96,Default,Sunraku,0,0,0,,Nice work, Emul!
+Dialogue: 0,0:16:25.71,0:16:26.47,Default,Sunraku,0,0,0,,Skill...
+Dialogue: 0,0:16:28.43,0:16:30.43,Default,Sunraku,0,0,0,,Glowing Pierce!
+Dialogue: 0,0:16:33.60,0:16:36.93,Default,Sunraku,0,0,0,,Yeah, figures I couldn't finish \Nthe main body off by myself.
+Dialogue: 0,0:16:37.94,0:16:40.44,Default,Bilac,0,0,0,,You held out well, Decapitator.
+Dialogue: 0,0:16:41.23,0:16:42.65,Default,Bilac,0,0,0,,Sorry...
+Dialogue: 0,0:16:42.65,0:16:44.94,Default,Bilac,0,0,0,,But hang in there for one more hit!
+Dialogue: 0,0:16:46.28,0:16:48.36,Default,Sunraku,0,0,0,,Finish it off, Bilac!
+Dialogue: 0,0:16:49.03,0:16:50.78,Default,Sunraku,0,0,0,,Six-Boat Leap!
+Dialogue: 0,0:16:50.78,0:16:53.78,Default,Bilac,0,0,0,,All right, here I go!
+Dialogue: 0,0:16:54.20,0:16:56.12,Default,Bilac,0,0,0,,Material Focus...
+Dialogue: 0,0:16:56.87,0:16:59.16,Default,Bilac,0,0,0,,into...
+Dialogue: 0,0:16:59.16,0:17:01.75,Default,Bilac,0,0,0,,Fortress Breaker!
+Dialogue: 0,0:17:14.35,0:17:16.18,Default,Sunraku,0,0,0,,Hell yeah!
+Dialogue: 0,0:17:16.18,0:17:17.10,Default,Sunraku,0,0,0,,The Human...
+Dialogue: 0,0:17:17.10,0:17:20.98,Default,Sunraku,0,0,0,,{\an8}No, the {\i1}Rabbit{\i0} Pile Bunker did the job!
+Dialogue: 0,0:17:21.65,0:17:24.65,Default,Sunraku,0,0,0,,After I heard Katzo and Pencilgon \Ntalk about the battle with Kirin...
+Dialogue: 0,0:17:25.15,0:17:28.24,Default,Sunraku,0,0,0,,I always wanted to try that one out!
+Dialogue: 0,0:17:31.95,0:17:32.95,Default,Sunraku,0,0,0,,Ow!
+Dialogue: 0,0:17:36.37,0:17:39.33,Default,Sunraku,0,0,0,,You idiot! You almost killed me!
+Dialogue: 0,0:17:39.33,0:17:42.29,Default,Emul,0,0,0,,You're the one who threw \Nme up there, Sunraku-san!
+Dialogue: 0,0:17:42.29,0:17:44.04,Default,Bilac,0,0,0,,Quit goofing around, you two!
+Dialogue: 0,0:17:48.71,0:17:51.09,Default,Bilac,0,0,0,,Looks like I might still \Nbe able to patch you up.
+Dialogue: 0,0:17:51.09,0:17:53.68,Default,Bilac,0,0,0,,Not right this moment, but...
+Dialogue: 0,0:17:54.09,0:17:56.81,Default,Bilac,0,0,0,,Hey, you guys! Hurry us up to Eighthold!
+Dialogue: 0,0:17:56.81,0:18:01.14,Default,Sunraku,0,0,0,,C'mon, at least let me \Nleisurely browse my loot!
+Dialogue: 0,0:18:01.14,0:18:04.60,Default,Sunraku,0,0,0,,Sounds like this item's for Shaman stuff, though.
+Dialogue: 0,0:18:04.60,0:18:06.32,Default,Sunraku,0,0,0,,Can't think of how I'd use it.
+Dialogue: 0,0:18:09.94,0:18:12.82,Default,Sunraku,0,0,0,,Is it just me, or has the fog started lifting?
+Dialogue: 0,0:18:12.82,0:18:15.32,Default,Emul,0,0,0,,Naturally, as the source \Nof the miasma is slain.
+Dialogue: 0,0:18:19.79,0:18:23.08,Default,Emul,0,0,0,,Sunraku-san. I feel like you're \Nthinking something terribly wicked.
+Dialogue: 0,0:18:23.08,0:18:25.67,Default,Sunraku,0,0,0,,Heavens! Perish the thought!
+Dialogue: 0,0:18:25.67,0:18:27.21,Default,Bilac,0,0,0,,What's the matter with you?
+Dialogue: 0,0:18:27.21,0:18:28.75,Default,Bilac,0,0,0,,Let's get going already!
+Dialogue: 0,0:18:51.78,0:18:56.62,Default,Sunraku,0,0,0,,Okay, now I can use Emul's gates to come \Nand go between Rabituza and Eighthold.
+Dialogue: 0,0:18:56.87,0:18:58.62,Default,Bilac,0,0,0,,So, what's the next move?
+Dialogue: 0,0:18:58.62,0:19:00.66,Default,Bilac,0,0,0,,I'd like to head back to Rabituza for a bit
+Dialogue: 0,0:19:00.66,0:19:04.29,Default,Bilac,0,0,0,,and get the Dullahan General's \NDecapitator fixed up, myself.
+Dialogue: 0,0:19:04.29,0:19:05.87,Default,Sunraku,0,0,0,,Good idea.
+Dialogue: 0,0:19:06.21,0:19:08.88,Default,Sunraku,0,0,0,,Maybe we'll break up and \Ntake a rest for now, then.
+Dialogue: 0,0:19:08.88,0:19:10.92,Default,Sunraku,0,0,0,,Emul, you should wait in Rabituza, too.
+Dialogue: 0,0:19:10.92,0:19:12.88,Default,Emul,0,0,0,,What? But why?!
+Dialogue: 0,0:19:13.26,0:19:17.14,Default,Sunraku,0,0,0,,I just got to a new city. \NI wanna have a look around.
+Dialogue: 0,0:19:17.14,0:19:20.89,Default,Sunraku,0,0,0,,And your disguises are kinda haute couture. \NThey make me stand out even more.
+Dialogue: 0,0:19:22.14,0:19:24.06,Default,Emul,0,0,0,,I'm not sure I believe you.
+Dialogue: 0,0:19:24.06,0:19:26.77,Default,Sunraku,0,0,0,,I'll buy you carrots while I'm here.
+Dialogue: 0,0:19:26.77,0:19:27.94,Default,Emul,0,0,0,,Carrots?!
+Dialogue: 0,0:19:28.52,0:19:33.28,Default,Emul,0,0,0,,Th-Then... If we must!
+Dialogue: 0,0:19:33.61,0:19:36.49,Default,Emul,0,0,0,,But you mustn't do anything reckless!
+Dialogue: 0,0:19:36.49,0:19:38.28,Default,Sunraku,0,0,0,,Hey, no worries!
+Dialogue: 0,0:19:38.66,0:19:41.79,Default,Emul,0,0,0,,Promise me! You will {\i1}not{\i0} be reckless!
+Dialogue: 0,0:19:41.79,0:19:45.04,Default,Sunraku,0,0,0,,Seriously, I'm fine! Just get going!
+Dialogue: 0,0:19:56.22,0:19:58.47,Default,Sunraku,0,0,0,,Don't be reckless, huh?
+Dialogue: 0,0:20:00.68,0:20:05.48,Default,Sunraku,0,0,0,,Human nature says, when someone says \N"don't do that," you totally do it!
+Dialogue: 0,0:20:14.28,0:20:16.19,Default,Sunraku,0,0,0,,That's the story of Pandora's Box, too.
+Dialogue: 0,0:20:18.95,0:20:24.45,Default,Sunraku,0,0,0,,I think Zeus gave Pandora that box, \Nknowing she'd open it.
+Dialogue: 0,0:20:25.62,0:20:29.46,Default,Sunraku,0,0,0,,Even when we know it's gonna unleash \Nall the world's misfortunes...
+Dialogue: 0,0:20:29.88,0:20:31.71,Default,Sunraku,0,0,0,,We just gotta open it!
+Dialogue: 0,0:20:31.71,0:20:33.75,Default,Sunraku,0,0,0,,That's what it means to be human!
+Dialogue: 0,0:20:43.93,0:20:47.98,Default,Sunraku,0,0,0,,Okay, let's get climbing!
+Dialogue: 0,0:20:51.52,0:20:55.23,Default,Sunraku,0,0,0,,Wait for me, Crystal Scorpions!

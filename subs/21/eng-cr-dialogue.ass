@@ -1,0 +1,337 @@
+﻿[Script Info]
+Title: English (US)
+ScaledBorderAndShadow: yes
+Original Script: kodansha  [http://www.crunchyroll.com/user/kodansha]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+LayoutResX: 1920
+LayoutResY: 1080
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+Style: Flashback,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00013E12,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.90,0:00:06.78,Default,Narrator,0,0,0,,This world is filled with \Ntoo many games to count,
+Dialogue: 0,0:00:07.99,0:00:12.08,Default,Narrator,0,0,0,,though the vast majority simply \Ncome and go in obscurity.
+Dialogue: 0,0:00:13.58,0:00:16.41,Default,Narrator,0,0,0,,The greatest of all games
+Dialogue: 0,0:00:16.41,0:00:21.71,Default,Narrator,0,0,0,,is the fully immersive VR game boasting \Nover 30 million players worldwide—
+Dialogue: 0,0:00:21.71,0:00:26.34,Default,Narrator,0,0,0,,{\i0}Shangri-La Frontier{\i1}, which rightly \Nearns the title of "god-tier game"!
+Dialogue: 0,0:00:28.01,0:00:31.93,Default,Narrator,0,0,0,,One lover of trash games, Rakuro Hizutome,
+Dialogue: 0,0:00:31.93,0:00:35.18,Default,Narrator,0,0,0,,is trying out the god-tier \Ngame, {\i0}Shangri-La Frontier{\i1}!
+Dialogue: 0,0:00:35.93,0:00:40.65,Default,Narrator,0,0,0,,What adventures await him there?
+Dialogue: 0,0:02:14.41,0:02:16.78,Default,Girl,0,0,0,,{\i1\an8}Okay, let's move on to fortunes.
+Dialogue: 0,0:02:16.78,0:02:19.20,Default,Girl,0,0,0,,{\i1\an8}Number one star sign is...
+Dialogue: 0,0:02:19.20,0:02:22.12,Default,Girl,0,0,0,,{\i1\an8}Gemini! You have the best luck today.
+Dialogue: 0,0:02:22.12,0:02:25.29,Default,Girl,0,0,0,,{\i1\an8}Your lucky item is roller skates.
+Dialogue: 0,0:02:25.29,0:02:29.25,Default,Girl,0,0,0,,{\i1\an8}Gosh, I wish I could ride \Nroller skates to school!
+Dialogue: 0,0:02:29.25,0:02:33.97,Default,Girl,0,0,0,,{\i1\an8}But where would I get some?
+Dialogue: 0,0:02:30.42,0:02:34.72,Default,Kei,0,0,0,,Gotta say, it's one well made game...
+Dialogue: 0,0:02:35.51,0:02:37.72,Default,Kei,0,0,0,,{\i1}Shangri-La Frontier.{\i0}
+Dialogue: 0,0:02:41.10,0:02:44.60,Default,Kei,0,0,0,,I'd originally meant it to \Njust kill a little time.
+Dialogue: 0,0:02:47.65,0:02:48.73,Default,Kei,0,0,0,,But...
+Dialogue: 0,0:02:50.90,0:02:55.36,Default,Kei,0,0,0,,The thought of them enjoying it \Nwithout me really ticks me off!
+Dialogue: 0,0:02:56.28,0:03:00.54,Default,Kei,0,0,0,,Still, there's just a week \Nuntil the big tournament,
+Dialogue: 0,0:03:00.54,0:03:03.04,Default,Kei,0,0,0,,so I'd better work out the last of the kinks.
+Dialogue: 0,0:03:07.67,0:03:11.67,Default,Sunraku,0,0,0,,Check out Inventoria Key ASAP, man!
+Dialogue: 0,0:03:15.38,0:03:16.63,Default,Kei,0,0,0,,Scratch that.
+Dialogue: 0,0:03:16.63,0:03:20.81,Default,Kei,0,0,0,,I really can't bear to \Nlet them get ahead of me!
+Dialogue: 0,0:03:34.90,0:03:35.90,Default,Kei,0,0,0,,Okay!
+Dialogue: 0,0:03:40.62,0:03:41.99,Default,Sunraku,0,0,0,,Did you see it?
+Dialogue: 0,0:03:41.99,0:03:45.33,Default,Sunraku,0,0,0,,That awesome sci-fi armor lineup?!
+Dialogue: 0,0:03:45.71,0:03:50.25,Default,Sunraku,0,0,0,,I could take on the entire \N{\i1}SLF{\i0} playerbase with that!
+Dialogue: 0,0:03:50.25,0:03:51.59,Default,Oikatzo,0,0,0,,Yeah, I saw it!
+Dialogue: 0,0:03:51.59,0:03:54.84,Default,Oikatzo,0,0,0,,If you could use that stuff, it'd change up\Nthe whole game, for real!
+Dialogue: 0,0:03:54.84,0:03:55.63,Default,Sunraku,0,0,0,,Yeah!
+Dialogue: 0,0:03:55.63,0:03:57.59,Default,Sunraku,0,0,0,,So, what now? What now?!
+Dialogue: 0,0:03:57.59,0:03:59.72,Default,Pencilgon,0,0,0,,Well, about that...
+Dialogue: 0,0:04:01.55,0:04:07.56,Default,Pencilgon,0,0,0,,Before I came here, I went into the storage \Nspace and checked a few things out.
+Dialogue: 0,0:04:07.56,0:04:08.69,Default,Both,0,0,0,,And?!
+Dialogue: 0,0:04:09.40,0:04:11.69,Default,Pencilgon,0,0,0,,My conclusion is...
+Dialogue: 0,0:04:14.98,0:04:18.78,Default,Pencilgon,0,0,0,,At the moment, they're not useful \Nas anything more than art pieces.
+Dialogue: 0,0:04:24.16,0:04:26.91,Default,Pencilgon,0,0,0,,Those tactical machines and power armors
+Dialogue: 0,0:04:26.91,0:04:31.67,Default,Pencilgon,0,0,0,,seem to require a power source called \Na "Non-Standard Ether Reactor,"
+Dialogue: 0,0:04:31.67,0:04:37.09,Default,Pencilgon,0,0,0,,an item I've never heard of \Nand have no idea where to get.
+Dialogue: 0,0:04:39.01,0:04:44.18,Default,Pencilgon,0,0,0,,And you can't use the weapons \Nwithout the power armor on, so...
+Dialogue: 0,0:04:44.39,0:04:45.81,Default,Sunraku,0,0,0,,No way!
+Dialogue: 0,0:04:45.81,0:04:48.56,Default,Sunraku,0,0,0,,I got so excited, I didn't dig any deeper...
+Dialogue: 0,0:04:48.77,0:04:52.61,Default,Oikatzo,0,0,0,,Actually, I've got a \NNon-Standard Ether Reactor.
+Dialogue: 0,0:04:53.31,0:04:54.07,Default,Sunraku,0,0,0,,Gross!
+Dialogue: 0,0:04:55.78,0:04:57.74,Default,Pencilgon,0,0,0,,Where the hell did you get that?!
+Dialogue: 0,0:04:57.74,0:05:01.16,Default,Oikatzo,0,0,0,,Maybe it's 'cause I did most \Nof the fighting against Kirin,
+Dialogue: 0,0:05:01.16,0:05:03.24,Default,Oikatzo,0,0,0,,but I got it in my loot.
+Dialogue: 0,0:05:04.58,0:05:07.37,Default,Pencilgon,0,0,0,,I underestimated you, Mr. Bondage Rodeo!
+Dialogue: 0,0:05:07.37,0:05:10.41,Default,Sunraku,0,0,0,,Damn it! Wish I coulda seen that rodeo.
+Dialogue: 0,0:05:10.41,0:05:12.83,Default,Sunraku,0,0,0,,It's my one regret of the Wethermon fight...
+Dialogue: 0,0:05:13.08,0:05:17.09,Default,Oikatzo,0,0,0,,It seems like it's damaged, though.
+Dialogue: 0,0:05:17.09,0:05:19.47,Default,Pencilgon,0,0,0,,You can't fix it at a shop?
+Dialogue: 0,0:05:19.47,0:05:23.14,Default,Oikatzo,0,0,0,,The blacksmiths I went to all \Nturned me away at the door.
+Dialogue: 0,0:05:23.14,0:05:26.22,Default,Oikatzo,0,0,0,,"I can't fix a thing if I've \Ngot no idea what it is."
+Dialogue: 0,0:05:26.22,0:05:29.27,Default,Pencilgon,0,0,0,,Yeah, being a Divinity-era relic and all...
+Dialogue: 0,0:05:29.52,0:05:32.69,Default,Pencilgon,0,0,0,,We might need a specialized blacksmith.
+Dialogue: 0,0:05:32.69,0:05:34.65,Default,Pencilgon,0,0,0,,Or a special item...
+Dialogue: 0,0:05:35.40,0:05:37.02,Default,Pencilgon,0,0,0,,Either way, I'm stumped.
+Dialogue: 0,0:05:39.15,0:05:41.45,Default,Sunraku,0,0,0,,I might know a way to get it fixed.
+Dialogue: 0,0:05:43.11,0:05:45.70,Default,Sunraku,0,0,0,,Hey! You did that on purpose!
+Dialogue: 0,0:05:46.53,0:05:49.12,Default,Oikatzo,0,0,0,,Hey, are you serious about that?
+Dialogue: 0,0:05:49.12,0:05:51.16,Default,Sunraku,0,0,0,,Well, no guarantees.
+Dialogue: 0,0:05:51.16,0:05:54.46,Default,Sunraku,0,0,0,,And since it involves a unique scenario, \Nit might be hard to get you there.
+Dialogue: 0,0:05:55.04,0:05:58.59,Default,Sunraku,0,0,0,,I was hoping you'd let me \Nborrow that item of yours.
+Dialogue: 0,0:06:01.22,0:06:02.51,Default,Oikatzo,0,0,0,,Okay.
+Dialogue: 0,0:06:02.97,0:06:05.14,Default,Oikatzo,0,0,0,,Or so I'd like to say...
+Dialogue: 0,0:06:05.14,0:06:06.47,Default,Oikatzo,0,0,0,,But I've got a condition.
+Dialogue: 0,0:06:07.51,0:06:11.81,Default,Oikatzo,0,0,0,,I wanna know the unlock conditions for \Nthat unique scenario you're hiding.
+Dialogue: 0,0:06:13.52,0:06:15.23,Default,Pencilgon,0,0,0,,Come on, Katzo.
+Dialogue: 0,0:06:15.23,0:06:18.65,Default,Oikatzo,0,0,0,,I mean, it's not like I'm \Ntriggering my own unique stuff!
+Dialogue: 0,0:06:18.65,0:06:21.61,Default,Oikatzo,0,0,0,,I gotta piggyback on everyone else's stuff!
+Dialogue: 0,0:06:21.61,0:06:24.24,Default,Pencilgon,0,0,0,,You sulk about the most annoying things.
+Dialogue: 0,0:06:24.91,0:06:28.78,Default,Pencilgon,0,0,0,,{\i1}In {\i0}SLF{\i1}, information on uniques \Nis extremely valuable.
+Dialogue: 0,0:06:29.33,0:06:32.25,Default,Pencilgon,0,0,0,,{\i1}Even more so for those with monopolies on it.
+Dialogue: 0,0:06:33.04,0:06:37.25,Default,Pencilgon,0,0,0,,{\i1}The three of us didn't come together \Npurely out of a sense of camaraderie.
+Dialogue: 0,0:06:37.96,0:06:42.09,Default,Pencilgon,0,0,0,,{\i1}To protect our own profits, \Nwe won't share information easily.
+Dialogue: 0,0:06:42.09,0:06:46.43,Default,Pencilgon,0,0,0,,{\i1}And... the same goes for Katzo-kun.
+Dialogue: 0,0:06:49.10,0:06:51.93,Default,Sunraku,0,0,0,,It's not like it showed me the \Nconditions when I unlocked it,
+Dialogue: 0,0:06:52.77,0:06:55.48,Default,Sunraku,0,0,0,,so I can only explain my \Nown situation at the time.
+Dialogue: 0,0:06:55.48,0:06:56.60,Default,Sunraku,0,0,0,,Is that enough?
+Dialogue: 0,0:06:57.52,0:06:58.52,Default,Oikatzo,0,0,0,,You mean it?
+Dialogue: 0,0:06:58.52,0:07:01.11,Default,Sunraku,0,0,0,,Don't act so shocked. \NYou're the one who asked.
+Dialogue: 0,0:07:01.61,0:07:03.69,Default,Sunraku,0,0,0,,I didn't wanna reveal this stuff,
+Dialogue: 0,0:07:03.69,0:07:05.70,Default,Sunraku,0,0,0,,but you want a show of good faith, right?
+Dialogue: 0,0:07:06.16,0:07:09.95,Default,Sunraku,0,0,0,,And like I just said, I don't have any \Nproof that these are the conditions.
+Dialogue: 0,0:07:13.87,0:07:17.08,Default,Sunraku,0,0,0,,All right, here I go.
+Dialogue: 0,0:07:18.17,0:07:19.50,Default,Sunraku,0,0,0,,What I did was...
+Dialogue: 0,0:07:25.68,0:07:29.55,Flashback,Voice,0,0,0,,Unique monster, Lycagon the\NNightslayer, encountered.
+Dialogue: 0,0:07:29.93,0:07:32.97,Flashback,Sunraku,0,0,0,,Unique... monster?
+Dialogue: 0,0:07:35.18,0:07:36.81,Default,Sunraku,0,0,0,,At level 20 or less,
+Dialogue: 0,0:07:37.56,0:07:40.11,Default,Sunraku,0,0,0,,I lasted five minutes without taking damage
+Dialogue: 0,0:07:40.11,0:07:43.69,Default,Sunraku,0,0,0,,against the randomly encountered unique \Nmonster, Lycagon the Nightslayer,
+Dialogue: 0,0:07:44.07,0:07:48.36,Default,Sunraku,0,0,0,,then landed around 200 critical \Nhits with a vorpal weapon.
+Dialogue: 0,0:07:49.57,0:07:51.49,Default,Oikatzo,0,0,0,,You expect me to do that?!
+Dialogue: 0,0:07:51.49,0:07:53.91,Default,Oikatzo,0,0,0,,You acrobatic asshole!
+Dialogue: 0,0:07:54.70,0:07:56.58,Default,Sunraku,0,0,0,,What are you mad at me for?!
+Dialogue: 0,0:07:56.58,0:07:59.00,Default,Pencilgon,0,0,0,,It's like if he asked you how you fly,
+Dialogue: 0,0:07:59.00,0:08:02.13,Default,Pencilgon,0,0,0,,and you told him to work out his pecs!
+Dialogue: 0,0:08:02.13,0:08:06.17,Default,Oikatzo,0,0,0,,You think there's no harm in telling me \Nbecause there's no chance I'll do it, right?!
+Dialogue: 0,0:08:06.17,0:08:07.72,Default,Sunraku,0,0,0,,Hey, this isn't fair!
+Dialogue: 0,0:08:07.72,0:08:09.43,Default,Sunraku,0,0,0,,I gave you a genuine answer!
+Dialogue: 0,0:08:09.43,0:08:10.80,Default,Oikatzo,0,0,0,,Fine, whatever!
+Dialogue: 0,0:08:10.80,0:08:12.89,Default,Oikatzo,0,0,0,,Just take the stupid thing already.
+Dialogue: 0,0:08:12.89,0:08:13.68,Default,Sunraku,0,0,0,,Hey!
+Dialogue: 0,0:08:13.93,0:08:16.56,Default,Pencilgon,0,0,0,,Oh, right. Sunraku-kun...
+Dialogue: 0,0:08:17.02,0:08:17.94,Default,Sunraku,0,0,0,,What now?
+Dialogue: 0,0:08:18.19,0:08:21.44,Default,Pencilgon,0,0,0,,Could I get back that thing I left with you?
+Dialogue: 0,0:08:22.57,0:08:23.90,Default,Oikatzo,0,0,0,,What thing?
+Dialogue: 0,0:08:23.90,0:08:26.36,Default,Sunraku,0,0,0,,Oh, right. Forgot I hadn't done that.
+Dialogue: 0,0:08:27.61,0:08:29.32,Flashback,Pencilgon,0,0,0,,Hey, Sunraku-kun.
+Dialogue: 0,0:08:30.95,0:08:33.74,Flashback,Pencilgon,0,0,0,,Could you hang onto this for a while?
+Dialogue: 0,0:08:35.24,0:08:37.16,Flashback,Sunraku,0,0,0,,Um, sure.
+Dialogue: 0,0:08:47.13,0:08:50.55,Default,Oikatzo,0,0,0,,That thing you were messing with \Nin the Wethermon fight, right?
+Dialogue: 0,0:08:50.55,0:08:52.05,Default,Oikatzo,0,0,0,,You said you'd borrowed it, right?
+Dialogue: 0,0:08:54.14,0:08:58.35,Default,Pencilgon,0,0,0,,From an NPC organization \Ncalled the Golden Scales.
+Dialogue: 0,0:08:58.35,0:09:03.40,Default,Pencilgon,0,0,0,,I think it's part of one of the highest \Nclasses of items in all {\i1}Shangri-La Frontier{\i0}.
+Dialogue: 0,0:09:04.15,0:09:05.86,Default,Pencilgon,0,0,0,,Theoretically, if you throw in enough money,
+Dialogue: 0,0:09:05.86,0:09:09.53,Default,Pencilgon,0,0,0,,you can get stats even higher \Nthan those of a unique monster.
+Dialogue: 0,0:09:10.03,0:09:13.16,Default,Pencilgon,0,0,0,,You'd need the budget of a small \Ncountry to do it, of course.
+Dialogue: 0,0:09:13.49,0:09:16.91,Default,Pencilgon,0,0,0,,It seems the Inventoria can't \Nbe removed once it's equipped,
+Dialogue: 0,0:09:16.91,0:09:19.54,Default,Pencilgon,0,0,0,,so I'd expected it to be sold off...
+Dialogue: 0,0:09:19.54,0:09:21.46,Default,Oikatzo,0,0,0,,What? Really?
+Dialogue: 0,0:09:21.46,0:09:25.80,Default,Oikatzo,0,0,0,,Right, they did mention it \Nbecoming a part of your body...
+Dialogue: 0,0:09:26.30,0:09:31.30,Default,Pencilgon,0,0,0,,Fortunately, it doesn't seem to have been \Ntaken, even as part of the PKK penalty.
+Dialogue: 0,0:09:31.68,0:09:36.56,Default,Pencilgon,0,0,0,,But this is the one thing I didn't \Nwant to lose, so I laundered it.
+Dialogue: 0,0:09:36.76,0:09:38.10,Default,Both,0,0,0,,Laundered it?
+Dialogue: 0,0:09:38.56,0:09:42.31,Default,Pencilgon,0,0,0,,A little trick to keep your items \Nfrom being lost to the penalty.
+Dialogue: 0,0:09:42.85,0:09:45.36,Default,Pencilgon,0,0,0,,The penalty for PKing means \Nthat when you're killed,
+Dialogue: 0,0:09:45.36,0:09:48.57,Default,Pencilgon,0,0,0,,ownership of your items transfers \Nto the person who killed you.
+Dialogue: 0,0:09:48.57,0:09:53.32,Default,Pencilgon,0,0,0,,And you have to pay a fee in proportion \Nto your wrongdoing—your karma points.
+Dialogue: 0,0:09:54.07,0:09:59.25,Default,Pencilgon,0,0,0,,I think it sets your affection levels from \Nmost NPCs to the lowest level possible,
+Dialogue: 0,0:09:59.25,0:10:00.58,Default,Pencilgon,0,0,0,,too, but that's fine.
+Dialogue: 0,0:10:00.91,0:10:03.83,Default,Pencilgon,0,0,0,,The fee this time was pretty annoying.
+Dialogue: 0,0:10:04.29,0:10:07.67,Flashback,Pencilgon,0,0,0,,Oh, no!
+Dialogue: 0,0:10:07.67,0:10:10.92,Default,Pencilgon,0,0,0,,When you're killed, \Neven items kept in storage will be
+Dialogue: 0,0:10:10.92,0:10:15.39,Default,Pencilgon,0,0,0,,automatically seized and sold off\Nto help pay off the fee.
+Dialogue: 0,0:10:15.97,0:10:19.97,Default,Pencilgon,0,0,0,,Protecting certain items from this \Nseizure is called "laundering."
+Dialogue: 0,0:10:20.22,0:10:22.10,Default,Oikatzo,0,0,0,,So instead of putting them in storage,
+Dialogue: 0,0:10:22.10,0:10:25.52,Default,Oikatzo,0,0,0,,you gave them to Sunraku \Nbefore Psyger-0 killed you?
+Dialogue: 0,0:10:25.52,0:10:27.23,Default,Sunraku,0,0,0,,You can actually do that?
+Dialogue: 0,0:10:27.23,0:10:28.48,Default,Sunraku,0,0,0,,Seems like a pretty big exploit...
+Dialogue: 0,0:10:28.73,0:10:31.65,Default,Pencilgon,0,0,0,,No. Even if you hand over the item,
+Dialogue: 0,0:10:31.65,0:10:34.24,Default,Pencilgon,0,0,0,,it'll still search through \Nyour history and sell it off.
+Dialogue: 0,0:10:34.24,0:10:35.24,Default,Oikatzo,0,0,0,,Huh?
+Dialogue: 0,0:10:35.24,0:10:37.91,Default,Oikatzo,0,0,0,,Then why didn't the Scales go away?
+Dialogue: 0,0:10:39.12,0:10:40.74,Default,Pencilgon,0,0,0,,The Scales aren't really mine.
+Dialogue: 0,0:10:40.74,0:10:45.33,Default,Pencilgon,0,0,0,,Their ownership fundamentally \Nlies with The Golden Scales.
+Dialogue: 0,0:10:46.13,0:10:47.79,Default,Pencilgon,0,0,0,,What matters here is that
+Dialogue: 0,0:10:47.79,0:10:52.51,Default,Pencilgon,0,0,0,,items you don't have ownership of \Nwon't be automatically sold off.
+Dialogue: 0,0:10:52.76,0:10:57.18,Default,Pencilgon,0,0,0,,But you can't transfer ownership just \Nby handing an item to someone else.
+Dialogue: 0,0:10:57.51,0:11:02.89,Default,Pencilgon,0,0,0,,So when Psyger-0 killed me, \Neven if I'd been carrying the Scales,
+Dialogue: 0,0:11:07.02,0:11:10.48,Default,Pencilgon,0,0,0,,their ownership by The Golden \NScales wouldn't have changed.
+Dialogue: 0,0:11:10.48,0:11:14.28,Default,Pencilgon,0,0,0,,So they wouldn't have been sold off; \Nthey'd probably just be dropped as an object.
+Dialogue: 0,0:11:14.61,0:11:18.53,Default,Sunraku,0,0,0,,I think I get the idea, \Nbut how's that laundering?
+Dialogue: 0,0:11:18.53,0:11:22.12,Default,Sunraku,0,0,0,,Isn't it just the Scales falling \Noutside the standard penalty purview?
+Dialogue: 0,0:11:23.29,0:11:27.04,Default,Pencilgon,0,0,0,,You can exploit that property to \Ndo some very interesting things.
+Dialogue: 0,0:11:28.00,0:11:30.25,Default,Pencilgon,0,0,0,,"The scales preserve the balance.
+Dialogue: 0,0:11:30.25,0:11:33.30,Default,Pencilgon,0,0,0,,Let the past be my payment, \Nand return what has been offered."
+Dialogue: 0,0:11:43.64,0:11:47.19,Default,Sunraku,0,0,0,,That's the Tome of Truth and... \NWhat's the flower thing?
+Dialogue: 0,0:11:47.98,0:11:50.36,Default,Pencilgon,0,0,0,,My loot from the Wethermon fight.
+Dialogue: 0,0:11:50.69,0:11:54.57,Default,Pencilgon,0,0,0,,Looks like the three of us each \Ngot slightly different items.
+Dialogue: 0,0:11:56.82,0:12:00.41,Flashback,Sunraku,0,0,0,,Let's see... "Clear Sky Skillbook"?
+Dialogue: 0,0:12:00.91,0:12:07.79,Default,Pencilgon,0,0,0,,I offered the Flower Pin of Bygone Prayers \Nand the Tome of Truth to the Scales.
+Dialogue: 0,0:12:07.79,0:12:12.42,Default,Pencilgon,0,0,0,,In that instant, ownership of the \NPin transferred to the Scales,
+Dialogue: 0,0:12:12.42,0:12:16.30,Default,Pencilgon,0,0,0,,which meant they no longer \Nhad physical existence.
+Dialogue: 0,0:12:16.88,0:12:20.51,Default,Sunraku,0,0,0,,So they couldn't be seized?
+Dialogue: 0,0:12:20.51,0:12:21.22,Default,Pencilgon,0,0,0,,Right.
+Dialogue: 0,0:12:21.22,0:12:24.06,Default,Oikatzo,0,0,0,,And it actually let you get 'em back?
+Dialogue: 0,0:12:24.06,0:12:27.81,Default,Pencilgon,0,0,0,,If you pay the price within one week, \Nyou can retrieve the items.
+Dialogue: 0,0:12:28.39,0:12:31.81,Default,Pencilgon,0,0,0,,Of course, I had to give up \N40 levels to make it happen...
+Dialogue: 0,0:12:33.32,0:12:36.82,Default,Pencilgon,0,0,0,,But if it means I get to keep this pin, \NI won't miss them.
+Dialogue: 0,0:12:40.32,0:12:43.91,Default,Pencilgon,0,0,0,,On top of that, in order \Nto rent out these Scales,
+Dialogue: 0,0:12:43.91,0:12:45.83,Default,Pencilgon,0,0,0,,I used my main weapon as collateral!
+Dialogue: 0,0:12:46.12,0:12:51.00,Default,Pencilgon,0,0,0,,The Scales' power transferred its ownership \Nto the organization, so it's also safe!
+Dialogue: 0,0:12:53.13,0:12:56.71,Default,Sunraku,0,0,0,,So much for wiping the slate \Nclean on your crimes...
+Dialogue: 0,0:12:56.71,0:12:58.47,Default,Oikatzo,0,0,0,,So, how much was the fee?
+Dialogue: 0,0:12:58.47,0:13:00.18,Default,Pencilgon,0,0,0,,A good 500 million mahni.
+Dialogue: 0,0:13:00.18,0:13:01.26,Default,Sunraku,0,0,0,,You won't get it outta me.
+Dialogue: 0,0:13:01.26,0:13:02.89,Default,Pencilgon,0,0,0,,I don't need to borrow it.
+Dialogue: 0,0:13:02.89,0:13:04.93,Default,Pencilgon,0,0,0,,I can totally afford it.
+Dialogue: 0,0:13:05.39,0:13:08.10,Default,Pencilgon,0,0,0,,The most recent fight proved it to me.
+Dialogue: 0,0:13:08.10,0:13:08.98,Default,Sunraku,0,0,0,,Proved what?
+Dialogue: 0,0:13:10.52,0:13:12.98,Default,Pencilgon,0,0,0,,Hunting unique monsters is \Na profitable enterprise.
+Dialogue: 0,0:13:14.94,0:13:16.98,Default,Sunraku,0,0,0,,As simple as that, huh?
+Dialogue: 0,0:13:18.07,0:13:21.24,Default,Pencilgon,0,0,0,,On that point, I have a proposal.
+Dialogue: 0,0:13:23.20,0:13:24.74,Default,Pencilgon,0,0,0,,Would you two like...
+Dialogue: 0,0:13:26.08,0:13:28.00,Default,Pencilgon,0,0,0,,to form a clan with me?
+Dialogue: 0,0:13:47.56,0:13:48.35,Default,Pencilgon,0,0,0,,Rock...
+Dialogue: 0,0:13:48.35,0:13:49.39,Default,Oikatzo,0,0,0,,Paper...
+Dialogue: 0,0:13:49.39,0:13:51.06,Default,Trio,0,0,0,,Scissors!
+Dialogue: 0,0:13:52.60,0:13:55.02,Default,Both,0,0,0,,Yeah! Pencilgon loses!
+Dialogue: 0,0:13:55.02,0:13:58.48,Default,Sunraku,0,0,0,,That means Pencilgon's our clan leader!
+Dialogue: 0,0:13:58.48,0:13:59.82,Default,Oikatzo,0,0,0,,Oh, yeah!
+Dialogue: 0,0:14:01.03,0:14:02.91,Default,Pencilgon,0,0,0,,Best out of three!
+Dialogue: 0,0:14:02.91,0:14:04.28,Default,Both,0,0,0,,Nothing doing!
+Dialogue: 0,0:14:05.03,0:14:09.62,Default,Pencilgon,0,0,0,,I should've known I couldn't beat\Ntheir reaction speed...
+Dialogue: 0,0:14:09.62,0:14:11.96,Default,Both,0,0,0,,Just figuring that out, are you?!
+Dialogue: 0,0:14:15.29,0:14:18.50,Default,Pencilgon,0,0,0,,I'm not cut out to be a \Nleader... but ah, well.
+Dialogue: 0,0:14:18.50,0:14:22.01,Default,Sunraku,0,0,0,,Okay, Leader!\NHere's your first job.
+Dialogue: 0,0:14:22.34,0:14:24.22,Default,Sunraku,0,0,0,,What should our clan name be?
+Dialogue: 0,0:14:32.89,0:14:33.60,Default,Pencilgon,0,0,0,,Okay.
+Dialogue: 0,0:14:34.77,0:14:37.48,Default,Pencilgon,0,0,0,,What about this one, then?
+Dialogue: 0,0:14:37.48,0:14:39.78,Default,Oikatzo,0,0,0,,Sounds good to me. Pretty cool.
+Dialogue: 0,0:14:39.78,0:14:44.07,Default,Sunraku,0,0,0,,I'd have been okay with \N"Pencilgon-chan and Her Errandboys," myself.
+Dialogue: 1,0:14:44.07,0:14:46.03,Default,Oikatzo,0,0,0,,I would not have.
+Dialogue: 0,0:14:46.78,0:14:48.24,Default,Pencilgon,0,0,0,,All right, my fellows.
+Dialogue: 0,0:14:48.24,0:14:50.66,Default,Pencilgon,0,0,0,,Let's ready our drinks.
+Dialogue: 0,0:14:51.08,0:14:54.96,Default,Pencilgon,0,0,0,,We will henceforth become \Nwolves venturing through the
+Dialogue: 0,0:14:54.96,0:14:58.63,Default,Pencilgon,0,0,0,,world of {\i1}Shangri-La Frontier {\i0}\Nin search of unique monsters—
+Dialogue: 0,0:14:59.09,0:15:02.59,Default,Pencilgon,0,0,0,,{\an8}And in celebration of Clan \NWolfgang's founding...
+Dialogue: 0,0:15:02.92,0:15:04.93,Default,Trio,0,0,0,,A toast!
+Dialogue: 0,0:15:10.97,0:15:14.10,Default,Oikatzo,0,0,0,,So, what'll our emblem be?
+Dialogue: 0,0:15:14.10,0:15:15.39,Default,Sunraku,0,0,0,,I think that one...
+Dialogue: 0,0:15:15.39,0:15:16.52,Default,Sunraku,0,0,0,,should be up to Pencilgon!
+Dialogue: 0,0:15:16.52,0:15:17.86,Default,Oikatzo,0,0,0,,Get to it, Leader!
+Dialogue: 0,0:15:17.86,0:15:20.11,Default,Pencilgon,0,0,0,,Stop making me do everything!
+Dialogue: 0,0:15:21.15,0:15:24.03,Default,Schwarz Vulf A,0,0,0,,Didn't know there was a pub back here...
+Dialogue: 0,0:15:24.03,0:15:26.07,Default,Pencilgon,0,0,0,,I figure it can just be whatever.
+Dialogue: 0,0:15:26.07,0:15:27.03,Default,Sunraku,0,0,0,,Same here.
+Dialogue: 0,0:15:27.03,0:15:28.24,Default,Oikatzo,0,0,0,,C'mon, man.
+Dialogue: 0,0:15:28.24,0:15:30.66,Default,Oikatzo,0,0,0,,If we're gonna make a guild, \Nat least think stuff over!
+Dialogue: 0,0:15:31.29,0:15:34.12,Default,Schwarz Vulf A,0,0,0,,Wow, there's basically no one here.
+Dialogue: 0,0:15:34.66,0:15:37.08,Default,Schwarz Vulf A,0,0,0,,Hey, you guys.
+Dialogue: 0,0:15:37.08,0:15:39.17,Default,Schwarz Vulf A,0,0,0,,I've got a question for you.
+Dialogue: 0,0:15:39.96,0:15:41.55,Default,Schwarz Vulf A,0,0,0,,I've been searching for the trio
+Dialogue: 0,0:15:41.55,0:15:45.17,Default,Schwarz Vulf A,0,0,0,,who beat the unique monster \Nfrom that recent announcement.
+Dialogue: 0,0:15:45.67,0:15:47.05,Default,Schwarz Vulf A,0,0,0,,Their names are
+Dialogue: 0,0:15:47.05,0:15:49.01,Default,Schwarz Vulf A,0,0,0,,Arthur Pencilgon,
+Dialogue: 0,0:15:49.01,0:15:51.26,Default,Schwarz Vulf A,0,0,0,,Oikatzo,
+Dialogue: 0,0:15:51.26,0:15:53.56,Default,Schwarz Vulf A,0,0,0,,and Sunraku...
+Dialogue: 0,0:15:58.06,0:16:01.40,Default,Trio,0,0,0,,Never heard of 'em!
+Dialogue: 0,0:16:01.40,0:16:02.27,Default,Schwarz Vulf A,0,0,0,,Hey!
+Dialogue: 0,0:16:02.27,0:16:05.32,Default,Sunraku,0,0,0,,Hey, Leader! \NI thought you rented the place out!
+Dialogue: 0,0:16:05.32,0:16:08.07,Default,Pencilgon,0,0,0,,I don't recall ever saying that!
+Dialogue: 0,0:16:08.07,0:16:11.07,Default,Pencilgon,0,0,0,,I just said barely anyone ever went there!
+Dialogue: 0,0:16:11.37,0:16:12.95,Default,Oikatzo,0,0,0,,Well, it's good timing.
+Dialogue: 0,0:16:12.95,0:16:14.79,Default,Oikatzo,0,0,0,,Let's call the meeting to a close.
+Dialogue: 0,0:16:14.79,0:16:17.54,Default,Oikatzo,0,0,0,,My level dropped, \Nthanks to the Evil Force and all,
+Dialogue: 0,0:16:17.54,0:16:19.71,Default,Oikatzo,0,0,0,,so I'd like to do some leveling, myself.
+Dialogue: 0,0:16:19.71,0:16:24.59,Default,Pencilgon,0,0,0,,Yeah, and I should turn in the \NScales and get my main weapon back.
+Dialogue: 0,0:16:24.92,0:16:27.63,Default,Pencilgon,0,0,0,,You handle the reactor stuff, Sunraku-kun!
+Dialogue: 0,0:16:27.63,0:16:28.59,Default,Sunraku,0,0,0,,You got it!
+Dialogue: 0,0:16:28.84,0:16:30.97,Default,Sunraku,0,0,0,,And you figure out that emblem!
+Dialogue: 0,0:16:30.97,0:16:32.14,Default,Oikatzo,0,0,0,,Later!
+Dialogue: 0,0:16:32.97,0:16:34.64,Default,Schwarz Vulf A,0,0,0,,They split up!
+Dialogue: 0,0:16:34.64,0:16:36.85,Default,Schwarz Vulf A,0,0,0,,Hey, player named Sunraku!
+Dialogue: 0,0:16:36.85,0:16:39.27,Default,Schwarz Vulf A,0,0,0,,Wait! Don't run away!
+Dialogue: 0,0:16:39.27,0:16:40.48,Default,Sunraku,0,0,0,,Terribly sorry!
+Dialogue: 0,0:16:40.48,0:16:43.23,Default,Sunraku,0,0,0,,My name's not Sunraku! It's Samraku!
+Dialogue: 0,0:16:43.23,0:16:44.73,Default,Schwarz Vulf A,0,0,0,,You liar!
+Dialogue: 0,0:16:46.15,0:16:47.61,Default,Sunraku,0,0,0,,Here we go!
+Dialogue: 0,0:16:50.61,0:16:52.24,Default,Sunraku,0,0,0,,I'm back, Emul!
+Dialogue: 0,0:16:52.99,0:16:54.24,Default,Sunraku,0,0,0,,Open a gate, would you?
+Dialogue: 0,0:16:57.50,0:16:59.67,Default,Emul,0,0,0,,You're late, Sunraku-san!
+Dialogue: 0,0:16:59.67,0:17:01.17,Default,Emul,0,0,0,,Positively tardy!
+Dialogue: 0,0:17:01.17,0:17:04.50,Default,Sunraku,0,0,0,,Now, now. I'll explain later.
+Dialogue: 0,0:17:05.46,0:17:06.42,Default,Emul,0,0,0,,Harrumph!
+Dialogue: 0,0:17:06.42,0:17:09.38,Default,Sunraku,0,0,0,,Right, that creepy sword.
+Dialogue: 0,0:17:10.72,0:17:13.51,Default,Sunraku,0,0,0,,I forgot to hand it back to Pencilgon.
+Dialogue: 0,0:17:14.01,0:17:16.52,Default,Sunraku,0,0,0,,Well, next time.
+Dialogue: 0,0:17:16.52,0:17:18.27,Default,Schwarz Vulf A,0,0,0,,You chose the wrong escape route, buddy!
+Dialogue: 0,0:17:18.27,0:17:20.52,Default,Schwarz Vulf A,0,0,0,,You're heading right for a dead end!
+Dialogue: 0,0:17:20.85,0:17:22.77,Default,Schwarz Vulf A,0,0,0,,I just wanna ask you some questions.
+Dialogue: 0,0:17:22.77,0:17:24.36,Default,Schwarz Vulf A,0,0,0,,You don't have to run—
+Dialogue: 0,0:17:25.73,0:17:27.82,Default,Schwarz Vulf A,0,0,0,,Hey, he's gone.
+Dialogue: 0,0:17:30.57,0:17:31.99,Default,Schwarz Vulf A,0,0,0,,Where'd he go?
+Dialogue: 0,0:17:34.70,0:17:37.58,Default,Sunraku,0,0,0,,Huh? Aniki Vash isn't here?
+Dialogue: 0,0:17:38.00,0:17:43.21,Default,Emul,0,0,0,,I haven't seen Dadd—the boss \Nsince the day he spoke to you.
+Dialogue: 0,0:17:43.21,0:17:44.54,Default,Sunraku,0,0,0,,Got it.
+Dialogue: 0,0:17:44.54,0:17:47.25,Default,Sunraku,0,0,0,,So he's not necessarily \Nalways at the Palace, huh?
+Dialogue: 0,0:17:47.59,0:17:52.30,Default,Sunraku,0,0,0,,I was hoping to go see him after I did my \Nskill fusions and point distributions...
+Dialogue: 0,0:17:57.68,0:18:01.06,Default,Elke,0,0,0,,You successfully learned \Nyour new skills, I see.
+Dialogue: 0,0:18:01.06,0:18:03.19,Default,Elke,0,0,0,,Hey, bird-man...
+Dialogue: 0,0:18:03.52,0:18:08.65,Default,Elke,0,0,0,,Would you like to peruse my skill grimoires?
+Dialogue: 0,0:18:08.65,0:18:11.53,Default,Sunraku,0,0,0,,I'm kinda broke.
+Dialogue: 0,0:18:11.53,0:18:12.82,Default,Elke,0,0,0,,Hmph!
+Dialogue: 0,0:18:13.24,0:18:15.12,Default,Sunraku,0,0,0,,{\i1}Don't "hmph" at me, lady.
+Dialogue: 0,0:18:15.12,0:18:17.95,Default,Sunraku,0,0,0,,{\i1}You were gonna rope me into a purchase \Nthe minute you saw a chance,
+Dialogue: 0,0:18:17.95,0:18:19.54,Default,Sunraku,0,0,0,,{\i1}you money-grubbing bunny.
+Dialogue: 0,0:18:20.08,0:18:22.54,Default,Emul,0,0,0,,Well, where shall we go next?
+Dialogue: 0,0:18:24.42,0:18:28.55,Default,Sunraku,0,0,0,,Who else besides Aniki could \Nfix the Ether Reactor?
+Dialogue: 0,0:18:30.38,0:18:33.22,Default,Sunraku,0,0,0,,Probably not Bilac, but I might as well ask.
+Dialogue: 0,0:18:34.72,0:18:36.68,Default,Bilac,0,0,0,,Yeah, I can't fix that.
+Dialogue: 0,0:18:37.18,0:18:38.68,Default,Sunraku,0,0,0,,Yeah, figured.
+Dialogue: 0,0:18:39.01,0:18:43.39,Default,Bilac,0,0,0,,{\an8}Only an Ancient Craftsman can \Nfix up stuff from the Divinity.
+Dialogue: 0,0:18:43.81,0:18:46.61,Default,Bilac,0,0,0,,{\an8}I'm only a Master Craftsman.
+Dialogue: 0,0:18:47.06,0:18:49.69,Default,Bilac,0,0,0,,Pops is the only guy I know \Nwho could handle this.
+Dialogue: 0,0:18:49.90,0:18:52.65,Default,Sunraku,0,0,0,,So you need the "Ancient Craftsman" job?
+Dialogue: 0,0:18:52.65,0:18:53.82,Default,Sunraku,0,0,0,,Ah, well.
+Dialogue: 0,0:18:54.24,0:18:58.24,Default,Sunraku,0,0,0,,I'll forget the reactor for now, \Nand work on raising my fused skills.
+Dialogue: 0,0:18:59.62,0:19:00.83,Default,Sunraku,0,0,0,,Raising?
+Dialogue: 0,0:19:01.45,0:19:02.54,Default,Sunraku,0,0,0,,Growth?
+Dialogue: 0,0:19:04.58,0:19:06.12,Default,Emul,0,0,0,,What is it?
+Dialogue: 0,0:19:06.12,0:19:07.67,Default,Sunraku,0,0,0,,That's it!
+Dialogue: 0,0:19:07.67,0:19:09.88,Default,Sunraku,0,0,0,,I just need to do some raising!
+Dialogue: 0,0:19:11.71,0:19:13.92,Default,Sunraku,0,0,0,,If there's no Ancient Craftsman around,
+Dialogue: 0,0:19:13.92,0:19:16.89,Default,Sunraku,0,0,0,,I just need to turn Bilac \Ninto an Ancient Craftsman!
+Dialogue: 0,0:19:18.10,0:19:19.93,Default,Bilac,0,0,0,,Don't underestimate the \NAncient Craftsman title!
+Dialogue: 0,0:19:19.93,0:19:22.39,Default,Bilac,0,0,0,,It's not as easy as you make it sound!
+Dialogue: 0,0:19:22.39,0:19:25.98,Default,Sunraku,0,0,0,,{\an8}I'm not telling you to become a \NDivine Craftsman like Aniki Vash.
+Dialogue: 0,0:19:25.98,0:19:29.27,Default,Sunraku,0,0,0,,{\an8}Besides, it's a road you've \Ngot to go down someday, right?
+Dialogue: 0,0:19:30.19,0:19:32.11,Default,Sunraku,0,0,0,,Which means now is the time!
+Dialogue: 0,0:19:32.11,0:19:35.03,Default,Sunraku,0,0,0,,Let's make a try at that \NAncient Craftsman title!
+Dialogue: 0,0:19:37.03,0:19:38.66,Default,Bilac,0,0,0,,Make a try?
+Dialogue: 0,0:19:39.41,0:19:41.54,Default,Sunraku,0,0,0,,I'm not saying this out of a lack of faith.
+Dialogue: 0,0:19:41.54,0:19:44.37,Default,Sunraku,0,0,0,,I'm saying it with full \Nconfidence in your skills!
+Dialogue: 0,0:19:44.37,0:19:47.12,Default,Sunraku,0,0,0,,And I'll help you, of course!
+Dialogue: 0,0:19:47.12,0:19:49.88,Default,Emul,0,0,0,,Big Sis Bee, I know you can do it!
+Dialogue: 0,0:19:53.76,0:19:56.26,Default,Bilac,0,0,0,,Me, an Ancient Craftsman?
+Dialogue: 0,0:20:01.43,0:20:03.52,Default,Bilac,0,0,0,,You got it, bird-man.
+Dialogue: 0,0:20:04.14,0:20:05.89,Default,Bilac,0,0,0,,I'll play along.
+Dialogue: 0,0:20:06.31,0:20:08.52,Default,Bilac,0,0,0,,I'm gonna become an Ancient Craftsman!
+Dialogue: 0,0:20:08.52,0:20:11.52,Default,Emul,0,0,0,,Yay, Big Sis Bee!
+Dialogue: 0,0:20:11.52,0:20:13.11,Default,Sunraku,0,0,0,,Hell yeah!
+Dialogue: 0,0:20:13.11,0:20:16.19,Default,Sunraku,0,0,0,,Let's start the plan to cultivate Bilac!
+Dialogue: 0,0:20:16.19,0:20:17.57,Default,Emul,0,0,0,,Yes, indeed!
+Dialogue: 0,0:20:17.57,0:20:19.91,Default,Bilac,0,0,0,,Y-Yeah!

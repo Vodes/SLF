@@ -1,0 +1,108 @@
+﻿[Script Info]
+Title: Deutsch
+ScaledBorderAndShadow: yes
+Original Script: cr_de  [http://www.crunchyroll.com/user/cr_de]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+LayoutResX: 1920
+LayoutResY: 1080
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: TypePlaceholder,Arial Bold,57,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,0,0,8,30,30,60,1
+Style: TypePlaceholderBox,Arial Bold,66,&H00200960,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,3,6,0,8,30,30,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:02:11.99,0:02:17.49,TypePlaceholder,,0,0,0,,{\fnTimes New Roman Bold\blur15\pos(1284,705)\c&H4A7C94&\t(0,943,\blur0)}CYBER CUP Sieger\NKei Uomi
+Dialogue: 0,0:02:12.95,0:02:18.45,TypePlaceholder,,0,0,0,,{\an1\shad6\fs+1\b1\fsp3\fad(327,252)\3c&HFCFFFD&\pos(429,901.5)\fnGeorgia Bold\c&HC7931F&\4c&HFCFFFD&\bord3}Sammel-Quests{\fnVerdana Bold\fscx90\c&HFCFFFD&\4c&HC7931F&\bord0\alpha&HFF&\t(0,202,\alpha&H00&)}, {\fnGeorgia Bold\c&HC7931F&\4c&HFCFFFD&\bord3\fscx100\alpha&HFF&\t(327,577,\alpha&H00&)}Förderung {\fnVerdana Bold\fscx90\c&HFCFFFD&\4c&HC7931F&\bord0\alpha&HFF&\t(327,452,\alpha&H00&)}und {\fnGeorgia Bold\c&HC7931F&\4c&HFCFFFD&\bord3\fscx100\alpha&HFF&\t(619,869,\alpha&H00&)}Walkthroughs
+Dialogue: 0,0:02:44.44,0:02:47.23,TypePlaceholderBox,,0,0,0,,{\fnVerdana Bold\fad(500,0)\c&HFFFEFD&\3c&H0951D1&\pos(1329,846)}\hKei Uomi\h
+Dialogue: 0,0:02:44.44,0:02:47.23,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\fad(500,0)\c&H0951D1&\3c&HC6961F&\4c&HFFFEFD&\bord0\shad6\pos(1332,927)}Pro-Gamer, Mitglied der „Nitro Squad“
+Dialogue: 0,0:02:49.61,0:02:55.86,TypePlaceholder,,0,0,0,,{\fnComic Sans MS\fs+5\fad(400,0)\pos(304.5,25.5)\c&HB68043&}Gni hi hi
+Dialogue: 0,0:02:49.61,0:02:55.86,TypePlaceholder,,0,0,0,,{\fnComic Sans MS\fs+5\fad(400,0)\c&HB68043&\pos(1603.5,21)}Hä hä hä
+Dialogue: 0,0:03:40.37,0:03:41.99,TypePlaceholder,,0,0,0,,{\fnTrebuchet MS BOLD\bord3\blur6\c&HE0E1E5&\an2\fs+5\3c&H41586C&\pos(882,586.5)}Schlangenapfel
+Dialogue: 0,0:04:23.66,0:04:25.24,TypePlaceholderBox,,0,0,0,,{\fnVerdana bold\fad(539,0)\fs-3\c&HAC987A&\3c&HFBFEE6&\pos(960,46.5)}Nicht genormte leistungssteigernde Spezialrüstung
+Dialogue: 0,0:04:23.66,0:04:25.24,TypePlaceholder,,0,0,0,,{\fnVerdana bold\fad(539,0)\bord9\fs+4\c&HFDFAF1&\3c&HFB99C8&\pos(960,105)}Adebane
+Dialogue: 0,0:04:31.67,0:04:34.67,TypePlaceholder,,0,0,0,,{\fnVerdana bold\bord9\fs+4\pos(454.5,102)\c&HFDFAF1&\3c&HFB99C8&}Keepout
+Dialogue: 0,0:04:31.67,0:04:34.67,TypePlaceholder,,0,0,0,,{\fnVerdana bold\bord9\fs+4\c&HFDFAF1&\3c&HFB99C8&\pos(1480.5,97.5)}Herold
+Dialogue: 0,0:04:31.67,0:04:34.67,TypePlaceholderBox,,0,0,0,,{\fnVerdana bold\fs-3\pos(454.5,43.5)\c&HAC987A&\3c&HFBFEE6&}Nicht genormte Waffe: Stacheldraht
+Dialogue: 0,0:04:31.67,0:04:34.67,TypePlaceholderBox,,0,0,0,,{\fnVerdana bold\fs-3\c&HAC987A&\3c&HFBFEE6&\pos(1482,42)}Nicht genormte Waffe: Langschwert
+Dialogue: 0,0:05:03.41,0:05:04.58,TypePlaceholder,,0,0,0,,{\fnVerdana bold\fs-2.5\c&HC8CF83&\pos(1360.5,775.5)\frz5.066}Nicht genormter Ätherreaktor
+Dialogue: 0,0:05:14.38,0:05:17.09,TypePlaceholder,,0,0,0,,{\fnVerdana bold\fs-2.5\fad(203,0)\fax-0.2\c&HDAD28F&\frz355.1\t(0,0,\fscx106\fscy106)\move(1162.5,549,1173,523.5,36,2705)}Nicht genormter Ätherreaktor
+Dialogue: 0,0:05:14.38,0:05:17.09,TypePlaceholder,,0,0,0,,{\fnImpact\c&H1700BE&\fad(203,0)\3c&H7571EC&\bord2.1\fax-0.25\fsp3\fs-1\frz355.3\t(0,0,\fscx106\fscy106)\move(1162.5,672,1167,655.5,36,2705)}beschädigt
+Dialogue: 0,0:07:25.26,0:07:29.55,TypePlaceholder,,0,0,0,,{\fnImpact\b0\fsp9\c&HFD8EFC&\fax0.1\fs+3\3c&HD7CAE2&\bord7.5\frz2.376\pos(1116,801)}Lycaon, der Nachträuber {\fnVerdana\fs-2\fsp0\bord0\c&HBEBFC5&}begegnet.
+Dialogue: 0,0:07:25.26,0:07:29.55,TypePlaceholder,,0,0,0,,{\fnImpact\b0\fsp9\c&HFD8EFC&\fax0.1\fs+3\3c&HB54FAF&\bord3.6\frz2.376\pos(1116,801)}Lycaon, der Nachträuber {\fnVerdana\fs-2\fsp0\bord0\c&HBEBFC5&}begegnet.
+Dialogue: 0,0:07:25.26,0:07:29.55,TypePlaceholderBox,,0,0,0,,{\fnVerdana Bold\c&HAE3490&\fax0.15\fs-1\3c&HE844E2&\frz357.9\pos(1041,172.5)}Einzigartiges Monster
+Dialogue: 0,0:08:37.96,0:08:39.17,TypePlaceholder,,0,0,0,,{\fnTahoma\pos(1414.5,190.5)\c&H917F70&}Besitzrecht des Gegenstands übertragen.
+Dialogue: 0,0:08:44.38,0:08:46.63,TypePlaceholder,,0,0,0,,{\fnVerdana bold\c&HD0D48E&\fad(0,211)\fax0.15\fs-2\frz350.2\move(1488,742.5,1488,867,27,2238)}Waage der Kompensation
+Dialogue: 0,0:08:52.72,0:08:54.14,TypePlaceholder,,0,0,0,,{\fnTahoma\c&H6B6463&\fs-2\pos(958.5,993)}Besitzrecht des Gegenstands übertragen.
+Dialogue: 0,0:10:09.59,0:10:11.22,TypePlaceholder,,0,0,0,,{\fnTrebuchet MS BOLD\an9\fad(0,341)\fs+2\c&H00020D&\pos(1648.5,54)}Pencilgons Lager
+Dialogue: 0,0:10:12.34,0:10:14.01,TypePlaceholder,,0,0,0,,{\fnTrebuchet MS BOLD\an8\fad(0,0)\fs+2\c&H00020D&\pos(1447.5,774)}Verkauf
+Dialogue: 0,0:10:13.05,0:10:15.47,TypePlaceholder,,0,0,0,,{\fnTrebuchet MS BOLD\fad(542,0)\fax0.07\an8\fad(0,0)\fs-2\c&H00020D&\frz80.27\pos(693,720)}Rückzahlung
+Dialogue: 0,0:11:39.55,0:11:43.39,TypePlaceholder,,0,0,0,,{\fnVerdana bold\fad(523,127)\c&HD2D497&\fs-2\frz343.2\move(852,213,714,105,22,3818)}Buch der Weltwahrheiten: Der Grabwächter
+Dialogue: 0,0:11:39.55,0:11:43.39,TypePlaceholder,,0,0,0,,{\fnVerdana bold\fad(523,127)\c&HD2D497&\fs-2\frz345\move(1599,1000.5,1468.5,897,22,3651)}Blumenschmuck des fernen Gebets
+Dialogue: 0,0:11:54.57,0:11:56.65,TypePlaceholder,,0,0,0,,{\fnVerdana bold\fs-2\bord9\c&HFBF7A7&\3c&H684C3B&\pos(607.5,873)}Geheimnisse des\NBlauer-Himmel-Stils
+Dialogue: 0,0:11:58.07,0:12:00.91,TypePlaceholder,,0,0,0,,{\fnVerdana bold\fs-2\bord9\fad(0,765)\c&HE2E4A5&\3c&H2E353D&\pos(313.5,729)}Geheimnisse des\NBlauer-Himmel-Stils\N{\fnTahoma\c&H7C8189&}Ein Speichermedium mit den\NGeheimnissen einer himmlischen\NSchwertkunst von einem Meister\Naus dem Göttlichen Zeitalter.
+Dialogue: 0,0:12:07.79,0:12:13.30,TypePlaceholderBox,,0,0,0,,{\fnVerdana bold\fs-2\c&HFFFFFF&\fad(0,967)\3c&H88943F&\frz340.8\pos(453,676.5)}Besitzrecht
+Dialogue: 0,0:12:07.79,0:12:13.30,TypePlaceholderBox,,0,0,0,,{\fnVerdana bold\fs-2\c&HFFFFFF&\fad(0,967)\3c&H88943F&\frz18.45\pos(1386,696)}opfern
+Dialogue: 0,0:14:09.62,0:14:13.21,TypePlaceholder,,0,0,0,,{\fnComic Sans MS Bold\fad(581,0)\fs+7\bord2.1\c&H4D4AAB&\3c&HA293C4&\pos(1308,79.5)}Grins
+Dialogue: 0,0:14:24.22,0:14:26.97,TypePlaceholder,,0,0,0,,{\fnComic Sans MS Bold\fad(486,0)\an2\fs+3\frz335.7\t(486,0,\frz337\fscx97\fscy97)\move(360,219,360,231,486,2738)}Unique Hunters
+Dialogue: 0,0:14:24.22,0:14:26.97,TypePlaceholder,,0,0,0,,{\fnComic Sans MS Bold\fad(486,0)\c&H252A33&\fs+2\frz11.74\t(486,0,\fscx97\fscy97)\move(894,130.5,862.5,138,486,2738)}Desperados
+Dialogue: 0,0:14:24.22,0:14:26.97,TypePlaceholder,,0,0,0,,{\fad(486,0)\fnComic Sans MS Bold\c&H252A33&\fs+4\frz358.6\t(486,0,\fscx97\fscy97)\move(1258.5,606,1227,573,486,2738)}Trash Game Alliance
+Dialogue: 0,0:14:24.22,0:14:26.97,TypePlaceholder,,0,0,0,,{\fad(486,0)\fnComic Sans MS Bold\c&H252A33&\fs+2\bord9\frz343.3\3c&H63839A&\t(486,0,\fscx97\fscy97)\move(1518,277.5,1473,264,486,2738)}Wanderwölfe
+Dialogue: 0,0:14:24.22,0:14:26.97,TypePlaceholder,,0,0,0,,{\fad(486,0)\fnComic Sans MS Bold\c&H252A33&\fs+4\frz6.819\t(486,0,\fscx97\fscy97)\move(309,697.5,331.5,685.5,486,2738)}Goldrausch
+Dialogue: 0,0:14:24.22,0:14:26.97,TypePlaceholder,,0,0,0,,{\fad(486,0)\fnComic Sans MS Bold\c&H252A33&\fs+2\frz335.6\t(486,0,\fscx97\fscy97)\move(865.5,957,855,925.5,486,2738)}Henkertruppe
+Dialogue: 0,0:14:24.22,0:14:26.97,TypePlaceholder,,0,0,0,,{\fad(486,0)\fnComic Sans MS Bold\c&H262B39&\bord9\frz10.84\3c&H62819A&\t(486,0,\fscx97\fscy97)\move(1608,696,1600.5,660,486,2738)}Pencilgon und ihre\Nnützlichen Lakaien
+Dialogue: 0,0:14:44.07,0:14:51.08,TypePlaceholder,,0,0,0,,{\fnComic Sans MS bold\fs+2\c&H100D14&\frz337.4\pos(414,192)}Unique Hunters
+Dialogue: 0,0:14:44.07,0:14:51.08,TypePlaceholder,,0,0,0,,{\fnComic Sans MS bold\fs\c&H100D14&\frz12.15\pos(862.5,139.5)}Desperados
+Dialogue: 0,0:14:44.07,0:14:51.08,TypePlaceholder,,0,0,0,,{\fnComic Sans MS bold\fs+2\c&H100D14&\frz358.9\pos(1218,582)}Trash Game Alliance
+Dialogue: 0,0:14:44.07,0:14:51.08,TypePlaceholder,,0,0,0,,{\fnComic Sans MS bold\fs+2\c&H100D14&\pos(318,700.5)\frz9.032}Goldrausch
+Dialogue: 0,0:14:44.07,0:14:51.08,TypePlaceholder,,0,0,0,,{\fnComic Sans MS bold\fs+2\c&H100D14&\frz337.4\pos(862.5,919.5)}Henkertruppe
+Dialogue: 0,0:14:44.07,0:14:51.08,TypePlaceholder,,0,0,0,,{\fnComic Sans MS bold\fs+2\c&H100D14&\frz13.49\bord9\pos(1578,651)\3c&H5E839B&}Pencilgon und ihre\Nnützlichen Lakaien
+Dialogue: 0,0:14:59.09,0:15:02.59,TypePlaceholder,,0,0,0,,{\fnComic Sans MS bold\fax0.1\fs+3\c&H24262C&\frz10.94\move(909,234,898.5,198,25,3487)\t(0,0,\fscx107\fscy108)}Wanderwölfe
+Dialogue: 0,0:14:59.09,0:15:02.59,TypePlaceholder,,0,0,0,,{\fnVerdana\bord6\fs+2\an2\pos(960,871.5)\fs-4}Wolf Gang\N{\fs+6}Wanderwölfe
+Dialogue: 0,0:15:46.55,0:15:49.01,TypePlaceholder,,0,0,0,,{\fnImpact\fs+5\an2\fad(500,0)\fax-0.3\bord4.8\c&HAD9411&\pos(1381.5,139.5)}Arthur Pencilgon
+Dialogue: 0,0:15:49.05,0:15:51.26,TypePlaceholder,,0,0,0,,{\fnImpact\fs+5\an2\fad(500,0)\fax-0.3\bord4.8\c&HAD9411&\pos(885,151.5)}Oikatso
+Dialogue: 0,0:15:51.31,0:15:53.56,TypePlaceholder,,0,0,0,,{\fnImpact\fs+5\an2\fad(500,0)\fax-0.3\bord4.8\c&HAD9411&\pos(496.5,403.5)}Sunraku
+Dialogue: 1,0:17:35.53,0:17:38.00,TypePlaceholder,,0,0,0,,{\fnImpact\an2\fs+6\b0\fsp15\bord18\blur12\c&H1C252A&\3c&HA9FBF5&\move(960,124.5,960,367.5,25,3487)}Fähigkeiten-Gärtner
+Dialogue: 2,0:17:35.53,0:17:38.00,TypePlaceholder,,0,0,0,,{\fnImpact\an2\fs+6\b0\fsp15\bord7.5\c&H1C252A&\3c&HE0F2F3&\move(960,124.5,960,367.5,25,3487)}Fähigkeiten-Gärtner
+Dialogue: 0,0:18:08.94,0:18:11.53,TypePlaceholder,,0,0,0,,{\c&HD9D9A1&\fnTahoma\t(0,605,\fscx95\fscy95)\move(1923,699,1653,699,21,605)}Mani
+Dialogue: 0,0:18:41.35,0:18:43.39,TypePlaceholder,,0,0,0,,{\fnVerdana\bord6\fs+2\an2\fad(331,259)\pos(961.5,919.5)}Ahnenhandwerker
+Dialogue: 0,0:18:44.35,0:18:46.36,TypePlaceholder,,0,0,0,,{\fnVerdana\bord6\fs+2\an2\fad(331,259)\pos(961.5,919.5)}Meisterhandwerker
+Dialogue: 0,0:19:23.85,0:19:29.27,TypePlaceholder,,0,0,0,,{\fnVerdana\bord6\fs+2\an2\fad(331,0)\pos(961.5,919.5)}Göttlicher Handwerker
+Dialogue: 0,0:20:22.87,0:20:26.83,TypePlaceholder,Credits,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\pos(960,45)}Übersetzung: Markus Lange
+Dialogue: 0,0:20:22.87,0:20:26.83,TypePlaceholder,Credits,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\an2\pos(960,1035)}Spotting: Michael Gohl
+Dialogue: 0,0:20:27.33,0:20:31.33,TypePlaceholder,Credits,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\pos(960,45)}Revision & Typesetting: Jacqueline Philippi
+Dialogue: 0,0:20:27.33,0:20:31.33,TypePlaceholder,Credits,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\an2\pos(960,1035)}Qualitätskontrolle: Konrad Walter
+Dialogue: 0,0:20:31.88,0:20:35.84,TypePlaceholder,Credits,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\pos(960,45)}Projektleitung: Tobias Philippi
+Dialogue: 0,0:21:51.00,0:21:58.26,TypePlaceholder,Types,0,0,0,,{\fnComic Sans MS Bold\fs+4\bord0\shad6\fs+6\c&H7CEDEF&\4c&H51CBDA&\pos(960,9)}Sh{\c&HC297F0&\4c&H966CD6&}a{\c&H679FF8&\4c&H3171D7&}n{\c&HDE72BD&\4c&HB64897&}F{\c&H5B63E6&\4c&H484FC2&}ro
+Dialogue: 0,0:21:54.75,0:21:58.26,TypePlaceholder,Types,0,0,0,,{\fnComic Sans MS Bold\fad(493,0)\fs+4\fax-0.15\an3\c&HFAFFFE&\3c&H376777&\4c&H1C3F4D&\shad3.9\bord3.9\pos(1831.5,859.5)}#26 Making Oikatso
+Dialogue: 0,0:21:55.38,0:21:58.26,TypePlaceholder,Types,0,0,0,,{\c&H515655&\fnComic Sans MS Bold\fad(333,0)\fs+2\bord0\frz43.99\pos(1447.5,118.5)}Mini
+Dialogue: 0,0:22:01.01,0:22:03.09,TypePlaceholder,,0,0,0,,{\fnVerdana\fs-5\c&H94866A&\b0\bord0\pos(459,163.5)}Bist du mit\Nden Einstellungen zufrieden?
+Dialogue: 0,0:22:01.01,0:22:03.09,TypePlaceholder,,0,0,0,,{\fnVerdana\c&HE1D3FB&\fs-5\b0\bord6\3c&H775CC8&\pos(361.5,231)}\hNeu\h
+Dialogue: 0,0:22:01.01,0:22:03.09,TypePlaceholder,,0,0,0,,{\fnVerdana\c&HF8FFC0&\b0\fs-5\bord6\3c&HC2F062&\pos(547.5,228)}\hFertig\h
+Dialogue: 0,0:22:01.01,0:22:03.09,TypePlaceholder,,0,0,0,,{\fnTahoma\fsp6\an6\fs-4\c&HB6A999&\pos(651,300)}Nichts
+Dialogue: 0,0:22:01.01,0:22:03.09,TypePlaceholder,,0,0,0,,{\fnTahoma\fsp6\an6\fs-4\c&HB6A999&\pos(651,370.5)}Nichts
+Dialogue: 0,0:22:01.01,0:22:03.09,TypePlaceholder,,0,0,0,,{\fnTahoma\fsp6\an6\fs-4\c&HB6A999&\pos(651,808.5)}Nichts
+Dialogue: 0,0:22:01.01,0:22:03.09,TypePlaceholder,,0,0,0,,{\fnTahoma\fsp6\an6\fs-4\c&HB6A999&\pos(651,880.5)}Nichts
+Dialogue: 0,0:22:01.01,0:22:03.09,TypePlaceholder,,0,0,0,,{\fnTahoma\fsp6\an6\bord9\fs-4\c&HB6A999&\3c&HF4E5D9&\pos(651,442.5)}Haarband\Naus Rindentuch
+Dialogue: 0,0:22:01.01,0:22:03.09,TypePlaceholder,,0,0,0,,{\fnTahoma\fsp6\an6\bord9\fs-4\c&HB6A999&\3c&HF4E5D9&\pos(651,514.5)}Oberteil aus\NRindentuch
+Dialogue: 0,0:22:01.01,0:22:03.09,TypePlaceholder,,0,0,0,,{\fnTahoma\fsp6\an6\bord9\fs-4\c&HB6A999&\3c&HF4E5D9&\pos(651,586.5)}Gürtel aus\NRindentuch
+Dialogue: 0,0:22:01.01,0:22:03.09,TypePlaceholder,,0,0,0,,{\fnTahoma\fsp6\an6\bord9\fs-4\c&HB6A999&\3c&HF4E5D9&\pos(651,661.5)}Stiefel aus\NRindentuch
+Dialogue: 0,0:22:01.01,0:22:03.09,TypePlaceholder,,0,0,0,,{\fnTahoma\fsp6\an6\bord9\fs-4\c&HB6A999&\3c&HF4E5D9&\pos(651,736.5)}Haarnadel
+Dialogue: 0,0:22:01.01,0:22:03.09,TypePlaceholder,,0,0,0,,{\fnTahoma\fsp6\an6\fs-4\c&HB6A999&\pos(651,954)}Mani
+Dialogue: 0,0:22:11.85,0:22:14.35,TypePlaceholder,,0,0,0,,{\fnVerdana\an1\pos(129,124.5)\fs+3\fsp3\shad4.2\c&HFEFEFB&\4c&HAE9A83&}Bitte gib einen Namen ein.
+Dialogue: 0,0:22:17.65,0:22:22.61,TypePlaceholder,,0,0,0,,{\fnTimes New Roman Bold\fs+5\fad(455,0)\bord4.5\c&H000606&\3c&HFFFFFF&\frz8.001\pos(432,363)}Modoru Katso
+Dialogue: 0,0:22:19.40,0:22:22.61,TypePlaceholder,,0,0,0,,{\fnTimes New Roman Bold\fs+5\fad(499,0)\bord4.5\c&H000606&\3c&HFFFFFF&\pos(1519.5,388.5)\frz338}Krieger Katso
+Dialogue: 0,0:22:36.42,0:22:40.42,TypePlaceholder,,0,0,0,,{\fnVerdana\an1\pos(129,124.5)\fs+3\fsp3\shad4.2\c&HFEFEFB&\4c&HAE9A83&}Bitte gib einen Namen ein.
+Dialogue: 0,0:22:36.92,0:22:40.42,TypePlaceholder,,0,0,0,,{\fnTimes New Roman Bold\an7\fs+7\fsp9\pos(226.5,736.5)\c&H614E39&}O{\alpha&HFF&\t(163,164,\alpha&H00&)}i{\alpha&HFF&\t(413,538,\alpha&H00&)}ka{\alpha&HFF&\t(663,1038,\alpha&H00&)}t{\alpha&HFF&\t(1164,1289,\alpha&H00&)}s{\alpha&HFF&\t(1539,1664,\alpha&H00&)}o
+Dialogue: 0,0:22:40.42,0:22:44.93,TypePlaceholder,,0,0,0,,{\an6\pos(1417.5,298.5)\org(1417.5,298.5)\fscx100\fscy100\frz-3\fry-180\frx0\fax0\fnVerdana bold\c&HF4EEDE&\fs-3}Geschlecht
+Dialogue: 0,0:22:40.42,0:22:44.93,TypePlaceholder,,0,0,0,,{\an6\pos(1417.5,414)\org(1417.5,414)\fscx100\fscy100\frz1.494\fry-180\frx0\fax0\fnVerdana bold\c&HF4EEDE&\fs-3}Alter
+Dialogue: 0,0:22:40.42,0:22:44.93,TypePlaceholder,,0,0,0,,{\an6\pos(1417.5,528)\org(1417.5,528)\fscx100\fscy100\frz-0.2\fry-180\frx0\fax0\fnVerdana bold\c&HF4EEDE&\fs-3}Ethnie
+Dialogue: 0,0:22:40.42,0:22:44.93,TypePlaceholder,,0,0,0,,{\an6\pos(1414.5,642)\org(1414.5,642)\fscx100\fscy100\frz0.689\fry-180\frx0\fnVerdana bold\c&H717448&\fs-3}Aussehen
+Dialogue: 0,0:22:40.42,0:22:44.93,TypePlaceholder,,0,0,0,,{\an6\pos(1429.5,763.5)\org(1429.5,763.5)\fscx100\fscy100\frz2.349\fry-180\frx0\fax0\fnVerdana bold\c&HF4EEDE&\fs-3}Beruf
+Dialogue: 0,0:22:40.42,0:22:44.93,TypePlaceholder,,0,0,0,,{\an6\pos(1426.5,876)\org(1426.5,876)\fscx100\fscy100\frz2.989\fry-180\fnVerdana bold\c&HF4EEDE&\fs-3}Herkunft
+Dialogue: 0,0:22:40.42,0:22:44.93,TypePlaceholder,,0,0,0,,{\an6\pos(1429.5,981)\org(1429.5,981)\fscx100\fscy100\frz3.703\fry-180\frx0\fax0\fnVerdana bold\c&HF4EEDE&\fs-3}Ausrüstung

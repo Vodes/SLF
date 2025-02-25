@@ -1,0 +1,86 @@
+﻿[Script Info]
+Title: Deutsch
+ScaledBorderAndShadow: yes
+Original Script: cr_de  [http://www.crunchyroll.com/user/cr_de]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+LayoutResX: 1920
+LayoutResY: 1080
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: TypePlaceholder,Arial Bold,57,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,0,0,8,30,30,60,1
+Style: TypePlaceholderBox,Arial Bold,66,&H00200960,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,3,6,0,8,30,30,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:02:12.32,0:02:17.37,TypePlaceholder,,0,0,0,,{\an1\fnVerdana Bold\shad6\fs+1\b1\fsp3\c&HFFFFFF&\4c&HC7961F&\bord0\fad(206,0)\3c&HC7951E&\pos(488.28,898.32)}Walking of {\fnGeorgia Bold\bord3\c&HC7951E&\3c&HFFFFFF&\4c&HFFFFFF&\alpha&HFF&\t(206,623,\alpha&H00&)}the Aircleaner
+Dialogue: 0,0:03:02.95,0:03:06.75,TypePlaceholder,,0,0,0,,{\fnTimes New Roman Bold\fad(300,0)\an2\fs+5\bord4.5\pos(960,846)}Ahnenhandwerker
+Dialogue: 0,0:03:12.13,0:03:17.26,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\bord4.5\fs+1\blur3\an2\pos(1041,802.5)\fad(300,0)\c&HF6EF91&\3c&H7E7542&}Vermächtniswaffe
+Dialogue: 1,0:03:37.53,0:03:38.91,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\fs+1\an2\bord6\pos(961.5,894)\c&HFBED8C&\3c&HFFFFFF&}Magie-Steuerungseinheit
+Dialogue: 2,0:03:37.53,0:03:38.91,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\fs+1\an2\bord3\pos(961.5,894)\c&HFBED8C&\3c&H706337&}Magie-Steuerungseinheit
+Dialogue: 0,0:04:44.18,0:04:46.97,TypePlaceholderBox,,0,0,0,,{\fnVerdana bold\fs-3\fad(300,0)\c&H6F674F&\3c&HFCFFE9&\pos(544.5,45)}Nicht genormte Ausrüstung: Langschwert
+Dialogue: 0,0:04:44.18,0:04:46.97,TypePlaceholder,,0,0,0,,{\fnVerdana bold\bord9\fad(300,0)\fs+4\c&HFDFAF1&\3c&HFB99C8&\pos(544.5,103.5)}Herold
+Dialogue: 0,0:05:54.29,0:05:57.30,TypePlaceholder,,0,0,0,,{\fnVerdana bold\bord9\fs+4\pos(454.5,102)\c&HFDFAF1&\3c&HFB99C8&}Keepout
+Dialogue: 0,0:05:54.29,0:05:57.30,TypePlaceholder,,0,0,0,,{\fnVerdana bold\bord9\fs+4\c&HFDFAF1&\3c&HFB99C8&\pos(1480.5,97.5)}Herold
+Dialogue: 0,0:05:54.29,0:05:57.30,TypePlaceholderBox,,0,0,0,,{\fnVerdana bold\fs-3\pos(454.5,43.5)\c&HAC987A&\3c&HFBFEE6&}Nicht genormte Waffe: Stacheldraht
+Dialogue: 0,0:05:54.29,0:05:57.30,TypePlaceholderBox,,0,0,0,,{\fnVerdana bold\fs-3\c&HAC987A&\3c&HFBFEE6&\pos(1482,42)}Nicht genormte Waffe: Langschwert
+Dialogue: 0,0:06:26.41,0:06:32.83,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\bord5.4\fs+2\c&H383E36&\move(1147.5,252,1203,48,1200,6449)\fad(0,500)}Bunt schillernde Waldgrotte
+Dialogue: 0,0:06:31.66,0:06:35.04,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\bord5.4\fs+2\c&H383E36&\fad(0,500)\move(807,364.5,825,15,31,3368)}Vierfossier
+Dialogue: 0,0:06:34.17,0:06:37.88,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\bord5.4\fs+2\c&H383E36&\fad(0,500)\move(796.5,546,733.5,16.5,31,3704)}Klamm der altehrwürdigen Seelen
+Dialogue: 0,0:06:37.29,0:06:39.88,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\bord5.4\fs+2\c&H383E36&\fad(0,500)\move(639,313.5,555,21,32,2576)}Achdolt
+Dialogue: 0,0:06:41.30,0:06:47.35,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\bord5.4\fs+2\c&H383E36&\fad(0,0)\move(1168.5,627,1129.5,555,36,2500)}Elftal
+Dialogue: 0,0:06:44.43,0:06:47.35,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\bord5.4\fs+2\c&H383E36&\fad(0,0)\pos(736.5,310.5)}Maroder Pfad vergangenen Ruhms
+Dialogue: 0,0:06:57.31,0:07:02.19,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\bord5.4\fs+2\c&H383E36&\fad(0,0)\move(1329,585,1620,889.5,22,1600)}Elftal
+Dialogue: 0,0:06:57.31,0:07:02.19,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\bord5.4\fs+2\c&H383E36&\fad(0,0)\move(498,148.5,799.5,456,22,1600)}Burgruine der Dunkelsteppe
+Dialogue: 2,0:07:02.32,0:07:11.33,TypePlaceholder,,0,0,0,,{\pos(960,180)\fnImpact\b0\fsp6\fs+4\c&HC4F4F5&}Das Epos der Killerkaninchen\N\N{\fnVerdana bold\fsp0\fs-2\c&HB64BDE&}Benötigte Gegenstände\N\N{\fs-1\c&HDADAA0&}Empfangsgerät Δ\NKoordinatengerät Δ\NSendegerät Δ
+Dialogue: 1,0:07:02.32,0:07:11.33,TypePlaceholderBox,,0,0,0,,{\p1\c&H252525&\3c&HD9DC65&\blur3\bord9}m 0 0 l 1050 0 l 1050 555 l 0 555
+Dialogue: 1,0:07:02.32,0:07:11.33,TypePlaceholderBox,,0,0,0,,{\p1\c&H1A1922&\3c&HD9DC65&\bord0\pos(960,379.5)}m 0 0 l 570 0 l 570 210 l 0 210
+Dialogue: 2,0:07:02.32,0:07:11.33,TypePlaceholderBox,,0,0,0,,{\fnVerdana bold\c&H252323&\3c&HC4F4F5&\pos(960,84)}Einzigartiges Szenario EX
+Dialogue: 0,0:09:05.94,0:09:08.44,TypePlaceholder,,0,0,0,,{\an7\pos(608.97,543.12)\org(608.97,543.12)\fscx97.169\fscy142.41\frz11.26\fry-1.061\frx4.94\fax-0.463\fnTahoma\c&H8B878C&}Wiederbelebungspunkt aktualisiert.
+Dialogue: 0,0:09:08.44,0:09:10.65,TypePlaceholder,,0,0,0,,{\fnAndale Mono\an2\bord9\move(958.5,288,2322,288,23,2192)}Bunt schillernde Waldgrotte
+Dialogue: 0,0:09:13.66,0:09:18.45,TypePlaceholder,,0,0,0,,{\fnAndale Mono\an2\fs+4\bord9\move(-214.5,354,937.5,354,17,2769)}Vierfossier
+Dialogue: 0,0:10:10.30,0:10:15.30,TypePlaceholder,,0,0,0,,{\fnVerdana\bord9\pos(960,622.5)\c&HFFFCFD&\3c&HBC9A1E&}Vierte Stadt\N{\fs+2}Vierfossier
+Dialogue: 1,0:10:15.30,0:10:17.56,TypePlaceholder,,0,0,0,,{\pos(969,30)\org(969,30)\fscx99.946\fscy93.556\fry0.667\frx7.674\fax0.012\fnImpact\fsp9\xbord11.99\ybord11.23\c&HAF2AEF&\3c&HA369CE&\blur6\fs+10}Händler
+Dialogue: 2,0:10:15.30,0:10:17.56,TypePlaceholder,,0,0,0,,{\pos(969,30)\org(969,30)\fscx99.946\fscy93.556\fry0.667\frx7.674\fax0.012\fnImpact\fsp9\xbord5.1\ybord4.77\c&HAF2AEF&\3c&HFEFBFD&\fs+10}Händler
+Dialogue: 0,0:10:28.52,0:10:31.07,TypePlaceholder,,0,0,0,,{\fnVerdana\an2\pos(960,810)\fad(300,0)\fs+2\bord4.5}Fluch\N{\fs-2}Verringert maximale LP und Statuswerte um einen gewissen Prozentsatz.
+Dialogue: 0,0:10:51.67,0:10:53.92,TypePlaceholder,,0,0,0,,{\fnAndale Mono\an2\fs+4\bord9\move(927,351,2128.5,351,21,2232)}Vierfossier
+Dialogue: 0,0:10:58.35,0:11:01.68,TypePlaceholder,,0,0,0,,{\fnAndale Mono\an2\fs+1\bord6\c&H383B38&\move(-465,300,897,300,35,1578)}Klamm der altehrwürdigen Seelen
+Dialogue: 0,0:11:30.50,0:11:33.01,TypePlaceholder,,0,0,0,,{\fnVerdana\bord9\c&HFFFCFD&\3c&HBC9A1E&\pos(960,607.5)}Klamm der altehrwürdigen Seelen
+Dialogue: 0,0:12:14.84,0:12:16.63,TypePlaceholder,,0,0,0,,{\fnVerdana\fs-1\fad(121,0)\fsp6\c&H621AEB&\pos(1381.5,837)}Wyvern-Zombie
+Dialogue: 0,0:14:09.83,0:14:13.42,TypePlaceholderBox,,0,0,0,,{\fnVerdana\fs-3\b0\fad(300,0)\c&H1B091E&\3c&H621AEB&\pos(1485,601.5)}Seltener Gegner
+Dialogue: 0,0:14:09.83,0:14:13.42,TypePlaceholder,,0,0,0,,{\fnVerdana\fs-1\fad(300,0)\bord9\fsp6\c&H621AEB&\3c&H1B091E&\pos(1486.5,672)}Dullahan-General
+Dialogue: 0,0:14:34.81,0:14:36.31,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\fs-2\c&HF9F39E&\pos(450,649.5)}Imperiumbienen-Zwillinge
+Dialogue: 0,0:14:34.85,0:14:36.31,TypePlaceholder,,0,0,0,,{\fnTahoma\fs-2\c&H8B7972&\pos(453,942)}ausgerüstet.
+Dialogue: 1,0:16:24.50,0:16:28.76,TypePlaceholder,Types,0,0,0,,{\fnImpact\b0\bord18\fsp6\fad(121,0)\an1\fs+3\fax-0.4\c&HFCC630&\3c&H232626&\t(203,204,\3c&HA69424&\shad2.1)\t(444,445,\c&HFCC630&\3c&H232626&\shad0)\4c&H232626&\frz35.08\pos(694.5,963)}Killer-Klingenkunst:\NMondspiegelung im Wasser [v3]
+Dialogue: 2,0:16:24.50,0:16:28.76,TypePlaceholder,Types,0,0,0,,{\fnImpact\b0\bord7.5\fsp6\fad(121,0)\an1\fs+3\fax-0.4\c&HFCC630&\3c&HFDFEF6&\t(203,204,\c&HFFFFB9&\3c&HFFFFF8&)\t(444,445,\c&HFCC630&\3cHFDFEF6&)\frz35.08\pos(694.5,963)}Killer-Klingenkunst:\NMondspiegelung im Wasser [v3]
+Dialogue: 1,0:16:53.91,0:16:57.04,TypePlaceholder,Types,0,0,0,,{\fnImpact\b0\bord18\fsp6\fad(121,0)\an1\fs+5\fax-0.3\c&HFCC630&\3c&H232626&\t(203,204,\3c&HA69424&\shad2.1)\t(444,445,\c&HFCC630&\3c&H232626&\shad0)\4c&H232626&\frz351.7\pos(913.5,903)}Megatonnenschwung
+Dialogue: 2,0:16:53.91,0:16:57.04,TypePlaceholder,Types,0,0,0,,{\fnImpact\b0\bord7.5\fsp6\fad(121,0)\an1\fs+5\fax-0.3\c&HFCC630&\3c&HFDFEF6&\t(203,204,\c&HFFFFB9&\3c&HFFFFF8&)\t(445,446,\c&HFCC630&\3cHFDFEF6&)\frz351.7\pos(913.5,903)}Megatonnenschwung
+Dialogue: 0,0:17:18.27,0:17:21.27,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\fs-2.2\c&HF5EEA2&\pos(1596,943.5)}Sechs-Schiffe-Sprung
+Dialogue: 0,0:17:51.88,0:17:53.89,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\bord6\fsp12\fs+5\blur2.1\an2\fad(0,0)\c&HFAEFA1&\3c&H513C27&\pos(979.5,861)}Zündung
+Dialogue: 1,0:18:04.23,0:18:06.65,TypePlaceholder,Types,0,0,0,,{\fnImpact\b0\bord18\fsp6\fad(121,0)\an1\fs+5\fax-0.3\c&HFCC630&\3c&H232626&\t(203,204,\3c&HA69424&\shad2.1)\t(444,445,\c&HFCC630&\3c&H232626&\shad0)\4c&H232626&\frz4.046\pos(532.5,988.5)}Glückliches Händchen
+Dialogue: 2,0:18:04.23,0:18:06.65,TypePlaceholder,Types,0,0,0,,{\fnImpact\b0\bord7.5\fsp6\fad(121,0)\an1\fs+5\fax-0.3\c&HFCC630&\3c&HFDFEF6&\t(203,204,\c&HFFFFB9&\3c&HFFFFF8&)\t(445,446,\c&HFCC630&\3cHFDFEF6&)\frz4.046\pos(532.5,988.5)}Glückliches Händchen
+Dialogue: 0,0:18:15.57,0:18:16.95,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\bord4.5\fs+1\blur3\an2\fad(300,0)\c&HF6EF91&\3c&H7E7542&\pos(891,831)}Hasengewehr
+Dialogue: 1,0:18:58.99,0:19:02.12,TypePlaceholder,Types,0,0,0,,{\fnImpact\b0\bord18\fsp6\fad(121,0)\an1\fs+5\fax-0.3\c&HFCC630&\3c&H232626&\t(203,204,\3c&HA69424&\shad2.1)\t(444,445,\c&HFCC630&\3c&H232626&\shad0)\4c&H232626&\frz351.6\pos(1389,387)}Titanenstoß
+Dialogue: 2,0:18:58.99,0:19:02.12,TypePlaceholder,Types,0,0,0,,{\fnImpact\b0\bord7.5\fsp6\fad(121,0)\an1\fs+5\fax-0.3\c&HFCC630&\3c&HFDFEF6&\t(203,204,\c&HFFFFB9&\3c&HFFFFF8&)\t(445,446,\c&HFCC630&\3cHFDFEF6&)\frz351.6\pos(1389,387)}Titanenstoß
+Dialogue: 0,0:19:31.73,0:19:34.74,TypePlaceholderBox,,0,0,0,,{\fnVerdana\b0\fs-4\pos(549,27)\c&H7D2068&\3c&HD150E9&}Gefundener Gegenstand
+Dialogue: 0,0:19:31.73,0:19:34.74,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\fs-2\pos(543,273)\c&HF6F19A&}Enthaupter des Dullahan-Generals
+Dialogue: 0,0:19:40.45,0:19:53.00,TypePlaceholder,,0,0,0,,{\fnVerdana Bold\fscx90\bord3\shad3\an2\c&HF3E587&\3c&H5A3A35&\4c&H5A3A35&\pos(720,816)}Enthaupter des Dullahan-Generals
+Dialogue: 0,0:20:40.55,0:20:41.64,TypePlaceholder,,0,0,0,,{\pos(1146,333)\org(1146,333)\fscx98.015\fscy99.992\frz-5.915\fry-4.053\frx0.68\fax-0.103\fnVerdana Bold\xbord2.94\ybord3\c&HEAD680&\3c&H958172&\blur6\fs+10}Emul
+Dialogue: 0,0:20:40.55,0:20:41.64,TypePlaceholder,,0,0,0,,{\pos(1495.5,639)\org(1495.5,639)\fscx98.015\fscy99.992\frz-5.915\fry-4.053\frx0.68\fax-0.103\fnVerdana Bold\xbord2.94\ybord3\c&HEAD680&\3c&H958172&\blur6\fs+10}Beelac
+Dialogue: 0,0:20:43.01,0:20:48.02,TypePlaceholder,,0,0,0,,{\p1\an7\fad(0,0)\1a&H20&\c&H361B14&\3c&HF5F22C&\blur3\pos(49.5,42)}m 0 0 l 705 0 l 705 495 l 0 495
+Dialogue: 0,0:20:43.01,0:20:48.02,TypePlaceholder,,0,0,0,,{\an7\fnImpact\b0\fax-0.1\fsp3\bord3\c&HCD9C28&\3c&HFFF6DD&\fs+2\pos(81,54)}Beelac
+Dialogue: 0,0:20:43.01,0:20:48.02,TypePlaceholder,,0,0,0,,{\an7\fnVerdana\b0\fsp3\fs-3\c&HFFF89E&\bord0\pos(82.5,142.5)}Meisterhandwerkerin\NNebenberuf: Archäologin\NKillerkaninchen-Meisterschmiedin\N{\fs-1.5}Verbleibende Fähigkeiten-\Npunkte: 0\NGeld: 0 Mani
+Dialogue: 0,0:20:43.01,0:20:48.02,TypePlaceholder,,0,0,0,,{\fnVerdana\c&HFFF89E&\b0\fs-5\fsp3\an7\bord0\pos(84,358.5)}Lebenspunkte: 175\NAusdauer: 120\NStärke: 130\NGeschicklichkeit: 120\NVitalität: 169
+Dialogue: 0,0:20:43.01,0:20:48.02,TypePlaceholder,,0,0,0,,{\fnVerdana\c&HFFF89E&\b0\fs-5\fsp3\an7\bord0\pos(451.5,358.5)}Mana: 530\N{\alpha&HFF}.{\alpha&H00&}\NAgilität: 30\NTechnik: 130\NGlück: 130
+Dialogue: 0,0:21:59.84,0:22:03.84,TypePlaceholder,Credits,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\pos(960,45)}Übersetzung: Markus Lange
+Dialogue: 0,0:21:59.84,0:22:03.84,TypePlaceholder,Credits,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\an2\pos(960,1035)}Spotting: Michael Gohl
+Dialogue: 0,0:22:04.34,0:22:08.31,TypePlaceholder,Credits,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\pos(960,45)}Revision & Typesetting: Jacqueline Philippi
+Dialogue: 0,0:22:04.34,0:22:08.31,TypePlaceholder,Credits,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\an2\pos(960,1035)}Qualitätskontrolle: Konrad Walter
+Dialogue: 0,0:22:08.85,0:22:12.81,TypePlaceholder,Credits,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\pos(960,45)}Projektleitung: Tobias Philippi
+Dialogue: 0,0:23:27.97,0:23:35.23,TypePlaceholder,Types,0,0,0,,{\fnComic Sans MS Bold\fs+4\bord0\shad6\fs+6\c&H7CEDEF&\4c&H51CBDA&\pos(960,9)}Sh{\c&HC297F0&\4c&H966CD6&}a{\c&H679FF8&\4c&H3171D7&}n{\c&HDE72BD&\4c&HB64897&}F{\c&H5B63E6&\4c&H484FC2&}ro
+Dialogue: 0,0:23:31.77,0:23:35.23,TypePlaceholder,Types,0,0,0,,{\fnComic Sans MS BOld\fad(493,0)\fs+4\fax-0.15\an3\c&HFAFFFE&\3c&H376777&\4c&H1C3F4D&\shad3.9\bord3.9\pos(1837.5,850.5)}#27 Ich wurde in einem Trash-Game wiedergeboren?!
+Dialogue: 0,0:23:32.35,0:23:35.23,TypePlaceholder,Types,0,0,0,,{\c&H515655&\fnComic Sans MS Bold\fad(333,0)\fs+2\bord0\frz43.99\pos(1447.5,118.5)}Mini

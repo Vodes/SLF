@@ -1,0 +1,299 @@
+﻿[Script Info]
+Title: Deutsch
+ScaledBorderAndShadow: yes
+Original Script: cr_de  [http://www.crunchyroll.com/user/cr_de]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+LayoutResX: 1920
+LayoutResY: 1080
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+Style: Flashback,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00013E12,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.94,0:00:06.99,Default,Erzählerin,0,0,0,,Auf dieser Welt gibt es\Nunzählige Videospiele.
+Dialogue: 0,0:00:07.99,0:00:12.37,Default,Erzählerin,0,0,0,,Doch die meisten davon gehen unter,\Nohne je bekannt gewesen zu sein.
+Dialogue: 0,0:00:13.70,0:00:16.41,Default,Erzählerin,0,0,0,,An der Spitze dieser Spiele steht
+Dialogue: 0,0:00:16.41,0:00:21.71,Default,Erzählerin,0,0,0,,das Full-Dive-VR-Game mit einer\Nweltweiten Spielerzahl von über 30 Millionen,
+Dialogue: 0,0:00:21.71,0:00:26.38,Default,Erzählerin,0,0,0,,das es absolut verdient, als Meisterwerk\Nbezeichnet zu werden: Shangri-La Frontier.
+Dialogue: 0,0:00:27.72,0:00:31.93,Default,Erzählerin,0,0,0,,Rakuro Hizutome, ein Junge,\Nder Trash-Games über alles liebt,
+Dialogue: 0,0:00:31.93,0:00:35.14,Default,Erzählerin,0,0,0,,wagt sich an das Meisterwerk\NShangri-La Frontier.
+Dialogue: 0,0:00:35.93,0:00:40.73,Default,Erzählerin,0,0,0,,Welche Abenteuer werden ihn\Nauf seinem Weg wohl erwarten?
+Dialogue: 0,0:02:19.16,0:02:23.00,Default,Sunraku,0,0,0,,Gut, dann nichts wie hoch da.
+Dialogue: 0,0:02:23.79,0:02:28.21,Default,Sunraku,0,0,0,,{\an8}Warte nur, ich komme, Kristallskorpion!
+Dialogue: 0,0:02:28.96,0:02:33.30,Default,Sunraku,0,0,0,,Mit Mondspringer verstärke ich\Nmeine vertikale Sprungkraft.
+Dialogue: 0,0:02:33.63,0:02:35.76,Default,Sunraku,0,0,0,,Dann ein Sechs-Schiffe-Sprung!
+Dialogue: 0,0:02:43.39,0:02:47.40,Default,Sunraku,0,0,0,,Kristallskorpione sind Monster\Nvom Level 100+.
+Dialogue: 0,0:02:47.40,0:02:49.61,Default,Sunraku,0,0,0,,Wie sehen die wohl aus?
+Dialogue: 0,0:02:49.61,0:02:53.40,Default,Sunraku,0,0,0,,Da muss ich schon\Naus Höflichkeit mal hallo sagen.
+Dialogue: 0,0:02:53.40,0:02:56.74,Default,Sunraku,0,0,0,,Dort warten unbekannte Gebiete\Nund Monster auf mich.
+Dialogue: 0,0:02:56.74,0:02:58.70,Default,Sunraku,0,0,0,,Da muss ich hin!
+Dialogue: 0,0:02:58.70,0:03:01.58,Default,Sunraku,0,0,0,,No risk, no fun!
+Dialogue: 0,0:03:14.17,0:03:17.22,Default,Sunraku,0,0,0,,Boah, ich glaub, ich seh nicht richtig!
+Dialogue: 0,0:03:17.55,0:03:21.76,Default,Sunraku,0,0,0,,Das ist ja wie eine Traumlandschaft,\Nganz anders als da unten.
+Dialogue: 0,0:03:27.23,0:03:32.19,Default,Sunraku,0,0,0,,Ziemlich glitschig.\NEinen festen Stand hat man hier nicht.
+Dialogue: 0,0:03:32.65,0:03:36.82,Default,Sunraku,0,0,0,,Also, wo ist mein\NKristallskorpion-Schätzchen?
+Dialogue: 0,0:03:37.16,0:03:38.95,Default,Sunraku,0,0,0,,Wie sieht er wohl aus?
+Dialogue: 0,0:03:48.58,0:03:50.63,Default,Sunraku,0,0,0,,Aha, er tarnt sich als Landschaft.
+Dialogue: 0,0:03:51.59,0:03:54.63,Default,Sunraku,0,0,0,,Wie schön, dich zu sehen,\NKristallskorpion!
+Dialogue: 0,0:03:59.59,0:04:01.18,Default,Sunraku,0,0,0,,Uwah, das war knapp.
+Dialogue: 0,0:04:11.19,0:04:13.02,Default,Sunraku,0,0,0,,Ey, du bist kein Rennwagen!
+Dialogue: 0,0:04:13.02,0:04:18.95,Default,Sunraku,0,0,0,,Du nutzt wohl den schlechten Untergrund,\Num die Spieler in die Ecke zu drängen.
+Dialogue: 0,0:04:21.95,0:04:26.16,Default,Sunraku,0,0,0,,Na, was ist?\NMehr als Losstürmen kannste nicht, was?
+Dialogue: 0,0:04:28.16,0:04:30.17,Default,Sunraku,0,0,0,,Genug beschnuppert.
+Dialogue: 0,0:04:30.54,0:04:33.50,Default,Sunraku,0,0,0,,So kann ich ihn noch nicht besiegen.
+Dialogue: 0,0:04:34.96,0:04:37.88,Default,Sunraku,0,0,0,,Ich sammle hier nur\Nein paar seltene Rohstoffe ein.
+Dialogue: 0,0:04:38.59,0:04:40.43,Default,Sunraku,0,0,0,,Das ist meine Mission hier.
+Dialogue: 0,0:04:43.64,0:04:46.85,Default,Sunraku,0,0,0,,Wenn mir das gelingt,\Nhab ich gewonnen.
+Dialogue: 0,0:05:04.95,0:05:07.87,Flashback,Beelac,0,0,0,,Gegen die komm nicht mal ich an.
+Dialogue: 0,0:05:07.87,0:05:12.46,Flashback,Beelac,0,0,0,,Die Kristallskorpione jagen in Gruppen.\NFinden sie dich, ist es aus.
+Dialogue: 0,0:05:25.56,0:05:27.64,Default,Sunraku,0,0,0,,{\i1}In der Tat …
+Dialogue: 0,0:05:28.02,0:05:29.81,Default,Sunraku,0,0,0,,{\i1}Es ist aus.
+Dialogue: 0,0:05:38.82,0:05:42.32,Default,Emul,0,0,0,,Wann kommt Sunraku endlich zurück?
+Dialogue: 0,0:05:43.45,0:05:47.95,Default,Emul,0,0,0,,Vielleicht weiß er nicht,\Nwie er zurück nach Hasingen kommt.
+Dialogue: 0,0:05:47.95,0:05:52.08,Default,Emul,0,0,0,,Ich hätte in Achdolt\Nauf ihn warten sollen!
+Dialogue: 0,0:05:52.08,0:05:53.83,Default,Sunraku,0,0,0,,Argh, verdammt!
+Dialogue: 0,0:05:53.83,0:05:57.46,Default,Sunraku,0,0,0,,So viele auf einmal ist doch unfair,\Nihr Krabbelviecher!
+Dialogue: 0,0:05:58.00,0:06:00.88,Default,Sunraku,0,0,0,,Oh, Emul.\NEin Portal nach Achdolt bitte.
+Dialogue: 0,0:06:01.92,0:06:04.01,Default,Emul,0,0,0,,Sunraku.
+Dialogue: 0,0:06:04.01,0:06:07.60,Default,Emul,0,0,0,,Du hast also doch\Ngegen die Kristallskorpione gekämpft!
+Dialogue: 0,0:06:07.60,0:06:08.68,Default,Sunraku,0,0,0,,Oh, Mist.
+Dialogue: 0,0:06:08.68,0:06:12.14,Default,Emul,0,0,0,,Hatte ich nicht gesagt,\Ndie sind gefährlich?!
+Dialogue: 0,0:06:12.14,0:06:13.27,Default,Sunraku,0,0,0,,Nerv nicht …
+Dialogue: 0,0:06:13.27,0:06:15.19,Default,Emul,0,0,0,,Hast du was gesagt?!
+Dialogue: 0,0:06:15.56,0:06:18.40,Default,Sunraku,0,0,0,,Hier, eine Karotte, wie versprochen.
+Dialogue: 0,0:06:18.40,0:06:19.86,Default,Emul,0,0,0,,Jippie!
+Dialogue: 0,0:06:23.20,0:06:25.87,Default,Emul,0,0,0,,Die ist köstlich!
+Dialogue: 0,0:06:25.87,0:06:29.16,Default,Sunraku,0,0,0,,Es ist fast gruselig,\Nwie leicht du rumzukriegen bist.
+Dialogue: 0,0:06:41.38,0:06:45.13,Default,Sunraku,0,0,0,,So, jetzt auf zum nächsten Versuch.
+Dialogue: 0,0:06:45.13,0:06:47.22,Default,Emul,0,0,0,,Willst du das wirklich machen?
+Dialogue: 0,0:06:47.22,0:06:50.72,Default,Sunraku,0,0,0,,Ich hör doch nicht als Verlierer\Nohne Ergebnisse auf.
+Dialogue: 0,0:06:50.72,0:06:52.68,Default,Sunraku,0,0,0,,Wir haben uns schon beschnuppert.
+Dialogue: 0,0:06:53.43,0:06:55.73,Default,Sunraku,0,0,0,,Mit leeren Händen komm ich nicht zurück.
+Dialogue: 0,0:07:04.78,0:07:05.78,Default,Sunraku,0,0,0,,So.
+Dialogue: 0,0:07:06.24,0:07:09.24,Default,Sunraku,0,0,0,,Ich schleiche mich still und heimlich an.
+Dialogue: 0,0:07:09.95,0:07:14.25,Default,Sunraku,0,0,0,,Da gab es nämlich einen Ort,\Nden ich mir anschauen wollte.
+Dialogue: 0,0:07:18.96,0:07:20.21,Default,Sunraku,0,0,0,,Ah, da ist er.
+Dialogue: 0,0:07:27.68,0:07:30.72,Default,Sunraku,0,0,0,,Den hab ich vorhin noch kurz gesehen …
+Dialogue: 0,0:07:31.35,0:07:36.77,Default,Sunraku,0,0,0,,Diesen schillernden Ort,\Nder nur so nach meinem Eispickel schreit.
+Dialogue: 0,0:07:39.44,0:07:43.94,Default,Sunraku,0,0,0,,Wahrscheinlich gibt es\Ndieses Item nur in diesem Gebiet.
+Dialogue: 0,0:07:45.78,0:07:46.61,Default,Sunraku,0,0,0,,Ups.
+Dialogue: 0,0:08:07.38,0:08:11.18,Default,Sunraku,0,0,0,,Verflucht! So schnell geb ich nicht auf!
+Dialogue: 0,0:08:17.77,0:08:21.48,Default,Sunraku,0,0,0,,Ich sammle es ein,\Nihr werdet schon sehen!
+Dialogue: 0,0:08:30.95,0:08:34.24,Default,Emul,0,0,0,,Das ging ja schnell diesmal.
+Dialogue: 0,0:08:37.00,0:08:40.62,Default,Sunraku,0,0,0,,Verdammt. Sie sind zu groß und schnell.
+Dialogue: 0,0:08:40.62,0:08:44.25,Default,Sunraku,0,0,0,,Und dann noch so viele\Nauf dem schlechten Untergrund.
+Dialogue: 0,0:08:44.59,0:08:46.63,Default,Sunraku,0,0,0,,Wie soll man da lebend rauskommen?
+Dialogue: 0,0:08:46.63,0:08:49.93,Default,Emul,0,0,0,,Na, was erkläre ich dir\Ndenn die ganze Zeit?
+Dialogue: 0,0:08:49.93,0:08:53.93,Default,Sunraku,0,0,0,,Ja. Aber ich hatte dir\Nauch etwas gesagt, Emul:
+Dialogue: 0,0:08:55.43,0:08:58.35,Default,Sunraku,0,0,0,,Ich komm nicht mit leeren Händen wieder.
+Dialogue: 0,0:09:00.44,0:09:01.69,Default,Sunraku,0,0,0,,Mal sehen.
+Dialogue: 0,0:09:01.69,0:09:02.48,Default,Emul,0,0,0,,Lass sehen!
+Dialogue: 2,0:09:03.36,0:09:05.90,Default,Sunraku,0,0,0,,Ein Aroncaleth-Lapislazuli.
+Dialogue: 2,0:09:05.90,0:09:11.86,Default,Sunraku,0,0,0,,„Entsteht nach langer Kompression und\NReinigung durch Mineral-fressende Monster.
+Dialogue: 2,0:09:11.86,0:09:15.70,Default,Sunraku,0,0,0,,Kristalle, die extrem viel Mana enthalten.
+Dialogue: 2,0:09:15.70,0:09:19.87,Default,Sunraku,0,0,0,,Das strahlende, vielschichtige Blau\Nist ein Zeitzeuge des Planeten.“
+Dialogue: 0,0:09:20.87,0:09:25.13,Default,Sunraku,0,0,0,,Wofür auch immer er nützlich ist,\Nihn zu holen hat sich sicher gelohnt!
+Dialogue: 0,0:09:25.13,0:09:27.51,Default,Sunraku,0,0,0,,Das lese ich nachher nach.
+Dialogue: 0,0:09:27.51,0:09:29.05,Default,Emul,0,0,0,,Hast du genug?
+Dialogue: 0,0:09:29.38,0:09:33.01,Default,Sunraku,0,0,0,,Ja. Ich höre zwar nur ungern auf.
+Dialogue: 0,0:09:33.01,0:09:35.68,Default,Sunraku,0,0,0,,Aber für heute soll es reichen.
+Dialogue: 0,0:09:38.10,0:09:40.27,Default,Emul,0,0,0,,Schlaf gut.
+Dialogue: 0,0:09:41.60,0:09:44.23,Default,Sunraku,0,0,0,,Diese Kristallskorpione.
+Dialogue: 0,0:09:44.23,0:09:49.03,Default,Sunraku,0,0,0,,Dummerweise brechen die Kristalle so leicht\Nund werden zu neuen Skorpionen.
+Dialogue: 0,0:09:49.03,0:09:51.65,Default,Sunraku,0,0,0,,Aber sehr schlau ist ihre KI nicht.
+Dialogue: 0,0:09:51.70,0:10:00.12,Default,Emul,0,0,0,,{\an8}Schlaf ein, schlaf ein. Wie mit Hasenohren.
+Dialogue: 0,0:09:56.20,0:10:00.16,Default,Sunraku,0,0,0,,Sie rammen ja nur\Nmit Gewalt in alles hinein.
+Dialogue: 0,0:10:00.79,0:10:06.25,Default,Sunraku,0,0,0,,Dabei haben sie sich sogar\Ngegenseitig die Panzer zertrümmert …
+Dialogue: 0,0:10:07.71,0:10:09.92,Default,Sunraku,0,0,0,,Warte, stopp, Moment mal!
+Dialogue: 0,0:10:09.92,0:10:13.51,Default,Sunraku,0,0,0,,Sind diese Panzersplitter\Nnicht gute Items?!
+Dialogue: 0,0:10:13.88,0:10:18.72,Default,Sunraku,0,0,0,,Argh, ich will nachschauen!\NIch muss meinen Einfall testen!
+Dialogue: 0,0:10:19.14,0:10:22.02,Default,Sunraku,0,0,0,,Emul, ein Portal!\NIch geh noch mal rüber!
+Dialogue: 0,0:10:22.02,0:10:26.73,Default,Emul,0,0,0,,Was? Du gibst immer noch nicht auf?\NDie machen dich platt.
+Dialogue: 0,0:10:27.11,0:10:31.15,Default,Sunraku,0,0,0,,Für neue Entdeckungen\Nfürchten Pioniere den Tod nicht!
+Dialogue: 0,0:10:31.15,0:10:33.61,Default,Emul,0,0,0,,Die Habgier schreit aus dir heraus.
+Dialogue: 0,0:10:34.41,0:10:38.74,Default,Sunraku,0,0,0,,Aber angenommen,\Nman kann sie als Items sammeln, …
+Dialogue: 0,0:10:38.74,0:10:40.83,Default,Sunraku,0,0,0,,wie stelle ich das an?
+Dialogue: 0,0:10:41.41,0:10:46.25,Default,Sunraku,0,0,0,,Den Stein vorhin hab ich ja\Nauch nur durch Glück bekommen.
+Dialogue: 0,0:10:46.92,0:10:48.38,Default,Emul,0,0,0,,Mannomann.
+Dialogue: 0,0:10:50.63,0:10:54.34,Default,Emul,0,0,0,,Das Mana für die Portale\Nfällt nicht vom Himmel.
+Dialogue: 0,0:10:56.34,0:10:58.47,Default,Sunraku,0,0,0,,Das ist es!
+Dialogue: 0,0:10:59.39,0:11:04.06,Default,Sunraku,0,0,0,,Danke für den Hinweis, Emul!\NDas wird klappen!
+Dialogue: 0,0:11:04.06,0:11:07.56,Default,Emul,0,0,0,,Wovon redest du?!
+Dialogue: 0,0:11:09.27,0:11:14.57,Default,Sunraku,0,0,0,,Wartet nur! Du verdammtes Minenfeld\Nvoller Level 100+ Monster!
+Dialogue: 0,0:11:14.57,0:11:17.57,Default,Sunraku,0,0,0,,Ich mach einen Kinderspielplatz aus dir!
+Dialogue: 0,0:11:18.41,0:11:22.79,Default,Emul,0,0,0,,Lass mich schon endlich runter!
+Dialogue: 0,0:11:34.05,0:11:37.26,Default,Sunraku,0,0,0,,He, ihr Lahmärsche, hier bin ich!
+Dialogue: 0,0:11:38.47,0:11:40.97,Default,Sunraku,0,0,0,,Uwah, da kriegt man echt Schiss!
+Dialogue: 0,0:11:49.98,0:11:52.86,Default,Sunraku,0,0,0,,Upsi, na so was, ich bin umzingelt.
+Dialogue: 0,0:11:52.86,0:11:56.53,Default,Sunraku,0,0,0,,Was jetzt?\NHilfe, ich steck ja sooo in der Klemme.
+Dialogue: 0,0:12:02.37,0:12:03.99,Default,Sunraku,0,0,0,,Scherz.
+Dialogue: 0,0:12:04.66,0:12:06.66,Default,Sunraku,0,0,0,,Sechs-Schiffe-Sprung!
+Dialogue: 0,0:12:12.21,0:12:13.55,Default,Sunraku,0,0,0,,Sehr schön!
+Dialogue: 0,0:12:14.00,0:12:16.05,Default,Sunraku,0,0,0,,Die Panzer sind gesplittert!
+Dialogue: 0,0:12:20.01,0:12:23.22,Default,Sunraku,0,0,0,,Diesmal soll ich in den Skorpionhäcksler?
+Dialogue: 0,0:12:23.22,0:12:26.35,Default,Sunraku,0,0,0,,Ein verlockendes Angebot,\Nich würd’s ja testen,
+Dialogue: 0,0:12:26.35,0:12:30.23,Default,Sunraku,0,0,0,,aber das könnte traumatisch werden,\Nalso verzichte ich.
+Dialogue: 0,0:12:31.27,0:12:33.11,Default,Sunraku,0,0,0,,Teleport: Speicher-Subraum.
+Dialogue: 0,0:12:50.21,0:12:53.09,Default,Sunraku,0,0,0,,Es lebe die Zivilisation! Inventoria!
+Dialogue: 0,0:12:53.09,0:12:56.63,Default,Sunraku,0,0,0,,Denn zuletzt lacht der mit den\NTechnologien!
+Dialogue: 0,0:12:59.38,0:13:02.76,Default,Sunraku,0,0,0,,Die Idee kam mir,\Nals Emul das Item benutzt hat.
+Dialogue: 0,0:13:02.76,0:13:08.10,Default,Sunraku,0,0,0,,Mit Inventoria kann ich mich\Nwie ein Item oder eine Waffe teleportieren
+Dialogue: 0,0:13:08.10,0:13:11.44,Default,Sunraku,0,0,0,,und mir so jederzeit\Nsichere Orte erschaffen!
+Dialogue: 0,0:13:12.19,0:13:17.90,Default,Sunraku,0,0,0,,Klug eingesetzt ist dieses Inventoria\Nein mächtiger Helfer.
+Dialogue: 0,0:13:18.65,0:13:22.45,Default,Sunraku,0,0,0,,So, Zeit mal wieder rüberzugehen.
+Dialogue: 0,0:13:23.37,0:13:25.41,Default,Sunraku,0,0,0,,Teleport: Realer Raum.
+Dialogue: 0,0:13:27.41,0:13:28.66,Default,Sunraku,0,0,0,,Hoppla.
+Dialogue: 0,0:13:42.72,0:13:44.43,Default,Sunraku,0,0,0,,Jippie!
+Dialogue: 0,0:13:44.43,0:13:48.35,Default,Sunraku,0,0,0,,Ich wusste es,\Ndie Kristallskorpione sind abgehauen.
+Dialogue: 0,0:13:48.35,0:13:51.39,Default,Sunraku,0,0,0,,Jetzt kann ich nach Herzenslust sammeln!
+Dialogue: 0,0:13:56.90,0:14:01.11,Default,Sunraku,0,0,0,,Items von so starken Monstern\Nsind sicher mega selten!
+Dialogue: 0,0:14:01.11,0:14:04.32,Default,Sunraku,0,0,0,,Daraus kann Beelac\Nsicher was Ultrastarkes basteln.
+Dialogue: 0,0:14:04.32,0:14:07.49,Default,Sunraku,0,0,0,,Ich bin so gut!\NIch bin einfach ein Genie!
+Dialogue: 0,0:14:09.66,0:14:10.91,Default,Sunraku,0,0,0,,Zack!
+Dialogue: 0,0:14:20.63,0:14:23.09,Default,Sunraku,0,0,0,,Ich mach aus euch allen Items!
+Dialogue: 0,0:14:23.09,0:14:26.47,Default,Sunraku,0,0,0,,Kommt ruhig. Zu zehnt oder zu hundert!
+Dialogue: 0,0:14:29.52,0:14:34.06,Default,Sunraku,0,0,0,,Hab Geduld, Beelac!\NIch schleppe dir bald reichlich Schätze an!
+Dialogue: 0,0:14:38.32,0:14:41.24,Default,Sunraku,0,0,0,,Ein Spieler kann nur begrenzt sammeln.
+Dialogue: 0,0:14:41.24,0:14:45.20,Default,Sunraku,0,0,0,,Übernimmt man sich,\Nwird man unter dem Gewicht zu langsam.
+Dialogue: 0,0:14:45.61,0:14:50.95,Default,Sunraku,0,0,0,,Aber mit dem Speicherschlüssel Inventoria\Nkann man unbegrenzt Items sammeln,
+Dialogue: 0,0:14:50.95,0:14:53.54,Default,Sunraku,0,0,0,,ohne dadurch eingeschränkt zu sein.
+Dialogue: 0,0:14:53.96,0:14:56.04,Default,Sunraku,0,0,0,,Wenn ich ihn klug nutze, …
+Dialogue: 0,0:15:02.88,0:15:06.05,Default,Sunraku,0,0,0,,kann ich Material\Nvom Level 100+ Kristallskorpion
+Dialogue: 0,0:15:06.05,0:15:08.80,Default,Sunraku,0,0,0,,einsammeln, so viel ich nur will!
+Dialogue: 0,0:15:08.80,0:15:10.89,Default,Sunraku,0,0,0,,Ein Hoch auf Inventoria!
+Dialogue: 0,0:15:11.43,0:15:14.31,Default,Sunraku,0,0,0,,Ich muss mich nur\Nin Inventoria zurückziehen,
+Dialogue: 0,0:15:14.31,0:15:16.44,Default,Sunraku,0,0,0,,bis die Kristallskorpione weg sind.
+Dialogue: 0,0:15:18.48,0:15:23.69,Default,Sunraku,0,0,0,,Dann kehre ich im passenden Moment\Nin die Realität zurück, und siehe da!
+Dialogue: 0,0:15:23.69,0:15:27.78,Default,Sunraku,0,0,0,,Die Kristallskorpione sind\Nwieder zu Kristallen geworden,
+Dialogue: 0,0:15:28.03,0:15:32.70,Default,Sunraku,0,0,0,,und auf dem Boden liegen die Items\Naus ihrer gegenseitigen Zerstörung herum!
+Dialogue: 0,0:15:33.08,0:15:36.33,Default,Sunraku,0,0,0,,Solche Tricks machen\Ndieses Spiel erst richtig gut!
+Dialogue: 0,0:15:36.33,0:15:39.21,Default,Sunraku,0,0,0,,Jetzt bekomme ich haufenweise Schätze!
+Dialogue: 0,0:15:39.96,0:15:44.55,Default,Sunraku,0,0,0,,Allerdings gehen meine MP\Nallmählich zur Neige.
+Dialogue: 0,0:15:44.55,0:15:48.47,Default,Sunraku,0,0,0,,Ich schätze mehr als einmal\Nkann ich Inventoria nicht mehr nutzen.
+Dialogue: 0,0:15:48.97,0:15:52.60,Default,Sunraku,0,0,0,,Sehr schön,\Nich hab schon jede Menge Drop-Items.
+Dialogue: 0,0:15:52.60,0:15:55.02,Default,Sunraku,0,0,0,,Noch einmal, dann geh ich heim.
+Dialogue: 0,0:15:55.89,0:16:00.98,Default,Sunraku,0,0,0,,Hach! Bei Rare-Drops macht allein\Nihre Auflistung mich schon glücklich.
+Dialogue: 0,0:16:03.15,0:16:06.57,Default,Sunraku,0,0,0,,Nanu? Moment mal.
+Dialogue: 0,0:16:06.57,0:16:08.74,Default,Sunraku,0,0,0,,Mir fehlt ja noch der Stachel!
+Dialogue: 0,0:16:09.28,0:16:13.62,Default,Sunraku,0,0,0,,Bei einem Skorpion-Gegner\Nist der Stachel als Item ein Muss!
+Dialogue: 0,0:16:13.62,0:16:15.87,Default,Sunraku,0,0,0,,Das ist doch sein Markenzeichen!
+Dialogue: 0,0:16:16.96,0:16:22.42,Default,Sunraku,0,0,0,,Ist der Stachel so robust, dass sie ihn\Nsich nicht gegenseitig zerschlagen können?
+Dialogue: 0,0:16:23.34,0:16:26.38,Default,Sunraku,0,0,0,,Wenn das so ist, wäre es gut möglich, …
+Dialogue: 0,0:16:26.84,0:16:31.18,Default,Sunraku,0,0,0,,dass der Stachel\Neines Kristallskorpions ein Rare-Drop ist!
+Dialogue: 0,0:16:31.55,0:16:33.22,Default,Sunraku,0,0,0,,So, so.
+Dialogue: 0,0:16:33.22,0:16:36.27,Default,Sunraku,0,0,0,,Dann muss ich ihn umso mehr einsacken.
+Dialogue: 0,0:16:36.27,0:16:36.89,Default,Sunraku,0,0,0,,Aber …
+Dialogue: 0,0:16:37.89,0:16:40.15,Default,Sunraku,0,0,0,,Um diesen Rare-Drop zu bekommen,
+Dialogue: 0,0:16:40.15,0:16:44.52,Default,Sunraku,0,0,0,,muss ich auf schlechtem Untergrund\Nmassenweise Level 100+ Gegner
+Dialogue: 0,0:16:44.52,0:16:47.11,Default,Sunraku,0,0,0,,bekämpfen und ihren Stachel zerstören.
+Dialogue: 0,0:16:48.61,0:16:52.99,Default,Sunraku,0,0,0,,Außerdem wird ein normaler Angriff\Nden Stachel kaum jucken.
+Dialogue: 0,0:16:53.24,0:16:56.50,Default,Sunraku,0,0,0,,Denn er ist steinhart und superrobust.
+Dialogue: 0,0:17:07.51,0:17:11.97,Default,Sunraku,0,0,0,,Mannomann.\NDas klingt mir hart nach einem Trash-Game.
+Dialogue: 0,0:17:14.76,0:17:19.64,Default,Sunraku,0,0,0,,Aber das macht’s auch erst interessant!\NIch werd’s euch zeigen.
+Dialogue: 0,0:17:20.02,0:17:24.23,Default,Sunraku,0,0,0,,Ich krieg euch an eurem Stachel,\Nauf den ihr so stolz seid!
+Dialogue: 0,0:17:24.23,0:17:26.65,Default,Sunraku,0,0,0,,Bei meiner Ehre als Trash-Gamer!
+Dialogue: 0,0:17:40.46,0:17:42.46,Default,Sunraku,0,0,0,,Trotz meiner Buffs nur das?
+Dialogue: 0,0:17:42.46,0:17:46.21,Default,Sunraku,0,0,0,,Ich wusste ja, dass sie hart sind,\Naber nicht mal ein Kratzer?!
+Dialogue: 0,0:17:51.68,0:17:55.43,Default,Sunraku,0,0,0,,{\i1}Wie vermutet bin ich alleine\Nnicht stark genug.
+Dialogue: 0,0:17:57.68,0:18:02.31,Default,Sunraku,0,0,0,,{\i1}Ich muss ihre Angriffe gezielt\Nauf einen Stachel lenken.
+Dialogue: 0,0:18:03.65,0:18:07.36,Default,Sunraku,0,0,0,,{\i1}Aber ich kann ihre Bewegungen\Nnicht komplett steuern.
+Dialogue: 0,0:18:07.61,0:18:09.65,Default,Sunraku,0,0,0,,{\i1}In einem zufälligen System …
+Dialogue: 0,0:18:09.90,0:18:11.82,Default,Sunraku,0,0,0,,{\i1}die beste Zufallszahl ziehen.
+Dialogue: 0,0:18:12.40,0:18:15.07,Default,Sunraku,0,0,0,,{\i1}Das macht einen guten Spieler aus!
+Dialogue: 0,0:18:18.99,0:18:22.21,Default,Sunraku,0,0,0,,{\i1}Ich weiche den Stacheln aus …\Nund lande darauf!
+Dialogue: 0,0:18:24.17,0:18:27.96,Default,Sunraku,0,0,0,,{\i1}Dann lenke ich die Angriffe\Nder anderen bis zuletzt auf mich.
+Dialogue: 0,0:18:28.46,0:18:30.88,Default,Sunraku,0,0,0,,{\i1}Das klappt! Das ist meine Taktik!
+Dialogue: 0,0:18:31.47,0:18:33.88,Default,Sunraku,0,0,0,,{\i1}Ich hab nur diese eine Chance.
+Dialogue: 0,0:18:34.93,0:18:36.93,Default,Sunraku,0,0,0,,Speicher-Subraum!
+Dialogue: 0,0:18:42.68,0:18:45.44,Default,Sunraku,0,0,0,,Und direkt zurück zum realen Raum.
+Dialogue: 0,0:18:48.98,0:18:51.15,Default,Sunraku,0,0,0,,Meine Position ist perfekt!
+Dialogue: 0,0:18:51.44,0:18:54.07,Default,Sunraku,0,0,0,,Göttin des Zufalls, du bist die Beste!
+Dialogue: 0,0:18:54.07,0:18:57.57,Default,Sunraku,0,0,0,,Der Stachel ist ausreichend beschädigt!
+Dialogue: 0,0:18:57.91,0:19:00.45,Default,Sunraku,0,0,0,,Glühender Dorn!
+Dialogue: 0,0:19:04.29,0:19:07.04,Default,Sunraku,0,0,0,,Zerberste!
+Dialogue: 0,0:19:10.17,0:19:12.59,Default,Sunraku,0,0,0,,Yeah, da habt ihr’s!
+Dialogue: 0,0:19:12.59,0:19:16.05,Default,Sunraku,0,0,0,,So was ist doch ein Klacks für mich!
+Dialogue: 0,0:19:16.64,0:19:19.89,Default,Sunraku,0,0,0,,Hab ich dich, mein Rare-Drop!
+Dialogue: 0,0:19:19.89,0:19:22.31,Default,Sunraku,0,0,0,,{\i1}Ich muss ihn nur greifen …
+Dialogue: 0,0:19:22.31,0:19:26.60,Default,Sunraku,0,0,0,,{\i1}selbst wenn ich danach sterbe,\Nkann ich ihn mit zurückneh…
+Dialogue: 0,0:19:26.60,0:19:28.56,Default,Sunraku,0,0,0,,{\i1}Nanu? Ähm …
+Dialogue: 0,0:19:28.56,0:19:29.61,Default,Sunraku,0,0,0,,{\i1}Hä?
+Dialogue: 0,0:19:29.86,0:19:32.61,Default,Sunraku,0,0,0,,{\i1}Der ist weiter weg, als ich dachte.
+Dialogue: 0,0:19:33.44,0:19:36.82,Default,Sunraku,0,0,0,,{\i1}Hä? Das kann nicht sein,\Nich war fast dran …
+Dialogue: 0,0:19:37.32,0:19:40.37,Default,Sunraku,0,0,0,,{\i1}Wär ich nur um\Nein paar Grad anders gesprungen …
+Dialogue: 0,0:19:40.91,0:19:42.24,Default,Sunraku,0,0,0,,{\i1}hätte ich ihn.
+Dialogue: 0,0:19:43.83,0:19:49.08,Default,Sunraku,0,0,0,,{\i1}He, hörst du mich? Zufallsgöttin?!
+Dialogue: 0,0:19:49.08,0:19:54.09,Default,Sunraku,0,0,0,,{\i1}Warum bist du nur so gemein zu mir?
+Dialogue: 0,0:20:00.01,0:20:03.89,Default,Emul,0,0,0,,A-Alles in Ordnung, Sunraku?!
+Dialogue: 0,0:20:07.73,0:20:11.90,Default,Emul,0,0,0,,Du liegst nur wie gelähmt da\Nund zitterst noch dabei.
+Dialogue: 0,0:20:13.53,0:20:14.44,Default,Sunraku,0,0,0,,Ja.
+Dialogue: 0,0:20:14.90,0:20:19.20,Default,Sunraku,0,0,0,,Die Stacheln der Skorpione\Nkönnen zerstört und eingesammelt werden.
+Dialogue: 0,0:20:19.87,0:20:23.91,Default,Sunraku,0,0,0,,Nun, immerhin weiß ich das jetzt.\NDas ist ja auch schon etwas.
+Dialogue: 0,0:20:24.54,0:20:27.87,Default,Sunraku,0,0,0,,Das ist genug. Ja, genau.
+Dialogue: 0,0:20:28.96,0:20:34.50,Default,Sunraku,0,0,0,,Von wegen, ey!\NWas bringt das, wenn ich ihn nicht kriege?!
+Dialogue: 0,0:20:36.42,0:20:40.14,Default,Sunraku,0,0,0,,Zufallsgöttin?! Du kannst mich mal!
+Dialogue: 0,0:20:40.14,0:20:44.35,Default,Sunraku,0,0,0,,So kurz davor zu sein,\Nhaut psychisch echt rein, Mann!
+Dialogue: 0,0:20:44.35,0:20:47.02,Default,Sunraku,0,0,0,,Außerdem bin ich\Nin den Skorpionhäcksler geraten,
+Dialogue: 0,0:20:47.02,0:20:50.31,Default,Sunraku,0,0,0,,warum zur Hölle zerspringt\Ndiese Starrende Vogelmaske nicht?!
+Dialogue: 0,0:20:50.31,0:20:53.94,Default,Sunraku,0,0,0,,War das ein Wunder? Ausgerechnet hier\Nkommt der Wunder-Faktor?!
+Dialogue: 0,0:20:53.94,0:20:57.44,Default,Sunraku,0,0,0,,Das ist doch zum Durchdrehen!
+Dialogue: 0,0:20:57.99,0:21:01.95,Default,Emul,0,0,0,,Sunraku leidet an\Nextremen Stimmungsschwankungen.
+Dialogue: 0,0:21:04.74,0:21:06.91,Default,Sunraku,0,0,0,,Ich hab da den Dicken markiert.
+Dialogue: 0,0:21:06.91,0:21:10.46,Default,Sunraku,0,0,0,,Ich mach besser erst mal\Neinen Bogen um die Skorpione.
+Dialogue: 0,0:21:16.34,0:21:20.47,Default,Sunraku,0,0,0,,Um mich psychisch davon zu erholen,\Ngibt’s nur eins.
+Dialogue: 0,0:21:21.30,0:21:23.01,Default,Emul,0,0,0,,Was denn?
+Dialogue: 0,0:21:23.43,0:21:27.43,Default,Sunraku,0,0,0,,Ich halte Beelac die Items\Nunter die Nase, damit sie mich verehrt!
+Dialogue: 0,0:21:28.31,0:21:33.27,Default,Sunraku,0,0,0,,Sie wird zu schätzen wissen,\Nwie wertvoll meine heutige Beute ist!
+Dialogue: 0,0:21:33.27,0:21:35.44,Default,Sunraku,0,0,0,,Gesagt, getan, los gehts, Emul!
+Dialogue: 0,0:21:35.98,0:21:36.98,Default,Sunraku,0,0,0,,Äh …
+Dialogue: 0,0:21:37.36,0:21:39.19,Default,Sunraku,0,0,0,,Ja, sicher.
+Dialogue: 0,0:21:39.19,0:21:44.49,Default,Sunraku,0,0,0,,Die größte Freude ist eben doch,\Nanderen seine Trophäen zu präsentieren!
+Dialogue: 0,0:21:44.49,0:21:46.99,Default,Emul,0,0,0,,Eine ziemlich jämmerliche Einstellung.
+Dialogue: 0,0:21:46.99,0:21:50.54,Default,Sunraku,0,0,0,,Pah! Netter Versuch,\Nich nehm’s als Kompliment!
+Dialogue: 0,0:23:25.63,0:23:29.47,Default,Sunraku,0,0,0,,ShanFro-Theater!
+Dialogue: 0,0:23:29.47,0:23:31.18,Default,Sunraku,0,0,0,,Mini!
+Dialogue: 0,0:23:38.31,0:23:40.61,Default,Sunraku,0,0,0,,Verflucht seist du, Lycaon!
+Dialogue: 0,0:23:41.52,0:23:44.78,Default,Sunraku,0,0,0,,Was’ los?\NWieder am Kräfteverschwenden?
+Dialogue: 0,0:23:44.78,0:23:47.07,Default,Sunraku,0,0,0,,Es gibt einen Glitch,\Nmit dem man
+Dialogue: 0,0:23:47.07,0:23:51.12,Default,Sunraku,0,0,0,,eine Mini-Chance hat, Lycaons Fluch\Nzu brechen und die Rüstung zu tragen.
+Dialogue: 0,0:23:51.12,0:23:53.66,Default,Pencilgon,0,0,0,,Na ja, träumen darf ja jeder.
+Dialogue: 0,0:23:53.66,0:23:55.54,Default,Pencilgon,0,0,0,,Der Rest aber kostet.
+Dialogue: 0,0:23:55.54,0:23:57.33,Default,Sunraku,0,0,0,,Das Leben ist so hart!
+Dialogue: 0,0:23:57.33,0:24:01.96,Default,Sunraku,0,0,0,,Aber Lycaon selbst wird ja\Nziemlich oft herausgefordert.
+Dialogue: 0,0:24:01.96,0:24:03.71,Default,Sunraku,0,0,0,,Nur besiegt hat ihn keiner.
+Dialogue: 0,0:24:06.01,0:24:09.68,Default,Pencilgon,0,0,0,,Hm, stimmt. Mom…
+Dialogue: 0,0:24:09.68,0:24:12.76,Default,Pencilgon,0,0,0,,Eine Bekannte fordert ihn eifrig heraus.
+Dialogue: 0,0:24:12.76,0:24:14.47,Default,Sunraku,0,0,0,,Aber besiegt ihn nicht.
+Dialogue: 0,0:24:14.47,0:24:17.98,Default,Pencilgon,0,0,0,,Sag ihr das nicht ins Gesicht.\NAuch wenn ich’s getan hab.
+Dialogue: 0,0:24:17.98,0:24:19.69,Default,Sunraku,0,0,0,,Was, echt?
+Dialogue: 0,0:24:21.52,0:24:24.48,Default,Sunraku,0,0,0,,Nur zur Info für meine Erfahrungswerte:
+Dialogue: 0,0:24:24.48,0:24:26.11,Default,Sunraku,0,0,0,,Wie hat sie gekämpft?
+Dialogue: 0,0:24:26.11,0:24:31.99,Default,Pencilgon,0,0,0,,Na ja … meines Wissens haben sie\Nin Kranichformation angegriffen,
+Dialogue: 0,0:24:31.99,0:24:35.91,Default,Pencilgon,0,0,0,,wurden aber umrannt\Nund wie Bowlingkugeln weggeschleudert.
+Dialogue: 0,0:24:38.50,0:24:39.67,Default,Sunraku,0,0,0,,Hm?
+Dialogue: 0,0:24:39.67,0:24:44.50,Default,Pencilgon,0,0,0,,Ach ja, und\Nder Dynamit-Fleischknochen-Muskel-Kracher.
+Dialogue: 0,0:24:44.50,0:24:49.59,Default,Pencilgon,0,0,0,,Der sei wohl ganz effektiv gewesen,\Nmeinte Momo.
+Dialogue: 0,0:24:49.59,0:24:50.64,Default,Sunraku,0,0,0,,Der … was?
+Dialogue: 0,0:24:50.64,0:24:53.05,Default,Pencilgon,0,0,0,,Oh, schon so spät!
+Dialogue: 0,0:24:53.05,0:24:56.14,Default,Pencilgon,0,0,0,,Sorry, ich logge mich aus,\Nmuss früh raus morgen.
+Dialogue: 0,0:24:56.14,0:24:58.81,Default,Sunraku,0,0,0,,He, warte! Erklär das zu Ende!
+Dialogue: 0,0:25:00.19,0:25:03.82,Default,Sunraku,0,0,0,,Dynamit-Fleischknochen-Muskel-Kracher?
+Dialogue: 0,0:25:05.28,0:25:08.82,Default,Sunraku,0,0,0,,Dynamit-Fleischknochen-Muskel-Kracher.
+Dialogue: 0,0:25:10.24,0:25:13.83,Default,Sunraku,0,0,0,,Dynamit-Fleischknochen-Muskel-Kracher.
+Dialogue: 0,0:25:16.95,0:25:21.08,Default,Sunraku,0,0,0,,S-Sunraku, was in aller Welt ist das?!
+Dialogue: 0,0:25:27.80,0:25:30.38,Default,Sunraku,0,0,0,,Der Fleischknochen-Muskel-Kracher!
+Dialogue: 0,0:25:30.38,0:25:33.26,Default,Sunraku,0,0,0,,Fleischknochen-Muskel-Kracher?
+Dialogue: 0,0:25:34.26,0:25:37.02,Default,Sunraku,0,0,0,,Fehlt nur noch das Dynamit.
+Dialogue: 0,0:25:37.56,0:25:39.60,Default,Sunraku,0,0,0,,Also eine Explosion.
+Dialogue: 0,0:25:39.89,0:25:42.77,Default,Sunraku,0,0,0,,Da kommst du ins Spiel, Emul.
+Dialogue: 0,0:25:42.77,0:25:46.19,Default,Sunraku,0,0,0,,Was hast du mit mir vor?!
+Dialogue: 0,0:25:46.19,0:25:49.36,Default,Sunraku,0,0,0,,Explosion?\NWillst du mich in die Luft jagen?
+Dialogue: 0,0:25:49.65,0:25:53.03,Default,Sunraku,0,0,0,,Du kannst es. Werde zu Dynamit!
+Dialogue: 0,0:25:53.82,0:25:57.91,Default,Sunraku,0,0,0,,Ich will aber nicht!
