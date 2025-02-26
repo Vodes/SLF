@@ -86,6 +86,11 @@
 
 ## EP14
 
-- [x] 00:21 - ~~CR Italics Tag `Shangri-La Frontier` fuck up~~ [Fixed]()
-- [x] 00:32 - ~~CR Italics Tag `Shangri-La Frontier` fuck up~~ [Fixed]()
-- [x] 21:48 - ~~CR Italics Tag `Shangri-La Frontier` fuck up~~ [Fixed]()
+- [x] 00:21 - ~~CR Italics Tag `Shangri-La Frontier` fuck up~~ [Fixed](https://github.com/Vodes/SLF/commit/4f297f23dd7bda035d9e527ebcb7609422b8c942)
+- [x] 00:32 - ~~CR Italics Tag `Shangri-La Frontier` fuck up~~ [Fixed](https://github.com/Vodes/SLF/commit/4f297f23dd7bda035d9e527ebcb7609422b8c942)
+- [x] 21:48 - ~~CR Italics Tag `Shangri-La Frontier` fuck up~~ [Fixed](https://github.com/Vodes/SLF/commit/4f297f23dd7bda035d9e527ebcb7609422b8c942)
+
+## EP15
+
+- [x] 02:58 - ~~CR Italics Tag `Shangri-La Frontier` fuck up~~ [Fixed]()
+- [x] ~~18:47 - Sign needs to be on screen a smidge longer~~ [Fixed]()
