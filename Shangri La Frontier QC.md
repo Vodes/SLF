@@ -77,8 +77,10 @@
 
 ## EP13
 
-- [x] 00:21 - ~~CR Italics Tag `Shangri-La Frontier` fuck up~~ [Fixed]()
-- [x] 00:32 - ~~CR Italics Tag `Shangri-La Frontier` fuck up~~ [Fixed]()
-- [x] 11:58 - ~~Kill the dashes~~ [Fixed]()
+- [x] 00:21 - ~~CR Italics Tag `Shangri-La Frontier` fuck up~~ [Fixed](https://github.com/Vodes/SLF/commit/5afd17a5adebd78a94f08f90655dbf4d5ed6d401)
+- [x] 00:32 - ~~CR Italics Tag `Shangri-La Frontier` fuck up~~ [Fixed](https://github.com/Vodes/SLF/commit/5afd17a5adebd78a94f08f90655dbf4d5ed6d401)
+- [x] 11:58 - ~~Kill the dashes, swapped clauses~~ [Fixed](https://github.com/Vodes/SLF/commit/5afd17a5adebd78a94f08f90655dbf4d5ed6d401)
+- [x] 12:01 - ~~`handicap` to `gap`~~[Fixed]()
 - [ ] 14:56 - More em dashes, very clunkly.
-- [x] 22:35 - ~~Rei's thoughts need italics.~~ [Fixed]()
+- [x] 22:35 - ~~Rei's thoughts need italics.~~ [Fixed](https://github.com/Vodes/SLF/commit/5afd17a5adebd78a94f08f90655dbf4d5ed6d401)
+ 

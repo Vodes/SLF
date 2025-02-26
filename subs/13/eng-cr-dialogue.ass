@@ -18,9 +18,9 @@ Video File: ../../../Shangri-La Frontier - S01E13 (BD 1080p HEVC) [Vodes].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
-Scroll Position: 285
-Active Line: 302
-Video Position: 32555
+Scroll Position: 117
+Active Line: 146
+Video Position: 17311
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -175,7 +175,7 @@ Dialogue: 0,0:11:40.18,0:11:41.68,Default,Emul,0,0,0,,Stop it!
 Dialogue: 0,0:11:43.97,0:11:45.27,Default,Pencilgon,0,0,0,,Oh, right, I forgot!
 Dialogue: 0,0:11:47.02,0:11:50.19,Default,Pencilgon,0,0,0,,You guys are as stupid as I am!
 Dialogue: 0,0:11:58.03,0:12:01.99,Default,Pencilgon,0,0,0,,We're facing something \Nunprecedented in boss battle history: {We're facing a unique monster which \Nforces a 150 level handicap—}
-Dialogue: 0,0:12:01.99,0:12:05.29,Default,Pencilgon,0,0,0,,a unique monster which \Nforces a 150 level handicap—{something unprecedented \Nin boss battle history—} 
+Dialogue: 0,0:12:01.99,0:12:05.29,Default,Pencilgon,0,0,0,,a unique monster which \Nforces a 150 level gap—{something unprecedented \Nin boss battle history—}
 Dialogue: 0,0:12:06.12,0:12:07.92,Default,Pencilgon,0,0,0,,Wethermon the Tombguard.
 Dialogue: 0,0:12:08.71,0:12:10.92,Default,Pencilgon,0,0,0,,But I know we can do this!
 Dialogue: 0,0:12:11.25,0:12:13.42,Default,Pencilgon,0,0,0,,Let's take this seriously and win!
