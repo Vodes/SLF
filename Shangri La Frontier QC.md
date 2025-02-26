@@ -70,7 +70,15 @@
 
 ## EP12
 
+- [x] 00:21 - ~~CR Italics Tag `Shangri-La Frontier` fuck up~~ [Fixed](https://github.com/Vodes/SLF/commit/e55c4213039dc7f081df9c5bed61c1f2f620a7a1)
+- [x] 00:32 - ~~CR Italics Tag `Shangri-La Frontier` fuck up~~ [Fixed](https://github.com/Vodes/SLF/commit/e55c4213039dc7f081df9c5bed61c1f2f620a7a1)
+- [x] 03:00 - ~~Extra `do` removed~~ [Fixed](https://github.com/Vodes/SLF/commit/e55c4213039dc7f081df9c5bed61c1f2f620a7a1)
+- [x] 12:25 - ~~Sunraku's thoughts need italicising, CR left a `{\i0}`~~[Fixed](https://github.com/Vodes/SLF/commit/e55c4213039dc7f081df9c5bed61c1f2f620a7a1)
+
+## EP13
+
 - [x] 00:21 - ~~CR Italics Tag `Shangri-La Frontier` fuck up~~ [Fixed]()
 - [x] 00:32 - ~~CR Italics Tag `Shangri-La Frontier` fuck up~~ [Fixed]()
-- [x] 03:00 - ~~Extra `do` removed~~ [Fixed]()
-- [x] 12:25 - ~~Sunraku's thoughts need italicising, CR left a `{\i0}`~~[Fixed]()
+- [x] 11:58 - ~~Kill the dashes~~ [Fixed]()
+- [ ] 14:56 - More em dashes, very clunkly.
+- [x] 22:35 - ~~Rei's thoughts need italics.~~ [Fixed]()
