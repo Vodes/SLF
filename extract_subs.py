@@ -13,7 +13,7 @@ STRIP_TAGS_REGEX = r'\{[^}]*\}'
 
 REMOVE_HEADERS = [("Original Translation", None), ("Original Editing", None), ("Original Timing", None), ("Synch Point", None), ("Script Updated By", None), ("Update Details", None), ("Timer", None)]
 
-episode = "20"
+episode = "25"
 
 Setup(episode, None, clean_work_dirs=True, debug=False)
 
@@ -23,7 +23,7 @@ cr_trim = (-24, None)
 amazon = ensure_path(R"F:\Sources\Shangri-La\Shangri-La.Frontier.S01.288p.AMZN.WEB-DL.DDP2.0.H.264", None) / f"Shangri-La.Frontier.S01E{episode}.288p.AMZN.WEB-DL.DDP2.0.H.264.mkv"
 amazon_trim = (122 - 24, None)
 
-premux = ensure_path(R"E:\Encoding Stuff\# Doing\Shangri\premux", None) / f"Shangri-La Frontier - {episode} (premux).mkv"
+premux = ensure_path(R"E:\Encoding Stuff\# Doing\Shangri\premux-new", None) / f"Shangri-La Frontier - {episode} (premux).mkv"
 
 def split_into_theater_and_regular(sub: SubFile) -> tuple[SubFile, SubFile]:
     sub2 = sub.clean_extradata().clean_garbage().copy()

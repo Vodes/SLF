@@ -1,0 +1,359 @@
+﻿[Script Info]
+Title: Deutsch
+ScaledBorderAndShadow: yes
+Original Script: cr_de  [http://www.crunchyroll.com/user/cr_de]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+LayoutResX: 1920
+LayoutResY: 1080
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+Style: Alt,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00743E15,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+Style: Flashback,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00013E12,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:31.32,0:01:33.87,Default,Beelac,0,0,0,,{\an8}I-Ist das etwa …
+Dialogue: 0,0:01:34.24,0:01:39.12,Default,Beelac,0,0,0,,{\an8}Die Königin der Legierungsrohstoffe,\N’n Aroncaleth-Lapislazuli?!
+Dialogue: 0,0:01:40.58,0:01:43.04,Default,Beelac,0,0,0,,U-Und hier noch …\NDer beste Stern am Himmelszelt,
+Dialogue: 0,0:01:43.04,0:01:46.46,Default,Beelac,0,0,0,,das Lapisteria-Sternenjuwel?!\NWarte …
+Dialogue: 0,0:01:46.46,0:01:49.05,Default,Beelac,0,0,0,,Ist das ’n Rowen’anva-Bernstein?!
+Dialogue: 0,0:01:49.05,0:01:52.63,Default,Beelac,0,0,0,,So groß bekommt man den selten!
+Dialogue: 0,0:01:53.43,0:01:54.64,Default,Beelac,0,0,0,,Whoa!
+Dialogue: 0,0:01:54.64,0:01:58.01,Default,Beelac,0,0,0,,’n Amurcidianischer Quartz!
+Dialogue: 0,0:01:58.01,0:02:00.39,Default,Emul,0,0,0,,Ich wüsste gern, wovon sie redet.
+Dialogue: 0,0:02:02.14,0:02:05.27,Default,Sunraku,0,0,0,,Ich hab sogar noch mehr, Beelac!
+Dialogue: 0,0:02:05.27,0:02:07.77,Default,Beelac,0,0,0,,Zähes Kristallbein, Skorpionpanzer,
+Dialogue: 0,0:02:07.77,0:02:09.36,Default,Beelac,0,0,0,,Trennende Kristallschere!
+Dialogue: 0,0:02:09.36,0:02:12.78,Default,Sunraku,0,0,0,,Allerlei Rohstoffe der Kristallskorpione!
+Dialogue: 0,0:02:12.78,0:02:18.37,Default,Beelac,0,0,0,,Uwah! Du warst wirklich\Nin der Kristallregion?!
+Dialogue: 0,0:02:18.37,0:02:22.41,Default,Beelac,0,0,0,,Das sind so viele Rare-Items,\Nmir platzt gleich der Kopf!
+Dialogue: 0,0:02:22.41,0:02:27.38,Default,Emul,0,0,0,,Aber den Stachel der Kristallskorpione\Nkonnte er nicht besorg…
+Dialogue: 0,0:02:27.88,0:02:32.67,Default,Sunraku,0,0,0,,Komm, braves Kind, iss deine Möhre.
+Dialogue: 0,0:02:32.67,0:02:35.84,Default,Sunraku,0,0,0,,Also, Beelac,\Nkommen wir gleich zur Sache.
+Dialogue: 0,0:02:35.84,0:02:39.18,Default,Sunraku,0,0,0,,Welche Waffen kannst du\Naus diesen tollen Sachen machen?
+Dialogue: 0,0:02:39.18,0:02:43.94,Default,Beelac,0,0,0,,Edelsteine waren für mich\Nnichts als Baumaterialien.
+Dialogue: 0,0:02:49.11,0:02:52.82,Default,Beelac,0,0,0,,Aber mit so was Schönem vor der Nase …
+Dialogue: 0,0:02:52.82,0:02:56.78,Default,Beelac,0,0,0,,verspürt man glatt Glücksgefühle.
+Dialogue: 0,0:02:58.24,0:03:03.08,Default,Beelac,0,0,0,,Zum ersten Mal weiß ich,\Nwie sich die Cait Sith fühlen müssen.
+Dialogue: 0,0:03:14.22,0:03:16.59,Default,Beelac,0,0,0,,Uwaääärgh!
+Dialogue: 0,0:03:19.97,0:03:22.39,Default,Beelac,0,0,0,,He, was zur Hölle soll das?!
+Dialogue: 0,0:03:22.39,0:03:25.18,Default,Sunraku,0,0,0,,Was du draus machen kannst,\Nhab ich gefragt.
+Dialogue: 0,0:03:28.06,0:03:29.61,Default,Beelac,0,0,0,,Mal sehen.
+Dialogue: 0,0:03:29.61,0:03:34.61,Default,Beelac,0,0,0,,Aus den Rohstoffen der Kristallskorpione\Nkann man Waffen machen.
+Dialogue: 0,0:03:34.61,0:03:36.36,Default,Sunraku,0,0,0,,Aha, aha.
+Dialogue: 0,0:03:36.36,0:03:40.83,Default,Beelac,0,0,0,,Aber diese Edelsteine fallen\Nin die Gruppe der Schmuckausrüstung.
+Dialogue: 0,0:03:40.83,0:03:43.12,Default,Beelac,0,0,0,,Die gehören nicht zu uns Schmieden,
+Dialogue: 0,0:03:43.12,0:03:45.00,Default,Beelac,0,0,0,,sondern zu Juwelieren.
+Dialogue: 0,0:03:45.00,0:03:46.37,Default,Sunraku,0,0,0,,Juweliere?
+Dialogue: 0,0:03:47.00,0:03:50.75,Default,Beelac,0,0,0,,Es gibt Schmuckausrüstung,\Ndie sich beim Anlegen aktiviert.
+Dialogue: 0,0:03:50.75,0:03:56.63,Default,Beelac,0,0,0,,Und dafür gibt es Spezialisten\Nfür Ausrüstungen mit Edelsteinen.
+Dialogue: 0,0:03:57.05,0:04:00.22,Default,Sunraku,0,0,0,,Oho, also stellen sie Schmuck her?
+Dialogue: 0,0:04:00.22,0:04:03.26,Default,Sunraku,0,0,0,,Und wo ist der Juwelier in Hasingen?
+Dialogue: 0,0:04:03.64,0:04:05.77,Default,Sunraku,0,0,0,,{\i1}Ist das wieder\Neiner von Emuls Verwandten?
+Dialogue: 0,0:04:07.44,0:04:10.19,Default,Beelac,0,0,0,,In diesem Land gibt es leider keinen.
+Dialogue: 0,0:04:10.19,0:04:11.40,Default,Sunraku,0,0,0,,Was, echt?
+Dialogue: 0,0:04:12.19,0:04:14.90,Default,Sunraku,0,0,0,,Ist das etwa so ein seltener Beruf?
+Dialogue: 0,0:04:14.90,0:04:18.11,Default,Sunraku,0,0,0,,Was zur Hölle?\NDann ist der Schatz ja vergeudet!
+Dialogue: 0,0:04:18.11,0:04:20.20,Default,Beelac,0,0,0,,Ich bin noch nicht fertig!
+Dialogue: 0,0:04:20.87,0:04:24.20,Default,Beelac,0,0,0,,Ich hätte da schon jemanden, …\Nallerdings …
+Dialogue: 0,0:04:25.66,0:04:29.83,Default,Beelac,0,0,0,,Beim Gedanken,\Nihn zu kontaktieren, wird mir speiübel.
+Dialogue: 0,0:04:31.17,0:04:35.13,Default,Beelac,0,0,0,,Aber diese Edelsteine\Nkann ich bei meiner Ehre
+Dialogue: 0,0:04:35.13,0:04:38.51,Default,Beelac,0,0,0,,als Handwerkerin\Nnicht verkommen lassen.
+Dialogue: 0,0:04:40.84,0:04:43.64,Default,Sunraku,0,0,0,,Laber nicht um den heißen Brei herum,\Nstell ihn mir vor.
+Dialogue: 0,0:04:44.51,0:04:47.18,Default,Beelac,0,0,0,,Jaja, schon verstanden.
+Dialogue: 0,0:04:47.60,0:04:49.69,Default,Beelac,0,0,0,,Ich rufe ihn.
+Dialogue: 0,0:04:50.02,0:04:53.44,Default,Beelac,0,0,0,,Hey, Dussel-Miez, komm mal her.
+Dialogue: 0,0:04:53.44,0:04:57.36,Default,Sunraku,0,0,0,,Du rufst ihn ja,\Nals sei er direkt im Nebenzimmer.
+Dialogue: 0,0:04:57.36,0:05:00.82,Default,Aramis,0,0,0,,Hast du mich gerufen,\No holde schwarze Maid?!
+Dialogue: 0,0:05:00.82,0:05:01.95,Default,Sunraku,0,0,0,,Uwah, mein Herz!
+Dialogue: 0,0:05:04.83,0:05:08.29,Default,Aramis,0,0,0,,Selbst wenn ich ins tiefste Tal abstürze, …
+Dialogue: 0,0:05:08.96,0:05:13.58,Default,Aramis,0,0,0,,reicht ein Ruf von dir,\Nmich zurück an deine Seite zu bringen!
+Dialogue: 0,0:05:13.58,0:05:15.21,Default,Sunraku,0,0,0,,Was ist dieses wundersame Wesen?
+Dialogue: 0,0:05:16.71,0:05:18.34,Default,Aramis,0,0,0,,Ich bin ein Schwertmeister!
+Dialogue: 0,0:05:18.34,0:05:20.26,Default,Aramis,0,0,0,,Der Wilde Wind!
+Dialogue: 0,0:05:20.26,0:05:23.30,Default,Aramis,0,0,0,,Der Stolz des Landes\Nder Cait Sith Katzeria!
+Dialogue: 0,0:05:23.30,0:05:25.47,Default,Aramis,0,0,0,,Zweiter Oberst der Gestiefelten Musketiere:
+Dialogue: 0,0:05:25.85,0:05:29.14,Default,Aramis,0,0,0,,Ich bin Aramiez!
+Dialogue: 0,0:05:33.85,0:05:37.28,Default,Sunraku,0,0,0,,Wie war das? Deppen-Miez?
+Dialogue: 0,0:05:37.28,0:05:39.28,Default,Sunraku,0,0,0,,Die Nervensäge ist Juwelier?
+Dialogue: 0,0:05:39.28,0:05:43.16,Default,Beelac,0,0,0,,Nein, der nicht.\NMerk ihn dir als Dussel-Miez.
+Dialogue: 0,0:05:43.95,0:05:47.79,Default,Aramis,0,0,0,,Du bist doch …\Ndie kleine Schwester meiner holden Maid!
+Dialogue: 0,0:05:47.79,0:05:52.00,Default,Emul,0,0,0,,Ich bin Emul. Und er heißt Sunraku.
+Dialogue: 0,0:05:52.00,0:05:55.67,Default,Aramis,0,0,0,,Sag, was kann ich, Aramiez, für dich tun?
+Dialogue: 0,0:05:55.67,0:06:00.67,Default,Aramis,0,0,0,,O holde Maid, für dich nehme ich es\Nselbst mit Lycaon auf!
+Dialogue: 0,0:06:00.67,0:06:04.14,Default,Beelac,0,0,0,,Guter Plan. Lass dich von ihm zerfetzen.
+Dialogue: 0,0:06:04.14,0:06:08.10,Default,Beelac,0,0,0,,Das wär zumindest schön.\NAber heute hab ich eine Bitte.
+Dialogue: 0,0:06:08.10,0:06:10.52,Default,Aramis,0,0,0,,Eine Bitte? Du an mich?!
+Dialogue: 0,0:06:10.52,0:06:12.27,Default,Beelac,0,0,0,,Dein Juwelier.
+Dialogue: 0,0:06:12.64,0:06:15.86,Default,Beelac,0,0,0,,D’Artamiau soll uns\Neine Schmuckausrüstung machen.
+Dialogue: 0,0:06:15.86,0:06:17.27,Default,Aramis,0,0,0,,Oho.
+Dialogue: 0,0:06:17.27,0:06:20.15,Default,Beelac,0,0,0,,Und zwar nicht irgendeine.
+Dialogue: 0,0:06:20.86,0:06:22.82,Default,Beelac,0,0,0,,Ein Meisterwerk.
+Dialogue: 0,0:06:25.78,0:06:28.66,Default,Aramis,0,0,0,,Welch atemberaubende Juwelen!
+Dialogue: 0,0:06:28.66,0:06:31.62,Default,Emul,0,0,0,,Die hat Sunraku gesammelt!
+Dialogue: 0,0:06:31.62,0:06:32.66,Default,Sunraku,0,0,0,,Jupp.
+Dialogue: 0,0:06:33.66,0:06:37.13,Default,Aramis,0,0,0,,Du bist also kein Vogel,\Ndein Körper ist menschlich.
+Dialogue: 0,0:06:37.13,0:06:40.67,Default,Aramis,0,0,0,,Aber ich habe noch nie von Menschen\Nmit Vogelgesichtern gehört.
+Dialogue: 0,0:06:40.67,0:06:42.67,Default,Sunraku,0,0,0,,Doch, doch, ich bin ein Mensch.
+Dialogue: 0,0:06:42.67,0:06:45.09,Default,Beelac,0,0,0,,Er ist nicht irgendeiner.
+Dialogue: 0,0:06:45.09,0:06:49.18,Default,Beelac,0,0,0,,Er ist vom Herrscher der Nacht anerkannt\Nund hat den Ewigen Grabwächter geschlagen.
+Dialogue: 0,0:06:49.68,0:06:51.39,Default,Beelac,0,0,0,,Ein Schüler des Chefs.
+Dialogue: 0,0:06:51.93,0:06:55.02,Default,Aramis,0,0,0,,Soso. Dieser Mensch war das.
+Dialogue: 0,0:06:56.77,0:06:58.31,Default,Aramis,0,0,0,,Das fällt mir …
+Dialogue: 0,0:06:59.44,0:07:00.69,Default,Aramis,0,0,0,,schwer zu glauben.
+Dialogue: 0,0:07:11.04,0:07:15.16,Default,Aramis,0,0,0,,Aha. Es scheint also wahr zu sein.
+Dialogue: 0,0:07:16.42,0:07:17.75,Default,Sunraku,0,0,0,,Was geht mit dem?!
+Dialogue: 0,0:07:17.75,0:07:19.92,Default,Beelac,0,0,0,,Du Dussel-Katze!
+Dialogue: 0,0:07:19.92,0:07:23.71,Default,Beelac,0,0,0,,Was machst du\Nin meiner geheiligten Schmiede?!
+Dialogue: 0,0:07:23.71,0:07:26.22,Default,Emul,0,0,0,,Sunraku, alles in Ordnung?
+Dialogue: 0,0:07:27.18,0:07:28.51,Default,Aramis,0,0,0,,O holde Maid!
+Dialogue: 0,0:07:28.51,0:07:32.68,Default,Aramis,0,0,0,,Dein Ausdruck der Liebe schmerzt mich!\NWeiter rechts bitte! Au, au!
+Dialogue: 0,0:07:34.23,0:07:38.69,Default,Aramis,0,0,0,,Also, auf ein Neues,\Nblauer Vogelmann namens Sunraku.
+Dialogue: 0,0:07:39.36,0:07:44.19,Default,Aramis,0,0,0,,Sollen diese Edelsteine hier\Nrestlos verwendet werden?
+Dialogue: 0,0:07:44.53,0:07:49.53,Default,Sunraku,0,0,0,,Ja, sonst hätte ich sie\Nsowieso verkaufen müssen.
+Dialogue: 0,0:07:49.53,0:07:51.53,Default,Sunraku,0,0,0,,Ich zähl auf dich, Aramiez.
+Dialogue: 0,0:07:51.53,0:07:52.66,Default,Aramis,0,0,0,,Verstanden!
+Dialogue: 0,0:07:53.16,0:07:56.71,Default,Aramis,0,0,0,,In aller Bescheidenheit\Nschwöre ich, Aramiez, bei meinem Namen
+Dialogue: 0,0:07:56.71,0:07:59.83,Default,Aramis,0,0,0,,Wilder Wind,\Nzweiter Oberst der Gestiefelten Musketiere,
+Dialogue: 0,0:07:59.83,0:08:03.80,Default,Aramis,0,0,0,,euch das absolute Meisterwerk\Nder Schmuckausrüstung zu bringen.
+Dialogue: 0,0:08:04.46,0:08:06.34,Default,Aramis,0,0,0,,Schmatz.
+Dialogue: 0,0:08:10.26,0:08:13.39,Default,Beelac,0,0,0,,Was soll das werden, du Hampelmann?!
+Dialogue: 0,0:08:15.27,0:08:17.56,Default,Aramis,0,0,0,,Also bis bald, gehabt euch wohl.
+Dialogue: 0,0:08:20.27,0:08:21.69,Default,Sunraku,0,0,0,,Weg isser.
+Dialogue: 0,0:08:21.69,0:08:23.65,Default,Emul,0,0,0,,Ein Teleport-Zauber.
+Dialogue: 0,0:08:23.65,0:08:27.65,Default,Beelac,0,0,0,,Dieser Dussel-Miez.\NGenau deshalb kann ich ihn nicht leiden.
+Dialogue: 0,0:08:27.65,0:08:32.62,Default,Sunraku,0,0,0,,Äh … Darf ich nach\Neurem Verhältnis zueinander fragen?
+Dialogue: 0,0:08:32.62,0:08:37.41,Default,Beelac,0,0,0,,Was? Ich hab dem Heini früher mal\Neine Waffe gemacht. Sonst nichts.
+Dialogue: 0,0:08:37.41,0:08:41.46,Default,Emul,0,0,0,,Er ist zweiter Oberst in Katzeria,\Ndem Land der Cait Sith.
+Dialogue: 0,0:08:41.46,0:08:44.09,Default,Emul,0,0,0,,Ein wirklich starker Kämpfer.
+Dialogue: 0,0:08:44.09,0:08:48.97,Default,Sunraku,0,0,0,,Denk ich mir. Sein Angriff vorhin\Nwar ja nur eine Spielerei.
+Dialogue: 0,0:08:48.97,0:08:51.26,Default,Sunraku,0,0,0,,Er nannte sich Schwertmeister.
+Dialogue: 0,0:08:51.26,0:08:55.10,Default,Beelac,0,0,0,,Na ja, zumindest in Sachen Stärke\Nübertrifft er mich.
+Dialogue: 0,0:08:56.47,0:09:00.56,Default,Sunraku,0,0,0,,Hm … Katzeria,\Ndas Königreich der Cait Sith?
+Dialogue: 0,0:09:00.56,0:09:05.61,Default,Sunraku,0,0,0,,Ich hab ziemlich viele Fragen\Naber jetzt bin ich ziemlich kaputt.
+Dialogue: 0,0:09:05.61,0:09:07.61,Default,Sunraku,0,0,0,,Ich schlaf erst mal.
+Dialogue: 0,0:09:07.61,0:09:08.61,Default,Emul,0,0,0,,Was?
+Dialogue: 0,0:09:08.61,0:09:12.20,Default,Emul,0,0,0,,Na schön, wenn du müde bist.
+Dialogue: 0,0:09:14.41,0:09:17.16,Default,Sunraku,0,0,0,,Ich komm wieder, sobald ich wach bin.
+Dialogue: 0,0:09:17.16,0:09:21.62,Default,Sunraku,0,0,0,,Dann suchen wir endlich\Nnach der Magie-Steuerungseinheit.
+Dialogue: 0,0:09:21.62,0:09:24.21,Default,Sunraku,0,0,0,,Damit Beelac zur\NAhnenhandwerkerin wird.
+Dialogue: 0,0:09:24.21,0:09:25.84,Default,Emul,0,0,0,,Einverstanden!
+Dialogue: 0,0:09:25.84,0:09:28.84,Default,Beelac,0,0,0,,Du lässt echt nicht locker, was?
+Dialogue: 0,0:09:41.19,0:09:42.48,Default,Sunraku,0,0,0,,Bin müde.
+Dialogue: 0,0:09:45.27,0:09:49.11,Default,Sunraku,0,0,0,,Ich werd mich wohl erst\Nheute Abend wieder einloggen.
+Dialogue: 0,0:09:50.53,0:09:51.86,Default,Sunraku,0,0,0,,Eine Nachricht?
+Dialogue: 0,0:09:53.32,0:09:56.99,Default,Oikatso,0,0,0,,{\i1}Ich hab eine kurze Frage,\Nwo bist du gerade?
+Dialogue: 0,0:09:56.99,0:10:00.00,Default,Oikatso,0,0,0,,{\i1}Es ist dringend,\Nkönnen wir uns treffen?
+Dialogue: 0,0:10:01.87,0:10:05.88,Default,Pencilgon,0,0,0,,{\i1}Ich hab eine Frage, Sunraku,\Nwo bist du gerade?
+Dialogue: 0,0:10:05.88,0:10:09.76,Default,Pencilgon,0,0,0,,{\i1}In Fünvalle? Können wir uns treffen,\Num es zu besprechen?
+Dialogue: 0,0:10:09.76,0:10:11.88,Default,Pencilgon,0,0,0,,{\i1}Passt dir heute Abend?
+Dialogue: 0,0:10:11.88,0:10:13.34,Default,Sunraku,0,0,0,,Was geht ab?
+Dialogue: 0,0:10:13.34,0:10:17.26,Default,Sunraku,0,0,0,,Selbst fleischfressende Pflanzen\Nstellen weniger offensichtliche Fallen.
+Dialogue: 0,0:10:17.26,0:10:20.89,Default,Sunraku,0,0,0,,Was führen die denn alle im Schilde?!
+Dialogue: 0,0:10:21.60,0:10:26.02,Default,Sunraku,0,0,0,,Wie auch immer,\Nich hab mein Hirn überstrapaziert.
+Dialogue: 0,0:10:26.65,0:10:28.48,Default,Sunraku,0,0,0,,Jetzt ist Schlafenszeit.
+Dialogue: 0,0:10:38.53,0:10:39.91,Default,Sunraku,0,0,0,,Los geht’s!
+Dialogue: 0,0:10:39.91,0:10:42.16,Default,Sunraku,0,0,0,,Ausgeschlafen und\Nfrisch wie der Morgentau!
+Dialogue: 0,0:10:42.16,0:10:46.25,Default,Sunraku,0,0,0,,Weiter geht’s im\NAusbildungsplan für Beelac!
+Dialogue: 0,0:10:46.25,0:10:48.67,Default,Emul,0,0,0,,{\an8}Wir machen sie\Nzur Ahnenhandwerkerin!
+Dialogue: 0,0:10:48.67,0:10:53.67,Default,Sunraku,0,0,0,,Da fällt mir ein, ich hab\Nihre Nachrichten komplett ignoriert …
+Dialogue: 0,0:10:54.01,0:10:58.93,Default,Sunraku,0,0,0,,Aber egal,\Ndas roch ja auch nur so nach Ärger.
+Dialogue: 0,0:10:58.93,0:11:02.27,Default,Sunraku,0,0,0,,Dann holen wir erst mal Beelac ab\Nund suchen
+Dialogue: 0,0:11:02.27,0:11:06.02,Default,Sunraku,0,0,0,,die Magie-Steuerungseinheit\Nauf dem Maroden Pfad verganenen Ruhms.
+Dialogue: 0,0:11:06.02,0:11:09.94,Default,Emul,0,0,0,,Ah, dazu muss ich dir noch was sagen.
+Dialogue: 0,0:11:11.40,0:11:15.74,Default,Aramis,0,0,0,,Die holde Maid tritt mich mit Füßen …\NDas gefällt mir!
+Dialogue: 0,0:11:15.74,0:11:17.57,Default,Aramis,0,0,0,,Aber es tut trotzdem weh!
+Dialogue: 0,0:11:17.57,0:11:21.58,Default,Beelac,0,0,0,,Vollidioten wie du\Ngehören einfach plattgetrampelt!
+Dialogue: 0,0:11:21.58,0:11:23.58,Default,Beelac,0,0,0,,Das ist zum Wohle aller!
+Dialogue: 0,0:11:23.58,0:11:26.12,Default,Aramis,0,0,0,,Uwargh, meine Wirbelsäule!
+Dialogue: 0,0:11:27.71,0:11:30.88,Default,Sunraku,0,0,0,,Was wird das,\Nihr Eheleute-Stand-up-Comedians?
+Dialogue: 0,0:11:30.88,0:11:32.88,Default,Beelac,0,0,0,,Eheleute? Sag das noch mal!
+Dialogue: 0,0:11:32.88,0:11:37.01,Default,Sunraku,0,0,0,,Aramiez, bist du nicht\Nnach Katzeria zurückgegangen?
+Dialogue: 0,0:11:37.01,0:11:38.80,Default,Sunraku,0,0,0,,Wo sind die Edelsteine?
+Dialogue: 0,0:11:39.30,0:11:43.02,Default,Aramis,0,0,0,,Sei unbesorgt,\Ndie Juwelen sind an ihrem Bestimmungsort.
+Dialogue: 0,0:11:43.02,0:11:46.06,Default,Aramis,0,0,0,,Ich gab sie d’Artamiau, dem Juwelier.
+Dialogue: 0,0:11:46.06,0:11:50.31,Default,Aramis,0,0,0,,Ich bin zurück,\Num meiner holden Maid zu helfen!
+Dialogue: 0,0:11:51.11,0:11:56.07,Default,Aramis,0,0,0,,Ich höre, sie bricht auf zu einem\NAbenteuer, um neue Höhen zu erreichen.
+Dialogue: 0,0:11:56.57,0:11:57.91,Default,Aramis,0,0,0,,Da muss ich,
+Dialogue: 0,0:11:57.91,0:12:02.33,Default,Aramis,0,0,0,,Aramiez, der Wilde Wind,\Ndoch meine Unterstützung bereitstellen!
+Dialogue: 0,0:12:02.33,0:12:04.54,Default,Sunraku,0,0,0,,Äh … na ja …
+Dialogue: 0,0:12:04.54,0:12:07.83,Default,Emul,0,0,0,,Das heißt wohl, er will mitkommen.
+Dialogue: 0,0:12:07.83,0:12:08.96,Default,Sunraku,0,0,0,,Echt jetzt?
+Dialogue: 0,0:12:09.38,0:12:12.17,Default,Sunraku,0,0,0,,{\i1}Er soll ja stärker als Beelac sein.
+Dialogue: 0,0:12:12.17,0:12:17.34,Default,Sunraku,0,0,0,,{\i1}Mit noch mehr Kämpfern auf Level 90+\Nwird das Game doch viel zu leicht.
+Dialogue: 0,0:12:17.84,0:12:20.09,Default,Sunraku,0,0,0,,Ich weiß ja nicht …
+Dialogue: 0,0:12:21.05,0:12:22.93,Default,Beelac,0,0,0,,Ich hab keinen Bock drauf.
+Dialogue: 0,0:12:23.43,0:12:26.43,Default,Beelac,0,0,0,,Aber der hört sowieso nicht auf uns.
+Dialogue: 0,0:12:26.43,0:12:27.35,Default,Sunraku,0,0,0,,Was?
+Dialogue: 0,0:12:27.85,0:12:31.11,Default,Beelac,0,0,0,,Der König der Cait Sith\Nhat von dir erfahren.
+Dialogue: 0,0:12:31.11,0:12:34.19,Default,Beelac,0,0,0,,Jetzt will Katzeria uns\Nnicht nur mit der Ausrüstung,
+Dialogue: 0,0:12:34.19,0:12:37.19,Default,Beelac,0,0,0,,sondern vollumfänglich unterstützen.
+Dialogue: 0,0:12:37.19,0:12:38.15,Default,Sunraku,0,0,0,,Was?!
+Dialogue: 0,0:12:38.74,0:12:40.45,Default,Sunraku,0,0,0,,Wieso das denn plötzlich?
+Dialogue: 0,0:12:40.45,0:12:43.78,Default,Beelac,0,0,0,,Katzeria und Hasingen\Nsind Partnerländer.
+Dialogue: 0,0:12:43.78,0:12:48.58,Default,Beelac,0,0,0,,„Schüler des Chefs“\Nist ein größerer Titel als du denkst.
+Dialogue: 0,0:12:48.58,0:12:52.71,Default,Beelac,0,0,0,,Außerdem hast du\Neinen von den Stärksten besiegt.
+Dialogue: 0,0:13:07.06,0:13:12.40,Default,Beelac,0,0,0,,Du scheinst nicht zu verstehen,\Nwie weitreichend der Einfluss davon ist.
+Dialogue: 0,0:13:13.73,0:13:17.74,Default,Aramis,0,0,0,,Das ist der Wille Katzerias!
+Dialogue: 0,0:13:17.74,0:13:22.57,Default,Aramis,0,0,0,,Ich werde alle Feinde\Nmeiner holden Maid zerfetzen!
+Dialogue: 0,0:13:25.53,0:13:28.70,Default,Beelac,0,0,0,,Außerdem sind die Cait Sith\Nverrückt nach Juwelen.
+Dialogue: 0,0:13:28.70,0:13:32.29,Default,Beelac,0,0,0,,Der Juwelier in Katzeria\Nversteht sein Handwerk.
+Dialogue: 0,0:13:32.29,0:13:35.09,Default,Beelac,0,0,0,,Aber er ist bekannt dafür,\NRohstoffe zu unterschlagen.
+Dialogue: 0,0:13:35.09,0:13:37.05,Default,Sunraku,0,0,0,,Was? Im Ernst?!
+Dialogue: 0,0:13:37.05,0:13:42.05,Default,Beelac,0,0,0,,Um das zu verhindern, hab ich verraten,\Nwer du bist. Als Warnung.
+Dialogue: 0,0:13:42.59,0:13:44.76,Default,Beelac,0,0,0,,Nur klebt jetzt die Nervensäge an uns.
+Dialogue: 0,0:13:44.80,0:13:47.85,Default,Aramis,0,0,0,,Komm, Sunraku, brechen wir gleich auf!
+Dialogue: 0,0:13:47.85,0:13:50.31,Default,Aramis,0,0,0,,Bringen wir die Maid auf neue Höhen!
+Dialogue: 0,0:13:50.93,0:13:55.40,Default,Sunraku,0,0,0,,Wie drückt sich\Ndieser Einfluss sonst noch aus?
+Dialogue: 0,0:13:55.40,0:13:58.98,Default,Beelac,0,0,0,,Der Herrscher der Nacht\Nhat dich anerkannt.
+Dialogue: 0,0:13:58.98,0:14:02.95,Default,Beelac,0,0,0,,Du könntest ’ne Werwölfin\Noder ’ne Echsenfrau heiraten.
+Dialogue: 0,0:14:02.95,0:14:04.66,Default,Beelac,0,0,0,,Sie werden auf dich fliegen.
+Dialogue: 0,0:14:04.66,0:14:06.95,Default,Sunraku,0,0,0,,Bleib mir bloß weg mit so was.
+Dialogue: 0,0:14:08.20,0:14:09.91,Default,Beelac,0,0,0,,Na ja, ansonsten …
+Dialogue: 0,0:14:10.29,0:14:13.42,Default,Beelac,0,0,0,,könnte es einen Krieg auslösen.
+Dialogue: 0,0:14:15.54,0:14:20.67,Default,Sunraku,0,0,0,,Ach, komm, jetzt übertreibst du.\NIch bin doch ein aufrichtiger Spieler.
+Dialogue: 0,0:14:22.59,0:14:26.47,Default,Beelac,0,0,0,,So oder so musst du dir im Klaren sein,\Nwas du getan hast.
+Dialogue: 0,0:14:26.47,0:14:29.81,Default,Beelac,0,0,0,,Sonst fängst du dir unerwartet Ärger ein.
+Dialogue: 0,0:14:29.81,0:14:32.02,Default,Beelac,0,0,0,,Also sieh dich vor.
+Dialogue: 0,0:14:34.23,0:14:38.69,Default,Beelac,0,0,0,,He, Dussel-Miez!\NWir gehen los, bist du bereit?
+Dialogue: 0,0:14:38.69,0:14:40.44,Default,Aramis,0,0,0,,Aber natürlich!
+Dialogue: 0,0:14:40.44,0:14:43.53,Default,Aramis,0,0,0,,Was immer du mir befiehlst!
+Dialogue: 0,0:14:43.53,0:14:46.74,Default,Emul,0,0,0,,Jetzt ist das eine ziemlich\Ngroße Nummer geworden.
+Dialogue: 0,0:14:47.83,0:14:48.95,Default,Sunraku,0,0,0,,Ach, wird schon.
+Dialogue: 0,0:14:49.58,0:14:52.33,Default,Sunraku,0,0,0,,Selbst wenn die ganze Welt gegen uns wäre,
+Dialogue: 0,0:14:52.33,0:14:55.79,Default,Sunraku,0,0,0,,anderswo ist so was der Normalzustand.
+Dialogue: 0,0:15:04.51,0:15:07.85,Default,Emul,0,0,0,,Seit langem mal wieder\Nmeine Menschengestalt!
+Dialogue: 0,0:15:07.85,0:15:12.85,Default,Aramis,0,0,0,,Eine grandiose Wandlung! Du bist\Nnicht umsonst die Schwester meiner Maid.
+Dialogue: 0,0:15:12.85,0:15:16.10,Default,Beelac,0,0,0,,He, Dussel-Miez,\Nbehalt deine Finger bei dir!
+Dialogue: 0,0:15:16.10,0:15:20.90,Default,Aramis,0,0,0,,H-Holde Maid, nicht …\Nnicht auf den Kopf bitte.
+Dialogue: 0,0:15:20.90,0:15:23.44,Default,Beelac,0,0,0,,Ach ja? Und warum grinst du dann so?
+Dialogue: 0,0:15:24.36,0:15:27.36,Default,Sunraku,0,0,0,,Stillhalten, ihr zwei! Man sieht euch noch!
+Dialogue: 0,0:15:27.36,0:15:32.16,Default,Sunraku,0,0,0,,{\i1}Mannomann, allein durch die Stadt\Nzu laufen ist schon kompliziert.
+Dialogue: 0,0:15:32.16,0:15:35.62,Default,Sunraku,0,0,0,,{\i1}Ich glaub’s nicht,\Ndass ich das wieder tragen muss.
+Dialogue: 0,0:15:35.62,0:15:39.79,Default,Emul,0,0,0,,Oh, sie verkaufen Möhren!\NDarf ich welche kaufen?!
+Dialogue: 0,0:15:39.79,0:15:42.50,Default,Sunraku,0,0,0,,Du hattest schon genug, Emul.
+Dialogue: 0,0:15:44.38,0:15:48.68,Default,Sunraku,0,0,0,,Dank der Kristallskorpione\Nhaben wir zwar genug Mani.
+Dialogue: 0,0:15:48.68,0:15:51.14,Default,Sunraku,0,0,0,,Aber sei sparsam mit den Mana-Tränken.
+Dialogue: 0,0:15:51.14,0:15:52.89,Default,Aramis,0,0,0,,Au, autsch.
+Dialogue: 0,0:15:52.89,0:15:55.73,Default,Beelac,0,0,0,,Das reicht jetzt wirklich, du Idiot!
+Dialogue: 0,0:15:55.73,0:16:01.11,Default,Sunraku,0,0,0,,Wenn sie leer sind, musst du auch\Nunter das Höllentuch schlüpfen.
+Dialogue: 0,0:16:01.86,0:16:03.40,Default,Emul,0,0,0,,V-Verstanden!
+Dialogue: 0,0:16:04.78,0:16:09.28,Default,Sunraku,0,0,0,,Na ja, immerhin besser,\Nals in Chimära-Gestalt umherzuschleichen.
+Dialogue: 0,0:16:09.28,0:16:12.66,Default,Sunraku,0,0,0,,Das ist ja zumindest\Nein offizielles Gewand.
+Dialogue: 0,0:16:13.37,0:16:17.41,Default,Sunraku,0,0,0,,Wir müssen nur entspannt bleiben,\Ndann fallen wir nicht auf.
+Dialogue: 0,0:16:19.79,0:16:24.17,Default,Beelac,0,0,0,,So ’nen komischen Vogel\Nspricht auch keiner freiwillig an.
+Dialogue: 0,0:16:24.17,0:16:27.76,Default,Sunraku,0,0,0,,Irgendwie hab ich mich\Ndaran schon gewöhnt.
+Dialogue: 0,0:16:39.39,0:16:43.90,Default,Emul,0,0,0,,Oje. Die starrt uns aber total an, Sunraku!
+Dialogue: 0,0:16:43.90,0:16:47.61,Default,Sunraku,0,0,0,,Bleib entspannt! Tu, als wäre nichts.\NIhr haltet still!
+Dialogue: 0,0:16:47.61,0:16:50.11,Default,Emul,0,0,0,,Sie kommt auf uns zu!
+Dialogue: 0,0:16:52.99,0:16:56.45,Default,Sunraku,0,0,0,,Äh, kann ich helfen, kleines Magical Girl?
+Dialogue: 0,0:16:57.16,0:17:01.12,Default,Sunraku,0,0,0,,Wunderst du dich vielleicht\Nüber mein Gewand?
+Dialogue: 0,0:17:01.12,0:17:02.71,Default,Sunraku,0,0,0,,{\i1}Peets hatte doch
+Dialogue: 0,0:17:02.71,0:17:06.05,Default,Sunraku,0,0,0,,{\i1}auch in Drittlema ein Geschäft, richtig?
+Dialogue: 0,0:17:06.51,0:17:09.76,Default,Sunraku,0,0,0,,Nun ja … das ist aus Drittl…
+Dialogue: 0,0:17:08.55,0:17:11.39,Alt,Professor,0,0,0,,In Drittlema taucht hin und wieder
+Dialogue: 0,0:17:11.39,0:17:14.93,Default,Professor,0,0,0,,ein Laden auf,\Nwo man das Gewand kaufen kann.
+Dialogue: 0,0:17:14.93,0:17:18.06,Default,Professor,0,0,0,,Medjeds festliche Robe hieß es, oder?
+Dialogue: 0,0:17:18.39,0:17:22.48,Default,Professor,0,0,0,,Drei Spieler haben\Nden Grabwächter Wezaemon geschlagen.
+Dialogue: 0,0:17:22.48,0:17:26.73,Default,Professor,0,0,0,,Einer von ihnen trug dieses Gewand.
+Dialogue: 0,0:17:26.73,0:17:32.32,Default,Professor,0,0,0,,Normalerweise trägt er\Ndie Starrende Vogelmaske. Sein Name lautet:
+Dialogue: 0,0:17:32.32,0:17:34.16,Default,Professor,0,0,0,,Sunraku.
+Dialogue: 0,0:17:34.16,0:17:38.91,Default,Sunraku,0,0,0,,{\i1}Mann, entweder sind wir aufgeflogen\Noder jemand hat uns verpfiffen, aber …
+Dialogue: 0,0:17:38.91,0:17:44.17,Default,Sunraku,0,0,0,,{\i1}vor allem will mir die Alte-Männer-Stimme\Ndes Mädchens nicht in den Kopf!
+Dialogue: 0,0:17:44.17,0:17:49.42,Default,Professor,0,0,0,,Du hast so viel mit dem Spieler,\Nden ich suche, gemeinsam.
+Dialogue: 0,0:17:49.42,0:17:50.92,Default,Professor,0,0,0,,Plaudern wir etwas?
+Dialogue: 0,0:17:50.92,0:17:53.93,Default,Sunraku,0,0,0,,{\i1}Ein alter Mann spricht\Nin Gestalt eines Magical Girls?!
+Dialogue: 0,0:17:53.93,0:17:55.80,Default,Sunraku,0,0,0,,{\i1}Das ist doch Absicht!
+Dialogue: 0,0:17:56.68,0:17:58.06,Default,Professor,0,0,0,,Hörst du mich?
+Dialogue: 0,0:17:58.06,0:18:01.02,Default,Sunraku,0,0,0,,{\i1}Damit will er mich zum Lachen bringen!
+Dialogue: 0,0:18:01.02,0:18:05.06,Default,Sunraku,0,0,0,,{\i1}Na ja, mein Aussehen\Nist auch nicht gerade normal …
+Dialogue: 0,0:18:05.06,0:18:09.69,Default,Professor,0,0,0,,Oh, ach so.\NVerzeihung, ich sollte mich vorstellen.
+Dialogue: 0,0:18:10.40,0:18:14.28,Default,Professor,0,0,0,,Ich bin der Anführer\Ndes Forscher-Clans „Bibliothek“.
+Dialogue: 0,0:18:14.28,0:18:17.03,Default,Professor,0,0,0,,Man nennt mich Professor.
+Dialogue: 0,0:18:17.95,0:18:20.79,Default,Sunraku,0,0,0,,Der Forscher-Clan „Bibliothek“?
+Dialogue: 0,0:18:22.16,0:18:26.67,Default,Professor,0,0,0,,Also in ShanFro ist unser Clan\Neigentlich recht bekannt.
+Dialogue: 0,0:18:26.67,0:18:28.88,Default,Professor,0,0,0,,Kennst du uns nicht?
+Dialogue: 0,0:18:28.88,0:18:34.09,Default,Professor,0,0,0,,Wir beobachten die Vorgänge\Nin der Welt von Shangri-La Frontier täglich.
+Dialogue: 0,0:18:34.38,0:18:38.93,Default,Sunraku,0,0,0,,{\i1}Ach ja, bei der Recherche im Netz\Nhab ich so was gelesen.
+Dialogue: 0,0:18:38.93,0:18:42.73,Default,Sunraku,0,0,0,,{\i1}Sie sind mit vielen Clans\Nin Kontakt und sammeln Infos.
+Dialogue: 0,0:18:43.44,0:18:44.60,Default,Sunraku,0,0,0,,{\i1}Das heißt …
+Dialogue: 1,0:18:45.35,0:18:49.15,Default,Sunraku,0,0,0,,{\i1}Er könnte Informationen haben,\Ndie wir brauchen.
+Dialogue: 0,0:18:49.15,0:18:52.44,Default,Sunraku,0,0,0,,{\i1}Aber jetzt will ich schnell weitergehen.
+Dialogue: 0,0:18:52.44,0:18:55.41,Default,Sunraku,0,0,0,,{\i1}Wir haben schon zu viel Zeit vergeudet.
+Dialogue: 0,0:18:55.41,0:18:59.58,Default,Sunraku,0,0,0,,{\i1}Wenn er von Emul und Beelac erfährt,\Ngibt es nur noch mehr Ärger.
+Dialogue: 0,0:19:00.54,0:19:03.79,Default,Professor,0,0,0,,Hast du noch nie das Gefühl gehabt,
+Dialogue: 0,0:19:03.79,0:19:08.17,Default,Professor,0,0,0,,dass die Szenario-Hinweise\Nin ShanFro besonders sind?
+Dialogue: 0,0:19:09.42,0:19:11.67,Default,Professor,0,0,0,,In normalen Games
+Dialogue: 0,0:19:11.67,0:19:15.38,Default,Professor,0,0,0,,wird man von Ereignis zu Ereignis geleitet.
+Dialogue: 0,0:19:15.38,0:19:21.68,Default,Professor,0,0,0,,Aber hier müssen die Spieler selbst die\Ngut versteckten Hinweise ausfindig machen.
+Dialogue: 0,0:19:21.97,0:19:23.60,Default,Sunraku,0,0,0,,{\i1}Er hat recht.
+Dialogue: 0,0:19:23.60,0:19:25.94,Default,Professor,0,0,0,,Es ist ein Game für Pioniere.
+Dialogue: 0,0:19:25.94,0:19:29.56,Default,Professor,0,0,0,,Kaum ein Spiel\Ngibt einem so viel zu denken.
+Dialogue: 0,0:19:29.56,0:19:34.44,Default,Professor,0,0,0,,Aber über allem stehen sie,\Ndie Grundlage dieser Welt:
+Dialogue: 0,0:19:34.44,0:19:36.66,Default,Professor,0,0,0,,die Stärksten Sieben.
+Dialogue: 0,0:19:38.20,0:19:40.45,Default,Professor,0,0,0,,Doch es war einfach zu schwierig.
+Dialogue: 0,0:19:40.45,0:19:44.50,Default,Professor,0,0,0,,Unsere Überlegungen\Nliefen in eine Sackgasse.
+Dialogue: 0,0:19:44.50,0:19:46.87,Default,Professor,0,0,0,,Umso mehr waren wir begeistert,
+Dialogue: 0,0:19:46.87,0:19:51.71,Default,Professor,0,0,0,,zu hören, jemand habe\Nden Grabwächter Wezaemon geschlagen.
+Dialogue: 0,0:19:51.71,0:19:54.21,Default,Professor,0,0,0,,Wir waren in heller Aufregung.
+Dialogue: 0,0:19:54.21,0:19:55.97,Default,Professor,0,0,0,,Sunraku.
+Dialogue: 0,0:19:55.97,0:19:58.05,Default,Professor,0,0,0,,Willst du nicht mit uns kommen
+Dialogue: 0,0:19:58.05,0:20:01.93,Default,Professor,0,0,0,,und die Wahrheit\Nhinter dieser Welt ans Licht bringen?
+Dialogue: 0,0:21:38.15,0:21:41.99,Default,Erzählerin,0,0,0,,Auf dieser Welt gibt es\Nunzählige Videospiele.
+Dialogue: 0,0:21:44.66,0:21:49.37,Default,Erzählerin,0,0,0,,Doch die meisten davon gehen unter,\Nohne je bekannt gewesen zu sein.
+Dialogue: 0,0:21:52.21,0:21:55.00,Default,Erzählerin,0,0,0,,An der Spitze dieser Spiele steht
+Dialogue: 0,0:21:55.00,0:21:58.67,Default,Erzählerin,0,0,0,,das Full-Dive-VR-Game\Nmit einer weltweiten Spielerzahl
+Dialogue: 0,0:21:58.67,0:22:00.76,Default,Erzählerin,0,0,0,,von über 30 Millionen,
+Dialogue: 0,0:22:00.76,0:22:05.55,Default,Erzählerin,0,0,0,,das es absolut verdient, als Meisterwerk\Nbezeichnet zu werden: Shangri-La Frontier.
+Dialogue: 0,0:22:08.43,0:22:10.85,Default,Oikatso,0,0,0,,Bereit. Los gehts!
+Dialogue: 0,0:22:18.98,0:22:21.61,Default,Pencilgon,0,0,0,,Sieh mir gut zu, Set.
+Dialogue: 0,0:22:22.65,0:22:24.78,Default,Sunraku,0,0,0,,{\i1}Die Wahrheit hinter dieser Welt.
+Dialogue: 0,0:22:25.32,0:22:28.45,Flashback,Setsuna,0,0,0,,Wenn ihr mehr über euren Ursprung und …
+Dialogue: 0,0:22:28.99,0:22:31.87,Flashback,Setsuna,0,0,0,,die Wahrheit hinter dieser\NWelt erfahren wollt …
+Dialogue: 0,0:22:32.33,0:22:33.79,Flashback,Vice Ash,0,0,0,,Sag mir.
+Dialogue: 0,0:22:34.46,0:22:38.34,Flashback,Vice Ash,0,0,0,,Willst du die Wahrheit\Nhinter dieser Welt erfahren?
+Dialogue: 0,0:22:40.01,0:22:42.51,Default,Erzählerin,0,0,0,,Rakuro Hizutome, alias Sunraku, …
+Dialogue: 0,0:22:42.84,0:22:46.76,Default,Erzählerin,0,0,0,,ist ein Junge,\Nder Trash-Games über alles liebt.
+Dialogue: 0,0:22:46.76,0:22:50.60,Default,Erzählerin,0,0,0,,Kann er die Wahrheit\Nüber diese Welt ans Licht bringen?
+Dialogue: 0,0:22:58.94,0:23:02.57,Default,Erzählerin,0,0,0,,Er weiß noch nicht, was ihn erwartet.
+Dialogue: 0,0:23:02.57,0:23:06.91,Default,Erzählerin,0,0,0,,Einer der Stärksten Sieben\Nin der Welt von ShanFro, …
+Dialogue: 0,0:23:11.33,0:23:15.71,Default,Erzählerin,0,0,0,,Lycaon, der Nachträuber,\Nwird ihm schon bald wieder
+Dialogue: 0,0:23:15.71,0:23:18.17,Default,Erzählerin,0,0,0,,im nächtlichen Kampf begegnen.
+Dialogue: 0,0:23:28.72,0:23:32.39,Default,Kinder,0,0,0,,ShanFro-Theater!
+Dialogue: 0,0:23:32.39,0:23:33.98,Default,Emul,0,0,0,,Mini!
+Dialogue: 0,0:23:36.10,0:23:39.48,Default,Erzählerin,0,0,0,,Beelac, Killerkaninchen\Nund Schmiedemeisterin.
+Dialogue: 0,0:23:39.48,0:23:43.69,Default,Erzählerin,0,0,0,,Stets bemüht, ihren berühmten Vater\Neinzuholen, und ihn einmal zu übertreffen.
+Dialogue: 0,0:23:43.69,0:23:46.07,Default,Erzählerin,0,0,0,,So schwingt sie auch heute ihren Hammer.
+Dialogue: 0,0:23:48.99,0:23:51.79,Default,Sunraku,0,0,0,,Ich hab eine Menge Raritäten gesammelt.
+Dialogue: 0,0:23:51.79,0:23:55.12,Default,Beelac,0,0,0,,Ja, die Qualität ist schon gut, aber …
+Dialogue: 0,0:23:55.12,0:23:58.54,Default,Beelac,0,0,0,,irgendwas fehlt,\Nsagt mein Schmiedemeister-Instinkt.
+Dialogue: 0,0:23:58.54,0:24:01.34,Default,Sunraku,0,0,0,,Ganz schön anspruchsvoll, dein Instinkt.
+Dialogue: 0,0:24:01.34,0:24:05.22,Default,Sunraku,0,0,0,,Also, was für Steine\Nwünscht Frau Instinkt?
+Dialogue: 0,0:24:05.22,0:24:10.30,Default,Beelac,0,0,0,,Ich will mehr …\NLegierungen herstellen.
+Dialogue: 0,0:24:10.30,0:24:12.64,Default,Sunraku,0,0,0,,Also brauchst du Eisenerze?
+Dialogue: 0,0:24:12.64,0:24:15.89,Default,Sunraku,0,0,0,,Also gut, dann buddle ich mal.\NKomm, Emul.
+Dialogue: 0,0:24:15.89,0:24:17.31,Default,Emul,0,0,0,,Okidoki.
+Dialogue: 0,0:24:18.48,0:24:22.07,Default,Emul,0,0,0,,Lauf, Sunraku, schneller!
+Dialogue: 0,0:24:23.44,0:24:25.65,Default,Sunraku,0,0,0,,I-Ich hab das Erz.
+Dialogue: 0,0:24:28.32,0:24:30.57,Default,Sunraku,0,0,0,,Was passt dir diesmal nicht?
+Dialogue: 0,0:24:30.57,0:24:36.12,Default,Beelac,0,0,0,,Na ja, um die Waffe stärker zu machen,\Nbrauchen wir auch Edelsteine.
+Dialogue: 0,0:24:36.12,0:24:39.54,Default,Sunraku,0,0,0,,Schon gut, ich bring sie ja schon,\Ndie Edelsteine!
+Dialogue: 0,0:24:39.54,0:24:40.63,Default,Sunraku,0,0,0,,Komm, Emul!
+Dialogue: 0,0:24:40.63,0:24:43.09,Default,Emul,0,0,0,,S-Sag bloß, du willst dort hin?!
+Dialogue: 0,0:24:50.47,0:24:53.89,Default,Sunraku,0,0,0,,Jetzt bist du aber zufrieden, oder?
+Dialogue: 0,0:24:54.35,0:24:57.06,Default,Beelac,0,0,0,,Als ihr weg wart, kam mir eine Idee.
+Dialogue: 0,0:24:57.06,0:25:00.60,Default,Beelac,0,0,0,,Wir sollten Holz oder\NMaterialien von Monstern benutzen.
+Dialogue: 0,0:25:03.02,0:25:05.98,Default,Sunraku,0,0,0,,Ich weiß ein noch besseres Material.
+Dialogue: 0,0:25:05.98,0:25:07.19,Default,Beelac,0,0,0,,Was denn?
+Dialogue: 0,0:25:07.19,0:25:08.57,Default,Sunraku,0,0,0,,Mineralsteine,
+Dialogue: 0,0:25:08.57,0:25:09.99,Default,Sunraku,0,0,0,,Edelsteine
+Dialogue: 0,0:25:09.99,0:25:12.24,Default,Sunraku,0,0,0,,und ein steinharter Dickschädel!
+Dialogue: 0,0:25:19.62,0:25:23.63,Default,Sunraku,0,0,0,,Ändere deine Pläne nicht\Nkurz vor knapp zum Gegenteil, kapiert?!
+Dialogue: 0,0:25:23.63,0:25:27.92,Default,Beelac,0,0,0,,Du kamst doch an mit:\N„Lass uns die ultimative Waffe bauen!“
+Dialogue: 0,0:25:27.92,0:25:34.64,Default,Emul,0,0,0,,H-H-He, ihr beiden!\NKeine … Keine wilden Prügeleien bitte!

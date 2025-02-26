@@ -1,0 +1,267 @@
+﻿[Script Info]
+Title: Deutsch
+ScaledBorderAndShadow: yes
+Original Script: cr_de  [http://www.crunchyroll.com/user/cr_de]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+LayoutResX: 1920
+LayoutResY: 1080
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:31.36,0:01:35.66,Default,Sunraku,0,0,0,,Yeah! Wir starten\Ndas „Beelac-Förderprojekt“!
+Dialogue: 0,0:01:35.66,0:01:37.33,Default,Emul,0,0,0,,Jawohl!
+Dialogue: 0,0:01:37.33,0:01:39.29,Default,Beelac,0,0,0,,J-Jaaa!
+Dialogue: 0,0:01:39.75,0:01:44.33,Default,Beelac,0,0,0,,Okay! Zuerst geht es über Vierfossier\Nzur Klamm der altehrwürdigen Seelen!
+Dialogue: 0,0:01:44.33,0:01:46.00,Default,Beelac,0,0,0,,Los, Vogelmensch!
+Dialogue: 0,0:01:46.84,0:01:51.51,Default,Sunraku,0,0,0,,Um Beelac zur Ahnenhandwerkerin zu machen,\Nbrauchen wir eine Magie-Steuerungseinheit.
+Dialogue: 0,0:01:59.77,0:02:02.48,Default,Sunraku,0,0,0,,Das ist echt ein leichtes Gebiet.
+Dialogue: 0,0:02:02.48,0:02:06.94,Default,Beelac,0,0,0,,Eigentlich ist das ein fieser Ort\Nmit dem Miasma, den Untoten und so weiter.
+Dialogue: 0,0:02:06.94,0:02:09.28,Default,Emul,0,0,0,,Dank Sunrakus Mal\Nwird das Miasma geläutert
+Dialogue: 0,0:02:09.28,0:02:13.53,Default,Emul,0,0,0,,und die Dämonen laufen davon.\NEs ist wahrlich ein Spaziergang.
+Dialogue: 0,0:02:16.41,0:02:18.79,Default,Sunraku,0,0,0,,Apropos, Leute …
+Dialogue: 0,0:02:19.37,0:02:23.16,Default,Sunraku,0,0,0,,Lauft endlich mal seeelbst!
+Dialogue: 0,0:02:23.16,0:02:25.42,Default,Emul,0,0,0,,Laufen ist mühsam.
+Dialogue: 0,0:02:25.42,0:02:29.13,Default,Beelac,0,0,0,,Die Idee ist, dass wir\NWeihwasser sparen, wenn wir dicht
+Dialogue: 0,0:02:29.13,0:02:31.80,Default,Beelac,0,0,0,,bei dir und deinem Mal\Ndes Nachtherrschers bleiben.
+Dialogue: 0,0:02:32.13,0:02:33.97,Default,Sunraku,0,0,0,,Bin ich ein Luftreiniger?!
+Dialogue: 0,0:02:33.97,0:02:35.22,Default,Beelac,0,0,0,,Lauf, Pferdchen.
+Dialogue: 0,0:02:38.93,0:02:44.44,Default,Sunraku,0,0,0,,Ein Halbnackter mit Vogelkopf, der mit Hasen\Nauf den Schultern durch Miasma schreitet.
+Dialogue: 0,0:02:44.44,0:02:48.31,Default,Sunraku,0,0,0,,Deckt sich irgendwie nicht so ganz\Nmit meiner Vorstellung von Fantasy.
+Dialogue: 0,0:02:50.44,0:02:53.82,Default,Sunraku,0,0,0,,Sag mal, was geht eigentlich\Nüber diesem Nebel ab?
+Dialogue: 0,0:02:54.32,0:02:56.28,Default,Sunraku,0,0,0,,Ich denke, ich würd’s da hoch schaffen.
+Dialogue: 0,0:02:56.82,0:02:59.12,Default,Sunraku,0,0,0,,Vielleicht kämen wir\Nda noch leichter voran.
+Dialogue: 0,0:02:59.49,0:03:03.96,Default,Beelac,0,0,0,,Wenn du ’n Todeswunsch hast,\Nwäre das vielleicht ’ne Option.
+Dialogue: 0,0:03:03.96,0:03:05.37,Default,Beelac,0,0,0,,Also ich verzichte.
+Dialogue: 0,0:03:06.58,0:03:12.13,Default,Emul,0,0,0,,Über der Klamm der altehrwürdigen Seelen\Nlauern ganz viele schreckliche Monster
+Dialogue: 0,0:03:12.13,0:03:14.05,Default,Emul,0,0,0,,namens „Kristallskorpione“.
+Dialogue: 0,0:03:14.55,0:03:16.76,Default,Sunraku,0,0,0,,{\an8}Kristallskorpione?
+Dialogue: 0,0:03:17.43,0:03:20.26,Default,Beelac,0,0,0,,Gefährliche Viecher,\Ndenen nicht mal ich beikomme!
+Dialogue: 0,0:03:20.26,0:03:24.93,Default,Beelac,0,0,0,,Kristallskorpione greifen in Rudeln an.\NWenn sie dich entdecken, war’s das.
+Dialogue: 0,0:03:25.27,0:03:28.40,Default,Sunraku,0,0,0,,Das heißt, sie sind über Level 100?!
+Dialogue: 0,0:03:28.40,0:03:31.94,Default,Sunraku,0,0,0,,Dann ist es also eine Abkürzung\Nfür erfahrene Spieler?
+Dialogue: 0,0:03:40.95,0:03:42.33,Default,Sunraku,0,0,0,,Ich dachte,
+Dialogue: 0,0:03:42.33,0:03:45.66,Default,Sunraku,0,0,0,,ich hätte da gerade\Neinen Schatten gesehen. Nur Einbildung?
+Dialogue: 0,0:03:45.66,0:03:48.71,Default,Beelac,0,0,0,,Was?! Sicher kein Kristallskorpion?!
+Dialogue: 0,0:03:48.71,0:03:52.63,Default,Emul,0,0,0,,Es heißt, wenn auch nur einer dich sieht,\Nkommen sofort dutzende andere herbei.
+Dialogue: 0,0:03:52.63,0:03:55.80,Default,Beelac,0,0,0,,L-Los, gehen wir schnell weiter!
+Dialogue: 0,0:03:55.80,0:03:58.26,Default,Beelac,0,0,0,,Unser Ziel ist doch\Nder Gebietsboss, oder?!
+Dialogue: 0,0:03:58.26,0:04:00.47,Default,Sunraku,0,0,0,,Jaja, schon gut.
+Dialogue: 0,0:04:02.10,0:04:05.39,Default,Sunraku,0,0,0,,Kristallskorpione, ja?
+Dialogue: 0,0:04:06.10,0:04:07.89,Default,Sunraku,0,0,0,,Mit denen muss ich mich mal anlegen.
+Dialogue: 0,0:04:07.89,0:04:09.90,Default,Beelac,0,0,0,,Hast du mir nicht zugehört?!
+Dialogue: 0,0:04:09.90,0:04:12.36,Default,Emul,0,0,0,,Schluss mit den Witzen!
+Dialogue: 0,0:04:53.36,0:04:55.69,Default,Sunraku,0,0,0,,Was ist das für eine schwarze Kuppel?
+Dialogue: 0,0:04:55.69,0:04:57.40,Default,Beelac,0,0,0,,Wie’s scheint, sind wir da.
+Dialogue: 0,0:04:58.61,0:05:01.45,Default,Sunraku,0,0,0,,Der Gebietsboss, nehme ich an?
+Dialogue: 0,0:05:02.32,0:05:04.78,Default,Sunraku,0,0,0,,Ist doch kein anderer Spieler\Nvor uns hier, oder?
+Dialogue: 0,0:05:04.78,0:05:06.83,Default,Sunraku,0,0,0,,Heißt also, man kämpft da drin?
+Dialogue: 0,0:05:07.91,0:05:12.83,Default,Sunraku,0,0,0,,Dann legen wir den mal flott\Nund gehen weiter.
+Dialogue: 0,0:05:12.83,0:05:14.38,Default,Emul,0,0,0,,Los geht’s!
+Dialogue: 0,0:05:14.38,0:05:16.38,Default,Beelac,0,0,0,,Ich zähl auf dich, Vogelmensch.
+Dialogue: 0,0:05:54.04,0:05:55.33,Default,Emul,0,0,0,,Sunraku!
+Dialogue: 0,0:05:57.42,0:05:58.96,Default,Sunraku,0,0,0,,Sieh mal einer an …
+Dialogue: 0,0:05:58.96,0:06:00.26,Default,Beelac,0,0,0,,Ja.
+Dialogue: 0,0:06:04.97,0:06:06.51,Default,Beelac,0,0,0,,Das is’ er wohl.
+Dialogue: 0,0:06:10.27,0:06:14.27,Default,Sunraku,0,0,0,,Totenschädelliebhaber würden\Nauf den Kerl wohl total abfahren.
+Dialogue: 0,0:06:15.19,0:06:16.73,Default,Sunraku,0,0,0,,„Summender Lich“.
+Dialogue: 0,0:06:17.61,0:06:20.36,Default,Sunraku,0,0,0,,Sieht nach einem Skelett aus,\Ndas mit Schamanenmagie angreift.
+Dialogue: 0,0:06:21.07,0:06:23.20,Default,Sunraku,0,0,0,,Dann entscheiden wir den Kampf,\Nbevor es uns …
+Dialogue: 0,0:06:23.78,0:06:25.07,Default,Sunraku,0,0,0,,mit lästigen Angriffen nervt!
+Dialogue: 0,0:06:25.07,0:06:27.74,Default,Beelac,0,0,0,,Warte mal! Der ist …
+Dialogue: 0,0:06:34.79,0:06:37.25,Default,Sunraku,0,0,0,,Hä? Kein Treffer-Feedback?
+Dialogue: 0,0:06:37.71,0:06:38.84,Default,Beelac,0,0,0,,Du Schwachkopf!
+Dialogue: 0,0:06:38.84,0:06:42.34,Default,Beelac,0,0,0,,Gegen den sind physische Angriffe\Nohne Heilig-Attribut wirkungslos!
+Dialogue: 0,0:06:42.34,0:06:45.64,Default,Sunraku,0,0,0,,Was?! Ich hab nix mit Heilig-Attribut!
+Dialogue: 0,0:06:51.10,0:06:53.06,Default,Emul,0,0,0,,Ein gewaltiges Miasma!
+Dialogue: 0,0:06:53.60,0:06:55.56,Default,Sunraku,0,0,0,,Das kribbelt irgendwie!
+Dialogue: 0,0:06:55.56,0:06:58.19,Default,Beelac,0,0,0,,Er ist die Quelle des Miasmas in der Klamm!
+Dialogue: 0,0:06:58.19,0:07:00.61,Default,Beelac,0,0,0,,Er ernährt sich vom Groll\Nund vom Tod in dieser Gegend.
+Dialogue: 0,0:07:00.61,0:07:02.07,Default,Beelac,0,0,0,,Das ist kein gewöhnliches Miasma!
+Dialogue: 0,0:07:04.53,0:07:07.41,Default,Beelac,0,0,0,,Halt, wir sind ja völlig okay.
+Dialogue: 0,0:07:07.41,0:07:10.33,Default,Emul,0,0,0,,Dank Sunrakus Fluchmal!
+Dialogue: 0,0:07:10.70,0:07:14.66,Default,Sunraku,0,0,0,,Ich hab ein bisschen Schaden genommen,\Naber es konnte den Debuff negieren.
+Dialogue: 0,0:07:14.66,0:07:17.83,Default,Sunraku,0,0,0,,Dass es sogar gegen Angriffe\Nvon Gebietsbossen wirkt.
+Dialogue: 0,0:07:18.38,0:07:23.01,Default,Sunraku,0,0,0,,Aber warte mal! Wenn weder meine Angriffe\Nnoch die des Gegners funktionieren …
+Dialogue: 0,0:07:23.92,0:07:27.55,Default,Sunraku,0,0,0,,Woah, dann ist das ja eher\N’ne Kissenschlacht. Was jetzt?
+Dialogue: 0,0:07:27.55,0:07:30.89,Default,Beelac,0,0,0,,Darum sagte ich ja, dass du\Ndich gründlich vorbereiten sollst!
+Dialogue: 0,0:07:30.89,0:07:31.81,Default,Beelac,0,0,0,,Mann …
+Dialogue: 0,0:07:33.27,0:07:34.98,Default,Beelac,0,0,0,,Muss ich wohl wieder ran …
+Dialogue: 0,0:07:35.73,0:07:38.27,Default,Beelac,0,0,0,,Verschaff mir ’n wenig Zeit.
+Dialogue: 0,0:07:40.82,0:07:43.23,Default,Beelac,0,0,0,,Die Schmiedin regelt das für dich.
+Dialogue: 0,0:07:57.37,0:07:59.25,Default,Emul,0,0,0,,Wa…?! S-Sunraku?!
+Dialogue: 0,0:07:59.25,0:08:02.13,Default,Emul,0,0,0,,Warum befestigst du mich an deinem Arm?!
+Dialogue: 0,0:08:02.13,0:08:05.26,Default,Sunraku,0,0,0,,Du bist momentan die Einzige,\Ndie ihm Kontra geben kann, Emul!
+Dialogue: 0,0:08:05.26,0:08:08.47,Default,Sunraku,0,0,0,,{\an8}Ich nenne es „Hasengewehr: Handkanone“!
+Dialogue: 0,0:08:09.43,0:08:11.55,Default,Emul,0,0,0,,{\an8}Schon wieder?!
+Dialogue: 0,0:08:12.10,0:08:13.93,Default,Sunraku,0,0,0,,Ich geb dir später auch Karotten.
+Dialogue: 0,0:08:13.93,0:08:15.06,Default,Emul,0,0,0,,Karotten?!
+Dialogue: 0,0:08:21.06,0:08:26.40,Default,Sunraku,0,0,0,,Keine Sorge, wir wollen nur Zeit schinden.\NWir müssen ihn nicht besiegen.
+Dialogue: 0,0:08:26.40,0:08:29.78,Default,Sunraku,0,0,0,,Aber es heißt ja auch,\NAngriff ist die beste Verteidigung.
+Dialogue: 0,0:08:29.78,0:08:32.20,Default,Sunraku,0,0,0,,Also doch volle Lotte drauf! Los, Emul!
+Dialogue: 0,0:08:34.33,0:08:35.20,Default,Emul,0,0,0,,Jawohl!
+Dialogue: 0,0:08:38.50,0:08:40.96,Default,Emul,0,0,0,,Ohne Rücksicht auf Verluste!
+Dialogue: 0,0:08:41.71,0:08:44.00,Default,Emul,0,0,0,,„Magische Schneide“!
+Dialogue: 0,0:08:50.22,0:08:52.39,Default,Sunraku,0,0,0,,Super! Es zeigt Wirkung!
+Dialogue: 0,0:08:54.93,0:08:58.73,Default,Sunraku,0,0,0,,Beelac, wie lange dauert das\Ndenn eigentlich konkret?
+Dialogue: 0,0:09:00.60,0:09:04.73,Default,Beelac,0,0,0,,Das geht nicht einfach so nebenbei!\NEin wenig Geduld!
+Dialogue: 0,0:09:04.73,0:09:06.15,Default,Sunraku,0,0,0,,Alles klar!
+Dialogue: 0,0:09:08.82,0:09:10.99,Default,Beelac,0,0,0,,Wirklich scharf wird es dadurch nicht,
+Dialogue: 0,0:09:10.99,0:09:15.24,Default,Beelac,0,0,0,,aber mit dem Weihwasser mach ich diesen\Nverrosteten Enthaupter des Dullahan-Generals
+Dialogue: 0,0:09:15.24,0:09:18.25,Default,Beelac,0,0,0,,zu einer Waffe, die gegen\Nden Summenden Lich wirkt!
+Dialogue: 0,0:09:18.87,0:09:21.50,Default,Beelac,0,0,0,,Schließlich bist du noch nicht tot!
+Dialogue: 0,0:09:28.92,0:09:31.51,Default,Emul,0,0,0,,Überall wachsen Arme aus dem Boden!
+Dialogue: 0,0:09:31.51,0:09:35.05,Default,Sunraku,0,0,0,,Verglichen mit Wezaemons Techniken\Nist das hier Schwierigkeit „Sehr leicht“!
+Dialogue: 0,0:09:39.56,0:09:40.27,Default,Sunraku,0,0,0,,Feuer!
+Dialogue: 0,0:09:40.27,0:09:41.27,Default,Emul,0,0,0,,J-Jawohl!
+Dialogue: 0,0:09:41.27,0:09:43.27,Default,Emul,0,0,0,,„Magische Schneide“!
+Dialogue: 0,0:09:45.40,0:09:46.77,Default,Sunraku,0,0,0,,Treffer!
+Dialogue: 0,0:10:15.01,0:10:17.68,Default,Emul,0,0,0,,J-Jetzt sind es sieben!
+Dialogue: 0,0:10:18.18,0:10:21.23,Default,Sunraku,0,0,0,,Und jeder hat eine andere Waffe!
+Dialogue: 0,0:10:30.19,0:10:32.70,Default,Emul,0,0,0,,Oje, oje, oje!
+Dialogue: 0,0:10:33.74,0:10:36.70,Default,Sunraku,0,0,0,,So vielen auszuweichen,\Nist dann doch lästig!
+Dialogue: 0,0:10:37.41,0:10:39.20,Default,Emul,0,0,0,,Sie kommen!
+Dialogue: 0,0:10:40.20,0:10:44.00,Default,Beelac,0,0,0,,Hier, fang, Vogelmensch!
+Dialogue: 0,0:10:59.51,0:11:03.89,Default,Sunraku,0,0,0,,Wow, es war total verrostet,\Naber jetzt sieht es wieder richtig gut aus.
+Dialogue: 0,0:11:03.89,0:11:08.77,Default,Beelac,0,0,0,,Ohne Ofen und Amboss konnte ich es\Nnur grob mit Weihwasser schleifen.
+Dialogue: 0,0:11:08.77,0:11:13.15,Default,Beelac,0,0,0,,Es ist garantiert mächtig, könnte sogar\Nden Sensenmann aufschlitzen.
+Dialogue: 0,0:11:13.15,0:11:15.74,Default,Beelac,0,0,0,,Dafür ist es aber auch fragil.
+Dialogue: 0,0:11:15.74,0:11:19.28,Default,Beelac,0,0,0,,Du hast höchstens acht Schläge,\Ndanach wird es zerbrechen.
+Dialogue: 0,0:11:19.28,0:11:20.66,Default,Beelac,0,0,0,,Behalt das im Hinterkopf.
+Dialogue: 0,0:11:21.41,0:11:26.42,Default,Sunraku,0,0,0,,Okay. Mit anderen Worten, ich muss sie\Ninnerhalb von acht Schlägen besiegen.
+Dialogue: 0,0:11:28.58,0:11:31.21,Default,Sunraku,0,0,0,,Das ist quasi\Neine Herausforderungs-Quest.
+Dialogue: 0,0:11:45.64,0:11:47.23,Default,Beelac,0,0,0,,Singen die?
+Dialogue: 0,0:11:47.23,0:11:49.69,Default,Emul,0,0,0,,Ist irgendwie gruselig.
+Dialogue: 0,0:11:51.11,0:11:53.82,Default,Sunraku,0,0,0,,Ein Septett aus sieben Totenköpfen.
+Dialogue: 0,0:11:54.53,0:11:56.70,Default,Sunraku,0,0,0,,Darum also „Summender Lich, …
+Dialogue: 0,0:11:57.20,0:11:59.45,Default,Sunraku,0,0,0,,singender Miasma-Knochendämon“.
+Dialogue: 0,0:12:00.03,0:12:03.20,Default,Sunraku,0,0,0,,{\i1}Seit Beginn des Kampfes\Nsind erst etwa acht Minuten vergangen.
+Dialogue: 0,0:12:06.46,0:12:08.62,Default,Sunraku,0,0,0,,Beelac, halt dich auch an mir fest!
+Dialogue: 0,0:12:12.13,0:12:13.71,Default,Beelac,0,0,0,,Was hast du vor?!
+Dialogue: 0,0:12:13.71,0:12:16.88,Default,Sunraku,0,0,0,,Erst mal was nachprüfen!\NIch will diese Doppelgänger testen!
+Dialogue: 0,0:12:23.26,0:12:25.64,Default,Sunraku,0,0,0,,Fähigkeit: „Driftschritt“!
+Dialogue: 0,0:12:33.98,0:12:35.07,Default,Beelac,0,0,0,,Einen Moment lang …!
+Dialogue: 0,0:12:35.07,0:12:38.53,Default,Sunraku,0,0,0,,Ja, das Original hat getaumelt,\Nohne Schaden genommen zu haben.
+Dialogue: 0,0:12:39.07,0:12:43.28,Default,Sunraku,0,0,0,,Das heißt, bei dieser Art Monster teilen sich\Ndie Doppelgänger die LP mit dem Original.
+Dialogue: 0,0:12:43.28,0:12:48.54,Default,Sunraku,0,0,0,,Und da es nach nur einem Treffer taumelt,\Nkann es nicht allzu viel Leben haben.
+Dialogue: 0,0:12:49.50,0:12:50.92,Default,Sunraku,0,0,0,,Ich hab ’nen Plan.
+Dialogue: 0,0:12:50.92,0:12:52.13,Default,Sunraku,0,0,0,,Emul!
+Dialogue: 0,0:12:52.50,0:12:53.75,Default,Sunraku,0,0,0,,Beelac!
+Dialogue: 0,0:12:54.38,0:12:56.67,Default,Sunraku,0,0,0,,Ich erklär ihn euch schnell.
+Dialogue: 0,0:13:00.84,0:13:04.43,Default,Beelac,0,0,0,,W-Wie bitte?! Ich soll {\i1}was{\i0} machen?!
+Dialogue: 0,0:13:04.43,0:13:07.89,Default,Sunraku,0,0,0,,Beelac, man schwingt eine Waffe stets,\Num zu gewinnen.
+Dialogue: 0,0:13:07.89,0:13:10.35,Default,Sunraku,0,0,0,,Das wäre doch sonst der Waffe\Ngegenüber unhöflich, oder?
+Dialogue: 0,0:13:14.23,0:13:15.98,Default,Sunraku,0,0,0,,Also dann, du schaffst das schon!
+Dialogue: 0,0:13:30.29,0:13:33.83,Default,Sunraku,0,0,0,,{\an8}So, gleich zehn Minuten um.\NDann hauen wir mal alle Buffs raus!
+Dialogue: 0,0:13:33.83,0:13:35.50,Default,Emul,0,0,0,,{\an8}Alles raushauen!
+Dialogue: 0,0:13:37.59,0:13:40.30,Default,Sunraku,0,0,0,,Emul, schlag alle, die im Weg sind,\Nmit Magische Schneide zurück!
+Dialogue: 0,0:13:40.30,0:13:41.26,Default,Emul,0,0,0,,Jawohl!
+Dialogue: 0,0:13:41.93,0:13:45.76,Default,Sunraku,0,0,0,,{\i1}Ein Buff, den ich gegen den\NDullahan-General nicht einsetzen konnte,
+Dialogue: 0,0:13:46.39,0:13:49.68,Default,Sunraku,0,0,0,,{\i1}weil er erst zehn Minuten nach Beginn\Neines Kampfes aktiviert werden kann:
+Dialogue: 0,0:13:49.68,0:13:51.02,Default,Sunraku,0,0,0,,{\i1}„Overheat“!
+Dialogue: 0,0:13:52.77,0:13:54.90,Default,Sunraku,0,0,0,,{\i1}Oben drauf noch „Nitro-Anstieg“!
+Dialogue: 0,0:13:57.36,0:13:59.94,Default,Sunraku,0,0,0,,{\i1}Der wahre Wert dieses Skills\Nist nicht sein Buff,
+Dialogue: 0,0:13:59.94,0:14:03.36,Default,Sunraku,0,0,0,,{\i1}sondern das LP-Management, das man\Ndurch die 20 % Schaden ausüben kann.
+Dialogue: 0,0:14:03.95,0:14:07.79,Default,Sunraku,0,0,0,,{\i1}Dadurch kann ich meine LP feinjustieren,\Num aus Spitzenschub
+Dialogue: 0,0:14:07.79,0:14:09.37,Default,Sunraku,0,0,0,,{\i1}das Maximum herauszukitzeln.
+Dialogue: 0,0:14:11.62,0:14:13.58,Default,Emul,0,0,0,,„Magische Schneide“!
+Dialogue: 0,0:14:19.25,0:14:21.13,Default,Sunraku,0,0,0,,Okay, der Weg ist frei!
+Dialogue: 0,0:14:21.13,0:14:23.80,Default,Sunraku,0,0,0,,Zuerst der lästige Bogenschütze!
+Dialogue: 0,0:14:25.39,0:14:26.72,Default,Sunraku,0,0,0,,„Sechs-Schiffe-Sprung“!
+Dialogue: 0,0:14:28.47,0:14:30.72,Default,Sunraku,0,0,0,,Die Besonderheit des Enthaupters …
+Dialogue: 0,0:14:36.31,0:14:39.11,Default,Sunraku,0,0,0,,ist der Schadensbonus\Nbei Angriffen auf den Hals.
+Dialogue: 0,0:14:39.53,0:14:42.11,Default,Sunraku,0,0,0,,Dazu noch die gebufften\Nkritischen Treffer und ich kann
+Dialogue: 0,0:14:42.11,0:14:44.53,Default,Sunraku,0,0,0,,einen Doppelgänger\Nmit einem Schlag beerdigen!
+Dialogue: 0,0:14:45.49,0:14:47.87,Default,Sunraku,0,0,0,,Los, Emul! Als Nächstes den mit der Axt!
+Dialogue: 0,0:14:47.87,0:14:49.12,Default,Emul,0,0,0,,Verstanden!
+Dialogue: 0,0:14:49.99,0:14:55.12,Default,Sunraku,0,0,0,,{\i1}Bleiben noch fünf und das Original.\NIch hab noch sieben Angriffe übrig!
+Dialogue: 0,0:14:55.12,0:14:56.63,Default,Emul,0,0,0,,„Magische Schneide“!
+Dialogue: 0,0:15:06.80,0:15:08.72,Default,Sunraku,0,0,0,,{\i1}Es gibt noch eine Einschränkung.
+Dialogue: 0,0:15:08.72,0:15:13.10,Default,Sunraku,0,0,0,,{\i1}Nach fünf Minuten werden meine Werte durch\Nden Überhitzen-Effekt stark vermindert …
+Dialogue: 0,0:15:13.93,0:15:16.94,Default,Sunraku,0,0,0,,{\i1}und ich kann die Gegner nicht mehr\Nmit einem Schlag besiegen.
+Dialogue: 0,0:15:16.94,0:15:18.11,Default,Sunraku,0,0,0,,{\i1}Darum …
+Dialogue: 0,0:15:18.44,0:15:21.11,Default,Sunraku,0,0,0,,{\i1}werde ich den Kampf vorher entscheiden!
+Dialogue: 0,0:15:26.86,0:15:32.12,Default,Beelac,0,0,0,,Emul unterstützt ihn zwar, aber so viele\Nabzuwehren und sogar zu kontern …
+Dialogue: 0,0:15:32.87,0:15:36.12,Default,Beelac,0,0,0,,Es war keine Angeberei,\Ndass er einen der Sieben besiegt hat.
+Dialogue: 0,0:15:36.79,0:15:40.63,Default,Beelac,0,0,0,,Na gut, ich mach bei deinem Plan mit.
+Dialogue: 0,0:15:48.47,0:15:51.01,Default,Sunraku,0,0,0,,Bleiben noch zwei Angriffe.
+Dialogue: 0,0:15:52.56,0:15:56.02,Default,Sunraku,0,0,0,,Übrig bist nur noch du mit deinem Stab!
+Dialogue: 0,0:16:05.28,0:16:07.15,Default,Sunraku,0,0,0,,Ich verlass mich auf dich, Emul!
+Dialogue: 0,0:16:07.82,0:16:10.87,Default,Sunraku,0,0,0,,Wobei deeenn?!
+Dialogue: 0,0:16:14.91,0:16:17.29,Default,Sunraku,0,0,0,,Ist doch klar. Wir beenden das jetzt!
+Dialogue: 0,0:16:19.12,0:16:20.71,Default,Emul,0,0,0,,„Magische Schneide“!
+Dialogue: 0,0:16:23.34,0:16:24.96,Default,Sunraku,0,0,0,,Gut gemacht, Emul!
+Dialogue: 0,0:16:26.01,0:16:27.01,Default,Sunraku,0,0,0,,Fähigkeit:
+Dialogue: 0,0:16:28.51,0:16:30.47,Default,Sunraku,0,0,0,,„Glühender Dorn“!
+Dialogue: 0,0:16:33.51,0:16:36.93,Default,Sunraku,0,0,0,,Wie erwartet schaff ich das Original\Nallein dann doch nicht.
+Dialogue: 0,0:16:37.89,0:16:40.44,Default,Beelac,0,0,0,,Hast dich wacker geschlagen,\NEnthaupter.
+Dialogue: 0,0:16:41.40,0:16:44.86,Default,Beelac,0,0,0,,Tut mir leid, aber einen Schlag\Nmusst du noch aushalten.
+Dialogue: 0,0:16:46.28,0:16:47.90,Default,Sunraku,0,0,0,,Gib ihm den Rest, Beelac!
+Dialogue: 0,0:16:49.03,0:16:50.78,Default,Sunraku,0,0,0,,„Sechs-Schiffe-Sprung“!
+Dialogue: 0,0:16:50.78,0:16:53.78,Default,Beelac,0,0,0,,Okay, los geht’s!
+Dialogue: 0,0:16:54.24,0:16:56.12,Default,Beelac,0,0,0,,„Materieller Fokus“!
+Dialogue: 0,0:16:56.87,0:17:01.38,Default,Beelac,0,0,0,,Und dann „Festungsbrecher“!
+Dialogue: 0,0:17:14.35,0:17:17.10,Default,Sunraku,0,0,0,,{\an8}Jaaa! Ein menschlicher,
+Dialogue: 0,0:17:17.10,0:17:20.98,Default,Sunraku,0,0,0,,{\an8}nein, ein kaninchenbetriebener\NPile Bunker!
+Dialogue: 0,0:17:21.65,0:17:25.15,Default,Sunraku,0,0,0,,Seit die anderen mir vom Kampf\Ngegen Kirin erzählt haben,
+Dialogue: 0,0:17:25.15,0:17:28.44,Default,Sunraku,0,0,0,,wollte ich das mal probieren!
+Dialogue: 0,0:17:36.16,0:17:39.37,Default,Sunraku,0,0,0,,Du Idiot! Was, wenn\Nmich das getötet hätte?!
+Dialogue: 0,0:17:39.37,0:17:42.29,Default,Emul,0,0,0,,Du warst doch derjenige,\Nder mich hochgeworfen hat!
+Dialogue: 0,0:17:42.29,0:17:44.13,Default,Beelac,0,0,0,,Das ist nicht der Moment zu streiten!
+Dialogue: 0,0:17:48.59,0:17:53.68,Default,Beelac,0,0,0,,Das krieg ich noch irgendwie repariert.\NAber wohlgemerkt nicht hier und jetzt.
+Dialogue: 0,0:17:54.14,0:17:56.85,Default,Beelac,0,0,0,,Ey, ihr, wir müssen schnell nach Achdolt!
+Dialogue: 0,0:17:56.85,0:18:00.39,Default,Sunraku,0,0,0,,Hä? Lass mich wenigstens\Nin Ruhe die Beute ansehen.
+Dialogue: 0,0:18:01.14,0:18:04.60,Default,Sunraku,0,0,0,,Obwohl, das ist ein magisches\NItem für Schamanen, was?
+Dialogue: 0,0:18:04.60,0:18:06.32,Default,Sunraku,0,0,0,,Ist für mich wohl nutzlos.
+Dialogue: 0,0:18:09.99,0:18:12.86,Default,Sunraku,0,0,0,,Meine ich das nur\Noder lichtet sich der Nebel?
+Dialogue: 0,0:18:12.86,0:18:15.32,Default,Emul,0,0,0,,Vielleicht, weil die Quelle\Ndes Miasmas weg ist?
+Dialogue: 0,0:18:19.70,0:18:23.08,Default,Emul,0,0,0,,Sunraku, ich hab das Gefühl,\Ndu denkst über was Dummes nach.
+Dialogue: 0,0:18:23.08,0:18:25.67,Default,Sunraku,0,0,0,,Ach was, ich doch nicht!
+Dialogue: 0,0:18:25.67,0:18:29.09,Default,Beelac,0,0,0,,Was macht ihr denn?! Kommt endlich!
+Dialogue: 0,0:18:51.82,0:18:56.62,Default,Sunraku,0,0,0,,Okay, jetzt kann ich mit Emuls Portal zwischen\NHasingen und Achdolt hin- und herreisen.
+Dialogue: 0,0:18:56.62,0:19:00.66,Default,Beelac,0,0,0,,Und, was nun? Ich würd gern\Nerst mal nach Hasingen zurück
+Dialogue: 0,0:19:00.66,0:19:04.37,Default,Beelac,0,0,0,,und den Enthaupter\Ndes Dullahan-Generals reparieren.
+Dialogue: 0,0:19:04.37,0:19:05.87,Default,Sunraku,0,0,0,,Tja …
+Dialogue: 0,0:19:06.29,0:19:08.96,Default,Sunraku,0,0,0,,Wollen wir dann erst mal\NPause machen und uns trennen?
+Dialogue: 0,0:19:08.96,0:19:10.92,Default,Sunraku,0,0,0,,Emul, halt du dich auch\Nin Hasingen bereit.
+Dialogue: 0,0:19:10.92,0:19:12.88,Default,Emul,0,0,0,,Was?! Aber warum?!
+Dialogue: 0,0:19:13.42,0:19:17.09,Default,Sunraku,0,0,0,,Wenn ich in eine neue Stadt komme,\Nwill ich die natürlich erkunden.
+Dialogue: 0,0:19:17.09,0:19:20.89,Default,Sunraku,0,0,0,,Und eure Tarn-Mode ist so avantgardistisch,\Ndass sie schon wieder auffällt.
+Dialogue: 0,0:19:20.89,0:19:24.06,Default,Emul,0,0,0,,Mhm? Klingt irgendwie verdächtig.
+Dialogue: 0,0:19:24.06,0:19:26.77,Default,Sunraku,0,0,0,,Ich kauf dir auch einen Haufen Karotten.
+Dialogue: 0,0:19:26.77,0:19:28.02,Default,Emul,0,0,0,,Karotten!
+Dialogue: 0,0:19:30.32,0:19:33.28,Default,Emul,0,0,0,,D-Dann muss es wohl sein.
+Dialogue: 0,0:19:33.28,0:19:36.57,Default,Emul,0,0,0,,Aber dass du mir\Nkeinen Blödsinn anstellst, klar?
+Dialogue: 0,0:19:36.57,0:19:38.28,Default,Sunraku,0,0,0,,Ich weiß, ich weiß.
+Dialogue: 0,0:19:38.66,0:19:41.79,Default,Emul,0,0,0,,Ich sag’s noch mal: Dass du mir ja keinen …
+Dialogue: 0,0:19:41.79,0:19:45.21,Default,Sunraku,0,0,0,,Keine Sorge. Nun geht schon.
+Dialogue: 0,0:19:56.09,0:19:58.68,Default,Sunraku,0,0,0,,„Stell keinen Blödsinn an“, ja?
+Dialogue: 0,0:20:00.68,0:20:05.39,Default,Sunraku,0,0,0,,Wenn man mir sagt, ich soll etwas\Nnicht machen, will ich es umso mehr!
+Dialogue: 0,0:20:14.19,0:20:16.19,Default,Sunraku,0,0,0,,{\i1}Es ist wie mit der Büchse der Pandora.
+Dialogue: 0,0:20:18.95,0:20:24.45,Default,Sunraku,0,0,0,,{\i1}Zeus übergab Pandora die Büchse\Nin dem Wissen, dass sie sie öffnen würde.
+Dialogue: 0,0:20:25.62,0:20:29.46,Default,Sunraku,0,0,0,,{\i1}Selbst wenn man weiß,\Ndass damit viel Unheil freigesetzt wird, …
+Dialogue: 0,0:20:29.83,0:20:34.13,Default,Sunraku,0,0,0,,{\i1}kann man nicht anders,\Nals sie zu öffnen. Das ist nur menschlich!
+Dialogue: 0,0:20:44.01,0:20:47.98,Default,Sunraku,0,0,0,,So, dann wollen wir mal hochklettern!
+Dialogue: 0,0:20:51.40,0:20:55.40,Default,Sunraku,0,0,0,,Wartet nur, ihr Kristallskorpione!
+Dialogue: 0,0:22:30.66,0:22:34.33,Default,Kinder,0,0,0,,ShanFro-Theater!
+Dialogue: 0,0:22:34.33,0:22:35.92,Default,Emul,0,0,0,,Mini!
+Dialogue: 0,0:22:42.26,0:22:46.09,Default,Emul,0,0,0,,Dieser Gegner ist zu stark!
+Dialogue: 0,0:22:46.09,0:22:48.22,Default,Sunraku,0,0,0,,Was sie wohl träumt?
+Dialogue: 0,0:22:50.06,0:22:53.18,Default,Emul,0,0,0,,Eine unfassbar große Karotte!
+Dialogue: 0,0:22:53.18,0:22:56.10,Default,Emul,0,0,0,,Daraus kann ich mir\Nein Karottenhaus bauen.
+Dialogue: 0,0:22:56.10,0:22:58.52,Default,Emul,0,0,0,,Ich bin so glücklich!
+Dialogue: 0,0:22:58.52,0:23:02.24,Default,Emul,0,0,0,,Halt, meine Ohren\Nsind zu Karotten geworden!
+Dialogue: 0,0:23:03.90,0:23:08.70,Default,Emul,0,0,0,,Ihr seid der Karottenkönig und\Ndie Karottenkönigin des Karottenlands!
+Dialogue: 0,0:23:08.70,0:23:12.00,Default,Emul,0,0,0,,Lasst mich bitte Eure Hände schütteln!
+Dialogue: 0,0:23:16.50,0:23:19.29,Default,Emul,0,0,0,,Hach ja, dieser Sunraku.
+Dialogue: 0,0:23:19.29,0:23:22.30,Default,Emul,0,0,0,,Er hängt so sehr an meinem Rockzipfel.
+Dialogue: 0,0:23:22.30,0:23:26.51,Default,Emul,0,0,0,,Ganz so, als wäre er\Nmein jüngster Bruder. Ja, fein!
+Dialogue: 0,0:23:26.51,0:23:28.51,Default,Emul,0,0,0,,Bist ein braver Junge.
+Dialogue: 0,0:23:29.80,0:23:32.43,Default,Sunraku,0,0,0,,Ernsthaft, was träumt die bitte?

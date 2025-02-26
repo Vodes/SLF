@@ -1,0 +1,52 @@
+﻿[Script Info]
+Title: Deutsch
+ScaledBorderAndShadow: yes
+Original Script: cr_de  [http://www.crunchyroll.com/user/cr_de]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+LayoutResX: 1920
+LayoutResY: 1080
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: TypePlaceholder,Arial Bold,57,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,0,0,8,30,30,60,1
+Style: TypePlaceholderBox,Arial Bold,66,&H00200960,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,3,6,0,8,30,30,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:31.32,0:01:34.24,TypePlaceholder,type,0,0,0,,{\an1\fnVerdana bold\fscx90\shad6\fs+1\b1\fsp3\c&HFFFFFF&\4c&HC7951D&\bord0\fad(165,0)\3c&HFFFFFE&\pos(505.5,886.5)}Jene, die Licht ins {\fnGeorgia bold\c&HC7951D&\bord3\3c&HFFFFFF&\4c&HFFFFFF&\alpha&HFF&\t(332,582,\alpha&H00&)}Dunkel {\bord0\fnVerdana bold\fscx90\c&HFFFFFF&\4c&HC7951D&\alpha&HFF&\t(707,1082,\alpha&H00&)}der Welt bringen
+Dialogue: 0,0:02:05.27,0:02:12.78,TypePlaceholder,type,0,0,0,,{\fnVerdana bold\bord4.5\fs-1\pos(400.5,36)}Trampelnde Kristallklaue\NPanzer des Kristallskorpions\NZähes Kristallbein
+Dialogue: 0,0:03:40.45,0:03:43.12,TypePlaceholder,type,0,0,0,,{\fnTimes New Roman bold\bord3.6\fs+2\an2\pos(960,756)\fad(289,0)}Schmiedemeister
+Dialogue: 0,0:03:43.12,0:03:45.79,TypePlaceholder,type,0,0,0,,{\fnTimes New Roman bold\bord3.6\fs+2\an2\pos(960,756)\fad(0,255)}Juwelier
+Dialogue: 0,0:05:17.80,0:05:18.59,TypePlaceholder,type,0,0,0,,{\fnImpact\b0\fsp9\fs+5\an2\bord9\c&HFFAA20&\fad(161,0)\frz29.44\3c&H77491B&\move(1333.5,654,1381.5,633,36,787)}Sch{\c&HF4D323&\3c&H985D27&}wer{\c&HFDFF31&\3c&HA86B25&}tmeis{\3c&HC57925&}ter
+Dialogue: 0,0:05:18.97,0:05:19.97,TypePlaceholder,type,0,0,0,,{\fnImpact\b0\fsp9\fs+5\an2\bord9\c&HF97163&\fad(159,0)\3c&H673534&\frz327.7\move(570,301.5,528,271.5,34,993)}Wilder Wind
+Dialogue: 0,0:05:20.34,0:05:21.59,TypePlaceholder,type,0,0,0,,{\fnImpact\b0\fsp9\fs+5\an2\bord9\c&H4CFFFA&\fad(165,0)\frz29.44\3c&H31A9C7&\move(1426.5,603,1485,570,165,1250)}Cait Sith
+Dialogue: 0,0:05:21.88,0:05:22.97,TypePlaceholder,type,0,0,0,,{\fnImpact\b0\fsp9\fs+5\an2\bord9\c&HFBB9F6&\fad(159,0)\3c&HA407B1&\frz329.3\move(912,768,873,742.5,33,1076)}Katzeria
+Dialogue: 0,0:05:27.64,0:05:29.98,TypePlaceholderBox,type,0,0,0,,{\fnTahoma\b0\fs-4\fad(166,0)\pos(471,669)\c&H304D18&\3c&HABF944&}Zweiter Oberst der Gestiefelten Musketiere
+Dialogue: 0,0:05:27.64,0:05:29.98,TypePlaceholder,type,0,0,0,,{\fnImpact\b0\fsp9\fad(124,0)\fs+5\bord0\an2\pos(475.5,1023)\c&HABF944&}Aramiez
+Dialogue: 0,0:10:46.25,0:10:48.67,TypePlaceholder,type,0,0,0,,{\fnTimes New Roman bold\bord4.5\blur4.5\fs+2\an2\pos(960,756)\fad(0,0)\c&HFFFFFF&\3c&H000000&}Ahnenhandwerker
+Dialogue: 0,0:13:58.07,0:14:09.91,TypePlaceholder,type,0,0,0,,{\fnVerdana bold\fs+4\fad(328,0)\bord9\c&HD30EE0&\3c&H67096A&\move(219,475.5,351,475.5,36,5300)}Werwolf
+Dialogue: 0,0:13:59.07,0:14:09.91,TypePlaceholder,type,0,0,0,,{\fnVerdana bold\fs+4\fad(328,0)\bord9\c&HD30EE0&\3c&H67096A&\move(445.5,652.5,577.5,652.5,36,5000)}Echsenmensch
+Dialogue: 0,0:15:00.96,0:15:04.22,TypePlaceholder,type,0,0,0,,{\fnVerdana\bord4.5\c&HFFFFFF&\3c&HAA941B&\pos(960,612)}Achte Stadt\N{\fnVerdana bold}Achdolt
+Dialogue: 0,0:18:14.28,0:18:17.95,TypePlaceholderBox,type,0,0,0,,{\fad(200,0)\fnVerdana\b0\fs-4\pos(391.5,589.5)\c&H3D1312&\3c&HCEC914&}Anführer des Forscher-Clans „Bibliothek“
+Dialogue: 0,0:18:14.28,0:18:17.95,TypePlaceholder,type,0,0,0,,{\fnImpact\b0\fad(200,0)\fax-0.3\bord3.6\fs+5\pos(427.5,640.5)\c&HD5D121&}Professor
+Dialogue: 0,0:18:45.19,0:18:49.15,TypePlaceholderBox,type,0,0,0,,{\fnVerdana bold\fs-1\fad(224,0)\c&H746560&\3c&HF1FEFE&\pos(960,36)}Einzigartiges Szenario EX
+Dialogue: 0,0:18:45.19,0:18:49.15,TypePlaceholder,type,0,0,0,,{\fnImpact\b0\fsp6\fs+4\fad(224,0)\c&HF1FEFE&\3c&HF1FEFE&\pos(943.5,133.5)}Das Epos der Killerkaninchen
+Dialogue: 0,0:18:45.19,0:18:49.15,TypePlaceholder,type,0,0,0,,{\fad(224,0)\fnTahoma\pos(960,550.5)\c&HF9E9E3&}Beginnen?
+Dialogue: 0,0:18:45.19,0:18:49.15,TypePlaceholderBox,type,0,0,0,,{\fnTahoma\fs-2\fad(200,0)\c&HE2DFFF&\3c&H2500B7&\b0\pos(759,847.5)}\h\hNein\h\h
+Dialogue: 0,0:18:45.19,0:18:49.15,TypePlaceholderBox,type,0,0,0,,{\fnTahoma\fs-2\b0\fad(200,0)\c&HFDFEE0&\pos(1143,849)\3c&HC2EA22&}\h\hJa\h\h
+Dialogue: 0,0:19:29.56,0:19:35.57,TypePlaceholder,type,0,0,0,,{\fnVerdana bold\fsp9\fax0.2\fs+2\frz7.348\c&HF5FFC0&\pos(1537.5,16.5)}Sunraku
+Dialogue: 0,0:19:38.20,0:19:40.45,TypePlaceholder,type,0,0,0,,{\an7\pos(457.02,355.26)\org(457.02,355.26)\fscx84.758\fscy83.538\frz17.009\fry-5.861\frx-3.236\fax-0.29\fnTahoma\c&HF0E5D4&}\hFreundschaftsanfrage\Nvon {\fnImpact\c&HD0C61F&}Professor {\fnTahoma\c&HF0E5D4&}annehmen?
+Dialogue: 0,0:19:38.20,0:19:40.45,TypePlaceholderBox,type,0,0,0,,{\fnTahoma\fs-2\fad(0,0)\c&HDBDDFE&\fax-0.15\3c&H1E00A8&\b0\frz8.645\pos(675,691.5)}\h\hNein\h\h
+Dialogue: 0,0:19:38.20,0:19:40.45,TypePlaceholderBox,type,0,0,0,,{\fnTahoma\fs-2\b0\fad(0,0)\fax-0.2\c&HFBFFC9&\3c&HABDE2B&\frz9.61\pos(979.5,642)}\h\hJa\h\h
+Dialogue: 0,0:20:04.60,0:20:08.60,TypePlaceholder,Credits,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\pos(960,45)}Übersetzung: Anja Truong
+Dialogue: 0,0:20:04.60,0:20:08.60,TypePlaceholder,Credits,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\an2\pos(960,1035)}Spotting: Michael Gohl
+Dialogue: 0,0:20:09.10,0:20:13.07,TypePlaceholder,Credits,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\pos(960,45)}Revision & Typesetting: Jacqueline Philippi
+Dialogue: 0,0:20:09.10,0:20:13.07,TypePlaceholder,Credits,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\an2\pos(960,1035)}Qualitätskontrolle: Konrad Walter
+Dialogue: 0,0:20:13.61,0:20:17.57,TypePlaceholder,Credits,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\pos(960,45)}Projektleitung: Tobias Philippi
+Dialogue: 0,0:23:28.01,0:23:35.27,TypePlaceholder,Types,0,0,0,,{\fnComic Sans MS Bold\fs+4\bord0\shad6\fs+6\c&H7CEDEF&\4c&H51CBDA&\pos(960,9)}Sh{\c&HC297F0&\4c&H966CD6&}a{\c&H679FF8&\4c&H3171D7&}n{\c&HDE72BD&\4c&HB64897&}F{\c&H5B63E6&\4c&H484FC2&}ro
+Dialogue: 0,0:23:31.81,0:23:35.27,TypePlaceholder,Types,0,0,0,,{\fnComic Sans MS BOld\fad(493,0)\fs+4\fax-0.15\an3\c&HFAFFFE&\3c&H376777&\4c&H1C3F4D&\shad3.9\bord3.9\pos(1831.5,859.5)}#30 Edelstein, Mineralstein,\NSteinharter Dickkopf
+Dialogue: 0,0:23:32.39,0:23:35.27,TypePlaceholder,Types,0,0,0,,{\c&H515655&\fnComic Sans MS BOld\fad(333,0)\fs+2\bord0\frz43.99\pos(1447.5,118.5)}Mini

@@ -1,0 +1,69 @@
+﻿[Script Info]
+Title: English (US)
+ScaledBorderAndShadow: yes
+Original Script: kodansha  [http://www.crunchyroll.com/user/kodansha]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+LayoutResX: 1920
+LayoutResY: 1080
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+Style: Sign_Basic,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,6,3,2,30,30,54,1
+Style: sign_147_12_Rakuro_Hizutome_,Arial,72,&H00FFFFFF,&H000000FF,&H00D19728,&H00000000,-1,0,0,0,100,100,0,0,3,3,0,9,1185,60,60,1
+Style: Ep_Title,Arial,60,&H00FFFFFF,&H000000FF,&H00000000,&H00BE9829,-1,0,0,0,100,100,0,0,1,0,6,1,132,30,12,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:02:12.40,0:02:17.49,Sign_Basic,sign,0,0,0,,{\c&H436276&\bord3\shad0\fnTimes New Roman\3c&H518295&\pos(1815,612)}Winner
+Dialogue: 0,0:02:12.40,0:02:17.49,Sign_Basic,sign,0,0,0,,{\c&H436276&\bord3\shad0\fnTimes New Roman\3c&HC5FDF5&\fs48\pos(1710,852)}Kei Uomi
+Dialogue: 0,0:02:12.95,0:02:18.45,Ep_Title,sign,0,0,0,,{\fad(825,300)}Errands, Cultivation, and Game Progress
+Dialogue: 0,0:02:44.44,0:02:47.23,sign_147_12_Rakuro_Hizutome_,sign,0,0,0,,{\fad(325,0)\pos(1860,60)\fs90\3c&H0251D2&}Kei Uomi
+Dialogue: 0,0:02:44.64,0:02:47.23,Sign_Basic,sign,0,0,0,,{\fad(300,0)\pos(1860,150)\an9\fnArial\b1\bord0\shad4.5\c&H0251D1&\4c&HFFFFFF&}Pro Gamer\NWith "Nitro Squad"
+Dialogue: 0,0:02:49.61,0:02:55.86,Sign_Basic,sign,0,0,0,,{\fad(450,0)\c&HD8AB61&\bord0\shad0\pos(330,96)}Mwahaha
+Dialogue: 0,0:02:49.61,0:02:55.86,Default,sign,0,0,0,,{\fad(450,0)\c&HD8AB61&\bord0\shad0\pos(1590,96)}Gwahaha
+Dialogue: 0,0:03:40.37,0:03:41.99,Sign_Basic,sign,0,0,0,,{\pos(890.001,846)\b1\shad0\c&HBFC9CF&\3c&H425D74&}The Serpent's Apple
+Dialogue: 0,0:04:31.67,0:04:34.67,Sign_Basic,sign,0,0,0,,{\c&HA79574&\3c&HFFF9E0&\shad0\fs42\move(582,561,732,561)\frz353.9\frx10\fry12}Non-Standard Armament: Wire\N{\fs60\c&HFFFFFF&\3c&HFFA6C9&}Keep-Out Wire
+Dialogue: 0,0:04:31.67,0:04:34.67,Sign_Basic,sign,0,0,0,,{\c&HA79574&\3c&HFFF9E0&\shad0\fs42\move(1452,654,1602,654)\frx18\fry20\frz355.1}Non-Standard Armament: Blade \N{\fs60\c&HFFFFFF&\3c&HFFA6C9&}Harbinger
+Dialogue: 0,0:05:03.32,0:05:04.58,Sign_Basic,sign,0,0,0,,{\pos(1378.07,648)\org(1377.999,648)\fscx97.366\fscy99.998\frz1.63\fry4.751\frx0\fax-0.002\fs48\b1\xbord5.84\ybord6\xshad0\yshad0\c&HCED68F&\3c&H2D191A&\fad(100,0)}Non-Standard Ether Reactor
+Dialogue: 0,0:05:14.38,0:05:17.09,Sign_Basic,sign,0,0,0,,{\pos(1153.243,590.001)\org(1152,590.001)\fscx99.586\fscy95.854\frz-4.803\fry-1.335\frx6.195\fax-0.226\fs48\b1\xbord5.97\ybord5.75\xshad0\yshad0\c&HCED68F&\3c&H2D191A&\fad(100,0)}Non-Standard Ether Reactor
+Dialogue: 0,0:05:14.38,0:05:17.09,Sign_Basic,sign,0,0,0,,{\pos(1150.474,723.999)\org(1149.999,723.999)\fscx99.675\fscy99.244\frz-6.664\fry-1.335\frx2.688\fax-0.21\fnArial\fs48\b1\xbord2.99\ybord2.98\xshad0\yshad0\c&H1703B1&\3c&H7579F1&}Damaged
+Dialogue: 0,0:07:25.17,0:07:29.51,Sign_Basic,sign,0,0,0,,{\fad(75,0)\an8\c&HB13B82&\3c&HEB50EB&\fnArial\b1\pos(960,30)\fs60\shad0}Unique Monster\N{\fs72\c&HF286F1&\bord1.5\3c&H9B7493&\4c&HEFC1F8&\shad3}Lycagon the Nightslayer\N{\bord0\shad0\fnTrebuchet MS\fs48\c&HD0D0C8&} Encountered
+Dialogue: 0,0:08:37.87,0:08:39.17,Sign_Basic,sign,0,0,0,,{\fad(150,0)\pos(1416,117)\fs48\c&H978275&\bord0\shad0}Item ownership has been transferred.
+Dialogue: 0,0:08:44.38,0:08:46.63,Sign_Basic,sign,0,0,0,,{\fad(0,250)\c&HCDD287&\3c&H1F1407&\shad0\fs54\b1\move(1506,612,1506,738)\frx6\fry16\fax.15\frz349.2}Reward Scales
+Dialogue: 0,0:08:52.64,0:08:54.14,Sign_Basic,sign,0,0,0,,{\fad(150,0)\fs42\c&H978275&\bord0\shad0\pos(960,930)}Item ownership has been transferred.
+Dialogue: 0,0:10:09.59,0:10:11.22,Sign_Basic,sign,0,0,0,,{\fad(0,400)\an8\c&H000000&\bord0\shad0}Pencilgon's Storage
+Dialogue: 0,0:10:12.34,0:10:14.01,Sign_Basic,sign,0,0,0,,{\c&H000000&\bord0\shad0\pos(1455.999,660)}Sold Off
+Dialogue: 0,0:10:13.09,0:10:15.47,Sign_Basic,sign,0,0,0,,{\fad(0,400)\an8\c&H000000&\bord6\shad0\3c&HC3CFD2&\fs42\pos(657.999,561.999)}Repayment
+Dialogue: 0,0:11:39.55,0:11:43.39,Sign_Basic,sign,0,0,0,,{\fad(500,125)\c&HCDD287&\3c&H1F1407&\shad0\fs54\b1\move(816,264,684,150)\\frz342.4}Tome of Truth: The Tombguard
+Dialogue: 0,0:11:39.55,0:11:43.39,Sign_Basic,sign,0,0,0,,{\fad(500,125)\c&HCDD287&\3c&H1F1407&\shad0\fs54\b1\move(1596,1050,1464,936)\frz345.1}Flower Pin of Bygone Prayers
+Dialogue: 0,0:11:54.57,0:11:56.65,Sign_Basic,sign,0,0,0,,{\fad(675,125)\c&HCDD287&\3c&H664B39&\shad0\fs42\b1\pos(606,708)}Clear Sky Skillbook
+Dialogue: 0,0:11:58.07,0:12:00.66,Sign_Basic,sign,0,0,0,,{\fad(0,525)\an7\c&HCDD287&\3c&H2E353A&\shad0\fs48\b1\pos(60,60)}Clear Sky Skillbook\N{\c&H80848D&\b0\fs36}A digital record of sword techniques\Nleft by a Divinity-era swordsmaster.
+Dialogue: 0,0:12:07.79,0:12:13.25,Sign_Basic,sign,0,0,0,,{\3c&H869237&\shad0\b1\fs42\pos(729,567)\frz339}Ownership
+Dialogue: 0,0:12:07.79,0:12:13.25,Sign_Basic,sign,0,0,0,,{\3c&H869237&\shad0\b1\fs42\frz21\pos(1164,570)}Offering
+Dialogue: 0,0:14:09.62,0:14:13.21,Sign_Basic,sign,0,0,0,,{\fad(550,0)\c&H594AA9&\fnComic Sans MS\shad0\bord3\3c&HAF84A2&\an8\fs90\pos(960,135)}Smug
+Dialogue: 0,0:14:24.22,0:14:26.97,Sign_Basic,sign,0,0,0,,{\c&H0C181B&\fnArial\b1\shad0\3c&H688DA0&\frz336.7\an5\pos(367.998,222)}Unique Hunters
+Dialogue: 0,0:14:24.22,0:14:26.97,Sign_Basic,sign,0,0,0,,{\c&H0C181B&\fnArial\b1\shad0\3c&H688DA0&\an5\frz12.14\pos(711.999,216)}Outrage
+Dialogue: 0,0:14:24.22,0:14:26.97,Sign_Basic,sign,0,0,0,,{\c&H0C181B&\fnArial\b1\shad0\3c&H688DA0&\an5\frz357.5\pos(1244.001,358.002)}Trash Game Alliance
+Dialogue: 0,0:14:24.22,0:14:26.97,Sign_Basic,sign,0,0,0,,{\c&H0C181B&\fnArial\b1\shad0\3c&H688DA0&\an5\pos(1590,318)\frz343.1}Wolfgang
+Dialogue: 0,0:14:24.22,0:14:26.97,Sign_Basic,sign,0,0,0,,{\c&H0C181B&\fnArial\b1\shad0\3c&H688DA0&\an5\pos(380.001,723.999)\frz8.43}Gold Rush
+Dialogue: 0,0:14:24.22,0:14:26.97,Sign_Basic,sign,0,0,0,,{\c&H0C181B&\fnArial\b1\shad0\3c&H688DA0&\an5\pos(699.999,902.001)\frz338.3}Pike-Mounted Heads
+Dialogue: 0,0:14:24.22,0:14:26.97,Sign_Basic,sign,0,0,0,,{\c&H0C181B&\fnArial\b1\shad0\3c&H688DA0&\an5\frz12.14\fs54\pos(1584,651.999)}Pencilgon-chan\Nand Her Errandboys
+Dialogue: 0,0:14:44.07,0:14:51.08,Sign_Basic,sign,0,0,0,,{\c&H0C181B&\fnArial\b1\shad0\3c&H688DA0&\frz336.7\an5\pos(367.998,222)}Unique Hunters
+Dialogue: 0,0:14:44.07,0:14:51.08,Sign_Basic,sign,0,0,0,,{\c&H0C181B&\fnArial\b1\shad0\3c&H688DA0&\an5\frz12.14\pos(711.999,216)}Outrage
+Dialogue: 0,0:14:44.07,0:14:51.08,Sign_Basic,sign,0,0,0,,{\c&H0C181B&\fnArial\b1\shad0\3c&H688DA0&\an5\frz357.5\pos(1244.001,358.002)}Trash Game Alliance
+Dialogue: 0,0:14:44.07,0:14:51.08,Sign_Basic,sign,0,0,0,,{\c&H0C181B&\fnArial\b1\shad0\3c&H688DA0&\an5\pos(380.001,723.999)\frz8.43}Gold Rush
+Dialogue: 0,0:14:44.07,0:14:51.08,Sign_Basic,sign,0,0,0,,{\c&H0C181B&\fnArial\b1\shad0\3c&H688DA0&\an5\pos(699.999,902.001)\frz338.3}Pike-Mounted Heads
+Dialogue: 0,0:14:44.07,0:14:51.08,Sign_Basic,sign,0,0,0,,{\c&H0C181B&\fnArial\b1\shad0\3c&H688DA0&\an5\frz12.14\fs54\pos(1584,651.999)}Pencilgon-chan\Nand Her Errandboys
+Dialogue: 0,0:14:59.09,0:15:02.59,Sign_Basic,sign,0,0,0,,{\pos(960,870)\c&H000000&\3c&HFFFFFF&\shad0\b1}Wolfgang
+Dialogue: 0,0:15:46.55,0:15:49.01,Sign_Basic,sign,0,0,0,,{\fad(450,0)\an8\fnImpact\fs90\shad0\c&HA3940B&\3c&HFEFEF6&\i1\pos(1386,60)}Arthur Pencilgon
+Dialogue: 0,0:15:49.05,0:15:51.26,Sign_Basic,sign,0,0,0,,{\fad(450,0)\an8\fnImpact\fs90\shad0\c&HA3940B&\3c&HFEFEF6&\i1\pos(885,60)}Oikatzo
+Dialogue: 0,0:15:51.31,0:15:53.56,Sign_Basic,sign,0,0,0,,{\fad(700,0)\an8\fnImpact\fs90\shad0\c&HA3940B&\3c&HFEFEF6&\i1\pos(495.999,330)}Sunraku
+Dialogue: 0,0:18:08.94,0:18:11.53,Sign_Basic,sign,0,0,0,,{\fad(575,0)\c&HE8E99D&\pos(1581.999,741.999)\an1\fs36\shad0\b1\3c&H6C4644&}mahni
+Dialogue: 0,0:18:41.39,0:18:43.39,Sign_Basic,sign,0,0,0,,{\fad(250,300)\pos(960,930)\c&H000000&\3c&HFFFFFF&\shad0\b1}Ancient Craftsman
+Dialogue: 0,0:18:44.35,0:18:46.36,Sign_Basic,sign,0,0,0,,{\fad(250,300)\pos(960,930)\c&H000000&\3c&HFFFFFF&\shad0\b1}Master Craftsman
+Dialogue: 0,0:19:23.85,0:19:29.27,Sign_Basic,sign,0,0,0,,{\fad(250,0)\pos(960,930)\c&H000000&\3c&HFFFFFF&\shad0\b1}Divine Craftsman

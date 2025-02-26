@@ -1,0 +1,46 @@
+﻿[Script Info]
+Title: English (US)
+ScaledBorderAndShadow: yes
+Original Script: kodansha  [http://www.crunchyroll.com/user/kodansha]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+LayoutResX: 1920
+LayoutResY: 1080
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sign_Basic,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,6,3,2,30,30,54,1
+Style: Ep_Title,Arial,60,&H00FFFFFF,&H000000FF,&H00000000,&H00BE9829,-1,0,0,0,100,100,0,0,1,0,6,1,132,30,12,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:53.80,0:01:57.31,Ep_Title,sign,0,0,0,,{\fad(850,300)}Bird with Rabbits vs. Skeletal Choir
+Dialogue: 0,0:01:57.43,0:02:00.43,Sign_Basic,sign,0,0,0,,{\an8\b1\3c&HB7B137&\shad0\bord9\pos(960,360)}Canyon of Ancient Souls
+Dialogue: 0,0:03:14.05,0:03:17.43,Sign_Basic,sign,0,0,0,,{\fs60\b1\shad3\c&HF2EE7F&\3c&H4F4236&\bord3\shad3\blur3\4c&HFFFFFF&\pos(960,825)}Crystal Scorpion
+Dialogue: 0,0:06:11.43,0:06:14.27,Sign_Basic,sign,0,0,0,,{\fad(25,0)\b1\fnArial\c&H54275D&\bord9\fs60\b0\3a&H60&\shad0\3c&H3A29DD&\pos(1452,488.001)}Area Boss\N{\fs72\b1\c&H3C2CDF&\3c&H161421&}Humming Lich
+Dialogue: 0,0:06:54.06,0:06:55.56,Sign_Basic,sign,0,0,0,,{\an8\pos(591.999,110.001)\org(591.999,110.001)\fscx98.536\fscy72.227\frz12.393\fry-7.67\frx18.987\fax-0.12\fnImpact\xbord5.91\ybord4.33\xshad0\yshad0\c&H977E3C&\3c&HE8D3C3&}Sunraku
+Dialogue: 0,0:08:07.17,0:08:11.55,Sign_Basic,sign,0,0,0,,{\fs60\b1\shad3\c&HF2EE7F&\3c&H4F4236&\bord3\shad3\blur3\4c&HFFFFFF&\pos(960,825)\fnTimes New Roman}Rabbit Gun: Turret Palm
+Dialogue: 0,0:13:32.08,0:13:35.50,Sign_Basic,sign,0,0,0,,{\fad(225,0)\pos(960,945)\c&H080B0D&\3c&HFFFFFF&\shad0\3a&H20&}Buff = Enhancement
+Dialogue: 0,0:13:50.27,0:13:52.77,Sign_Basic,sign,0,0,0,,{\fs60\b1\shad3\c&HF2EE7F&\3c&H4F4236&\bord3\shad3\blur3\4c&HFFFFFF&\pos(390,648)}Overheat\N{\c&H2F302B&\3c&HFFFFFF&\shad0\fs36\b0}Can only activate\N10 minutes after combat starts.\N\NAdds a bonus to all stats\Nfor five minutes,\Nbut halves all stats after that.
+Dialogue: 0,0:13:54.86,0:13:57.36,Sign_Basic,sign,0,0,0,,{\fs60\b1\shad3\c&HF2EE7F&\3c&H4F4236&\bord3\shad3\blur3\4c&HFFFFFF&\pos(1554,648)}Nitro Gain\N{\c&H24211F&\3c&HFFFFFF&\shad0\fs36\b0}Time to use: 1 second\N In exchange for taking 20%\Nof max HP as damage,\Nincreases STR and AGI.
+Dialogue: 0,0:14:00.36,0:14:03.36,Sign_Basic,sign,0,0,0,,{\an8\pos(1035.999,363.999)\org(1035.999,363.999)\fscx96.487\fscy88.455\frz21.533\fry9.234\frx-8.413\fax-0.127\fnImpact\b1\xbord5.79\ybord5.31\xshad0\yshad0\c&HD2AD79&\3c&HECD3CF&}Sunraku
+Dialogue: 0,0:14:03.36,0:14:07.37,Sign_Basic,sign,0,0,0,,{\an7\c&HF0DBA6&\b1\3c&H8A5845&\shad0\bord12}Overheat\N Climax Boost\N Nitro Gain
+Dialogue: 0,0:16:27.47,0:16:29.97,Sign_Basic,sign,0,0,0,,{\fad(125,250)\an8\fnImpact\fs72\c&HF8CA3C&\3c&H000000&\bord12\shad0\pos(591.999,162.999)\frz44.76}Glowing Pierce
+Dialogue: 0,0:16:27.47,0:16:29.97,Sign_Basic,sign,0,0,0,,{\fad(125,250)\an8\fnImpact\fs72\c&HF8CA3C&\3c&HFFFFFF&\bord6\shad0\pos(591.999,162.999)\frz44.76}Glowing Pierce
+Dialogue: 0,0:17:02.33,0:17:04.84,Sign_Basic,sign,0,0,0,,{\fad(125,250)\an8\fnImpact\fs72\c&HF8CA3C&\3c&H000000&\bord12\shad0\pos(960,60)}Fortress Breaker
+Dialogue: 0,0:17:02.33,0:17:04.84,Sign_Basic,sign,0,0,0,,{\fad(125,250)\an8\fnImpact\fs72\c&HF8CA3C&\3c&HFFFFFF&\bord6\shad0\pos(960,60)}Fortress Breaker
+Dialogue: 0,0:17:17.47,0:17:20.98,Sign_Basic,sign,0,0,0,,{\fad(225,0)\fs72\b1\shad3\c&HF2EE7F&\3c&H4F4236&\bord3\shad3\4c&HFFFFFF&\pos(960,825)\fnTimes New Roman}Rabbit Pile Bunker
+Dialogue: 0,0:17:33.66,0:17:36.16,Sign_Basic,sign,0,0,0,,{\an8\pos(1027.998,390)\org(1027.998,390)\fscx93.674\fscy91.111\frz10.286\fry9.234\frx-8.413\fax-0.154\fnImpact\b1\xbord5.62\ybord5.47\xshad0\yshad0\c&HBC9C3F&\3c&HF6F3F0&}Sunraku
+Dialogue: 0,0:17:39.41,0:17:42.29,Sign_Basic,sign,0,0,0,,{\c&H59F0DC&\fnVerdana\b1\bord0\shad0\frz30.5\pos(147.999,882)}Har-\Nrumph
+Dialogue: 0,0:18:00.39,0:18:06.32,Sign_Basic,sign,0,0,0,,{\an7\fs36\c&H532F2F&\3c&HFE8DF5&\shad0}Dropped Item\N {\c&HF7F1BA&\3c&H543826&\b1}Grudge Bone Fragment\N{\b0\c&HC7B09D&}A hideous bone fragment,\Nsoaked to its marrow with hatred.\NHas various shamanistic uses.\NIts grudge cannot be alleviated,\Nbecause the nature of grudges\Nis to be indiscriminate.
+Dialogue: 0,0:18:29.09,0:18:30.59,Sign_Basic,sign,0,0,0,,{\b1\an8\c&H000000&\3c&HFAF7F9&\shad0\b0\move(900,240,2370,240)}Canyon of Ancient Souls
+Dialogue: 0,0:18:34.13,0:18:36.60,Sign_Basic,sign,0,0,0,,{\b1\an8\c&H09090A&\3c&HFAF7F9&\shad0\move(-384,285,960,285,16,1441)}Eighthold
+Dialogue: 0,0:18:42.60,0:18:46.61,Sign_Basic,sign,0,0,0,,{\an8\pos(960,285)\fs48\b1\3c&HB7B137&\shad0\bord9}Eighth City\N{\fs72}Eighthold
+Dialogue: 0,0:18:49.61,0:18:51.15,Sign_Basic,sign,0,0,0,,{\c&HA69A88&\shad0\3c&H442912&\frz5.156\pos(870,342)\t(1488,1528,1 \alpha&HFF&)}Register landmark?\N {\3c&H2100B6&\c&HFFFFFF&\alpha&H00&}No        {\3c&HC2F025&}Yes
+Dialogue: 0,0:18:51.19,0:18:56.62,Sign_Basic,sign,0,0,0,,{\c&HA69A88&\shad0\3c&H442912&\frz5.156\pos(870,342)}Landmark registered.
+Dialogue: 0,0:20:00.68,0:20:07.69,Sign_Basic,sign,0,0,0,,{\an8\pos(960,345)\fnArial\b1\bord0\shad0\c&H4804C5&}Wah ha ha ha ha
+Dialogue: 0,0:20:29.46,0:20:30.92,Sign_Basic,sign,0,0,0,,{\b1\an8\c&H09090A&\3c&HFAF7F9&\shad0\move(960,285,-306,285)}Eighthold
+Dialogue: 0,0:20:34.46,0:20:36.97,Sign_Basic,sign,0,0,0,,{\b1\an8\c&H000000&\3c&HFAF7F9&\shad0\b0\move(2400,240,930,240,23,1481)}Canyon of Ancient Souls

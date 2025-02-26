@@ -1,0 +1,60 @@
+﻿[Script Info]
+Title: English (US)
+ScaledBorderAndShadow: yes
+Original Script: kodansha  [http://www.crunchyroll.com/user/kodansha]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+LayoutResX: 1920
+LayoutResY: 1080
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+Style: Flashback,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00013E12,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+Style: Sign_Basic,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,6,3,2,30,30,54,1
+Style: Ep_Title,Arial,60,&H00FFFFFF,&H000000FF,&H00000000,&H00BE9829,-1,0,0,0,100,100,0,0,1,0,6,1,132,30,12,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:23:28.01,0:23:31.51,Default,Kids,0,0,0,,{\an8}{\i1}SLF{\i0} Theater!
+Dialogue: 0,0:23:28.01,0:23:34.60,Sign_Basic,sign,0,0,0,,{\an8\fnArial\b1\fs90\c&H7CEDEF&\shad0\bord0}S{\c&H639FF5&}L{\c&HE171BE&}F {\bord6\c&H4C4F52&\3c&HF0F5F5&}Mini
+Dialogue: 0,0:23:31.10,0:23:35.27,Sign_Basic,sign,0,0,0,,{\fad(475,0)\an1\i1\b1\c&HF1FBFD&\3c&H3D717E&\bord4.5\fs66\pos(1008,870)}Gems, Ore,\Nand Heads of Equal Hardness
+Dialogue: 0,0:23:32.02,0:23:34.02,Default,Emul,0,0,0,,{\an8}{\an8}Mini!
+Dialogue: 0,0:23:36.23,0:23:38.98,Default,Narrator,0,0,0,,Bilac, the Vorpal Bunny blacksmith.
+Dialogue: 0,0:23:39.48,0:23:41.40,Default,Narrator,0,0,0,,Day after day, she works at her anvil,
+Dialogue: 0,0:23:41.40,0:23:45.99,Default,Narrator,0,0,0,,dreaming of someday reaching, \Nand surpassing, her father's greatness.
+Dialogue: 0,0:23:49.03,0:23:51.74,Default,Sunraku,0,0,0,,I got you some pretty rare stuff here.
+Dialogue: 0,0:23:51.74,0:23:55.12,Default,Bilac,0,0,0,,Well... they've got pretty \Ngood specs, sure...
+Dialogue: 0,0:23:55.12,0:23:58.54,Default,Bilac,0,0,0,,But my blacksmith instinct is \Ntelling me they're not quite right.
+Dialogue: 0,0:23:58.54,0:24:01.34,Default,Sunraku,0,0,0,,Your instinct is pretty selfish.
+Dialogue: 0,0:24:01.34,0:24:05.22,Default,Sunraku,0,0,0,,So, what kind of ore would \Nyour instinct rather have?
+Dialogue: 0,0:24:05.22,0:24:07.05,Default,Bilac,0,0,0,,More like... well...
+Dialogue: 0,0:24:07.05,0:24:08.51,Default,Bilac,0,0,0,,Let's see...
+Dialogue: 0,0:24:08.51,0:24:10.26,Default,Bilac,0,0,0,,I wanna make an alloy.
+Dialogue: 0,0:24:10.26,0:24:12.64,Default,Sunraku,0,0,0,,So you need iron ore, huh?
+Dialogue: 0,0:24:12.64,0:24:14.89,Default,Sunraku,0,0,0,,All right.
+Dialogue: 0,0:24:14.89,0:24:15.81,Default,Sunraku,0,0,0,,Let's go, Emul!
+Dialogue: 0,0:24:15.81,0:24:17.31,Default,Emul,0,0,0,,Righty-o!
+Dialogue: 0,0:24:18.48,0:24:22.07,Default,Emul,0,0,0,,Sunraku-san! You must run faster!
+Dialogue: 0,0:24:23.44,0:24:25.65,Default,Sunraku,0,0,0,,Okay. We got it.
+Dialogue: 0,0:24:28.36,0:24:30.53,Default,Sunraku,0,0,0,,You got a problem with this, too?!
+Dialogue: 0,0:24:30.53,0:24:36.16,Default,Bilac,0,0,0,,Well... if I wanna make stronger weapons, \NI kinda need gemstones, too...
+Dialogue: 0,0:24:36.16,0:24:37.16,Default,Sunraku,0,0,0,,Fine, fine.
+Dialogue: 0,0:24:37.16,0:24:39.54,Default,Sunraku,0,0,0,,I'll get you some gemstones, then!
+Dialogue: 0,0:24:39.54,0:24:40.50,Default,Sunraku,0,0,0,,Let's go, Emul!
+Dialogue: 0,0:24:40.50,0:24:43.09,Default,Emul,0,0,0,,W-We're not going {\i1}there{\i0}, are we?!
+Dialogue: 0,0:24:50.55,0:24:53.89,Default,Sunraku,0,0,0,,That should... do it, right?
+Dialogue: 0,0:24:54.26,0:24:57.02,Default,Bilac,0,0,0,,While you were out, I started thinking.
+Dialogue: 0,0:24:57.02,0:25:01.06,Default,Bilac,0,0,0,,Maybe it'd be better to use monster \Nmaterials or wood or something.
+Dialogue: 0,0:25:03.06,0:25:06.03,Default,Sunraku,0,0,0,,I've got better materials right here.
+Dialogue: 0,0:25:06.03,0:25:07.19,Default,Bilac,0,0,0,,What?
+Dialogue: 0,0:25:07.19,0:25:08.57,Default,Sunraku,0,0,0,,Ore.
+Dialogue: 0,0:25:08.57,0:25:09.99,Default,Sunraku,0,0,0,,Gems.
+Dialogue: 0,0:25:09.99,0:25:11.82,Default,Sunraku,0,0,0,,And a head as hard as either of them!
+Dialogue: 0,0:25:19.96,0:25:23.46,Default,Sunraku,0,0,0,,Don't totally change directions \Nright before the job!
+Dialogue: 0,0:25:23.46,0:25:27.96,Default,Bilac,0,0,0,,You're the one who said you \Nwanted the ultimate weapon!
+Dialogue: 0,0:25:27.96,0:25:29.63,Default,Emul,0,0,0,,W-W-Wait, you two!
+Dialogue: 0,0:25:29.63,0:25:34.55,Default,Emul,0,0,0,,Please, no fighting!

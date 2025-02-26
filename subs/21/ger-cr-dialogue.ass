@@ -1,0 +1,337 @@
+﻿[Script Info]
+Title: Deutsch
+ScaledBorderAndShadow: yes
+Original Script: cr_de  [http://www.crunchyroll.com/user/cr_de]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+LayoutResX: 1920
+LayoutResY: 1080
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+Style: Flashback,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00013E12,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.94,0:00:06.99,Default,Erzählerin,0,0,0,,Auf dieser Welt gibt es\Nunzählige Videospiele.
+Dialogue: 0,0:00:07.99,0:00:12.37,Default,Erzählerin,0,0,0,,Doch die meisten davon gehen unter,\Nohne je bekannt gewesen zu sein.
+Dialogue: 0,0:00:13.70,0:00:16.41,Default,Erzählerin,0,0,0,,An der Spitze dieser Spiele steht
+Dialogue: 0,0:00:16.41,0:00:21.71,Default,Erzählerin,0,0,0,,das Full-Dive-VR-Game mit einer\Nweltweiten Spielerzahl von über 30 Millionen,
+Dialogue: 0,0:00:21.71,0:00:26.38,Default,Erzählerin,0,0,0,,das es absolut verdient, als Meisterwerk\Nbezeichnet zu werden: Shangri-La Frontier.
+Dialogue: 0,0:00:27.72,0:00:31.93,Default,Erzählerin,0,0,0,,Rakuro Hizutome, ein Junge,\Nder Trash-Games über alles liebt,
+Dialogue: 0,0:00:31.93,0:00:35.14,Default,Erzählerin,0,0,0,,wagt sich an das Meisterwerk\NShangri-La Frontier.
+Dialogue: 0,0:00:35.93,0:00:40.73,Default,Erzählerin,0,0,0,,Welche Abenteuer werden ihn\Nauf seinem Weg wohl erwarten?
+Dialogue: 0,0:02:14.45,0:02:16.78,Default,VTuberin,0,0,0,,{\an8}Dann schauen wir uns mal die Horoskope an!
+Dialogue: 0,0:02:16.78,0:02:19.20,Default,VTuberin,0,0,0,,{\an8}Diese Woche an erster Stelle …
+Dialogue: 0,0:02:19.20,0:02:22.33,Default,VTuberin,0,0,0,,{\an8}Zwillinge … Ihr habt heute\Ndas Glück mit Löffeln gefressen.
+Dialogue: 0,0:02:22.33,0:02:25.25,Default,VTuberin,0,0,0,,{\an8}Das Glücksitem sind die Rollerskates.
+Dialogue: 0,0:02:25.25,0:02:31.96,Default,VTuberin,0,0,0,,{\an8}Was würde ich doch gerne\Nmit Rollerskates zur Schule fahren dürfen!
+Dialogue: 0,0:02:30.55,0:02:35.51,Default,Kei,0,0,0,,Tja, ist schon ein wirklich\Ngut gemachtes Spiel,
+Dialogue: 0,0:02:31.96,0:02:34.38,Default,VTuberin,0,0,0,,{\an8}Wo kann man die überhaupt kaufen?
+Dialogue: 0,0:02:35.51,0:02:37.80,Default,Kei,0,0,0,,dieses Shangri-La Frontier.
+Dialogue: 0,0:02:41.10,0:02:44.35,Default,Kei,0,0,0,,Ich wollte damit eigentlich nur\Nein wenig Zeit totschlagen.
+Dialogue: 0,0:02:47.61,0:02:48.65,Default,Kei,0,0,0,,Aber …
+Dialogue: 0,0:02:50.90,0:02:55.86,Default,Kei,0,0,0,,wenn ich daran denke, dass die zwei\Nalleine Spaß haben, ärgert mich das.
+Dialogue: 0,0:02:56.32,0:03:00.58,Default,Kei,0,0,0,,Na ja, noch eine Woche bis zum Wettkampf.
+Dialogue: 0,0:03:00.58,0:03:03.08,Default,Kei,0,0,0,,Ich sollte schnell\Ndas Feintuning abschließen.
+Dialogue: 0,0:03:07.58,0:03:11.71,Default,Sunraku,0,0,0,,Dringend! Checkt mal\Nden „Speicherschlüssel Inventoria“ ab!
+Dialogue: 0,0:03:15.38,0:03:20.81,Default,Kei,0,0,0,,Nein, Ich ertrage es einfach nicht,\Nhinter sie zurückzufallen.
+Dialogue: 0,0:03:34.90,0:03:35.86,Default,Oikatso,0,0,0,,Okay!
+Dialogue: 0,0:03:40.70,0:03:41.99,Default,Sunraku,0,0,0,,Habt ihr’s gesehen?!
+Dialogue: 0,0:03:41.99,0:03:45.33,Default,Sunraku,0,0,0,,Diesen Haufen krasser,\Nfuturistischer Ausrüstung?!
+Dialogue: 0,0:03:45.33,0:03:48.46,Default,Sunraku,0,0,0,,Damit könnte man es bestimmt\Nmit allen ShanFro-Spielern aufnehmen
+Dialogue: 0,0:03:48.46,0:03:50.50,Default,Sunraku,0,0,0,,und trotzdem gewinnen!
+Dialogue: 0,0:03:50.50,0:03:54.84,Default,Oikatso,0,0,0,,Hab’s gesehen! Wenn man damit kämpft,\Nwird das echt ein ganz anderes Spiel!
+Dialogue: 0,0:03:54.84,0:03:57.59,Default,Sunraku,0,0,0,,Oh ja! Was machen wir jetzt damit? Na?!
+Dialogue: 0,0:03:57.59,0:03:59.76,Default,Pencilgon,0,0,0,,Also, was das betrifft …
+Dialogue: 0,0:04:01.60,0:04:03.35,Default,Pencilgon,0,0,0,,Bevor ich hergekommen bin, …
+Dialogue: 0,0:04:04.22,0:04:07.48,Default,Pencilgon,0,0,0,,war ich im Speicher-Subraum\Nund hab mir einiges angesehen.
+Dialogue: 0,0:04:07.48,0:04:08.69,Default,Sunraku; Oikatso,0,0,0,,Und?!
+Dialogue: 0,0:04:09.44,0:04:11.69,Default,Pencilgon,0,0,0,,Ich komme gleich zum Punkt:
+Dialogue: 0,0:04:14.90,0:04:18.86,Default,Pencilgon,0,0,0,,Momentan ist das alles\Nnicht mehr als Zierde.
+Dialogue: 0,0:04:24.16,0:04:27.04,Default,Pencilgon,0,0,0,,Diese Kampf-Mechs und Powerrüstungen
+Dialogue: 0,0:04:27.04,0:04:31.67,Default,Pencilgon,0,0,0,,brauchen anscheinend eine Energiequelle\Nnamens „Nicht genormter Ätherreaktor“.
+Dialogue: 0,0:04:31.67,0:04:34.21,Default,Pencilgon,0,0,0,,Von so einem Item hab ich noch nie gehört
+Dialogue: 0,0:04:34.21,0:04:37.17,Default,Pencilgon,0,0,0,,und ich hab keine Ahnung,\Nwo man das herbekommt.
+Dialogue: 0,0:04:39.09,0:04:44.18,Default,Pencilgon,0,0,0,,Die ganzen Waffen kann man auch nur benutzen,\Nwenn man so eine Powerrüstung anlegt.
+Dialogue: 0,0:04:44.18,0:04:48.56,Default,Sunraku,0,0,0,,Ernsthaft? Ich war so begeistert, dass ich\Ngar nicht so genau hingesehen hab.
+Dialogue: 0,0:04:48.56,0:04:50.81,Default,Oikatso,0,0,0,,Nicht genormter Ätherreaktor,\Nsagtest du?
+Dialogue: 0,0:04:51.15,0:04:52.52,Default,Oikatso,0,0,0,,So einen hab ich.
+Dialogue: 0,0:04:53.23,0:04:54.07,Default,Sunraku,0,0,0,,Baaah!
+Dialogue: 0,0:04:55.82,0:04:57.78,Default,Pencilgon,0,0,0,,Was?! Wo hast du den her?!
+Dialogue: 0,0:04:57.78,0:05:00.57,Default,Oikatso,0,0,0,,Ich hab ja die meiste Zeit\Ngegen Kirin gekämpft.
+Dialogue: 0,0:05:01.16,0:05:03.32,Default,Oikatso,0,0,0,,Vermutlich als Belohnung dafür.
+Dialogue: 0,0:05:04.58,0:05:07.54,Default,Pencilgon,0,0,0,,Ich seh dich in ganz neuem Licht,\NMr. Bondage-Rodeo!
+Dialogue: 0,0:05:07.54,0:05:10.46,Default,Sunraku,0,0,0,,Shiiit! Das Rodeo\Nhätte ich zu gern gesehen!
+Dialogue: 0,0:05:10.46,0:05:12.83,Default,Sunraku,0,0,0,,Mein einziges Versäumnis\Nin diesem Kampf!
+Dialogue: 0,0:05:12.83,0:05:17.09,Default,Oikatso,0,0,0,,Aber ehrlich gesagt\Nscheint das Teil kaputt zu sein.
+Dialogue: 0,0:05:17.09,0:05:19.47,Default,Pencilgon,0,0,0,,Kann man den nicht\Nin einem Laden reparieren?
+Dialogue: 0,0:05:19.47,0:05:23.22,Default,Oikatso,0,0,0,,Ich hab’s zum örtlichen Schmied gebracht,\Naber der hat mich wieder weggeschickt.
+Dialogue: 0,0:05:23.22,0:05:26.26,Default,Oikatso,0,0,0,,Meinte: „Wie soll ich reparieren,\Nwas ich nicht verstehe?“
+Dialogue: 0,0:05:26.26,0:05:29.27,Default,Pencilgon,0,0,0,,Ist eben ein Werkzeug\Nder göttlichen Kultur.
+Dialogue: 0,0:05:29.60,0:05:34.73,Default,Pencilgon,0,0,0,,Dafür braucht man\Neinen speziellen Schmied oder ein Item.
+Dialogue: 0,0:05:35.44,0:05:37.02,Default,Pencilgon,0,0,0,,Das ist wohl eine Sackgasse.
+Dialogue: 0,0:05:39.24,0:05:41.45,Default,Sunraku,0,0,0,,Womöglich weiß ich,\Nwie man den reparieren kann.
+Dialogue: 0,0:05:43.20,0:05:45.70,Default,Sunraku,0,0,0,,Hey! Das war doch mit Absicht!
+Dialogue: 0,0:05:45.70,0:05:46.53,Default,Pencilgon,0,0,0,,Hust, hust.
+Dialogue: 0,0:05:46.53,0:05:49.16,Default,Oikatso,0,0,0,,Meinst du das denn ernst?
+Dialogue: 0,0:05:49.16,0:05:51.25,Default,Sunraku,0,0,0,,Ich bin nicht ganz sicher.
+Dialogue: 0,0:05:51.25,0:05:54.92,Default,Sunraku,0,0,0,,Nur, es hat mit dem einzigartigen Szenario\Nzu tun. Dich einzubinden, wäre schwierig.
+Dialogue: 0,0:05:54.92,0:05:58.67,Default,Sunraku,0,0,0,,Darum würde ich dich bitten,\Nmir das Item mitzugeben.
+Dialogue: 0,0:06:01.13,0:06:04.80,Default,Oikatso,0,0,0,,Okay, … würde ich gerne sagen, …
+Dialogue: 0,0:06:05.14,0:06:06.43,Default,Oikatso,0,0,0,,aber unter einer Bedingung.
+Dialogue: 0,0:06:07.31,0:06:11.85,Default,Oikatso,0,0,0,,Verrat uns, wie man das einzigartige\NSzenario triggert, das du vor uns verbirgst.
+Dialogue: 0,0:06:13.52,0:06:15.23,Default,Pencilgon,0,0,0,,Katso, das ist aber …
+Dialogue: 0,0:06:15.23,0:06:18.77,Default,Oikatso,0,0,0,,Von selbst werd ich eh nie eins triggern!
+Dialogue: 0,0:06:18.77,0:06:21.65,Default,Oikatso,0,0,0,,Bleibt mir nur,\Nmich bei anderen dranzuhängen!
+Dialogue: 0,0:06:21.65,0:06:24.24,Default,Pencilgon,0,0,0,,Du machst es unnötig kompliziert.
+Dialogue: 0,0:06:24.86,0:06:29.24,Default,Pencilgon,0,0,0,,{\i1}Informationen über ShanFros Uniques\Nsind besonders wertvoll.
+Dialogue: 0,0:06:29.24,0:06:32.25,Default,Pencilgon,0,0,0,,{\i1}Vor allem, wenn man\Nein Monopol darauf hat.
+Dialogue: 0,0:06:33.00,0:06:37.25,Default,Pencilgon,0,0,0,,{\i1}Es ist auch nicht so, dass wir drei\Naus purem Gemeinschaftsgefühl hier sind.
+Dialogue: 0,0:06:38.00,0:06:42.01,Default,Pencilgon,0,0,0,,{\i1}Im Hinblick auf den eigenen Vorteil\Nkann man nicht einfach so Infos preisgeben.
+Dialogue: 0,0:06:42.01,0:06:43.34,Default,Pencilgon,0,0,0,,{\i1}Und …
+Dialogue: 0,0:06:44.30,0:06:46.47,Default,Pencilgon,0,0,0,,{\i1}das gilt eben auch für Katso.
+Dialogue: 0,0:06:49.01,0:06:51.93,Default,Sunraku,0,0,0,,Ist ja nicht so, dass die Bedingungen\Nirgendwo angezeigt wurden.
+Dialogue: 0,0:06:52.73,0:06:56.60,Default,Sunraku,0,0,0,,Ich kann nur die Situation schildern, in der ich mich in dem Moment befand. Reicht das?
+Dialogue: 0,0:06:57.52,0:06:58.61,Default,Oikatso,0,0,0,,Bist du sicher?!
+Dialogue: 0,0:06:58.61,0:07:01.11,Default,Sunraku,0,0,0,,War dein Vorschlag.\NTu nicht so überrascht.
+Dialogue: 0,0:07:01.61,0:07:06.11,Default,Sunraku,0,0,0,,Wenn möglich, will ich nichts preisgeben,\Naber ich muss dir ja meinen guten Willen zeigen.
+Dialogue: 0,0:07:06.11,0:07:10.08,Default,Sunraku,0,0,0,,Und wie gesagt, ich bin mir\Nbei den Bedingungen nicht sicher.
+Dialogue: 0,0:07:13.91,0:07:17.08,Default,Sunraku,0,0,0,,Also, dann leg ich mal los.
+Dialogue: 0,0:07:18.08,0:07:19.50,Default,Sunraku,0,0,0,,In meinem Fall …
+Dialogue: 0,0:07:25.72,0:07:29.55,Flashback,Spielstimme (m),0,0,0,,Einzigartigem Monster Lycaon,\Nder Nachträuber begegnet.
+Dialogue: 0,0:07:30.01,0:07:33.10,Flashback,Sunraku,0,0,0,,{\i1}Ein einzigartiges … Monster …
+Dialogue: 0,0:07:35.18,0:07:36.81,Default,Sunraku,0,0,0,,… war ich unter Level 20, …
+Dialogue: 0,0:07:36.81,0:07:37.60,Default,Oikatso;Pencilgon,0,0,0,,Was?
+Dialogue: 0,0:07:37.60,0:07:40.06,Default,Sunraku,0,0,0,,… hab bei einer Zufallsbegegnung\Nmit dem einzigartigen Monster
+Dialogue: 0,0:07:40.06,0:07:43.98,Default,Sunraku,0,0,0,,„Lycaon, der Nachträuber“\Nfünf Minuten ohne Schaden überstanden
+Dialogue: 0,0:07:43.98,0:07:48.53,Default,Sunraku,0,0,0,,und ihm mit einer „Killer“-Waffe etwa\N200 kritische Treffer verpasst. Das war’s.
+Dialogue: 0,0:07:49.49,0:07:54.29,Default,Oikatso,0,0,0,,Wer kann das schon, du Hampelmann?!
+Dialogue: 0,0:07:54.66,0:07:56.66,Default,Sunraku,0,0,0,,Warum rastest du jetzt aus?!
+Dialogue: 0,0:07:56.66,0:07:59.04,Default,Pencilgon,0,0,0,,Das ist, als würde\Nman fragen „Wie fliegt man?“
+Dialogue: 0,0:07:59.04,0:08:02.21,Default,Pencilgon,0,0,0,,und du antwortest\N„Trainier deine Brustmuskeln“.
+Dialogue: 0,0:08:02.21,0:08:06.17,Default,Oikatso,0,0,0,,Klar verrätst du uns das!\NWeil es sowieso keiner nachmachen kann!
+Dialogue: 0,0:08:06.17,0:08:09.51,Default,Sunraku,0,0,0,,Ihr seid total unfair! Ich hab nach\Nbestem Gewissen geantwortet!
+Dialogue: 0,0:08:09.51,0:08:12.97,Default,Oikatso,0,0,0,,Ach, was soll’s.\NNimm’s einfach. Ist doch albern.
+Dialogue: 0,0:08:12.97,0:08:13.68,Default,Sunraku,0,0,0,,Ey!
+Dialogue: 0,0:08:14.01,0:08:16.85,Default,Pencilgon,0,0,0,,Ach, übrigens, Sunraku.
+Dialogue: 0,0:08:16.85,0:08:17.94,Default,Sunraku,0,0,0,,Was?
+Dialogue: 0,0:08:18.27,0:08:21.44,Default,Pencilgon,0,0,0,,Würdest du mir zurückgeben,\Nwas ich dir anvertraut hatte?
+Dialogue: 0,0:08:22.57,0:08:23.90,Default,Oikatso,0,0,0,,Worum geht’s?
+Dialogue: 0,0:08:23.90,0:08:26.36,Default,Sunraku,0,0,0,,Stimmt, die hab ich ja noch.
+Dialogue: 0,0:08:27.53,0:08:29.53,Flashback,Pencilgon,0,0,0,,Hey, Sunraku.
+Dialogue: 0,0:08:30.95,0:08:33.74,Flashback,Pencilgon,0,0,0,,Könntest du die eine Weile\Nfür mich aufbewahren?
+Dialogue: 0,0:08:35.20,0:08:37.50,Flashback,Sunraku,0,0,0,,Ja, klar.
+Dialogue: 0,0:08:47.13,0:08:50.59,Default,Oikatso,0,0,0,,Ah, mit der hast du doch\Nwährend des Kampfes rumhantiert.
+Dialogue: 0,0:08:50.59,0:08:51.97,Default,Oikatso,0,0,0,,War die nicht geliehen?
+Dialogue: 0,0:08:51.97,0:08:52.64,Default,Pencilgon,0,0,0,,Ja.
+Dialogue: 0,0:08:54.14,0:08:58.35,Default,Pencilgon,0,0,0,,Von einer NPC-Gruppe namens\N„Handelskompanie Goldene Waage“.
+Dialogue: 0,0:08:58.35,0:09:03.36,Default,Pencilgon,0,0,0,,Soweit ich weiß, gehört sie zur höchsten\NItem-Klasse in Shangri-La Frontier.
+Dialogue: 0,0:09:04.15,0:09:05.94,Default,Pencilgon,0,0,0,,Theoretisch kann man damit stärker
+Dialogue: 0,0:09:05.94,0:09:09.53,Default,Pencilgon,0,0,0,,als ein einzigartiges Monster werden,\Nsolange man Geld draufstapelt.
+Dialogue: 0,0:09:09.99,0:09:13.41,Default,Pencilgon,0,0,0,,Na ja, man bräuchte aber wohl\Nein ganzes Staatsbudget.
+Dialogue: 0,0:09:13.41,0:09:17.04,Default,Pencilgon,0,0,0,,Und Inventoria kann man nach dem Ausrüsten\Nanscheinend nicht mehr abnehmen.
+Dialogue: 0,0:09:17.04,0:09:19.54,Default,Pencilgon,0,0,0,,Ich war darauf gefasst,\Ndass meins verschachert wird.
+Dialogue: 0,0:09:19.54,0:09:21.54,Default,Oikatso,0,0,0,,Was?! Echt nicht?!
+Dialogue: 0,0:09:21.54,0:09:25.54,Default,Oikatso,0,0,0,,Ja, stimmt. Da stand,\Ndass es mit dem Körper verschmilzt.
+Dialogue: 0,0:09:26.30,0:09:31.30,Default,Pencilgon,0,0,0,,Zum Glück wird es wohl nicht mal\Nals Strafe bei einem PKK konfisziert.
+Dialogue: 0,0:09:31.72,0:09:36.56,Default,Pencilgon,0,0,0,,Aber die hier wollte ich auf keinen Fall\Nverlieren, also hab ich sie „gewaschen“.
+Dialogue: 0,0:09:36.93,0:09:38.56,Default,Sunraku; Oikatso,0,0,0,,Gewaschen?
+Dialogue: 0,0:09:38.56,0:09:42.31,Default,Pencilgon,0,0,0,,Ein Trick, um den eigenen Besitz\Nvor der Strafe zu schützen.
+Dialogue: 0,0:09:42.90,0:09:44.52,Default,Pencilgon,0,0,0,,Werde ich als PKer getötet,
+Dialogue: 0,0:09:44.52,0:09:48.61,Default,Pencilgon,0,0,0,,geht das Besitzrecht meiner Items\Nauf die Person über, die mich getötet hat,
+Dialogue: 0,0:09:48.61,0:09:53.32,Default,Pencilgon,0,0,0,,und ich muss ein Bußgeld basierend auf meinen\NVerbrechen oder meiner Karmapunkte zahlen.
+Dialogue: 0,0:09:54.07,0:09:59.20,Default,Pencilgon,0,0,0,,Zudem fällt mein Sympathiewert\Nbei den meisten NPCs aufs Minimum.
+Dialogue: 0,0:09:59.20,0:10:03.83,Default,Pencilgon,0,0,0,,Aber das ist okay.\NDas Bußgeld hingegen ist ein wenig lästig.
+Dialogue: 0,0:10:04.33,0:10:08.92,Default,Pencilgon,0,0,0,,{\an8}Iiiich biiin tot.
+Dialogue: 0,0:10:07.71,0:10:12.63,Default,Pencilgon,0,0,0,,Werde ich getötet, werden alle Items, die ich\Nin Lagern verwahre, automatisch verscherbelt,
+Dialogue: 0,0:10:12.63,0:10:15.39,Default,Sunraku,0,0,0,,und der Erlös zum Abbezahlen\Nder Strafe verwendet.
+Dialogue: 0,0:10:15.97,0:10:19.97,Default,Pencilgon,0,0,0,,Seine Items vor dieser Pfändung\Nzu bewahren, nennt man „Waschen“.
+Dialogue: 0,0:10:19.97,0:10:22.14,Default,Oikatso,0,0,0,,Darum hast du sie nicht ins Lager gelegt,
+Dialogue: 0,0:10:22.14,0:10:25.65,Default,Oikatso,0,0,0,,sondern sie Sunraku gegeben\Nund wurdest danach von Saiga-0 getötet.
+Dialogue: 0,0:10:25.65,0:10:28.48,Default,Sunraku,0,0,0,,Das ist erlaubt?\NEin viel zu großes Schlupfloch.
+Dialogue: 0,0:10:28.48,0:10:31.69,Default,Pencilgon,0,0,0,,Nein. Gibt man einen Gegenstand\Neinfach nur ab,
+Dialogue: 0,0:10:31.69,0:10:34.28,Default,Pencilgon,0,0,0,,wird er nachverfolgt und beschlagnahmt.
+Dialogue: 0,0:10:34.28,0:10:35.24,Default,Oikatso,0,0,0,,Was?
+Dialogue: 0,0:10:35.24,0:10:37.95,Default,Oikatso,0,0,0,,Warum ist die Waage\Ndann nicht verschwunden?
+Dialogue: 0,0:10:39.16,0:10:43.04,Default,Pencilgon,0,0,0,,Weil ihr Besitzrecht bei der\NHandelskompanie Goldene Waage liegt.
+Dialogue: 0,0:10:43.04,0:10:45.75,Default,Pencilgon,0,0,0,,Sie gehört mir ja gar nicht.
+Dialogue: 0,0:10:46.08,0:10:47.88,Default,Pencilgon,0,0,0,,Der Punkt ist,
+Dialogue: 0,0:10:47.88,0:10:52.51,Default,Pencilgon,0,0,0,,hat man kein Besitzrecht,\Nwird das Item auch nicht zwangsverkauft.
+Dialogue: 0,0:10:53.01,0:10:57.51,Default,Pencilgon,0,0,0,,Indem man es einfach jemandem übergibt,\Nändert sich an diesem Recht nichts.
+Dialogue: 0,0:10:57.51,0:11:02.89,Default,Pencilgon,0,0,0,,Also selbst, wenn ich die Waage bei mir\Ngehabt hätte, als Saiga-0 mich getötet hat, …
+Dialogue: 0,0:11:07.02,0:11:10.40,Default,Pencilgon,0,0,0,,wäre sie weiterhin Eigentum\Nder Handelskompanie gewesen,
+Dialogue: 0,0:11:10.40,0:11:14.28,Default,Pencilgon,0,0,0,,nicht veräußert worden und bestimmt\Nan Ort und Stelle als Objekt erschienen.
+Dialogue: 0,0:11:14.65,0:11:18.70,Default,Sunraku,0,0,0,,Die Logik dahinter ist mir klar,\Naber inwiefern ist das denn Waschen?
+Dialogue: 0,0:11:18.70,0:11:21.95,Default,Sunraku,0,0,0,,Ist die Waage nicht einfach nur\Nvon der Strafe ausgenommen?
+Dialogue: 0,0:11:23.33,0:11:27.04,Default,Pencilgon,0,0,0,,Tja, damit kann ich was Witziges machen.
+Dialogue: 0,0:11:28.04,0:11:30.25,Default,Pencilgon,0,0,0,,„Die Waage bewahrt das Gleichgewicht.
+Dialogue: 0,0:11:30.25,0:11:33.30,Default,Pencilgon,0,0,0,,Bewerte die Vergangenheit und zahle\Neine Kompensation für die Opfer.“
+Dialogue: 0,0:11:43.64,0:11:47.94,Default,Sunraku,0,0,0,,Das ist das Buch der Weltwahrheiten und …\NWas ist das für ein Blumenschmuck?
+Dialogue: 0,0:11:47.94,0:11:50.61,Default,Pencilgon,0,0,0,,Loot vom Kampf gegen Wezaemon.
+Dialogue: 0,0:11:50.61,0:11:54.57,Default,Pencilgon,0,0,0,,Wie es scheint, haben wir drei\Nleicht unterschiedliche Items bekommen.
+Dialogue: 0,0:11:56.82,0:12:00.28,Flashback,Sunraku,0,0,0,,{\an8}Ääähm …\N„Geheimnisse des Blauer-Himmel-Stils“?
+Dialogue: 0,0:12:00.91,0:12:04.58,Default,Pencilgon,0,0,0,,Den Blumenschmuck des fernen Gebets\Nund das Buch der Weltwahrheiten
+Dialogue: 0,0:12:04.58,0:12:07.79,Default,Pencilgon,0,0,0,,hatte ich der Waage\Nder Kompensation geopfert.
+Dialogue: 0,0:12:07.79,0:12:12.46,Default,Pencilgon,0,0,0,,In dem Moment ging das Besitzrecht\Ndes Blumenschmucks auf die Waage über
+Dialogue: 0,0:12:12.46,0:12:16.30,Default,Pencilgon,0,0,0,,und durch deren Kraft existierte er in\Ndieser Welt nicht mehr als physisches Objekt.
+Dialogue: 0,0:12:16.84,0:12:20.47,Default,Sunraku,0,0,0,,Daher hatte die Pfändung\Nkeinen Einfluss darauf, richtig?
+Dialogue: 0,0:12:20.47,0:12:21.22,Default,Pencilgon,0,0,0,,Genau.
+Dialogue: 0,0:12:21.22,0:12:24.10,Default,Oikatso,0,0,0,,Dann kann man also\Nalles zurückbekommen.
+Dialogue: 0,0:12:24.10,0:12:27.81,Default,Pencilgon,0,0,0,,Ja, wenn man den Gegenwert\Ninnerhalb einer Woche zurückzahlt.
+Dialogue: 0,0:12:28.31,0:12:31.81,Default,Pencilgon,0,0,0,,Na ja, der Gegenwert waren 40 Level,\Ndie mir genommen wurden, …
+Dialogue: 0,0:12:33.32,0:12:36.82,Default,Pencilgon,0,0,0,,aber für diesen Blumenschmuck\Nist mir nichts zu schade.
+Dialogue: 0,0:12:40.32,0:12:42.24,Default,Pencilgon,0,0,0,,Und das ist nicht alles.
+Dialogue: 0,0:12:42.24,0:12:45.83,Default,Pencilgon,0,0,0,,Um die Waage auszuleihen, hab ich\Nmeine Hauptwaffe als Pfand hinterlegt.
+Dialogue: 0,0:12:46.25,0:12:48.66,Default,Pencilgon,0,0,0,,Das heißt, durch die Waage\Nging auch deren Besitzrecht
+Dialogue: 0,0:12:48.66,0:12:51.04,Default,Pencilgon,0,0,0,,auf die Kompanie über und sie war sicher!
+Dialogue: 0,0:12:52.58,0:12:56.71,Default,Sunraku,0,0,0,,Pah! Von wegen du zahlst die Rechnung\Nfür deine Taten. So verlogen.
+Dialogue: 0,0:12:56.71,0:12:58.47,Default,Oikatso,0,0,0,,Wie hoch ist denn die Strafe?
+Dialogue: 0,0:12:58.47,0:13:00.22,Default,Pencilgon,0,0,0,,Zirka 500 Millionen Mani.
+Dialogue: 0,0:13:00.22,0:13:01.26,Default,Sunraku,0,0,0,,Ich leih dir nix.
+Dialogue: 0,0:13:01.26,0:13:05.26,Default,Pencilgon,0,0,0,,Will ich auch gar nicht.\NDas kann ich selbst abstottern.
+Dialogue: 0,0:13:05.26,0:13:08.14,Default,Pencilgon,0,0,0,,Durch diesen Kampf\Nhaben wir ja etwas gelernt.
+Dialogue: 0,0:13:08.14,0:13:08.98,Default,Sunraku,0,0,0,,Und was?
+Dialogue: 0,0:13:10.52,0:13:12.98,Default,Pencilgon,0,0,0,,Dass einzigartige Monster\Nbare Münze wert sind.
+Dialogue: 0,0:13:14.90,0:13:16.98,Default,Sunraku,0,0,0,,Das sagst du so einfach.
+Dialogue: 0,0:13:18.07,0:13:21.24,Default,Pencilgon,0,0,0,,Darum hätte ich da einen Vorschlag.
+Dialogue: 0,0:13:23.16,0:13:24.74,Default,Pencilgon,0,0,0,,Wollen wir drei …
+Dialogue: 0,0:13:26.20,0:13:28.00,Default,Pencilgon,0,0,0,,nicht einen Clan gründen?
+Dialogue: 0,0:13:47.56,0:13:48.35,Default,Pencilgon,0,0,0,,Schere!
+Dialogue: 0,0:13:48.35,0:13:49.39,Default,Oikatso,0,0,0,,Stein!
+Dialogue: 0,0:13:49.39,0:13:51.06,Default,Sunraku; Pencilgon; Oikatso,0,0,0,,Papier!
+Dialogue: 0,0:13:52.56,0:13:55.02,Default,Sunraku; Oikatso,0,0,0,,Jawoll! Pencilgon hat verloren!
+Dialogue: 0,0:13:55.02,0:13:58.44,Default,Sunraku,0,0,0,,Damit steht Pencilgon\Nals Clanleader fest!
+Dialogue: 0,0:13:58.44,0:13:59.86,Default,Oikatso,0,0,0,,Oh, yeah!
+Dialogue: 0,0:14:01.03,0:14:02.99,Default,Pencilgon,0,0,0,,Wir spielen drei Runden!
+Dialogue: 0,0:14:02.99,0:14:04.16,Default,Sunraku; Oikatso,0,0,0,,Abgelehnt.
+Dialogue: 0,0:14:05.03,0:14:09.75,Default,Pencilgon,0,0,0,,Ich hatte von vornherein\Nkeine Chance gegen ihre Reflexe.
+Dialogue: 0,0:14:09.75,0:14:11.96,Default,Sunraku; Oikatso,0,0,0,,Das fällt dir jetzt erst ein?
+Dialogue: 0,0:14:15.29,0:14:18.59,Default,Pencilgon,0,0,0,,In mir steckt aber\Nkeine Anführerin. Tja, hilft nix.
+Dialogue: 0,0:14:18.59,0:14:22.30,Default,Sunraku,0,0,0,,Also dann, Anführerin,\Ngleich zur ersten Aufgabe.
+Dialogue: 0,0:14:22.30,0:14:24.22,Default,Sunraku,0,0,0,,Wie soll unser Clan heißen?
+Dialogue: 0,0:14:34.77,0:14:37.40,Default,Pencilgon,0,0,0,,Also, wie wär’s hiermit?
+Dialogue: 0,0:14:37.40,0:14:39.94,Default,Oikatso,0,0,0,,Warum nicht? Klingt cool.
+Dialogue: 0,0:14:39.94,0:14:44.07,Default,Sunraku,0,0,0,,Ich find „Pencilgon und ihre\Nnützlichen Lakaien“ auch ziemlich gut.
+Dialogue: 1,0:14:44.07,0:14:46.74,Default,Oikatso,0,0,0,,Auf gar keinen Fall.
+Dialogue: 1,0:14:46.74,0:14:51.08,Default,Pencilgon,0,0,0,,Also dann, Leute,\Nerhebt bitte eure Krüge.
+Dialogue: 0,0:14:51.08,0:14:54.96,Default,Pencilgon,0,0,0,,Von nun an sind wir umherwandernde Wölfe,
+Dialogue: 0,0:14:54.96,0:14:59.09,Default,Pencilgon,0,0,0,,die in der ganzen Welt von Shangri-La Frontier\Nnach einzigartigen Monstern suchen.
+Dialogue: 0,0:14:59.09,0:15:02.59,Default,Pencilgon,0,0,0,,{\an8}Auf die Gründung des Clans „Wanderwölfe“.
+Dialogue: 0,0:15:03.01,0:15:05.01,Default,Sunraku; Pencilgon; Oikatso,0,0,0,,Zum Wohl!
+Dialogue: 0,0:15:10.93,0:15:14.18,Default,Oikatso,0,0,0,,Übrigens, wie soll das Emblem aussehen?
+Dialogue: 0,0:15:14.18,0:15:16.60,Default,Sunraku,0,0,0,,Das überlassen wir natürlich Pencilgon!
+Dialogue: 0,0:15:16.60,0:15:17.98,Default,Oikatso,0,0,0,,Ein Fall für die Anführerin!
+Dialogue: 0,0:15:17.98,0:15:20.11,Default,Pencilgon,0,0,0,,Ihr übertreibt es, findet ihr nicht?!
+Dialogue: 0,0:15:21.15,0:15:24.03,Default,Schwarzer Wolf A,0,0,0,,Sogar in so einer Ecke gibt’s ’nen Laden.
+Dialogue: 0,0:15:24.03,0:15:26.28,Default,Pencilgon,0,0,0,,Mir ist das eigentlich egal.
+Dialogue: 0,0:15:26.28,0:15:27.20,Default,Sunraku,0,0,0,,Mir auch.
+Dialogue: 0,0:15:27.20,0:15:30.66,Default,Oikatso,0,0,0,,Ach kommt, wenn wir schon\Neinen Clan gründen, dann richtig!
+Dialogue: 0,0:15:31.20,0:15:34.08,Default,Schwarzer Wolf A,0,0,0,,Oha, hier ist ja tote Hose.
+Dialogue: 0,0:15:34.66,0:15:39.17,Default,Schwarzer Wolf A,0,0,0,,Hey, ihr da. Ich will euch was fragen.
+Dialogue: 0,0:15:39.96,0:15:45.17,Default,Schwarzer Wolf A,0,0,0,,Ich such die drei Leute aus der Bekanntgabe,\Ndie das einzigartige Monster besiegt haben.
+Dialogue: 0,0:15:45.76,0:15:49.01,Default,Schwarzer Wolf A,0,0,0,,Sie heißen Arthur Pencilgon,
+Dialogue: 0,0:15:49.01,0:15:50.64,Default,Schwarzer Wolf A,0,0,0,,Oikatso …
+Dialogue: 0,0:15:51.26,0:15:53.56,Default,Schwarzer Wolf A,0,0,0,,und Sun…raku …
+Dialogue: 0,0:15:58.27,0:16:01.82,Default,Sunraku; Pencilgon; Oikatso,0,0,0,,Diese Typen kennen wir nicht!
+Dialogue: 0,0:16:02.44,0:16:05.32,Default,Sunraku,0,0,0,,Hey, Anführerin! Hattest du nicht\Nden ganzen Laden reserviert?!
+Dialogue: 0,0:16:05.32,0:16:08.07,Default,Pencilgon,0,0,0,,Das hab ich nie gesagt!
+Dialogue: 0,0:16:08.07,0:16:11.07,Default,Pencilgon,0,0,0,,Er hat einfach nur extrem wenige Gäste!
+Dialogue: 0,0:16:11.45,0:16:14.87,Default,Oikatso,0,0,0,,Na ja, passt mir ganz gut.\NMachen wir Schluss für heute.
+Dialogue: 0,0:16:14.87,0:16:19.75,Default,Oikatso,0,0,0,,Da ich durch Böse Macht Level verloren hab,\Nwürd ich gern leveln gehen.
+Dialogue: 0,0:16:19.75,0:16:24.59,Default,Pencilgon,0,0,0,,Dann bring ich die Waage zurück\Nund hol mir meine Hauptwaffe wieder.
+Dialogue: 0,0:16:24.96,0:16:27.63,Default,Pencilgon,0,0,0,,Kümmer du dich um den Reaktor, Sunraku!
+Dialogue: 0,0:16:27.63,0:16:28.59,Default,Sunraku,0,0,0,,Geht klar!
+Dialogue: 0,0:16:29.01,0:16:31.14,Default,Sunraku,0,0,0,,Und überleg du dir ein Emblem!
+Dialogue: 0,0:16:31.14,0:16:32.22,Default,Oikatso,0,0,0,,Also, bis dann!
+Dialogue: 0,0:16:32.97,0:16:34.77,Default,Schwarzer Wolf A,0,0,0,,Sie haben sich aufgeteilt!
+Dialogue: 0,0:16:34.77,0:16:36.85,Default,Schwarzer Wolf A,0,0,0,,Hey, du, Sunraku!
+Dialogue: 0,0:16:36.85,0:16:39.27,Default,Schwarzer Wolf A,0,0,0,,Warte! Lauf nicht weg!
+Dialogue: 0,0:16:39.73,0:16:43.23,Default,Sunraku,0,0,0,,Nein, nein, ich bin nicht Sunraku!\NIch heiße Sumraku!
+Dialogue: 0,0:16:43.57,0:16:44.73,Default,Schwarzer Wolf A,0,0,0,,Lügner!
+Dialogue: 0,0:16:45.98,0:16:47.65,Default,Sunraku,0,0,0,,Und hepp!
+Dialogue: 0,0:16:50.61,0:16:52.28,Default,Sunraku,0,0,0,,Bin wieder da, Emul!
+Dialogue: 0,0:16:52.99,0:16:54.24,Default,Sunraku,0,0,0,,Öffne ein Portal.
+Dialogue: 0,0:16:57.50,0:17:01.12,Default,Emul,0,0,0,,Das hat ja ewig gedauert, Sunraku!\NDu bist spät dran!
+Dialogue: 0,0:17:01.12,0:17:04.46,Default,Sunraku,0,0,0,,Na, na. Ich erklär’s dir später.
+Dialogue: 0,0:17:05.46,0:17:06.46,Default,Emul,0,0,0,,Hmpf! Pah!
+Dialogue: 0,0:17:06.46,0:17:09.38,Default,Sunraku,0,0,0,,Oh, dieses scheußliche Schwert.
+Dialogue: 0,0:17:10.51,0:17:13.97,Default,Sunraku,0,0,0,,Hab vergessen,\Ndas Pencilgon zurückzugeben.
+Dialogue: 0,0:17:13.97,0:17:16.52,Default,Sunraku,0,0,0,,Na ja, dann halt nächstes Mal.
+Dialogue: 0,0:17:16.52,0:17:20.52,Default,Schwarzer Wolf A,0,0,0,,Du bist falsch abgebogen!\NDas ist eine Sackgasse!
+Dialogue: 0,0:17:20.89,0:17:23.86,Default,Schwarzer Wolf A,0,0,0,,Ich will doch nur reden.\NKein Grund, die Beine in die Hand zu …
+Dialogue: 0,0:17:25.65,0:17:27.90,Default,Schwarzer Wolf A,0,0,0,,Nanu? Er ist weg?
+Dialogue: 0,0:17:30.57,0:17:32.03,Default,Schwarzer Wolf A,0,0,0,,Wo ist er hin?
+Dialogue: 0,0:17:34.66,0:17:35.53,Default,Sunraku,0,0,0,,Was?
+Dialogue: 0,0:17:35.53,0:17:38.00,Default,Sunraku,0,0,0,,Vash ist nicht da?
+Dialogue: 0,0:17:38.00,0:17:43.21,Default,Emul,0,0,0,,Seit Pap… Seit der Chef mit dir geredet hat,\Nhab ich ihn nicht mehr gesehen.
+Dialogue: 0,0:17:43.21,0:17:47.25,Default,Sunraku,0,0,0,,Ach so, er ist also\Nnicht immer im Hasenpalast.
+Dialogue: 0,0:17:47.67,0:17:52.47,Default,Sunraku,0,0,0,,Nach dem Skill-Kombinieren und\Nder Punkteverteilung wollte ich zu ihm gehen.
+Dialogue: 0,0:17:57.64,0:18:01.14,Default,Elk,0,0,0,,Erwerb neuer Fähigkeiten\Nabgeschlossen.
+Dialogue: 0,0:18:01.14,0:18:03.52,Default,Elk,0,0,0,,Saaag, Vogelmensch,
+Dialogue: 0,0:18:03.52,0:18:08.36,Default,Elk,0,0,0,,Wie wääär’s mit einem Folianten\Nder Fähigkeiten dazuuu?
+Dialogue: 0,0:18:08.90,0:18:11.53,Default,Sunraku,0,0,0,,Ich hab keine Kooohle.
+Dialogue: 0,0:18:11.82,0:18:12.70,Default,Elk,0,0,0,,Pah!
+Dialogue: 0,0:18:13.41,0:18:15.16,Default,Sunraku,0,0,0,,{\i1}Steck dir dein „Pah“ sonstwo hin.
+Dialogue: 0,0:18:15.16,0:18:19.54,Default,Sunraku,0,0,0,,{\i1}Versuch mir nicht bei jeder Gelegenheit\Nwas anzudrehen, du gieriges Schlappohr!
+Dialogue: 0,0:18:20.16,0:18:22.54,Default,Emul,0,0,0,,Also, was machen wir jetzt?
+Dialogue: 0,0:18:24.42,0:18:28.55,Default,Sunraku,0,0,0,,Wer außer Vash könnte noch\Nden Ätherreaktor reparieren?
+Dialogue: 0,0:18:30.34,0:18:33.55,Default,Sunraku,0,0,0,,Ich kann es ja mal bei Beelac versuchen.
+Dialogue: 0,0:18:34.63,0:18:36.68,Default,Beelac,0,0,0,,Vergiss es. Kann ich nicht.
+Dialogue: 0,0:18:37.18,0:18:38.68,Default,Sunraku,0,0,0,,Wie ich dachte.
+Dialogue: 0,0:18:39.06,0:18:43.64,Default,Beelac,0,0,0,,{\an8}Nur ’n Ahnenhandwerker kann mit antiken\NGeräten aus dem göttlichen Zeitalter umgehen.
+Dialogue: 0,0:18:43.64,0:18:46.94,Default,Beelac,0,0,0,,{\an8}Ich bin immer noch\Nnur ’ne Meisterhandwerkerin.
+Dialogue: 0,0:18:46.94,0:18:49.69,Default,Beelac,0,0,0,,Keinen Schimmer,\Nwer außer dem Boss helfen könnte.
+Dialogue: 0,0:18:49.69,0:18:52.65,Default,Sunraku,0,0,0,,Man braucht also einen Ahnenhandwerker.
+Dialogue: 0,0:18:52.65,0:18:54.11,Default,Sunraku,0,0,0,,Hilft ja nix.
+Dialogue: 0,0:18:54.11,0:18:58.24,Default,Sunraku,0,0,0,,Ich leg den Reaktor fürs Erste beiseite\Nund zieh meine fusionierten Skills hoch.
+Dialogue: 0,0:18:59.66,0:19:02.50,Default,Sunraku,0,0,0,,Hochziehen …? Fördern …
+Dialogue: 0,0:19:04.58,0:19:06.12,Default,Emul,0,0,0,,Was ist los?
+Dialogue: 0,0:19:06.12,0:19:09.21,Default,Sunraku,0,0,0,,Das ist es! Ich kann dich hochziehen!
+Dialogue: 0,0:19:11.71,0:19:16.84,Default,Sunraku,0,0,0,,Wenn es keinen Ahnenhandwerker-Schmied gibt,\Nist die Lösung doch, dass du einer wirst!
+Dialogue: 0,0:19:16.84,0:19:17.64,Default,Beelac,0,0,0,,Hä?!
+Dialogue: 0,0:19:18.10,0:19:22.39,Default,Beelac,0,0,0,,Nimm das nicht auf die leichte Schulter!\NSo einfach is’ das nicht!
+Dialogue: 0,0:19:22.39,0:19:26.02,Default,Sunraku,0,0,0,,{\an8}Ich sag ja nicht, dass du ein Göttlicher\NHandwerker wie Vash werden sollst!
+Dialogue: 0,0:19:26.02,0:19:29.27,Default,Sunraku,0,0,0,,{\an8}Und irgendwann müsstest du diesen Weg\Ndoch sowieso beschreiten, oder?
+Dialogue: 0,0:19:30.15,0:19:32.07,Default,Sunraku,0,0,0,,Dann ist jetzt die Zeit dafür gekommen!
+Dialogue: 0,0:19:32.07,0:19:35.15,Default,Sunraku,0,0,0,,Nimm die Herausforderung an\Nund werde Ahnenhandwerkerin!
+Dialogue: 0,0:19:37.03,0:19:39.12,Default,Beelac,0,0,0,,Herausforderung …
+Dialogue: 0,0:19:39.41,0:19:41.49,Default,Sunraku,0,0,0,,Hättest du keine Chancen,\Nwürd ich’s nicht sagen!
+Dialogue: 0,0:19:41.49,0:19:44.33,Default,Sunraku,0,0,0,,Ich schlage es vor, weil ich Vertrauen\Nin deine Fähigkeiten habe!
+Dialogue: 0,0:19:44.33,0:19:47.17,Default,Sunraku,0,0,0,,Und natürlich werde ich dir helfen!
+Dialogue: 0,0:19:47.17,0:19:49.88,Default,Emul,0,0,0,,Du schaffst das, Bee!
+Dialogue: 0,0:19:53.71,0:19:56.22,Default,Beelac,0,0,0,,Ich, ’ne Ahnenhandwerkerin …
+Dialogue: 0,0:20:01.47,0:20:03.52,Default,Beelac,0,0,0,,Also gut, Vogelmensch!
+Dialogue: 0,0:20:04.14,0:20:08.52,Default,Beelac,0,0,0,,Ich bin dabei.\NIch werd ’ne Ahnenhandwerkerin!
+Dialogue: 0,0:20:08.90,0:20:11.52,Default,Emul,0,0,0,,Ein Hoch auf Bee!
+Dialogue: 0,0:20:11.52,0:20:16.15,Default,Sunraku,0,0,0,,Yeah! Wir starten\Ndas „Beelac-Förderprojekt“!
+Dialogue: 0,0:20:16.15,0:20:17.61,Default,Emul,0,0,0,,Jawohl!
+Dialogue: 0,0:20:17.61,0:20:20.03,Default,Beelac,0,0,0,,J-Jaaa!
+Dialogue: 0,0:21:51.71,0:21:55.38,Default,Kinder,0,0,0,,ShanFro-Theater!
+Dialogue: 0,0:21:55.38,0:21:56.92,Default,Emul,0,0,0,,Mini!
+Dialogue: 0,0:22:01.01,0:22:03.09,Default,Kei,0,0,0,,{\pos(1272,1020)}Ich denke, das Aussehen passt so.
+Dialogue: 0,0:22:03.55,0:22:08.39,Default,Kei,0,0,0,,Aber mit einem weiblichen Avatar darf ich mir\Nvon den anderen sicher Kommentare anhören.
+Dialogue: 0,0:22:08.39,0:22:10.60,Default,Kei,0,0,0,,Na ja, vielleicht sagen sie auch nichts.
+Dialogue: 0,0:22:10.60,0:22:11.85,Default,Kei,0,0,0,,Gut, okay.
+Dialogue: 0,0:22:12.85,0:22:14.35,Default,Kei,0,0,0,,Name …
+Dialogue: 0,0:22:14.90,0:22:17.48,Default,Kei,0,0,0,,„Katso“ ist unverzichtbar.
+Dialogue: 0,0:22:17.48,0:22:20.32,Default,Kei,0,0,0,,Modoru Katso, Krieger Katso …
+Dialogue: 0,0:22:20.32,0:22:22.61,Default,Kei,0,0,0,,Das nächste wäre …
+Dialogue: 0,0:22:25.53,0:22:28.99,Default,Kei,0,0,0,,Die beiden spielen schon ShanFro,
+Dialogue: 0,0:22:28.99,0:22:31.91,Default,Kei,0,0,0,,ich werd ihnen also nachjagen.
+Dialogue: 0,0:22:32.54,0:22:36.42,Default,Kei,0,0,0,,Verfolgen, jagen …\NDann nehm ich Oikatso.
+Dialogue: 0,0:22:40.92,0:22:45.80,Default,Kei,0,0,0,,Klingt zwar etwas komisch, „Freut mich,\Ndich kennenzulernen“ zu sagen,
+Dialogue: 0,0:22:45.80,0:22:48.93,Default,Kei,0,0,0,,aber lass uns beide\Nals Oikatso unser Bestes geben.
+Dialogue: 0,0:22:48.93,0:22:50.77,Default,Kei,0,0,0,,Nein, Spaß.
+Dialogue: 0,0:22:50.77,0:22:54.94,Default,Kei,0,0,0,,Als Beruf nehm ich Mönch. Als Herkunft …
+Dialogue: 0,0:22:56.48,0:22:59.61,Default,Kei,0,0,0,,Beginnst du mit der Herkunft „Wanderer“,
+Dialogue: 0,0:22:59.61,0:23:02.53,Default,Kei,0,0,0,,startest du nicht in Ersteia,
+Dialogue: 0,0:23:02.53,0:23:06.82,Default,Kei,0,0,0,,sondern an irgendeinem Punkt\Nim ersten Gebiet „Wild wuchernder Wald“?
+Dialogue: 0,0:23:07.99,0:23:11.62,Default,Kei,0,0,0,,So ein Survival-Start\Nwär schon verrückt.
+Dialogue: 0,0:23:11.62,0:23:15.33,Default,Kei,0,0,0,,Nein, lieber nicht. Aber ich kenn\Nda einen, zu dem das passen würde.
+Dialogue: 0,0:23:18.34,0:23:23.84,Default,Kei,0,0,0,,Okay, also dann. Mit ein wenig Verspätung\Nstarte ich meine Aufholjagd.
+Dialogue: 0,0:23:24.30,0:23:27.76,Default,Kei,0,0,0,,Jetzt komme ich, Shangri-La Frontier!

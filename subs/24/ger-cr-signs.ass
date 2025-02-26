@@ -1,0 +1,80 @@
+﻿[Script Info]
+Title: Deutsch
+ScaledBorderAndShadow: yes
+Original Script: cr_de  [http://www.crunchyroll.com/user/cr_de]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+LayoutResX: 1920
+LayoutResY: 1080
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: TypePlaceholder,Arial Bold,57,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,0,0,8,30,30,60,1
+Style: TypePlaceholderBox,Arial Bold,66,&H00200960,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,3,6,0,8,30,30,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:02:23.33,0:02:28.25,TypePlaceholder,type,0,0,0,,{\an1\fnVerdana bold\fscx90\shad6\fs+1\b1\fsp3\c&HF6FFFB&\4c&HC7961F&\bord0\3c&HFFFFFE&\fad(187,258)\3c&HFFFFFF&\pos(485.28,895.32)}Rare-Items wiegen{\fnVerdana bold\fscx90\bord0\c&HFFFFFF&\4c&HC7951D&\alpha&HFF&\t(354,479,\alpha&H00&)} mehr als {\bord3\fnGeorgia bold\fscx100\c&HC7951D&\4c&HFFFFFF&\alpha&HFF&\t(604,1104,\alpha&H00&)}ein Leben
+Dialogue: 0,0:02:33.09,0:02:33.30,TypePlaceholder,type,0,0,0,,{\fad(187,0)\fnVerdana Bold\c&HE0DB79&\fax0.5\frz348\pos(372,754.02)}Mondspringer
+Dialogue: 0,0:03:21.72,0:03:25.73,TypePlaceholder,type,0,0,0,,{\fad(0,276)\fnVerdana\bord9\fs+2\c&HFFFCFD&\3c&HBC9A1E&\pos(960,595.5)}Kristallnest-Klippen
+Dialogue: 0,0:03:54.63,0:03:57.09,TypePlaceholder,type,0,0,0,,{\fnImpact\bord6\pos(1572,70.02)\c&H5D23DA&\3c&H311C59&}Kristallskorpion
+Dialogue: 1,0:04:58.44,0:05:02.57,TypePlaceholder,type,0,0,0,,{\fnVerdana\fs+1\an2\bord5.4\c&HF1E494&\3c&H59563C&\pos(958.14,857.88)}Kristallskorpione
+Dialogue: 2,0:04:58.44,0:05:02.57,TypePlaceholder,type,0,0,0,,{\fnVerdana\fs+1\an2\bord2.4\c&HF1E494&\3c&H807B6B&\pos(958.14,857.88)}Kristallskorpione
+Dialogue: 0,0:05:50.33,0:05:53.54,TypePlaceholder,type,0,0,0,,{\fnVerdana Bold\fax0.35\fad(0,397)\bord9\fs-4\c&H87FB2B&\3c&HBAC0C2&\frz340.7\3a&H32&\blur3\pos(1368,75.96)}Wiederbelebung\N{\c&HFFFEF5&\3c&H806A0C&}Gasthaus Hasingen
+Dialogue: 0,0:08:12.30,0:08:13.47,TypePlaceholder,type,0,0,0,,{\fad(107,0)\fax0.16\fnVerdana Bold\fs+2\c&HFFFFB8&\pos(1065.21,104.31)\frz348.2}Überhitzen
+Dialogue: 0,0:08:12.43,0:08:13.47,TypePlaceholder,type,0,0,0,,{\fad(144,0)\fnVerdana Bold\fs+2\fax0.16\c&HFFFEA7&\pos(1044.93,444)\frz351.4}Spitzenschub
+Dialogue: 0,0:08:12.56,0:08:13.47,TypePlaceholder,type,0,0,0,,{\fad(149,0)\fax0.09\fs+2\fnVerdana Bold\c&HE0DB79&\pos(1033.86,789.24)\frz355.2}Nitro-Anstieg
+Dialogue: 0,0:08:34.29,0:08:36.29,TypePlaceholder,type,0,0,0,,{\pos(1061.55,16.89)\org(1061.55,16.89)\fscx94.858\fscy99.789\frz-11.604\fry-6.918\frx0\fax0.222\fnVerdana Bold\xbord8.54\ybord8.98\c&H87FB2B&\3c&HBAC0C2&\3a&H32&\blur3\fad(0,397)\fs-5}Wiederbelebung\N{\c&HFFFEF5&\3c&H806A0C&}Gasthaus Hasingen
+Dialogue: 1,0:09:02.52,0:09:20.54,TypePlaceholder,type,0,0,0,,{\fnVerdana bold\c&HF7F6BE&\fay-0.24\frz346.7\fry-2\move(1111.14,774.45,1164,684)}Aroncaleth-Lapislazuli\N{\fnTahoma\fs-2\c&H958B8F&}Entsteht nach langer Kompression und\N\NReinigung durch Mineral-fressende Monster.\NKristalle, die extrem viel Mana enthalten.\NDas strahlende, vielschichtige Blau\Nist ein Zeitzeuge des Planeten.
+Dialogue: 0,0:10:26.77,0:10:33.65,TypePlaceholder,type,0,0,0,,{\fnVerdana Bold\fscx150\fscy180\bord9\c&HABFF50&\3c&H77E52B&\pos(489.24,52.62)}Ich will Rohstoffe
+Dialogue: 0,0:12:04.45,0:12:05.04,TypePlaceholder,type,0,0,0,,{\pos(1052.31,196.62)\org(1052.31,196.62)\fscx99.791\fscy98.525\frz5.931\fry1.67\frx-3.375\fax-0.061\fnVerdana Bold\c&HFFFFAF&\fad(147,0)\fs+8}Sechs-Schiffe-Sprung
+Dialogue: 1,0:12:31.27,0:12:34.73,TypePlaceholder,type,0,0,0,,{\fnVerdana\fs+1\an2\bord5.4\blur3\c&HFAF18F&\3c&HC25736&\pos(950.76,772.95)}Teleport: Speicher-Subraum
+Dialogue: 2,0:12:31.27,0:12:34.73,TypePlaceholder,type,0,0,0,,{\fnVerdana\fs+1\an2\bord2.4\c&HFAF18F&\3c&HC25736&\pos(950.76,772.95)}Teleport: Speicher-Subraum
+Dialogue: 0,0:12:44.45,0:12:45.33,TypePlaceholderBox,type,0,0,0,,{\fnVerdana bold\fs-5\fax-0.2\c&HAC987A&\3c&HFBFEE6&\frz11.87\pos(903.12,220.71)}Nicht genormter taktischer Tiger
+Dialogue: 0,0:12:44.45,0:12:45.33,TypePlaceholder,type,0,0,0,,{\fnVerdana bold\bord9\c&HFDFAF1&\3c&HFB99C8&\frz11.86\fax-0.2\pos(904.95,262.62)}Byakko
+Dialogue: 1,0:12:51.17,0:12:53.42,TypePlaceholder,type,0,0,0,,{\fnVerdana\fs-3\an2\bord5.4\blur3\c&HFAF18F&\3c&HC25736&\pos(958.14,852.33)}Inventoria\N{\fs+3}Speicher-Subraum
+Dialogue: 2,0:12:51.17,0:12:53.42,TypePlaceholder,type,0,0,0,,{\fnVerdana\fs-3\an2\bord2.4\c&HFAF18F&\3c&HC25736&\pos(958.14,852.33)}Inventoria\N{\fs+3}Speicher-Subraum
+Dialogue: 1,0:13:23.49,0:13:26.70,TypePlaceholder,type,0,0,0,,{\fnVerdana\an2\bord5.4\blur3\c&HFFE492&\3c&HB6512D&\pos(950.76,857.88)}Teleport: Realer Raum
+Dialogue: 2,0:13:23.49,0:13:26.70,TypePlaceholder,type,0,0,0,,{\fnVerdana\an2\bord2.4\c&HFFEF8B&\3c&HBD6143&\pos(950.76,857.88)}Teleport: Realer Raum
+Dialogue: 0,0:13:34.71,0:13:35.96,TypePlaceholderBox,type,0,0,0,,{\pos(1141.088,128.56)\org(1122.48,13.83)\fscx99.94\fscy98.71\frz-9.212\fry-3.364\fax0.16\fnVerdana\xbord0\ybord0\c&H922055&\3c&HE756ED&}Gefundener Gegenstand\N\N{\fnVerdana Bold\c&HFCFA9E&}Zähes Kristallbein
+Dialogue: 0,0:13:35.96,0:13:37.21,TypePlaceholderBox,type,0,0,0,,{\pos(1066.566,344.335)\org(1065.24,366.42)\fscx100.126\fscy99.82\frz3.435\fry0.667\fax-0.06\fnVerdana\xbord6.01\ybord5.99\c&H922055&\3c&HE756ED&}Gefundener Gegenstand
+Dialogue: 0,0:13:35.96,0:13:37.21,TypePlaceholderBox,type,0,0,0,,{\pos(1054.14,789.24)\org(1054.14,789.24)\fscx99.946\fscy99.999\frz5.548\fry0.667\frx0\fax-0.1\fnVerdana Bold\xbord0\ybord0\c&HFCFA9E&}Panzer eines Kristallskorpions
+Dialogue: 0,0:13:37.21,0:13:38.46,TypePlaceholderBox,type,0,0,0,,{\pos(869.612,225.783)\org(849.24,100.59)\fscx100.209\fscy98.7\frz-11.715\fry3.022\frx0\fax0.16\fnVerdana\xbord0\ybord0\c&H922055&\3c&HE756ED&\fs-2}Gefundener Gegenstand\N{\fnVerdana Bold\c&HFCFA9E&}Trennende Kristallschere
+Dialogue: 0,0:13:38.46,0:13:39.72,TypePlaceholderBox,type,0,0,0,,{\pos(1235.587,144.447)\org(1227.69,65.52)\fscx100.445\fscy99.503\frz-5.614\fry0.667\frx0\fax0.099\fnVerdana\xbord0\ybord0\c&H922055&\3c&HE756ED&\fs-2}Gefundener Gegenstand\N{\fnVerdana Bold\c&HFCFA9E&}Trampelnde Kristallklaue
+Dialogue: 1,0:13:56.40,0:14:04.36,TypePlaceholder,type,0,0,0,,{\p1\c&H2D211C&\bord6\3c&HF4E440&\blur6\pos(446.31,33.69)}m 0 0 l 840 0 l 840 540 l 0 540
+Dialogue: 2,0:13:56.40,0:14:04.36,TypePlaceholder,type,0,0,0,,{\fnVerdana Bold\c&HF7FA9A&\pos(439.41,43.41)}Zähes Kristallbein\NTrampelnde Kristallklaue\NTrennende Kristallschere\NPanzer eines Kristallskorpions\NAroncaleth-Lapislazuli\NLapisteria-Sternenjuwel\NAmurcidianischer Quarz\NKristanbul-Rausand\NRowen’anva-Bernstein
+Dialogue: 0,0:14:46.53,0:14:53.54,TypePlaceholder,type,0,0,0,,{\fnTahoma Bold\fs+2\bord9\c&HF4E7E6&\pos(487.38,48.9)}Speicherschlüssel Inventoria
+Dialogue: 0,0:14:53.54,0:14:56.04,TypePlaceholder,type,0,0,0,,{\fnVerdana Bold\c&HE0DB79&\pos(972.93,781.86)}Speicherschlüssel Inventoria
+Dialogue: 0,0:15:27.74,0:15:28.99,TypePlaceholderBox,type,0,0,0,,{\pos(1141.088,128.56)\org(1122.48,13.83)\fscx99.94\fscy98.71\frz-9.212\fry-3.364\fax0.16\fnVerdana\xbord0\ybord0\c&H922055&\3c&HE756ED&}Gefundener Gegenstand\N\N{\fnVerdana Bold\c&HFCFA9E&}Zähes Kristallbein
+Dialogue: 0,0:15:28.99,0:15:30.24,TypePlaceholderBox,type,0,0,0,,{\pos(1066.566,344.335)\org(1065.24,366.42)\fscx100.126\fscy99.82\frz3.435\fry0.667\fax-0.06\fnVerdana\xbord6.01\ybord5.99\c&H922055&\3c&HE756ED&}Gefundener Gegenstand
+Dialogue: 0,0:15:28.99,0:15:30.24,TypePlaceholderBox,type,0,0,0,,{\pos(1054.14,789.24)\org(1054.14,789.24)\fscx99.946\fscy99.999\frz5.548\fry0.667\frx0\fax-0.1\fnVerdana Bold\xbord0\ybord0\c&HFCFA9E&}Panzer eines Kristallskorpions
+Dialogue: 0,0:15:30.24,0:15:31.49,TypePlaceholderBox,type,0,0,0,,{\pos(869.612,225.783)\org(849.24,100.59)\fscx100.209\fscy98.7\frz-11.715\fry3.022\frx0\fax0.16\fnVerdana\xbord0\ybord0\c&H922055&\3c&HE756ED&\fs-2}Gefundener Gegenstand\N{\fnVerdana Bold\c&HFCFA9E&}Trennende Kristallschere
+Dialogue: 0,0:15:31.49,0:15:32.74,TypePlaceholderBox,type,0,0,0,,{\pos(1235.587,144.447)\org(1227.69,65.52)\fscx100.445\fscy99.503\frz-5.614\fry0.667\frx0\fax0.099\fnVerdana\xbord0\ybord0\c&H922055&\3c&HE756ED&\fs-2}Gefundener Gegenstand\N{\fnVerdana Bold\c&HFCFA9E&}Trampelnde Kristallklaue
+Dialogue: 0,0:15:41.50,0:15:48.47,TypePlaceholder,type,0,0,0,,{\fad(148,107)\fnImpact\fax-0.3\bord4.5\an2\c&HA49639&\3c&HF7F2FC&\pos(664.62,204)\frz0.1942}Sunraku
+Dialogue: 1,0:15:55.02,0:16:01.02,TypePlaceholder,type,0,0,0,,{\p1\c&H2D211C&\bord6\3c&HF4E440&\blur6\pos(446.31,33.69)}m 0 0 l 840 0 l 840 540 l 0 540
+Dialogue: 2,0:15:55.02,0:16:01.02,TypePlaceholder,type,0,0,0,,{\fnVerdana Bold\c&HF7FA9A&\pos(439.41,43.41)}Zähes Kristallbein\NTrampelnde Kristallklaue\NTrennende Kristallschere\NPanzer eines Kristallskorpions\NAroncaleth-Lapislazuli\NLapisteria-Sternenjuwel\NAmurcidianischer Quarz\NKristanbul-Rausand\NRowen’anva-Bernstein
+Dialogue: 0,0:17:31.78,0:17:32.45,TypePlaceholder,type,0,0,0,,{\fad(107,0)\fnVerdana Bold\bord6\c&HFFFFB8&\\blur3\3c&H594034&\pos(1683.69,215.1)}Überhitzen
+Dialogue: 0,0:17:31.91,0:17:32.45,TypePlaceholder,type,0,0,0,,{\fad(107,0)\fnVerdana Bold\bord6\c&HFFFFB8&\\blur3\3c&H594034&\pos(1683.69,272.1)}Spitzenschub
+Dialogue: 0,0:17:31.99,0:17:32.45,TypePlaceholder,type,0,0,0,,{\fad(101,0)\fnVerdana Bold\bord6\c&HFFFFB8&\\blur3\3c&H594034&\pos(1683.69,329.1)}Nitro-Anstieg
+Dialogue: 0,0:18:54.49,0:18:56.11,TypePlaceholder,type,0,0,0,,{\pos(1114.26,785.07)\org(1114.26,785.07)\fscx97.007\fscy99.969\frz-5.876\fry5.104\frx0\fax0.106\fnVerdana Bold\c&HFEF590&\fad(107,0)\fs+2}Nitro-Anstieg
+Dialogue: 0,0:18:54.74,0:18:56.11,TypePlaceholder,type,0,0,0,,{\pos(1115.07,381.36)\org(1115.07,381.36)\fscx97.056\fscy99.919\frz-9.482\fry5.104\frx0\fax0.16\fnVerdana Bold\c&HFEF590&\fad(107,0)\fs+2}Spitzenschub
+Dialogue: 0,0:18:54.82,0:18:56.11,TypePlaceholder,type,0,0,0,,{\pos(1126.74,223.17)\org(1126.74,223.17)\fscx97.073\fscy99.901\frz-10.511\fry5.104\frx0\fax0.171\fnVerdana Bold\c&HFEF590&\fad(107,0)\fs+2}Überhitzen
+Dialogue: 0,0:18:56.11,0:18:57.57,TypePlaceholder,type,0,0,0,,{\pos(487.35,556.62)\org(487.35,556.62)\fscx91.904\fscy99.799\frz-9.146\fry8.835\frx0\fax0.157\fnVerdana Bold\c&HFFFFB8&\fs-3}Überhitzen
+Dialogue: 0,0:18:56.11,0:18:57.57,TypePlaceholder,type,0,0,0,,{\pos(472.62,711.69)\org(472.62,711.69)\fscx91.799\fscy99.913\frz-5.993\fry8.835\frx0\fax0.088\fnVerdana Bold\c&HFFFFB8&\fs-3}Spitzenschub
+Dialogue: 0,0:18:56.11,0:18:57.57,TypePlaceholder,type,0,0,0,,{\pos(478.14,872.34)\org(478.14,872.34)\fscx91.731\fscy99.987\frz-2.289\fry8.835\frx0\fax0.037\fnVerdana Bold\c&HFFFFB8&\fs-3}Nitro-Anstieg
+Dialogue: 1,0:18:57.87,0:19:00.37,TypePlaceholder,Types,0,0,0,,{\fnImpact\b0\bord18\fsp6\fad(121,213)\an1\fs+5\fax-0.3\c&HFCC630&\3c&H232626&\t(203,204,\3c&HA69424&\shad2.1)\t(444,445,\c&HFCC630&\3c&H232626&\shad0)\4c&H232626&\frz8.297\pos(358.5,205.5)}Glühender Dorn
+Dialogue: 2,0:18:57.87,0:19:00.37,TypePlaceholder,Types,0,0,0,,{\fnImpact\b0\bord7.5\fsp6\fad(121,213)\an1\fs+5\fax-0.3\c&HFCC630&\3c&HFDFEF6&\t(203,204,\c&HFFFFB9&\3c&HFFFFF8&)\t(445,446,\c&HFCC630&\3cHFDFEF6&)\frz8.297\pos(358.5,205.5)}Glühender Dorn
+Dialogue: 0,0:20:35.96,0:20:44.35,TypePlaceholder,type,0,0,0,,{\fnVerdana Bold\bord9\fscx130\fscy160\frz9.261\move(882.45,-180,882.45,78.45,23,3600)\c&HFFFEFD&\3c&H110E0E&}Zufallsfaktor
+Dialogue: 0,0:21:56.84,0:22:00.84,TypePlaceholder,Credits,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\pos(960,45)}Übersetzung: Anja Truong
+Dialogue: 0,0:21:56.84,0:22:00.84,TypePlaceholder,Credits,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\an2\pos(960,1035)}Spotting: Sandra Ritzer
+Dialogue: 0,0:22:01.34,0:22:05.39,TypePlaceholder,Credits,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\pos(960,45)}Revision & Typesetting: Konrad Walter
+Dialogue: 0,0:22:01.34,0:22:05.39,TypePlaceholder,Credits,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\an2\pos(960,1035)}Qualitätskontrolle: Richy Dick
+Dialogue: 0,0:22:05.89,0:22:09.85,TypePlaceholder,Credits,0,0,0,,{\fnTrebuchet MS Bold\bord3\shad3.6\c&HFFFFFF&\3c&H000000&\4c&H000000&\fs60\pos(960,45)}Projektleitung: Tobias Philippi
+Dialogue: 0,0:23:24.97,0:23:32.22,TypePlaceholder,Types,0,0,0,,{\fnComic Sans MS Bold\fs+4\bord0\shad6\fs+6\c&H7CEDEF&\4c&H51CBDA&\pos(960,9)}Sh{\c&HC297F0&\4c&H966CD6&}a{\c&H679FF8&\4c&H3171D7&}n{\c&HDE72BD&\4c&HB64897&}F{\c&H5B63E6&\4c&H484FC2&}ro
+Dialogue: 0,0:23:28.76,0:23:32.22,TypePlaceholder,Types,0,0,0,,{\fnComic Sans MS Bold\fad(493,0)\fs+4\fax-0.15\an3\c&HFAFFFE&\3c&H376777&\4c&H1C3F4D&\shad3.9\bord3.9\pos(1849.95,743.19)}#29 Sieg gegen Lycaon;\NErinnerungen an ein hitziges Gefecht.
+Dialogue: 0,0:23:29.35,0:23:32.22,TypePlaceholder,Types,0,0,0,,{\c&H515655&\fnComic Sans MS Bold\fad(333,0)\fs+2\bord0\frz43.99\pos(1447.5,118.5)}Mini
+Dialogue: 0,0:23:32.22,0:23:37.98,TypePlaceholder,type,0,0,0,,{\pos(1299.6,881.19)\org(1299.6,881.19)\fscx99.698\fscy99.964\frz19.14\fry1.67\frx0\fax-0.162\fnTahoma Bold\c&HFFDEDA&}Anwenden
+Dialogue: 0,0:23:33.22,0:23:37.98,TypePlaceholder,type,0,0,0,,{\pos(585.81,71.76)\org(585.81,71.76)\fscx99.67\fscy99.991\frz9.234\fry1.67\frx0\fax-0.001\fnTahoma Bold\c&HFFDEDA&\fad(232,0)\fs+2}Nicht anwendbar

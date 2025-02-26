@@ -1,0 +1,55 @@
+﻿[Script Info]
+Title: English (US)
+ScaledBorderAndShadow: yes
+Original Script: kodansha  [http://www.crunchyroll.com/user/kodansha]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+LayoutResX: 1920
+LayoutResY: 1080
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+Style: Flashback,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00013E12,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+Style: Sign_Basic,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,6,3,2,30,30,54,1
+Style: Ep_Title,Arial,60,&H00FFFFFF,&H000000FF,&H00000000,&H00BE9829,-1,0,0,0,100,100,0,0,1,0,6,1,132,30,12,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:23:28.68,0:23:32.47,Default,Kids,0,0,0,,{\an8}{\i1}SLF{\i0} Theater!
+Dialogue: 0,0:23:28.68,0:23:35.23,Sign_Basic,sign,0,0,0,,{\an8\fnArial\b1\fs90\c&H7CEDEF&\shad0\bord0}S{\c&H639FF5&}L{\c&HE171BE&}F {\bord6\c&H4C4F52&\3c&HF0F5F5&}Mini
+Dialogue: 0,0:23:31.77,0:23:35.23,Sign_Basic,sign,0,0,0,,{\fad(475,0)\an1\i1\b1\c&HF1FBFD&\3c&H3D717E&\bord4.5\pos(600,870)}I Reincarnated Into a Trash Game?!
+Dialogue: 0,0:23:32.68,0:23:34.68,Default,Emul,0,0,0,,{\an8}{\an8}Mini!
+Dialogue: 0,0:23:36.35,0:23:37.56,Default,Goddess,0,0,0,,Sunraku!
+Dialogue: 0,0:23:38.19,0:23:39.36,Default,Goddess,0,0,0,,Sunraku!
+Dialogue: 0,0:23:40.23,0:23:41.65,Default,Goddess,0,0,0,,Open your eyes!
+Dialogue: 0,0:23:47.91,0:23:51.37,Default,Goddess,0,0,0,,Sunraku, you have been \Nreincarnated in another world.
+Dialogue: 0,0:23:51.87,0:23:52.58,Default,Sunraku,0,0,0,,Um?
+Dialogue: 0,0:23:52.99,0:23:54.91,Default,Goddess,0,0,0,,The trash game world!
+Dialogue: 0,0:23:54.91,0:23:55.50,Default,Sunraku,0,0,0,,Um?
+Dialogue: 0,0:23:55.50,0:23:57.50,Default,Goddess,0,0,0,,You must defeat the Demon King!
+Dialogue: 0,0:23:59.21,0:24:03.25,Default,Sunraku,0,0,0,,Aren't you gonna move at all, Goddess?!
+Dialogue: 0,0:24:04.21,0:24:09.76,Default,Sunraku,0,0,0,,{\i1}And thus, my brutal isekai \Nreincarnation began.
+Dialogue: 0,0:24:11.39,0:24:13.89,Default,Sunraku,0,0,0,,{\i1}The enemies' levels were \Ntoo high from the start.
+Dialogue: 0,0:24:14.56,0:24:16.39,Default,Sunraku,0,0,0,,What the hell? Huh? Huh?!
+Dialogue: 0,0:24:16.39,0:24:18.35,Default,Sunraku,0,0,0,,I slipped halfway through the wall!
+Dialogue: 0,0:24:18.35,0:24:21.02,Default,Sunraku,0,0,0,,{\i1}I was constantly getting trapped \Nin the game's geometry.
+Dialogue: 0,0:24:21.02,0:24:23.94,Default,Knight,0,0,0,,{\i1}Sunraku, leave this to me! Go on ahead!
+Dialogue: 0,0:24:23.94,0:24:26.19,Default,Knight,0,0,0,,Go on ahe— ea— ea— ea—
+Dialogue: 0,0:24:26.19,0:24:28.11,Default,Sunraku,0,0,0,,Okay, that's freaky!
+Dialogue: 0,0:24:28.11,0:24:29.53,Default,Sunraku,0,0,0,,Your head, man! Your head!
+Dialogue: 0,0:24:30.07,0:24:32.83,Default,Sunraku,0,0,0,,{\i1}My allies couldn't maintain \Na fully human form.
+Dialogue: 0,0:24:33.66,0:24:35.29,Default,Sunraku,0,0,0,,Wait. This is an isekai, right?
+Dialogue: 0,0:24:35.62,0:24:36.54,Default,Sunraku,0,0,0,,Is it, really?
+Dialogue: 0,0:24:37.71,0:24:42.67,Default,Sunraku,0,0,0,,{\i1}But I overcame all challenges and \Nat last arrived at the Demon King!
+Dialogue: 0,0:24:43.00,0:24:44.05,Default,Sunraku,0,0,0,,Okay, dude!
+Dialogue: 0,0:24:44.05,0:24:47.59,Default,Sunraku,0,0,0,,I've been through hell and back! \NI'm gonna murder your ass!
+Dialogue: 0,0:24:47.59,0:24:52.10,Default,Demon King,0,0,0,,Congratulations on making \Nit this far, great hero!
+Dialogue: 0,0:24:57.43,0:24:59.69,Default,Demon King,0,0,0,,But I am the Demon—
+Dialogue: 0,0:25:00.69,0:25:05.19,Default,Sunraku,0,0,0,,Lag isn't a game issue, \Nit's a user connection issue!
+Dialogue: 0,0:25:06.99,0:25:08.95,Default,Sunraku,0,0,0,,And that's when I woke up.
+Dialogue: 0,0:25:09.32,0:25:12.45,Default,Sunraku,0,0,0,,Nothing like remembering how reality works\Nto wake you up from a dream, right?
+Dialogue: 0,0:25:13.41,0:25:16.54,Default,Oikatzo,0,0,0,,I don't even know what to say to all of that.

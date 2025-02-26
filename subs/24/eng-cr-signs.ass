@@ -1,0 +1,53 @@
+﻿[Script Info]
+Title: English (US)
+ScaledBorderAndShadow: yes
+Original Script: kodansha  [http://www.crunchyroll.com/user/kodansha]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+LayoutResX: 1920
+LayoutResY: 1080
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+Style: Sign_Basic,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,6,3,2,30,30,54,1
+Style: Ep_Title,Arial,60,&H00FFFFFF,&H000000FF,&H00000000,&H00BE9829,-1,0,0,0,100,100,0,0,1,0,6,1,132,30,12,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:02:23.33,0:02:28.25,Ep_Title,sign,0,0,0,,{\fad(1075,0)}Rare Items, Worth More Than Life Itself
+Dialogue: 0,0:02:33.09,0:02:33.30,Sign_Basic,sign,0,0,0,,{\pos(405.556,816)\org(426,816)\fscx86.611\fscy82.298\frz-10.512\fry14.597\frx14.348\fax0.328\xbord5.2\ybord4.94\xshad0\yshad0\c&HDFDA7C&\3c&H5A2F27&\fad(75,0)}Moon Jumper
+Dialogue: 0,0:03:21.72,0:03:25.73,Sign_Basic,sign,0,0,0,,{\fad(0,300)\an8\b1\3c&HB7B137&\shad0\bord9\pos(960,360)}Crystal Nest Cliff
+Dialogue: 0,0:03:54.63,0:03:57.09,Sign_Basic,sign,0,0,0,,{\c&H601DE9&\b1\3c&H40373C&\shad0\fs54\pos(1566,300)}Crystal Scorpion
+Dialogue: 0,0:04:58.44,0:05:02.57,Sign_Basic,sign,0,0,0,,{\pos(960,855)\shad0\b1\c&HE3E088&\3a&HA0&}Crystal Scorpions
+Dialogue: 0,0:05:50.33,0:05:53.54,Sign_Basic,sign,0,0,0,,{\pos(1334.135,336)\org(1339.998,336)\fscx91.927\fscy93.499\frz-17.951\fry-10.893\frx-5.383\fax0.152\fs42\b1\xbord5.52\ybord5.61\xshad0\yshad0\c&H8DE250&\3c&HA5B0CD&\fad(0,425)}Respawn\N{\c&HEFFAB8&\3c&H7F811E&}Rabituza
+Dialogue: 0,0:08:12.26,0:08:13.47,Sign_Basic,sign,0,0,0,,{\fad(275,0)\c&HDFDA7C&\3c&H5A2F27&\b1\an7\pos(90,60)}Overheat\N Climax Boost\N Nitro Gain
+Dialogue: 0,0:09:02.52,0:09:20.54,Sign_Basic,sign,0,0,0,,{\fad(275,0)\c&HDFDA7C&\3c&H301D19&\b1\an7\pos(90,60)\fs54\shad0}Aroncaleth Hard Lapis\N{\c&H858583&\fs36}Produced via repeated compression and\Nrefinement through ingestion by\Ngeophagic monsters, refinement through ingestion \Nby geophagic monsters, its beautiful blue color \Nrecalls the land itself.
+Dialogue: 0,0:10:26.77,0:10:33.65,Sign_Basic,sign,0,0,0,,{\an7\c&HBAFF53&\3c&H75E42C&\b1\shad0\bord12}I want materials
+Dialogue: 0,0:12:04.37,0:12:05.04,Sign_Basic,sign,0,0,0,,{\pos(1053.854,284.001)\org(1052.001,284.001)\fscx97.569\fscy99.308\frz4.957\fry4.751\frx-2.061\fax-0.026\fnArial\b1\xbord0\ybord0\xshad0\yshad0\c&HF7FFA3&\fad(125,0)}Six-Boat Leap
+Dialogue: 0,0:12:31.27,0:12:34.73,Sign_Basic,sign,0,0,0,,{\pos(960,774)\c&HF4EF86&\3c&HB55627&\shad0\bord4.5\be3\b1}Enter Travel
+Dialogue: 0,0:12:44.45,0:12:45.33,Sign_Basic,sign,0,0,0,,{\pos(897,384)\org(897,384)\fscx97.904\fscy98.595\frz9.716\fry-4.751\frx2.755\fax-0.035\fs36\b1\xbord5.87\ybord5.92\xshad0\yshad0\c&H7E883B&\3c&HE9F193&}{missing}
+Dialogue: 0,0:12:44.45,0:12:45.33,Sign_Basic,sign,0,0,0,,{\pos(892.178,732)\org(891.999,732)\fscx98.662\fscy99.988\frz5.331\fry-3.364\frx0\fax-0.003\b1\xbord5.92\ybord6\xshad0\yshad0\c&HFDF3F2&\3c&HE988B1&}{Missing} {Z: I couldn't find this in the masref}
+Dialogue: 0,0:12:51.17,0:12:53.42,Default,sign,0,0,0,,{\pos(960,855)\c&HF4EF86&\3c&HB55627&\shad0\bord4.5\be3\b1}Inventoria
+Dialogue: 0,0:13:23.49,0:13:26.70,Sign_Basic,sign,0,0,0,,{\pos(960,855)\c&HF4EF86&\3c&HB55627&\shad0\bord4.5\be3\b1}Exit Travel
+Dialogue: 0,0:13:34.71,0:13:35.96,Sign_Basic,sign,0,0,0,,{\an7\fnArial\b1\c&H892150&\3c&HE04FE4&\shad0}Dropped Item\N{\c&HF7FFA3&\3c&H392012&}Crystal Leg
+Dialogue: 0,0:13:35.96,0:13:37.21,Sign_Basic,sign,0,0,0,,{\an7\fnArial\b1\c&H892150&\3c&HE04FE4&\shad0}Dropped Item\N{\c&HF7FFA3&\3c&H392012&}Crystal Scorpion's Carapace
+Dialogue: 0,0:13:37.21,0:13:38.46,Sign_Basic,sign,0,0,0,,{\an7\fnArial\b1\c&H892150&\3c&HE04FE4&\shad0}Dropped Item\N{\c&HF7FFA3&\3c&H392012&}Crystal Pincer
+Dialogue: 0,0:13:38.46,0:13:39.72,Sign_Basic,sign,0,0,0,,{\an7\fnArial\b1\c&H892150&\3c&HE04FE4&\shad0}Dropped Item\N{\c&HF7FFA3&\3c&H392012&}Crystal Talon
+Dialogue: 0,0:14:46.53,0:14:51.04,Sign_Basic,,0,0,0,,{\c&HF7E4E5&\3c&HFFFFFD&\bord12\an7\shad0\b1}Inventoria Key
+Dialogue: 0,0:14:53.54,0:14:56.04,Sign_Basic,sign,0,0,0,,{\c&HF4F3A6&\3c&H302015&\bord12\shad0\pos(960,831.999)}Inventoria Key
+Dialogue: 0,0:15:27.74,0:15:28.99,Sign_Basic,sign,0,0,0,,{\an7\fnArial\b1\c&H892150&\3c&HE04FE4&\shad0}Dropped Item\N{\c&HF7FFA3&\3c&H392012&}Crystal Leg
+Dialogue: 0,0:15:28.99,0:15:30.24,Sign_Basic,sign,0,0,0,,{\an7\fnArial\b1\c&H892150&\3c&HE04FE4&\shad0}Dropped Item\N{\c&HF7FFA3&\3c&H392012&}Crystal Scorpion's Carapace
+Dialogue: 0,0:15:30.24,0:15:31.49,Sign_Basic,sign,0,0,0,,{\an7\fnArial\b1\c&H892150&\3c&HE04FE4&\shad0}Dropped Item\N{\c&HF7FFA3&\3c&H392012&}Crystal Pincer
+Dialogue: 0,0:15:31.49,0:15:32.74,Sign_Basic,sign,0,0,0,,{\an7\fnArial\b1\c&H892150&\3c&HE04FE4&\shad0}Dropped Item\N{\c&HF7FFA3&\3c&H392012&}Crystal Talon
+Dialogue: 0,0:15:41.50,0:15:48.51,Sign_Basic,sign,0,0,0,,{\pos(650.001,206.001)\fnImpact\fs48\shad0\c&HA89C3C&\3c&HFDFCF2&}Sunraku
+Dialogue: 0,0:15:55.02,0:16:01.02,Sign_Basic,sign,0,0,0,,{\an7\fs42\b1\c&HFFFFC1&\3c&H36261B&\shad0}Crystal Leg\N Crystal Talon\N Crystal Pincer\N Crystal Scorpion's Carapace\N Aroncaleth Hard Lapis\NLapisteria Stellar Crystal\N Amurcidian Quartz\N Crystalline Sand\N Lowenanva Amber Crystal
+Dialogue: 0,0:17:31.74,0:17:32.45,Sign_Basic,sign,0,0,0,,{\fad(275,0)\an7\fs54\b1\c&HFFFFC1&\3c&H36261B&\shad0}Overheat\N Climax Boost\N Nitro Gain
+Dialogue: 0,0:18:54.45,0:18:56.11,Sign_Basic,sign,0,0,0,,{\fad(275,0)\an7\fs54\b1\c&HFFFFC1&\3c&H36261B&\shad0}Overheat\N Climax Boost\N Nitro Gain
+Dialogue: 0,0:18:56.11,0:18:57.57,Sign_Basic,sign,0,0,0,,{\an7\fs54\b1\c&HFFFFC1&\3c&H36261B&\shad0}Overheat\N Climax Boost\N Nitro Gain
+Dialogue: 0,0:18:57.87,0:19:00.37,Sign_Basic,sign,0,0,0,,{\fad(125,250)\an8\fnImpact\fs72\c&HF8CA3C&\3c&H000000&\bord12\shad0\pos(960,60)}Glowing Pierce
+Dialogue: 0,0:18:57.87,0:19:00.37,Sign_Basic,sign,0,0,0,,{\fad(125,250)\an8\fnImpact\fs72\c&HF8CA3C&\3c&HFFFFFF&\bord6\shad0\pos(960,60)}Glowing Pierce
+Dialogue: 0,0:20:35.96,0:20:44.35,Sign_Basic,sign,0,0,0,,{\move(981,156,981,507,24,3485)\an8\b1\fnArial\shad0\bord12\frz9.5}Random Number\NGenerator
