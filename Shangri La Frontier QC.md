@@ -98,7 +98,17 @@
 ## EP16
 
 ## EP17
-- [x] 14:12 - ~~`head-parry-slash` isn't quite right. Implies `head` and `parry` are seperate like the `slash`, where as Head-parry is the move.~~ [Fixed]()
-- [x] 19:12 - ~~`Recast time` to `cooldown` in dialogue~~ [Fixed]()
-  - [x] - ~~Signs too.~~[Fixed]()
-- [x] 26:00 - ~~Potentially change `ten-after` and `twenty-after` to `ten past` and `twenty past` respectively.~~[Fixed]()
+
+- [x] 14:12 - ~~`head-parry-slash` isn't quite right. Implies `head` and `parry` are seperate like the `slash`, where as Head-parry is the move.~~ [Fixed](https://github.com/Vodes/SLF/commit/4bbccfe05cb977df9c320276003f986c3ef103fa)
+- [x] 19:12 - ~~`Recast time` to `cooldown` in dialogue~~ [Fixed](https://github.com/Vodes/SLF/commit/4bbccfe05cb977df9c320276003f986c3ef103fa)
+  - [x] - ~~Signs too.~~[Fixed](https://github.com/Vodes/SLF/commit/4bbccfe05cb977df9c320276003f986c3ef103fa)
+- [x] 26:00 - ~~Potentially change `ten-after` and `twenty-after` to `ten past` and `twenty past` respectively.~~[Fixed](https://github.com/Vodes/SLF/commit/4bbccfe05cb977df9c320276003f986c3ef103fa)
+
+## EP18
+
+- [x] 02:24 - ~~`surefire` is one word, no hyphen~~[Fixed]()
+- [x] 02:53 - ~~move comma outside of quote `"Sky clear", he called it`, I know it's BrE/AmE thing, shuddup~~[Fixed]()
+- [x] 09:07 - ~~`surefire` is one word, no hyphen~~[Fixed]()
+- [x] 13:09 - ~~`surefire` is one word, no hyphen~~[Fixed]()
+- [x] 17:21 - ~~`recast time is` to `cooldowns are` in dialogue~~ [Fixed]()
+- [x] 18:04 - ~~`my recast time` to `cooldowns` in dialogue~~ [Fixed]()
