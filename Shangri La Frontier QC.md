@@ -98,3 +98,7 @@
 ## EP16
 
 ## EP17
+- [x] 14:12 - ~~`head-parry-slash` isn't quite right. Implies `head` and `parry` are seperate like the `slash`, where as Head-parry is the move.~~ [Fixed]()
+- [x] 19:12 - ~~`Recast time` to `cooldown` in dialogue~~ [Fixed]()
+  - [x] - ~~Signs too.~~[Fixed]()
+- [x] 26:00 - ~~Potentially change `ten-after` and `twenty-after` to `ten past` and `twenty past` respectively.~~[Fixed]()
