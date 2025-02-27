@@ -92,5 +92,9 @@
 
 ## EP15
 
-- [x] 02:58 - ~~CR Italics Tag `Shangri-La Frontier` fuck up~~ [Fixed]()
-- [x] ~~18:47 - Sign needs to be on screen a smidge longer~~ [Fixed]()
+- [x] 02:58 - ~~CR Italics Tag `Shangri-La Frontier` fuck up~~ [Fixed](https://github.com/Vodes/SLF/commit/72147dc1586224ec9d90edf223656f548bc97b03)
+- [x] ~~18:47 - Sign needs to be on screen a smidge longer~~ [Fixed](https://github.com/Vodes/SLF/commit/72147dc1586224ec9d90edf223656f548bc97b03)
+
+## EP16
+
+## EP17
