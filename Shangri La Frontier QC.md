@@ -106,9 +106,14 @@
 
 ## EP18
 
-- [x] 02:24 - ~~`surefire` is one word, no hyphen~~[Fixed]()
-- [x] 02:53 - ~~move comma outside of quote `"Sky clear", he called it`, I know it's BrE/AmE thing, shuddup~~[Fixed]()
-- [x] 09:07 - ~~`surefire` is one word, no hyphen~~[Fixed]()
-- [x] 13:09 - ~~`surefire` is one word, no hyphen~~[Fixed]()
-- [x] 17:21 - ~~`recast time is` to `cooldowns are` in dialogue~~ [Fixed]()
-- [x] 18:04 - ~~`my recast time` to `cooldowns` in dialogue~~ [Fixed]()
+- [x] 02:24 - ~~`surefire` is one word, no hyphen~~[Fixed](https://github.com/Vodes/SLF/commit/70da0626017ce5e5e94a98b38492008e6de22f52)
+- [x] 02:53 - ~~move comma outside of quote `"Sky clear", he called it`, I know it's BrE/AmE thing, shuddup~~[Fixed](https://github.com/Vodes/SLF/commit/70da0626017ce5e5e94a98b38492008e6de22f52)
+- [x] 09:07 - ~~`surefire` is one word, no hyphen~~[Fixed](https://github.com/Vodes/SLF/commit/70da0626017ce5e5e94a98b38492008e6de22f52)
+- [x] 13:09 - ~~`surefire` is one word, no hyphen~~[Fixed](https://github.com/Vodes/SLF/commit/70da0626017ce5e5e94a98b38492008e6de22f52)
+- [x] 17:21 - ~~`recast time is` to `cooldowns are` in dialogue~~ [Fixed](https://github.com/Vodes/SLF/commit/70da0626017ce5e5e94a98b38492008e6de22f52)
+- [x] 18:04 - ~~`my recast time` to `cooldowns` in dialogue~~ [Fixed](https://github.com/Vodes/SLF/commit/70da0626017ce5e5e94a98b38492008e6de22f52)
+
+## EP19
+
+- [x] 19:51 - ~~`{\an8}` dialogue to avoid hiding TS.~~ [Fixed]()
+- [ ] 23:44 - ~~Remove unnecessary `{\an8}` tag for `SLF Theather` line.~~ [Fixed]()
