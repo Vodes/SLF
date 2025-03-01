@@ -93,9 +93,13 @@
 ## EP15
 
 - [x] 02:58 - ~~CR Italics Tag `Shangri-La Frontier` fuck up~~ [Fixed](https://github.com/Vodes/SLF/commit/72147dc1586224ec9d90edf223656f548bc97b03)
-- [x] ~~18:47 - Sign needs to be on screen a smidge longer~~ [Fixed](https://github.com/Vodes/SLF/commit/72147dc1586224ec9d90edf223656f548bc97b03)
+- [x] 18:47 - ~~Sign needs to be on screen a smidge longer~~ [Fixed](https://github.com/Vodes/SLF/commit/72147dc1586224ec9d90edf223656f548bc97b03)
+- [x] 23:48 - ~~Remove unnecessary `{\an8}` tag for `Mini` line.~~ [Fixed]()
+
 
 ## EP16
+
+- [x] 23:48 - ~~Remove unnecessary `{\an8}` tag for `Mini` line.~~ [Fixed]()
 
 ## EP17
 
@@ -103,6 +107,8 @@
 - [x] 19:12 - ~~`Recast time` to `cooldown` in dialogue~~ [Fixed](https://github.com/Vodes/SLF/commit/4bbccfe05cb977df9c320276003f986c3ef103fa)
   - [x] - ~~Signs too.~~[Fixed](https://github.com/Vodes/SLF/commit/4bbccfe05cb977df9c320276003f986c3ef103fa)
 - [x] 26:00 - ~~Potentially change `ten-after` and `twenty-after` to `ten past` and `twenty past` respectively.~~[Fixed](https://github.com/Vodes/SLF/commit/4bbccfe05cb977df9c320276003f986c3ef103fa)
+- [x] 23:48 - ~~Remove unnecessary `{\an8}` tag for `Mini` line.~~ [Fixed]()
+
 
 ## EP18
 
@@ -112,8 +118,15 @@
 - [x] 13:09 - ~~`surefire` is one word, no hyphen~~[Fixed](https://github.com/Vodes/SLF/commit/70da0626017ce5e5e94a98b38492008e6de22f52)
 - [x] 17:21 - ~~`recast time is` to `cooldowns are` in dialogue~~ [Fixed](https://github.com/Vodes/SLF/commit/70da0626017ce5e5e94a98b38492008e6de22f52)
 - [x] 18:04 - ~~`my recast time` to `cooldowns` in dialogue~~ [Fixed](https://github.com/Vodes/SLF/commit/70da0626017ce5e5e94a98b38492008e6de22f52)
+- [x] 23:48 - ~~Remove unnecessary `{\an8}` tag for `Mini` line.~~ [Fixed]()
 
 ## EP19
 
-- [x] 19:51 - ~~`{\an8}` dialogue to avoid hiding TS.~~ [Fixed]()
-- [ ] 23:44 - ~~Remove unnecessary `{\an8}` tag for `SLF Theather` line.~~ [Fixed]()
+- [x] 19:51 - ~~`{\an8}` dialogue to avoid hiding TS.~~ [Fixed](https://github.com/Vodes/SLF/commit/65636d4b56fc032c04aef1774de59d673bd013e6)
+- [x] 23:44 - ~~Remove unnecessary `{\an8}` tag for `SLF Theather` line.~~ [Fixed](https://github.com/Vodes/SLF/commit/65636d4b56fc032c04aef1774de59d673bd013e6)
+- [x] 23:48 - ~~Remove unnecessary `{\an8}` tag for `Mini` line.~~ [Fixed]()
+
+## EP20
+
+- [x] 09:08 - ~~Amachi's lines need some `-sh`'s to reflect pronunciation.~~ [Fixed]()
+- [x] 23:29 - ~~Remove unnecessary `{\an8}` tag for `SLF Theather`  and `Mini` line.~~ [Fixed]()

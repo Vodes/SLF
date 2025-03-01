@@ -18,9 +18,8 @@ Video File: ../../../Shangri-La Frontier - S01E17 (BD 1080p HEVC) [Vodes].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
-Scroll Position: 41
-Active Line: 42
-Video Position: 37556
+Active Line: 3
+Video Position: 34228
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -34,7 +33,7 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:23:42.98,0:23:50.24,Sign_Basic,sign,0,0,0,,{\an8\fnArial\b1\fs90\c&H7CEDEF&\shad0\bord0}S{\c&H639FF5&}L{\c&HE171BE&}F {\bord6\c&H4C4F52&\3c&HF0F5F5&}Mini
 Dialogue: 0,0:23:43.78,0:23:46.78,Default,Kids,0,0,0,,{\i1}SLF{\i0} Theater!
 Dialogue: 0,0:23:46.78,0:23:50.24,Sign_Basic,sign,0,0,0,,{\fad(475,0)\an1\i1\b1\c&HF1FBFD&\3c&H3D717E&\bord4.5\fscx90\pos(807.999,864)}The Day Starts Early for a Girl in Love
-Dialogue: 0,0:23:47.57,0:23:48.99,Default,Emul,0,0,0,,{\an8}Mini!
+Dialogue: 0,0:23:47.57,0:23:48.99,Default,Emul,0,0,0,,Mini!
 Dialogue: 0,0:23:51.49,0:23:53.87,Default,Narrator,0,0,0,,The day starts early for a girl in love.
 Dialogue: 0,0:23:55.00,0:23:56.75,Sign_Basic,sign,0,0,0,,{\pos(960,900)\fnTimes New Roman\c&H000000&\3c&HFFFFFF&\shad0\b1\bord3.75}Why are you up so early?
 Dialogue: 0,0:23:56.12,0:23:58.63,Default,Rei,0,0,0,,{\an8}W-Well, it's just... er...

@@ -13,8 +13,13 @@ LayoutResY: 1080
 YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
-Active Line: 1
-Video Position: 34262
+Audio File: ../../../Shangri-La Frontier - S01E19 (BD 1080p HEVC) [Vodes].mkv
+Video File: ../../../Shangri-La Frontier - S01E19 (BD 1080p HEVC) [Vodes].mkv
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.250000
+Active Line: 3
+Video Position: 34228
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -27,7 +32,7 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:23:42.98,0:23:50.24,Sign_Basic,sign,0,0,0,,{\an8\fnArial\b1\fs90\c&H7CEDEF&\shad0\bord0}S{\c&H639FF5&}L{\c&HE171BE&}F {\bord6\c&H4C4F52&\3c&HF0F5F5&}Mini
 Dialogue: 0,0:23:43.78,0:23:46.78,Default,Kids,0,0,0,,{\i1}SLF{\i0} Theater!
 Dialogue: 0,0:23:46.78,0:23:50.24,Sign_Basic,sign,0,0,0,,{\fad(475,0)\an1\i1\b1\c&HF1FBFD&\3c&H3D717E&\bord4.5\pos(522,870)}News: It's Morning, Indeed!
-Dialogue: 0,0:23:47.57,0:23:48.99,Default,Emul,0,0,0,,{\an8}{\an8}Mini!
+Dialogue: 0,0:23:47.57,0:23:48.99,Default,Emul,0,0,0,,Mini!
 Dialogue: 0,0:23:50.74,0:23:52.91,Default,Emul,0,0,0,,Well, good morning, all!
 Dialogue: 0,0:23:52.91,0:23:56.37,Default,Emul,0,0,0,,I'm the peerless vorpal \Nbunny of Rabituza, Emul!
 Dialogue: 0,0:23:56.62,0:24:00.50,Default,Emul,0,0,0,,I'm going to tell you about all \Nthe news I've seen and heard!
