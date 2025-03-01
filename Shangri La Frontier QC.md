@@ -17,7 +17,7 @@
 
 - [x] 06:09 - ~~Perfect Parry sign is not readable due to dialogue placement. Needs `{\an8}`. Signs track is fine~~ [Fixed](https://github.com/Vodes/SLF/commit/ccab0103fcda95569ba185ba448bf65277a10d8c)
 - [x] 16:40 - ~~CR Italics Tag `SLF` fuck up~~ [Fixed](https://github.com/Vodes/SLF/commit/cea925e9df557616801e55de36f7c2f9683d910b#diff-2a33fa3055e3d12730ee5bf3e9609cf6ea426dfb230aba16e1686f0da53f0c7c)
-- [x] 25:20 - ~~CR Italics Tag `SLF` fuck up~~ [Fixed]()
+- [x] 25:20 - ~~CR Italics Tag `SLF` fuck up~~ [Fixed](https://github.com/Vodes/SLF/commit/6a889c40645237904d25114e10a9aee84a7b29fc)
 
 ## EP4
 
@@ -94,12 +94,11 @@
 
 - [x] 02:58 - ~~CR Italics Tag `Shangri-La Frontier` fuck up~~ [Fixed](https://github.com/Vodes/SLF/commit/72147dc1586224ec9d90edf223656f548bc97b03)
 - [x] 18:47 - ~~Sign needs to be on screen a smidge longer~~ [Fixed](https://github.com/Vodes/SLF/commit/72147dc1586224ec9d90edf223656f548bc97b03)
-- [x] 23:48 - ~~Remove unnecessary `{\an8}` tag for `Mini` line.~~ [Fixed]()
-
+- [x] 23:48 - ~~Remove unnecessary `{\an8}` tag for `Mini` line.~~ [Fixed](https://github.com/Vodes/SLF/commit/b97e87bbb62d4a8c98b4cefb638cbf27b464086a)
 
 ## EP16
 
-- [x] 23:48 - ~~Remove unnecessary `{\an8}` tag for `Mini` line.~~ [Fixed]()
+- [x] 23:48 - ~~Remove unnecessary `{\an8}` tag for `Mini` line.~~ [Fixed](https://github.com/Vodes/SLF/commit/b97e87bbb62d4a8c98b4cefb638cbf27b464086a)
 
 ## EP17
 
@@ -107,7 +106,7 @@
 - [x] 19:12 - ~~`Recast time` to `cooldown` in dialogue~~ [Fixed](https://github.com/Vodes/SLF/commit/4bbccfe05cb977df9c320276003f986c3ef103fa)
   - [x] - ~~Signs too.~~[Fixed](https://github.com/Vodes/SLF/commit/4bbccfe05cb977df9c320276003f986c3ef103fa)
 - [x] 26:00 - ~~Potentially change `ten-after` and `twenty-after` to `ten past` and `twenty past` respectively.~~[Fixed](https://github.com/Vodes/SLF/commit/4bbccfe05cb977df9c320276003f986c3ef103fa)
-- [x] 23:48 - ~~Remove unnecessary `{\an8}` tag for `Mini` line.~~ [Fixed]()
+- [x] 23:48 - ~~Remove unnecessary `{\an8}` tag for `Mini` line.~~ [Fixed](https://github.com/Vodes/SLF/commit/b97e87bbb62d4a8c98b4cefb638cbf27b464086a)
 
 
 ## EP18
@@ -118,15 +117,15 @@
 - [x] 13:09 - ~~`surefire` is one word, no hyphen~~[Fixed](https://github.com/Vodes/SLF/commit/70da0626017ce5e5e94a98b38492008e6de22f52)
 - [x] 17:21 - ~~`recast time is` to `cooldowns are` in dialogue~~ [Fixed](https://github.com/Vodes/SLF/commit/70da0626017ce5e5e94a98b38492008e6de22f52)
 - [x] 18:04 - ~~`my recast time` to `cooldowns` in dialogue~~ [Fixed](https://github.com/Vodes/SLF/commit/70da0626017ce5e5e94a98b38492008e6de22f52)
-- [x] 23:48 - ~~Remove unnecessary `{\an8}` tag for `Mini` line.~~ [Fixed]()
+- [x] 23:48 - ~~Remove unnecessary `{\an8}` tag for `Mini` line.~~ [Fixed](https://github.com/Vodes/SLF/commit/b97e87bbb62d4a8c98b4cefb638cbf27b464086a)
 
 ## EP19
 
 - [x] 19:51 - ~~`{\an8}` dialogue to avoid hiding TS.~~ [Fixed](https://github.com/Vodes/SLF/commit/65636d4b56fc032c04aef1774de59d673bd013e6)
 - [x] 23:44 - ~~Remove unnecessary `{\an8}` tag for `SLF Theather` line.~~ [Fixed](https://github.com/Vodes/SLF/commit/65636d4b56fc032c04aef1774de59d673bd013e6)
-- [x] 23:48 - ~~Remove unnecessary `{\an8}` tag for `Mini` line.~~ [Fixed]()
+- [x] 23:48 - ~~Remove unnecessary `{\an8}` tag for `Mini` line.~~ [Fixed](https://github.com/Vodes/SLF/commit/b97e87bbb62d4a8c98b4cefb638cbf27b464086a)
 
 ## EP20
 
-- [x] 09:08 - ~~Amachi's lines need some `-sh`'s to reflect pronunciation.~~ [Fixed]()
-- [x] 23:29 - ~~Remove unnecessary `{\an8}` tag for `SLF Theather`  and `Mini` line.~~ [Fixed]()
+- [x] 09:08 - ~~Amachi's lines need some `-sh`'s to reflect pronunciation.~~ [Fixed](https://github.com/Vodes/SLF/commit/b97e87bbb62d4a8c98b4cefb638cbf27b464086a)
+- [x] 23:29 - ~~Remove unnecessary `{\an8}` tag for `SLF Theather`  and `Mini` line.~~ [Fixed](https://github.com/Vodes/SLF/commit/b97e87bbb62d4a8c98b4cefb638cbf27b464086a)
