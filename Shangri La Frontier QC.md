@@ -131,6 +131,13 @@
 
 ## EP21
 
+- [x] 00:21 - ~~CR Italics Tag `Shangri-La Frontier` fuck up~~ [Fixed](https://github.com/Vodes/SLF/commit/74243ced2fddb40bb67ed2753b8bf6710d58eb46)
+- [x] 00:32 - ~~CR Italics Tag `Shangri-La Frontier` fuck up~~ [Fixed](https://github.com/Vodes/SLF/commit/74243ced2fddb40bb67ed2753b8bf6710d58eb46)
+- [x] 21:56 - ~~Remove unnecessary `{\an8}` tag for `Mini` line.~~ [Fixed](https://github.com/Vodes/SLF/commit/74243ced2fddb40bb67ed2753b8bf6710d58eb46)
+
+## EP22
+
 - [x] 00:21 - ~~CR Italics Tag `Shangri-La Frontier` fuck up~~ [Fixed]()
 - [x] 00:32 - ~~CR Italics Tag `Shangri-La Frontier` fuck up~~ [Fixed]()
-- [x] 21:56 - ~~Remove unnecessary `{\an8}` tag for `Mini` line.~~ [Fixed]()
+- [x] 19:39 - ~~`{\an8}` dialogue to avoid overlapping TS~~ [Fixed]()
+- [x] 23:29 - ~~Remove unnecessary `{\an8}` tag for `SLF Theather`  and `Mini` line.~~ [Fixed]()
