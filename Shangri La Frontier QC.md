@@ -108,7 +108,6 @@
 - [x] 26:00 - ~~Potentially change `ten-after` and `twenty-after` to `ten past` and `twenty past` respectively.~~[Fixed](https://github.com/Vodes/SLF/commit/4bbccfe05cb977df9c320276003f986c3ef103fa)
 - [x] 23:48 - ~~Remove unnecessary `{\an8}` tag for `Mini` line.~~ [Fixed](https://github.com/Vodes/SLF/commit/b97e87bbb62d4a8c98b4cefb638cbf27b464086a)
 
-
 ## EP18
 
 - [x] 02:24 - ~~`surefire` is one word, no hyphen~~[Fixed](https://github.com/Vodes/SLF/commit/70da0626017ce5e5e94a98b38492008e6de22f52)
@@ -129,3 +128,9 @@
 
 - [x] 09:08 - ~~Amachi's lines need some `-sh`'s to reflect pronunciation.~~ [Fixed](https://github.com/Vodes/SLF/commit/b97e87bbb62d4a8c98b4cefb638cbf27b464086a)
 - [x] 23:29 - ~~Remove unnecessary `{\an8}` tag for `SLF Theather`  and `Mini` line.~~ [Fixed](https://github.com/Vodes/SLF/commit/b97e87bbb62d4a8c98b4cefb638cbf27b464086a)
+
+## EP21
+
+- [x] 00:21 - ~~CR Italics Tag `Shangri-La Frontier` fuck up~~ [Fixed]()
+- [x] 00:32 - ~~CR Italics Tag `Shangri-La Frontier` fuck up~~ [Fixed]()
+- [x] 21:56 - ~~Remove unnecessary `{\an8}` tag for `Mini` line.~~ [Fixed]()
