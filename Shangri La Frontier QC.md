@@ -148,8 +148,10 @@
 ## EP23
 
 - [x] 06:11 - ~~`\an8`  dialogue to not cover TS.~~ [Fixed](https://github.com/Vodes/SLF/commit/36f961f6fd163e39131cf6b784f83b64593cf101)
-- [ ] 16:28 - Inconsistent Skill TS `Glowing Pierce`
-- [ ] 17:03 - Inconsistent Skill TS `Fortress Breaker`
+- [x] 16:28 - ~~Inconsistent Skill TS `Glowing Pierce`~~
+  - [ ] Still needs slight adjustments as in moving towards the edge of the frame as it fades out
+- [x] 17:03 - ~~Inconsistent Skill TS `Fortress Breaker`~~
+  - [ ] Still needs slight adjustments as in moving towards the edge of the frame as it fades out
 - [x] 18:29 - ~~Stop pixel font TS overlapping the foregroud, moved above JP text to blend with background, `Canyon of Ancient Souls` and `Eighthold`~~ [Fixed](https://github.com/Vodes/SLF/commit/ed15e4d319acbcecfdf97ba26d0c2bd4aa776b4f)
 - [x] 20:29 - ~~Stop pixel font TS overlapping the foregroud, moved above JP text to blend with background, `Canyon of Ancient Souls` and `Eighthold`~~ [Fixed](https://github.com/Vodes/SLF/commit/ed15e4d319acbcecfdf97ba26d0c2bd4aa776b4f)
 - [x] 23:30 - ~~Remove unnecessary `{\an8}` tag for `SLF Theather`  and `Mini` line.~~ [Fixed](https://github.com/Vodes/SLF/commit/2aa17b11175c9c2b21738319ee097cca09e4fc9e)
@@ -176,5 +178,5 @@
 ## What's left to fix
 
 2 signs in the same scene need tracking in EP1
-2 skills need TS changed to match Sunraku in EP23
+2 skills need TS changed to match Sunraku in EP23, only needs the movement toward the edge as it fades.
 1 Missing sign which are 2 forum comments in EP9
