@@ -139,13 +139,15 @@
 
 - [x] 00:21 - ~~CR Italics Tag `Shangri-La Frontier` fuck up~~ [Fixed](https://github.com/Vodes/SLF/commit/a7625b658125d3b21c54ea687bf3415014bf9931)
 - [x] 00:32 - ~~CR Italics Tag `Shangri-La Frontier` fuck up~~ [Fixed](https://github.com/Vodes/SLF/commit/a7625b658125d3b21c54ea687bf3415014bf9931)
-- [x] 09:08 - ~~Stop pixel font TS overlapping the foregroud, moved above JP text to blend with background, `Prismatic Forest Grotto` and `Fourfolkshire`~~ [Fixed]()
-- [x] 10:52 - ~~Stop pixel font TS overlapping the foregroud, moved above JP text to blend with background, `Fourfolkshire` and `Canyon of Ancient Souls`~~ [Fixed]()
+- [x] 09:08 - ~~Stop pixel font TS overlapping the foregroud, moved above JP text to blend with background, `Prismatic Forest Grotto` and `Fourfolkshire`~~ [Fixed](https://github.com/Vodes/SLF/commit/ed15e4d319acbcecfdf97ba26d0c2bd4aa776b4f)
+- [x] 10:52 - ~~Stop pixel font TS overlapping the foregroud, moved above JP text to blend with background, `Fourfolkshire` and `Canyon of Ancient Souls`~~ [Fixed](https://github.com/Vodes/SLF/commit/ed15e4d319acbcecfdf97ba26d0c2bd4aa776b4f)
 - [x] 19:39 - ~~`{\an8}` dialogue to avoid overlapping TS~~ [Fixed](https://github.com/Vodes/SLF/commit/a7625b658125d3b21c54ea687bf3415014bf9931)
 - [x] 23:29 - ~~Remove unnecessary `{\an8}` tag for `SLF Theather`  and `Mini` line.~~ [Fixed](https://github.com/Vodes/SLF/commit/a7625b658125d3b21c54ea687bf3415014bf9931)
   
 ## EP23
 
 - [x] 06:11 - ~~`\an8`  dialogue to not cover TS.~~ [Fixed]()
-- [x] 18:29 - ~~Stop pixel font TS overlapping the foregroud, moved above JP text to blend with background, `Canyon of Ancient Souls` and `Eighthold`~~ [Fixed]()
-- [x] 20:29 - ~~Stop pixel font TS overlapping the foregroud, moved above JP text to blend with background, `Canyon of Ancient Souls` and `Eighthold`~~ [Fixed]()
+- [x] 18:29 - ~~Stop pixel font TS overlapping the foregroud, moved above JP text to blend with background, `Canyon of Ancient Souls` and `Eighthold`~~ [Fixed](https://github.com/Vodes/SLF/commit/ed15e4d319acbcecfdf97ba26d0c2bd4aa776b4f)
+- [x] 20:29 - ~~Stop pixel font TS overlapping the foregroud, moved above JP text to blend with background, `Canyon of Ancient Souls` and `Eighthold`~~ [Fixed](https://github.com/Vodes/SLF/commit/ed15e4d319acbcecfdf97ba26d0c2bd4aa776b4f)
+- [x] 23:30 - ~~Remove unnecessary `{\an8}` tag for `SLF Theather`  and `Mini` line.~~ [Fixed]()
+- [x] 23:30 - ~~Fix `SLF Theather` line on screen for too long.~~ [Fixed]()
