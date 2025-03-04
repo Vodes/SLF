@@ -29,7 +29,7 @@
 - [x] 00:32 - ~~CR Italics Tag `Shangri-La Frontier` fuck up~~ [Fixed](https://github.com/Vodes/SLF/commit/eba6155840d4fcfec84db00626b7daa6f09578f0)
 - [x] 02:41 - ~~CR Italics tag wrong way round, leaving `Shangri-La Frontier` without italics.~~ [Fixed](https://github.com/Vodes/SLF/commit/eba6155840d4fcfec84db00626b7daa6f09578f0)
 - [x] 10:44 - ~~TS and Line mismatch.~~ [Fixed](https://github.com/Vodes/SLF/commit/eba6155840d4fcfec84db00626b7daa6f09578f0)
-- [ ] 11:00 - Animation Error lol, sunraku is poisoned when he can't be. Sunraku TS'd the mistake. The sign also needs more blur regardless. 
+- [ ] 11:00 - Animation Error lol, sunraku is poisoned when he can't be. Sunraku TS'd the mistake. The sign also needs more blur regardless.
   - [x] ~~Comment out the sign.~~ [Fixed](https://github.com/Vodes/SLF/commit/988e21140345fb120cac5c0630a4b7023e109332)
   - [ ] Either softsub the sign out or do it via Vapoursynth. (~~Might be worth checking CR see if it's BD specifc compositing fuck-up like "The Witch and the Beast" JPBD.~~It was not)
 - [x] 13:31 - ~~CR Italics Tag `Shangri-La Frontier` fuck up~~ [Fixed](https://github.com/Vodes/SLF/commit/eded73d00d78537a518224348b227a312b77b69f)
@@ -116,6 +116,7 @@
 - [x] 13:09 - ~~`surefire` is one word, no hyphen~~[Fixed](https://github.com/Vodes/SLF/commit/70da0626017ce5e5e94a98b38492008e6de22f52)
 - [x] 17:21 - ~~`recast time is` to `cooldowns are` in dialogue~~ [Fixed](https://github.com/Vodes/SLF/commit/70da0626017ce5e5e94a98b38492008e6de22f52)
 - [x] 18:04 - ~~`my recast time` to `cooldowns` in dialogue~~ [Fixed](https://github.com/Vodes/SLF/commit/70da0626017ce5e5e94a98b38492008e6de22f52)
+- [x] 20:38 - ~~Inconsistent Skill TS~~ [Fixed](https://github.com/Vodes/SLF/commit/80b69a231115935f0fce2a8f796b0a62244e3eaa)
 - [x] 23:48 - ~~Remove unnecessary `{\an8}` tag for `Mini` line.~~ [Fixed](https://github.com/Vodes/SLF/commit/b97e87bbb62d4a8c98b4cefb638cbf27b464086a)
 
 ## EP19
@@ -146,8 +147,19 @@
   
 ## EP23
 
-- [x] 06:11 - ~~`\an8`  dialogue to not cover TS.~~ [Fixed]()
+- [x] 06:11 - ~~`\an8`  dialogue to not cover TS.~~ [Fixed](https://github.com/Vodes/SLF/commit/36f961f6fd163e39131cf6b784f83b64593cf101)
 - [x] 18:29 - ~~Stop pixel font TS overlapping the foregroud, moved above JP text to blend with background, `Canyon of Ancient Souls` and `Eighthold`~~ [Fixed](https://github.com/Vodes/SLF/commit/ed15e4d319acbcecfdf97ba26d0c2bd4aa776b4f)
 - [x] 20:29 - ~~Stop pixel font TS overlapping the foregroud, moved above JP text to blend with background, `Canyon of Ancient Souls` and `Eighthold`~~ [Fixed](https://github.com/Vodes/SLF/commit/ed15e4d319acbcecfdf97ba26d0c2bd4aa776b4f)
-- [x] 23:30 - ~~Remove unnecessary `{\an8}` tag for `SLF Theather`  and `Mini` line.~~ [Fixed]()
-- [x] 23:30 - ~~Fix `SLF Theather` line on screen for too long.~~ [Fixed]()
+- [x] 23:30 - ~~Remove unnecessary `{\an8}` tag for `SLF Theather`  and `Mini` line.~~ [Fixed](https://github.com/Vodes/SLF/commit/2aa17b11175c9c2b21738319ee097cca09e4fc9e)
+- [x] 23:30 - ~~Fix `SLF Theather` line on screen for too long.~~ [Fixed](https://github.com/Vodes/SLF/commit/2aa17b11175c9c2b21738319ee097cca09e4fc9e)
+
+## EP24
+
+- [x] 00:21 - ~~CR Italics Tag `Shangri-La Frontier` fuck up~~ [Fixed]()
+- [x] 00:32 - ~~CR Italics Tag `Shangri-La Frontier` fuck up~~ [Fixed]()
+- [x] 03:25 - ~~Inconsistent Location TS~~ [Fixed](https://github.com/Vodes/SLF/commit/81e91444733aa980e8984ebc4bcb283cf7d2d5c6)
+  - [x] ~~Fix colour~~ [Fixed](https://github.com/Vodes/SLF/commit/3bb84dc62489864ee9c9b7d5211c72a434463ad2)
+- [x] 09:18 - ~~Typo and missing text on flavour text of `Aroncaleth Hard Lapis`~~ [Fixed](https://github.com/Vodes/SLF/commit/0716fcf73c9acc1b279f266f8285fb149abd2ee4)
+- [x] 12.32 - ~~`\an8`  dialogue to not cover TS.~~ [Fixed]()
+- [x] 18:58 - ~~Inconsistent Skill TS~~ [Fixed](https://github.com/Vodes/SLF/commit/80b69a231115935f0fce2a8f796b0a62244e3eaa)
+- [x] 23:26 - ~~Remove unnecessary `{\an8}` tag for `SLF Theather`  and `Mini` line.~~ [Fixed]()
