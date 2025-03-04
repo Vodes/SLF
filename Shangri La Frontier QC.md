@@ -15,7 +15,7 @@
 
 ## EP3
 
-- [x] 06:09 - ~~Perfect Parry sign is not readable due to dialogue placement. Needs `{\an8}`. Signs track is fine~~ [Fixed](https://github.com/Vodes/SLF/commit/ccab0103fcda95569ba185ba448bf65277a10d8c)
+- [x] 06:09 - ~~`{\an8}` dialogue to avoid hiding TS.~~ [Fixed](https://github.com/Vodes/SLF/commit/ccab0103fcda95569ba185ba448bf65277a10d8c)
 - [x] 16:40 - ~~CR Italics Tag `SLF` fuck up~~ [Fixed](https://github.com/Vodes/SLF/commit/cea925e9df557616801e55de36f7c2f9683d910b#diff-2a33fa3055e3d12730ee5bf3e9609cf6ea426dfb230aba16e1686f0da53f0c7c)
 - [x] 25:20 - ~~CR Italics Tag `SLF` fuck up~~ [Fixed](https://github.com/Vodes/SLF/commit/6a889c40645237904d25114e10a9aee84a7b29fc)
 
@@ -157,18 +157,24 @@
 
 ## EP24
 
-- [x] 00:21 - ~~CR Italics Tag `Shangri-La Frontier` fuck up~~ [Fixed]()
-- [x] 00:32 - ~~CR Italics Tag `Shangri-La Frontier` fuck up~~ [Fixed]()
+- [x] 00:21 - ~~CR Italics Tag `Shangri-La Frontier` fuck up~~ [Fixed](https://github.com/Vodes/SLF/commit/617cfd56694aeb1742266ae524c3e0ccd9cc51ee)
+- [x] 00:32 - ~~CR Italics Tag `Shangri-La Frontier` fuck up~~ [Fixed](https://github.com/Vodes/SLF/commit/617cfd56694aeb1742266ae524c3e0ccd9cc51ee)
 - [x] 03:25 - ~~Inconsistent Location TS~~ [Fixed](https://github.com/Vodes/SLF/commit/81e91444733aa980e8984ebc4bcb283cf7d2d5c6)
   - [x] ~~Fix colour~~ [Fixed](https://github.com/Vodes/SLF/commit/3bb84dc62489864ee9c9b7d5211c72a434463ad2)
 - [x] 09:18 - ~~Typo and missing text on flavour text of `Aroncaleth Hard Lapis`~~ [Fixed](https://github.com/Vodes/SLF/commit/0716fcf73c9acc1b279f266f8285fb149abd2ee4)
 - [x] 12.32 - ~~`\an8`  dialogue to not cover TS.~~ [Fixed]()
 - [x] 18:58 - ~~Inconsistent Skill TS~~ [Fixed](https://github.com/Vodes/SLF/commit/80b69a231115935f0fce2a8f796b0a62244e3eaa)
-- [x] 23:26 - ~~Remove unnecessary `{\an8}` tag for `SLF Theather`  and `Mini` line.~~ [Fixed]()
+- [x] 23:26 - ~~Remove unnecessary `{\an8}` tag for `SLF Theather`  and `Mini` line.~~ [Fixed](https://github.com/Vodes/SLF/commit/617cfd56694aeb1742266ae524c3e0ccd9cc51ee)
 
 ## EP25
 
-- [x] 22:03 - ~~CR Italics Tag `Shangri-La Frontier` fuck up~~ [Fixed]()
-- [x] 23:04 - ~~CR Italics Tag `SLF` fuck up~~ [Fixed]()
-- [x] 23:26 - ~~Remove unnecessary `{\an8}` tag for `SLF Theather`  and `Mini` line.~~ [Fixed]()
-- [x] 23:32 - ~~Mistimed title for the mini `Gems, Ore,\Nand Heads of Equal Hardness`~~ [Fixed]()
+- [x] 22:03 - ~~CR Italics Tag `Shangri-La Frontier` fuck up~~ [Fixed](https://github.com/Vodes/SLF/commit/29739bb33923c8c840a7468db86d6aebc82ce825)
+- [x] 23:04 - ~~CR Italics Tag `SLF` fuck up~~ [Fixed](https://github.com/Vodes/SLF/commit/29739bb33923c8c840a7468db86d6aebc82ce825)
+- [x] 23:26 - ~~Remove unnecessary `{\an8}` tag for `SLF Theather`  and `Mini` line.~~ [Fixed](https://github.com/Vodes/SLF/commit/29739bb33923c8c840a7468db86d6aebc82ce825)
+- [x] 23:32 - ~~Mistimed title for the mini `Gems, Ore,\Nand Heads of Equal Hardness`~~ [Fixed](https://github.com/Vodes/SLF/commit/29739bb33923c8c840a7468db86d6aebc82ce825)
+
+## What's left to fix
+
+2 signs in the same scene need tracking in EP1
+2 skills need TS changed to match Sunraku in EP23
+1 Missing sign which are 2 forum comments in EP9
