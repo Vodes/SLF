@@ -16,10 +16,10 @@ Audio File: ../../../Shangri-La Frontier - S01E24 (BD 1080p HEVC) [Vodes].mkv
 Video File: ../../../Shangri-La Frontier - S01E24 (BD 1080p HEVC) [Vodes].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Scroll Position: 3612
-Active Line: 3619
-Video Position: 13317
+Video Zoom Percent: 0.625000
+Scroll Position: 8319
+Active Line: 8332
+Video Position: 1016
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -8309,8 +8309,60 @@ Dialogue: 0,0:03:21.73,0:03:25.52,Jelzés,,0,0,0,,{\an5\fnChampagne & Limousines
 Dialogue: 0,0:03:21.73,0:03:25.52,Jelzés,,0,0,0,,{\an5\fnChampagne & Limousines\b1\fs60\blur0.6\pos(971.43,674.07)}Crystal Nest Cliff
 Dialogue: 0,0:10:26.77,0:10:33.65,Sign_Basic,sign,0,0,0,,{\an7\c&HBAFF53&\3c&H75E42C&\b1\shad0\bord12}I want materials
 Dialogue: 0,0:14:46.53,0:14:51.04,Sign_Basic,,0,0,0,,{\c&HF7E4E5&\3c&HFFFFFD&\bord12\an7\shad0\b1}Inventoria Key
-Dialogue: 0,0:18:57.87,0:19:00.37,Sign_Basic,sign,0,0,0,,{\fad(125,250)\an8\fnImpact\fs72\c&HF8CA3C&\3c&H000000&\bord12\shad0\pos(960,60)}Glowing Pierce
-Dialogue: 0,0:18:57.87,0:19:00.37,Sign_Basic,sign,0,0,0,,{\fad(125,250)\an8\fnImpact\fs72\c&HF8CA3C&\3c&HFFFFFF&\bord6\shad0\pos(960,60)}Glowing Pierce
+Dialogue: 0,0:18:57.99,0:18:58.03,Jelzés,,0,0,0,,{\fscy100\frz0\fscx100\alpha&H00&\fs108\bord19.2\fnBerlin Sans FB HUN Demi\blur0.6\an1\i1\pos(1474,884)\c&H1B1C19&\3c&H1B1C19&}Glowing
+Dialogue: 0,0:18:57.99,0:18:58.03,Jelzés,,0,0,0,,{\fscy100\frz0\fscx100\alpha&H00&\fs108\bord9.6\fnBerlin Sans FB HUN Demi\blur0.6\an1\i1\pos(1474,884)\c&HFEFFFF&\3c&HFEFFFF&}Glowing
+Dialogue: 0,0:18:57.99,0:18:58.03,Jelzés,,0,0,0,,{\fscy100\frz0\fscx100\alpha&H00&\fs108\fnBerlin Sans FB HUN Demi\blur0.6\an1\i1\pos(1474,884)\c&HFFB528&}Glowing
+Dialogue: 0,0:18:57.99,0:18:58.03,Jelzés,,0,0,0,,{\fscy100\frz0\fscx100\alpha&H00&\fs108\bord19.2\fnBerlin Sans FB HUN Demi\blur0.6\an1\i1\pos(1432,992)\c&H1B1C19&\3c&H1B1C19&}Pierce
+Dialogue: 0,0:18:57.99,0:18:58.03,Jelzés,,0,0,0,,{\fscy100\frz0\fscx100\alpha&H00&\fs108\bord9.6\fnBerlin Sans FB HUN Demi\blur0.6\an1\i1\pos(1432,992)\c&HFEFFFF&\3c&HFEFFFF&}Pierce
+Dialogue: 0,0:18:57.99,0:18:58.03,Jelzés,,0,0,0,,{\fscy100\frz0\fscx100\alpha&H00&\fs108\fnBerlin Sans FB HUN Demi\blur0.6\an1\i1\pos(1432,992)\c&HFFB528&}Pierce
+Dialogue: 0,0:18:58.03,0:18:58.07,Jelzés,,0,0,0,,{\fscy100\frz0\fscx100\alpha&H00&\fs108\bord19.2\fnBerlin Sans FB HUN Demi\blur0.6\an1\i1\pos(1489.35,843.54)\c&H1B1C19&\3c&H1B1C19&}Glowing
+Dialogue: 0,0:18:58.03,0:18:58.07,Jelzés,,0,0,0,,{\fscy100\frz0\fscx100\alpha&H00&\fs108\bord9.6\fnBerlin Sans FB HUN Demi\blur0.6\an1\i1\pos(1489.35,843.54)\c&HFEFFFF&\3c&HFEFFFF&}Glowing
+Dialogue: 0,0:18:58.03,0:18:58.07,Jelzés,,0,0,0,,{\fscy100\frz0\fscx100\alpha&H00&\fs108\fnBerlin Sans FB HUN Demi\blur0.6\an1\i1\pos(1489.35,843.54)\c&HFFB528&}Glowing
+Dialogue: 0,0:18:58.03,0:18:58.07,Jelzés,,0,0,0,,{\fscy100\frz0\fscx100\alpha&H00&\fs108\bord19.2\fnBerlin Sans FB HUN Demi\blur0.6\an1\i1\pos(1447.35,951.54)\c&H1B1C19&\3c&H1B1C19&}Pierce
+Dialogue: 0,0:18:58.03,0:18:58.07,Jelzés,,0,0,0,,{\fscy100\frz0\fscx100\alpha&H00&\fs108\bord9.6\fnBerlin Sans FB HUN Demi\blur0.6\an1\i1\pos(1447.35,951.54)\c&HFEFFFF&\3c&HFEFFFF&}Pierce
+Dialogue: 0,0:18:58.03,0:18:58.07,Jelzés,,0,0,0,,{\fscy100\frz0\fscx100\alpha&H00&\fs108\fnBerlin Sans FB HUN Demi\blur0.6\an1\i1\pos(1447.35,951.54)\c&HFFB528&}Pierce
+Dialogue: 0,0:18:58.07,0:18:58.11,Jelzés,,0,0,0,,{\fscy100\frz0\fscx100\alpha&H00&\fs108\bord19.2\fnBerlin Sans FB HUN Demi\blur0.6\an1\i1\pos(1480,932.84)\c&H4F3E21&\3c&H4F3E21&}Glowing
+Dialogue: 0,0:18:58.07,0:18:58.11,Jelzés,,0,0,0,,{\fscy100\frz0\fscx100\alpha&H00&\fs108\bord9.6\fnBerlin Sans FB HUN Demi\blur1.6\an1\i1\pos(1480,932.84)\c&HFFFF90&\3c&HFFFF90&}Glowing
+Dialogue: 0,0:18:58.07,0:18:58.11,Jelzés,,0,0,0,,{\fscy100\frz0\fscx100\alpha&H00&\fs108\fnBerlin Sans FB HUN Demi\blur0.6\an1\i1\pos(1480,932.84)\c&HFFFFFF&}Glowing
+Dialogue: 0,0:18:58.07,0:18:58.11,Jelzés,,0,0,0,,{\fscy100\frz0\fscx100\alpha&H00&\fs108\bord19.2\fnBerlin Sans FB HUN Demi\blur0.6\an1\i1\pos(1438,1040.84)\c&H4F3E21&\3c&H4F3E21&}Pierce
+Dialogue: 0,0:18:58.07,0:18:58.11,Jelzés,,0,0,0,,{\fscy100\frz0\fscx100\alpha&H00&\fs108\bord9.6\fnBerlin Sans FB HUN Demi\blur1.6\an1\i1\pos(1438,1040.84)\c&HFFFF90&\3c&HFFFF90&}Pierce
+Dialogue: 0,0:18:58.07,0:18:58.11,Jelzés,,0,0,0,,{\fscy100\frz0\fscx100\alpha&H00&\fs108\fnBerlin Sans FB HUN Demi\blur0.6\an1\i1\pos(1438,1040.84)\c&HFFFFFF&}Pierce
+Dialogue: 0,0:18:58.11,0:18:58.15,Jelzés,,0,0,0,,{\fscy100\frz0\fscx100\alpha&H00&\fs108\bord19.2\fnBerlin Sans FB HUN Demi\blur0.6\an1\i1\pos(1479.81,868.35)\c&H4F3E21&\3c&H4F3E21&}Glowing
+Dialogue: 0,0:18:58.11,0:18:58.15,Jelzés,,0,0,0,,{\fscy100\frz0\fscx100\alpha&H00&\fs108\bord9.6\fnBerlin Sans FB HUN Demi\blur1\an1\i1\pos(1479.81,868.35)\c&HFFFF90&\3c&HFFFF90&}Glowing
+Dialogue: 0,0:18:58.11,0:18:58.15,Jelzés,,0,0,0,,{\fscy100\frz0\fscx100\alpha&H00&\fs108\fnBerlin Sans FB HUN Demi\blur0.6\an1\i1\pos(1479.81,868.35)\c&HFFFFFF&}Glowing
+Dialogue: 0,0:18:58.11,0:18:58.15,Jelzés,,0,0,0,,{\fscy100\frz0\fscx100\alpha&H00&\fs108\bord19.2\fnBerlin Sans FB HUN Demi\blur0.6\an1\i1\pos(1437.81,976.35)\c&H4F3E21&\3c&H4F3E21&}Pierce
+Dialogue: 0,0:18:58.11,0:18:58.15,Jelzés,,0,0,0,,{\fscy100\frz0\fscx100\alpha&H00&\fs108\bord9.6\fnBerlin Sans FB HUN Demi\blur1\an1\i1\pos(1437.81,976.35)\c&HFFFF90&\3c&HFFFF90&}Pierce
+Dialogue: 0,0:18:58.11,0:18:58.15,Jelzés,,0,0,0,,{\fscy100\frz0\fscx100\alpha&H00&\fs108\fnBerlin Sans FB HUN Demi\blur0.6\an1\i1\pos(1437.81,976.35)\c&HFFFFFF&}Pierce
+Dialogue: 0,0:18:58.15,0:18:58.20,Jelzés,,0,0,0,,{\fscy100\frz0\fscx100\alpha&H00&\fs108\bord19.2\fnBerlin Sans FB HUN Demi\blur0.6\an1\i1\pos(1484.47,908.32)\c&H4F3E21&\3c&H4F3E21&}Glowing
+Dialogue: 0,0:18:58.15,0:18:58.20,Jelzés,,0,0,0,,{\fscy100\frz0\fscx100\alpha&H00&\fs108\bord9.6\fnBerlin Sans FB HUN Demi\blur1\an1\i1\pos(1484.47,908.32)\c&HFFFF90&\3c&HFFFF90&}Glowing
+Dialogue: 0,0:18:58.15,0:18:58.20,Jelzés,,0,0,0,,{\fscy100\frz0\fscx100\alpha&H00&\fs108\fnBerlin Sans FB HUN Demi\blur0.6\an1\i1\pos(1484.47,908.32)\c&HFFFFFF&}Glowing
+Dialogue: 0,0:18:58.15,0:18:58.20,Jelzés,,0,0,0,,{\fscy100\frz0\fscx100\alpha&H00&\fs108\bord19.2\fnBerlin Sans FB HUN Demi\blur0.6\an1\i1\pos(1442.47,1016.32)\c&H4F3E21&\3c&H4F3E21&}Pierce
+Dialogue: 0,0:18:58.15,0:18:58.20,Jelzés,,0,0,0,,{\fscy100\frz0\fscx100\alpha&H00&\fs108\bord9.6\fnBerlin Sans FB HUN Demi\blur1\an1\i1\pos(1442.47,1016.32)\c&HFFFF90&\3c&HFFFF90&}Pierce
+Dialogue: 0,0:18:58.15,0:18:58.20,Jelzés,,0,0,0,,{\fscy100\frz0\fscx100\alpha&H00&\fs108\fnBerlin Sans FB HUN Demi\blur0.6\an1\i1\pos(1442.47,1016.32)\c&HFFFFFF&}Pierce
+Dialogue: 0,0:18:58.20,0:18:58.24,Jelzés,,0,0,0,,{\fscy100\frz0\fscx100\alpha&H00&\fs108\bord19.2\fnBerlin Sans FB HUN Demi\blur0.6\an1\i1\pos(1469.3,886.14)\c&H2E2316&\3c&H2E2316&}Glowing
+Dialogue: 0,0:18:58.20,0:18:58.24,Jelzés,,0,0,0,,{\fscy100\frz0\fscx100\alpha&H00&\fs108\bord9.6\fnBerlin Sans FB HUN Demi\blur0.6\an1\i1\pos(1469.3,886.14)\c&HFFFF90&\3c&HFFFF90&}Glowing
+Dialogue: 0,0:18:58.20,0:18:58.24,Jelzés,,0,0,0,,{\fscy100\frz0\fscx100\alpha&H00&\fs108\fnBerlin Sans FB HUN Demi\blur0.6\an1\i1\pos(1469.3,886.14)\c&HFFFFFF&}Glowing
+Dialogue: 0,0:18:58.20,0:18:58.24,Jelzés,,0,0,0,,{\fscy100\frz0\fscx100\alpha&H00&\fs108\bord19.2\fnBerlin Sans FB HUN Demi\blur0.6\an1\i1\pos(1427.3,994.14)\c&H2E2316&\3c&H2E2316&}Pierce
+Dialogue: 0,0:18:58.20,0:18:58.24,Jelzés,,0,0,0,,{\fscy100\frz0\fscx100\alpha&H00&\fs108\bord9.6\fnBerlin Sans FB HUN Demi\blur0.6\an1\i1\pos(1427.3,994.14)\c&HFFFF90&\3c&HFFFF90&}Pierce
+Dialogue: 0,0:18:58.20,0:18:58.24,Jelzés,,0,0,0,,{\fscy100\frz0\fscx100\alpha&H00&\fs108\fnBerlin Sans FB HUN Demi\blur0.6\an1\i1\pos(1427.3,994.14)\c&HFFFFFF&}Pierce
+Dialogue: 0,0:18:58.24,0:18:58.28,Jelzés,,0,0,0,,{\fscy100\frz0\fscx100\alpha&H00&\fs108\bord19.2\fnBerlin Sans FB HUN Demi\blur0.6\an1\i1\pos(1474,884)\c&H352F1B&\3c&H352F1B&}Glowing
+Dialogue: 0,0:18:58.24,0:18:58.28,Jelzés,,0,0,0,,{\fscy100\frz0\fscx100\alpha&H00&\fs108\bord9.6\fnBerlin Sans FB HUN Demi\blur0.6\an1\i1\pos(1474,884)\c&HFFFFB2&\3c&HFFFFB2&}Glowing
+Dialogue: 0,0:18:58.24,0:18:58.28,Jelzés,,0,0,0,,{\fscy100\frz0\fscx100\alpha&H00&\fs108\fnBerlin Sans FB HUN Demi\blur0.6\an1\i1\pos(1474,884)\c&HFEFFD1&}Glowing
+Dialogue: 0,0:18:58.24,0:18:58.28,Jelzés,,0,0,0,,{\fscy100\frz0\fscx100\alpha&H00&\fs108\bord19.2\fnBerlin Sans FB HUN Demi\blur0.6\an1\i1\pos(1432,992)\c&H352F1B&\3c&H352F1B&}Pierce
+Dialogue: 0,0:18:58.24,0:18:58.28,Jelzés,,0,0,0,,{\fscy100\frz0\fscx100\alpha&H00&\fs108\bord9.6\fnBerlin Sans FB HUN Demi\blur0.6\an1\i1\pos(1432,992)\c&HFFFFB2&\3c&HFFFFB2&}Pierce
+Dialogue: 0,0:18:58.24,0:18:58.28,Jelzés,,0,0,0,,{\fscy100\frz0\fscx100\alpha&H00&\fs108\fnBerlin Sans FB HUN Demi\blur0.6\an1\i1\pos(1432,992)\c&HFEFFD1&}Pierce
+Dialogue: 0,0:18:58.28,0:18:58.32,Jelzés,,0,0,0,,{\fscy100\frz0\fscx100\alpha&H00&\fs108\bord19.2\fnBerlin Sans FB HUN Demi\blur0.6\an1\i1\pos(1474,884)\c&H1B1C19&\3c&H1B1C19&}Glowing
+Dialogue: 0,0:18:58.28,0:18:58.32,Jelzés,,0,0,0,,{\fscy100\frz0\fscx100\alpha&H00&\fs108\bord9.6\fnBerlin Sans FB HUN Demi\blur0.6\an1\i1\pos(1474,884)\c&HFFFED4&\3c&HFFFED4&}Glowing
+Dialogue: 0,0:18:58.28,0:18:58.32,Jelzés,,0,0,0,,{\fscy100\frz0\fscx100\alpha&H00&\fs108\fnBerlin Sans FB HUN Demi\blur0.6\an1\i1\pos(1474,884)\c&HFFFE83&}Glowing
+Dialogue: 0,0:18:58.28,0:18:58.32,Jelzés,,0,0,0,,{\fscy100\frz0\fscx100\alpha&H00&\fs108\bord19.2\fnBerlin Sans FB HUN Demi\blur0.6\an1\i1\pos(1432,992)\c&H1B1C19&\3c&H1B1C19&}Pierce
+Dialogue: 0,0:18:58.28,0:18:58.32,Jelzés,,0,0,0,,{\fscy100\frz0\fscx100\alpha&H00&\fs108\bord9.6\fnBerlin Sans FB HUN Demi\blur0.6\an1\i1\pos(1432,992)\c&HFFFED4&\3c&HFFFED4&}Pierce
+Dialogue: 0,0:18:58.28,0:18:58.32,Jelzés,,0,0,0,,{\fscy100\frz0\fscx100\alpha&H00&\fs108\fnBerlin Sans FB HUN Demi\blur0.6\an1\i1\pos(1432,992)\c&HFFFE83&}Pierce
+Dialogue: 0,0:18:58.32,0:19:00.37,Jelzés,,0,0,0,,{\fad(0,250)\fscy100\frz0\fscx100\alpha&H00&\fs108\bord19.2\fnBerlin Sans FB HUN Demi\blur0.6\an1\i1\pos(1474,884)\c&H1B1C19&\3c&H1B1C19&}Glowing
+Dialogue: 0,0:18:58.32,0:19:00.37,Jelzés,,0,0,0,,{\fad(0,250)\fscy100\frz0\fscx100\alpha&H00&\fs108\bord9.6\fnBerlin Sans FB HUN Demi\blur0.6\an1\i1\pos(1474,884)\c&HFEFFFF&\3c&HFEFFFF&}Glowing
+Dialogue: 0,0:18:58.32,0:19:00.37,Jelzés,,0,0,0,,{\fad(0,250)\fscy100\frz0\fscx100\alpha&H00&\fs108\fnBerlin Sans FB HUN Demi\blur0.6\an1\i1\pos(1474,884)\c&HFFB528&}Glowing
+Dialogue: 0,0:18:58.32,0:19:00.37,Jelzés,,0,0,0,,{\fad(0,250)\fscy100\frz0\fscx100\alpha&H00&\fs108\bord19.2\fnBerlin Sans FB HUN Demi\blur0.6\an1\i1\pos(1432,992)\c&H1B1C19&\3c&H1B1C19&}Pierce
+Dialogue: 0,0:18:58.32,0:19:00.37,Jelzés,,0,0,0,,{\fad(0,250)\fscy100\frz0\fscx100\alpha&H00&\fs108\bord9.6\fnBerlin Sans FB HUN Demi\blur0.6\an1\i1\pos(1432,992)\c&HFEFFFF&\3c&HFEFFFF&}Pierce
+Dialogue: 0,0:18:58.32,0:19:00.37,Jelzés,,0,0,0,,{\fad(0,250)\fscy100\frz0\fscx100\alpha&H00&\fs108\fnBerlin Sans FB HUN Demi\blur0.6\an1\i1\pos(1432,992)\c&HFFB528&}Pierce
 Dialogue: 0,0:00:42.36,0:00:43.73,OP3,,0,0,0,,{\fad(200,200)}The end of eternity
 Dialogue: 0,0:00:43.73,0:00:45.28,OP3,,0,0,0,,{\fad(200,200)}It's danger, danger
 Dialogue: 0,0:00:45.28,0:00:47.32,OP3,,0,0,0,,{\fad(200,0)}The dots and lines connect, they linger
