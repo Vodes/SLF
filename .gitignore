@@ -5,3 +5,5 @@ _workdir/
 *.m4a
 premux/
 muxed/
+mini-premux/
+run_mini*
