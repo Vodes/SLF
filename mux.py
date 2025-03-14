@@ -29,7 +29,7 @@ setup = Setup(
     show_name="Shangri-La Frontier",
     out_name=R"$show$ - S01E$ep$ (BD 1080p HEVC) [Vodes]",
     mkv_title_naming=R"$show$ - S01E$ep$ - $title$",
-    out_dir="muxed",
+    out_dir="Shangri-La Frontier S01 (BD 1080p HEVC) [Dual-Audio] [Vodes]",
     clean_work_dirs=False,
 )
 ep = setup.episode
@@ -90,6 +90,23 @@ elif ep == "13":
 
 mux(
     Premux(premux, mkvmerge_args="--no-global-tags" if ep != "13" else "--no-global-tags --no-chapters"), eng_amzn, ger_amzn,
+    eng_full.to_track("English [Crunchyroll modified]", "en", True, False),
+    eng_full_sunraku.to_track("English [Sunraku]", "en", False, False),
+    eng_signs_only.to_track("English Signs/Songs", "en", False, True),
+    ger_full.to_track("German [Crunchyroll]", "de", True, False),
+    ger_signs.to_track("German Signs/Songs", "de", False, True),
+    *fonts,
+    tmdb=TmdbConfig(205050, 1, order=TMDBOrder.PRODUCTION)
+)
+
+setup.edit("out_dir", "Shangri-La Frontier S01 (BD 1080p AV1) [Dual-Audio] [MiniVodes]")
+setup.edit("out_name", "$show$ - S01E$ep$ (BD 1080p AV1) [MiniVodes]")
+
+if ep in ["01", "13"]:
+    fonts = fonts[:-1]
+
+mux(
+    Premux(f"./mini-premux/Shangri-La Frontier - S01E{ep} (mini-premux).mkv"),
     eng_full.to_track("English [Crunchyroll modified]", "en", True, False),
     eng_full_sunraku.to_track("English [Sunraku]", "en", False, False),
     eng_signs_only.to_track("English Signs/Songs", "en", False, True),
