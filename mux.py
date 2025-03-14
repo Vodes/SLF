@@ -101,12 +101,13 @@ mux(
 
 setup.edit("out_dir", "Shangri-La Frontier S01 (BD 1080p AV1) [Dual-Audio] [MiniVodes]")
 setup.edit("out_name", "$show$ - S01E$ep$ (BD 1080p AV1) [MiniVodes]")
+setup.edit("clean_work_dirs", True)
 
 if ep in ["01", "13"]:
     fonts = fonts[:-1]
 
 mux(
-    Premux(f"./mini-premux/Shangri-La Frontier - S01E{ep} (mini-premux).mkv"),
+    Premux(f"./mini-premux/Shangri-La Frontier - S01E{ep} (mini-premux).mkv", mkvmerge_args=["--no-global-tags", "--language", "2:en", "--language", "3:de"]),
     eng_full.to_track("English [Crunchyroll modified]", "en", True, False),
     eng_full_sunraku.to_track("English [Sunraku]", "en", False, False),
     eng_signs_only.to_track("English Signs/Songs", "en", False, True),
