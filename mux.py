@@ -108,9 +108,9 @@ if ep in ["01", "13"]:
 
 mux(
     Premux(f"./mini-premux/Shangri-La Frontier - S01E{ep} (mini-premux).mkv", mkvmerge_args=["--no-global-tags", "--language", "2:en", "--language", "3:de"]),
-    eng_full.to_track("English [Crunchyroll modified]", "en", True, False),
-    eng_full_sunraku.to_track("English [Sunraku]", "en", False, False),
-    eng_signs_only.to_track("English Signs/Songs", "en", False, True),
+    eng_full.to_track("English [Crunchyroll modified]", "en", True, False, args=["--compression", "0:zlib"]),
+    eng_full_sunraku.to_track("English [Sunraku]", "en", False, False, args=["--compression", "0:zlib"]),
+    eng_signs_only.to_track("English Signs/Songs", "en", False, True, args=["--compression", "0:zlib"]),
     ger_full.to_track("German [Crunchyroll]", "de", True, False),
     ger_signs.to_track("German Signs/Songs", "de", False, True),
     *fonts,
